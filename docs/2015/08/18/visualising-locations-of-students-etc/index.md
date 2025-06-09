@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bad
 - netgl
-date: 2015-08-18 16:40:40+10:00
+comments: []
+date: 2015-08-18 06:40:40
 next:
   text: github and the Moodle - Step 3
   url: /blog/2015/08/20/github-and-the-moodle-step-3/
+pingbacks:
+- approved: '1'
+  author: Refining a visualisation | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.14
+  author_url: https://davidtjones.wordpress.com/2015/08/21/refining-a-visualisation/
+  content: '[&#8230;] to refine the visualisation of students by postcodes started
+    earlier this week. Have another set of data to work [&#8230;]'
+  date: '2015-08-21 13:36:45'
+  date_gmt: '2015-08-21 03:36:45'
+  id: '1395'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Why should a teacher know how to code?
   url: /blog/2015/08/18/the-role-of-coding-in-learning-and-teaching/
+template: blog-post.html
 title: Visualising locations of students etc
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Refining a visualisation | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.14
-      author_url: https://davidtjones.wordpress.com/2015/08/21/refining-a-visualisation/
-      content: '[&#8230;] to refine the visualisation of students by postcodes started
-        earlier this week. Have another set of data to work [&#8230;]'
-      date: '2015-08-21 13:36:45'
-      date_gmt: '2015-08-21 03:36:45'
-      id: '1395'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I've been set a task (asked nicely really) by my Head of School if it is possible to produce a map that will allow all and sundry to see the geographic spread of our students.
 

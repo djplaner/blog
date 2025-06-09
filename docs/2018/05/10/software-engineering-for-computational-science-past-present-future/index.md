@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - 4paths
 - bricolage
 - casa
-date: 2018-05-10 10:50:38+10:00
+date: 2018-05-10 00:50:38
 next:
   text: Random meandering notes on "digital" and the fourth industrial revolution
   url: /blog/2018/05/26/random-meandering-notes-on-digital-and-the-fourth-industrial-revolution/
 previous:
   text: Repository - differences between Open Source and OER and implications
   url: /blog/2018/04/19/repository-differences-between-open-source-and-oer-and-implications/
+template: blog-post.html
 title: '"Software engineering for computational science : past, present, future"'
 type: post
-template: blog-post.html
 ---
 Following is a summary of [Johanson and Hasselbring (2018)](https://ieeexplore.ieee.org/abstract/document/8254315/) and an exploration of what, if anything, it might suggest for learning design and learning analytics. Johanson and Hasselbring (2018) explore why scientists whom have been developing software to do science (computational science) haven't been using principles and practices from software engineering to develop this software. The idea is that such an understanding will help frame advice for how computational science can be improved through application of appropriate software engineering practice (\*\*assumption\*\*).
 
@@ -69,7 +69,7 @@ But perhaps a more interesting question might be whether or not it is assumed th
 
 Johanson and Hasselbring (2018) include the following figure as a representation of how scientific software is developed. They note its connections with agile software development, but also describe how computational scientists find even the light weight discipline of agile software development as not a good fit.
 
-[![Model of Scientific Software Development](images/28133964008_2ae6691ef4_z.jpg)](https://www.flickr.com/photos/david_jones/28133964008/in/dateposted-public/ "Model of Scientific Software Development")
+[![Model of Scientific Software Development](https://djon.es/assets/blog/2018/05/10/software-engineering-for-computational-science-past-present-future/images/28133964008_2ae6691ef4_z.jpg)](https://www.flickr.com/photos/david_jones/28133964008/in/dateposted-public/ "Model of Scientific Software Development")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Anecdotally, I'd suggest that the above representation would offer a good description of much of the "learning design" undertaken in universities. Though with some replacements (e.g. "develop piece of software" replaced with "develop learning resource/experience/event").

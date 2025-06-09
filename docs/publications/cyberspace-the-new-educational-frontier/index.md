@@ -1,8 +1,8 @@
----
-date: 2009-01-02 23:37:12+10:00
+﻿---
+date: 2009-01-02 13:37:12
+template: blog-post.html
 title: '"Cyberspace: The new educational frontier"'
 type: page
-template: blog-post.html
 ---
 Rex Boggs, David Jones. Cyberspace: The New Educational Frontier., Queensland Society for Information Technology in Education (QSITE) conference, Rockhampton, April, 1994.
 
@@ -153,11 +153,11 @@ WWW presents you with a series of pages that can contain text, icons and picture
 
 WWW allows you to access almost all of the information sources on the Internet. The fact that use of WWW has increased by 360 000% in the last year demonstrates its usefulness!
 
-[![The AskERIC Gopher Interface - circa 1994](images/3158476659_598b728d5a.jpg)](http://www.flickr.com/photos/david_jones/3158476659/ "The AskERIC Gopher Interface - circa 1994 by David T Jones, on Flickr")
+[![The AskERIC Gopher Interface - circa 1994](https://djon.es/assets/blog/publications/cyberspace-the-new-educational-frontier/images/3158476659_598b728d5a.jpg)](http://www.flickr.com/photos/david_jones/3158476659/ "The AskERIC Gopher Interface - circa 1994 by David T Jones, on Flickr")
 
 Figure 2 - The AskERIC Gopher Menu.
 
-[![Windows-based Netscape browser - circa 1994](images/3159310346_fed77ab5a5_m.jpg)](http://www.flickr.com/photos/david_jones/3159310346/ "Windows-based Netscape browser - circa 1994 by David T Jones, on Flickr")
+[![Windows-based Netscape browser - circa 1994](https://djon.es/assets/blog/publications/cyberspace-the-new-educational-frontier/images/3159310346_fed77ab5a5_m.jpg)](http://www.flickr.com/photos/david_jones/3159310346/ "Windows-based Netscape browser - circa 1994 by David T Jones, on Flickr")
 
 Figure 3 - A Windows based WWW Client called Netscape.
 

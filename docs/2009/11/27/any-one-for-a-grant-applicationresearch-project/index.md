@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - indicators
-date: 2009-11-27 15:36:25+10:00
+date: 2009-11-27 05:36:25
 next:
   text: What am I doing?
   url: /blog/2009/12/01/what-am-i-doing/
 previous:
   text: Reflections on asw2a
   url: /blog/2009/11/24/reflections-on-asw2a/
+template: blog-post.html
 title: Any one for a grant application/research project?
 type: post
-template: blog-post.html
 ---
 The [Excellence in Research for Australia (ERA) Initiative](http://www.arc.gov.au/era/default.htm) combined with various [local institutional](http://www.cqu.edu.au/) and personal factors has increased the interest of some colleagues and I in biting the bullet and entering the next stage of academic development. i.e. the preparation, submission and hopefully successful receipt of applications for external funding. This post is the start of some reflections and thinking about how and what to do.
 

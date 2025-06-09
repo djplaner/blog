@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - design-theory
 - herding-cats
 - web3dx
-date: 2007-09-09 12:56:00+10:00
+date: 2007-09-09 02:56:00
 next:
   text: I'm a "uber cool high nerd"
   url: /blog/2007/09/09/im-a-uber-cool-high-nerd/
 previous:
   text: E-learning and information systems - a connection?
   url: /blog/2007/09/09/e-learning-and-information-systems-a-connection/
+template: blog-post.html
 title: IS diffusion theory research - hints for e-learning implementation
 type: post
-template: blog-post.html
 ---
 I've [previously written here](http://cq-pan.cqu.edu.au/david-jones/blog/?p=130) about the value I believe which diffusion theory brings to helping understand, design and support the implementation of e-learning within a university context.
 

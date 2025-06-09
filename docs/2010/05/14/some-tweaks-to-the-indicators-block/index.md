@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - indicators
-date: 2010-05-14 16:51:28+10:00
+comments: []
+date: 2010-05-14 06:51:28
 next:
   text: Is there more to communities of practice?
   url: /blog/2010/05/16/is-there-more-to-communities-of-practice/
+pingbacks:
+- approved: '1'
+  author: Moodle Block Development &laquo; Col&#039;s Weblog
+  author_email: null
+  author_ip: 66.135.48.157
+  author_url: http://beerc.wordpress.com/2010/05/14/moodle-block-development/
+  content: '[...] Block&nbsp;Development This is a quick response to David&#8217;s
+    post today. We are endeavoring to collaborate on the development of a Moodle block.
+    A more detailed [...]'
+  date: '2010-05-14 19:33:44'
+  date_gmt: '2010-05-14 09:33:44'
+  id: '3048'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Qualms about the alignment project
   url: /blog/2010/05/14/qualms-about-the-alignment-project/
+template: blog-post.html
 title: Some tweaks to the indicators block
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Moodle Block Development &laquo; Col&#039;s Weblog
-      author_email: null
-      author_ip: 66.135.48.157
-      author_url: http://beerc.wordpress.com/2010/05/14/moodle-block-development/
-      content: '[...] Block&nbsp;Development This is a quick response to David&#8217;s
-        post today. We are endeavoring to collaborate on the development of a Moodle block.
-        A more detailed [...]'
-      date: '2010-05-14 19:33:44'
-      date_gmt: '2010-05-14 09:33:44'
-      id: '3048'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Yesterday's [post](/blog/2010/05/13/getting-started-with-cols-indicators-block/) introduced Col's initial work on the indicators block. This post reports on some minor tweaks I've been doing this afternoon, trying to find escape in something concrete.
 

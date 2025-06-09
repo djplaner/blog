@@ -1,45 +1,42 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-08-08 21:39:36+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.32.86
+  author_url: http://www.vrbones.com
+  content: "<blockquote>Amongst the signi\uFB01cant \uFB01ndings are that females\
+    \ are more concerned than males with interpersonal communication, the development\
+    \ of people-skills and the people side of ICT. Implications for the ICT curriculum\
+    \ are that it should have more than a narrow male-centred technological focus\
+    \ and include the involvement of people and the e\uFB00ects of ICT on society\
+    \ in general.</blockquote>\nAs an aside, I've noticed that even though the DDE\
+    \ cycle is littered throughout the curriculum, there's almost no acknowledgement\
+    \ that you are going to be almost exclusively working with / for a client. Most\
+    \ of my curriculum changes from 7's right through to 12's has been finding real\
+    \ clients for the students to extract their project from."
+  date: '2011-08-18 20:12:33'
+  date_gmt: '2011-08-18 10:12:33'
+  id: '120'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-08-08 11:39:36
 next:
   text: Gamification by camouflage - fads and higher ed
   url: /blog/2011/08/09/gamification-by-camouflage-fads-and-higher-ed/
+pingbacks: []
 previous:
   text: What is important when testing students?
   url: /blog/2011/08/08/what-is-important-when-testing-students/
 tags:
 - computer-science-education
 - ipt
+template: blog-post.html
 title: Some literature on perceptions of IPT and IT/CS courses
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.32.86
-      author_url: http://www.vrbones.com
-      content: "<blockquote>Amongst the signi\uFB01cant \uFB01ndings are that females\
-        \ are more concerned than males with interpersonal communication, the development\
-        \ of people-skills and the people side of ICT. Implications for the ICT curriculum\
-        \ are that it should have more than a narrow male-centred technological focus\
-        \ and include the involvement of people and the e\uFB00ects of ICT on society\
-        \ in general.</blockquote>\nAs an aside, I've noticed that even though the DDE\
-        \ cycle is littered throughout the curriculum, there's almost no acknowledgement\
-        \ that you are going to be almost exclusively working with / for a client. Most\
-        \ of my curriculum changes from 7's right through to 12's has been finding real\
-        \ clients for the students to extract their project from."
-      date: '2011-08-18 20:12:33'
-      date_gmt: '2011-08-18 10:12:33'
-      id: '120'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Following up on my [previous suggestion](/blog/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/) that High-school classes in information technology may be turning students off IT, I decided to do a quick literature search to see what was out there. Ain't procrastination grand. Here's what I found. I haven't had a chance to read them, back to the assignment.
 

@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - elearning
 - ple
 - plescquni
 - voicethreadresearchposters
-date: 2008-08-11 22:07:02+10:00
+date: 2008-08-11 12:07:02
 next:
   text: PLE drivers being considered in the corporate IT world?
   url: /blog/2008/08/13/ple-drivers-being-considered-in-the-corporate-it-world/
 previous:
   text: Voice Thread for Research Posters
   url: /blog/2008/08/11/voice-thread-for-research-posters/
+template: blog-post.html
 title: Creating a voice thread presentation
 type: post
-template: blog-post.html
 ---
 The following is step 2 in getting organised for a trial of [VoiceThread](http://voicethread.com/) as part of the [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni). The background was given in a [previous post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=197).
 

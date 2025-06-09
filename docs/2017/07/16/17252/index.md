@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - edu8702
-date: 2017-07-16 14:14:36+10:00
+date: 2017-07-16 04:14:36
 next:
   text: Further developing research workflow
   url: /blog/2017/09/23/further-developing-research-workflow/
 previous:
   text: My current context and some initial issues
   url: /blog/2017/07/09/my-current-context-and-some-initial-issues/
+template: blog-post.html
 title: What's changed in academic staff development?
 type: post
-template: blog-post.html
 ---
 The following is my initial response to [this exercise](http://usqstudydesk.usq.edu.au/m2/mod/book/view.php?id=806144) from the week 3 learning path. It's an exercise intended to get folk thinking about what practices, if any, have emerged in their disciplinary teaching context from when they were undergraduates until now. It asks them to consider some of the emerging practices mentioned in the Horizon and New Generation Pedagogy reports. It also asks them to consider if any of them are visible in "good practice" within the discipline.
 

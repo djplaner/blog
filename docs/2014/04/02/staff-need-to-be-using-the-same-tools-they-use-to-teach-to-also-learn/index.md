@@ -1,68 +1,65 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
-date: 2014-04-02 17:19:41+10:00
+comments:
+- approved: '1'
+  author: Peter
+  author_email: palbion@me.com
+  author_ip: 123.211.144.2
+  author_url: http://pamatravel.wordpress.com
+  content: 'I agree with your reservations about staff learning with an LMS but I''m
+    not sure that invalidates the original statement. Perhaps we need to look at it
+    from the other direction. Staff do need to be learning with the same tools they
+    use to teach but we get that wrong if we assume that the appropriate tool set
+    is the one they are provided for teaching. The appropriate tool set is more likely
+    the one they chose for learning and they should be able to use that for teaching.
+    Perhaps we need to turn it around: "Staff need to be using the same tools they
+    use to learn to also teach."'
+  date: '2014-04-02 23:22:29'
+  date_gmt: '2014-04-02 13:22:29'
+  id: '977'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.32
+  author_url: https://djon.es/blog/
+  content: 'Your last point is where I was leading to with the above.  Rather than
+    starting with the institutional tools as the basis for how staff should learn,
+    the institution/staff/students should be starting with the tools that people use
+    to learn as the basis for what they use to teach.
+
+
+    There was a phrase for this back in early days of educational computing when there
+    were special Word processors etc for education.  I need to pull that out of the
+    archives, I think the LMS world is in danger of going the same way with learning
+    tools'
+  date: '2014-04-03 08:01:30'
+  date_gmt: '2014-04-02 22:01:30'
+  id: '978'
+  parent: '977'
+  type: comment
+  user_id: '1'
+date: 2014-04-02 07:19:41
 next:
   text: Designing for situation awareness in a complex system
   url: /blog/2014/04/18/designing-for-situation-awareness-in-a-complex-system/
+pingbacks: []
 previous:
   text: BIM and BAD
   url: /blog/2014/03/31/bim-and-bad/
+template: blog-post.html
 title: Staff need to be using the same tools they use to teach to also learn
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Peter
-      author_email: palbion@me.com
-      author_ip: 123.211.144.2
-      author_url: http://pamatravel.wordpress.com
-      content: 'I agree with your reservations about staff learning with an LMS but I''m
-        not sure that invalidates the original statement. Perhaps we need to look at it
-        from the other direction. Staff do need to be learning with the same tools they
-        use to teach but we get that wrong if we assume that the appropriate tool set
-        is the one they are provided for teaching. The appropriate tool set is more likely
-        the one they chose for learning and they should be able to use that for teaching.
-        Perhaps we need to turn it around: "Staff need to be using the same tools they
-        use to learn to also teach."'
-      date: '2014-04-02 23:22:29'
-      date_gmt: '2014-04-02 13:22:29'
-      id: '977'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.32
-      author_url: https://djon.es/blog/
-      content: 'Your last point is where I was leading to with the above.  Rather than
-        starting with the institutional tools as the basis for how staff should learn,
-        the institution/staff/students should be starting with the tools that people use
-        to learn as the basis for what they use to teach.
-    
-    
-        There was a phrase for this back in early days of educational computing when there
-        were special Word processors etc for education.  I need to pull that out of the
-        archives, I think the LMS world is in danger of going the same way with learning
-        tools'
-      date: '2014-04-03 08:01:30'
-      date_gmt: '2014-04-02 22:01:30'
-      id: '978'
-      parent: '977'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The title of this post is from a presentation by someone at a University responsible for the institutional e-learning systems. It doesn't matter which university because I imagine it's a line that has been used at quite a few of them. It does matter that I think it's completely wrong-headed and illustrates perfectly the problem with institutional e-learning systems and the processes and people that support them.
 
 They are designed to ensure people use the provided systems, rather than what's best for learning.
 
-[![philosophy by erix!, on Flickr](images/5762736694_0a4f9d8b5b_m.jpg)](http://www.flickr.com/photos/erix/5762736694/) [![Creative Commons Attribution 2.0 Generic License](images/80x15.png "Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)  by  [](http://www.flickr.com/people/erix/)[erix!](http://www.flickr.com/people/erix/) [](http://www.imagecodr.org/)
+[![philosophy by erix!, on Flickr](https://djon.es/assets/blog/2014/04/02/staff-need-to-be-using-the-same-tools-they-use-to-teach-to-also-learn/images/5762736694_0a4f9d8b5b_m.jpg)](http://www.flickr.com/photos/erix/5762736694/) [![Creative Commons Attribution 2.0 Generic License](https://djon.es/assets/blog/2014/04/02/staff-need-to-be-using-the-same-tools-they-use-to-teach-to-also-learn/images/80x15.png "Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)  by  [](http://www.flickr.com/people/erix/)[erix!](http://www.flickr.com/people/erix/) [](http://www.imagecodr.org/)
 
 ### They'll be better at the LMS if we use the LMS to support them
 

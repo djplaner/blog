@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -7,35 +7,32 @@ categories:
 - lmsreview
 - missingps
 - thesis
-date: 2009-01-27 09:35:45+10:00
+comments: []
+date: 2009-01-26 23:35:45
 next:
   text: The design of a 6 hour orientation to course analysis and design
   url: /blog/2009/01/28/the-design-of-a-6-hour-orientation-to-course-analysis-and-design/
+pingbacks:
+- approved: '1'
+  author: Cognition - we&#8217;re not rational and how it impacts e-learning &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/03/20/cognition-were-not-rational-and-how-it-impacts-e-learning/
+  content: '[...] written about aspects of this before and [...]'
+  date: '2009-03-20 14:07:31'
+  date_gmt: '2009-03-20 04:07:31'
+  id: '2091'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'The &quot;dominant&quot; assumptions underlying university-based e-learning:
     an introduction'
   url: /blog/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/
+template: blog-post.html
 title: Some possible reasons why comparison of information systems are broken
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Cognition - we&#8217;re not rational and how it impacts e-learning &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/03/20/cognition-were-not-rational-and-how-it-impacts-e-learning/
-      content: '[...] written about aspects of this before and [...]'
-      date: '2009-03-20 14:07:31'
-      date_gmt: '2009-03-20 04:07:31'
-      id: '2091'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 All over the place there are people in organisations performing evaluations and comparisons of competing information systems products with a strong belief that they are being rational and objective. Since the late 1990s or so, most Universities seem to be doing this every 5 or so years around learning management systems. The problem is that these processes are never rational or objective because the nature of human beings is such that they never can be (perhaps very rarely - e.g. when I'm doing it ;) ).
 

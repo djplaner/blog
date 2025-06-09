@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - eating
-date: 2009-05-27 09:42:44+10:00
+comments: []
+date: 2009-05-26 23:42:44
 next:
   text: The LMS/VLE as a one word language - metaphor and e-learning
   url: /blog/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #13 &#8211; back after a week off &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/05/phd-update-13-back-after-a-week-off/
+  content: '[...] updates I missed one last week as the missus and I went on a holiday,
+    ate some nice meals (e.g. this one), and purchased a new car. This time last week
+    I was driving the new car out of Brisbane on the way [...]'
+  date: '2009-06-05 16:24:06'
+  date_gmt: '2009-06-05 06:24:06'
+  id: '2551'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What are the conditions that are conducive to the creation of a variety of
     new ideas?
   url: /blog/2009/05/25/what-are-the-conditions-that-are-conducive-to-the-creation-of-a-variety-of-new-ideas/
+template: blog-post.html
 title: A night at Ezard
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #13 &#8211; back after a week off &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/05/phd-update-13-back-after-a-week-off/
-      content: '[...] updates I missed one last week as the missus and I went on a holiday,
-        ate some nice meals (e.g. this one), and purchased a new car. This time last week
-        I was driving the new car out of Brisbane on the way [...]'
-      date: '2009-06-05 16:24:06'
-      date_gmt: '2009-06-05 06:24:06'
-      id: '2551'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is the second in an intermittent collection of posts associated with visits to nice restaurants. This one tells the story of the visit of my wife and I to [Ezard](http://www.ezard.com.au/main.html) in Melbourne.
 
@@ -47,7 +44,7 @@ The meal started with some good crusty white bread, the house parmesan, garlic a
 
 We were then presented with a mouthful of sashimi on a spoon, and that description doesn't do it justice. A range of other spices, sauces and other bits and pieces that combined worked very well together. I am not a seafood/raw fish type of person and I enjoyed this greatly.
 
-[![Sashimi](images/3571010801_56f4b73785_m.jpg)](http://www.flickr.com/photos/david_jones/3571010801/ "Sashimi by David T Jones, on Flickr")
+[![Sashimi](https://djon.es/assets/blog/2009/05/27/a-night-at-ezard/images/3571010801_56f4b73785_m.jpg)](http://www.flickr.com/photos/david_jones/3571010801/ "Sashimi by David T Jones, on Flickr")
 
 As you might be able to tell, I couldn't remember the details nor find them on the Ezard menu (as I did with the following).
 
@@ -63,7 +60,7 @@ I started with
 
 > five spiced korubuta pork belly with celeriac and apple remoulade and mustard sauce
 
-[![Pork belly](images/3571012765_5217a66ae6_m.jpg)](http://www.flickr.com/photos/david_jones/3571012765/ "Pork belly by David T Jones, on Flickr")
+[![Pork belly](https://djon.es/assets/blog/2009/05/27/a-night-at-ezard/images/3571012765_5217a66ae6_m.jpg)](http://www.flickr.com/photos/david_jones/3571012765/ "Pork belly by David T Jones, on Flickr")
 
 As with all of the food, it was the combination of the ingredients that moved the overall experience to something greater than the sum of its parts.
 
@@ -77,7 +74,7 @@ I beat her to the punch and got the duck
 
 > roast duck with green chilli and shallot sauce, stir fried silk melon garlic shoots and rice noodle rolls
 
-[![Roast duck](images/3571012023_4ce253d2ce_m.jpg)](http://www.flickr.com/photos/david_jones/3571012023/ "Roast duck by David T Jones, on Flickr")
+[![Roast duck](https://djon.es/assets/blog/2009/05/27/a-night-at-ezard/images/3571012023_4ce253d2ce_m.jpg)](http://www.flickr.com/photos/david_jones/3571012023/ "Roast duck by David T Jones, on Flickr")
 
 Since we expected the food to be good, we went for a side as well
 
@@ -97,7 +94,7 @@ I'm not much of a dessert person so went with the ice cream
 
 > honeycrunch icecream with toasted gingerbread and sugar swirl
 
-[![Honey crunch ice-cream](images/3571820336_415ae11a03_m.jpg)](http://www.flickr.com/photos/david_jones/3571820336/ "Honey crunch ice-cream by David T Jones, on Flickr")
+[![Honey crunch ice-cream](https://djon.es/assets/blog/2009/05/27/a-night-at-ezard/images/3571820336_415ae11a03_m.jpg)](http://www.flickr.com/photos/david_jones/3571820336/ "Honey crunch ice-cream by David T Jones, on Flickr")
 
 The consensus between the wife and I was that I got the best end of the deal.
 

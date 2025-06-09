@@ -1,96 +1,93 @@
----
+﻿---
 categories:
 - enterprise-20
 - information-systems
 - thesis
-date: 2008-10-26 21:37:03+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: "[quote]Senior IT folk, as with most people, will see the problem in the\
+    \ same way they have always seen the problem. They will always seek solve it with\
+    \ solutions they\u2019ve used before, because that\u2019s the nature of the problem\
+    \ they see.[/quote]\n\nDoesn't this stem from pattern-based recognition in the\
+    \ brain? You see a set of inputs that eventually coalesce into one of your thought\
+    \ 'basins' that have been etched from previous successes. Consciously breaking\
+    \ out of this self-reinforcing system is what lateral thinking is all about, especially\
+    \ when the solution to the problem seems achievable, but not optimal due to lack\
+    \ of options."
+  date: '2008-10-27 11:18:22'
+  date_gmt: '2008-10-27 01:18:22'
+  id: '1743'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'Yes Tony, it is connected with pattern entrainment and/or the other phrases
+    I''ve been using.  Inattentional blindness, at least for me, is a potential/likely
+    end result of pattern entrainment.  The brain becomes so connected with a particular
+    pattern it can''t actually see what is there.
+
+
+    As for lateral thinking being the answer.  I suppose it can be in some cases.
+    But I''m not sure how successful it can be in other cases.  The patterns underpinning
+    some perspectives are so entrenched, so fundamental that the folk holding them
+    aren''t even aware of them.
+
+
+    You can''t change, what you don''t see.  And that includes the own internal patterns.
+
+
+    I would imagine that there would need to be a major, external push on to shift
+    perspective for something like that to change.  And the more senior/experienced
+    the person the more difficult it will be.'
+  date: '2008-10-27 12:39:27'
+  date_gmt: '2008-10-27 02:39:27'
+  id: '1744'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: "The patterns underpinning some perspectives are so entrenched, so fundamental\
+    \ that the folk holding them aren\u2019t even aware of them.\n\nThat's the perfect\
+    \ time to try lateral thinking techniques. Coming up with only one solution should\
+    \ be warning bells that you're probably missing something.  The problem though\
+    \ is that lateral thinking is more of a personal process. If upper management\
+    \ people aren't already using lateral thinking techniques then pushing in lateral\
+    \ thinking would be as hard as shifting perspective (although it would make subsequent\
+    \ shifts easier, which are guaranteed in this day and age).\n\nI would have thought\
+    \ that Unis had a higher than average proportion of lateral thinkers though. Maybe\
+    \ there's more to it? Maybe I'm stuck in a 'lateral thinking is the answer' rut.\
+    \ That would be ironic."
+  date: '2008-10-29 18:05:16'
+  date_gmt: '2008-10-29 08:05:16'
+  id: '1745'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-10-26 11:37:03
 next:
   text: The importance of diversity to improving learning and teaching
   url: /blog/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/
+pingbacks: []
 previous:
   text: A Paradigmatic Analysis of Information Systems As a Design Science
   url: /blog/2008/10/25/a-paradigmatic-analysis-of-information-systems-as-a-design-science/
 tags:
 - shadowsystems-shadow-enterprise20
+template: blog-post.html
 title: The gulf between users and IT departments
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: "[quote]Senior IT folk, as with most people, will see the problem in the\
-        \ same way they have always seen the problem. They will always seek solve it with\
-        \ solutions they\u2019ve used before, because that\u2019s the nature of the problem\
-        \ they see.[/quote]\n\nDoesn't this stem from pattern-based recognition in the\
-        \ brain? You see a set of inputs that eventually coalesce into one of your thought\
-        \ 'basins' that have been etched from previous successes. Consciously breaking\
-        \ out of this self-reinforcing system is what lateral thinking is all about, especially\
-        \ when the solution to the problem seems achievable, but not optimal due to lack\
-        \ of options."
-      date: '2008-10-27 11:18:22'
-      date_gmt: '2008-10-27 01:18:22'
-      id: '1743'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'Yes Tony, it is connected with pattern entrainment and/or the other phrases
-        I''ve been using.  Inattentional blindness, at least for me, is a potential/likely
-        end result of pattern entrainment.  The brain becomes so connected with a particular
-        pattern it can''t actually see what is there.
-    
-    
-        As for lateral thinking being the answer.  I suppose it can be in some cases.
-        But I''m not sure how successful it can be in other cases.  The patterns underpinning
-        some perspectives are so entrenched, so fundamental that the folk holding them
-        aren''t even aware of them.
-    
-    
-        You can''t change, what you don''t see.  And that includes the own internal patterns.
-    
-    
-        I would imagine that there would need to be a major, external push on to shift
-        perspective for something like that to change.  And the more senior/experienced
-        the person the more difficult it will be.'
-      date: '2008-10-27 12:39:27'
-      date_gmt: '2008-10-27 02:39:27'
-      id: '1744'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: "The patterns underpinning some perspectives are so entrenched, so fundamental\
-        \ that the folk holding them aren\u2019t even aware of them.\n\nThat's the perfect\
-        \ time to try lateral thinking techniques. Coming up with only one solution should\
-        \ be warning bells that you're probably missing something.  The problem though\
-        \ is that lateral thinking is more of a personal process. If upper management\
-        \ people aren't already using lateral thinking techniques then pushing in lateral\
-        \ thinking would be as hard as shifting perspective (although it would make subsequent\
-        \ shifts easier, which are guaranteed in this day and age).\n\nI would have thought\
-        \ that Unis had a higher than average proportion of lateral thinkers though. Maybe\
-        \ there's more to it? Maybe I'm stuck in a 'lateral thinking is the answer' rut.\
-        \ That would be ironic."
-      date: '2008-10-29 18:05:16'
-      date_gmt: '2008-10-29 08:05:16'
-      id: '1745'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Apparently [Accenture](http://accenture.com/) have discovered ["user-determined computing"](http://www.loosewireblog.com/2008/01/user-determined.html) and associated issues.
 

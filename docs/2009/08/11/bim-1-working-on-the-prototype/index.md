@@ -1,48 +1,45 @@
----
+﻿---
 categories:
 - bam
-date: 2009-08-11 11:17:24+10:00
+comments: []
+date: 2009-08-11 01:17:24
 next:
   text: '"BIM#2 - Starting the module"'
   url: /blog/2009/08/11/bim2-starting-the-module/
+pingbacks:
+- approved: '1'
+  author: BIM#2 &#8211; Starting the module &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.98
+  author_url: https://djon.es/blog/2009/08/11/bim2-starting-the-module/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BIM #1: Working on the&nbsp;prototype [...]'
+  date: '2009-08-11 15:21:16'
+  date_gmt: '2009-08-11 05:21:16'
+  id: '2708'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'eLearning and Innovation Specialist report #1: 4-20 August &laquo; The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.208
+  author_url: https://djon.es/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/
+  content: '[...] the current time period. The work during this period on BIM is summarised
+    in a series of 4 posts: 1, 2, 3, and [...]'
+  date: '2009-08-20 09:18:18'
+  date_gmt: '2009-08-19 23:18:18'
+  id: '2709'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Big Z&#039;s first progeny
   url: /blog/2009/08/11/big-zs-first-progeny/
+template: blog-post.html
 title: '"BIM #1: Working on the prototype"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM#2 &#8211; Starting the module &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.98
-      author_url: https://djon.es/blog/2009/08/11/bim2-starting-the-module/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BIM #1: Working on the&nbsp;prototype [...]'
-      date: '2009-08-11 15:21:16'
-      date_gmt: '2009-08-11 05:21:16'
-      id: '2708'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'eLearning and Innovation Specialist report #1: 4-20 August &laquo; The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.208
-      author_url: https://djon.es/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/
-      content: '[...] the current time period. The work during this period on BIM is summarised
-        in a series of 4 posts: 1, 2, 3, and [...]'
-      date: '2009-08-20 09:18:18'
-      date_gmt: '2009-08-19 23:18:18'
-      id: '2709'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Over the last few weeks I've slowly been getting into Moodle/PHP as part of need to put the [BAM project](/blog/research/bam-blog-aggregation-management/) into Moodle. I've decided today to abbreviate this project into BIM - BAM into Moodle. It'll do for now.
 

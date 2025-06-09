@@ -1,103 +1,101 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-04-07 16:08:43+10:00
+comments:
+- approved: '1'
+  author: dveness
+  author_email: deborah.veness@anu.edu.au
+  author_ip: 150.203.145.180
+  author_url: null
+  content: Ever so slightly disgusting!
+  date: '2011-04-07 16:23:39'
+  date_gmt: '2011-04-07 06:23:39'
+  id: '48'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.170.120.176
+  author_url: https://djon.es/blog/
+  content: Take the slightly out and you probably have it. :)
+  date: '2011-04-07 16:40:12'
+  date_gmt: '2011-04-07 06:40:12'
+  id: '49'
+  parent: '48'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.176.40
+  author_url: http://www.vrbones.com
+  content: As a threat, don't forget that you will be covering less maths content
+    than by-the-book teaching. Hopefully the experience is deep enough that they will
+    pick up more in the long run.
+  date: '2011-04-12 08:57:03'
+  date_gmt: '2011-04-11 22:57:03'
+  id: '52'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.176.40
+  author_url: http://www.vrbones.com
+  content: As a threat, don't forget that you will be covering less maths content
+    than by-the-book teaching. Hopefully the experience is deep enough that they will
+    pick up more in the long run, or use the experience to fuel their desire to solve
+    similar problems.
+  date: '2011-04-12 09:15:52'
+  date_gmt: '2011-04-11 23:15:52'
+  id: '53'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-04-07 06:08:43
 next:
   text: Why are we analysing ICTs for learning?
   url: /blog/2011/04/07/why-are-we-analysing-icts-for-learning/
+pingbacks:
+- approved: '1'
+  author: Why are we analysing ICTs for learning? &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 76.74.248.236
+  author_url: https://djon.es/blog/2011/04/07/why-are-we-analysing-icts-for-learning/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Group 2 Technologies: Images, Audio and&nbsp;Video [...]'
+  date: '2011-04-07 21:09:13'
+  date_gmt: '2011-04-07 11:09:13'
+  id: '50'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Mathematics and the net generation &#8211; not in textbook exercises &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.240
+  author_url: https://djon.es/blog/2011/04/08/mathematics-and-the-net-generation-not-in-textbook-exercises/
+  content: '[...] it happens I started looking in the textbook for ideas for a video.
+    In this post I was playing with What can you do with this (WCYDWT) idea from Dan
+    Meyer. That&#8217;s when I came [...]'
+  date: '2011-04-08 17:01:51'
+  date_gmt: '2011-04-08 07:01:51'
+  id: '51'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'ICTs for learning design: Group 2 Technologies - The readings'
   url: /blog/2011/04/07/icts-for-learning-design-group-2-technologies-the-readings/
+template: blog-post.html
 title: '"Group 2 Technologies: Images, Audio and Video"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: dveness
-      author_email: deborah.veness@anu.edu.au
-      author_ip: 150.203.145.180
-      author_url: null
-      content: Ever so slightly disgusting!
-      date: '2011-04-07 16:23:39'
-      date_gmt: '2011-04-07 06:23:39'
-      id: '48'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.170.120.176
-      author_url: https://djon.es/blog/
-      content: Take the slightly out and you probably have it. :)
-      date: '2011-04-07 16:40:12'
-      date_gmt: '2011-04-07 06:40:12'
-      id: '49'
-      parent: '48'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.176.40
-      author_url: http://www.vrbones.com
-      content: As a threat, don't forget that you will be covering less maths content
-        than by-the-book teaching. Hopefully the experience is deep enough that they will
-        pick up more in the long run.
-      date: '2011-04-12 08:57:03'
-      date_gmt: '2011-04-11 22:57:03'
-      id: '52'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.176.40
-      author_url: http://www.vrbones.com
-      content: As a threat, don't forget that you will be covering less maths content
-        than by-the-book teaching. Hopefully the experience is deep enough that they will
-        pick up more in the long run, or use the experience to fuel their desire to solve
-        similar problems.
-      date: '2011-04-12 09:15:52'
-      date_gmt: '2011-04-11 23:15:52'
-      id: '53'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Why are we analysing ICTs for learning? &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 76.74.248.236
-      author_url: https://djon.es/blog/2011/04/07/why-are-we-analysing-icts-for-learning/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Group 2 Technologies: Images, Audio and&nbsp;Video [...]'
-      date: '2011-04-07 21:09:13'
-      date_gmt: '2011-04-07 11:09:13'
-      id: '50'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Mathematics and the net generation &#8211; not in textbook exercises &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.240
-      author_url: https://djon.es/blog/2011/04/08/mathematics-and-the-net-generation-not-in-textbook-exercises/
-      content: '[...] it happens I started looking in the textbook for ideas for a video.
-        In this post I was playing with What can you do with this (WCYDWT) idea from Dan
-        Meyer. That&#8217;s when I came [...]'
-      date: '2011-04-08 17:01:51'
-      date_gmt: '2011-04-08 07:01:51'
-      id: '51'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Following on from the last post, this one reports on the experimentation with a collection of technologies that fall under the category of Group 2. We're meant to play with these technologies and then select one to analyse in a little more detail. This builds on the [analysis of group 1 technologies](/blog/2011/04/06/group-1-technologies-blogs-wikis-and-websites/).
 
@@ -111,7 +109,7 @@ In terms of images I have favourited (you can see the full list of favourites [h
 
 Other images arise from screen shots of various technologies, and have often included sensitive information that needs to be blurred out. For example, the following image that was part of a description of creating an OPML feed for the ICTs course. The names/URLs for individual student blogs were "blurred" out as I didn't have permission to release these. This was done in a free Mac image manipulation application called [Seashore](http://seashore.sourceforge.net/The_Seashore_Project/About.html) which is based on the GIMP, but brought into the Mac interface a bit more.
 
-[![NetNewsWire and the EDED20491 feeds](images/5587355582_21bc0847bf_m.jpg)](http://www.flickr.com/photos/david_jones/5587355582/ "NetNewsWire and the EDED20491 feeds by David T Jones, on Flickr")
+[![NetNewsWire and the EDED20491 feeds](https://djon.es/assets/blog/2011/04/07/group-2-technologies-images-audio-and-video/images/5587355582_21bc0847bf_m.jpg)](http://www.flickr.com/photos/david_jones/5587355582/ "NetNewsWire and the EDED20491 feeds by David T Jones, on Flickr")
 
 Flickr is much more than a place to store photos. It has good features to support groups and interactions, many of which are used for set tasks. These could be adopted for assignments. There is also a range of tools that have been built on top of the Flickr API (application programming interface). One example is [Mosaickr](http://mosaickr.com/), which takes a large number of images and puts them together into a mosaic that resembles another master image.
 
@@ -143,7 +141,7 @@ One of the applications of digital video to teaching mathematics which I'm inter
 
 _Aside:_ In googling the "What can you do with this" site, I came across the following video (language warning) called "Can you do this?". In the video the presenter shows off her "double jointed" party tricks. Towards the end she asks people to respond to her video and show their strange party tricks. It looks like there are [333 responses](http://www.youtube.com/video_response_view_all?v=Rma-ijjipWI). It's a fairly extreme example, but it is perhaps one application that could be used in a class to break the ice and/or highlight the diversity/hidden talents in the class. Might also be a good "real" task for the students to use to get familiar with shooting, manipulating, and uploading digital video.
 
-\[youtube=http://www.youtube.com/watch?v=Rma-ijjipWI\]
+!!! warning "Video no longer available"
 
 If I were to do mine, it would be [touching my nose with my tounge](http://www.wikihow.com/Touch-Your-Nose-With-Your-Tongue). Of course, my sense of dignity will likely prevent me from doing it, which is probably one of the drawbacks of using this in a class setting.
 
@@ -151,7 +149,7 @@ Returning to "What can you do with this?" (WCYDWT), it's a design strategy that 
 
 It works on the assumption that you want to pose to the students a real problem, one illustrated by a video or some other multimedia resource. In [this example](http://blogs.triplealearning.com/2011/02/diploma/dp-maths/geogebra/) the students take the video themselves using their phones. The following is an example of how a commercial from Subaru can be used.
 
-\[youtube=http://www.youtube.com/watch?v=zR3X9hJpbDo\]
+!!! warning "Video no longer available"
 
 The students are then asked what questions they have about the video/multimedia.
 
@@ -178,7 +176,7 @@ For this analysis I'm going to try a slight modification. SWOT analysis has for 
 
 If you got this far, consider the following video proof that I can touch my nose with my tongue as your reward.
 
-http://vimeo.com/22064575
+!!! warning "Video no longer available"
 
 The process for the video, on the Mac laptop
 

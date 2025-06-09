@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bam
-date: 2006-07-31 16:04:54+10:00
+date: 2006-07-31 06:04:54
 next:
   text: Including Dojo in pages
   url: /blog/2006/08/01/including-dojo-in-pages/
 previous:
   text: Further issues with BamRegistration
   url: /blog/2006/07/31/further-issues-with-bamregistration/
+template: blog-post.html
 title: Information literacy skills causing problems with BAM
 type: post
-template: blog-post.html
 ---
 The "Gantt chart" question in week 3 has caused students some problems.
 

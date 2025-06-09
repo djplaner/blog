@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - elearning
-date: 2010-09-14 09:56:37+10:00
+date: 2010-09-13 23:56:37
 next:
   text: Principles of form and function
   url: /blog/2010/09/15/principles-of-form-and-function/
 previous:
   text: How strict a blueprint do ISDTs provide?
   url: /blog/2010/09/13/how-strict-a-blueprint-do-isdts-provide/
+template: blog-post.html
 title: Portfolios often implemented poorly
 type: post
-template: blog-post.html
 ---
 I'm slowly reading through [How people learn](http://www.nap.edu/openbook.php?record_id=6160) and thinking about how it applies to my own practice and what I see within higher education. This post arises from this paragraph
 

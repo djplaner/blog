@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - missingps
-date: 2006-10-19 14:03:34+10:00
+date: 2006-10-19 04:03:34
 next:
   text: The missing Ps - Perception
   url: /blog/2006/10/19/the-missing-ps-perception/
 previous:
   text: The Missing Ps are a waste of time
   url: /blog/2006/10/19/the-missing-ps-are-a-waste-of-time/
+template: blog-post.html
 title: The missing P - Product
 type: post
-template: blog-post.html
 ---
 [The Missing Ps framework](http://cq-pan.cqu.edu.au/david-jones/blog/?p=52) is my attempt to generate a way of identifying the flaws in the methods used by Universities to select an LMS.
 

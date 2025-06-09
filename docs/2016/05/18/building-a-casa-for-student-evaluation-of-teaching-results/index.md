@@ -1,23 +1,23 @@
----
+﻿---
 categories:
 - bad
 - casa
-date: 2016-05-18 09:09:52+10:00
+date: 2016-05-17 23:09:52
 next:
   text: Automating a SET leaderboard
   url: /blog/2016/05/23/automating-a-set-leaderboard/
 previous:
   text: Organizing for Innovation in the Digitized world
   url: /blog/2016/05/16/organizing-for-innovation-in-the-digitized-world/
+template: blog-post.html
 title: Building a CASA for student evaluation of teaching results
 type: post
-template: blog-post.html
 ---
 I have a problem with my Student Evaluation of Teaching (SET) data!
 
 No. It's not that the results are terrible. Some are good, some not so much. (see the two images in this post)
 
-[![Student comments - EDC3100](images/11955601644_11983dc7c0_n.jpg)](https://www.flickr.com/photos/david_jones/11955601644/in/album-72157629278697801/ "Student comments - EDC3100")
+[![Student comments - EDC3100](https://djon.es/assets/blog/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/images/11955601644_11983dc7c0_n.jpg)](https://www.flickr.com/photos/david_jones/11955601644/in/album-72157629278697801/ "Student comments - EDC3100")
 
 The problem is that I (and every other academic at my institution) is unable to get access to the data in a form that we can analyse. For example, back in early 2014 I manually extracted the free text comments from the SET data and [analysed them using NVIVO](/blog/2014/01/15/analysing-some-course-evaluation-comments/) to produce the graph to the right. Click on it to see a larger version. Yea, **manually**.
 
@@ -126,7 +126,7 @@ A text file is being produced that contains three sets of data in CSV file forma
 
 Time to test it by importing into Excel.  Fix up the delimiting characters and replace some others.
 
-[![Frequency of responses](images/27081296095_e0ff5aace1_n.jpg)](https://www.flickr.com/photos/david_jones/27081296095/in/dateposted-public/ "Frequency of responses")
+[![Frequency of responses](https://djon.es/assets/blog/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/images/27081296095_e0ff5aace1_n.jpg)](https://www.flickr.com/photos/david_jones/27081296095/in/dateposted-public/ "Frequency of responses")
 
 And hey presto it works. The graph to the right is the simplest example of finally being able to analyse this data directly. Of course, for the likert style questions I still don't have access to the raw data. But at the very least I can start comparing summary data from different modes and offerings of the same course. More interestingly, I can now finally easily get access to the student responses to the free text questions.
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2016-05-09 14:27:53+10:00
+date: 2016-05-09 04:27:53
 next:
   text: Testing out the Moodle search book block
   url: /blog/2016/05/10/testing-out-the-moodle-book-search/
 previous:
   text: Focus, innovation and university IT
   url: /blog/2016/04/28/focus-innovation-and-university-it/
+template: blog-post.html
 title: How does BIM allocate blog posts to prompts
 type: post
-template: blog-post.html
 ---
 The following is a response to the following query.
 

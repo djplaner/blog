@@ -1,79 +1,76 @@
----
+﻿---
 categories:
 - thesis
-date: 2012-12-01 06:40:36+10:00
+comments: []
+date: 2012-11-30 20:40:36
 next:
   text: '"#ascilite2012 technical support and the tail wagging the dog"'
   url: /blog/2012/12/02/tail-wagging-the-dog/
+pingbacks:
+- approved: '1'
+  author: 'Moving beyond a fashion: likely paths and pitfalls for learning analytics
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 76.74.255.33
+  author_url: https://djon.es/blog/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/
+  content: '[...] presentation evolved from an unsuccessful OLT grant application
+    that attempted to engage with the forgotten [...]'
+  date: '2012-12-01 06:43:19'
+  date_gmt: '2012-11-30 20:43:19'
+  id: '518'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Enabling academics to apply learning analytics to individual pedagogical
+    practice: how and with what&nbsp;impacts? | Analyse This | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/analyse-this/p/3547626682/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts
+  content: '[...] The following is an excerpt from an unsuccessful 2012 second round
+    OLT grant. We&rsquo;re currently pondering what the next step is with the idea.
+    A recent presentation at the Southern Solar Flare ...&nbsp; [...]'
+  date: '2012-12-01 11:00:12'
+  date_gmt: '2012-12-01 01:00:12'
+  id: '519'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Can/will learning analytics challenge the current QA mentality of university
+    teaching &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 69.170.134.60
+  author_url: https://djon.es/blog/2012/12/11/canwill-learning-analytics-challenge-the-current-qa-mentality-of-university-teaching/
+  content: '[...] is the approach which our failed OLT application was trying to engage
+    in. We&#8217;re thinking about going around again, if you&#8217;re interested
+    [...]'
+  date: '2012-12-11 11:31:27'
+  date_gmt: '2012-12-11 01:31:27'
+  id: '520'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Analytics for Learning and Teaching &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.19
+  author_url: https://djon.es/blog/2013/01/08/analytics-for-learning-and-teaching/
+  content: '[...] of the reasons for reading this is the current considerations around
+    reworking and resubmitting a unsuccessful OLT application around learning [...]'
+  date: '2013-01-08 15:05:16'
+  date_gmt: '2013-01-08 05:05:16'
+  id: '521'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Moving beyond a fashion: likely paths and pitfalls for learning analytics'
   url: /blog/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/
+template: blog-post.html
 title: '"Enabling academics to apply learning analytics to individual pedagogical
   practice: how and with what impacts?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Moving beyond a fashion: likely paths and pitfalls for learning analytics
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 76.74.255.33
-      author_url: https://djon.es/blog/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/
-      content: '[...] presentation evolved from an unsuccessful OLT grant application
-        that attempted to engage with the forgotten [...]'
-      date: '2012-12-01 06:43:19'
-      date_gmt: '2012-11-30 20:43:19'
-      id: '518'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Enabling academics to apply learning analytics to individual pedagogical
-        practice: how and with what&nbsp;impacts? | Analyse This | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/analyse-this/p/3547626682/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts
-      content: '[...] The following is an excerpt from an unsuccessful 2012 second round
-        OLT grant. We&rsquo;re currently pondering what the next step is with the idea.
-        A recent presentation at the Southern Solar Flare ...&nbsp; [...]'
-      date: '2012-12-01 11:00:12'
-      date_gmt: '2012-12-01 01:00:12'
-      id: '519'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Can/will learning analytics challenge the current QA mentality of university
-        teaching &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 69.170.134.60
-      author_url: https://djon.es/blog/2012/12/11/canwill-learning-analytics-challenge-the-current-qa-mentality-of-university-teaching/
-      content: '[...] is the approach which our failed OLT application was trying to engage
-        in. We&#8217;re thinking about going around again, if you&#8217;re interested
-        [...]'
-      date: '2012-12-11 11:31:27'
-      date_gmt: '2012-12-11 01:31:27'
-      id: '520'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Analytics for Learning and Teaching &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.19
-      author_url: https://djon.es/blog/2013/01/08/analytics-for-learning-and-teaching/
-      content: '[...] of the reasons for reading this is the current considerations around
-        reworking and resubmitting a unsuccessful OLT application around learning [...]'
-      date: '2013-01-08 15:05:16'
-      date_gmt: '2013-01-08 05:05:16'
-      id: '521'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an excerpt from an unsuccessful [2012 second round OLT grant](http://www.olt.gov.au/). We're currently pondering what the next step is with the idea.
 

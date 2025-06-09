@@ -1,33 +1,30 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-03-13 09:39:22+10:00
+comments:
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: WELL fine, but you cant be a draconian like usual.
+  date: '2010-03-13 09:45:31'
+  date_gmt: '2010-03-12 23:45:31'
+  id: '2963'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2010-03-12 23:39:22
 next:
   text: '"Improving L&#038;T at Universities - The emperor has no clothes"'
   url: /blog/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/
+pingbacks: []
 previous:
   text: The value of lurking - another research idea for the indicators project
   url: /blog/2010/03/12/the-value-of-lurking-another-research-idea-for-the-indicators-project/
+template: blog-post.html
 title: The conditions for Anna's phone
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: WELL fine, but you cant be a draconian like usual.
-      date: '2010-03-13 09:45:31'
-      date_gmt: '2010-03-12 23:45:31'
-      id: '2963'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The following outlines the conditions for Anna's phone.
 

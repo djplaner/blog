@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - curriculummapping-cddu
-date: 2010-04-02 10:04:43+10:00
+date: 2010-04-02 00:04:43
 next:
   text: '"PhD Update #25: A return to discipline?"'
   url: /blog/2010/04/02/phd-update-25-a-return-to-discipline/
 previous:
   text: Elevator pitch for &quot;Moodle curriculum mapping&quot;
   url: /blog/2010/04/01/elevator-pitch-for-curriculum-mapping/
+template: blog-post.html
 title: Moodle curriculum mapping - Step 3
 type: post
-template: blog-post.html
 ---
 This will be a brief extension of [previous work](/blog/2010/03/30/moodle-curriculum-mapping-step-2/) around [this project](/blog/2010/04/01/elevator-pitch-for-curriculum-mapping/). The main aim is to start identifying some of the methods used by Moodle with its current outcomes approach and how those might be harnessed and modified to support curriculum mapping. In particular, some specific questions include: What's necessary to
 

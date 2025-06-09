@@ -1,63 +1,60 @@
----
+﻿---
 categories:
 - ilecture
-date: 2012-03-04 12:12:55+10:00
+comments:
+- approved: '1'
+  author: Frank Gado
+  author_email: frankgado@gmail.com
+  author_ip: 64.222.110.14
+  author_url: http://www.facebook.com/frank.gado
+  content: You are way off. I first heard this apothegm in the early 1950's. It was
+    stated by Fulton J. Sheen, perhaps quoting Thomas Aquinas.
+  date: '2012-07-17 13:19:40'
+  date_gmt: '2012-07-17 03:19:40'
+  id: '247'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: Thanks for the further pointer. There seems to be some confirmation of
+    your recollection in versions of his auto-biography online. So, a good step closer,
+    if not there.
+  date: '2012-07-17 14:01:57'
+  date_gmt: '2012-07-17 04:01:57'
+  id: '248'
+  parent: '247'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Xavier Laurent
+  author_email: kcabeii@hotmail.com
+  author_ip: 212.219.196.69
+  author_url: http://www.facebook.com/xbruno
+  content: I am also trying to find the source of the quote "College is a place where
+    a professor's lecture notes go straight to the students' lecture notes, without
+    passing through the brains of either" attributed to Mark Twain but maybe it is
+    not ...
+  date: '2012-08-07 20:11:37'
+  date_gmt: '2012-08-07 10:11:37'
+  id: '249'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-03-04 02:12:55
 next:
   text: '"Implementing a course barometer in Moodle: A kludge"'
   url: /blog/2012/03/05/implementing-a-course-barometer-in-moodle-a-kludge/
+pingbacks: []
 previous:
   text: Moodle, blogs, feeds and the Google feed API
   url: /blog/2012/03/03/moodle-blogs-feeds-and-the-google-feed-api/
+template: blog-post.html
 title: Gilstrap, Martin and the definition of a lecture
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Frank Gado
-      author_email: frankgado@gmail.com
-      author_ip: 64.222.110.14
-      author_url: http://www.facebook.com/frank.gado
-      content: You are way off. I first heard this apothegm in the early 1950's. It was
-        stated by Fulton J. Sheen, perhaps quoting Thomas Aquinas.
-      date: '2012-07-17 13:19:40'
-      date_gmt: '2012-07-17 03:19:40'
-      id: '247'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: Thanks for the further pointer. There seems to be some confirmation of
-        your recollection in versions of his auto-biography online. So, a good step closer,
-        if not there.
-      date: '2012-07-17 14:01:57'
-      date_gmt: '2012-07-17 04:01:57'
-      id: '248'
-      parent: '247'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Xavier Laurent
-      author_email: kcabeii@hotmail.com
-      author_ip: 212.219.196.69
-      author_url: http://www.facebook.com/xbruno
-      content: I am also trying to find the source of the quote "College is a place where
-        a professor's lecture notes go straight to the students' lecture notes, without
-        passing through the brains of either" attributed to Mark Twain but maybe it is
-        not ...
-      date: '2012-08-07 20:11:37'
-      date_gmt: '2012-08-07 10:11:37'
-      id: '249'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 A couple of weeks ago, I was [reflecting on something](/blog/2012/02/17/but-does-it-have-to-be-a-lecture/) written about lectures when I paraphrased a definition/description of the lecture. I paraphrased it as
 

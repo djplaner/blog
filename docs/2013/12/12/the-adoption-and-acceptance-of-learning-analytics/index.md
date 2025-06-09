@@ -1,51 +1,48 @@
----
+﻿---
 categories:
 - elearning
 - learninganalytics-elearning
-date: 2013-12-12 16:34:39+10:00
+comments: []
+date: 2013-12-12 06:34:39
 next:
   text: '"TAM, #moodle, online assignment submission and strategic implementation"'
   url: /blog/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/
+pingbacks:
+- approved: '1'
+  author: The adoption and acceptance of learning analyti...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/kckcc-online-education-services/p/4012639322/2013/12/13/the-adoption-and-acceptance-of-learning-analytics
+  content: '[&#8230;] Much earlier this year I was invited to participate with some
+    folk much cleverer than I around the question of the adoption of learning analytics
+    and a project to explore this using the Technology ...&nbsp; [&#8230;]'
+  date: '2013-12-14 01:25:01'
+  date_gmt: '2013-12-13 15:25:01'
+  id: '915'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'TAM, #moodle, online assignment submission and strategic implementation
+    | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.83.69
+  author_url: https://djon.es/blog/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/
+  content: '[&#8230;] following is an attempt to expand upon a mention in the last
+    post about exploring one set of thoughts about why/how we might extend/reuse/build
+    upon some prior [&#8230;]'
+  date: '2013-12-24 11:39:45'
+  date_gmt: '2013-12-24 01:39:45'
+  id: '916'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Blogs, learning analytics, IRAC and BIM
   url: /blog/2013/12/12/blogs-learning-analytics-irac-and-bim/
+template: blog-post.html
 title: The adoption and acceptance of learning analytics
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The adoption and acceptance of learning analyti...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/kckcc-online-education-services/p/4012639322/2013/12/13/the-adoption-and-acceptance-of-learning-analytics
-      content: '[&#8230;] Much earlier this year I was invited to participate with some
-        folk much cleverer than I around the question of the adoption of learning analytics
-        and a project to explore this using the Technology ...&nbsp; [&#8230;]'
-      date: '2013-12-14 01:25:01'
-      date_gmt: '2013-12-13 15:25:01'
-      id: '915'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'TAM, #moodle, online assignment submission and strategic implementation
-        | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.83.69
-      author_url: https://djon.es/blog/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/
-      content: '[&#8230;] following is an attempt to expand upon a mention in the last
-        post about exploring one set of thoughts about why/how we might extend/reuse/build
-        upon some prior [&#8230;]'
-      date: '2013-12-24 11:39:45'
-      date_gmt: '2013-12-24 01:39:45'
-      id: '916'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Much earlier this year I was invited to participate with some folk much cleverer than I around the question of the adoption of learning analytics and a project to explore this using the Technology Acceptance Model (TAM). Going by the date embedded in the URL of this post, that was way back in August. It's December and I'm now trying to get back to this post to capture some of my thinking.
 

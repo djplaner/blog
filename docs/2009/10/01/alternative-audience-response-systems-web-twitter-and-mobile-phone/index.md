@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - ilecture
 - votapedia
-date: 2009-10-01 16:06:01+10:00
+date: 2009-10-01 06:06:01
 next:
   text: Herding cats and behaviour change
   url: /blog/2009/10/02/herding-cats-and-behaviour-change/
 previous:
   text: What is there to know about clickers?
   url: /blog/2009/09/30/what-is-there-to-know-about-clickers/
+template: blog-post.html
 title: Alternative audience response systems - web, twitter and mobile phone
 type: post
-template: blog-post.html
 ---
 As part of [this project](/blog/2009/09/28/small-changes-in-lectures-ustream-votapedia/) I'm looking at playing with "clickers" that work via the web, twitter, mobile phones or some other medium that removes the physical limitations of traditional devices (i.e. you have to be in the room with the lecturer).
 

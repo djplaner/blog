@@ -1,177 +1,175 @@
----
+﻿---
 categories:
 - edc3100
 - elearning
 - teaching
-date: 2013-01-11 15:20:13+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 124.189.216.206
+  author_url: http://elketeaches.wordpress.com
+  content: "Fun stuff!  The xkcd comic strip \u201CTech support cheat sheet\u201D\
+    \ is great, I must remember to use that in the future. I like that you are working\
+    \ hard to improve 3100, I wish other subjects were re-worked with so much passion!\
+    \  You've got 2 really good things going for you &amp; 3100: your own passion\
+    \ for change/learning AND your communication style with students (which I have\
+    \ learned is a very rare gift/skill in the online professor/instructor world).\
+    \  Badges are a great idea although unfortunately students still need a grade.\
+    \  The idea behind MOOC is a good way to proceed. I enjoy your posts."
+  date: '2013-01-11 15:45:47'
+  date_gmt: '2013-01-11 05:45:47'
+  id: '557'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: 'My situation is a little different form most. 3100 in 2012 was not what
+    I would have taught. My first year, so I taught what was handed to me. I certainly
+    interpreted it, but it''s not where I would have started. 2013 is a chance to
+    make it mine and then learn from it.  Am hoping the design will make it naturally
+    grow and evolve.  Time will tell.
+
+
+    Appreciate your comments on these ideas.
+
+
+    Your post on gamemaker has me intrigued. Will try to find some time to play with
+    it.'
+  date: '2013-01-11 17:09:23'
+  date_gmt: '2013-01-11 07:09:23'
+  id: '558'
+  parent: '557'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Maurice A. Barry
+  author_email: maurice.a.barry@gmail.com
+  author_ip: 47.54.195.7
+  author_url: http://mauriceabarry.wordpress.com
+  content: Might me worthwhile to explore some synchronous activities too. I work
+    in eLearning (k-12) and find that regular--required--synchronous activities are
+    essential to maintain student engagement. It's different for post secondary, of
+    course, where there is much more ownership.
+  date: '2013-01-14 00:47:11'
+  date_gmt: '2013-01-13 14:47:11'
+  id: '560'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Maurice A. Barry
+  author_email: maurice.a.barry@gmail.com
+  author_ip: 47.54.195.7
+  author_url: http://mauriceabarry.wordpress.com
+  content: Oh--and I thoroughly enjoyed reading this post. VERY insightful.
+  date: '2013-01-14 00:47:48'
+  date_gmt: '2013-01-13 14:47:48'
+  id: '561'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.80.28
+  author_url: https://djon.es/blog/
+  content: 'I agree, there seems to be something to synchronous events that many folk
+    like/expect. So, there will be synchronous activities.
+
+
+    At the least because around half the students are on-campus students and by law
+    have traditional, synchronous face-to-face sessions. We''ll mix these up, I think.
+
+
+    Also looking at replicating the common MOOC/open course practice of invited speakers
+    on selected topics. Hopefully going to nut that out over the next couple of weeks.'
+  date: '2013-01-14 08:29:01'
+  date_gmt: '2013-01-13 22:29:01'
+  id: '562'
+  parent: '560'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Maurice A. Barry
+  author_email: maurice.a.barry@gmail.com
+  author_ip: 47.54.195.7
+  author_url: http://mauriceabarry.wordpress.com
+  content: 'Here we use a combination of blackboard collaborate (used to be elluminate
+    live) and Desire2Learn to provide distance education opportunities to students
+    in over 100 rural communities. We''re 100% funded by the provincial government
+    so there''s no fees, etc. The achievement and completion rates are the same as
+    face to face. A lot of that credit goes to the synchronous--it''s not that ''lecturing''
+    over the Internet is effective. Rather it''s the case that the synchronous classes
+    bring the students and teacher together and create a community devoted to learning.
+    It also ensures that we can give the students the required ''nagging'' when needed.
+    If your interested, we''re here: www.cdli.ca'
+  date: '2013-01-14 08:58:53'
+  date_gmt: '2013-01-13 22:58:53'
+  id: '563'
+  parent: '562'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: 'Jesse Stommel''s piece <a href="http://www.hybridpedagogy.com/Journal/files/Forking_Education.html"
+    rel="nofollow">Online Learning: A user''s guides to forking education</a> captures
+    a lot of what EDC3100 could/should perhaps become. Will be interesting to see
+    how much I''m willing to push the organisational constraints and perhaps more
+    importantly my own conceptual constraints.'
+  date: '2013-01-14 09:07:17'
+  date_gmt: '2013-01-13 23:07:17'
+  id: '564'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2013-01-11 05:20:13
 next:
   text: '"Engaging with #etmooc - how and what perspective"'
   url: /blog/2013/01/15/engaging-with-etmooc-how-and-what-perspective/
+pingbacks:
+- approved: '1'
+  author: Making some &ldquo;3100&Prime; thinking explicit | Personal e-Learning Environments
+    | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educational-landscapes/p/3994851288/making-some-3100-thinking-explicit
+  content: '[...] In around two months a couple of hundred pre-service teachers will
+    be wanting/required to start engaging with the course EDC3100, ICTs and Pedagogy.
+    For the last 3 or 4 months I&rsquo;ve been readi...&nbsp; [...]'
+  date: '2013-01-11 17:47:32'
+  date_gmt: '2013-01-11 07:47:32'
+  id: '559'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Engaging with #etmooc &#8211; how and what perspective &laquo; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 72.232.113.86
+  author_url: https://djon.es/blog/2013/01/15/engaging-with-etmooc-how-and-what-perspective/
+  content: '[...] model the type of practice I&#8217;m hoping to see from the students
+    in the course I&#8217;ll be teaching [...]'
+  date: '2013-01-15 09:33:04'
+  date_gmt: '2013-01-14 23:33:04'
+  id: '565'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Translating Learning into Numbers: A Generic Framework for Learning Analytics'
   url: /blog/2013/01/09/translating-learning-into-numbers-a-generic-framework-for-learning-analytics/
+template: blog-post.html
 title: Making some "3100" thinking explicit
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 124.189.216.206
-      author_url: http://elketeaches.wordpress.com
-      content: "Fun stuff!  The xkcd comic strip \u201CTech support cheat sheet\u201D\
-        \ is great, I must remember to use that in the future. I like that you are working\
-        \ hard to improve 3100, I wish other subjects were re-worked with so much passion!\
-        \  You've got 2 really good things going for you &amp; 3100: your own passion\
-        \ for change/learning AND your communication style with students (which I have\
-        \ learned is a very rare gift/skill in the online professor/instructor world).\
-        \  Badges are a great idea although unfortunately students still need a grade.\
-        \  The idea behind MOOC is a good way to proceed. I enjoy your posts."
-      date: '2013-01-11 15:45:47'
-      date_gmt: '2013-01-11 05:45:47'
-      id: '557'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: 'My situation is a little different form most. 3100 in 2012 was not what
-        I would have taught. My first year, so I taught what was handed to me. I certainly
-        interpreted it, but it''s not where I would have started. 2013 is a chance to
-        make it mine and then learn from it.  Am hoping the design will make it naturally
-        grow and evolve.  Time will tell.
-    
-    
-        Appreciate your comments on these ideas.
-    
-    
-        Your post on gamemaker has me intrigued. Will try to find some time to play with
-        it.'
-      date: '2013-01-11 17:09:23'
-      date_gmt: '2013-01-11 07:09:23'
-      id: '558'
-      parent: '557'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Maurice A. Barry
-      author_email: maurice.a.barry@gmail.com
-      author_ip: 47.54.195.7
-      author_url: http://mauriceabarry.wordpress.com
-      content: Might me worthwhile to explore some synchronous activities too. I work
-        in eLearning (k-12) and find that regular--required--synchronous activities are
-        essential to maintain student engagement. It's different for post secondary, of
-        course, where there is much more ownership.
-      date: '2013-01-14 00:47:11'
-      date_gmt: '2013-01-13 14:47:11'
-      id: '560'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Maurice A. Barry
-      author_email: maurice.a.barry@gmail.com
-      author_ip: 47.54.195.7
-      author_url: http://mauriceabarry.wordpress.com
-      content: Oh--and I thoroughly enjoyed reading this post. VERY insightful.
-      date: '2013-01-14 00:47:48'
-      date_gmt: '2013-01-13 14:47:48'
-      id: '561'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.80.28
-      author_url: https://djon.es/blog/
-      content: 'I agree, there seems to be something to synchronous events that many folk
-        like/expect. So, there will be synchronous activities.
-    
-    
-        At the least because around half the students are on-campus students and by law
-        have traditional, synchronous face-to-face sessions. We''ll mix these up, I think.
-    
-    
-        Also looking at replicating the common MOOC/open course practice of invited speakers
-        on selected topics. Hopefully going to nut that out over the next couple of weeks.'
-      date: '2013-01-14 08:29:01'
-      date_gmt: '2013-01-13 22:29:01'
-      id: '562'
-      parent: '560'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Maurice A. Barry
-      author_email: maurice.a.barry@gmail.com
-      author_ip: 47.54.195.7
-      author_url: http://mauriceabarry.wordpress.com
-      content: 'Here we use a combination of blackboard collaborate (used to be elluminate
-        live) and Desire2Learn to provide distance education opportunities to students
-        in over 100 rural communities. We''re 100% funded by the provincial government
-        so there''s no fees, etc. The achievement and completion rates are the same as
-        face to face. A lot of that credit goes to the synchronous--it''s not that ''lecturing''
-        over the Internet is effective. Rather it''s the case that the synchronous classes
-        bring the students and teacher together and create a community devoted to learning.
-        It also ensures that we can give the students the required ''nagging'' when needed.
-        If your interested, we''re here: www.cdli.ca'
-      date: '2013-01-14 08:58:53'
-      date_gmt: '2013-01-13 22:58:53'
-      id: '563'
-      parent: '562'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: 'Jesse Stommel''s piece <a href="http://www.hybridpedagogy.com/Journal/files/Forking_Education.html"
-        rel="nofollow">Online Learning: A user''s guides to forking education</a> captures
-        a lot of what EDC3100 could/should perhaps become. Will be interesting to see
-        how much I''m willing to push the organisational constraints and perhaps more
-        importantly my own conceptual constraints.'
-      date: '2013-01-14 09:07:17'
-      date_gmt: '2013-01-13 23:07:17'
-      id: '564'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Making some &ldquo;3100&Prime; thinking explicit | Personal e-Learning Environments
-        | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educational-landscapes/p/3994851288/making-some-3100-thinking-explicit
-      content: '[...] In around two months a couple of hundred pre-service teachers will
-        be wanting/required to start engaging with the course EDC3100, ICTs and Pedagogy.
-        For the last 3 or 4 months I&rsquo;ve been readi...&nbsp; [...]'
-      date: '2013-01-11 17:47:32'
-      date_gmt: '2013-01-11 07:47:32'
-      id: '559'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Engaging with #etmooc &#8211; how and what perspective &laquo; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 72.232.113.86
-      author_url: https://djon.es/blog/2013/01/15/engaging-with-etmooc-how-and-what-perspective/
-      content: '[...] model the type of practice I&#8217;m hoping to see from the students
-        in the course I&#8217;ll be teaching [...]'
-      date: '2013-01-15 09:33:04'
-      date_gmt: '2013-01-14 23:33:04'
-      id: '565'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In around two months a couple of hundred pre-service teachers will be wanting/required to start engaging with the course EDC3100, ICTs and Pedagogy. For the last 3 or 4 months I've been [reading a bit](/blog/2012/12/14/4668/) and generally mulling over what I'll do and how far to go. Back in July I started off [with this initial post](/blog/2012/07/20/starting-the-re-design-of-edc3100/). It's now (past) time to make some of this explicit, make some design decisions and implement it. This is the start. Littered through the following will be questions and reminders to myself for further consideration.
 
@@ -211,7 +209,7 @@ Given this, it would appear important for EDC3100 to provide a space for the pre
 
 Hopefully we can help them develop their tech support skills and perhaps build on the advice from [xkcd](http://xkcd.com/).
 
-[![](images/tech_support_cheat_sheet.png)](http://xkcd.com/627/)
+[![](https://djon.es/assets/blog/2013/01/11/making-some-3100-thinking-explicit/images/tech_support_cheat_sheet.png)](http://xkcd.com/627/)
 
 xkcd comic strip "Tech support cheat sheet"
 
@@ -237,13 +235,13 @@ I'm hoping EDC3100 can encourage/enable the students to engage in social learnin
 
 During 2013 there are likely to be 300+ students take the course. They will be a very diverse student cohort on a number of criteria. For example, in terms of technical skill last year's cohort included everything from an ex-IT development professional through to technophobes. As the graph below shows students' ages ranged from 18 through 60. Though over 50% of the students were traditional 3rd year students straight from high school - aged 20 years old.
 
-[![age Distribution](images/6778531890_e60ddf650c_n.jpg)](http://www.flickr.com/photos/david_jones/6778531890/)
+[![age Distribution](https://djon.es/assets/blog/2013/01/11/making-some-3100-thinking-explicit/images/6778531890_e60ddf650c_n.jpg)](http://www.flickr.com/photos/david_jones/6778531890/)
 
 There was also significant diversity in the type of teacher they were preparing to be. EDC3100 last year included "pre-service teachers" training to teach everyone from pre-school, primary school, high school and vocational education. Not to mention the different disciplines and knowledge areas these pre-service teachers will cover. Barton and Haydn (2006, pp 267) suggest that
 
 > Training needs to be differentiated to take into account the differing ways in which ICT helps teachers of different subjects to improve teaching and learning
 
-[![EDC3100 Sector breakdown](images/6908938917_dcb85ab4b8_n.jpg)](http://www.flickr.com/photos/david_jones/6908938917/)
+[![EDC3100 Sector breakdown](https://djon.es/assets/blog/2013/01/11/making-some-3100-thinking-explicit/images/6908938917_dcb85ab4b8_n.jpg)](http://www.flickr.com/photos/david_jones/6908938917/)
 
 As it happens the university that employs me to teach EDC3100 has adopted "Personalised learning" as [one of its four overarching themes for its 2022 Vision](http://www.usq.edu.au/about-usq/about-us/plans-reports). Some of the institutional words around this theme include
 

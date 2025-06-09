@@ -1,54 +1,52 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-02-27 17:44:01+10:00
+comments:
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: '<a href="http://www.21stcenturyfluency.com/blogpost.cfm?blogID=1746" rel="nofollow">Another
+    perspective</a> that suggests (and points to evidence) that technology is changing
+    brains - including the Nicholas Carr book.
+
+
+    In the end it distinguishes between the neurological changes that exposure to
+    technology has created and the students capability with technologies. i.e. they
+    don''t really have broad or deep technological skills.'
+  date: '2011-02-28 08:57:37'
+  date_gmt: '2011-02-27 22:57:37'
+  id: '3279'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2011-02-27 07:44:01
 next:
   text: Thoughts and applications of connectivism
   url: /blog/2011/02/28/thoughts-and-applications-of-connectivism/
+pingbacks:
+- approved: '1'
+  author: ICTs for learning design &#8211; the first week &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 72.233.61.16
+  author_url: https://djon.es/blog/2011/02/28/icts-for-learning-design-the-first-week/
+  content: '[...] the example of a 4yo gamer being bored to tears by &#8220;learning
+    games&#8221;. Mmm, final blog post on this [...]'
+  date: '2011-02-28 10:40:52'
+  date_gmt: '2011-02-28 00:40:52'
+  id: '3280'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Learning styles, teaching and digital pedagogy
   url: /blog/2011/02/25/learning-styles-teaching-and-digital-pedagogy/
+template: blog-post.html
 title: Prensky, immigrants and old problems in new bottles
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: '<a href="http://www.21stcenturyfluency.com/blogpost.cfm?blogID=1746" rel="nofollow">Another
-        perspective</a> that suggests (and points to evidence) that technology is changing
-        brains - including the Nicholas Carr book.
-    
-    
-        In the end it distinguishes between the neurological changes that exposure to
-        technology has created and the students capability with technologies. i.e. they
-        don''t really have broad or deep technological skills.'
-      date: '2011-02-28 08:57:37'
-      date_gmt: '2011-02-27 22:57:37'
-      id: '3279'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: ICTs for learning design &#8211; the first week &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 72.233.61.16
-      author_url: https://djon.es/blog/2011/02/28/icts-for-learning-design-the-first-week/
-      content: '[...] the example of a 4yo gamer being bored to tears by &#8220;learning
-        games&#8221;. Mmm, final blog post on this [...]'
-      date: '2011-02-28 10:40:52'
-      date_gmt: '2011-02-28 00:40:52'
-      id: '3280'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Okay, so blog post #2 arising from week 1 of an ICTs for Learning Design course I'm doing. This post is intended to address the question of 21st century learners. In part this connects back to a sentence from the start of this weeks study guide with which I had problems. That sentence was
 

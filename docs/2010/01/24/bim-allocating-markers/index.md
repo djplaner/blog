@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-01-24 09:38:32+10:00
+date: 2010-01-23 23:38:32
 next:
   text: Increasing weak ties, not strong - improving learning and teaching
   url: /blog/2010/01/26/increasing-weak-ties-not-strong-improving-learning-and-teaching/
 previous:
   text: Thoughts on DEHub research themes
   url: /blog/2010/01/22/thoughts-on-dehub-research-themes/
+template: blog-post.html
 title: BIM - Allocating markers
 type: post
-template: blog-post.html
 ---
 I had sort of hoped that most of the new BIM development was finished. However, after a bit of research at the local institution it becomes obvious that I'll have to implement a marker allocation screen. Hopefully, it won't require that much work.
 

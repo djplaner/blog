@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - edc3100
 - teaching
-date: 2012-12-14 17:54:11+10:00
+comments: []
+date: 2012-12-14 07:54:11
 next:
   text: Why Moneyball is the wrong analogy for learning analytics
   url: /blog/2012/12/17/why-moneyball-is-the-wrong-analogy-for-learning-analytics/
+pingbacks:
+- approved: '1'
+  author: 'Beyond the early adopters of online instruction: Motivating the ... | Quality
+    Assurance in Online Courses | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/quality-assurance-in-online-courses/p/3711519111/beyond-the-early-adopters-of-online-instruction-motivating-the
+  content: '[...] There are a number of universities in Australia where the majority
+    of, if not all, courses are taught online. These institutions already have the
+    &ldquo;next wave&rdquo; online. The problem though is that the quality of the
+    online experience ...&nbsp; [...]'
+  date: '2012-12-14 23:55:34'
+  date_gmt: '2012-12-14 13:55:34'
+  id: '537'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Developing personal learning networks for open and social learning
   url: /blog/2012/12/14/4668/
+template: blog-post.html
 title: '"Beyond the early adopters of online instruction: Motivating the reluctant
   majority"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Beyond the early adopters of online instruction: Motivating the ... | Quality
-        Assurance in Online Courses | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/quality-assurance-in-online-courses/p/3711519111/beyond-the-early-adopters-of-online-instruction-motivating-the
-      content: '[...] There are a number of universities in Australia where the majority
-        of, if not all, courses are taught online. These institutions already have the
-        &ldquo;next wave&rdquo; online. The problem though is that the quality of the
-        online experience ...&nbsp; [...]'
-      date: '2012-12-14 23:55:34'
-      date_gmt: '2012-12-14 13:55:34'
-      id: '537'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary and some reflection on Hixon et al (2012). I'm particularly interested in this topic due to my belief (based on 20 years experience and observation) that most institutional approaches to change in learning and teaching has only been successful in moving the same 10% of staff. A 10% that didn't need a lot of help in the first place.
 

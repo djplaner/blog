@@ -1,60 +1,57 @@
----
+﻿---
 categories:
 - bad
 - edc3100
 - indicators
-date: 2015-07-23 12:39:09+10:00
+comments: []
+date: 2015-07-23 02:39:09
 next:
   text: '"Me as teacher" - the 2015 focus for NGL'
   url: /blog/2015/07/23/me-as-teacher-the-2015-focus-for-ngl/
+pingbacks:
+- approved: '1'
+  author: The role of &#8220;coding&#8221; in learning and teaching | The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.74
+  author_url: https://davidtjones.wordpress.com/2015/08/18/the-role-of-coding-in-learning-and-teaching/
+  content: '[&#8230;] a collection of tools to better understand who and how learners
+    are using your course site; or, mutate that collection of tools into something
+    that will allow you to have some idea what each of the 300+ students in your course
+    [&#8230;]'
+  date: '2015-08-18 15:54:46'
+  date_gmt: '2015-08-18 05:54:46'
+  id: '1367'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.161
+  author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
+  content: '[&#8230;] I&#8217;ll be able to follow the process vaguely outlined from
+    prior offerings. (Yep, that&#8217;s right. I have to repeat this process for every
+    course [&#8230;]'
+  date: '2016-03-04 13:33:55'
+  date_gmt: '2016-03-04 03:33:55'
+  id: '1368'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: How might a Book module search function work?
   url: /blog/2015/07/19/how-might-a-book-module-search-function-work/
+template: blog-post.html
 title: Updating "more student details"
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The role of &#8220;coding&#8221; in learning and teaching | The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.74
-      author_url: https://davidtjones.wordpress.com/2015/08/18/the-role-of-coding-in-learning-and-teaching/
-      content: '[&#8230;] a collection of tools to better understand who and how learners
-        are using your course site; or, mutate that collection of tools into something
-        that will allow you to have some idea what each of the 300+ students in your course
-        [&#8230;]'
-      date: '2015-08-18 15:54:46'
-      date_gmt: '2015-08-18 05:54:46'
-      id: '1367'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.161
-      author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
-      content: '[&#8230;] I&#8217;ll be able to follow the process vaguely outlined from
-        prior offerings. (Yep, that&#8217;s right. I have to repeat this process for every
-        course [&#8230;]'
-      date: '2016-03-04 13:33:55'
-      date_gmt: '2016-03-04 03:33:55'
-      id: '1368'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 ["More student details"](/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/) (see image below) is the most visible part of the additional systems I've put in place to make teaching bearable ([this presentation](http://www.usq.edu.au/learning-teaching/USQSalon/JonesAlbion) talks more about it). The problem I'm dealing with here is that a new semester has started, which means I need to re-configure these feral systems to work with the new semester.
 
 And while I'm at it, I'm hoping I might be able to add [a bit of sentiment analysis](/blog/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/) to it.
 
-[![MoreStudentDetails](images/18657245938_225d364f57.jpg)](https://www.flickr.com/photos/david_jones/18657245938/in/dateposted-public/ "MoreStudentDetails")
+[![MoreStudentDetails](https://djon.es/assets/blog/2015/07/23/updating-more-student-details/images/18657245938_225d364f57.jpg)](https://www.flickr.com/photos/david_jones/18657245938/in/dateposted-public/ "MoreStudentDetails")
 
 ## What needs to be done
 

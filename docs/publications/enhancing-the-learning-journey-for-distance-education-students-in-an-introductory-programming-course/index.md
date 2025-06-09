@@ -1,9 +1,9 @@
----
-date: 2008-12-22 10:29:58+10:00
+﻿---
+date: 2008-12-22 00:29:58
+template: blog-post.html
 title: Enhancing the learning journey for distance education students in an introductory
   programming course
 type: page
-template: blog-post.html
 ---
 ## Abstract
 
@@ -19,7 +19,7 @@ CQU's origins date back to the creation of a Rockhampton-based campus of the Que
 
 In the past, Procedural Programming has been one of the largest and most complex courses in terms of delivery modes (face-to-face, distance education etc), number of campus and number of times the course was offered per year. Since 1996, the course has usually been offered three times a year via most of CQU's delivery modes. Figure 1 summarises enrolment in Procedural Programming during the period 1996-2005. In this figure students are placed into three main categories: 1) AIC – students at CQU's Australian International campuses in Brisbane, Gold Coast, Sydney, Melbourne, and also at CQU's Fiji campus; 2) DE – distance education students; 3) CQ – students at CQU's CQ-based campuses (Rockhampton, Mackay, Gladstone, Bundaberg and Emerald). 
 
-[![image003](images/3125944629_4435468efa_o.gif)](http://www.flickr.com/photos/david_jones/3125944629/ "image003 by David T Jones, on Flickr")
+[![image003](https://djon.es/assets/blog/publications/enhancing-the-learning-journey-for-distance-education-students-in-an-introductory-programming-course/images/3125944629_4435468efa_o.gif)](http://www.flickr.com/photos/david_jones/3125944629/ "image003 by David T Jones, on Flickr")
 
 Figure 1 - COIT11134 enrolment breakdown 2002-2005
 
@@ -73,7 +73,7 @@ The main intent of this project is to increase the completion rate for distance 
 
 Table 3 - Average completion rate for Procedural Programming since 1996
 
-[![image006](images/3125944569_fc92b70d8f_o.gif)](http://www.flickr.com/photos/david_jones/3125944569/ "image006 by David T Jones, on Flickr")
+[![image006](https://djon.es/assets/blog/publications/enhancing-the-learning-journey-for-distance-education-students-in-an-introductory-programming-course/images/3125944569_fc92b70d8f_o.gif)](http://www.flickr.com/photos/david_jones/3125944569/ "image006 by David T Jones, on Flickr")
 
 Figure 2 – Completion percentage for all students in Procedural Programming: 1996-2005
 

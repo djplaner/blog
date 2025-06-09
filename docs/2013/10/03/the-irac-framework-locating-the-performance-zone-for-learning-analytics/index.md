@@ -1,236 +1,234 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - learninganalytics-elearning
-date: 2013-10-03 11:27:20+10:00
+comments:
+- approved: '1'
+  author: Chris Fellows (@cfellows65536)
+  author_email: cfellows65536@twitter.example.com
+  author_ip: 129.180.72.197
+  author_url: http://twitter.com/cfellows65536
+  content: 'What, no replies? I had a go at reading it and made some comments here:
+    https://www.dropbox.com/s/k9ierfqzuyitkhg/The%20IRAC%20Framework.pdf'
+  date: '2013-11-28 12:36:31'
+  date_gmt: '2013-11-28 02:36:31'
+  id: '865'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the comments Chris.  Much appreciated.
+
+
+    I''ve fixed the "rogue apostrophe" from the last sentence of the 2nd paragraph
+    in the "Looking to the future" section.'
+  date: '2013-11-28 13:07:10'
+  date_gmt: '2013-11-28 03:07:10'
+  id: '866'
+  parent: '865'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: ':) Most of the other flaws are way too hard to address arising as they
+    do from the nature of academic writing, the constraints of a "short" paper, and
+    the talents of the lead author.
+
+
+    Your comments provide a great alternate perspective and an insight into the current
+    higher ed situation. A perspective that''s probably more useful and interesting
+    than the paper.'
+  date: '2013-11-28 13:13:11'
+  date_gmt: '2013-11-28 03:13:11'
+  id: '867'
+  parent: '865'
+  type: comment
+  user_id: '1'
+date: 2013-10-03 01:27:20
 next:
   text: Planning an analysis of the learning analytics literature
   url: /blog/2013/10/03/planning-an-analysis-of-the-learning-analytics-literature/
+pingbacks:
+- approved: '1'
+  author: 'The IRAC framework: Locating the performance zo...'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/analyse-this/p/4008618794/the-irac-framework-locating-the-performance-zone-for-learning-analytics
+  content: '[&#8230;] The following is the final version of a short paper that&#039;s
+    just about been accepted for ASCILITE&#039;2013. It&#039;s our first attempt to
+    formulate and present the IRAC framework for analysing and designing...&nbsp;
+    [&#8230;]'
+  date: '2013-10-03 12:02:05'
+  date_gmt: '2013-10-03 02:02:05'
+  id: '861'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Planning an analysis of the learning analytics literature | The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.84
+  author_url: https://djon.es/blog/2013/10/03/planning-an-analysis-of-the-learning-analytics-literature/
+  content: '[&#8230;] the vague idea of the IRAC framework done, it&#8217;s time to
+    take the next step, i.e. &#8220;to use the framework to analyse the extant [&#8230;]'
+  date: '2013-10-03 13:52:26'
+  date_gmt: '2013-10-03 03:52:26'
+  id: '862'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Processing and Visualizing Data in Complex Learning Environments | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.121
+  author_url: https://djon.es/blog/2013/10/20/processing-and-visualizing-data-in-complex-learning-environments/
+  content: '[&#8230;] make an improvement to educational design, then action is needed.
+    This the argument we make in the IRAC framework &#8211; the R is &#8220;Representation&#8221;
+    i.e. communication. The A is affordance for [&#8230;]'
+  date: '2013-10-20 22:25:45'
+  date_gmt: '2013-10-20 12:25:45'
+  id: '863'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The Purdue Signals debate | Col&#039;s Weblog
+  author_email: null
+  author_ip: 192.0.80.199
+  author_url: http://beerc.wordpress.com/2013/11/14/the-purdue-signals-debate/
+  content: "[&#8230;] the novelty in their work is in the way that they represent\
+    \ the data and provide, albeit basic, affordances for action. They calculate the\
+    \ chance of a student\u2019s success and provide this information to the [&#8230;]"
+  date: '2013-11-14 08:33:36'
+  date_gmt: '2013-11-13 22:33:36'
+  id: '864'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'The IRAC framework: Locating the performance zone for learning analytics
+    #ascilite | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 66.155.8.98
+  author_url: https://djon.es/blog/2013/12/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics-ascilite/
+  content: '[&#8230;] The paper on which this presentation is based is available.
+    As is @cfellows insightful and interesting annotated response (an accessory every
+    #ascilite paper should come with). [&#8230;]'
+  date: '2013-12-03 20:26:45'
+  date_gmt: '2013-12-03 10:26:45'
+  id: '868'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Adding some learning process analytics to EDC3100 | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.86.62
+  author_url: https://davidtjones.wordpress.com/2015/01/23/adding-some-learning-process-analytics-to-edc3100/
+  content: '[&#8230;] this post evolved, it&#8217;s become also an early test to see
+    if the IRAC framework can offer some guidance in designing the extension of this
+    tool by adding some learning process [&#8230;]'
+  date: '2015-01-23 11:58:35'
+  date_gmt: '2015-01-23 01:58:35'
+  id: '869'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Using the PIRAC &#8211; Thinking about an &#8220;integrated dashboard&#8221;
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.195
+  author_url: https://davidtjones.wordpress.com/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
+  content: '[&#8230;] a integrated dashboard. The following is an attempt to think
+    out lod about the (P)IRAC framework (Jones, Beer and Clark, 2013) in the context
+    of this local project. To help prepare me for the meeting, but also to ponder
+    some [&#8230;]'
+  date: '2015-01-30 15:49:14'
+  date_gmt: '2015-01-30 05:49:14'
+  id: '870'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The four paths for implementing learning analytics and enhancing the quality
+    of learning and teaching | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.121
+  author_url: https://davidtjones.wordpress.com/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/
+  content: '[&#8230;] a number of universities. Each of these example projects will
+    be analysed using the IRAC framework (Jones, Beer, &amp; Clark, 2013) and other
+    lenses. That analysis will be used to identify the relative strengths, weaknesses,
+    and [&#8230;]'
+  date: '2015-06-01 10:04:52'
+  date_gmt: '2015-06-01 00:04:52'
+  id: '871'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Reading &#8211; Embracing Big Data in Complex Educational Systems: The
+    Learning Analytics Imperative and the Policy Challenge | The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 192.0.83.69
+  author_url: https://davidtjones.wordpress.com/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
+  content: '[&#8230;] nice overlaps with the IRAC framework [&#8230;]'
+  date: '2015-06-14 18:05:20'
+  date_gmt: '2015-06-14 08:05:20'
+  id: '872'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Revisiting the IRAC framework and looking for insights | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.81.33
+  author_url: https://davidtjones.wordpress.com/2015/06/18/revisiting-the-irac-framework-and-looking-for-insights/
+  content: '[&#8230;] and hopefully be &#8220;a tool to aid the mindful implementation
+    of learning analytics&#8221; (Jones, Beer, Clark, 2013). The development of the
+    framework drew upon &#8220;bodies of literature including Electronic [&#8230;]'
+  date: '2015-06-18 22:48:13'
+  date_gmt: '2015-06-18 12:48:13'
+  id: '873'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Sentiment analysis of student blog posts &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.101.131
+  author_url: https://davidtjones.wordpress.com/2016/02/14/sentiment-analysis-of-student-blog-posts/
+  content: '[&#8230;] useful affordances. One of the points of the PIRAC framework
+    is that this form of learning analytics is only as useful as the affordances for
+    action that it [&#8230;]'
+  date: '2016-02-14 11:17:17'
+  date_gmt: '2016-02-14 01:17:17'
+  id: '874'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Data mining with Weka - Class 2 - Evaluation
   url: /blog/2013/09/22/data-mining-with-weka-class-2-evaluation/
 tags:
 - learning-analytics
+template: blog-post.html
 title: '"The IRAC framework: Locating the performance zone for learning analytics"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Chris Fellows (@cfellows65536)
-      author_email: cfellows65536@twitter.example.com
-      author_ip: 129.180.72.197
-      author_url: http://twitter.com/cfellows65536
-      content: 'What, no replies? I had a go at reading it and made some comments here:
-        https://www.dropbox.com/s/k9ierfqzuyitkhg/The%20IRAC%20Framework.pdf'
-      date: '2013-11-28 12:36:31'
-      date_gmt: '2013-11-28 02:36:31'
-      id: '865'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the comments Chris.  Much appreciated.
-    
-    
-        I''ve fixed the "rogue apostrophe" from the last sentence of the 2nd paragraph
-        in the "Looking to the future" section.'
-      date: '2013-11-28 13:07:10'
-      date_gmt: '2013-11-28 03:07:10'
-      id: '866'
-      parent: '865'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: ':) Most of the other flaws are way too hard to address arising as they
-        do from the nature of academic writing, the constraints of a "short" paper, and
-        the talents of the lead author.
-    
-    
-        Your comments provide a great alternate perspective and an insight into the current
-        higher ed situation. A perspective that''s probably more useful and interesting
-        than the paper.'
-      date: '2013-11-28 13:13:11'
-      date_gmt: '2013-11-28 03:13:11'
-      id: '867'
-      parent: '865'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'The IRAC framework: Locating the performance zo...'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/analyse-this/p/4008618794/the-irac-framework-locating-the-performance-zone-for-learning-analytics
-      content: '[&#8230;] The following is the final version of a short paper that&#039;s
-        just about been accepted for ASCILITE&#039;2013. It&#039;s our first attempt to
-        formulate and present the IRAC framework for analysing and designing...&nbsp;
-        [&#8230;]'
-      date: '2013-10-03 12:02:05'
-      date_gmt: '2013-10-03 02:02:05'
-      id: '861'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Planning an analysis of the learning analytics literature | The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.84
-      author_url: https://djon.es/blog/2013/10/03/planning-an-analysis-of-the-learning-analytics-literature/
-      content: '[&#8230;] the vague idea of the IRAC framework done, it&#8217;s time to
-        take the next step, i.e. &#8220;to use the framework to analyse the extant [&#8230;]'
-      date: '2013-10-03 13:52:26'
-      date_gmt: '2013-10-03 03:52:26'
-      id: '862'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Processing and Visualizing Data in Complex Learning Environments | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.121
-      author_url: https://djon.es/blog/2013/10/20/processing-and-visualizing-data-in-complex-learning-environments/
-      content: '[&#8230;] make an improvement to educational design, then action is needed.
-        This the argument we make in the IRAC framework &#8211; the R is &#8220;Representation&#8221;
-        i.e. communication. The A is affordance for [&#8230;]'
-      date: '2013-10-20 22:25:45'
-      date_gmt: '2013-10-20 12:25:45'
-      id: '863'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The Purdue Signals debate | Col&#039;s Weblog
-      author_email: null
-      author_ip: 192.0.80.199
-      author_url: http://beerc.wordpress.com/2013/11/14/the-purdue-signals-debate/
-      content: "[&#8230;] the novelty in their work is in the way that they represent\
-        \ the data and provide, albeit basic, affordances for action. They calculate the\
-        \ chance of a student\u2019s success and provide this information to the [&#8230;]"
-      date: '2013-11-14 08:33:36'
-      date_gmt: '2013-11-13 22:33:36'
-      id: '864'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'The IRAC framework: Locating the performance zone for learning analytics
-        #ascilite | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 66.155.8.98
-      author_url: https://djon.es/blog/2013/12/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics-ascilite/
-      content: '[&#8230;] The paper on which this presentation is based is available.
-        As is @cfellows insightful and interesting annotated response (an accessory every
-        #ascilite paper should come with). [&#8230;]'
-      date: '2013-12-03 20:26:45'
-      date_gmt: '2013-12-03 10:26:45'
-      id: '868'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Adding some learning process analytics to EDC3100 | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.86.62
-      author_url: https://davidtjones.wordpress.com/2015/01/23/adding-some-learning-process-analytics-to-edc3100/
-      content: '[&#8230;] this post evolved, it&#8217;s become also an early test to see
-        if the IRAC framework can offer some guidance in designing the extension of this
-        tool by adding some learning process [&#8230;]'
-      date: '2015-01-23 11:58:35'
-      date_gmt: '2015-01-23 01:58:35'
-      id: '869'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Using the PIRAC &#8211; Thinking about an &#8220;integrated dashboard&#8221;
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.195
-      author_url: https://davidtjones.wordpress.com/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
-      content: '[&#8230;] a integrated dashboard. The following is an attempt to think
-        out lod about the (P)IRAC framework (Jones, Beer and Clark, 2013) in the context
-        of this local project. To help prepare me for the meeting, but also to ponder
-        some [&#8230;]'
-      date: '2015-01-30 15:49:14'
-      date_gmt: '2015-01-30 05:49:14'
-      id: '870'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The four paths for implementing learning analytics and enhancing the quality
-        of learning and teaching | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.121
-      author_url: https://davidtjones.wordpress.com/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/
-      content: '[&#8230;] a number of universities. Each of these example projects will
-        be analysed using the IRAC framework (Jones, Beer, &amp; Clark, 2013) and other
-        lenses. That analysis will be used to identify the relative strengths, weaknesses,
-        and [&#8230;]'
-      date: '2015-06-01 10:04:52'
-      date_gmt: '2015-06-01 00:04:52'
-      id: '871'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Reading &#8211; Embracing Big Data in Complex Educational Systems: The
-        Learning Analytics Imperative and the Policy Challenge | The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 192.0.83.69
-      author_url: https://davidtjones.wordpress.com/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
-      content: '[&#8230;] nice overlaps with the IRAC framework [&#8230;]'
-      date: '2015-06-14 18:05:20'
-      date_gmt: '2015-06-14 08:05:20'
-      id: '872'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Revisiting the IRAC framework and looking for insights | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.81.33
-      author_url: https://davidtjones.wordpress.com/2015/06/18/revisiting-the-irac-framework-and-looking-for-insights/
-      content: '[&#8230;] and hopefully be &#8220;a tool to aid the mindful implementation
-        of learning analytics&#8221; (Jones, Beer, Clark, 2013). The development of the
-        framework drew upon &#8220;bodies of literature including Electronic [&#8230;]'
-      date: '2015-06-18 22:48:13'
-      date_gmt: '2015-06-18 12:48:13'
-      id: '873'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Sentiment analysis of student blog posts &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.101.131
-      author_url: https://davidtjones.wordpress.com/2016/02/14/sentiment-analysis-of-student-blog-posts/
-      content: '[&#8230;] useful affordances. One of the points of the PIRAC framework
-        is that this form of learning analytics is only as useful as the affordances for
-        action that it [&#8230;]'
-      date: '2016-02-14 11:17:17'
-      date_gmt: '2016-02-14 01:17:17'
-      id: '874'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the final version of a short paper that's been accepted for [ASCILITE'2013](https://www.ascilite.org.au/conferences/sydney13/). It's our first attempt to formulate and present the IRAC framework for analysing and designing learning analytics applications. [This presentation](http://www.slideshare.net/davidj/avoiding-the-fad-example-applications-version-2) from last week expands on the IRAC framework a little and touches on some of the future work.
 

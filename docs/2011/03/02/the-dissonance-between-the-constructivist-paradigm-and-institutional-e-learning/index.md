@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - elearning
 - thesis
-date: 2011-03-02 21:57:04+10:00
+comments: []
+date: 2011-03-02 11:57:04
 next:
   text: A PMI of constructivism
   url: /blog/2011/03/03/a-pmi-of-constructivism/
+pingbacks:
+- approved: '1'
+  author: Learning 2.0 03/25/2011 (a.m.) &laquo; Digital Learning 2.0
+  author_email: null
+  author_ip: 74.200.243.198
+  author_url: http://jh2fct.wordpress.com/2011/03/25/learning-2-0-03252011-a-m/
+  content: '[...] The dissonance between the constructivist paradigm and the implementation
+    of institutional e-learnin... [...]'
+  date: '2011-03-25 19:32:11'
+  date_gmt: '2011-03-25 09:32:11'
+  id: '3284'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: ICTs for learning design - the first week
   url: /blog/2011/02/28/icts-for-learning-design-the-first-week/
+template: blog-post.html
 title: The dissonance between the constructivist paradigm and the implementation of
   institutional e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Learning 2.0 03/25/2011 (a.m.) &laquo; Digital Learning 2.0
-      author_email: null
-      author_ip: 74.200.243.198
-      author_url: http://jh2fct.wordpress.com/2011/03/25/learning-2-0-03252011-a-m/
-      content: '[...] The dissonance between the constructivist paradigm and the implementation
-        of institutional e-learnin... [...]'
-      date: '2011-03-25 19:32:11'
-      date_gmt: '2011-03-25 09:32:11'
-      id: '3284'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This post is sparked by a combination of recent personal experience and recent discussions on the interweb. As part of current studies I'm reading a lot about e-learning theories, especially constructivism, and seeing the student perspective of the reality of institutional e-learning/resource-based learning. At the same time the last couple of weeks have seen various media articles, blog posts and commentaries around e-learning. I'll point to a few of these below, but I'll probably miss a few. Most have been highlighting or commenting upon the significant difference between what is known about good learning and teaching (i.e. something along the lines of constructivist) and what is being done/what academics expect to do.
 
@@ -44,7 +41,7 @@ Via @sthcrft came [this animation](http://www.edugeekjournal.com/2010/11/03/i-am
 
 Ahh, here's the animation from YouTube
 
-\[youtube=http://www.youtube.com/watch?v=d-5mbwiCpW8\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-5mbwiCpW8?si=iSdsjDjTy4rB08ud" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Then, this time from @marksmithers, it is time for reality to intrude in the form of [this brilliant piece of journalism](http://www.theage.com.au/technology/technology-news/online-study-kills-uni-life-20110226-1b98l.html) from the Age newspaper about how online is killing uni life. What was even sadder than the premise of the article were some of the quotes from academics. For example, the academic who described as saying something along the lines of "it took a full day to modify a lecture for use online and two hours to adapt a PowerPoint presentation" and following that up with this beauty
 

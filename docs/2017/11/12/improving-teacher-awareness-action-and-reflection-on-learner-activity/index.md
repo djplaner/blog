@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - 4paths
 - bricolage
@@ -6,7 +6,7 @@ categories:
 - indicators
 - irac
 - learninganalytics-elearning
-date: 2017-11-12 16:39:49+10:00
+date: 2017-11-12 06:39:49
 next:
   text: Teacher DIY learning analytics - implications & questions for institutional
     learning analytics
@@ -14,9 +14,9 @@ next:
 previous:
   text: Introducing the Moodle Activity Viewer (MAV) & digital reno
   url: /blog/2017/10/30/introducing-the-moodle-activity-viewer-mav-digital-reno/
+template: blog-post.html
 title: Improving teacher awareness, action and reflection on learner activity
 type: post
-template: blog-post.html
 ---
 The following post contains the content from [a poster](https://drive.google.com/file/d/1bQYs3_I6npq1uLT260EPDqG9a6nicg4w/view?usp=sharing) designed for the [2017 USQ Toowoomba L&T celebration event](http://bit.ly/twceleb2017). It provides some rationale for [a technology demonstrator](http://tiny.cc/techdem) at USQ based on the Moodle Activity Viewer.
 
@@ -38,7 +38,7 @@ This [Technology Demonstrator](http://tiny.cc/techdem) has implemented and will 
 
 The MAV provides a useful and easy to use tool that provides representations of student activity from within all Moodle learning spaces. It provides affordances to support teacher intervention and further analysis.
 
-[![MAV - How many students](images/24480176568_537dfab329.jpg)](https://www.flickr.com/photos/david_jones/24480176568/in/dateposted-public/ "MAV - How many students")
+[![MAV - How many students](https://djon.es/assets/blog/2017/11/12/improving-teacher-awareness-action-and-reflection-on-learner-activity/images/24480176568_537dfab329.jpg)](https://www.flickr.com/photos/david_jones/24480176568/in/dateposted-public/ "MAV - How many students")
 
 MAV’s overlay answering the question how many and what percentage of students have accessed each Moodle activity & resource?
 
@@ -49,7 +49,7 @@ The project aims to explore two questions:
 1. If and how does the provision of contextual, useful, and easy to use representations of online learner activity help teachers analyse, appraise and improve their practices?
 2. If and how does this change in teacher activity influence learner activity and learning outcomes?
 
-[![MAV - How many clicks](images/24480182248_76a2a67f00.jpg)](https://www.flickr.com/photos/david_jones/24480182248/in/dateposted-public/ "MAV - How many clicks")
+[![MAV - How many clicks](https://djon.es/assets/blog/2017/11/12/improving-teacher-awareness-action-and-reflection-on-learner-activity/images/24480182248_76a2a67f00.jpg)](https://www.flickr.com/photos/david_jones/24480182248/in/dateposted-public/ "MAV - How many clicks")
 
 MAV’s overlay answering the question how many times have those students clicked on each Moodle activity & resource?
 
@@ -61,11 +61,11 @@ USQ staff can learn more**\*** about and start using MAV from [http://tiny.cc/ab
 
 \* (Only from a USQ campus or via the USQ VPN)
 
-[![MAV - How many students in a forum](images/38351533541_fbc3634b74.jpg)](https://www.flickr.com/photos/david_jones/38351533541/in/dateposted-public/ "MAV - How many students in a forum")
+[![MAV - How many students in a forum](https://djon.es/assets/blog/2017/11/12/improving-teacher-awareness-action-and-reflection-on-learner-activity/images/38351533541_fbc3634b74.jpg)](https://www.flickr.com/photos/david_jones/38351533541/in/dateposted-public/ "MAV - How many students in a forum")
 
 MAV’s overlay answering the question how many and what percentage of students have read posts in this introductory activity?
 
-[![MAV - Who accessed and how to contact them](images/24480178438_4be74527ee.jpg)](https://www.flickr.com/photos/david_jones/24480178438/in/dateposted-public/ "MAV - Who accessed and how to contact them")
+[![MAV - Who accessed and how to contact them](https://djon.es/assets/blog/2017/11/12/improving-teacher-awareness-action-and-reflection-on-learner-activity/images/24480178438_4be74527ee.jpg)](https://www.flickr.com/photos/david_jones/24480178438/in/dateposted-public/ "MAV - Who accessed and how to contact them")
 
 MAV’s student access dialog providing details of and enabling teacher contact with the students who have accessed the “Fix my class IWB” forum?
 

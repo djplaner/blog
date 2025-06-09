@@ -1,128 +1,126 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-07-19 12:30:04+10:00
+comments:
+- approved: '1'
+  author: Peter Albion
+  author_email: palbion@twitter.example.com
+  author_ip: 124.186.167.151
+  author_url: http://twitter.com/palbion
+  content: 'It''s not so easy to find up to date material about TTF on the web at
+    present. I''m not sure why that is but I suspect it is that most of those involved
+    are busy trying to catch up to the ambitious timeline that was delayed by the
+    need to get the project signed off before beginning.
+
+
+    ALTC continue to provide some services while they exist but their role as lead
+    agency has been picked up by Education Services Australia. The project was conceived
+    by a group initiated by the Council of Deans of Education but it was thought safer
+    to put the lead outside the university sector which struggles to know when to
+    cooperate and when to compete - both are required by the political masters at
+    different times.
+
+
+    The ICT ''elaborations'' to the graduate standards in component 1 have become
+    ''dimensions'' but are likely to see further refinement. There is some concern
+    about trying to compartmentalise something that needs to be holistic. Time will
+    tell how that proceeds.
+
+
+    The first set of exemplars for component 2 will be up and available for trial
+    in the next few weeks. Attempts were made to locate and use existing resources
+    but suitable materials that had appropriate licensing were not found.
+
+
+    In our case (USQ) we hope that the work being done by the  experienced ICT educators
+    will inform ongoing change to courses and assist teacher educators with getting
+    up to speed.
+
+
+    The project is ambitious but it is needed and it is opening up lines of communication
+    across the sector. Some of those lines have existed for a long time but there
+    were also pockets of isolation that may be opened up in this process. I''m hopeful
+    that there will be lasting benefits.'
+  date: '2011-07-19 18:19:34'
+  date_gmt: '2011-07-19 08:19:34'
+  id: '97'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 123.211.33.54
+  author_url: https://djon.es/blog/
+  content: 'G''day Peter,
+
+
+    Thanks for taking the time to reply. I must agree with your observation about
+    the difficulty of finding up to date information about the TTF online. I spent
+    most of yesterday morning searching to find what I did.
+
+
+    I take your point about people being busy actually working on the project, but
+    it also makes me wonder if this might be a symptom of a deeper problem. It strikes
+    me that there might be a potential disconnect between the TTF and its underlying
+    assumptions and the nature of the "digital world" that the TTF and the DER more
+    broadly are meant to be preparing teachers and students for.
+
+
+    i.e. it''s arguable that if the TTF/DER "got" the "digital world", then the projects
+    would be actively engaged online in a range of places. That there would be a plethora
+    of information about the TTF and its components freely and actively being constructed
+    via various online communities. Instead, what I find tends to be completed press
+    releases, publicity statements and research outputs.
+
+
+    There aren''t any open blogs, wikis, twitter accounts etc that are showing the
+    working of these projects and allowing interested, but not directly involved,
+    folk to engage and comment. The closest I''ve gotten is a couple of blog posts
+    from teachers who had been involved in some of the standards meetings. It''s this
+    same lack of engagement with the "digital world" that seems to underpin much of
+    the work of Education Services Australia in developing authoritative repositories.
+
+
+    There seems to be a focus on generating best practice and standards, rather than
+    engaging, interacting etc.
+
+
+    Even with those reservations, it is a positive move to see such an interest in
+    this area. It will at least get some folk talking. I hope it succeeds (at some
+    level) in spite of my reservations.
+
+
+    David.'
+  date: '2011-07-20 10:35:20'
+  date_gmt: '2011-07-20 00:35:20'
+  id: '98'
+  parent: '97'
+  type: comment
+  user_id: '1'
+date: 2011-07-19 02:30:04
 next:
   text: Can you be a native in a world that is always changing?
   url: /blog/2011/07/20/4033/
+pingbacks:
+- approved: '1'
+  author: Teaching teachers for the future | UOC UNESCO Chair in e-Learning Blog
+  author_email: null
+  author_ip: 213.73.37.88
+  author_url: http://unescochair-elearning.uoc.edu/blog/2011/07/25/teaching-teachers-for-the-future/
+  content: '[...] article was written and posted by David Jones in his [...]'
+  date: '2011-07-26 00:41:15'
+  date_gmt: '2011-07-25 14:41:15'
+  id: '99'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Choosing the wrong drivers for whole system reform
   url: /blog/2011/07/13/choosing-the-wrong-drivers-for-whole-system-reform/
+template: blog-post.html
 title: Teaching teachers for the future
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Peter Albion
-      author_email: palbion@twitter.example.com
-      author_ip: 124.186.167.151
-      author_url: http://twitter.com/palbion
-      content: 'It''s not so easy to find up to date material about TTF on the web at
-        present. I''m not sure why that is but I suspect it is that most of those involved
-        are busy trying to catch up to the ambitious timeline that was delayed by the
-        need to get the project signed off before beginning.
-    
-    
-        ALTC continue to provide some services while they exist but their role as lead
-        agency has been picked up by Education Services Australia. The project was conceived
-        by a group initiated by the Council of Deans of Education but it was thought safer
-        to put the lead outside the university sector which struggles to know when to
-        cooperate and when to compete - both are required by the political masters at
-        different times.
-    
-    
-        The ICT ''elaborations'' to the graduate standards in component 1 have become
-        ''dimensions'' but are likely to see further refinement. There is some concern
-        about trying to compartmentalise something that needs to be holistic. Time will
-        tell how that proceeds.
-    
-    
-        The first set of exemplars for component 2 will be up and available for trial
-        in the next few weeks. Attempts were made to locate and use existing resources
-        but suitable materials that had appropriate licensing were not found.
-    
-    
-        In our case (USQ) we hope that the work being done by the  experienced ICT educators
-        will inform ongoing change to courses and assist teacher educators with getting
-        up to speed.
-    
-    
-        The project is ambitious but it is needed and it is opening up lines of communication
-        across the sector. Some of those lines have existed for a long time but there
-        were also pockets of isolation that may be opened up in this process. I''m hopeful
-        that there will be lasting benefits.'
-      date: '2011-07-19 18:19:34'
-      date_gmt: '2011-07-19 08:19:34'
-      id: '97'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 123.211.33.54
-      author_url: https://djon.es/blog/
-      content: 'G''day Peter,
-    
-    
-        Thanks for taking the time to reply. I must agree with your observation about
-        the difficulty of finding up to date information about the TTF online. I spent
-        most of yesterday morning searching to find what I did.
-    
-    
-        I take your point about people being busy actually working on the project, but
-        it also makes me wonder if this might be a symptom of a deeper problem. It strikes
-        me that there might be a potential disconnect between the TTF and its underlying
-        assumptions and the nature of the "digital world" that the TTF and the DER more
-        broadly are meant to be preparing teachers and students for.
-    
-    
-        i.e. it''s arguable that if the TTF/DER "got" the "digital world", then the projects
-        would be actively engaged online in a range of places. That there would be a plethora
-        of information about the TTF and its components freely and actively being constructed
-        via various online communities. Instead, what I find tends to be completed press
-        releases, publicity statements and research outputs.
-    
-    
-        There aren''t any open blogs, wikis, twitter accounts etc that are showing the
-        working of these projects and allowing interested, but not directly involved,
-        folk to engage and comment. The closest I''ve gotten is a couple of blog posts
-        from teachers who had been involved in some of the standards meetings. It''s this
-        same lack of engagement with the "digital world" that seems to underpin much of
-        the work of Education Services Australia in developing authoritative repositories.
-    
-    
-        There seems to be a focus on generating best practice and standards, rather than
-        engaging, interacting etc.
-    
-    
-        Even with those reservations, it is a positive move to see such an interest in
-        this area. It will at least get some folk talking. I hope it succeeds (at some
-        level) in spite of my reservations.
-    
-    
-        David.'
-      date: '2011-07-20 10:35:20'
-      date_gmt: '2011-07-20 00:35:20'
-      id: '98'
-      parent: '97'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Teaching teachers for the future | UOC UNESCO Chair in e-Learning Blog
-      author_email: null
-      author_ip: 213.73.37.88
-      author_url: http://unescochair-elearning.uoc.edu/blog/2011/07/25/teaching-teachers-for-the-future/
-      content: '[...] article was written and posted by David Jones in his [...]'
-      date: '2011-07-26 00:41:15'
-      date_gmt: '2011-07-25 14:41:15'
-      id: '99'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a bit of a summary and initial reflection on the [Teaching teachers for the future](http://www.altc.edu.au/november2010-teaching-teachers-future) project that is currently underway in Australia as part of the Australian Government's [Digital Education Revolution](http://www.deewr.gov.au/Schooling/DigitalEducationRevolution/) (DER). The project
 

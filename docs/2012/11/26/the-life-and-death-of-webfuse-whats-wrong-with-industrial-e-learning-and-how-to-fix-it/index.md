@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
@@ -6,61 +6,58 @@ categories:
 - psframework
 - thesis
 - webfuse
-date: 2012-11-26 03:41:10+10:00
+comments: []
+date: 2012-11-25 17:41:10
 next:
   text: '"Moving beyond a fashion: likely paths and pitfalls for learning analytics"'
   url: /blog/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/
+pingbacks:
+- approved: '1'
+  author: 'The life and death of Webfuse: What&rsquo;s wrong with industrial e-learning
+    and how to fix&nbsp;it | Gamification of VET | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/gamification-of-vocational-education/p/3478199059/the-life-and-death-of-webfuse-what-s-wrong-with-industrial-e-learning-and-how-to-fix-it
+  content: '[...] Drawing on the 14-year life and death of an integrated online learning
+    environment used by tens of thousands of people, this paper argues that many of
+    the principles and practices underpinning industrial e-learning &ndash; the current
+    dominant institutional model &ndash; are inappropriate. The paper illustrates
+    how industrial e-learning can limit outcomes of tertiary e-learning and limits
+    the abilities of universities to respond to uncertainty and effectively explore
+    the future of learning. It limits their ability to learn. The paper proposes one
+    alternate set of successfully implemented principles and practices as being more
+    appropriate for institutions seeking to learn for the future and lead in a climate
+    of change.&nbsp; [...]'
+  date: '2012-11-26 16:20:32'
+  date_gmt: '2012-11-26 06:20:32'
+  id: '511'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '#ascilite2012 technical support and the tail wagging the dog &laquo; The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 216.151.210.24
+  author_url: https://djon.es/blog/2012/12/02/tail-wagging-the-dog/
+  content: '[...] is somewhat ironic given that the aim of the presentation, the paper
+    and my thesis was to argue that university e-learning suffers from exactly the
+    same [...]'
+  date: '2012-12-02 10:28:00'
+  date_gmt: '2012-12-02 00:28:00'
+  id: '512'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A triumph of the explicit over the tacit and the subsequent loss of learning
   url: /blog/2012/11/08/a-triumph-of-the-explicit-over-the-tacit-and-the-subsequent-loss-of-learning/
 tags:
 - ascilite2012
+template: blog-post.html
 title: '"The life and death of Webfuse: What''s wrong with industrial e-learning and
   how to fix it"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'The life and death of Webfuse: What&rsquo;s wrong with industrial e-learning
-        and how to fix&nbsp;it | Gamification of VET | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/gamification-of-vocational-education/p/3478199059/the-life-and-death-of-webfuse-what-s-wrong-with-industrial-e-learning-and-how-to-fix-it
-      content: '[...] Drawing on the 14-year life and death of an integrated online learning
-        environment used by tens of thousands of people, this paper argues that many of
-        the principles and practices underpinning industrial e-learning &ndash; the current
-        dominant institutional model &ndash; are inappropriate. The paper illustrates
-        how industrial e-learning can limit outcomes of tertiary e-learning and limits
-        the abilities of universities to respond to uncertainty and effectively explore
-        the future of learning. It limits their ability to learn. The paper proposes one
-        alternate set of successfully implemented principles and practices as being more
-        appropriate for institutions seeking to learn for the future and lead in a climate
-        of change.&nbsp; [...]'
-      date: '2012-11-26 16:20:32'
-      date_gmt: '2012-11-26 06:20:32'
-      id: '511'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '#ascilite2012 technical support and the tail wagging the dog &laquo; The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 216.151.210.24
-      author_url: https://djon.es/blog/2012/12/02/tail-wagging-the-dog/
-      content: '[...] is somewhat ironic given that the aim of the presentation, the paper
-        and my thesis was to argue that university e-learning suffers from exactly the
-        same [...]'
-      date: '2012-12-02 10:28:00'
-      date_gmt: '2012-12-02 00:28:00'
-      id: '512'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a collection of presentation resources (i.e. the slides) for an ASCILITE'2012 of [this paper](/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/). The paper and presentation are a summary of the outcomes my PhD work. The [thesis](/blog/research/phd-thesis/) goes into much more detail.
 

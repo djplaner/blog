@@ -1,193 +1,191 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-06-20 15:10:58+10:00
+comments:
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: http://wilcoxonblog.wordpress.com
+  content: Get up on the wrong side of the bed, eh?  As an instructional designer
+    at a large university, I probably qualify as a quality nazi.  We're up to a 15-item
+    checklist for new courses.  What's the answer David or anyone?
+  date: '2011-06-21 03:04:02'
+  date_gmt: '2011-06-20 17:04:02'
+  id: '78'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: M-H
+  author_email: mhward@bigpond.net.au
+  author_ip: 129.78.32.24
+  author_url: null
+  content: 'I''m not saying you''re wrong, but some Unis have a different model. The
+    projects we do are requested by academics, and the outcomes aren''t always as
+    expected. Some fail, often because of an idiot academic, but sometimes because
+    of a fatal mismatch in skills between our team and what the academic expects.
+    And we''re all on permanent staff, so we do develop working relationships with
+    faculties. The quality improvement in  learning and teaching that we can demonstrate
+    is the part of the basis for our annual budget, not how many projects we can rah
+    rah about.
+
+
+    I think that we have too much to do with the LMS, but that''s what the system
+    is based on, and we can''t avoid that. There''s an element of ''quality nazi''
+    in what we do (also part of our budget''s requirements), but we try to minimise
+    it. As much as possible we try to engage with the non-idiot academics and support
+    their endeavours to engage students and keep their interest high.
+
+
+    Worst thing is we''re almost completely invisible. Students probably hardly know
+    we exist, many academics think we''re ''techies'' not ''teachies''. But we really
+    do care about the quality of teaching and learning, and we practice ''pedagogy
+    by stealth'' to improve it as much as we can.'
+  date: '2011-06-21 14:38:46'
+  date_gmt: '2011-06-21 04:38:46'
+  id: '80'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.185.177.73
+  author_url: https://djon.es/blog/
+  content: 'G''day Kevin,
+
+
+    Actually the day I wrote this post was a good day, studies finished and a bit
+    of a holiday. However, I had experienced and heard quite a bit in the lead up
+    that had me thinking about this.
+
+
+    Please don''t take the above as suggesting that there is no place at Universities
+    for project management, quality assurance (checklists etc). leadership or academics.
+    These responsibilities and approaches have their place.
+
+
+    The problem I''m bemoaning with the above is that there are people in these jobs
+    that have lost sight of the original purpose, improving learning and teaching.
+    Instead, their focus has become on the project or the quality assurance project.
+
+
+    This isn''t necessarily a conscious decision on their part either. I''ve seen
+    well-meaning folk suffer from <a href="https://djon.es/blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/"
+    rel="nofollow">Confirmation bias, the law of instrument etc.</a>.  i.e. "Oh there
+    are still problems, another check list will solve it."
+
+
+    All of the above are more than useful, but have to be kept in perspective. (Though
+    the idiot academics should just be gotten rid of).
+
+
+    David.'
+  date: '2011-06-21 17:30:47'
+  date_gmt: '2011-06-21 07:30:47'
+  id: '81'
+  parent: '78'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.185.177.73
+  author_url: https://djon.es/blog/
+  content: 'G''day Mary,
+
+
+    A bit like the prior comment, I accept that there are limitations to my claims.
+    There is good in these roles, it''s when they are taken to extremes.
+
+
+    Also, I agree with you that there are real difficulties associated with being
+    the "middle people" in a university setting.  I had quite a few years in similar
+    type of roles and the invisibility/lack of understanding is a problem.
+
+
+    That said, I do believe there remains a danger - for even the best intentioned
+    person in a support role - to cross over the line into one of the above archetypes.
+
+
+    David.'
+  date: '2011-06-21 17:37:20'
+  date_gmt: '2011-06-21 07:37:20'
+  id: '82'
+  parent: '80'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: http://wilcoxonblog.wordpress.com
+  content: 'David -
+
+
+    You are absolutely correct.  I lump these people under the name of Administrative
+    Nazis because they don''t care about the purpose of rules, checklists, etc., only
+    that the rules are followed.
+
+
+    This reminds me of a time when I was doing training with a group of local government
+    supervisors, and attendees were complaining about citizens not following rules,
+    procedures, etc.  I ask what a solution might look like.  The best response was
+    something like, "Make a rule that people have to follow the rules."
+
+
+    They''re out there.'
+  date: '2011-06-22 01:28:22'
+  date_gmt: '2011-06-21 15:28:22'
+  id: '83'
+  parent: '78'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: http://wilcoxonblog.wordpress.com
+  content: 'I''d like to refer you to a relevant article by a member of WCET in the
+    U.S.  She describes the problem instructional designers face.  At the pace we''re
+    going, we might make real progress in 1,000 years or so.
+
+
+    http://wcetblog.wordpress.com/2011/06/15/more-aggressive-in-quality-debate/'
+  date: '2011-06-22 01:34:46'
+  date_gmt: '2011-06-21 15:34:46'
+  id: '84'
+  parent: '80'
+  type: comment
+  user_id: '0'
+date: 2011-06-20 05:10:58
 next:
   text: '"Death of learning in universities: Part II. Explanation, origins, rampaging
     researchers and catastrophic consultants"'
   url: /blog/2011/06/21/death-of-learning-in-universities-part-ii-explanation-origins-rampaging-researchers-and-catastrophic-consultants/
+pingbacks:
+- approved: '1'
+  author: Skepticlawyer &raquo; What does &#8216;online learning&#8217; really mean?
+  author_email: null
+  author_ip: 74.207.253.59
+  author_url: http://skepticlawyer.ozblogistan.com.au/2011/06/22/what-does-online-learning-really-mean/
+  content: '[...] I have a rosy view of how online learning works at my institution.
+    David Jones takes a light-hearted view of the situation in many universities,
+    but there is an underlying serious message, and he made me [...]'
+  date: '2011-06-22 16:19:46'
+  date_gmt: '2011-06-22 06:19:46'
+  id: '85'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A new term dawns
   url: /blog/2011/06/20/a-new-term-dawns/
+template: blog-post.html
 title: '"The death of learning in higher education: quality nazis, "strategic" leadership,
   blinkered project managers and idiot academics"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: http://wilcoxonblog.wordpress.com
-      content: Get up on the wrong side of the bed, eh?  As an instructional designer
-        at a large university, I probably qualify as a quality nazi.  We're up to a 15-item
-        checklist for new courses.  What's the answer David or anyone?
-      date: '2011-06-21 03:04:02'
-      date_gmt: '2011-06-20 17:04:02'
-      id: '78'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: M-H
-      author_email: mhward@bigpond.net.au
-      author_ip: 129.78.32.24
-      author_url: null
-      content: 'I''m not saying you''re wrong, but some Unis have a different model. The
-        projects we do are requested by academics, and the outcomes aren''t always as
-        expected. Some fail, often because of an idiot academic, but sometimes because
-        of a fatal mismatch in skills between our team and what the academic expects.
-        And we''re all on permanent staff, so we do develop working relationships with
-        faculties. The quality improvement in  learning and teaching that we can demonstrate
-        is the part of the basis for our annual budget, not how many projects we can rah
-        rah about.
-    
-    
-        I think that we have too much to do with the LMS, but that''s what the system
-        is based on, and we can''t avoid that. There''s an element of ''quality nazi''
-        in what we do (also part of our budget''s requirements), but we try to minimise
-        it. As much as possible we try to engage with the non-idiot academics and support
-        their endeavours to engage students and keep their interest high.
-    
-    
-        Worst thing is we''re almost completely invisible. Students probably hardly know
-        we exist, many academics think we''re ''techies'' not ''teachies''. But we really
-        do care about the quality of teaching and learning, and we practice ''pedagogy
-        by stealth'' to improve it as much as we can.'
-      date: '2011-06-21 14:38:46'
-      date_gmt: '2011-06-21 04:38:46'
-      id: '80'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.185.177.73
-      author_url: https://djon.es/blog/
-      content: 'G''day Kevin,
-    
-    
-        Actually the day I wrote this post was a good day, studies finished and a bit
-        of a holiday. However, I had experienced and heard quite a bit in the lead up
-        that had me thinking about this.
-    
-    
-        Please don''t take the above as suggesting that there is no place at Universities
-        for project management, quality assurance (checklists etc). leadership or academics.
-        These responsibilities and approaches have their place.
-    
-    
-        The problem I''m bemoaning with the above is that there are people in these jobs
-        that have lost sight of the original purpose, improving learning and teaching.
-        Instead, their focus has become on the project or the quality assurance project.
-    
-    
-        This isn''t necessarily a conscious decision on their part either. I''ve seen
-        well-meaning folk suffer from <a href="https://djon.es/blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/"
-        rel="nofollow">Confirmation bias, the law of instrument etc.</a>.  i.e. "Oh there
-        are still problems, another check list will solve it."
-    
-    
-        All of the above are more than useful, but have to be kept in perspective. (Though
-        the idiot academics should just be gotten rid of).
-    
-    
-        David.'
-      date: '2011-06-21 17:30:47'
-      date_gmt: '2011-06-21 07:30:47'
-      id: '81'
-      parent: '78'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.185.177.73
-      author_url: https://djon.es/blog/
-      content: 'G''day Mary,
-    
-    
-        A bit like the prior comment, I accept that there are limitations to my claims.
-        There is good in these roles, it''s when they are taken to extremes.
-    
-    
-        Also, I agree with you that there are real difficulties associated with being
-        the "middle people" in a university setting.  I had quite a few years in similar
-        type of roles and the invisibility/lack of understanding is a problem.
-    
-    
-        That said, I do believe there remains a danger - for even the best intentioned
-        person in a support role - to cross over the line into one of the above archetypes.
-    
-    
-        David.'
-      date: '2011-06-21 17:37:20'
-      date_gmt: '2011-06-21 07:37:20'
-      id: '82'
-      parent: '80'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: http://wilcoxonblog.wordpress.com
-      content: 'David -
-    
-    
-        You are absolutely correct.  I lump these people under the name of Administrative
-        Nazis because they don''t care about the purpose of rules, checklists, etc., only
-        that the rules are followed.
-    
-    
-        This reminds me of a time when I was doing training with a group of local government
-        supervisors, and attendees were complaining about citizens not following rules,
-        procedures, etc.  I ask what a solution might look like.  The best response was
-        something like, "Make a rule that people have to follow the rules."
-    
-    
-        They''re out there.'
-      date: '2011-06-22 01:28:22'
-      date_gmt: '2011-06-21 15:28:22'
-      id: '83'
-      parent: '78'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: http://wilcoxonblog.wordpress.com
-      content: 'I''d like to refer you to a relevant article by a member of WCET in the
-        U.S.  She describes the problem instructional designers face.  At the pace we''re
-        going, we might make real progress in 1,000 years or so.
-    
-    
-        http://wcetblog.wordpress.com/2011/06/15/more-aggressive-in-quality-debate/'
-      date: '2011-06-22 01:34:46'
-      date_gmt: '2011-06-21 15:34:46'
-      id: '84'
-      parent: '80'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Skepticlawyer &raquo; What does &#8216;online learning&#8217; really mean?
-      author_email: null
-      author_ip: 74.207.253.59
-      author_url: http://skepticlawyer.ozblogistan.com.au/2011/06/22/what-does-online-learning-really-mean/
-      content: '[...] I have a rosy view of how online learning works at my institution.
-        David Jones takes a light-hearted view of the situation in many universities,
-        but there is an underlying serious message, and he made me [...]'
-      date: '2011-06-22 16:19:46'
-      date_gmt: '2011-06-22 06:19:46'
-      id: '85'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Based on my experience in Australian universities I would like to suggest [four archetypes](http://en.wikipedia.org/wiki/Archetype) that are destroying the quality of learning in higher education. They are, in order of arrival at universities:
 

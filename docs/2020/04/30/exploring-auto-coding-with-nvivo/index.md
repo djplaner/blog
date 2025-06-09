@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - bad
 - bricolage
 - shadowsystems
-date: 2020-04-30 16:39:30+10:00
+date: 2020-04-30 06:39:30
 next:
   text: Playing with React.js as a technology for CASA
   url: /blog/2020/05/20/playing-with-react-js-as-a-technology-for-casa/
 previous:
   text: Early steps with Gephi
   url: /blog/2020/04/19/early-steps-with-gephi/
+template: blog-post.html
 title: Exploring auto-coding with NVivo
 type: post
-template: blog-post.html
 ---
 The challenge here is learn more about using NVivo in order to design processes for a research project exploring the prevalence and nature workarounds in higher education learning and teaching.
 
@@ -57,4 +57,4 @@ Importing is straight forward. Need to use the autocode wizard and make some dec
 
 And it all appears to work
 
-![](images/x9SEMDzEGWGCAAAAABJRU5ErkJggg==)
+![](https://djon.es/assets/blog/2020/04/30/exploring-auto-coding-with-nvivo/images/x9SEMDzEGWGCAAAAABJRU5ErkJggg==)

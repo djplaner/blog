@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -7,16 +7,16 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-09-18 16:05:13+10:00
+date: 2010-09-18 06:05:13
 next:
   text: BIM, missing students and Moodle groups
   url: /blog/2010/09/19/bim-missing-students-and-moodle-groups/
 previous:
   text: The office and more procrastination
   url: /blog/2010/09/17/the-office-and-more-procrastination/
+template: blog-post.html
 title: Dilbert as an expository instantiation
 type: post
-template: blog-post.html
 ---
 A few recent posts have been first draft excerpts from my Information Systems Design Theory (ISDT) from emergent university e-learning systems. Being academics and hence somewhat pedantic about these things there are meant to be a number of specific components of an ISDT. One of these is the expository instantiation that is meant to act as both an explanatory device and a platform for testing (Gregor and Jones, 2007) i.e. it's meant to help explain the theory and also examples of testing the theory.
 

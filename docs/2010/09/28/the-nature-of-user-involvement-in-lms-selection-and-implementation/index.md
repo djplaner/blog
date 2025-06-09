@@ -1,40 +1,37 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - thesis
-date: 2010-09-28 16:48:21+10:00
+comments: []
+date: 2010-09-28 06:48:21
 next:
   text: '"Making the LMS more like the Globe Theatre: distributed cognition, the extended
     mind and Moodle"'
   url: /blog/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/
+pingbacks:
+- approved: '1'
+  author: 'The life and death of Webfuse: lessons for learning and leading into the
+    future &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.2.43
+  author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+  content: '[...] For process &#8211; will draw on a few prior publications (thesis-base
+    process posts one and two, OODLA paper, prior ascilite paper, posts (procurement
+    models, role of people in LMS selection) [...]'
+  date: '2012-06-22 14:06:30'
+  date_gmt: '2012-06-22 04:06:30'
+  id: '3166'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM, missing students and Moodle groups
   url: /blog/2010/09/19/bim-missing-students-and-moodle-groups/
+template: blog-post.html
 title: The nature of user involvement in LMS selection and implementation
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'The life and death of Webfuse: lessons for learning and leading into the
-        future &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.2.43
-      author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
-      content: '[...] For process &#8211; will draw on a few prior publications (thesis-base
-        process posts one and two, OODLA paper, prior ascilite paper, posts (procurement
-        models, role of people in LMS selection) [...]'
-      date: '2012-06-22 14:06:30'
-      date_gmt: '2012-06-22 04:06:30'
-      id: '3166'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Given what know (see the below) about the importance of people to the implementation of information systems and also to learning and teaching, how would you characterise the involvement of uses in the selection and implementation of an LMS at most universities? What impact does it have?
 

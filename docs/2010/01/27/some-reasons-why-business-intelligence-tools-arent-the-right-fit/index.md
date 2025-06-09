@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - indicators
 - information-systems
-date: 2010-01-27 13:24:20+10:00
+date: 2010-01-27 03:24:20
 next:
   text: '"BIM - tidy up #2"'
   url: /blog/2010/01/27/bim-tidy-up-2/
@@ -13,9 +13,9 @@ tags:
 - academicanalytics
 - analytics
 - knowledgemanagement
+template: blog-post.html
 title: Some reasons why business intelligence tools aren't the right fit
 type: post
-template: blog-post.html
 ---
 The following started as an attempt to develop an argument that business intelligence/data warehouse tools are not a perfect fit for what is broadly called academic analytics. In fact, as I was writing this post I realised that it's actually an argument that business intelligence tools aren't a perfect fit for what I'm interested in doing and that is **not** academic analytics.
 
@@ -55,7 +55,7 @@ I'm not convinced that this is the best approach and the following is my attempt
 
 van Dyk (2008) describes "a business intelligence approach is followed in an attempt to take advantage ICT to enable the evaluation of the effectiveness of the process of facilitating learning" and argues that the context that leads to effective data for decision making "can only be created when a deliberate business intelligence approach if followed". The paper also contains a description of a data warehouse model that accomplishes exactly that. The framework is based on the work of Kimball and Ross (2002) and is shown below
 
-[![The business intelligence framework](images/4307338825_5382f29880_m.jpg)](http://www.flickr.com/photos/david_jones/4307338825/ "The business intelligence framework (van Dyk, 2008), on Flickr")
+[![The business intelligence framework](https://djon.es/assets/blog/2010/01/27/some-reasons-why-business-intelligence-tools-arent-the-right-fit/images/4307338825_5382f29880_m.jpg)](http://www.flickr.com/photos/david_jones/4307338825/ "The business intelligence framework (van Dyk, 2008), on Flickr")
 
 As you can note this business intelligence framework includes as a core, and very important, part a data warehouse. Not surprising as it is based on a book about data warehouses.
 
@@ -69,7 +69,7 @@ I'm trying to develop an argument that a data warehouse, defined as a tool/syste
 
 In the early days of the indicators project we developed an image to represent what we were thinking the project would do. It's shown below.
 
-\[caption id="" align="aligncenter" width="235" caption="Overview of indicators project"\][![Project Overview](images/3973651740_a069cd611d.jpg "Project Overview")](http://farm4.static.flickr.com/3440/3973651740_1cc3c62d6b_o_d.png)\[/caption\]
+\[caption id="" align="aligncenter" width="235" caption="Overview of indicators project"\][![Project Overview](https://djon.es/assets/blog/2010/01/27/some-reasons-why-business-intelligence-tools-arent-the-right-fit/images/3973651740_a069cd611d.jpg "Project Overview")](http://farm4.static.flickr.com/3440/3973651740_1cc3c62d6b_o_d.png)\[/caption\]
 
 There is certainly some similarity between this image and the business intelligence framework above. Both images encapsulate the following ideas:
 

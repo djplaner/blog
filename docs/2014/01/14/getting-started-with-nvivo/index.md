@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - edc3100
 - nvivo
-date: 2014-01-14 15:39:07+10:00
+comments: []
+date: 2014-01-14 05:39:07
 next:
   text: Analysing some course evaluation comments
   url: /blog/2014/01/15/analysing-some-course-evaluation-comments/
+pingbacks:
+- approved: '1'
+  author: Analysing some course evaluation comments | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.68
+  author_url: https://djon.es/blog/2014/01/15/analysing-some-course-evaluation-comments/
+  content: '[&#8230;] analysis was used as an initial exploration of using NVivo.
+    The method used [&#8230;]'
+  date: '2014-01-15 11:34:05'
+  date_gmt: '2014-01-15 01:34:05'
+  id: '929'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Evaluating EDC3100 in 2013 - step 1
   url: /blog/2014/01/13/evaluating-edc3100-in-2013-step-1/
+template: blog-post.html
 title: Getting started with NVivo
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Analysing some course evaluation comments | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.68
-      author_url: https://djon.es/blog/2014/01/15/analysing-some-course-evaluation-comments/
-      content: '[&#8230;] analysis was used as an initial exploration of using NVivo.
-        The method used [&#8230;]'
-      date: '2014-01-15 11:34:05'
-      date_gmt: '2014-01-15 01:34:05'
-      id: '929'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 What follows is some initial explorations into the use of [NVivo](http://www.qsrinternational.com/products_nvivo.aspx) for the qualitative analysis of content. I'm going to use the task of [analysing student comments](/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/) from the evaluation of a course as a test case.
 

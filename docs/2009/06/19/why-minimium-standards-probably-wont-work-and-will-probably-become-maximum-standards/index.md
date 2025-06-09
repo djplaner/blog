@@ -1,142 +1,140 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - thesis
-date: 2009-06-19 13:30:07+10:00
+comments:
+- approved: '1'
+  author: Thomas
+  author_email: thomas.duggan@gmail.com
+  author_ip: 138.77.2.130
+  author_url: null
+  content: '"i.e. many of the academics will treat the minimum standards as the only
+    things they need to do. It will limit the desire for innovation."
+
+
+    This is the one that concerns me the most, and simply changing the LMS isn''t
+    going to bring on any change.'
+  date: '2009-06-19 15:31:31'
+  date_gmt: '2009-06-19 05:31:31'
+  id: '2609'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: My biggest fear of this approach is for the curriculum designer staff being
+    brought in to "police" the minimum standards.  The phrase "shoot the messenger"
+    springs to mind.
+  date: '2009-06-19 15:49:33'
+  date_gmt: '2009-06-19 05:49:33'
+  id: '2610'
+  parent: '2609'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'It''s now almost a year since I posted this. The first offering of the
+    "minimum standards" is almost complete and a <a href="http://www.masmithers.com/2010/05/16/the-problem-with-mopps/"
+    rel="nofollow">post from Mark Smithers</a> asks "Does it work?"
+
+
+    Based on my admittedly biased perspective, I would answer no.
+
+
+    A few weeks before the start of term most academics discovered that they had to
+    complete a check list and consequently prove that their site met the minimum standards.  During
+    this time I heard many - but still anecdotal - reports that the moderators and
+    teaching staff had arrived at a solution.  i.e. they ticked all the boxes without
+    checking.
+
+
+    If you talk to some other folk, you might get another perspective.'
+  date: '2010-05-17 13:48:06'
+  date_gmt: '2010-05-17 03:48:06'
+  id: '2613'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2009-06-19 03:30:07
 next:
   text: Learning and teaching processes
   url: /blog/2009/06/19/learning-and-teaching-processes/
+pingbacks:
+- approved: '1'
+  author: Questions about alternatives to curriculum mapping &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.248.141
+  author_url: https://djon.es/blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
+  content: '[...] Now, the above might come across as to overly negative for some.
+    However, it is my belief that this malaise underpins much of what goes on in universities
+    at the moment and is either not recognised or widely ignored. It could be that
+    I am wrong, however, there are some other folk who have made similar comments.
+    For example, Cavallo (2004) that I&#8217;ve talked about here and here. [...]'
+  date: '2010-01-19 13:19:58'
+  date_gmt: '2010-01-19 03:19:58'
+  id: '2611'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Are the minimum standards related to the absence of good data? &laquo; Col&#8217;s
+    Weblog
+  author_email: null
+  author_ip: 74.200.247.113
+  author_url: http://beerc.wordpress.com/2010/02/15/are-the-minimum-standards-related-to-the-absence-of-good-data/
+  content: '[...] raised concerns at the way it has been implemented. Some of their
+    concerns align with those that David mentioned and some just do not appreciate
+    the uninvited oversight. Either way their discomfort with the [...]'
+  date: '2010-02-15 20:52:26'
+  date_gmt: '2010-02-15 10:52:26'
+  id: '2612'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'The life and death of Webfuse: lessons for learning and leading into the
+    future &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.2.43
+  author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+  content: '[...] Cavallo and the idea that any sort of change is learning and needs
+    to connect to how people [...]'
+  date: '2012-06-22 14:06:33'
+  date_gmt: '2012-06-22 04:06:33'
+  id: '2614'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  content: '[...] that I first posted about the silliness of L&amp;T evaluations,
+    academic staff development, and minimum standards for course websites. Somethings
+    which four/five years later has changed [...]'
+  date: '2013-01-24 15:06:07'
+  date_gmt: '2013-01-24 05:06:07'
+  id: '2615'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Examination focus and what it might tell us about learning and teaching
   url: /blog/2009/06/19/examination-focus-and-what-it-might-tell-us-about-learning-and-teaching/
+template: blog-post.html
 title: Why minimium standards (probably) won't work and will probably become maximum
   standards
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Thomas
-      author_email: thomas.duggan@gmail.com
-      author_ip: 138.77.2.130
-      author_url: null
-      content: '"i.e. many of the academics will treat the minimum standards as the only
-        things they need to do. It will limit the desire for innovation."
-    
-    
-        This is the one that concerns me the most, and simply changing the LMS isn''t
-        going to bring on any change.'
-      date: '2009-06-19 15:31:31'
-      date_gmt: '2009-06-19 05:31:31'
-      id: '2609'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: My biggest fear of this approach is for the curriculum designer staff being
-        brought in to "police" the minimum standards.  The phrase "shoot the messenger"
-        springs to mind.
-      date: '2009-06-19 15:49:33'
-      date_gmt: '2009-06-19 05:49:33'
-      id: '2610'
-      parent: '2609'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'It''s now almost a year since I posted this. The first offering of the
-        "minimum standards" is almost complete and a <a href="http://www.masmithers.com/2010/05/16/the-problem-with-mopps/"
-        rel="nofollow">post from Mark Smithers</a> asks "Does it work?"
-    
-    
-        Based on my admittedly biased perspective, I would answer no.
-    
-    
-        A few weeks before the start of term most academics discovered that they had to
-        complete a check list and consequently prove that their site met the minimum standards.  During
-        this time I heard many - but still anecdotal - reports that the moderators and
-        teaching staff had arrived at a solution.  i.e. they ticked all the boxes without
-        checking.
-    
-    
-        If you talk to some other folk, you might get another perspective.'
-      date: '2010-05-17 13:48:06'
-      date_gmt: '2010-05-17 03:48:06'
-      id: '2613'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Questions about alternatives to curriculum mapping &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.248.141
-      author_url: https://djon.es/blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
-      content: '[...] Now, the above might come across as to overly negative for some.
-        However, it is my belief that this malaise underpins much of what goes on in universities
-        at the moment and is either not recognised or widely ignored. It could be that
-        I am wrong, however, there are some other folk who have made similar comments.
-        For example, Cavallo (2004) that I&#8217;ve talked about here and here. [...]'
-      date: '2010-01-19 13:19:58'
-      date_gmt: '2010-01-19 03:19:58'
-      id: '2611'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Are the minimum standards related to the absence of good data? &laquo; Col&#8217;s
-        Weblog
-      author_email: null
-      author_ip: 74.200.247.113
-      author_url: http://beerc.wordpress.com/2010/02/15/are-the-minimum-standards-related-to-the-absence-of-good-data/
-      content: '[...] raised concerns at the way it has been implemented. Some of their
-        concerns align with those that David mentioned and some just do not appreciate
-        the uninvited oversight. Either way their discomfort with the [...]'
-      date: '2010-02-15 20:52:26'
-      date_gmt: '2010-02-15 10:52:26'
-      id: '2612'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'The life and death of Webfuse: lessons for learning and leading into the
-        future &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.2.43
-      author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
-      content: '[...] Cavallo and the idea that any sort of change is learning and needs
-        to connect to how people [...]'
-      date: '2012-06-22 14:06:33'
-      date_gmt: '2012-06-22 04:06:33'
-      id: '2614'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
-      content: '[...] that I first posted about the silliness of L&amp;T evaluations,
-        academic staff development, and minimum standards for course websites. Somethings
-        which four/five years later has changed [...]'
-      date: '2013-01-24 15:06:07'
-      date_gmt: '2013-01-24 05:06:07'
-      id: '2615'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I've reached a phase in my thesis work that allows me, long after I should have, to return to Cavallo (2004). I had previously put in a [place holder](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) to remind me to go back to this paper. The full impact of the paper will likely become evident over the next few days, but this post focuses specifically on an issue I see arising locally.
 

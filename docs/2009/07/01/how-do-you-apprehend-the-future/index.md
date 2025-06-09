@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - elearning
 - futures
-date: 2009-07-01 21:43:52+10:00
+comments: []
+date: 2009-07-01 11:43:52
 next:
   text: '"PhD Update #16 - return from a break"'
   url: /blog/2009/07/05/phd-update-16-return-from-a-break/
+pingbacks:
+- approved: '1'
+  author: How will universities change over ten years? &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/08/04/how-will-universities-change-over-ten-years/
+  content: '[...] own views so that it can inform my practice. In part, I&#8217;ve
+    already started this process with a post reflecting on a EDUCAUSE Review article
+    by Bryan [...]'
+  date: '2009-08-04 13:39:41'
+  date_gmt: '2009-08-04 03:39:41'
+  id: '2634'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Alternative to clickers - freeing up the physical location limitation
   url: /blog/2009/06/30/alternative-to-clickers/
+template: blog-post.html
 title: How do you "apprehend the future"
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: How will universities change over ten years? &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/08/04/how-will-universities-change-over-ten-years/
-      content: '[...] own views so that it can inform my practice. In part, I&#8217;ve
-        already started this process with a post reflecting on a EDUCAUSE Review article
-        by Bryan [...]'
-      date: '2009-08-04 13:39:41'
-      date_gmt: '2009-08-04 03:39:41'
-      id: '2634'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an attempt to reflect upon [an EDUCAUSE Review article](http://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume44/ApprehendingtheFutureEmergingT/171774) by [Bryan Alexander](http://infocult.typepad.com/about.html) entitled "Apprehending the Future: Emerging Technologies, from Science Fiction to Campus Reality". I'm doing this because I believe the topic, at least at first glance, has connections with the [new role](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I'm meant to fulfill at my current institution.
 

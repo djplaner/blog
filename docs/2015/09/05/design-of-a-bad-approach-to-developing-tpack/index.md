@@ -1,150 +1,148 @@
----
+﻿---
 categories:
 - bad
 - dejavu
 - e-learning
-date: 2015-09-05 16:30:42+10:00
+comments:
+- approved: '1'
+  author: damoclarky
+  author_email: d.clark@cqu.edu.au
+  author_ip: 118.211.203.11
+  author_url: null
+  content: "Hi David,\n\nQuite an ambitious project.\n\nAs I was approaching the section\
+    \ on 'forking', I too was thinking about the distributed nature of modern version\
+    \ controls systems such as git, which I assume is the origin of the term 'fork'\
+    \ in this context.\n\nA few random thoughts, particularly relating to some of\
+    \ your questions and unexplored challenges.\n\nNaturally (and unsurprisingly I'm\
+    \ sure), I'm immediately drawn to the issue of security.  This type of arrangement\
+    \ of shared and distributed model is ripe for exploitation by all sorts of nefarious\
+    \ characters.\n\nI am reminded of a distributed model as an alternative to the\
+    \ central authority model, such as is used with digital signing authorities and\
+    \ so on.  There is the 'web of trust' model that is used where trust relationships\
+    \ between individuals/peers are made by digitally signing each other's public\
+    \ keys.  By degrees of separation, levels of trust can be calculated.  This type\
+    \ of model might be a reasonable fit for ensuring that vines you are engaging\
+    \ with and 'forking' from are trustworthy.\n\nI still see some limitations and\
+    \ examples of the design being shackled to hierarchy.  For instance, the approach\
+    \ of forking while allows distribution, ultimately results in tree-like structures.\
+    \  It is github - a centralised/commercialised implementation of a distributed\
+    \ VCS - git.\n\nThe following passage also doesn't really diverge from the hierarchical\
+    \ tree type model that you are attempting to avoid:\n\n\"If the \u201Cscript\u201D\
+    \ supported multiple \u201Cdatabase\u201D pages that would offer support for an\
+    \ individual to support the multiple identifies. e.g. as a member of my institution\
+    \ I might want to use the institutional \u201Cdatabase\u201D. But as some teaching\
+    \ Education students, I would also like to have an Education \u201Cdatabase\u201D\
+    . As someone teaching the course EDC3100, I might also like to have an EDC3100\
+    \ \u201Cdatabase\u201D.\"\n\nI am thinking that I would want to know what my peers\
+    \ are using, and fork from their scripts, rather than traverse a hierarchy starting\
+    \ with the institution down to the individual.  This point links back to my mention\
+    \ of the web of trust.  For example, I often talk to peers about what addons they\
+    \ use in their browser, and discover some gems that I would probably not otherwise\
+    \ know about.  Of course this is not done via technology but by hallway conversation.\
+    \  The point is the source or inspiration of new scripts would come from trusted\
+    \ individuals from potentially disparate vines (such as other lesser institutions\
+    \ like USQ :) ).  Not the root of the tree (especially with what institutions\
+    \ would typically offer).\n\nIn terms of sharing 'scripts', my first thought was\
+    \ re-invigorating the dying RSS feeds approach and use syndication.  So here is\
+    \ a feed of what scripts my friends are using.  In this way, it doesn't really\
+    \ matter what underlying technology is used as the source of the scripts, provided\
+    \ they conform to the agreed RSS feed format.  Of course, this could be taken\
+    \ a step further in creating an API that is a subset of RSS. Another approach\
+    \ is simply an API outright, which is the modern approach to sharing.\n\nOf course\
+    \ this is on the basis of having not read anything about SFWs.  I'm afraid the\
+    \ term 'wiki' doesn't fill me with excitement these days.\n\nDamo."
+  date: '2015-10-30 14:29:22'
+  date_gmt: '2015-10-30 04:29:22'
+  id: '1420'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2015-09-05 06:30:42
 next:
   text: How NGL can inform my role as teacher
   url: /blog/2015/09/07/how-ngl-can-inform-my-role-as-teacher/
+pingbacks:
+- approved: '1'
+  author: How NGL can inform my role as teacher | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.86.78
+  author_url: https://davidtjones.wordpress.com/2015/09/07/how-ngl-can-inform-my-role-as-teacher/
+  content: '[&#8230;] last post before this one outlines a &#8220;system&#8221; that
+    I&#8217;d like to implement that I think is [&#8230;]'
+  date: '2015-09-07 12:04:13'
+  date_gmt: '2015-09-07 02:04:13'
+  id: '1416'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Requirements, solutions, design, and who should decide | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.86.68
+  author_url: https://davidtjones.wordpress.com/2015/09/09/requirements-solutions-design-and-who-should-decide/
+  content: '[&#8230;] Second, recognise that increasingly people are often using the
+    same digital space. Design the digital space so that &#8220;serendipitous exchanges&#8221;
+    can take place in the digital space. That&#8217;s one of the aims of this project.
+    [&#8230;]'
+  date: '2015-09-09 18:06:55'
+  date_gmt: '2015-09-09 08:06:55'
+  id: '1417'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'University e-learning: Removing the context and adding the sediment | The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.81.171
+  author_url: https://davidtjones.wordpress.com/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
+  content: '[&#8230;] The talk also briefly touched on the idea of a CASA for CASA.
+    This idea was previously described in a post looking at a BAD approach to developing
+    distributed TPACK. [&#8230;]'
+  date: '2015-10-01 12:50:42'
+  date_gmt: '2015-10-01 02:50:42'
+  id: '1418'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What is &#8220;netgl&#8221; and how might it apply to my problem | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.240
+  author_url: https://davidtjones.wordpress.com/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
+  content: '[&#8230;] This recent post is my attempt to answer at least this question
+    from above How can institutional learning and teaching support engage with the
+    situated nature of TPACK and its development? [&#8230;]'
+  date: '2015-10-08 14:21:41'
+  date_gmt: '2015-10-08 04:21:41'
+  id: '1419'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The CSCW view of Knowledge Management | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.104
+  author_url: https://davidtjones.wordpress.com/2015/10/30/the-cscw-view-of-knowledge-management/
+  content: '[&#8230;] All this is especially interesting to me due to my interest
+    in exploring the design and impact of distributed means of sharing knowledge about
+    digital learning [&#8230;]'
+  date: '2015-10-30 16:19:47'
+  date_gmt: '2015-10-30 06:19:47'
+  id: '1421'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Educational technology: deja vu all over again'
   url: /blog/2015/09/03/educational-technology-deja-vu-all-over-again/
 tags:
 - netgl
+template: blog-post.html
 title: Design of a BAD approach to developing TPACK
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: damoclarky
-      author_email: d.clark@cqu.edu.au
-      author_ip: 118.211.203.11
-      author_url: null
-      content: "Hi David,\n\nQuite an ambitious project.\n\nAs I was approaching the section\
-        \ on 'forking', I too was thinking about the distributed nature of modern version\
-        \ controls systems such as git, which I assume is the origin of the term 'fork'\
-        \ in this context.\n\nA few random thoughts, particularly relating to some of\
-        \ your questions and unexplored challenges.\n\nNaturally (and unsurprisingly I'm\
-        \ sure), I'm immediately drawn to the issue of security.  This type of arrangement\
-        \ of shared and distributed model is ripe for exploitation by all sorts of nefarious\
-        \ characters.\n\nI am reminded of a distributed model as an alternative to the\
-        \ central authority model, such as is used with digital signing authorities and\
-        \ so on.  There is the 'web of trust' model that is used where trust relationships\
-        \ between individuals/peers are made by digitally signing each other's public\
-        \ keys.  By degrees of separation, levels of trust can be calculated.  This type\
-        \ of model might be a reasonable fit for ensuring that vines you are engaging\
-        \ with and 'forking' from are trustworthy.\n\nI still see some limitations and\
-        \ examples of the design being shackled to hierarchy.  For instance, the approach\
-        \ of forking while allows distribution, ultimately results in tree-like structures.\
-        \  It is github - a centralised/commercialised implementation of a distributed\
-        \ VCS - git.\n\nThe following passage also doesn't really diverge from the hierarchical\
-        \ tree type model that you are attempting to avoid:\n\n\"If the \u201Cscript\u201D\
-        \ supported multiple \u201Cdatabase\u201D pages that would offer support for an\
-        \ individual to support the multiple identifies. e.g. as a member of my institution\
-        \ I might want to use the institutional \u201Cdatabase\u201D. But as some teaching\
-        \ Education students, I would also like to have an Education \u201Cdatabase\u201D\
-        . As someone teaching the course EDC3100, I might also like to have an EDC3100\
-        \ \u201Cdatabase\u201D.\"\n\nI am thinking that I would want to know what my peers\
-        \ are using, and fork from their scripts, rather than traverse a hierarchy starting\
-        \ with the institution down to the individual.  This point links back to my mention\
-        \ of the web of trust.  For example, I often talk to peers about what addons they\
-        \ use in their browser, and discover some gems that I would probably not otherwise\
-        \ know about.  Of course this is not done via technology but by hallway conversation.\
-        \  The point is the source or inspiration of new scripts would come from trusted\
-        \ individuals from potentially disparate vines (such as other lesser institutions\
-        \ like USQ :) ).  Not the root of the tree (especially with what institutions\
-        \ would typically offer).\n\nIn terms of sharing 'scripts', my first thought was\
-        \ re-invigorating the dying RSS feeds approach and use syndication.  So here is\
-        \ a feed of what scripts my friends are using.  In this way, it doesn't really\
-        \ matter what underlying technology is used as the source of the scripts, provided\
-        \ they conform to the agreed RSS feed format.  Of course, this could be taken\
-        \ a step further in creating an API that is a subset of RSS. Another approach\
-        \ is simply an API outright, which is the modern approach to sharing.\n\nOf course\
-        \ this is on the basis of having not read anything about SFWs.  I'm afraid the\
-        \ term 'wiki' doesn't fill me with excitement these days.\n\nDamo."
-      date: '2015-10-30 14:29:22'
-      date_gmt: '2015-10-30 04:29:22'
-      id: '1420'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: How NGL can inform my role as teacher | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.86.78
-      author_url: https://davidtjones.wordpress.com/2015/09/07/how-ngl-can-inform-my-role-as-teacher/
-      content: '[&#8230;] last post before this one outlines a &#8220;system&#8221; that
-        I&#8217;d like to implement that I think is [&#8230;]'
-      date: '2015-09-07 12:04:13'
-      date_gmt: '2015-09-07 02:04:13'
-      id: '1416'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Requirements, solutions, design, and who should decide | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.86.68
-      author_url: https://davidtjones.wordpress.com/2015/09/09/requirements-solutions-design-and-who-should-decide/
-      content: '[&#8230;] Second, recognise that increasingly people are often using the
-        same digital space. Design the digital space so that &#8220;serendipitous exchanges&#8221;
-        can take place in the digital space. That&#8217;s one of the aims of this project.
-        [&#8230;]'
-      date: '2015-09-09 18:06:55'
-      date_gmt: '2015-09-09 08:06:55'
-      id: '1417'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'University e-learning: Removing the context and adding the sediment | The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.81.171
-      author_url: https://davidtjones.wordpress.com/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
-      content: '[&#8230;] The talk also briefly touched on the idea of a CASA for CASA.
-        This idea was previously described in a post looking at a BAD approach to developing
-        distributed TPACK. [&#8230;]'
-      date: '2015-10-01 12:50:42'
-      date_gmt: '2015-10-01 02:50:42'
-      id: '1418'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What is &#8220;netgl&#8221; and how might it apply to my problem | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.240
-      author_url: https://davidtjones.wordpress.com/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
-      content: '[&#8230;] This recent post is my attempt to answer at least this question
-        from above How can institutional learning and teaching support engage with the
-        situated nature of TPACK and its development? [&#8230;]'
-      date: '2015-10-08 14:21:41'
-      date_gmt: '2015-10-08 04:21:41'
-      id: '1419'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The CSCW view of Knowledge Management | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.104
-      author_url: https://davidtjones.wordpress.com/2015/10/30/the-cscw-view-of-knowledge-management/
-      content: '[&#8230;] All this is especially interesting to me due to my interest
-        in exploring the design and impact of distributed means of sharing knowledge about
-        digital learning [&#8230;]'
-      date: '2015-10-30 16:19:47'
-      date_gmt: '2015-10-30 06:19:47'
-      id: '1421'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Two of my recent publications ([Jones & Clark, 2015](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/); [Jones, Heffernan & Albion, 2016](/blog/publications/)) seek to explore and identify the problems faced by teachers in developing the knowledge necessary to teach in e-learning/digital learning environments. Both suggest that there are significant problems with how this is currently done and offer some theoretical suggestions about how it might be improved. Jones & Clark (2015) suggest that [the BAD/SET mindsets](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) offer one way to understand the problems of the current approaches, and outline some fruitful ways forward.
 
@@ -173,7 +171,7 @@ The aim of this "system" is to:
 
 Most people are familiar with the organisation of species of organisms into evolutionary trees (aka [Phylogenetic trees](https://en.wikipedia.org/wiki/Phylogenetic_tree)), suggested very early on by Darwin.
 
-[![Darwin Exhibition @ Gulbenkian by jcraveiro, on Flickr](images/3459200064_c04be46cc9.jpg "Darwin Exhibition @ Gulbenkian by jcraveiro, on Flickr")](https://www.flickr.com/photos/jcraveiro/3459200064/) [![Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-nd/2.0/)   by  [](https://www.flickr.com/people/jcraveiro/)[jcraveiro](https://www.flickr.com/people/jcraveiro/) [](http://www.imagecodr.org/)
+[![Darwin Exhibition @ Gulbenkian by jcraveiro, on Flickr](https://djon.es/assets/blog/2015/09/05/design-of-a-bad-approach-to-developing-tpack/images/3459200064_c04be46cc9.jpg "Darwin Exhibition @ Gulbenkian by jcraveiro, on Flickr")](https://www.flickr.com/photos/jcraveiro/3459200064/) [![Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License](https://djon.es/assets/blog/2015/09/05/design-of-a-bad-approach-to-developing-tpack/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-nd/2.0/)   by  [](https://www.flickr.com/people/jcraveiro/)[jcraveiro](https://www.flickr.com/people/jcraveiro/) [](http://www.imagecodr.org/)
 
  
 
@@ -183,7 +181,7 @@ However, more recent work has suggested that trees aren't all that effective in 
 
 As shown in the following from [Kunin et al (2005)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1172039/)
 
-[![Three-dimensional representation of the ”Net of Life” ](images/20531566264_8deda48ef4.jpg "Three-dimensional representation of the ”Net of Life”")](https://www.flickr.com/photos/david_jones/20531566264/) [![Creative Commons Attribution 3.0 United States License](images/88x31.png "Creative Commons Attribution 3.0 United States License")](http://creativecommons.org/licenses/by/3.0/us/)   by  [](https://www.flickr.com/people/david_jones/)[David T Jones](https://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+[![Three-dimensional representation of the ”Net of Life” ](https://djon.es/assets/blog/2015/09/05/design-of-a-bad-approach-to-developing-tpack/images/20531566264_8deda48ef4.jpg "Three-dimensional representation of the ”Net of Life”")](https://www.flickr.com/photos/david_jones/20531566264/) [![Creative Commons Attribution 3.0 United States License](https://djon.es/assets/blog/2015/09/05/design-of-a-bad-approach-to-developing-tpack/images/88x31.png "Creative Commons Attribution 3.0 United States License")](http://creativecommons.org/licenses/by/3.0/us/)   by  [](https://www.flickr.com/people/david_jones/)[David T Jones](https://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
 
 ## How it might work
 
@@ -248,7 +246,7 @@ From a purely selfish perspective, I am personally interested "helper applicatio
 
 The intent is that not only is the adoption decision up to the individual, but the development decision is also. The point here is that - to paraphrase the words of Anton Egon - not everyone is going to be able to code, but the great ideas about what to code can come from anywhere.
 
-[![Not eveyone can](images/20967483898_b5c5bec926.jpg)](https://www.flickr.com/photos/david_jones/20967483898/in/dateposted-public/ "Not eveyone can")
+[![Not eveyone can](https://djon.es/assets/blog/2015/09/05/design-of-a-bad-approach-to-developing-tpack/images/20967483898_b5c5bec926.jpg)](https://www.flickr.com/photos/david_jones/20967483898/in/dateposted-public/ "Not eveyone can")
 
 The idea is that this system is helping anyone to make changes to it, not just the people within the IT governance structure. The aim is to move the ability to customise and code from a tree to a network. Or, as more correctly pointed out by @s\_palm, to move from a hierarchical network to an open network.
 

@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - bim2
-date: 2014-01-06 11:37:00+10:00
+comments: []
+date: 2014-01-06 01:37:00
 next:
   text: '"Missing affordances - A partial explanation for the quality of University
     L&#038;T"'
   url: /blog/2014/01/10/missing-affordances-a-partial-explanation-for-the-quality-of-university-lt/
+pingbacks:
+- approved: '1'
+  author: Evaluating EDC3100 in 2013 &#8211; step 1 | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.83
+  author_url: https://djon.es/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/
+  content: '[&#8230;] look at what happened in the course and the course site. Something
+    I&#8217;ve already started with this post trying to visualise blog post [&#8230;]'
+  date: '2014-01-13 10:05:20'
+  date_gmt: '2014-01-13 00:05:20'
+  id: '918'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Reflective Blogging as part of ICT Professional Development to Support Pedagogical
     Change
   url: /blog/2014/01/03/reflective-blogging-as-part-of-ict-professional-development-to-support-pedagogical-change/
+template: blog-post.html
 title: '"Visualising posting frequency: BIM and EDC3100"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Evaluating EDC3100 in 2013 &#8211; step 1 | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.83
-      author_url: https://djon.es/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/
-      content: '[&#8230;] look at what happened in the course and the course site. Something
-        I&#8217;ve already started with this post trying to visualise blog post [&#8230;]'
-      date: '2014-01-13 10:05:20'
-      date_gmt: '2014-01-13 00:05:20'
-      id: '918'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following describes an attempt to develop a visualisation of the frequency with which students in [the course I teach](http://www.usq.edu.au/course/synopses/2014/EDC3100.html) posted to their blogs during two offerings of the course in 2013. A few reasons for doing this
 

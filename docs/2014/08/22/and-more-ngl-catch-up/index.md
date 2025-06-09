@@ -1,56 +1,54 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-08-22 15:52:56+10:00
+comments:
+- approved: '1'
+  author: Annelise Mitchell
+  author_email: annelisemitchell23@gmail.com
+  author_ip: 122.149.28.12
+  author_url: https://plus.google.com/107957743035578075753
+  content: 'Hi David,
+
+
+    I like including students in the development of the criteria but if I had a choice
+    I would remove assessment. That being unlikely, and maybe not desirable, I need
+    to research the area thoroughly as I am basing my comments on my experiences.
+
+
+    What I have learnt in the world of grades is that at the end of the day what matters
+    is what one learns and not the grade. What I did notice is that when one did achieve
+    a high grade they really knew their stuff, inside and out.'
+  date: '2014-08-23 16:31:39'
+  date_gmt: '2014-08-23 06:31:39'
+  id: '1053'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2014-08-22 05:52:56
 next:
   text: Ahh Mendeley and freemium tools
   url: /blog/2014/08/23/ahh-mendeley-and-freemium-tools/
+pingbacks:
+- approved: '1'
+  author: Another tail wagging dog story&#8230; | iambaz47 (aka Simon)
+  author_email: null
+  author_ip: 192.0.83.63
+  author_url: https://iambaz47.wordpress.com/2015/05/03/another-tail-wagging-dog-story/
+  content: "[&#8230;] became clearer to me. I intended to keep this blog specific\
+    \ in relation to the Dog, however, David\u2019s blog in relation to other matters\
+    \ caught my attention when I read his [&#8230;]"
+  date: '2015-05-03 05:18:30'
+  date_gmt: '2015-05-02 19:18:30'
+  id: '1054'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A bit more NGL catchup
   url: /blog/2014/08/21/a-bit-more-ngl-catchup/
+template: blog-post.html
 title: And more NGL catch up
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Annelise Mitchell
-      author_email: annelisemitchell23@gmail.com
-      author_ip: 122.149.28.12
-      author_url: https://plus.google.com/107957743035578075753
-      content: 'Hi David,
-    
-    
-        I like including students in the development of the criteria but if I had a choice
-        I would remove assessment. That being unlikely, and maybe not desirable, I need
-        to research the area thoroughly as I am basing my comments on my experiences.
-    
-    
-        What I have learnt in the world of grades is that at the end of the day what matters
-        is what one learns and not the grade. What I did notice is that when one did achieve
-        a high grade they really knew their stuff, inside and out.'
-      date: '2014-08-23 16:31:39'
-      date_gmt: '2014-08-23 06:31:39'
-      id: '1053'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Another tail wagging dog story&#8230; | iambaz47 (aka Simon)
-      author_email: null
-      author_ip: 192.0.83.63
-      author_url: https://iambaz47.wordpress.com/2015/05/03/another-tail-wagging-dog-story/
-      content: "[&#8230;] became clearer to me. I intended to keep this blog specific\
-        \ in relation to the Dog, however, David\u2019s blog in relation to other matters\
-        \ caught my attention when I read his [&#8230;]"
-      date: '2015-05-03 05:18:30'
-      date_gmt: '2015-05-02 19:18:30'
-      id: '1054'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I had a choice to make. Do a bit of prep of content for the next week of NGL or make more connections with what folk have been doing? I've decided that the later is more important and long overdue.
 

@@ -1,119 +1,117 @@
----
+﻿---
 categories:
 - alignment
-date: 2010-05-19 21:05:17+10:00
+comments:
+- approved: '1'
+  author: Mark Del Lima
+  author_email: noddy@ersatzdesign.com
+  author_ip: 65.115.72.120
+  author_url: http://www.facebook.com/mark.dellima
+  content: 'Hello! This topic is very interesting to me. I want to put together a
+    prototype for a linear, structured curriculum in Moodle. The point is not to create
+    a student-facing course but to provide new teachers with a structure to follow
+    or learn from. For example, Grade 2/Communication Skills/Bimester 1/Daily Lesson
+    Plans 1-x. Each lesson plan would have its own page with a title, high level description,
+    an activity, necessary materials and approximate duration. Additionally, there
+    would be a space for other teachers to share assets, make comments about the lesson
+    plan, etc. The idea is that all of this would be captured and evolve the set of
+    lesson plans. New teachers could learn from experienced teachers in this collaborative
+    space. Is this possible to do in Moodle or is it (as you describe) needed functionality:
+    "curriculum mapping"? Any info would be *great*'
+  date: '2012-02-29 09:57:41'
+  date_gmt: '2012-02-28 23:57:41'
+  id: '3053'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: 'G''day Mark,
+
+
+    Sorry for the delay in replying. Start of semester here, new job etc....
+
+
+    You could probably do something like you''ve suggested in Moodle, but I don''t
+    think you''ll find much active support from Moodle functionality.  At least not
+    without a great deal of exaptation.
+
+
+    Curriculum mapping functionality was one lever I thought could be used to achieve
+    something like what you describe. But mostly because it aligned with one of the
+    passing interests of senior management. Not sure it would be the best way generally
+    speaking, just one way.
+
+
+    Sorry I couldn''t be of more help.  Would love to hear more about any plans you
+    have as you move forward. You idea gels pretty closely with what I''ve been thinking
+    over the last couple of years.
+
+
+    David.'
+  date: '2012-03-05 09:01:18'
+  date_gmt: '2012-03-04 23:01:18'
+  id: '3054'
+  parent: '3053'
+  type: comment
+  user_id: '1'
+date: 2010-05-19 11:05:17
 next:
   text: Draft chapter 4 of the thesis is up
   url: /blog/2010/05/21/draft-chapter-4-of-the-thesis-is-up/
+pingbacks:
+- approved: '1'
+  author: 'Understanding what teachers do: First step in improving L&amp;T &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.138
+  author_url: https://djon.es/blog/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/
+  content: '[...] job I am expected to help improve the quality of teaching and learning.
+    Much of what I do (e.g. Moodle curriculum mapping, the broader alignment project,
+    and the indicators Moodle block) is aimed at modifying the [...]'
+  date: '2010-05-25 10:17:04'
+  date_gmt: '2010-05-25 00:17:04'
+  id: '3050'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: links for 2010-05-26 |
+  author_email: null
+  author_ip: 74.220.219.100
+  author_url: http://okoj.net/james/?p=371
+  content: "[...] How curriculum mapping in Moodle might work \xAB The Weblog of (a)\
+    \ David Jones (tags: moodle) [...]"
+  date: '2010-05-26 20:15:11'
+  date_gmt: '2010-05-26 10:15:11'
+  id: '3051'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Integrating alignment into Moodle and academic practice: A proposal and
+    a RFI &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.146
+  author_url: https://djon.es/blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
+  content: '[...] proposal is based on previous ideas posted here. At the core is
+    the idea of how curriculum mapping might work in Moodle. However, the intent is
+    to do much more than simply modify Moodle. The broader aim is to modify the [...]'
+  date: '2010-07-09 09:26:34'
+  date_gmt: '2010-07-08 23:26:34'
+  id: '3052'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Moving the indicators Moodle block to a factory class
   url: /blog/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/
+template: blog-post.html
 title: How curriculum mapping in Moodle might work
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Mark Del Lima
-      author_email: noddy@ersatzdesign.com
-      author_ip: 65.115.72.120
-      author_url: http://www.facebook.com/mark.dellima
-      content: 'Hello! This topic is very interesting to me. I want to put together a
-        prototype for a linear, structured curriculum in Moodle. The point is not to create
-        a student-facing course but to provide new teachers with a structure to follow
-        or learn from. For example, Grade 2/Communication Skills/Bimester 1/Daily Lesson
-        Plans 1-x. Each lesson plan would have its own page with a title, high level description,
-        an activity, necessary materials and approximate duration. Additionally, there
-        would be a space for other teachers to share assets, make comments about the lesson
-        plan, etc. The idea is that all of this would be captured and evolve the set of
-        lesson plans. New teachers could learn from experienced teachers in this collaborative
-        space. Is this possible to do in Moodle or is it (as you describe) needed functionality:
-        "curriculum mapping"? Any info would be *great*'
-      date: '2012-02-29 09:57:41'
-      date_gmt: '2012-02-28 23:57:41'
-      id: '3053'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: 'G''day Mark,
-    
-    
-        Sorry for the delay in replying. Start of semester here, new job etc....
-    
-    
-        You could probably do something like you''ve suggested in Moodle, but I don''t
-        think you''ll find much active support from Moodle functionality.  At least not
-        without a great deal of exaptation.
-    
-    
-        Curriculum mapping functionality was one lever I thought could be used to achieve
-        something like what you describe. But mostly because it aligned with one of the
-        passing interests of senior management. Not sure it would be the best way generally
-        speaking, just one way.
-    
-    
-        Sorry I couldn''t be of more help.  Would love to hear more about any plans you
-        have as you move forward. You idea gels pretty closely with what I''ve been thinking
-        over the last couple of years.
-    
-    
-        David.'
-      date: '2012-03-05 09:01:18'
-      date_gmt: '2012-03-04 23:01:18'
-      id: '3054'
-      parent: '3053'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Understanding what teachers do: First step in improving L&amp;T &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.138
-      author_url: https://djon.es/blog/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/
-      content: '[...] job I am expected to help improve the quality of teaching and learning.
-        Much of what I do (e.g. Moodle curriculum mapping, the broader alignment project,
-        and the indicators Moodle block) is aimed at modifying the [...]'
-      date: '2010-05-25 10:17:04'
-      date_gmt: '2010-05-25 00:17:04'
-      id: '3050'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: links for 2010-05-26 |
-      author_email: null
-      author_ip: 74.220.219.100
-      author_url: http://okoj.net/james/?p=371
-      content: "[...] How curriculum mapping in Moodle might work \xAB The Weblog of (a)\
-        \ David Jones (tags: moodle) [...]"
-      date: '2010-05-26 20:15:11'
-      date_gmt: '2010-05-26 10:15:11'
-      id: '3051'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Integrating alignment into Moodle and academic practice: A proposal and
-        a RFI &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.146
-      author_url: https://djon.es/blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
-      content: '[...] proposal is based on previous ideas posted here. At the core is
-        the idea of how curriculum mapping might work in Moodle. However, the intent is
-        to do much more than simply modify Moodle. The broader aim is to modify the [...]'
-      date: '2010-07-09 09:26:34'
-      date_gmt: '2010-07-08 23:26:34'
-      id: '3052'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The purpose of this post is to provide a concrete description of how curriculum mapping of a Moodle course might work. The hope is that this will enable a broader array of people to comment on the approach and, in particular, identify flaws or problems. So, please comment.
 
@@ -170,11 +168,11 @@ The following is an example CSV file that can be uploaded into Moodle to achieve
 
 Let's start with an example Moodle course site with "editing turned on". With "editing turned on" you get a collection of additional icons next to just about every element of the site. See the following image (click on it to see a larger version).
 
-[![Moodle course page - editing on](images/4620896622_7a24a047bc_m.jpg)](http://www.flickr.com/photos/david_jones/4620896622/)
+[![Moodle course page - editing on](https://djon.es/assets/blog/2010/05/19/how-curriculum-mapping-in-moodle-might-work/images/4620896622_7a24a047bc_m.jpg)](http://www.flickr.com/photos/david_jones/4620896622/)
 
 Can you see the icon that looks like a hand holding a pen? This is the "edit" icon. If you click on this icon you get taken to the edit page for that item of the Moodle course site. An edit page for a Moodle item contains a number of components specific to the item, and a number of components common to all items. The following image is a portion of the edit page for a Moodle discussion forum with some additional labels added to show the specific and common components.
 
-[![Moodle edit page - outcomes](images/4620284085_d0b3f2e6b5_m.jpg)](http://www.flickr.com/photos/david_jones/4620284085/)
+[![Moodle edit page - outcomes](https://djon.es/assets/blog/2010/05/19/how-curriculum-mapping-in-moodle-might-work/images/4620284085_d0b3f2e6b5_m.jpg)](http://www.flickr.com/photos/david_jones/4620284085/)
 
 Did you spot the "Outcomes" component of the above edit page? It showed a list of "outcomes" which match the graduate attributes of my [current institution](http://www.cqu.edu.au/). Against each "outcome" there was a check box. To "map" this discussion forum against a graduate attribute, you simply check the appropriate box. It would be not a great stretch to think that "Communication" and "Team work" might be appropriate.
 
@@ -182,7 +180,7 @@ Did you spot the "Outcomes" component of the above edit page? It showed a list o
 
 The "on" or "off" nature of the check box is very limited. This is due to the purpose Moodle's current outcome support is meant to fulfill. For curriculum mapping you would want something more like the following.
 
-[![Example curriculum mapping outcomes](images/4620350585_336bb27a99_m.jpg)](http://www.flickr.com/photos/david_jones/4620350585/)
+[![Example curriculum mapping outcomes](https://djon.es/assets/blog/2010/05/19/how-curriculum-mapping-in-moodle-might-work/images/4620350585_336bb27a99_m.jpg)](http://www.flickr.com/photos/david_jones/4620350585/)
 
 The above has two main changes:
 
@@ -201,7 +199,7 @@ With the suggested changes, the copying of the course site would also copy the m
 
 The new "mapping" features of Moodle should encourage/warn the teacher when the alignment is no longer correct. The following image is an example of what a teacher might see if they have changed the Moodle item, but not updated the outcomes/alignment mapping.
 
-[![Out of date mapping](images/4620394457_fc769269aa_m.jpg)](http://www.flickr.com/photos/david_jones/4620394457/)
+[![Out of date mapping](https://djon.es/assets/blog/2010/05/19/how-curriculum-mapping-in-moodle-might-work/images/4620394457_fc769269aa_m.jpg)](http://www.flickr.com/photos/david_jones/4620394457/)
 
 #### Map everything?
 

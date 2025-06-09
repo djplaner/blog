@@ -1,105 +1,103 @@
----
+﻿---
 categories:
 - edc3100
-date: 2014-01-13 10:04:59+10:00
+comments:
+- approved: '1'
+  author: Vicki Farwell
+  author_email: v.farwell@student.qut.edu.au
+  author_ip: 139.86.2.15
+  author_url: https://www.facebook.com/vicki.farwell
+  content: 'Hi David,
+
+    A comprehensive start.  Don''t forget that while the staff were often as mystified
+    as the students in semester 1, speaking for myself, we were a really united and
+    excited team.  It''s a much better course than previously provided and challenging
+    students to reach higher peaks is something we should do, and you do, very well.
+
+    I think one of the refinements is to revisit the blog entries.  My concern is
+    that we are not analysing the quality of the entries by only assessing the frequency
+    of entries.
+
+    Also, for the on campus tutorials at Springfield, I tried to build them around
+    the Learning Path so it wasn''t doubling up, but rather leading them through it...or
+    following them through it as the case turned out sometimes!
+
+    that''s my start on thinking about 2014.'
+  date: '2014-01-16 08:48:53'
+  date_gmt: '2014-01-15 22:48:53'
+  id: '923'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2014-01-13 00:04:59
 next:
   text: Getting started with NVivo
   url: /blog/2014/01/14/getting-started-with-nvivo/
+pingbacks:
+- approved: '1'
+  author: Getting started with NVivo | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.108
+  author_url: https://djon.es/blog/2014/01/14/getting-started-with-nvivo/
+  content: '[&#8230;] into the use of NVivo for the qualitative analysis of content.
+    I&#8217;m going to use the task of analysing student comments from the evaluation
+    of a course as a test [&#8230;]'
+  date: '2014-01-14 15:39:11'
+  date_gmt: '2014-01-14 05:39:11'
+  id: '921'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Analysing some course evaluation comments | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.68
+  author_url: https://djon.es/blog/2014/01/15/analysing-some-course-evaluation-comments/
+  content: '[&#8230;] on the institutional, end of semester course evaluation survey
+    for the course I taught in 2013. This initial post gives some background to the
+    course, the evaluation process (and its limits), links to some of the [&#8230;]'
+  date: '2014-01-15 11:33:55'
+  date_gmt: '2014-01-15 01:33:55'
+  id: '922'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What should be covered in EDC3100? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.8.59
+  author_url: https://djon.es/blog/2014/01/22/what-should-be-covered-in-edc3100/
+  content: '[&#8230;] the next step in thinking about the course I teach. The rough
+    process and background is available in the first post. The first post and the
+    most recent in this series considered student feedback. This post moves [&#8230;]'
+  date: '2014-01-22 15:47:47'
+  date_gmt: '2014-01-22 05:47:47'
+  id: '924'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The formal course evaluation process | An experiment in Networked &amp;
+    Global Learning
+  author_email: null
+  author_ip: 192.0.81.50
+  author_url: http://netgl.wordpress.com/2014/11/11/the-formal-course-evaluation-process/
+  content: '[&#8230;] quite a short survey and I do look at and use the feedback to
+    revise my courses (e.g. this blog post from earlier in the year). As this was
+    the first offering of the course in this format your [&#8230;]'
+  date: '2014-11-11 14:24:21'
+  date_gmt: '2014-11-11 04:24:21'
+  id: '925'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Missing affordances - A partial explanation for the quality of University
     L&#038;T
   url: /blog/2014/01/10/missing-affordances-a-partial-explanation-for-the-quality-of-university-lt/
+template: blog-post.html
 title: Evaluating EDC3100 in 2013 - step 1
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Vicki Farwell
-      author_email: v.farwell@student.qut.edu.au
-      author_ip: 139.86.2.15
-      author_url: https://www.facebook.com/vicki.farwell
-      content: 'Hi David,
-    
-        A comprehensive start.  Don''t forget that while the staff were often as mystified
-        as the students in semester 1, speaking for myself, we were a really united and
-        excited team.  It''s a much better course than previously provided and challenging
-        students to reach higher peaks is something we should do, and you do, very well.
-    
-        I think one of the refinements is to revisit the blog entries.  My concern is
-        that we are not analysing the quality of the entries by only assessing the frequency
-        of entries.
-    
-        Also, for the on campus tutorials at Springfield, I tried to build them around
-        the Learning Path so it wasn''t doubling up, but rather leading them through it...or
-        following them through it as the case turned out sometimes!
-    
-        that''s my start on thinking about 2014.'
-      date: '2014-01-16 08:48:53'
-      date_gmt: '2014-01-15 22:48:53'
-      id: '923'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Getting started with NVivo | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.108
-      author_url: https://djon.es/blog/2014/01/14/getting-started-with-nvivo/
-      content: '[&#8230;] into the use of NVivo for the qualitative analysis of content.
-        I&#8217;m going to use the task of analysing student comments from the evaluation
-        of a course as a test [&#8230;]'
-      date: '2014-01-14 15:39:11'
-      date_gmt: '2014-01-14 05:39:11'
-      id: '921'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Analysing some course evaluation comments | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.68
-      author_url: https://djon.es/blog/2014/01/15/analysing-some-course-evaluation-comments/
-      content: '[&#8230;] on the institutional, end of semester course evaluation survey
-        for the course I taught in 2013. This initial post gives some background to the
-        course, the evaluation process (and its limits), links to some of the [&#8230;]'
-      date: '2014-01-15 11:33:55'
-      date_gmt: '2014-01-15 01:33:55'
-      id: '922'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What should be covered in EDC3100? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.8.59
-      author_url: https://djon.es/blog/2014/01/22/what-should-be-covered-in-edc3100/
-      content: '[&#8230;] the next step in thinking about the course I teach. The rough
-        process and background is available in the first post. The first post and the
-        most recent in this series considered student feedback. This post moves [&#8230;]'
-      date: '2014-01-22 15:47:47'
-      date_gmt: '2014-01-22 05:47:47'
-      id: '924'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The formal course evaluation process | An experiment in Networked &amp;
-        Global Learning
-      author_email: null
-      author_ip: 192.0.81.50
-      author_url: http://netgl.wordpress.com/2014/11/11/the-formal-course-evaluation-process/
-      content: '[&#8230;] quite a short survey and I do look at and use the feedback to
-        revise my courses (e.g. this blog post from earlier in the year). As this was
-        the first offering of the course in this format your [&#8230;]'
-      date: '2014-11-11 14:24:21'
-      date_gmt: '2014-11-11 04:24:21'
-      id: '925'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 It's time to reflect on what happened in [EDC3100, ICTs and Pedagogy](http://www.usq.edu.au/course/synopses/2014/EDC3100.html) last year. In another couple of months semester will start and in a couple of weeks I'm scheduled to talk with some of the teaching staff. The following is the first of a few posts that will serve the basis for discussions with other members of the teaching staff, an artefact to show the 2014 students some evidence of thought and rationale for the course they're taking, and perhaps to spark some ideas from you, the reader.
 
@@ -132,13 +130,13 @@ Semester 1 was problematic. Mostly because the assessment and specific tasks eac
 
 Having taught both semester this was evident. It also shows up in the student evaluations. For example, the image (click on it to see a bigger version) that follows is the first chart from the [Semester 2 students](https://drive.google.com/file/d/0Bx9aZ7LiPYTxMVloOVlidy03MGc/view?usp=sharing) (remember these are online only). It shows comparative means for the standard 8 questions (see the [PDF complete view](https://drive.google.com/file/d/0Bx9aZ7LiPYTxMVloOVlidy03MGc/view?usp=sharing) for the actual questions) for the class, the course and the faculty. In this image class (online students) and course are the same as all students are in the online "class".
 
-[![Semester 2 EDC3100 Comparative Means](images/11863092345_c3162705af.jpg)](https://www.flickr.com/photos/david_jones/11863092345/ "Semester 2 EDC3100 Comparative Means")
+[![Semester 2 EDC3100 Comparative Means](https://djon.es/assets/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/images/11863092345_c3162705af.jpg)](https://www.flickr.com/photos/david_jones/11863092345/ "Semester 2 EDC3100 Comparative Means")
 
 All of the means for this offering are above the Faculty (of Education) mean and all above 4, most above 4.5.
 
 Compare this with the means from the [Semester 1 online students](https://drive.google.com/drive/folders/0Bx9aZ7LiPYTxRHdxVDZacXhwVk0). I'm using the online students from semester 1 as they are they group most comparable to the Semester 2 students (all online). As it happens, the semester 1 online students were also the cohort that liked the course the most.
 
-[![Semester 1 online students EDC3100 Comparative Means](images/11863092365_d5f1e63c9e.jpg)](https://www.flickr.com/photos/david_jones/11863092365/in/photostream/ "Semester 1 online students EDC3100 Comparative Means")
+[![Semester 1 online students EDC3100 Comparative Means](https://djon.es/assets/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/images/11863092365_d5f1e63c9e.jpg)](https://www.flickr.com/photos/david_jones/11863092365/in/photostream/ "Semester 1 online students EDC3100 Comparative Means")
 
 A very different story. Only 2 of the class means just above 4. Note that the course means are significantly below the class means. The online students in semester 1 were the happiest of the cohorts (i.e. the on-campus students ranked it much worse). For the class means (online students) most were above faculty mean, but not SEC02 (I had a clear idea of what was expected of me in this course) and SEC05 (I found the assessment in this course reasonable). The "in-semester development" of the course was a problem.
 

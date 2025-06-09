@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - indicators
 - learninganalytics-elearning
-date: 2012-10-25 14:24:24+10:00
+date: 2012-10-25 04:24:24
 next:
   text: '"Learning analytics: Anything more than just another fad?"'
   url: /blog/2012/10/25/learning-analytics-anything-more-than-just-another-fad/
@@ -10,9 +10,9 @@ previous:
   text: Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional
     Strategic Plan
   url: /blog/2012/10/22/numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan/
+template: blog-post.html
 title: '"The quest to make sense of information: A research commentary"'
 type: post
-template: blog-post.html
 ---
 The following is a summary of / reflection upon
 

@@ -1,39 +1,36 @@
----
-date: 2009-01-01 14:31:53+10:00
+﻿---
+comments: []
+date: 2009-01-01 04:31:53
+pingbacks:
+- approved: '1'
+  author: Reducing meaningless freedom and a Mahara feature request &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.175
+  author_url: https://djon.es/blog/2012/06/30/reducing-meaningless-freedom-and-a-mahara-feature-request/
+  content: '[...] Three generations of online assignment&nbsp;management [...]'
+  date: '2012-06-30 11:11:11'
+  date_gmt: '2012-06-30 01:11:11'
+  id: '2028'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Allocating assignments to markers &#8211; moodle assignment submission |
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.189
+  author_url: https://davidtjones.wordpress.com/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/
+  content: '[&#8230;] Three generations of online assignment&nbsp;management [&#8230;]'
+  date: '2015-03-30 17:46:11'
+  date_gmt: '2015-03-30 07:46:11'
+  id: '2029'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: Three generations of online assignment management
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Reducing meaningless freedom and a Mahara feature request &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.175
-      author_url: https://djon.es/blog/2012/06/30/reducing-meaningless-freedom-and-a-mahara-feature-request/
-      content: '[...] Three generations of online assignment&nbsp;management [...]'
-      date: '2012-06-30 11:11:11'
-      date_gmt: '2012-06-30 01:11:11'
-      id: '2028'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Allocating assignments to markers &#8211; moodle assignment submission |
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.189
-      author_url: https://davidtjones.wordpress.com/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/
-      content: '[&#8230;] Three generations of online assignment&nbsp;management [&#8230;]'
-      date: '2015-03-30 17:46:11'
-      date_gmt: '2015-03-30 07:46:11'
-      id: '2029'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Further reflections on the work around online assignment submission are available in the following more recent publications
 
@@ -134,7 +131,7 @@ While not a great success the first attempt did provide some promise of the bene
 3. Once marked the marker returns the assignment to the student with a copy going to another email address.
 4. At this other email address a Perl script saves the marked assignment in an archive and updates the results Web page (Figure 1).
 
-[![Assignment results](images/3155503562_4e64cbcd53.jpg)](http://www.flickr.com/photos/david_jones/3155503562/ "Assignment results by David T Jones, on Flickr")
+[![Assignment results](https://djon.es/assets/blog/publications/three-generations-of-online-assignment-management/images/3155503562_4e64cbcd53.jpg)](http://www.flickr.com/photos/david_jones/3155503562/ "Assignment results by David T Jones, on Flickr")
 
 **Figure 1 - Results sheet automatically generated**
 

@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - edc3100
 - moodle
 - teaching
-date: 2012-03-05 10:49:12+10:00
+date: 2012-03-05 00:49:12
 next:
   text: And it's back to a lecture
   url: /blog/2012/03/06/and-its-back-to-a-lecture/
 previous:
   text: Gilstrap, Martin and the definition of a lecture
   url: /blog/2012/03/04/gilstrap-martin-and-the-definition-of-a-lecture/
+template: blog-post.html
 title: '"Implementing a course barometer in Moodle: A kludge"'
 type: post
-template: blog-post.html
 ---
 It's the start of the second week of the course I'm teaching. I'm directly responsible for 60 odd on-campus students and 130 or so online/distance students. That split reminds me a lot of my teaching at [CQU](http://www.cqu.edu.au/) in the mid-1990s. The deja vu continues in terms of getting a feel for how the students are going, how are they responding to the course, its model and content? Back at CQU the solution was inspired by [course barometer idea](/blog/student-feedback-anonymity-observable-change-and-course-barometers/) from some University folk in Sweeden.
 

@@ -1,65 +1,62 @@
----
+﻿---
 categories:
 - design-theory
 - edu8117
 - elearning
 - highereducation
-date: 2012-08-13 09:04:08+10:00
+comments: []
+date: 2012-08-12 23:04:08
 next:
   text: On a tension with teaching designs heavy on constructive alignment
   url: /blog/2012/08/14/on-a-tension-with-teaching-designs-heavy-on-constructive-alignment/
+pingbacks:
+- approved: '1'
+  author: Lessons for the meta-level of networked&nbsp;learning? | interactive media
+    use in the learning ecology | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/interactive-media-use-in-the-learning-ecology/p/2414904052/lessons-for-the-meta-level-of-networked-learning
+  content: '[...] &nbsp; [...]'
+  date: '2012-08-16 01:42:40'
+  date_gmt: '2012-08-15 15:42:40'
+  id: '407'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The dilemma of open courses in an Australian university &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.44
+  author_url: https://djon.es/blog/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/
+  content: '[...] this earlier post I suggested that the meta-level of institutional
+    networked learning &#8211; i.e. the systems, [...]'
+  date: '2012-08-22 16:01:54'
+  date_gmt: '2012-08-22 06:01:54'
+  id: '408'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Understanding and using the idea of &#8220;network learning&#8221; &#8211;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.118.102
+  author_url: https://davidtjones.wordpress.com/2016/08/17/understanding-and-using-the-idea-of-network-learning/
+  content: '[&#8230;] common less than great answer tends to limit network learning
+    to the learners. Or, as I suggest in this post it might also include the [&#8230;]'
+  date: '2016-08-17 15:37:22'
+  date_gmt: '2016-08-17 05:37:22'
+  id: '409'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Using the NetSpot Innovation fund to enhance bim
   url: /blog/2012/08/07/using-the-netspot-innovation-fund-to-enhance-bim/
+template: blog-post.html
 title: Lessons for the meta-level of networked learning?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Lessons for the meta-level of networked&nbsp;learning? | interactive media
-        use in the learning ecology | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/interactive-media-use-in-the-learning-ecology/p/2414904052/lessons-for-the-meta-level-of-networked-learning
-      content: '[...] &nbsp; [...]'
-      date: '2012-08-16 01:42:40'
-      date_gmt: '2012-08-15 15:42:40'
-      id: '407'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The dilemma of open courses in an Australian university &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.44
-      author_url: https://djon.es/blog/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/
-      content: '[...] this earlier post I suggested that the meta-level of institutional
-        networked learning &#8211; i.e. the systems, [...]'
-      date: '2012-08-22 16:01:54'
-      date_gmt: '2012-08-22 06:01:54'
-      id: '408'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Understanding and using the idea of &#8220;network learning&#8221; &#8211;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.118.102
-      author_url: https://davidtjones.wordpress.com/2016/08/17/understanding-and-using-the-idea-of-network-learning/
-      content: '[&#8230;] common less than great answer tends to limit network learning
-        to the learners. Or, as I suggest in this post it might also include the [&#8230;]'
-      date: '2016-08-17 15:37:22'
-      date_gmt: '2016-08-17 05:37:22'
-      id: '409'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This semester I'm teaching [EDU8117, Networked and Global Learning](http://www.usq.edu.au/course/specification/2012/EDU8117-S2-2012-WEB-TWMBA.html), one of the Masters level courses here at USQ. It's been an interesting experience because I'm essentially supporting the design - a very detailed "constructive alignment" design - prepared by someone else. The following is a belated start of my plan to engage in the course at some level like a student. The requirement was to use one of a few provided quotes attempting to define either networked learning or global learning and link it to personal experience. A first step in developing a research article in the topic.
 

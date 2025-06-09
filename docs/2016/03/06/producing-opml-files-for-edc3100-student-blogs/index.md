@@ -1,64 +1,61 @@
----
+﻿---
 categories:
 - bad
 - edc3100
-date: 2016-03-06 10:32:19+10:00
+comments:
+- approved: '1'
+  author: fleeslearningblog
+  author_email: fleakam@yahoo.com.au
+  author_ip: 120.22.58.211
+  author_url: http://fleeslearningblog.wordpress.com
+  content: I really wish I understood that entire blog. More reading to do! Thank
+    you
+  date: '2016-03-07 07:57:43'
+  date_gmt: '2016-03-06 21:57:43'
+  id: '3308'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.33
+  author_url: https://djon.es/blog/
+  content: You really don't need to understand the task I had to complete to produce
+    the OPML files. Being aware of some of the requirements might help you understand
+    the way the course is organised/implemented. But it probably won't help you make
+    better use of ICT and Pedagogy.
+  date: '2016-03-07 08:12:52'
+  date_gmt: '2016-03-06 22:12:52'
+  id: '3309'
+  parent: '3308'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: fleeslearningblog
+  author_email: fleakam@yahoo.com.au
+  author_ip: 120.22.58.211
+  author_url: http://fleeslearningblog.wordpress.com
+  content: Ok thank you for clarifying that. But is this not some of what would be
+    required in the future? In understanding how much has developed in the las year
+    alone, I feel that details along these lines are where the future is going. ?
+  date: '2016-03-07 08:16:03'
+  date_gmt: '2016-03-06 22:16:03'
+  id: '3310'
+  parent: '3309'
+  type: comment
+  user_id: '0'
+date: 2016-03-06 00:32:19
 next:
   text: Using resources appropriately
   url: /blog/2016/03/06/using-resources-appropriately/
+pingbacks: []
 previous:
   text: Preparing my digital &quot;learning space&quot;
   url: /blog/2016/03/04/preparing-my-digital-learning-space/
+template: blog-post.html
 title: Producing OPML files for EDC3100 student blogs
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: fleeslearningblog
-      author_email: fleakam@yahoo.com.au
-      author_ip: 120.22.58.211
-      author_url: http://fleeslearningblog.wordpress.com
-      content: I really wish I understood that entire blog. More reading to do! Thank
-        you
-      date: '2016-03-07 07:57:43'
-      date_gmt: '2016-03-06 21:57:43'
-      id: '3308'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.33
-      author_url: https://djon.es/blog/
-      content: You really don't need to understand the task I had to complete to produce
-        the OPML files. Being aware of some of the requirements might help you understand
-        the way the course is organised/implemented. But it probably won't help you make
-        better use of ICT and Pedagogy.
-      date: '2016-03-07 08:12:52'
-      date_gmt: '2016-03-06 22:12:52'
-      id: '3309'
-      parent: '3308'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: fleeslearningblog
-      author_email: fleakam@yahoo.com.au
-      author_ip: 120.22.58.211
-      author_url: http://fleeslearningblog.wordpress.com
-      content: Ok thank you for clarifying that. But is this not some of what would be
-        required in the future? In understanding how much has developed in the las year
-        alone, I feel that details along these lines are where the future is going. ?
-      date: '2016-03-07 08:16:03'
-      date_gmt: '2016-03-06 22:16:03'
-      id: '3310'
-      parent: '3309'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 EDC3100 tries to get students engaged with writing their own blogs and following the blogs of others via a feed reader. Yes, just a bit old fashioned.
 

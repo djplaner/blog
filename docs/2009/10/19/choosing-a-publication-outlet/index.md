@@ -1,128 +1,126 @@
----
+﻿---
 categories:
 - publication
-date: 2009-10-19 09:12:19+10:00
+comments:
+- approved: '1'
+  author: wendymad
+  author_email: w.madsen@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: http://wendymad.wordpress.com
+  content: 'Good luck with the publishing, David. I''ve always gone for fit because
+    I am working in a field where the rankings mean very little (I think the highest
+    ranking nursing journal is about 1 on the scale of up to 50 odd), although perhaps
+    these newer scales will be more discipline specific. the other thing I became
+    aware of early in my career was that of paying to have your work published (and
+    since I am poor I haven''t gone that path, but I do still come across it in the
+    guidelines for various journals).
+
+
+    Wendy'
+  date: '2009-10-19 12:01:28'
+  date_gmt: '2009-10-19 02:01:28'
+  id: '2855'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the comments Wendy.  Paying for publication, I''ve seen it
+    in the odd place, but it still amazes me.  Somewhat contrary to the process, I
+    would''ve thought.  But I guess that some conferences amount to almost the same
+    thing, though payment (in terms of conference registration) does come after acceptance...
+
+
+    My understanding is that all Australian academics, at least for the next couple
+    of years, are going to have to focus more on rankings.  The site I used above
+    has a <a href="http://lamp.infosys.deakin.edu.au/era/?page=fordet&amp;selfor=1110"
+    rel="nofollow">ranked list of nursing journals</a>.  The times may be a changing.'
+  date: '2009-10-19 13:21:26'
+  date_gmt: '2009-10-19 03:21:26'
+  id: '2856'
+  parent: '2855'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: wendymad
+  author_email: w.madsen@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: http://wendymad.wordpress.com
+  content: 'Thanks for that David, this certainly looks fairer than previous lists
+    I''ve seen, although I am interested that really specific subject areas where
+    there are few people actually working in them rank so high (eg Journal of Adolescent
+    Health). One has to wonder sometimes how they come up with these rankings.
+
+
+    Wendy'
+  date: '2009-10-20 07:44:33'
+  date_gmt: '2009-10-19 21:44:33'
+  id: '2857'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'I am sure it was a purely rational process with ranking and selection
+    based solely on objective measures. No place in such a process for bias or boosterism.
+
+
+    Oh look, flying pork.  :)'
+  date: '2009-10-20 08:18:40'
+  date_gmt: '2009-10-19 22:18:40'
+  id: '2858'
+  parent: '2857'
+  type: comment
+  user_id: '1'
+date: 2009-10-18 23:12:19
 next:
   text: Alternate ways to get the real story in organisations
   url: /blog/2009/10/21/alternate-ways-to-get-the-real-story-in-organisations/
+pingbacks:
+- approved: '1'
+  author: The realities of the ERA and L&amp;T support services &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.105
+  author_url: https://djon.es/blog/2010/04/28/the-realities-of-the-era-and-lt-support-services/
+  content: '[...] realities of the ERA and L&amp;T support&nbsp;services  In mid-October
+    last year I blogged about my search for a research publication outlet. The conclusion
+    was that in my context, the Australasian Journal of Education Technology (AJET)
+    was [...]'
+  date: '2010-04-28 14:04:10'
+  date_gmt: '2010-04-28 04:04:10'
+  id: '2859'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Choosing a research publication outlet: Part II | The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 192.0.83.184
+  author_url: https://davidtjones.wordpress.com/2015/01/14/choosing-a-research-publication-outlet-part-ii/
+  content: '[&#8230;] asked and answered a similar question in 2009, hopefully this
+    time I might actually go the next step and write [&#8230;]'
+  date: '2015-01-14 15:38:35'
+  date_gmt: '2015-01-14 05:38:35'
+  id: '2860'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Podcast for presentations at the PLEs &#038; PLNs symposium
   url: /blog/2009/10/16/podcast-for-presentations-at-the-ples-plns-symposium/
 tags:
 - era
+template: blog-post.html
 title: Choosing a research publication outlet
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: wendymad
-      author_email: w.madsen@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: http://wendymad.wordpress.com
-      content: 'Good luck with the publishing, David. I''ve always gone for fit because
-        I am working in a field where the rankings mean very little (I think the highest
-        ranking nursing journal is about 1 on the scale of up to 50 odd), although perhaps
-        these newer scales will be more discipline specific. the other thing I became
-        aware of early in my career was that of paying to have your work published (and
-        since I am poor I haven''t gone that path, but I do still come across it in the
-        guidelines for various journals).
-    
-    
-        Wendy'
-      date: '2009-10-19 12:01:28'
-      date_gmt: '2009-10-19 02:01:28'
-      id: '2855'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the comments Wendy.  Paying for publication, I''ve seen it
-        in the odd place, but it still amazes me.  Somewhat contrary to the process, I
-        would''ve thought.  But I guess that some conferences amount to almost the same
-        thing, though payment (in terms of conference registration) does come after acceptance...
-    
-    
-        My understanding is that all Australian academics, at least for the next couple
-        of years, are going to have to focus more on rankings.  The site I used above
-        has a <a href="http://lamp.infosys.deakin.edu.au/era/?page=fordet&amp;selfor=1110"
-        rel="nofollow">ranked list of nursing journals</a>.  The times may be a changing.'
-      date: '2009-10-19 13:21:26'
-      date_gmt: '2009-10-19 03:21:26'
-      id: '2856'
-      parent: '2855'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: wendymad
-      author_email: w.madsen@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: http://wendymad.wordpress.com
-      content: 'Thanks for that David, this certainly looks fairer than previous lists
-        I''ve seen, although I am interested that really specific subject areas where
-        there are few people actually working in them rank so high (eg Journal of Adolescent
-        Health). One has to wonder sometimes how they come up with these rankings.
-    
-    
-        Wendy'
-      date: '2009-10-20 07:44:33'
-      date_gmt: '2009-10-19 21:44:33'
-      id: '2857'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'I am sure it was a purely rational process with ranking and selection
-        based solely on objective measures. No place in such a process for bias or boosterism.
-    
-    
-        Oh look, flying pork.  :)'
-      date: '2009-10-20 08:18:40'
-      date_gmt: '2009-10-19 22:18:40'
-      id: '2858'
-      parent: '2857'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: The realities of the ERA and L&amp;T support services &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.105
-      author_url: https://djon.es/blog/2010/04/28/the-realities-of-the-era-and-lt-support-services/
-      content: '[...] realities of the ERA and L&amp;T support&nbsp;services  In mid-October
-        last year I blogged about my search for a research publication outlet. The conclusion
-        was that in my context, the Australasian Journal of Education Technology (AJET)
-        was [...]'
-      date: '2010-04-28 14:04:10'
-      date_gmt: '2010-04-28 04:04:10'
-      id: '2859'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Choosing a research publication outlet: Part II | The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 192.0.83.184
-      author_url: https://davidtjones.wordpress.com/2015/01/14/choosing-a-research-publication-outlet-part-ii/
-      content: '[&#8230;] asked and answered a similar question in 2009, hopefully this
-        time I might actually go the next step and write [&#8230;]'
-      date: '2015-01-14 15:38:35'
-      date_gmt: '2015-01-14 05:38:35'
-      id: '2860'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm reluctant to post this. It's part of a pragmatic approach to figuring out where, as an Australian academic, I should try and target publications. It seeks to identify publications in the higher education and educational technology areas that would be "best".
 

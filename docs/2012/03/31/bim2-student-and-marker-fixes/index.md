@@ -1,99 +1,97 @@
----
+﻿---
 categories:
 - bim2
-date: 2012-03-31 22:42:04+10:00
+comments:
+- approved: '1'
+  author: Stephen Downes
+  author_email: stephen@downes.ca
+  author_ip: 156.34.22.90
+  author_url: http://downess.wordpress.com
+  content: 'OK, while I''m admitting ignorance today: Could you tell your readers
+    what Bim is? I assume by context its some sort of software. But what is it? You''ve
+    been posting on it for years, and yet you''ve never told your readers (to myt
+    knowledge) what it is, what B-I-M stand for (if anything), and what it''s used
+    for. Thanks.'
+  date: '2012-04-02 10:26:51'
+  date_gmt: '2012-04-02 00:26:51'
+  id: '300'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: ":) I was always a tad worried about using the blog as a development diary,\
+    \ in large part because of this.\n\nWhich is why every now and then I do throw\
+    \ in some background.\n\nThe bim2 post prior to this one started with\n<blockquote>So\
+    \ it appears that bim2.0 is increasingly needed (if you don\u2019t know what bim\
+    \ is, <a href=\"https://djon.es/blog/research/bam-blog-aggregation-management/\"\
+    \ rel=\"nofollow\">check this out</a>). </blockquote>\n\nThe link goes to the\
+    \ <a href=\"https://djon.es/blog/research/bam-blog-aggregation-management/\" rel=\"\
+    nofollow\">BIM page</a> on my blog.\n\nBIM has some vague connection with gRSShopper\
+    \ in that it is an aggregator of feeds. It is intended to be used within a Moodle\
+    \ course, typically as an assignment where students are responding to activities/tasks\
+    \ on their individual blogs.  It helps teaching staff manage/mark/track student\
+    \ posts.\n\nBIM started life as BAM - Blog Aggregation Management - in the home-grown\
+    \ \"LMS\" I worked on.\n\nIt became BIM when I ported the idea to Moodle.  BIM\
+    \ = BAM Into Moodle"
+  date: '2012-04-02 10:36:19'
+  date_gmt: '2012-04-02 00:36:19'
+  id: '301'
+  parent: '300'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: And I've just noticed that this blog theme doesn't do a great job of making
+    links all that obvious.
+  date: '2012-04-02 10:36:58'
+  date_gmt: '2012-04-02 00:36:58'
+  id: '302'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Stephen Downes
+  author_email: stephen@downes.ca
+  author_ip: 156.34.22.90
+  author_url: http://downess.wordpress.com
+  content: Thanks. Appreciated. The Bim posts are now doubly useful to me.
+  date: '2012-04-02 20:28:40'
+  date_gmt: '2012-04-02 10:28:40'
+  id: '303'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-03-31 12:42:04
 next:
   text: '"Learning analytics: Starvation and telling us what we already know?"'
   url: /blog/2012/04/01/learning-analytics-starvation-and-telling-us-what-we-already-know/
+pingbacks:
+- approved: '1'
+  author: bim2 &#8211; Marker interface &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.44
+  author_url: https://djon.es/blog/2012/04/03/bim2-marker-interface/
+  content: '[...] the following, I&#8217;m continuing work on the marker interface
+    from prior work. Work to do [...]'
+  date: '2012-04-03 22:51:44'
+  date_gmt: '2012-04-03 12:51:44'
+  id: '304'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: bim2 - status check and what&#039;s next
   url: /blog/2012/03/30/bim2-status-check-and-whats-next/
+template: blog-post.html
 title: bim2 - student and marker fixes
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Stephen Downes
-      author_email: stephen@downes.ca
-      author_ip: 156.34.22.90
-      author_url: http://downess.wordpress.com
-      content: 'OK, while I''m admitting ignorance today: Could you tell your readers
-        what Bim is? I assume by context its some sort of software. But what is it? You''ve
-        been posting on it for years, and yet you''ve never told your readers (to myt
-        knowledge) what it is, what B-I-M stand for (if anything), and what it''s used
-        for. Thanks.'
-      date: '2012-04-02 10:26:51'
-      date_gmt: '2012-04-02 00:26:51'
-      id: '300'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: ":) I was always a tad worried about using the blog as a development diary,\
-        \ in large part because of this.\n\nWhich is why every now and then I do throw\
-        \ in some background.\n\nThe bim2 post prior to this one started with\n<blockquote>So\
-        \ it appears that bim2.0 is increasingly needed (if you don\u2019t know what bim\
-        \ is, <a href=\"https://djon.es/blog/research/bam-blog-aggregation-management/\"\
-        \ rel=\"nofollow\">check this out</a>). </blockquote>\n\nThe link goes to the\
-        \ <a href=\"https://djon.es/blog/research/bam-blog-aggregation-management/\" rel=\"\
-        nofollow\">BIM page</a> on my blog.\n\nBIM has some vague connection with gRSShopper\
-        \ in that it is an aggregator of feeds. It is intended to be used within a Moodle\
-        \ course, typically as an assignment where students are responding to activities/tasks\
-        \ on their individual blogs.  It helps teaching staff manage/mark/track student\
-        \ posts.\n\nBIM started life as BAM - Blog Aggregation Management - in the home-grown\
-        \ \"LMS\" I worked on.\n\nIt became BIM when I ported the idea to Moodle.  BIM\
-        \ = BAM Into Moodle"
-      date: '2012-04-02 10:36:19'
-      date_gmt: '2012-04-02 00:36:19'
-      id: '301'
-      parent: '300'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: And I've just noticed that this blog theme doesn't do a great job of making
-        links all that obvious.
-      date: '2012-04-02 10:36:58'
-      date_gmt: '2012-04-02 00:36:58'
-      id: '302'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Stephen Downes
-      author_email: stephen@downes.ca
-      author_ip: 156.34.22.90
-      author_url: http://downess.wordpress.com
-      content: Thanks. Appreciated. The Bim posts are now doubly useful to me.
-      date: '2012-04-02 20:28:40'
-      date_gmt: '2012-04-02 10:28:40'
-      id: '303'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: bim2 &#8211; Marker interface &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.44
-      author_url: https://djon.es/blog/2012/04/03/bim2-marker-interface/
-      content: '[...] the following, I&#8217;m continuing work on the marker interface
-        from prior work. Work to do [...]'
-      date: '2012-04-03 22:51:44'
-      date_gmt: '2012-04-03 12:51:44'
-      id: '304'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Some more work on bim2, carrying on from [last night](/blog/2012/03/30/bim2-status-check-and-whats-next/). Aim here is to attack some of these tasks:
 

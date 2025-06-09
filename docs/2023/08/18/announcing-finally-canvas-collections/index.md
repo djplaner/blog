@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - casa
-coverImage: Collections-2.png
-date: 2023-08-18 12:19:47+10:00
+coverImage: https://djon.es/assets/blog/2023/08/18/announcing-finally-canvas-collections/images/Collections-2.png
+date: 2023-08-18 02:19:47
 next:
   text: What now?
   url: /blog/2025/01/12/what-now/
@@ -12,9 +12,9 @@ previous:
 tags:
 - canvas
 - casa
+template: blog-post.html
 title: Announcing (finally) Canvas Collections
 type: post
-template: blog-post.html
 ---
 Finally, a reasonable version of Canvas Collections and associated support materials is ready to announce. Following will eventually form the content of a blog post posted to [the Canvas community space](https://community.canvaslms.com/t5/Canvas/ct-p/canvas).
 
@@ -38,7 +38,7 @@ Once installed, you can: 1. [Check it is installed](https://djplaner.github.io/c
 
 The following image is an example (vanilla) Canvas modules index page. Showing the standard linear structure with a visually limited interface and little contextual information visible.
 
-From what you see here, can you identify the three driving questions behind the design of this course?[![Scrolling through a Canvas modules index page. Showing 13 modules and all their items in one long linear scroll. Each module visualised with a 'windows-95' like folder with a list of items.](images/vanillaModules.gif)](https://github.com/djplaner/canvas-collections/raw/main/docs/assets/vanillaModules.gif)
+From what you see here, can you identify the three driving questions behind the design of this course?[![Scrolling through a Canvas modules index page. Showing 13 modules and all their items in one long linear scroll. Each module visualised with a 'windows-95' like folder with a list of items.](https://djon.es/assets/blog/2023/08/18/announcing-finally-canvas-collections/images/vanillaModules.gif)](https://github.com/djplaner/canvas-collections/raw/main/docs/assets/vanillaModules.gif)
 
 ### Add live (dynamic) Canvas Collections
 
@@ -48,7 +48,7 @@ The following image is the same course. However, the Canvas Collections code is 
 - Visuals - each collection is using a different _representation_ (and also including content from a Canvas page) which allows direct navigation to a module.
 - Context - additional contextual data (e.g. description, banner image/iframe, date etc.) is visible for each module. (What isn't shown is that this data can include [requirements completion](https://djplaner.github.io/canvas-collections/reference/conceptual-model/representations/griffith-cards/#progress-ring))
 
-Can you identify the three driving questions behind the design of this course from this view?[![Canvas modules page configured with four collections (why, what, how, and questions & suggestions). Changing between different collections, showing only that collection's modules at any one time. Navigating directly to a module by clicking on its specific representation. Showing off the representations which include cards for each module. Cards with images/iframes, descriptions, dates, labels and other contextual data](images/withCanvasCollections.gif)](https://github.com/djplaner/canvas-collections/blob/main/docs/assets/withCanvasCollections.gif)
+Can you identify the three driving questions behind the design of this course from this view?[![Canvas modules page configured with four collections (why, what, how, and questions & suggestions). Changing between different collections, showing only that collection's modules at any one time. Navigating directly to a module by clicking on its specific representation. Showing off the representations which include cards for each module. Cards with images/iframes, descriptions, dates, labels and other contextual data](https://djon.es/assets/blog/2023/08/18/announcing-finally-canvas-collections/images/withCanvasCollections.gif)](https://github.com/djplaner/canvas-collections/blob/main/docs/assets/withCanvasCollections.gif)
 
 ### Create a Claytons (static) Canvas Collections page
 
@@ -58,7 +58,7 @@ As an alternative, you can use your individual installation of Collections to cr
 
 The following demonstrates a Claytons Collections version of the live Collections above. Same (similar) collections, representations, and contextual data. However, all saved onto a Canvas page that is being used as the course home page.
 
-(NOTE: Due to [limitations of the Canvas RCE](https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-HTML-Editor-Allowlist/ta-p/387066) at least one of the current representations shown does require external CSS to work.)[![Animation showing how a Canvas page has been updated to contain a sequence of tabs for each collection. Allowing the visitor to see different representations of Canvas modules (but not the modules themselves). Representations that are basically the same as live Canvas Collections. Clicking on the representation for a module will take you directly to that module.](images/claytonsCollections.gif)](https://github.com/djplaner/canvas-collections/blob/main/docs/assets/claytonsCollections.gif) 
+(NOTE: Due to [limitations of the Canvas RCE](https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-HTML-Editor-Allowlist/ta-p/387066) at least one of the current representations shown does require external CSS to work.)[![Animation showing how a Canvas page has been updated to contain a sequence of tabs for each collection. Allowing the visitor to see different representations of Canvas modules (but not the modules themselves). Representations that are basically the same as live Canvas Collections. Clicking on the representation for a module will take you directly to that module.](https://djon.es/assets/blog/2023/08/18/announcing-finally-canvas-collections/images/claytonsCollections.gif)](https://github.com/djplaner/canvas-collections/blob/main/docs/assets/claytonsCollections.gif) 
 
 ### Modify Canvas Collections
 

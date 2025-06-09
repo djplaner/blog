@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - elearning
-date: 2009-12-08 08:00:27+10:00
+comments:
+- approved: '1'
+  author: Rolley
+  author_email: r.tickner@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: http://
+  content: Hrm yeah good idea regarding REACT.  You're absolutely right about self
+    reporting though I think - its all to easy for the mind to be closed to real objectivity
+    after already investing a lot of thought and effort towards subjective goals.
+  date: '2009-12-08 09:25:45'
+  date_gmt: '2009-12-07 23:25:45'
+  id: '2882'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-12-07 22:00:27
 next:
   text: Change the environment, not the culture
   url: /blog/2009/12/09/change-the-environment-not-the-culture/
+pingbacks: []
 previous:
   text: Barriers to harnessing academic analytics
   url: /blog/2009/12/02/barriers-to-harnessing-academic-analytics/
 tags:
 - ascilite09
+template: blog-post.html
 title: Self-reporting considered harmful?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Rolley
-      author_email: r.tickner@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: http://
-      content: Hrm yeah good idea regarding REACT.  You're absolutely right about self
-        reporting though I think - its all to easy for the mind to be closed to real objectivity
-        after already investing a lot of thought and effort towards subjective goals.
-      date: '2009-12-08 09:25:45'
-      date_gmt: '2009-12-07 23:25:45'
-      id: '2882'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 I'm currently on my way to Auckland for the [2009 ASCILITE conference](http://www.ascilite.org.au/conferences/auckland09/). A few weeks ago I was lucky enough to be in Denver for the [2009 EDUCAUSE conference](http://net.educause.edu/e09/). Both were/will be useful and interesting experience. But having been at EDUCAUSE, read a couple of the ASCILITE papers and talked with [a colleague](http://beerc.wordpress.com/) I'm once again wondering
 

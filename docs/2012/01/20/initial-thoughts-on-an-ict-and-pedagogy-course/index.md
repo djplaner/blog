@@ -1,203 +1,201 @@
----
+﻿---
 categories:
 - edc3100
-date: 2012-01-20 15:53:40+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 122.111.171.184
+  author_url: http://cj13.wordpress.com/
+  content: 'Re TPCK - their argument is still premised on "integration", i.e. don''t
+    touch the classroom, schooling - we need to integrate... or as my Darlek would
+    say: domesticate, domesticate.... :)
+
+
+    The only good think about TPCK is that it aims for holism but still works to retain
+    the boundaries it supposedly squishes. The original papers are well intentioned
+    but badly argued.
+
+
+    For me the problem goes back a bit further than where TPCK or PCK sees the problem.
+
+
+    What I think matters most for kids is access to mature insider forms of practice
+    (MIFP), not folk passing it on 2nd hand. The net now does a lot of 2nd hand passing
+    - i.e. Khan - YouTube etc. I think there are instances where kids have access
+    to MIFP in schools, more often in the arts, i.e. a music teacher who actually
+    plays music professionally, a sports teacher who plays sport etc. Generally science
+    teachers don''t do any science, maths teachers no maths. Do any English teachers
+    write? I think induction into the various forms of cultural expression and forms
+    of knowledge is really important and teachers, to me, are looking a lot like bank
+    tellers in the 1970''s. I think teachers, given the appalling difficulties they
+    face do a brill job - but they could be freed from the crap and attend to the
+    stuff they do really well and get away from the silly guarding of schooled forms
+    of knowledge.
+
+
+    Phew.  :)
+
+
+    So that is my beef with things like TPCK. It simply misses the point. They keep
+    things much as they are. The planet has changed. That change will get uglier -
+    those pesky exponentials are a real bugger. We don''t need folk telling other
+    folk about their certainties. We need folk help folk to learn how different groups
+    of folk tackle this weird planet. In one of the KPS sites some years back - junior
+    2nd stuff. The kids became interested in indigenous star signs (I did not even
+    know they existed!). Teachers knew little of astronomy. So they got online -connected
+    to MIFP - kids ended up grinding precision lenses, building their own telescopes,
+    running star watching nights for primary kids etc etc. The teacher remarked. I''m
+    just a flunkie for the kids, they drive me, tell me what to do. Of course he was
+    not just that but it captured nicely a role that does not appear in any of the
+    teacher ed manuals. :)
+
+
+    To me it gets back to those rough mind sets in one of those chapters - i.e. 1.
+    sure world has changed - it''s just been made more digital - we know what is going
+    on - trust us. All we need do is apply/integrate this stuff and all will be well.  (TPCK
+    fits here).
+
+
+    2. World has  changed. Schools are post-Gutenberg organisation. They will die
+    a slow death. This is the digital Illich, de-schooling line.
+
+
+    3. World has changed. We don''t have a bloody clue about what will happen next
+    we need to help kids develop competences, confidence in their abilities to   do
+    real stuff in the world. This is where KPS fits and the various other schooling
+    at the edges stuff. They all have these rough characteristics: access to MIFP,
+    they produce products that are valued by audiences bigger than Mum, Dad and their
+    teacher, they develop a good sense that they can have agency in the world.
+
+
+    Good luck amigo!'
+  date: '2012-01-20 16:17:08'
+  date_gmt: '2012-01-20 06:17:08'
+  id: '179'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: mikecosgrave
+  author_email: m.cosgrave@ucc.ie
+  author_ip: 212.129.92.236
+  author_url: null
+  content: 'I deal with the attendance problem by aligning elements of my portfolio
+    based assessment to in class activities. For example. I have set reading, which
+    the students post responses to on our VLE, and I use them as the starter for in
+    class discussion each class. Some of the forum posts are submitted in the assessment
+    portfolio.
+
+
+    In another class, the major essay is based on an in-class simulation which we
+    do in the second and third last weeks of term, so to do anything in the essay,
+    you need to participate in the simulation.'
+  date: '2012-01-20 20:37:53'
+  date_gmt: '2012-01-20 10:37:53'
+  id: '180'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 101.169.34.140
+  author_url: https://djon.es/blog/
+  content: 'G''day Mike,
+
+
+    And that works well for you? What sort of course do you teach? An "ICT and Pedagogy"
+    course? Interested in hearing more.
+
+
+    This sounds like it''s approaching the idea of "constructive alignment", which
+    is a good idea in theory. For some reason, however, I''ve always felt a bit uncertain
+    about it. To some extent constructive alignment <em>forces</em> the student to
+    engage in the learning activities you want. The element of force has always made
+    me uneasy.
+
+
+    Speaking with the optimism of someone who hasn''t taught a University course in
+    6 years, I like the idea of students engaging in the activities/course because
+    they want to, not because they are forced.
+
+
+    The question is how long this thinking will last in the crucible of a course.
+
+
+    The other uncertainty I have is the whole notion of essays. I had to do essays
+    in my year-long diploma in teaching. Many of my fellow students and I didn''t
+    see a lot of connection between the essay and the tasks we were being asked to
+    perform in schools. In my context, I''m wondering if there is assessment that
+    I can set which is realistic/authentic.
+
+
+    David.'
+  date: '2012-01-21 16:41:48'
+  date_gmt: '2012-01-21 06:41:48'
+  id: '181'
+  parent: '180'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 101.169.34.140
+  author_url: https://djon.es/blog/
+  content: 'A lot of stuff there to ponder, query and respond to. Hoping to do that
+    in the coming week. The kids are off to school and we should get some decent net
+    access at home. So I should have some time.
+
+
+    Chris, really appreciative of you taking the time to comment and share.'
+  date: '2012-01-21 16:43:23'
+  date_gmt: '2012-01-21 06:43:23'
+  id: '182'
+  parent: '179'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 58.106.139.213
+  author_url: http://cj13.wordpress.com/
+  content: A <a href="http://hastac.org/blogs/cathy-davidson/2012/01/21/should-we-really-abolish-term-paper-response-ny-times"
+    rel="nofollow"> fun little debate</a> about essays and other modes of writing
+    has bubbled up in the US.
+  date: '2012-01-22 14:45:36'
+  date_gmt: '2012-01-22 04:45:36'
+  id: '183'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-01-20 05:53:40
 next:
   text: Reflections on understanding context
   url: /blog/2012/01/23/reflections-on-understanding-context/
+pingbacks:
+- approved: '1'
+  author: The need for technopedagogues and will it ever go away? &#8211; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.191
+  author_url: https://davidtjones.wordpress.com/2016/04/25/the-need-for-technopedagogues-and-will-it-ever-go-away/
+  content: '[&#8230;] Four years ago I started work at my current institution charged
+    with the responsibility of teaching &#8220;ICT and Pedagogy&#8221; to pre-service
+    teachers. Back then I was wondering why there was still a need for this type of
+    course, I wrote [&#8230;]'
+  date: '2016-04-25 16:45:57'
+  date_gmt: '2016-04-25 06:45:57'
+  id: '184'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Teaching computer science considered harmful?
   url: /blog/2012/01/11/teaching-computer-science-considered-harmful/
+template: blog-post.html
 title: Initial thoughts on an ICT and Pedagogy course
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 122.111.171.184
-      author_url: http://cj13.wordpress.com/
-      content: 'Re TPCK - their argument is still premised on "integration", i.e. don''t
-        touch the classroom, schooling - we need to integrate... or as my Darlek would
-        say: domesticate, domesticate.... :)
-    
-    
-        The only good think about TPCK is that it aims for holism but still works to retain
-        the boundaries it supposedly squishes. The original papers are well intentioned
-        but badly argued.
-    
-    
-        For me the problem goes back a bit further than where TPCK or PCK sees the problem.
-    
-    
-        What I think matters most for kids is access to mature insider forms of practice
-        (MIFP), not folk passing it on 2nd hand. The net now does a lot of 2nd hand passing
-        - i.e. Khan - YouTube etc. I think there are instances where kids have access
-        to MIFP in schools, more often in the arts, i.e. a music teacher who actually
-        plays music professionally, a sports teacher who plays sport etc. Generally science
-        teachers don''t do any science, maths teachers no maths. Do any English teachers
-        write? I think induction into the various forms of cultural expression and forms
-        of knowledge is really important and teachers, to me, are looking a lot like bank
-        tellers in the 1970''s. I think teachers, given the appalling difficulties they
-        face do a brill job - but they could be freed from the crap and attend to the
-        stuff they do really well and get away from the silly guarding of schooled forms
-        of knowledge.
-    
-    
-        Phew.  :)
-    
-    
-        So that is my beef with things like TPCK. It simply misses the point. They keep
-        things much as they are. The planet has changed. That change will get uglier -
-        those pesky exponentials are a real bugger. We don''t need folk telling other
-        folk about their certainties. We need folk help folk to learn how different groups
-        of folk tackle this weird planet. In one of the KPS sites some years back - junior
-        2nd stuff. The kids became interested in indigenous star signs (I did not even
-        know they existed!). Teachers knew little of astronomy. So they got online -connected
-        to MIFP - kids ended up grinding precision lenses, building their own telescopes,
-        running star watching nights for primary kids etc etc. The teacher remarked. I''m
-        just a flunkie for the kids, they drive me, tell me what to do. Of course he was
-        not just that but it captured nicely a role that does not appear in any of the
-        teacher ed manuals. :)
-    
-    
-        To me it gets back to those rough mind sets in one of those chapters - i.e. 1.
-        sure world has changed - it''s just been made more digital - we know what is going
-        on - trust us. All we need do is apply/integrate this stuff and all will be well.  (TPCK
-        fits here).
-    
-    
-        2. World has  changed. Schools are post-Gutenberg organisation. They will die
-        a slow death. This is the digital Illich, de-schooling line.
-    
-    
-        3. World has changed. We don''t have a bloody clue about what will happen next
-        we need to help kids develop competences, confidence in their abilities to   do
-        real stuff in the world. This is where KPS fits and the various other schooling
-        at the edges stuff. They all have these rough characteristics: access to MIFP,
-        they produce products that are valued by audiences bigger than Mum, Dad and their
-        teacher, they develop a good sense that they can have agency in the world.
-    
-    
-        Good luck amigo!'
-      date: '2012-01-20 16:17:08'
-      date_gmt: '2012-01-20 06:17:08'
-      id: '179'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: mikecosgrave
-      author_email: m.cosgrave@ucc.ie
-      author_ip: 212.129.92.236
-      author_url: null
-      content: 'I deal with the attendance problem by aligning elements of my portfolio
-        based assessment to in class activities. For example. I have set reading, which
-        the students post responses to on our VLE, and I use them as the starter for in
-        class discussion each class. Some of the forum posts are submitted in the assessment
-        portfolio.
-    
-    
-        In another class, the major essay is based on an in-class simulation which we
-        do in the second and third last weeks of term, so to do anything in the essay,
-        you need to participate in the simulation.'
-      date: '2012-01-20 20:37:53'
-      date_gmt: '2012-01-20 10:37:53'
-      id: '180'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 101.169.34.140
-      author_url: https://djon.es/blog/
-      content: 'G''day Mike,
-    
-    
-        And that works well for you? What sort of course do you teach? An "ICT and Pedagogy"
-        course? Interested in hearing more.
-    
-    
-        This sounds like it''s approaching the idea of "constructive alignment", which
-        is a good idea in theory. For some reason, however, I''ve always felt a bit uncertain
-        about it. To some extent constructive alignment <em>forces</em> the student to
-        engage in the learning activities you want. The element of force has always made
-        me uneasy.
-    
-    
-        Speaking with the optimism of someone who hasn''t taught a University course in
-        6 years, I like the idea of students engaging in the activities/course because
-        they want to, not because they are forced.
-    
-    
-        The question is how long this thinking will last in the crucible of a course.
-    
-    
-        The other uncertainty I have is the whole notion of essays. I had to do essays
-        in my year-long diploma in teaching. Many of my fellow students and I didn''t
-        see a lot of connection between the essay and the tasks we were being asked to
-        perform in schools. In my context, I''m wondering if there is assessment that
-        I can set which is realistic/authentic.
-    
-    
-        David.'
-      date: '2012-01-21 16:41:48'
-      date_gmt: '2012-01-21 06:41:48'
-      id: '181'
-      parent: '180'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 101.169.34.140
-      author_url: https://djon.es/blog/
-      content: 'A lot of stuff there to ponder, query and respond to. Hoping to do that
-        in the coming week. The kids are off to school and we should get some decent net
-        access at home. So I should have some time.
-    
-    
-        Chris, really appreciative of you taking the time to comment and share.'
-      date: '2012-01-21 16:43:23'
-      date_gmt: '2012-01-21 06:43:23'
-      id: '182'
-      parent: '179'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 58.106.139.213
-      author_url: http://cj13.wordpress.com/
-      content: A <a href="http://hastac.org/blogs/cathy-davidson/2012/01/21/should-we-really-abolish-term-paper-response-ny-times"
-        rel="nofollow"> fun little debate</a> about essays and other modes of writing
-        has bubbled up in the US.
-      date: '2012-01-22 14:45:36'
-      date_gmt: '2012-01-22 04:45:36'
-      id: '183'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: The need for technopedagogues and will it ever go away? &#8211; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.191
-      author_url: https://davidtjones.wordpress.com/2016/04/25/the-need-for-technopedagogues-and-will-it-ever-go-away/
-      content: '[&#8230;] Four years ago I started work at my current institution charged
-        with the responsibility of teaching &#8220;ICT and Pedagogy&#8221; to pre-service
-        teachers. Back then I was wondering why there was still a need for this type of
-        course, I wrote [&#8230;]'
-      date: '2016-04-25 16:45:57'
-      date_gmt: '2016-04-25 06:45:57'
-      id: '184'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In a little under a month's time I am meant to be in charge of the course [EDC3100 ICT and Pedagogy](http://www.usq.edu.au/course/synopses/2012/EDC3100.html) at the [University of Southern Queensland](http://www.usq.edu.au/). The first time I've taught a course since in almost 6 years, should be fun. This is one of the responsibilities of the new job that I haven't quite yet started. For various reasons, however, I can't help be start thinking about the course.
 

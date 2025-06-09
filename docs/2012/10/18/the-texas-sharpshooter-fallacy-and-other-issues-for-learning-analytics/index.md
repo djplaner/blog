@@ -1,170 +1,167 @@
----
+﻿---
 categories:
 - thesis
-date: 2012-10-18 16:45:53+10:00
+comments:
+- approved: '1'
+  author: Nicola
+  author_email: nicola.avery@gmail.com
+  author_ip: 90.194.207.253
+  author_url: http://learn4kicks.wordpress.com
+  content: I am predicting that 'big data' will decline as the stampede continues
+    and the value of personal data and how it can be perceived as meaningful - currently
+    highly marketable - goes down when people finally realise that we are not so different
+    as humans, there are only so many ways we can be sliced and diced, including economically;
+    also some aspects that cannot be sliced and diced because of their complexity.  I
+    don't know how quickly though
+  date: '2012-10-23 04:57:31'
+  date_gmt: '2012-10-22 18:57:31'
+  id: '483'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.164.181.94
+  author_url: https://djon.es/blog/
+  content: G'day Nicola,  Thanks for the comments.  Like you I think "big data" will
+    decline after the stampede as with all fads. Though your point about "cannot be
+    sliced and diced" is another reason I agree with. I'm not convinced learning is
+    something that can be effectively "sliced and diced".  But I'm not sure about
+    the other reason you give? Not sure we are that similar, especially if you look
+    at what we do online.  Any pointers that explain why I'm wrong?  Really keen to
+    see other perspectives. David.
+  date: '2012-10-24 15:00:52'
+  date_gmt: '2012-10-24 05:00:52'
+  id: '484'
+  parent: '483'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Nicola
+  author_email: nicola.avery@gmail.com
+  author_ip: 90.194.207.253
+  author_url: http://learn4kicks.wordpress.com
+  content: 'Hi David, thank you for your comment. Apologies I will try and clarify,
+    I''m not sure about right/wrong. I guess if we can fragment ourselves into individual
+    genetic maps and our potential for our genes can adapt - there are many possibilities
+    in which case we are not that similar. From what I''ve understood  or maybe misunderstood
+    :-)  about learning analytics is that they are looking at how humans are responding
+    to the technologies they are using and making predictions, adapting based on the
+    interpretation of what those responses might mean.
+
+
+    I think I''m saying but as I''m writing this I''m not certain, is that there seems
+    to be a limit to the amount of ways we can interpret the responses to the technologies
+    we are using in learning. That limit being our understanding of the universe I
+    guess, but I can''t see at the moment how having that understanding of either
+    humans or what technologies can do, will cause a further increase in the value
+    of data. I don''t know if that makes sense and need to think some more about it.'
+  date: '2012-10-25 03:52:53'
+  date_gmt: '2012-10-24 17:52:53'
+  id: '485'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: 'Not sure if I''m going to connect exactly with your intent, but some of
+    what you''ve said resonates.
+
+
+    In terms of the limits of our ability to interpret the data, this is one of my
+    worries about big data/learning analytics.  LA doesn''t capture why the people
+    interacted the way they did, the only capture how they interacted.  The end user
+    of dashboards and other LA tools (or  even the LA tool itself through its models
+    of learners and learning) than make its interpretation of what is meant by how
+    the learner interacted with the technology.
+
+
+    I''m skeptical of the ability to achieve a match between why the leaner did what
+    they did and what the LA tools interpretations think why the learner did what
+    they did. Especially the further away from the context the LA tool and its user
+    are.
+
+
+    Apparently all the algorithms etc will add the value to the data to make this
+    possible, but I kind of doubt it.'
+  date: '2012-10-26 08:51:01'
+  date_gmt: '2012-10-25 22:51:01'
+  id: '486'
+  parent: '485'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Nicola
+  author_email: nicola.avery@gmail.com
+  author_ip: 109.231.221.77
+  author_url: http://learn4kicks.wordpress.com
+  content: 'Thank you for replying. I''m not sure what your interpretation of my intent
+    is and don''t need to for that matter, but I will try and explain what I think
+    my intent is - assuming I might be capable of knowing ?  I found your blogpost
+    from a google blog search - am occasionally looking at issues and your comments
+    relating to big data resonated. I have started to look at some of the datasheets,
+    videos of learning analytics packages being integrated with corporate learning
+    systems and authoring tools and that doesn''t feel quite like what the SOLAR concept
+    paper mentioned they are trying to do. It looks like all kinds of analytics are
+    being called ''learning analytics'' but I have not seen pricing models that would
+    allow the granularity to pick and choose.
+
+
+    I am concerned about the ethical issues not just of interpretation but also of
+    the motives behind the hype at the moment. There are millions being invested into
+    ''big data'' initiatives and schemes to encourage data &amp; analytical start-ups.
+    These keep markets busy which is what investors need.
+
+
+    The question that I continually come back to whenever looking at economic issues
+    is ''why now'' and trying to apply this to ''big data'' - as technologies have
+    changed people want to be able to do more - e.g. health data of any kind to help
+    improve therapies and in the case of learning analytics - your points above about
+    how people interacted. Why has this become a hype, why huge investment and huge
+    marketing right now?
+
+
+    Why is there so much focus on behaviour, brain, technologies and interpretations
+    being spread throughout media - why are so many hedge fund owners so closely tied
+    with psychology - e.g. the volume of books, articles, TED talks, blogs on behavioural
+    economics and the seemingly cult-like worship that seems to be around it. How
+    far are these messages infiltrating (infilterating?) people''s consciousness?
+    Where is a balance of other perspectives? Why are conclusions being drawn and
+    the messages going out in certain ways - right now? What is the significance of
+    now?
+
+
+    I think like you, I care about what happens in this area and there are some really
+    exciting points - being able to understand more about how we learn and where that
+    might meet with our state of physiological and psychological health is fantastic
+    - who wouldn''t want to be more informed. The data about environmental issues
+    - great to see collaborations and everything else. But why ''big'' is important
+    - is it just to keep the wheels of ''big investment'' turning?
+
+
+    There are other ethical issues but this comment is already too long.'
+  date: '2012-10-26 18:02:28'
+  date_gmt: '2012-10-26 08:02:28'
+  id: '487'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-10-18 06:45:53
 next:
   text: Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional
     Strategic Plan
   url: /blog/2012/10/22/numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan/
+pingbacks: []
 previous:
   text: Three likely paths for learning analytics and academics
   url: /blog/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/
+template: blog-post.html
 title: The Texas sharpshooter fallacy and other issues for learning analytics
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Nicola
-      author_email: nicola.avery@gmail.com
-      author_ip: 90.194.207.253
-      author_url: http://learn4kicks.wordpress.com
-      content: I am predicting that 'big data' will decline as the stampede continues
-        and the value of personal data and how it can be perceived as meaningful - currently
-        highly marketable - goes down when people finally realise that we are not so different
-        as humans, there are only so many ways we can be sliced and diced, including economically;
-        also some aspects that cannot be sliced and diced because of their complexity.  I
-        don't know how quickly though
-      date: '2012-10-23 04:57:31'
-      date_gmt: '2012-10-22 18:57:31'
-      id: '483'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.164.181.94
-      author_url: https://djon.es/blog/
-      content: G'day Nicola,  Thanks for the comments.  Like you I think "big data" will
-        decline after the stampede as with all fads. Though your point about "cannot be
-        sliced and diced" is another reason I agree with. I'm not convinced learning is
-        something that can be effectively "sliced and diced".  But I'm not sure about
-        the other reason you give? Not sure we are that similar, especially if you look
-        at what we do online.  Any pointers that explain why I'm wrong?  Really keen to
-        see other perspectives. David.
-      date: '2012-10-24 15:00:52'
-      date_gmt: '2012-10-24 05:00:52'
-      id: '484'
-      parent: '483'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Nicola
-      author_email: nicola.avery@gmail.com
-      author_ip: 90.194.207.253
-      author_url: http://learn4kicks.wordpress.com
-      content: 'Hi David, thank you for your comment. Apologies I will try and clarify,
-        I''m not sure about right/wrong. I guess if we can fragment ourselves into individual
-        genetic maps and our potential for our genes can adapt - there are many possibilities
-        in which case we are not that similar. From what I''ve understood  or maybe misunderstood
-        :-)  about learning analytics is that they are looking at how humans are responding
-        to the technologies they are using and making predictions, adapting based on the
-        interpretation of what those responses might mean.
-    
-    
-        I think I''m saying but as I''m writing this I''m not certain, is that there seems
-        to be a limit to the amount of ways we can interpret the responses to the technologies
-        we are using in learning. That limit being our understanding of the universe I
-        guess, but I can''t see at the moment how having that understanding of either
-        humans or what technologies can do, will cause a further increase in the value
-        of data. I don''t know if that makes sense and need to think some more about it.'
-      date: '2012-10-25 03:52:53'
-      date_gmt: '2012-10-24 17:52:53'
-      id: '485'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: 'Not sure if I''m going to connect exactly with your intent, but some of
-        what you''ve said resonates.
-    
-    
-        In terms of the limits of our ability to interpret the data, this is one of my
-        worries about big data/learning analytics.  LA doesn''t capture why the people
-        interacted the way they did, the only capture how they interacted.  The end user
-        of dashboards and other LA tools (or  even the LA tool itself through its models
-        of learners and learning) than make its interpretation of what is meant by how
-        the learner interacted with the technology.
-    
-    
-        I''m skeptical of the ability to achieve a match between why the leaner did what
-        they did and what the LA tools interpretations think why the learner did what
-        they did. Especially the further away from the context the LA tool and its user
-        are.
-    
-    
-        Apparently all the algorithms etc will add the value to the data to make this
-        possible, but I kind of doubt it.'
-      date: '2012-10-26 08:51:01'
-      date_gmt: '2012-10-25 22:51:01'
-      id: '486'
-      parent: '485'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Nicola
-      author_email: nicola.avery@gmail.com
-      author_ip: 109.231.221.77
-      author_url: http://learn4kicks.wordpress.com
-      content: 'Thank you for replying. I''m not sure what your interpretation of my intent
-        is and don''t need to for that matter, but I will try and explain what I think
-        my intent is - assuming I might be capable of knowing ?  I found your blogpost
-        from a google blog search - am occasionally looking at issues and your comments
-        relating to big data resonated. I have started to look at some of the datasheets,
-        videos of learning analytics packages being integrated with corporate learning
-        systems and authoring tools and that doesn''t feel quite like what the SOLAR concept
-        paper mentioned they are trying to do. It looks like all kinds of analytics are
-        being called ''learning analytics'' but I have not seen pricing models that would
-        allow the granularity to pick and choose.
-    
-    
-        I am concerned about the ethical issues not just of interpretation but also of
-        the motives behind the hype at the moment. There are millions being invested into
-        ''big data'' initiatives and schemes to encourage data &amp; analytical start-ups.
-        These keep markets busy which is what investors need.
-    
-    
-        The question that I continually come back to whenever looking at economic issues
-        is ''why now'' and trying to apply this to ''big data'' - as technologies have
-        changed people want to be able to do more - e.g. health data of any kind to help
-        improve therapies and in the case of learning analytics - your points above about
-        how people interacted. Why has this become a hype, why huge investment and huge
-        marketing right now?
-    
-    
-        Why is there so much focus on behaviour, brain, technologies and interpretations
-        being spread throughout media - why are so many hedge fund owners so closely tied
-        with psychology - e.g. the volume of books, articles, TED talks, blogs on behavioural
-        economics and the seemingly cult-like worship that seems to be around it. How
-        far are these messages infiltrating (infilterating?) people''s consciousness?
-        Where is a balance of other perspectives? Why are conclusions being drawn and
-        the messages going out in certain ways - right now? What is the significance of
-        now?
-    
-    
-        I think like you, I care about what happens in this area and there are some really
-        exciting points - being able to understand more about how we learn and where that
-        might meet with our state of physiological and psychological health is fantastic
-        - who wouldn''t want to be more informed. The data about environmental issues
-        - great to see collaborations and everything else. But why ''big'' is important
-        - is it just to keep the wheels of ''big investment'' turning?
-    
-    
-        There are other ethical issues but this comment is already too long.'
-      date: '2012-10-26 18:02:28'
-      date_gmt: '2012-10-26 08:02:28'
-      id: '487'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Becoming somewhat cynical about the headlong rush toward learning analytics I'm commencing an exploration of the problems associated with big data, data science and some of the other areas which form the foundation for learning analytics. The following is an ad hoc collection of some initial resources I've found and need to engage with.
 

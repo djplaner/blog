@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-11-16 22:13:11+10:00
+date: 2010-11-16 12:13:11
 next:
   text: Understanding EduFeedr and contrast with BIM
   url: /blog/2010/11/17/understanding-edufeedr-and-contrast-with-bim/
@@ -14,9 +14,9 @@ tags:
 - edufeedr
 - participant
 - publish
+template: blog-post.html
 title: EduFeedr is live. BIM for open blog courses
 type: post
-template: blog-post.html
 ---
 Via Scott Leslie's [free and learning composition](http://www.edtechpost.ca/free-and-learning/) comes the news that EduFeedr is up and going.  
   

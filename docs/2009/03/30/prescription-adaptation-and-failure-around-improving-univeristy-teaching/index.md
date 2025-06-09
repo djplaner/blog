@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - cqulearninghistory
@@ -8,155 +8,153 @@ categories:
 - psframework
 - reflectivealignment
 - thesis
-date: 2009-03-30 12:26:22+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: '"Making great time, rather than having a great time"
+
+    This section reminded me of a meeting recently to define a vision statement. The
+    vision statements itself, while being the end result, is not the important part;
+    it''s going through the process of recognizing deficiencies and new aspirations
+    in a collaborative environment that gets everyone thinking along the same lines.
+    This give ownership of the output (the vision) to all the participants and builds
+    the energy needed to overcome the cost of change.'
+  date: '2009-03-30 15:33:25'
+  date_gmt: '2009-03-30 05:33:25'
+  id: '2340'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Tony,
+
+
+    Personally, the question of vision statements is still questionable.  As a general
+    rule, I think they are not all that helpful, after all they are a very teleological
+    thing to do. However, I have a vague concern that they may be helpful, in the
+    way you suggest, and a lot of folk agree.
+
+
+    Against the idea of vision statements, for me at least, is the question of just
+    how well you can develop a paragraph or two that summarises the aim of a complex
+    process for a range of opinionated people (e.g. teaching and academics). Given
+    the diversity inherent in most groups of academics and how they approach teaching,
+    I''m not sure the process of a vision statement really generates shared understanding.
+
+
+    I think, working collaboratively together sharing each others rationale, attempts
+    and failures, is a better way of developing a shared vision. In particular, because
+    the practical nature of it enables more likelihood of really agreeing on understanding.
+    Something I''m not sure playing with words while formulating a vision statement
+    can help.
+
+
+    Perhaps it depends on how much the vision statement is treated as a blueprint
+    with detailed descriptions that rule out or rule in particular destinations, and
+    how much it is a very high level statement.
+
+
+    David.'
+  date: '2009-03-30 15:49:24'
+  date_gmt: '2009-03-30 05:49:24'
+  id: '2341'
+  parent: '2340'
+  type: comment
+  user_id: '1'
+date: 2009-03-30 02:26:22
 next:
   text: '"Implementing an institution-wide learning and teaching strategy: lessons
     in managing change"'
   url: /blog/2009/03/30/implementing-an-institution-wide-learning-and-teaching-strategy-lessons-in-managing-change/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #6 - start of shortened weeks &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/04/02/phd-update-6-start-of-shortened-weeks/
+  content: '[...] Prescription, adaptation and failure around improving university
+    teachingExpands on the thinking underpinning the design theory in the thesis and
+    applies its insights to broader questions around improving learning and teaching.
+    [...]'
+  date: '2009-04-02 13:21:55'
+  date_gmt: '2009-04-02 03:21:55'
+  id: '2342'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The fad cycle in learning &amp; teaching - a historical perspective &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
+  content: '[...] following continues some themes I&#8217;ve been focusing on over
+    the last couple of weeks including the failure of prescription as a method for
+    improving learning and teaching, the tendency towards faddish or fashionable [...]'
+  date: '2009-04-02 14:05:21'
+  date_gmt: '2009-04-02 04:05:21'
+  id: '2343'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Quality, compliance and task corruption &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: https://djon.es/blog/2009/06/10/quality-compliance-and-task-corruption/
+  content: '[...] brings me back to my point about reflective alignment (my knock
+    off and remixing of Biggs&#8217; constructive alignment) and prescription. Quality
+    [...]'
+  date: '2009-06-10 10:19:30'
+  date_gmt: '2009-06-10 00:19:30'
+  id: '2344'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why minimium standards (probably) won&#8217;t work and will probably become
+    maximum standards &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.152
+  author_url: https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
+  content: '[...] complained previously about Quality compliance and task corruption
+    and the risks run by prescription. The last post includes this quote from Knight
+    and Trowler (2000) Likewise, attempts to improve [...]'
+  date: '2009-06-19 13:30:24'
+  date_gmt: '2009-06-19 03:30:24'
+  id: '2345'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.72
+  author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
+  content: '[...] in Australia, I agree with Stephen, the system is broken. Even worse,
+    for some time I have been dismayed at the increasingly prevalent broken approaches
+    that are being adopted in the quest for improving [...]'
+  date: '2010-05-14 14:14:45'
+  date_gmt: '2010-05-14 04:14:45'
+  id: '2346'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #5 - a new low'
   url: /blog/2009/03/27/phd-update-5-a-new-low/
+template: blog-post.html
 title: Prescription, adaptation and failure around improving univeristy teaching
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: '"Making great time, rather than having a great time"
-    
-        This section reminded me of a meeting recently to define a vision statement. The
-        vision statements itself, while being the end result, is not the important part;
-        it''s going through the process of recognizing deficiencies and new aspirations
-        in a collaborative environment that gets everyone thinking along the same lines.
-        This give ownership of the output (the vision) to all the participants and builds
-        the energy needed to overcome the cost of change.'
-      date: '2009-03-30 15:33:25'
-      date_gmt: '2009-03-30 05:33:25'
-      id: '2340'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Tony,
-    
-    
-        Personally, the question of vision statements is still questionable.  As a general
-        rule, I think they are not all that helpful, after all they are a very teleological
-        thing to do. However, I have a vague concern that they may be helpful, in the
-        way you suggest, and a lot of folk agree.
-    
-    
-        Against the idea of vision statements, for me at least, is the question of just
-        how well you can develop a paragraph or two that summarises the aim of a complex
-        process for a range of opinionated people (e.g. teaching and academics). Given
-        the diversity inherent in most groups of academics and how they approach teaching,
-        I''m not sure the process of a vision statement really generates shared understanding.
-    
-    
-        I think, working collaboratively together sharing each others rationale, attempts
-        and failures, is a better way of developing a shared vision. In particular, because
-        the practical nature of it enables more likelihood of really agreeing on understanding.
-        Something I''m not sure playing with words while formulating a vision statement
-        can help.
-    
-    
-        Perhaps it depends on how much the vision statement is treated as a blueprint
-        with detailed descriptions that rule out or rule in particular destinations, and
-        how much it is a very high level statement.
-    
-    
-        David.'
-      date: '2009-03-30 15:49:24'
-      date_gmt: '2009-03-30 05:49:24'
-      id: '2341'
-      parent: '2340'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #6 - start of shortened weeks &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/04/02/phd-update-6-start-of-shortened-weeks/
-      content: '[...] Prescription, adaptation and failure around improving university
-        teachingExpands on the thinking underpinning the design theory in the thesis and
-        applies its insights to broader questions around improving learning and teaching.
-        [...]'
-      date: '2009-04-02 13:21:55'
-      date_gmt: '2009-04-02 03:21:55'
-      id: '2342'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The fad cycle in learning &amp; teaching - a historical perspective &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
-      content: '[...] following continues some themes I&#8217;ve been focusing on over
-        the last couple of weeks including the failure of prescription as a method for
-        improving learning and teaching, the tendency towards faddish or fashionable [...]'
-      date: '2009-04-02 14:05:21'
-      date_gmt: '2009-04-02 04:05:21'
-      id: '2343'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Quality, compliance and task corruption &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: https://djon.es/blog/2009/06/10/quality-compliance-and-task-corruption/
-      content: '[...] brings me back to my point about reflective alignment (my knock
-        off and remixing of Biggs&#8217; constructive alignment) and prescription. Quality
-        [...]'
-      date: '2009-06-10 10:19:30'
-      date_gmt: '2009-06-10 00:19:30'
-      id: '2344'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why minimium standards (probably) won&#8217;t work and will probably become
-        maximum standards &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.152
-      author_url: https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
-      content: '[...] complained previously about Quality compliance and task corruption
-        and the risks run by prescription. The last post includes this quote from Knight
-        and Trowler (2000) Likewise, attempts to improve [...]'
-      date: '2009-06-19 13:30:24'
-      date_gmt: '2009-06-19 03:30:24'
-      id: '2345'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.72
-      author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
-      content: '[...] in Australia, I agree with Stephen, the system is broken. Even worse,
-        for some time I have been dismayed at the increasingly prevalent broken approaches
-        that are being adopted in the quest for improving [...]'
-      date: '2010-05-14 14:14:45'
-      date_gmt: '2010-05-14 04:14:45'
-      id: '2346'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following post and its content has been shaped by (at least) three separate influences:
 
@@ -165,7 +163,7 @@ The following post and its content has been shaped by (at least) three separate 
 3. The article by Knight and Trowler (2000) that I'm currently reading entitled "Department-level cultures and the improvement of learning and teaching".  
     
 
-[![Lightning McQueen](images/150160407_9d6a8da1b3_m_d.jpg)](http://www.flickr.com/photos/kurros/150160407/)
+[![Lightning McQueen](https://djon.es/assets/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/images/150160407_9d6a8da1b3_m_d.jpg)](http://www.flickr.com/photos/kurros/150160407/)
 
 I've found the Knight and Trowler (2000) article particularly good because it has expressed and explained quite effectively a number of points that I believe currently make most institutional attempts to improve teaching less than successful (Yes, there's a good chance that [confirmation bias](http://en.wikipedia.org/wiki/Confirmation_bias) plays a significant role here. But then I think I'm right ;) ). In this post, I'm hoping/planing to focus on the following points:
 
@@ -218,7 +216,7 @@ Why do I think this approach fails? Well, there are the empirical results arisin
 
 #### The importance and ignorance of place
 
-[![The Ps Framework: a messy version](images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/ "The Ps Framework: a messy version by David T Jones, on Flickr")
+[![The Ps Framework: a messy version](https://djon.es/assets/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/ "The Ps Framework: a messy version by David T Jones, on Flickr")
 
 In the [Ps Framework](/blog/2009/03/18/the-ps-framework/) I have identified "Place" as the environment in which it all takes place. It is the foundation. The nature of the "Place" (or the context) in which teaching takes place is an essential influence on what is possible and what happens. Importantly, there is also the idea that "Place" is unique. The institution I work for is different others. The departmental culture you belong to is different from the one I belong to.
 

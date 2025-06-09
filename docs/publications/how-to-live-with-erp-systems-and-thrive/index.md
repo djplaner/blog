@@ -1,67 +1,64 @@
----
-date: 2008-10-24 14:53:28+10:00
+﻿---
+comments: []
+date: 2008-10-24 04:53:28
+pingbacks:
+- approved: '1'
+  author: The cognitive/human bias in organisational e-learning | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 66.155.9.148
+  author_url: https://djon.es/blog/2014/02/17/the-cognitivehuman-bias-in-organisational-e-learning/
+  content: '[&#8230;] than my prior institutions. Peoplesoft gives each term/semester
+    a four digit code. As explained in an earlier paper the prior institution&#8217;s
+    four digit code was calculated as CYYT where C = century, YY = year [&#8230;]'
+  date: '2014-02-17 11:58:09'
+  date_gmt: '2014-02-17 01:58:09'
+  id: '1852'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: It&#8217;s making us stupid | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.9.34
+  author_url: https://djon.es/blog/2014/02/17/making-us-stupid/
+  content: '[&#8230;] than my prior institutions. Peoplesoft gives each term/semester
+    a four digit code. As explained in an earlier paper the prior institution&#8217;s
+    four digit code was calculated as CYYT where C = century, YY = year [&#8230;]'
+  date: '2014-02-17 11:59:50'
+  date_gmt: '2014-02-17 01:59:50'
+  id: '1853'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Learning how to make waves | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.49
+  author_url: https://djon.es/blog/2014/09/03/learning-how-to-make-waves/
+  content: '[&#8230;] How to live with ERP systems and&nbsp;thrive [&#8230;]'
+  date: '2014-09-03 12:33:43'
+  date_gmt: '2014-09-03 02:33:43'
+  id: '1854'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: All models are wrong, but some are useful and its application to e-learning
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.57
+  author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+  content: '[&#8230;] How to live with ERP systems and&nbsp;thrive [&#8230;]'
+  date: '2015-08-28 09:04:42'
+  date_gmt: '2015-08-27 23:04:42'
+  id: '1855'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: How to live with ERP systems and thrive
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The cognitive/human bias in organisational e-learning | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 66.155.9.148
-      author_url: https://djon.es/blog/2014/02/17/the-cognitivehuman-bias-in-organisational-e-learning/
-      content: '[&#8230;] than my prior institutions. Peoplesoft gives each term/semester
-        a four digit code. As explained in an earlier paper the prior institution&#8217;s
-        four digit code was calculated as CYYT where C = century, YY = year [&#8230;]'
-      date: '2014-02-17 11:58:09'
-      date_gmt: '2014-02-17 01:58:09'
-      id: '1852'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: It&#8217;s making us stupid | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.9.34
-      author_url: https://djon.es/blog/2014/02/17/making-us-stupid/
-      content: '[&#8230;] than my prior institutions. Peoplesoft gives each term/semester
-        a four digit code. As explained in an earlier paper the prior institution&#8217;s
-        four digit code was calculated as CYYT where C = century, YY = year [&#8230;]'
-      date: '2014-02-17 11:59:50'
-      date_gmt: '2014-02-17 01:59:50'
-      id: '1853'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Learning how to make waves | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.49
-      author_url: https://djon.es/blog/2014/09/03/learning-how-to-make-waves/
-      content: '[&#8230;] How to live with ERP systems and&nbsp;thrive [&#8230;]'
-      date: '2014-09-03 12:33:43'
-      date_gmt: '2014-09-03 02:33:43'
-      id: '1854'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: All models are wrong, but some are useful and its application to e-learning
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.57
-      author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
-      content: '[&#8230;] How to live with ERP systems and&nbsp;thrive [&#8230;]'
-      date: '2015-08-28 09:04:42'
-      date_gmt: '2015-08-27 23:04:42'
-      id: '1855'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Many of the links in the following will now be broken due to changes in organisational systems
 

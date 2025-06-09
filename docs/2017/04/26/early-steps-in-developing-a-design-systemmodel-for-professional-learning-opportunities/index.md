@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eei
 - plos
-date: 2017-04-26 15:10:02+10:00
+date: 2017-04-26 05:10:02
 next:
   text: Bye, Bye Mendeley?
   url: /blog/2017/05/20/bye-bye-mendeley/
 previous:
   text: Understanding systems conditions for sustainable uptake of learning analytics
   url: /blog/2017/04/02/understanding-systems-conditions-for-sustainable-uptake-of-learning-analytics/
+template: blog-post.html
 title: Early steps in developing a design system/model for Professional Learning Opportunities
 type: post
-template: blog-post.html
 ---
 A big responsibility for the new team I work with is the design, implementation and revision of Professional Learning Opportunities (PLOs) for teaching staff at our current institution. The PLO term has been gifted to us as part of the restructure process/documents that created the team. It's a term I quite like since I've chosen to interpret it as covering a huge range of possibilities beyond just face-to-face, synchronous, physical professional development. This is good because the team has been charged with doing something different.
 

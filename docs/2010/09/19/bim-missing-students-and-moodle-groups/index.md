@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bimerrors
-date: 2010-09-19 16:57:13+10:00
+date: 2010-09-19 06:57:13
 next:
   text: The nature of user involvement in LMS selection and implementation
   url: /blog/2010/09/28/the-nature-of-user-involvement-in-lms-selection-and-implementation/
 previous:
   text: Dilbert as an expository instantiation
   url: /blog/2010/09/18/dilbert-as-an-expository-instantiation/
+template: blog-post.html
 title: BIM, missing students and Moodle groups
 type: post
-template: blog-post.html
 ---
 The following is a description of a common "problem" with [BIM](/blog/research/bam-blog-aggregation-management/).
 

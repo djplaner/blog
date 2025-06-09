@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - paris2008
-date: 2008-12-12 17:27:57+10:00
+date: 2008-12-12 07:27:57
 next:
   text: Our first afternoon in Paris
   url: /blog/2008/12/15/our-first-afternoon-in-paris/
@@ -10,9 +10,9 @@ previous:
   url: /blog/2008/12/11/struck-oil-to-singapore/
 tags:
 - paris
+template: blog-post.html
 title: Singapore to Paris
 type: post
-template: blog-post.html
 ---
 After much shopping (mostly winter clothes - much needed and used already) and a bit of time in the QClub - time to get back on a plane for the 13+ hours to London. The upgrade to Business didn't come through but the nice check in lady from Brisbane had put us in the next best thing. A row of seats behind a partition that meant we had enough room to our legs out straight. Very nice. Both Sandy and I slept a reasonable amount for this type of thing. Watched a number of movies and basically waited for the flight to be over.
 
@@ -38,6 +38,6 @@ Move onto another set of phones. Ahh, this one takes coins. Put 1.40 euro in the
 
 Outside for a taxi and a hope that the written directions will be sufficient for him to get us there. A 40 minute drive and we're deposited outside the apartment. At which we have to wait for 10 minutes or so for the landlady to turn up
 
-[![Waiting for Mme Rivaud](images/3102194738_2c20cc3574_m.jpg)](http://www.flickr.com/photos/david_jones/3102194738/ "Waiting for Mme Rivaud by David T Jones, on Flickr")
+[![Waiting for Mme Rivaud](https://djon.es/assets/blog/2008/12/12/singapore-to-paris/images/3102194738_2c20cc3574_m.jpg)](http://www.flickr.com/photos/david_jones/3102194738/ "Waiting for Mme Rivaud by David T Jones, on Flickr")
 
 Not all that bad, get a chance to walk around the neighbourhood, but it is cold. Sandy's putting her "cold" boots on when the landlady arrives. Shows us the ropes, helps us settle in and then were alone in our little French apartment for the next 7 days.

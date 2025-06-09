@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - edc3100
-date: 2014-01-22 15:46:34+10:00
+comments: []
+date: 2014-01-22 05:46:34
 next:
   text: '"#moodle Activity Viewer (MAV) and the promise for bricolage"'
   url: /blog/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/
+pingbacks:
+- approved: '1'
+  author: Analysing EDC3100 using MAV | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.170
+  author_url: https://djon.es/blog/2014/02/03/analysing-edc3100-using-mav/
+  content: '[&#8230;] that I have the Moodle Activity Viewer (MAV) working, I can
+    continue the analysis of the course I teach, EDC3100, ICTs and Pedagogy. This
+    post documents some reflections on the [&#8230;]'
+  date: '2014-02-03 15:22:42'
+  date_gmt: '2014-02-03 05:22:42'
+  id: '932'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'A #moodle course site wide &quot;macro&quot; facility?'
   url: /blog/2014/01/22/a-moodle-course-site-wide-macro-facility/
+template: blog-post.html
 title: What should be covered in EDC3100?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Analysing EDC3100 using MAV | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.170
-      author_url: https://djon.es/blog/2014/02/03/analysing-edc3100-using-mav/
-      content: '[&#8230;] that I have the Moodle Activity Viewer (MAV) working, I can
-        continue the analysis of the course I teach, EDC3100, ICTs and Pedagogy. This
-        post documents some reflections on the [&#8230;]'
-      date: '2014-02-03 15:22:42'
-      date_gmt: '2014-02-03 05:22:42'
-      id: '932'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the next step in thinking about the course I teach. The rough process and background is available [in the first post](/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/). The first post and [the most recent](/blog/2014/01/15/analysing-some-course-evaluation-comments/) in this series considered student feedback. This post moves onto to thinking about the course itself, what it covers, and whether that's any good.
 

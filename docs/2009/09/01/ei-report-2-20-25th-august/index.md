@@ -1,14 +1,14 @@
----
-date: 2009-09-01 09:41:56+10:00
+﻿---
+date: 2009-08-31 23:41:56
 next:
   text: Curriculum mapping, process, technology and higher education - some questions
   url: /blog/2009/09/01/curriculum-mapping-process-technology-and-higher-education/
 previous:
   text: Product models - LMS, BoB and alternatives
   url: /blog/2009/08/31/product-models-lms-bob-and-alternatives/
+template: blog-post.html
 title: '"e&#038;i report #2 - 20th August - 1st September"'
 type: post
-template: blog-post.html
 ---
 This is the second in the fortnightly reports of what I've been doing in my [current position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ - [here's the first](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/). These posts are made just before the meeting with my supervisor. Due to a change in date for the last meeting, this doesn't report on a full fortnight.
 

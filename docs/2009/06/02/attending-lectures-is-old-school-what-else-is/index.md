@@ -1,137 +1,135 @@
----
+﻿---
 categories:
 - elearning
 - ilecture
-date: 2009-06-02 14:16:03+10:00
+comments:
+- approved: '1'
+  author: Mike Bogle
+  author_email: michael.s.bogle@gmail.com
+  author_ip: 202.154.114.55
+  author_url: http://techticker.net
+  content: 'Great post first off, I''ve shared it with my colleagues.
+
+
+    Standard journalism indeed.  I''m always skeptical of statements that start "in
+    a growing trend..." without following it with any quantitative evidence.
+
+
+    You hit the nail on the head.  It''s not nearly as homogeneous as the article
+    leads you to believe.  One of my many hats at UNSW at the moment is to help look
+    after Lectopia, so I''ve got some experience here (admittedly that means an element
+    of bias too).  Unfortunately this article will cater to the prevailing concern
+    amidst opponents that recorded lectures equals decreased attendance.
+
+
+    At least based on the survey that was conducted across 4 major Australian universities
+    in 2006, this isn''t necessarily the case.  The survey included students responses
+    from University of Melbourne, UNSW, UTas, and UWA.  The questions and results
+    are available on our Lectopia support site:
+
+
+    <a href="http://elearning.unsw.edu.au/lectopia/content/survey_results_2006.cfm"
+    rel="nofollow">http://elearning.unsw.edu.au/lectopia/content/survey_results_2006.cfm</a>
+
+
+    I''m not sure off hand how many students in total participated in the survey (there
+    were 174 from UNSW), so it''s possible the sample is too small to be representative.  However
+    the results may still be of interest.
+
+
+    The sections on Lecture Attendance and Lecture Experience beginning in the middle
+    of page 4 of the second document is of particular relevance here.
+
+
+    For example, based on the question "How often do you attend the live lectures?"
+    combining the responses for "Always" and "Regularly" puts the statistics for all
+    four institutions at over 75% of respondents.
+
+
+    Anecdotally, I''ve heard that recordings are very popular amongst international
+    students for whom English is a foreign language.  Also, at least at UNSW it''s
+    not out of the ordinary for courses to clash with one another and students having
+    to chose to attend one at the expense of another.
+
+
+    I''ve also heard of instructors completely redesigning their courses, using the
+    recordings to deliver their lectures and then using face-to-face time for something
+    more participatory and discursive.  Unfortunately they seem to be the innovators
+    rather than the norm - yet it''s nonetheless cause for optimism to hear.
+
+
+    Certainly there will be students who use the recordings as an alternative or substitute
+    to attending class - there''s no denying that.  Then again, I didn''t go to all
+    my classes in uni before lecture recordings were even available, and I''d imagine
+    I''m not alone there.  So I don''t think that lack of attendance can be attributed
+    to lecture recordings alone.'
+  date: '2009-06-02 16:19:26'
+  date_gmt: '2009-06-02 06:19:26'
+  id: '2553'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Mike,
+
+
+    Thanks for the pointer on the some figures.
+
+
+    A lot of what you''ve reported and what I see in the ALTC report tends to match
+    what I observed in the "early days" (1996/1997) of e-learning when audio lectures
+    were being made available.
+
+
+    Your post about <a href="http://techticker.net/2009/05/22/webconferencing-and-open-education/"
+    rel="nofollow">Web conferencing and open education</a> is one of the inspirations
+    from some of my current thinking.  Particularly the second last paragraph.
+
+
+    Hope we can chat more about this as my thoughts develop.
+
+
+    David.'
+  date: '2009-06-02 23:13:49'
+  date_gmt: '2009-06-02 13:13:49'
+  id: '2554'
+  parent: '2553'
+  type: comment
+  user_id: '1'
+date: 2009-06-02 04:16:03
 next:
   text: Tell a story about your garden - narrative and SenseMaker
   url: /blog/2009/06/04/tell-a-story-about-your-garden-narrative-and-sensemaker/
+pingbacks:
+- approved: '1'
+  author: You only get this type of education in class &#8211; mythic attributes of
+    the lecture &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
+  content: '[...] the minor vein of controversy gold provided by the &#8220;online
+    lecture&#8221; movement. Last week I posted about an article that suggested that
+    attending lectures was old school. i.e. that students [...]'
+  date: '2009-06-09 14:50:57'
+  date_gmt: '2009-06-09 04:50:57'
+  id: '2555'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The LMS/VLE as a one word language - metaphor and e-learning
   url: /blog/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/
+template: blog-post.html
 title: Attending lectures is 'old school' - what else is?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Mike Bogle
-      author_email: michael.s.bogle@gmail.com
-      author_ip: 202.154.114.55
-      author_url: http://techticker.net
-      content: 'Great post first off, I''ve shared it with my colleagues.
-    
-    
-        Standard journalism indeed.  I''m always skeptical of statements that start "in
-        a growing trend..." without following it with any quantitative evidence.
-    
-    
-        You hit the nail on the head.  It''s not nearly as homogeneous as the article
-        leads you to believe.  One of my many hats at UNSW at the moment is to help look
-        after Lectopia, so I''ve got some experience here (admittedly that means an element
-        of bias too).  Unfortunately this article will cater to the prevailing concern
-        amidst opponents that recorded lectures equals decreased attendance.
-    
-    
-        At least based on the survey that was conducted across 4 major Australian universities
-        in 2006, this isn''t necessarily the case.  The survey included students responses
-        from University of Melbourne, UNSW, UTas, and UWA.  The questions and results
-        are available on our Lectopia support site:
-    
-    
-        <a href="http://elearning.unsw.edu.au/lectopia/content/survey_results_2006.cfm"
-        rel="nofollow">http://elearning.unsw.edu.au/lectopia/content/survey_results_2006.cfm</a>
-    
-    
-        I''m not sure off hand how many students in total participated in the survey (there
-        were 174 from UNSW), so it''s possible the sample is too small to be representative.  However
-        the results may still be of interest.
-    
-    
-        The sections on Lecture Attendance and Lecture Experience beginning in the middle
-        of page 4 of the second document is of particular relevance here.
-    
-    
-        For example, based on the question "How often do you attend the live lectures?"
-        combining the responses for "Always" and "Regularly" puts the statistics for all
-        four institutions at over 75% of respondents.
-    
-    
-        Anecdotally, I''ve heard that recordings are very popular amongst international
-        students for whom English is a foreign language.  Also, at least at UNSW it''s
-        not out of the ordinary for courses to clash with one another and students having
-        to chose to attend one at the expense of another.
-    
-    
-        I''ve also heard of instructors completely redesigning their courses, using the
-        recordings to deliver their lectures and then using face-to-face time for something
-        more participatory and discursive.  Unfortunately they seem to be the innovators
-        rather than the norm - yet it''s nonetheless cause for optimism to hear.
-    
-    
-        Certainly there will be students who use the recordings as an alternative or substitute
-        to attending class - there''s no denying that.  Then again, I didn''t go to all
-        my classes in uni before lecture recordings were even available, and I''d imagine
-        I''m not alone there.  So I don''t think that lack of attendance can be attributed
-        to lecture recordings alone.'
-      date: '2009-06-02 16:19:26'
-      date_gmt: '2009-06-02 06:19:26'
-      id: '2553'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Mike,
-    
-    
-        Thanks for the pointer on the some figures.
-    
-    
-        A lot of what you''ve reported and what I see in the ALTC report tends to match
-        what I observed in the "early days" (1996/1997) of e-learning when audio lectures
-        were being made available.
-    
-    
-        Your post about <a href="http://techticker.net/2009/05/22/webconferencing-and-open-education/"
-        rel="nofollow">Web conferencing and open education</a> is one of the inspirations
-        from some of my current thinking.  Particularly the second last paragraph.
-    
-    
-        Hope we can chat more about this as my thoughts develop.
-    
-    
-        David.'
-      date: '2009-06-02 23:13:49'
-      date_gmt: '2009-06-02 13:13:49'
-      id: '2554'
-      parent: '2553'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: You only get this type of education in class &#8211; mythic attributes of
-        the lecture &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
-      content: '[...] the minor vein of controversy gold provided by the &#8220;online
-        lecture&#8221; movement. Last week I posted about an article that suggested that
-        attending lectures was old school. i.e. that students [...]'
-      date: '2009-06-09 14:50:57'
-      date_gmt: '2009-06-09 04:50:57'
-      id: '2555'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A [local Sunday paper](http://www.news.com.au/couriermail/sundaymail/) had an article last Sunday titled "Is this the future of our universities?" and with a sub-heading of "Attending lectures is 'old school'. This post is a first attempt to gather some thoughts about how the whole thinking about lectures in universities, including the notions around e-lectures in articles like this, are just so 'old school'. So much so that what passes for "digital lectures" is pretty limited.
 
-[![Crowded math course](images/277264851_ac0f82022f_m_d.jpg)](http://www.flickr.com/photos/thowi/277264851/)
+[![Crowded math course](https://djon.es/assets/blog/2009/06/02/attending-lectures-is-old-school-what-else-is/images/277264851_ac0f82022f_m_d.jpg)](http://www.flickr.com/photos/thowi/277264851/)
 
 ### The perception
 

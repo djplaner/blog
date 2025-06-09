@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-06-21 14:46:41+10:00
+comments: []
+date: 2009-06-21 04:46:41
 next:
   text: '"PhD Update #15 - Some progress and an absence"'
   url: /blog/2009/06/21/phd-update-15-some-progress-and-an-absence/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #15 &#8211; Some progress and an absence &laquo; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/06/21/phd-update-15-some-progress-and-an-absence/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Lessons from process for university&nbsp;e-learning [...]'
+  date: '2009-06-21 14:55:20'
+  date_gmt: '2009-06-21 04:55:20'
+  id: '2617'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: "The reason *insert label* talk about gurus is because they can\u2019t spell\
     \ the word charlatan"
   url: /blog/2009/06/21/the-reason-insert-label-talk-about-gurus-is-because-they-cant-spell-the-word-charlatan/
+template: blog-post.html
 title: Lessons from process for university e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #15 &#8211; Some progress and an absence &laquo; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/06/21/phd-update-15-some-progress-and-an-absence/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Lessons from process for university&nbsp;e-learning [...]'
-      date: '2009-06-21 14:55:20'
-      date_gmt: '2009-06-21 04:55:20'
-      id: '2617'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I told myself that I would get this section completed today before I went home and I have achieved that goal. Perhaps, however, I have engaged in a bit of "task corruption". A couple of days ago I was listening to a podcast about how the United States education system might be improved. One of the panelists suggested that one of the strategies employed by various school sectors to improve graduation was to make it easier to graduate. Just perhaps, in order to get this posted, I've relaxed my standards more than normal. Time will tell if it is too far.
 

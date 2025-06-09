@@ -1,41 +1,38 @@
----
+﻿---
 categories:
 - bad
 - elearning
 - moodle
 - moodleopenbook
-date: 2015-06-09 11:52:25+10:00
+comments: []
+date: 2015-06-09 01:52:25
 next:
   text: '"Reading - Embracing Big Data in Complex Educational Systems: The Learning
     Analytics Imperative and the Policy Challenge"'
   url: /blog/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
+pingbacks:
+- approved: '1'
+  author: 'Exploring &#8220;post adoptive usage&#8221; of the #moodle Book module
+    &#8211; a draft proposal | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.99.237
+  author_url: https://davidtjones.wordpress.com/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/
+  content: '[&#8230;] Some of the Moodle features have discussion forums where people
+    using the feature can discuss. Content analysis of the relevant forum might reveal
+    patterns. The actual source code for Moodle as well as plans and [&#8230;]'
+  date: '2015-11-06 15:39:51'
+  date_gmt: '2015-11-06 05:39:51'
+  id: '1317'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The four paths for implementing learning analytics and enhancing the quality
     of learning and teaching
   url: /blog/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/
+template: blog-post.html
 title: Analysing Moodle community forum discussions about the Moodle book module
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Exploring &#8220;post adoptive usage&#8221; of the #moodle Book module
-        &#8211; a draft proposal | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.99.237
-      author_url: https://davidtjones.wordpress.com/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/
-      content: '[&#8230;] Some of the Moodle features have discussion forums where people
-        using the feature can discuss. Content analysis of the relevant forum might reveal
-        patterns. The actual source code for Moodle as well as plans and [&#8230;]'
-      date: '2015-11-06 15:39:51'
-      date_gmt: '2015-11-06 05:39:51'
-      id: '1317'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As part of the ["Moodle open book" project](/blog/the-moodle-open-book-module-project/) I'm hoping to increase my knowledge of what the Moodle community has already discussed about the [Book module](https://docs.moodle.org/28/en/Book_module). The following is a summary of the process I'm using to analyse those discussions.
 

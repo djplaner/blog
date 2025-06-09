@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - chapter-2
 - phd
 - thesis
-date: 2009-06-05 16:23:45+10:00
+comments: []
+date: 2009-06-05 06:23:45
 next:
   text: University processes - management and planning
   url: /blog/2009/06/08/university-processes-management-and-planning/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #14 &#8211; Moving to a new day &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/06/14/phd-update-14-moving-to-a-new-day/
+  content: '[...] last week progress has been slowed by another two days lost due
+    to public holiday and other work commitments. [...]'
+  date: '2009-06-14 11:36:00'
+  date_gmt: '2009-06-14 01:36:00'
+  id: '2577'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The teaching/research nexus - an example?
   url: /blog/2009/06/05/the-teachingresearch-nexus-an-example/
+template: blog-post.html
 title: '"PhD Update #13 - back after a week off"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #14 &#8211; Moving to a new day &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/06/14/phd-update-14-moving-to-a-new-day/
-      content: '[...] last week progress has been slowed by another two days lost due
-        to public holiday and other work commitments. [...]'
-      date: '2009-06-14 11:36:00'
-      date_gmt: '2009-06-14 01:36:00'
-      id: '2577'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 After 12 weekly updates I missed one last week as the missus and I went on a holiday, ate some nice meals (e.g. [this one](/blog/2009/05/27/a-night-at-ezard/)), and purchased a new car. This time last week I was driving the new car out of Brisbane on the way home, hence no update.
 

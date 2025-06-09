@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
@@ -7,16 +7,16 @@ categories:
 - phd
 - reflectivealignment
 - thesis
-date: 2010-06-12 10:53:58+10:00
+date: 2010-06-12 00:53:58
 next:
   text: Workarounds
   url: /blog/2010/06/13/workarounds/
 previous:
   text: Course websites and &quot;libertarian paternalism&quot;
   url: /blog/2010/06/08/course-websites-and-libertarian-paternalism/
+template: blog-post.html
 title: Functional fixedness, analytics, and the LMS
 type: post
-template: blog-post.html
 ---
 A [blog post](http://www.gilfuseducationgroup.com/academic-analytics-data-rich-information-poor) on the website of [Gilfes Education Group](http://www.gilfuseducationgroup.com/) (apparently a "network of independent education experts") picks up on the [Indicators project](http://indicatorsproject.wordpress.com/) and its take on academic analytics. The post seems to largely in agreement with what we're doing and the reasons behind it.
 
@@ -26,7 +26,7 @@ The following seeks to pick up on a point made in the [Gilfus post](http://www.g
 
 Imagine if you will that we're in a room together. I'm going to set you a task. Here's some matches, a box of tacks and a candle (see the image below). Your task is to attach the candle to a cork board on the wall in way that means that wax from the candle does not drip onto the table that is underneath the cork board.
 
-[![Candle problem set up](images/4691512711_d5e2eaea9c_o.jpg)](http://www.flickr.com/photos/david_jones/4691512711/ "Candle problem set up by David T Jones, on Flickr")
+[![Candle problem set up](https://djon.es/assets/blog/2010/06/12/functional-fixedness-analytics-the-lms-and-the-v-word/images/4691512711_d5e2eaea9c_o.jpg)](http://www.flickr.com/photos/david_jones/4691512711/ "Candle problem set up by David T Jones, on Flickr")
 
 How do you do it?
 
@@ -68,4 +68,4 @@ German, T. and H. C. Barrett (2005). "Functional fixedness in a technologically 
 
 The solution to the [Candle problem](http://en.wikipedia.org/wiki/The_Candle_Problem) is represented in the following image.
 
-[![Candle problem solution](images/4691512953_448f35e95f_o.jpg)](http://www.flickr.com/photos/david_jones/4691512953/ "Candle problem solution by David T Jones, on Flickr")
+[![Candle problem solution](https://djon.es/assets/blog/2010/06/12/functional-fixedness-analytics-the-lms-and-the-v-word/images/4691512953_448f35e95f_o.jpg)](http://www.flickr.com/photos/david_jones/4691512953/ "Candle problem solution by David T Jones, on Flickr")

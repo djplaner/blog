@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - elearning
 - evaluation
 - indicators
 - lmsevaluation
-date: 2009-08-05 13:57:04+10:00
+date: 2009-08-05 03:57:04
 next:
   text: External factors associated with CMS adoption
   url: /blog/2009/08/05/external-factors-associated-with-cms-adoption/
 previous:
   text: Factors related to the breadth of use of LMS/VLE features
   url: /blog/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/
+template: blog-post.html
 title: Automating calculation of LMS/CMS/VLE feature usage - a project?
 type: post
-template: blog-post.html
 ---
 I'm in the midst of looking at the [work of Malikowski et al](/blog/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/) in evaluating the usage of VLE features. The aim of this work is an attempt to provide information that can help those who help academics use VLEs. The following is an idea to address those problems and arrive at something that might be useful for cross-institutional comparisons.
 
@@ -27,7 +27,7 @@ Interested in engaging in something like this?
 
 An important contribution they've made is to provide a useful framework for comparing feature usage between different systems and summarised the basic level of usage between the different parts of the framework. The framework is shown in the following image.
 
-[![Malikowski Flow Chart](images/malikowski.jpg)](https://www.flickr.com/photos/david_jones/3465729160/)
+[![Malikowski Flow Chart](https://djon.es/assets/blog/2009/08/05/automating-calculation-of-lmscmsvle-feature-usage-a-project/images/malikowski.jpg)](https://www.flickr.com/photos/david_jones/3465729160/)
 
 ### Limitations
 

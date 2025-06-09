@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - fedwiki
-coverImage: 2407833520_69e9e59ea4_o-e1594164072247.jpg
-date: 2020-07-07 11:20:22+10:00
+coverImage: https://djon.es/assets/blog/2020/07/07/getting-started-with-memex/images/2407833520_69e9e59ea4_o-e1594164072247.jpg
+date: 2020-07-07 01:20:22
 next:
   text: Pondering if and how Hax & web components fit in Blackboard
   url: /blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/
@@ -11,9 +11,9 @@ previous:
   url: /blog/2020/07/06/designing-a-personal-memex-with-foam/
 tags:
 - memex
+template: blog-post.html
 title: Getting started with memex
 type: post
-template: blog-post.html
 ---
 My [last post](/blog/2020/07/06/designing-a-personal-memex-with-foam/) was an exploration of [Foam](https://foambubble.github.io/foam/) (a nascent personal knowledge management and sharing system) and how I might use it. This post documents two steps toward implementation
 

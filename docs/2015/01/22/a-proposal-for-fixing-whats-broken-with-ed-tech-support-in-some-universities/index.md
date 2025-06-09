@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - academicdevelopment
 - bad
 - elearning
-date: 2015-01-22 11:57:49+10:00
+date: 2015-01-22 01:57:49
 next:
   text: Adding some learning process analytics to EDC3100
   url: /blog/2015/01/23/adding-some-learning-process-analytics-to-edc3100/
 previous:
   text: Trying out a new writing process
   url: /blog/2015/01/21/trying-out-a-new-writing-process/
+template: blog-post.html
 title: A proposal for fixing what's broken with ed tech support in some universities
 type: post
-template: blog-post.html
 ---
 [This paper](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) analyses the outcomes of what a small group of academics (myself included) attempted to do to develop the knowledge/capability to develop effective learning for hundreds of pre-service teachers via e-learning. That experience is analysed using a distributive view of knowledge and learning and illustrates just how broken what passes for ed tech support/academic staff development in some universities. Picking up on [yesterday's post](/blog/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/), the paper reports on academics harnessing their digital fluency to address the almost complete lack of usefulness of the institutionally developed attempts at supporting academic staff in developing the knowledge necessary for effective e-learning.
 

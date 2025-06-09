@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - curriculummapping-cddu
-date: 2010-03-09 14:19:49+10:00
+comments: []
+date: 2010-03-09 04:19:49
 next:
   text: Moodle, outcomes, metadata and curriculum mapping
   url: /blog/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/
+pingbacks:
+- approved: '1'
+  author: Moodle, outcomes, metadata and curriculum mapping &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.163
+  author_url: https://djon.es/blog/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Outcomes and&nbsp;Moodle [...]'
+  date: '2010-03-10 10:21:40'
+  date_gmt: '2010-03-10 00:21:40'
+  id: '2956'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Fixes and reflections on the early use of BIM
   url: /blog/2010/03/09/fixes-and-reflections-on-the-early-use-of-bim/
+template: blog-post.html
 title: Outcomes and Moodle
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Moodle, outcomes, metadata and curriculum mapping &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.163
-      author_url: https://djon.es/blog/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Outcomes and&nbsp;Moodle [...]'
-      date: '2010-03-10 10:21:40'
-      date_gmt: '2010-03-10 00:21:40'
-      id: '2956'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 It's time to think about the reality of the [curriculum mapping idea](/blog/research/curriculum-mapping/) that's been kicking around. i.e. how hard/impossible would it be to implement this idea in Moodle.
 
@@ -49,7 +46,7 @@ While there may be some room for improvement for the specifics of curriculum map
 
 ### How to use Moodle outcomes
 
-\[youtube=http://www.youtube.com/watch?v=PmkEGfvjj9U\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PmkEGfvjj9U?si=sCK-B3WOqcaTyR6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Outcomes are in the Grades part of the site admin menu. And need to be enabled there. The outcomes themselves are also set at the site level - not course!!!???
 
@@ -67,7 +64,7 @@ Outcomes do appear in the gradebook.
 
 ### Introduction to Scales and outcomes
 
-\[youtube=http://www.youtube.com/watch?v=8XrCjyqME2A\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8XrCjyqME2A?si=DGIcJ_hUmL2BSJiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Adds a scale, within a test course.
 

@@ -1,53 +1,50 @@
----
-date: 2008-10-23 08:27:46+10:00
+﻿---
+comments: []
+date: 2008-10-22 22:27:46
+pingbacks:
+- approved: '1'
+  author: Reducing meaningless freedom and a Mahara feature request &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.175
+  author_url: https://djon.es/blog/2012/06/30/reducing-meaningless-freedom-and-a-mahara-feature-request/
+  content: '[...] Solving some problems with University Education: Part&nbsp;II [...]'
+  date: '2012-06-30 11:11:15'
+  date_gmt: '2012-06-30 01:11:15'
+  id: '1848'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Meaningless freedom and auto-marking the learning journals | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 66.155.9.108
+  author_url: https://djon.es/blog/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/
+  content: '[...] Solving some problems with University Education: Part&nbsp;II [...]'
+  date: '2013-04-01 10:57:08'
+  date_gmt: '2013-04-01 00:57:08'
+  id: '1849'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: All models are wrong, but some are useful and its application to e-learning
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.57
+  author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+  content: '[&#8230;] Solving some problems with University Education: Part&nbsp;II
+    [&#8230;]'
+  date: '2015-08-28 09:04:38'
+  date_gmt: '2015-08-27 23:04:38'
+  id: '1850'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Solving some problems with University Education: Part II"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Reducing meaningless freedom and a Mahara feature request &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.175
-      author_url: https://djon.es/blog/2012/06/30/reducing-meaningless-freedom-and-a-mahara-feature-request/
-      content: '[...] Solving some problems with University Education: Part&nbsp;II [...]'
-      date: '2012-06-30 11:11:15'
-      date_gmt: '2012-06-30 01:11:15'
-      id: '1848'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Meaningless freedom and auto-marking the learning journals | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 66.155.9.108
-      author_url: https://djon.es/blog/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/
-      content: '[...] Solving some problems with University Education: Part&nbsp;II [...]'
-      date: '2013-04-01 10:57:08'
-      date_gmt: '2013-04-01 00:57:08'
-      id: '1849'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: All models are wrong, but some are useful and its application to e-learning
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.57
-      author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
-      content: '[&#8230;] Solving some problems with University Education: Part&nbsp;II
-        [&#8230;]'
-      date: '2015-08-28 09:04:38'
-      date_gmt: '2015-08-27 23:04:38'
-      id: '1850'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Solving some problems with University Education: Part II, Proceedings of Ausweb'99, Balina, Australia
 

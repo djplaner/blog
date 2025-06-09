@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-03-15 17:24:11+10:00
+comments: []
+date: 2011-03-15 07:24:11
 next:
   text: Learning brief - Reflections and conclusions - version 2.0
   url: /blog/2011/03/18/learning-brief-reflections-and-conclusions-version-2-0/
+pingbacks:
+- approved: '1'
+  author: A profile of learners in an IPT class &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.248.194
+  author_url: https://djon.es/blog/2011/06/02/a-profile-of-learners-in-an-ipt-class/
+  content: '[...] mentioned in previous work for this course Too many IT courses rely
+    on simple and narrow problems in order to focus on the principles. The [...]'
+  date: '2011-06-02 10:02:26'
+  date_gmt: '2011-06-02 00:02:26'
+  id: '37'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Week 3: ICTs for Learning Design'
   url: /blog/2011/03/13/week-3-icts-for-learning-design/
+template: blog-post.html
 title: '"Reflection and conclusions: Learning brief"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: A profile of learners in an IPT class &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.248.194
-      author_url: https://djon.es/blog/2011/06/02/a-profile-of-learners-in-an-ipt-class/
-      content: '[...] mentioned in previous work for this course Too many IT courses rely
-        on simple and narrow problems in order to focus on the principles. The [...]'
-      date: '2011-06-02 10:02:26'
-      date_gmt: '2011-06-02 00:02:26'
-      id: '37'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a first draft of Assignment 1 for the ICTs for Learning Design course I'm taking. Am wondering how much it will change by Friday (submission date). If only to reduce it by about 1500 words to meet the maximum word count.
 

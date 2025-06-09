@@ -1,46 +1,44 @@
----
+﻿---
 categories:
 - learninganalytics-elearning
-date: 2013-11-03 23:18:51+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 124.189.216.206
+  author_url: http://elketeaches.wordpress.com
+  content: you lost me at "data insult", lol
+  date: '2013-11-05 07:46:33'
+  date_gmt: '2013-11-04 21:46:33'
+  id: '900'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2013-11-03 13:18:51
 next:
   text: BIM for Moodle 2.5
   url: /blog/2013/11/06/bim-for-moodle-2-5/
+pingbacks:
+- approved: '1'
+  author: Big data in education - part 1 | E-Learning-Inc...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-inclusivo/p/4010361457/big-data-in-education-part-1
+  content: '[&#8230;] And now onto Week 2 of the Coursera MOOC &quot;Big Data in Education&quot;.
+    Focusing on the evaluation of models - is it any good? Detector confidence Sadly,
+    the audio for the first week&#039;s problem with buzzi...&nbsp; [&#8230;]'
+  date: '2013-11-04 01:05:55'
+  date_gmt: '2013-11-03 15:05:55'
+  id: '899'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Big data in education - part 1
   url: /blog/2013/11/03/big-data-in-education-part-1/
+template: blog-post.html
 title: Big data in education - part 2
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 124.189.216.206
-      author_url: http://elketeaches.wordpress.com
-      content: you lost me at "data insult", lol
-      date: '2013-11-05 07:46:33'
-      date_gmt: '2013-11-04 21:46:33'
-      id: '900'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Big data in education - part 1 | E-Learning-Inc...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-inclusivo/p/4010361457/big-data-in-education-part-1
-      content: '[&#8230;] And now onto Week 2 of the Coursera MOOC &quot;Big Data in Education&quot;.
-        Focusing on the evaluation of models - is it any good? Detector confidence Sadly,
-        the audio for the first week&#039;s problem with buzzi...&nbsp; [&#8230;]'
-      date: '2013-11-04 01:05:55'
-      date_gmt: '2013-11-03 15:05:55'
-      id: '899'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 And now onto Week 2 of the Coursera MOOC ["Big Data in Education"](https://class.coursera.org/bigdata-edu-001/). Focusing on the evaluation of models - is it any good?
 

@@ -1,116 +1,114 @@
----
+﻿---
 categories:
 - ascilitementor
 - elearning
-date: 2007-06-08 16:07:14+10:00
+comments:
+- approved: '1'
+  author: Kathleen Gray
+  author_email: kgray@unimelb.edu.au
+  author_ip: 24.83.192.152
+  author_url: null
+  content: "Hi David - I've been travelling, en route to EDMEDIA in Vancouver, but\
+    \ have had a chance to reflect on one of your posts so far.  Here are some thoughts\
+    \ that your essay on governance has raised for me...\n\nI would say that governance\
+    \ needs to be as focussed as possible on the high -level work of keeping the organisation\
+    \ operating within legal and ethical bounds \u2013 the relevant acts and regulations\
+    \ governing HE specifically and governing organisations generally (OHS, privacy,\
+    \ HREO, etc.), partnership and multilateral agreements to which universities may\
+    \ be signatory, triple bottom line reporting, and so on. Governance includes showing\
+    \ organisational leadership in operating thus (e.g. if the law needs reform, or\
+    \ the system is morally reprehensible), and it includes monitoring and reporting\
+    \ internally and externally on these aspects of operations.\n\nI agree with the\
+    \ points you make about university governance tending to overreach itself and\
+    \ to confuse governance with management.  Realistically, many university staff\
+    \ who find themselves with governance responsibilities (many staff in all sorts\
+    \ of organisations, in fact) have not had prior experience or induction to equip\
+    \ them well to make this distinction. I think the third element of the Wikipedia\
+    \ definition you quote gets it wrong, too: effectiveness is a managerial, or in\
+    \ your preferred term, teleological aim, but it is not the purpose of governance.\
+    \  Strategy, or scenario-building and planning for change given the uncertainties\
+    \ of future operating contexts, is also not governance.\n\nIt follows for me that\
+    \ much of what passes for IT governance work is actually IT planning and management,\
+    \ sometimes inappropriately top-down or outside-in or just plain disconnected\
+    \ from the core activities of the university.  Yes, there are large sums of money\
+    \ involved, and thus a lot of internal and external scrutiny of governance, but\
+    \ the management model more often is the key to things going well or going awry.\n\
+    \nIf we scrutinised the more taken-for-granted aspects of university operations\
+    \ as rigorously, i.e. staff time and physical facilities, the spotlight might\
+    \ not glare so much on IT. But these aspects are older and more iconic (think\
+    \ about university library operations) than IT services / systems, so the culture\
+    \ of universities has not changed (not so much yet anyway) towards regarding them\
+    \ as it regards IT; many IT management staff on the other hand, coming out of\
+    \ industry, do not have the background to understand the work of teaching and\
+    \ research as insightfully as would be desirable.\n\nBut the issue of teleology\
+    \ limiting innovation is a little different again. For me, innovation carries\
+    \ with it a nuance of \u2018it\u2019s new, so let\u2019s do it / have it\u2019\
+    \ \u2013 and there is a bit of this in e-learning, let's agree  \u2013 whereas\
+    \ the change management principles of Kezar, say, would suggest that what we are\
+    \ after is more strategically selective adaptations to the *external* environment\
+    \ (in choices of technology implementations, e.g.) to keep us evolving as socially\
+    \ relevant organisations, and off the road to extinction.\n\nLots of scope for\
+    \ non-traditional and 360-degree academic development here \u2026  Cheers!"
+  date: '2007-06-20 09:44:09'
+  date_gmt: '2007-06-19 23:44:09'
+  id: '1544'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: d.jones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.20.89
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'G''day Kathleen,
+
+
+    EdMedia in Vancouver would be an interesting experience.  Vancouver is on my list
+    of places to visit.
+
+
+    Thanks for the detailed response, I haven''t had time to process it yet and it
+    is liable to be a couple of weeks before I can.
+
+
+    Start of term is coming fast and our group has a lot of activities and work to
+    complete in the lead up to our launch.   So no comments this week, maybe next
+    week.  Should be fine after that.
+
+
+    David.'
+  date: '2007-06-21 09:23:35'
+  date_gmt: '2007-06-20 23:23:35'
+  id: '1545'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2007-06-08 06:07:14
 next:
   text: Helping create innovative, good quality learning and teaching
   url: /blog/2007/06/10/helping-create-innovative-good-quality-learning-and-teaching/
+pingbacks:
+- approved: '1'
+  author: The dissonance between the constructivist paradigm and institutional e-learning
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.144
+  author_url: https://djon.es/blog/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
+  content: '[...] not on negotiating about how the LMS works or the services it provides.
+    That&#8217;s a completely different set of processes that is overly teleological
+    and can really only ever engage in interaction and negotiations at the [...]'
+  date: '2011-03-02 21:57:45'
+  date_gmt: '2011-03-02 11:57:45'
+  id: '1546'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Carrick success - a pleasant surprise and now the fun begins
   url: /blog/2007/05/23/carrick-success-a-pleasant-surprise-and-now-the-fun-begins/
+template: blog-post.html
 title: Governance, e-learning and learning design
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Kathleen Gray
-      author_email: kgray@unimelb.edu.au
-      author_ip: 24.83.192.152
-      author_url: null
-      content: "Hi David - I've been travelling, en route to EDMEDIA in Vancouver, but\
-        \ have had a chance to reflect on one of your posts so far.  Here are some thoughts\
-        \ that your essay on governance has raised for me...\n\nI would say that governance\
-        \ needs to be as focussed as possible on the high -level work of keeping the organisation\
-        \ operating within legal and ethical bounds \u2013 the relevant acts and regulations\
-        \ governing HE specifically and governing organisations generally (OHS, privacy,\
-        \ HREO, etc.), partnership and multilateral agreements to which universities may\
-        \ be signatory, triple bottom line reporting, and so on. Governance includes showing\
-        \ organisational leadership in operating thus (e.g. if the law needs reform, or\
-        \ the system is morally reprehensible), and it includes monitoring and reporting\
-        \ internally and externally on these aspects of operations.\n\nI agree with the\
-        \ points you make about university governance tending to overreach itself and\
-        \ to confuse governance with management.  Realistically, many university staff\
-        \ who find themselves with governance responsibilities (many staff in all sorts\
-        \ of organisations, in fact) have not had prior experience or induction to equip\
-        \ them well to make this distinction. I think the third element of the Wikipedia\
-        \ definition you quote gets it wrong, too: effectiveness is a managerial, or in\
-        \ your preferred term, teleological aim, but it is not the purpose of governance.\
-        \  Strategy, or scenario-building and planning for change given the uncertainties\
-        \ of future operating contexts, is also not governance.\n\nIt follows for me that\
-        \ much of what passes for IT governance work is actually IT planning and management,\
-        \ sometimes inappropriately top-down or outside-in or just plain disconnected\
-        \ from the core activities of the university.  Yes, there are large sums of money\
-        \ involved, and thus a lot of internal and external scrutiny of governance, but\
-        \ the management model more often is the key to things going well or going awry.\n\
-        \nIf we scrutinised the more taken-for-granted aspects of university operations\
-        \ as rigorously, i.e. staff time and physical facilities, the spotlight might\
-        \ not glare so much on IT. But these aspects are older and more iconic (think\
-        \ about university library operations) than IT services / systems, so the culture\
-        \ of universities has not changed (not so much yet anyway) towards regarding them\
-        \ as it regards IT; many IT management staff on the other hand, coming out of\
-        \ industry, do not have the background to understand the work of teaching and\
-        \ research as insightfully as would be desirable.\n\nBut the issue of teleology\
-        \ limiting innovation is a little different again. For me, innovation carries\
-        \ with it a nuance of \u2018it\u2019s new, so let\u2019s do it / have it\u2019\
-        \ \u2013 and there is a bit of this in e-learning, let's agree  \u2013 whereas\
-        \ the change management principles of Kezar, say, would suggest that what we are\
-        \ after is more strategically selective adaptations to the *external* environment\
-        \ (in choices of technology implementations, e.g.) to keep us evolving as socially\
-        \ relevant organisations, and off the road to extinction.\n\nLots of scope for\
-        \ non-traditional and 360-degree academic development here \u2026  Cheers!"
-      date: '2007-06-20 09:44:09'
-      date_gmt: '2007-06-19 23:44:09'
-      id: '1544'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: d.jones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.20.89
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'G''day Kathleen,
-    
-    
-        EdMedia in Vancouver would be an interesting experience.  Vancouver is on my list
-        of places to visit.
-    
-    
-        Thanks for the detailed response, I haven''t had time to process it yet and it
-        is liable to be a couple of weeks before I can.
-    
-    
-        Start of term is coming fast and our group has a lot of activities and work to
-        complete in the lead up to our launch.   So no comments this week, maybe next
-        week.  Should be fine after that.
-    
-    
-        David.'
-      date: '2007-06-21 09:23:35'
-      date_gmt: '2007-06-20 23:23:35'
-      id: '1545'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: The dissonance between the constructivist paradigm and institutional e-learning
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.144
-      author_url: https://djon.es/blog/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
-      content: '[...] not on negotiating about how the LMS works or the services it provides.
-        That&#8217;s a completely different set of processes that is overly teleological
-        and can really only ever engage in interaction and negotiations at the [...]'
-      date: '2011-03-02 21:57:45'
-      date_gmt: '2011-03-02 11:57:45'
-      id: '1546'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 One of the challenges facing CQU and in particular ["my group"](http://cq-pan.cqu.edu.au/david-jones/blog/?p=102) is the question of governance around e-learning (the use of ICTs to support/enhance learning and teaching) and learning design. The essential problem, from my perspective, is that there are limited resources how and who makes the decisions about how those resources are used.
 

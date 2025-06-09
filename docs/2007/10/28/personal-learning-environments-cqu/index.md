@@ -1,24 +1,20 @@
----
+﻿---
 categories:
 - ple
 - web-20-course-sites
-date: 2007-10-28 21:37:59+10:00
+comments: []
+date: 2007-10-28 11:37:59
 next:
   text: PLEs ("social media") and measuring/ensuring success
   url: /blog/2007/11/05/ples-social-media-and-measuringensuring-success/
+pingbacks: []
 previous:
   text: 'Call for papers -- Personal Learning Environments: How can we harness ICTs
     to effectively support lifelong learning?'
   url: /blog/2007/10/06/call-for-papers-personal-learning-environments-how-can-we-harness-icts-to-effectively-support-lifelong-learning/
+template: blog-post.html
 title: Personal learning environments @ CQU
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 [The unit](http://cddu.cqu.edu.au/) I work with received some good news on Friday. We were told that the proposal for looking at how CQU could adopt and adapt Personal Learning Environments had been successful. We'll be receiving a significant influx of funds so that over the next two years we can take some significant steps to making the use of PLEs an almost regular experience for CQU staff and students.
 

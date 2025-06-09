@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-08-21 15:02:05+10:00
+comments: []
+date: 2009-08-21 05:02:05
 next:
   text: LMS characteristics and limitations
   url: /blog/2009/08/23/lms-characteristics-and-limitations/
+pingbacks:
+- approved: '1'
+  author: LMS characteristics and limitations &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/08/23/lms-characteristics-and-limitations/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    What is an&nbsp;LMS? [...]'
+  date: '2009-08-23 10:28:56'
+  date_gmt: '2009-08-23 00:28:56'
+  id: '2726'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #21 - End in sight for chapter 2'
   url: /blog/2009/08/21/phd-update-21-end-in-sight-for-chapter-2/
 tags:
 - lms-vle-cms
+template: blog-post.html
 title: What is an LMS?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: LMS characteristics and limitations &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/08/23/lms-characteristics-and-limitations/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        What is an&nbsp;LMS? [...]'
-      date: '2009-08-23 10:28:56'
-      date_gmt: '2009-08-23 00:28:56'
-      id: '2726'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following post is the next step in completing the Product component of chapter 2 of [my thesis](/blog/research/phd-thesis/). [An earlier post](/blog/2009/08/19/the-product-component-of-the-ps-framework/) started off the Product component. This post is the first section in a broader section titled "University e-learning technology". This post focuses on the learning management system (LMS).
 

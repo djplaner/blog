@@ -1,122 +1,120 @@
----
+﻿---
 categories:
 - edc3100
 - ict
 - teaching
-date: 2012-02-07 16:55:37+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 122.111.176.123
+  author_url: http://cj13.wordpress.com/
+  content: 'Bad form to quote yourself but... saves typing: This was recently illustrated
+    by an audit of computing and related technology in a Primary classroom in NSW
+    (Finger &amp; Lee, 2010). The study also surveyed the homes of the children in
+    the class. For the class of thirty children the total home expenditure for computing
+    and related technologies was $438,200. The expenditure for the classroom was $24,680.
+    Even allowing for the sharing in families, the difference between the two locations
+    is clearly significant. Further, the often limited access students have to web
+    sites in the classroom due to access limitations, costs and/or risks of accessing
+    undesirable material contrasts with internet access in the home (Australian Communications
+    and Media Authority, 2008). Moving from home to school, must for many students
+    be like stepping back in time. It is difficult to see this thirty year trend reversing.   Bigum,
+    C. (2012). Schools and computers:  <a href="http://www.chrisbigum.com/cj/FinishedWriting"
+    rel="nofollow"> Tales of a digital romance</a>. In L. Rowan &amp; C. Bigum (Eds.),
+    Transformative approaches to new technologies and student diversity in futures
+    oriented classrooms: Future Proofing Education. Dordrecht, The Netherlands: Springer.'
+  date: '2012-02-07 20:16:12'
+  date_gmt: '2012-02-07 10:16:12'
+  id: '194'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 122.111.176.123
+  author_url: http://cj13.wordpress.com/
+  content: I think the trick is to step above all of this and take a much longer view
+    taking into account what looks to be the trends around things like smart phones,
+    tablets etc. Given all of that, what might schools do to <i>complement</i> what
+    is "out there"? Not a simple question. Years ago a very smart Principal argued
+    that while homes had a good supply of "vanilla" computing it made sense to offer
+    specialist stuff at school, i.e. stuff you would not normally find in the home.
+    Just one simple example of what I mean by complement.
+  date: '2012-02-07 20:21:15'
+  date_gmt: '2012-02-07 10:21:15'
+  id: '195'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Jr James
+  author_email: jjames@oakhill.nsw.edu.au
+  author_ip: 58.168.67.36
+  author_url: http://www.facebook.com/profile.php?id=100001868535764
+  content: 'Interesting post. If we are frustrating at limited technology at school-
+    imagine how the kids feel! :) You may enjoy this presentation I came across today
+    on twitter: remixing high school education watch til end
+
+
+    http://edudemic.com/2012/02/remixing-high-school-education/
+
+
+    Let''s stay fresh and resourceful
+
+
+    Cheers
+
+    @7mrsjames'
+  date: '2012-02-07 21:33:03'
+  date_gmt: '2012-02-07 11:33:03'
+  id: '196'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.168.177.155
+  author_url: https://djon.es/blog/
+  content: 'Absolutely. I''m lucky to be a university academic. There are lots of
+    positives about my situation.  If I am frustrated, the frustration level for kids
+    at schools must be unbearable at times.
+
+
+    The hip-hop metaphor from the video seems to resonate a bit with the Edupunk movement.
+    Like it.'
+  date: '2012-02-07 21:53:28'
+  date_gmt: '2012-02-07 11:53:28'
+  id: '197'
+  parent: '196'
+  type: comment
+  user_id: '1'
+date: 2012-02-07 06:55:37
 next:
   text: How to replace the lecture?
   url: /blog/2012/02/10/how-to-replace-the-lecture/
+pingbacks:
+- approved: '1'
+  author: OTR Links 02/08/2012 | doug &#8211; off the record
+  author_email: null
+  author_ip: 69.170.134.216
+  author_url: http://dougpete.wordpress.com/2012/02/08/otr-links-02082012/
+  content: "[...] It\u2019s better at home: One contributor to why ICT integration\
+    \ in schools sucks \xAB The Weblog of (a) ... [...]"
+  date: '2012-02-08 15:31:57'
+  date_gmt: '2012-02-08 05:31:57'
+  id: '198'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM to Moodle 2.x - Step 2
   url: /blog/2012/02/04/bim-to-moodle-2-x-step-2/
+template: blog-post.html
 title: '"It''s better at home: One contributor to why ICT integration in schools sucks"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 122.111.176.123
-      author_url: http://cj13.wordpress.com/
-      content: 'Bad form to quote yourself but... saves typing: This was recently illustrated
-        by an audit of computing and related technology in a Primary classroom in NSW
-        (Finger &amp; Lee, 2010). The study also surveyed the homes of the children in
-        the class. For the class of thirty children the total home expenditure for computing
-        and related technologies was $438,200. The expenditure for the classroom was $24,680.
-        Even allowing for the sharing in families, the difference between the two locations
-        is clearly significant. Further, the often limited access students have to web
-        sites in the classroom due to access limitations, costs and/or risks of accessing
-        undesirable material contrasts with internet access in the home (Australian Communications
-        and Media Authority, 2008). Moving from home to school, must for many students
-        be like stepping back in time. It is difficult to see this thirty year trend reversing.   Bigum,
-        C. (2012). Schools and computers:  <a href="http://www.chrisbigum.com/cj/FinishedWriting"
-        rel="nofollow"> Tales of a digital romance</a>. In L. Rowan &amp; C. Bigum (Eds.),
-        Transformative approaches to new technologies and student diversity in futures
-        oriented classrooms: Future Proofing Education. Dordrecht, The Netherlands: Springer.'
-      date: '2012-02-07 20:16:12'
-      date_gmt: '2012-02-07 10:16:12'
-      id: '194'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 122.111.176.123
-      author_url: http://cj13.wordpress.com/
-      content: I think the trick is to step above all of this and take a much longer view
-        taking into account what looks to be the trends around things like smart phones,
-        tablets etc. Given all of that, what might schools do to <i>complement</i> what
-        is "out there"? Not a simple question. Years ago a very smart Principal argued
-        that while homes had a good supply of "vanilla" computing it made sense to offer
-        specialist stuff at school, i.e. stuff you would not normally find in the home.
-        Just one simple example of what I mean by complement.
-      date: '2012-02-07 20:21:15'
-      date_gmt: '2012-02-07 10:21:15'
-      id: '195'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Jr James
-      author_email: jjames@oakhill.nsw.edu.au
-      author_ip: 58.168.67.36
-      author_url: http://www.facebook.com/profile.php?id=100001868535764
-      content: 'Interesting post. If we are frustrating at limited technology at school-
-        imagine how the kids feel! :) You may enjoy this presentation I came across today
-        on twitter: remixing high school education watch til end
-    
-    
-        http://edudemic.com/2012/02/remixing-high-school-education/
-    
-    
-        Let''s stay fresh and resourceful
-    
-    
-        Cheers
-    
-        @7mrsjames'
-      date: '2012-02-07 21:33:03'
-      date_gmt: '2012-02-07 11:33:03'
-      id: '196'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.168.177.155
-      author_url: https://djon.es/blog/
-      content: 'Absolutely. I''m lucky to be a university academic. There are lots of
-        positives about my situation.  If I am frustrated, the frustration level for kids
-        at schools must be unbearable at times.
-    
-    
-        The hip-hop metaphor from the video seems to resonate a bit with the Edupunk movement.
-        Like it.'
-      date: '2012-02-07 21:53:28'
-      date_gmt: '2012-02-07 11:53:28'
-      id: '197'
-      parent: '196'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: OTR Links 02/08/2012 | doug &#8211; off the record
-      author_email: null
-      author_ip: 69.170.134.216
-      author_url: http://dougpete.wordpress.com/2012/02/08/otr-links-02082012/
-      content: "[...] It\u2019s better at home: One contributor to why ICT integration\
-        \ in schools sucks \xAB The Weblog of (a) ... [...]"
-      date: '2012-02-08 15:31:57'
-      date_gmt: '2012-02-08 05:31:57'
-      id: '198'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I've come home early today from my new job within a Faculty of Education at a University. Entirely because the quality of the technology I have at home far exceeds the quality of the technology I have at work. The following suggests that this little anecdote highlights one of the contributing factors as to why the quantity and quality of ICT integration in schools is less than good.
 

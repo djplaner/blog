@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20458
 - teaching
-date: 2011-04-26 15:19:10+10:00
+date: 2011-04-26 05:19:10
 next:
   text: Supportive Learning Environments - Week 7
   url: /blog/2011/05/02/supportive-learning-environments-week-7/
 previous:
   text: 'ICTs for Learning Design: Week 7'
   url: /blog/2011/04/21/icts-for-learning-design-week-7/
+template: blog-post.html
 title: Literacy and Numeracy - Week 6
 type: post
-template: blog-post.html
 ---
 Way past time to catch up on this work. So week 6 is looking at "Models for Teaching and Learning Multiliteracies".
 

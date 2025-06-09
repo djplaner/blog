@@ -1,65 +1,62 @@
----
+﻿---
 categories:
 - bad
 - concretelounge
 - edc3100
 - moodle
-date: 2015-02-10 19:55:30+10:00
+comments: []
+date: 2015-02-10 09:55:30
 next:
   text: Initial rationale and ideas for "continuous improvement" of learning and teaching
   url: /blog/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/
+pingbacks:
+- approved: '1'
+  author: Initial rationale and ideas for &#8220;continuous improvement&#8221; of
+    learning and teaching | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.34
+  author_url: https://davidtjones.wordpress.com/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/
+  content: '[&#8230;] &larr; How to help improve the Moodle book&nbsp;module [&#8230;]'
+  date: '2015-02-18 12:57:43'
+  date_gmt: '2015-02-18 02:57:43'
+  id: '1223'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Starting the &#8220;Moodle open book&#8221; project | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.82.20
+  author_url: https://davidtjones.wordpress.com/2015/04/13/starting-the-moodle-open-book-project/
+  content: '[&#8230;] trip authoring with the Moodle book module has some space for
+    improvement. These simple steps have helped, but more could be [&#8230;]'
+  date: '2015-04-13 22:10:12'
+  date_gmt: '2015-04-13 12:10:12'
+  id: '1224'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Import and the Book module: a case of knowledge loss? | The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 192.0.86.68
+  author_url: https://davidtjones.wordpress.com/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/
+  content: '[&#8230;] outlined in this post I had a problem with the Moodle Book module
+    and its import functionality. A problem illustrated by [&#8230;]'
+  date: '2015-07-18 15:53:50'
+  date_gmt: '2015-07-18 05:53:50'
+  id: '1225'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Framing an open book as situated, social, distributed and protean
   url: /blog/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/
+template: blog-post.html
 title: How to help improve the Moodle book module
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Initial rationale and ideas for &#8220;continuous improvement&#8221; of
-        learning and teaching | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.34
-      author_url: https://davidtjones.wordpress.com/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/
-      content: '[&#8230;] &larr; How to help improve the Moodle book&nbsp;module [&#8230;]'
-      date: '2015-02-18 12:57:43'
-      date_gmt: '2015-02-18 02:57:43'
-      id: '1223'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Starting the &#8220;Moodle open book&#8221; project | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.82.20
-      author_url: https://davidtjones.wordpress.com/2015/04/13/starting-the-moodle-open-book-project/
-      content: '[&#8230;] trip authoring with the Moodle book module has some space for
-        improvement. These simple steps have helped, but more could be [&#8230;]'
-      date: '2015-04-13 22:10:12'
-      date_gmt: '2015-04-13 12:10:12'
-      id: '1224'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Import and the Book module: a case of knowledge loss? | The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 192.0.86.68
-      author_url: https://davidtjones.wordpress.com/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/
-      content: '[&#8230;] outlined in this post I had a problem with the Moodle Book module
-        and its import functionality. A problem illustrated by [&#8230;]'
-      date: '2015-07-18 15:53:50'
-      date_gmt: '2015-07-18 05:53:50'
-      id: '1225'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As mentioned [in the last post](/blog/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/) there are limitations in the Moodle book module that are acting as [a concrete lounge](http://fedwiki.djon.es/view/welcome-visitors/view/concrete-lounge). The following documents an attempt to help improve the module.
 

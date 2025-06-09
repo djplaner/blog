@@ -1,69 +1,66 @@
----
-date: 2010-02-15 11:37:25+10:00
+﻿---
+comments: []
+date: 2010-02-15 01:37:25
+pingbacks:
+- approved: '1'
+  author: BIM 1.0alpha is released &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.69.92
+  author_url: https://djon.es/blog/2010/02/15/bim-1-0alpha-is-released/
+  content: '[...] the release of version 1.0 alpha of BIM. You can see the code and
+    what passes for documentation on this page. The main BIM page gives more background
+    on the rationale and design of [...]'
+  date: '2010-02-15 15:13:31'
+  date_gmt: '2010-02-15 05:13:31'
+  id: '2934'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: En analys av IKT i undervisningen &laquo; Fredriks blogg
+  author_email: null
+  author_ip: 72.232.7.94
+  author_url: http://frekar12.wordpress.com/2012/10/13/en-analys-av-ikt-i-undervisningen/
+  content: "[...] bloggar kan g\xF6ra detta utan att l\xE4raren f\xE5r ett alltf\xF6\
+    r stort arbete via en modul som heter Bim. Bim inneb\xE4r att eleverna kan registrera\
+    \ sina externa bloggar i Moodle och sedan ser Moodle till [...]"
+  date: '2012-10-14 04:46:01'
+  date_gmt: '2012-10-13 18:46:01'
+  id: '2935'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '#Moodlepedagogik i #skolan | Fredriks blogg'
+  author_email: null
+  author_ip: 72.232.7.105
+  author_url: http://frekar12.wordpress.com/2013/01/02/moodlepedagogik-i-skolan/
+  content: "[...] f\xF6r de som finns internt i Moodle s\xE5 funkar detta bra. L\xE4\
+    raren s\xE4tter upp en modul som heter Bim. Bim inneb\xE4r att eleven kan registrera\
+    \ sin externa blogg i Moodle och d\xE4refter speglas elevens [...]"
+  date: '2013-01-03 01:29:00'
+  date_gmt: '2013-01-02 15:29:00'
+  id: '2936'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: moodlepedagogik
+  author_email: null
+  author_ip: 66.155.9.55
+  author_url: http://moodlepedagogik.wordpress.com/2013/01/02/39/
+  content: "[...] f\xF6r de som finns internt i Moodle s\xE5 funkar detta bra. L\xE4\
+    raren s\xE4tter upp en modul som\_heter Bim. Bim inneb\xE4r att eleven kan registrera\
+    \ sin externa blogg i Moodle och d\xE4refter speglas elevens [...]"
+  date: '2013-01-03 01:32:16'
+  date_gmt: '2013-01-02 15:32:16'
+  id: '2937'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: Current version of BIM
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM 1.0alpha is released &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.69.92
-      author_url: https://djon.es/blog/2010/02/15/bim-1-0alpha-is-released/
-      content: '[...] the release of version 1.0 alpha of BIM. You can see the code and
-        what passes for documentation on this page. The main BIM page gives more background
-        on the rationale and design of [...]'
-      date: '2010-02-15 15:13:31'
-      date_gmt: '2010-02-15 05:13:31'
-      id: '2934'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: En analys av IKT i undervisningen &laquo; Fredriks blogg
-      author_email: null
-      author_ip: 72.232.7.94
-      author_url: http://frekar12.wordpress.com/2012/10/13/en-analys-av-ikt-i-undervisningen/
-      content: "[...] bloggar kan g\xF6ra detta utan att l\xE4raren f\xE5r ett alltf\xF6\
-        r stort arbete via en modul som heter Bim. Bim inneb\xE4r att eleverna kan registrera\
-        \ sina externa bloggar i Moodle och sedan ser Moodle till [...]"
-      date: '2012-10-14 04:46:01'
-      date_gmt: '2012-10-13 18:46:01'
-      id: '2935'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '#Moodlepedagogik i #skolan | Fredriks blogg'
-      author_email: null
-      author_ip: 72.232.7.105
-      author_url: http://frekar12.wordpress.com/2013/01/02/moodlepedagogik-i-skolan/
-      content: "[...] f\xF6r de som finns internt i Moodle s\xE5 funkar detta bra. L\xE4\
-        raren s\xE4tter upp en modul som heter Bim. Bim inneb\xE4r att eleven kan registrera\
-        \ sin externa blogg i Moodle och d\xE4refter speglas elevens [...]"
-      date: '2013-01-03 01:29:00'
-      date_gmt: '2013-01-02 15:29:00'
-      id: '2936'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: moodlepedagogik
-      author_email: null
-      author_ip: 66.155.9.55
-      author_url: http://moodlepedagogik.wordpress.com/2013/01/02/39/
-      content: "[...] f\xF6r de som finns internt i Moodle s\xE5 funkar detta bra. L\xE4\
-        raren s\xE4tter upp en modul som\_heter Bim. Bim inneb\xE4r att eleven kan registrera\
-        \ sin externa blogg i Moodle och d\xE4refter speglas elevens [...]"
-      date: '2013-01-03 01:32:16'
-      date_gmt: '2013-01-02 15:32:16'
-      id: '2937'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 BIM is an activity module for [Moodle](http://moodle.org/) that helps teachers manage and mark student use of personal feeds (produced by blogs, twitter, whatever). See the [main BIM page](/blog/research/bam-blog-aggregation-management/) for more information.
 

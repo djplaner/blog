@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - bim2
-date: 2014-02-07 13:53:40+10:00
+comments: []
+date: 2014-02-07 03:53:40
 next:
   text: Needed updates to cc_attrib.pl
   url: /blog/2014/02/15/needed-updates-to-cc_attrib-pl/
+pingbacks:
+- approved: '1'
+  author: Making BIM ready for Moodle 2.6 | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.9.47
+  author_url: https://djon.es/blog/2014/05/19/making-bim-ready-for-moodle-2-6/
+  content: '[&#8230;] I&#8217;m doing this so irregularly now it&#8217;s good that
+    I actually documented this last time. [&#8230;]'
+  date: '2014-05-19 13:39:20'
+  date_gmt: '2014-05-19 03:39:20'
+  id: '949'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Identifying some immediate changes to BIM
   url: /blog/2014/02/05/identifying-some-immediate-changes-to-bim/
+template: blog-post.html
 title: BIM testing and fixes
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Making BIM ready for Moodle 2.6 | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.9.47
-      author_url: https://djon.es/blog/2014/05/19/making-bim-ready-for-moodle-2-6/
-      content: '[&#8230;] I&#8217;m doing this so irregularly now it&#8217;s good that
-        I actually documented this last time. [&#8230;]'
-      date: '2014-05-19 13:39:20'
-      date_gmt: '2014-05-19 03:39:20'
-      id: '949'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A journal of fixes and testing of BIM. Aim here is to address some minor issues with integration with my current institution's Moodle instance thereby providing a minimum working version for installation. As per [yesterday's planning](/blog/2014/02/05/identifying-some-immediate-changes-to-bim/) the hope is to make further changes based on this foundation.
 

@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - ple
 - plescquni
-date: 2008-11-26 09:27:49+10:00
+date: 2008-11-25 23:27:49
 next:
   text: More on blogs and discussion
   url: /blog/2008/11/26/more-on-blogs-and-discussion/
 previous:
   text: An experiment in blog-based discussions
   url: /blog/2008/11/26/an-experiment-in-blog-based-discussions/
+template: blog-post.html
 title: Some resources for around blogs and discussion forums
 type: post
-template: blog-post.html
 ---
 !!! warning "Broken image link"
     

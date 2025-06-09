@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - exploring
 - moodleopenbook
-date: 2016-09-22 15:15:51+10:00
+date: 2016-09-22 05:15:51
 next:
   text: Exploring Moodle Book usage - part 9 - Strange courses
   url: /blog/2016/09/26/exploring-moodle-book-usage-part-9-strange-courses/
 previous:
   text: OEP, institutions and culture
   url: /blog/2016/09/21/oep-institutions-and-culture/
+template: blog-post.html
 title: Exploring Moodle Book usage - Part 8 - linking to and from
 type: post
-template: blog-post.html
 ---
 Natalie writes about how she's working a new practice into how she responds to student queries. It's a process in which she attempts to model an approach to answering the query and including links to relevant sites. This is a practice that I use a fair bit, especially with the Moodle Book resources in my undergraduate course. This post seeks to explore my own practice, but also how wide spread that practice is in others.
 
@@ -42,7 +42,7 @@ The book with the most LMS-based links is titled _Conclusions Week 1_. It provid
 
 The book with the second most number of links, also only has external links.  This book aims to show folk how to use resources out on the web and literature to learn how to use a new digital technology. Hence it has a large number of links out onto the broader web and that's even before Diigo widgets that contain the most recent collection of links shared to the course Diigo group are rendered.
 
-[![edc3100 2015 2 link by destination](images/29124862593_4e42dd71d0_z.jpg)](https://www.flickr.com/photos/david_jones/29124862593/in/dateposted-public/ "edc3100 2015 2 link by destination")
+[![edc3100 2015 2 link by destination](https://djon.es/assets/blog/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/images/29124862593_4e42dd71d0_z.jpg)](https://www.flickr.com/photos/david_jones/29124862593/in/dateposted-public/ "edc3100 2015 2 link by destination")
 
 ### Evolution over time - EDC3100
 
@@ -52,11 +52,11 @@ There is no graph for institutional links (NOT the LMS) because from 2013 S2 it 
 
 The first graph shows the evolution of LMS links. The median starts and remains at about 4 LMS links per book. With a slight growth at the top end in recent years.
 
-[![3100 LMS links from Books](images/29124135834_0ef5f9857b_z.jpg)](https://www.flickr.com/photos/david_jones/29124135834/in/dateposted-public/ "3100 LMS links from Books")
+[![3100 LMS links from Books](https://djon.es/assets/blog/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/images/29124135834_0ef5f9857b_z.jpg)](https://www.flickr.com/photos/david_jones/29124135834/in/dateposted-public/ "3100 LMS links from Books")
 
 The next graph is for links outside the institution. The growth in these links is a bit more evident. The median growing from around 9 to around 13 and the upper from 40 to 50
 
-[![3100 Other links from Books](images/29459421620_cf19deee3d_z.jpg)](https://www.flickr.com/photos/david_jones/29459421620/in/dateposted-public/ "3100 Other links from Books")
+[![3100 Other links from Books](https://djon.es/assets/blog/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/images/29459421620_cf19deee3d_z.jpg)](https://www.flickr.com/photos/david_jones/29459421620/in/dateposted-public/ "3100 Other links from Books")
 
 ### Evolution over time - All courses
 
@@ -64,15 +64,15 @@ The following graphs show how many links of each type (LMS, USQ and other) found
 
 There is a broad common trend in all three.  The number of books with large number of links increases over the years. However, that number is largely insignificant as the vast number of books contain much fewer links.
 
-The first graph shows the number of LMS related links in each book. It shows that in 2012 almost all of the books had no such links. 75% of books in 2012 has less than 5. 50% had 0. As the years progress there are a growing number of books with quite large numbers of links, with the maximum reaching 400. This corresponds to the appearance of some books that are very large. By 2015, 75% of books has less than 7. 50% less than 2. [![LMS links not 3100](images/29460417730_0ee2d92839_z.jpg)](https://www.flickr.com/photos/david_jones/29460417730/in/dateposted-public/ "LMS links not 3100")
+The first graph shows the number of LMS related links in each book. It shows that in 2012 almost all of the books had no such links. 75% of books in 2012 has less than 5. 50% had 0. As the years progress there are a growing number of books with quite large numbers of links, with the maximum reaching 400. This corresponds to the appearance of some books that are very large. By 2015, 75% of books has less than 7. 50% less than 2. [![LMS links not 3100](https://djon.es/assets/blog/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/images/29460417730_0ee2d92839_z.jpg)](https://www.flickr.com/photos/david_jones/29460417730/in/dateposted-public/ "LMS links not 3100")
 
 The next graph focuses on number of links to institutional resources (not in the LMS) in each book. The basic shape is much the same. Starting quite low and then having a number of books added in 2014/2015 with quite large numbers. However, the numbers involved fewer numbers of links than the LMS graph (e.g. the maximum gets to just over 200, rather than 400). It also shows that the overall trend is a bit down.
 
 In 2012, 75% of books has less than 4 USQ links. By 2015, that had reduced to 3.
 
-[![USQ links not 3100](images/29716527506_ac10a95f03_z.jpg)](https://www.flickr.com/photos/david_jones/29716527506/in/dateposted-public/ "USQ links not 3100") The following graph focuses on links onto the broader web.  The numbers are higher.
+[![USQ links not 3100](https://djon.es/assets/blog/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/images/29716527506_ac10a95f03_z.jpg)](https://www.flickr.com/photos/david_jones/29716527506/in/dateposted-public/ "USQ links not 3100") The following graph focuses on links onto the broader web.  The numbers are higher.
 
-In 2012, 75% of books had less than 17 links, 50% had less than 7. 2015 was largely the same. [![Other links not 3100](images/29460417580_23f8a5cb74_z.jpg)](https://www.flickr.com/photos/david_jones/29460417580/in/dateposted-public/ "Other links not 3100")
+In 2012, 75% of books had less than 17 links, 50% had less than 7. 2015 was largely the same. [![Other links not 3100](https://djon.es/assets/blog/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/images/29460417580_23f8a5cb74_z.jpg)](https://www.flickr.com/photos/david_jones/29460417580/in/dateposted-public/ "Other links not 3100")
 
 ## What Moodle links exist?
 
@@ -90,7 +90,7 @@ Surprisingly, it also shows links to the discussion forums.  These are going to
 
 Would an analysis that divides links between activities and resources indicate anything interesting about learning design?
 
-[![3100 2015 2 - Moodle links](images/29746146526_675b688457_z.jpg)](https://www.flickr.com/photos/david_jones/29746146526/in/dateposted-public/ "3100 2015 2 - Moodle links")
+[![3100 2015 2 - Moodle links](https://djon.es/assets/blog/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/images/29746146526_675b688457_z.jpg)](https://www.flickr.com/photos/david_jones/29746146526/in/dateposted-public/ "3100 2015 2 - Moodle links")
 
 ### All 2015 S2 - but EDC3100
 
@@ -100,7 +100,7 @@ Lots of resource focus - book, pluginfile, printing the book, equella.  But als
 
 Interestingly for me it highlights 3 other courses using BIM. 2 of which I don't teach.
 
-[![All 2015 S2](images/29782175255_92e4976cf4_z.jpg)](https://www.flickr.com/photos/david_jones/29782175255/in/dateposted-public/ "All 2015 S2")
+[![All 2015 S2](https://djon.es/assets/blog/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/images/29782175255_92e4976cf4_z.jpg)](https://www.flickr.com/photos/david_jones/29782175255/in/dateposted-public/ "All 2015 S2")
 
 ## But how widespread is this?
 

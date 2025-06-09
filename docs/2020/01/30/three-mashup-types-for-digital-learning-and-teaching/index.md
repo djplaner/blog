@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eei
-coverImage: frogs.jpg
-date: 2020-01-30 16:06:34+10:00
+coverImage: https://djon.es/assets/blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/images/frogs.jpg
+date: 2020-01-30 06:06:34
 next:
   text: Early steps with Gephi
   url: /blog/2020/04/19/early-steps-with-gephi/
 previous:
   text: Office365, charismatic technologies, and the ecological perspective
   url: /blog/2020/01/13/office365-charismatic-technologies-and-the-ecological-perspective/
+template: blog-post.html
 title: Three mashup types for digital learning and teaching
 type: post
-template: blog-post.html
 ---
 ## Introduction
 
@@ -93,7 +93,7 @@ The embed tag enabled mashup is much more than a link. A link takes you outside 
 
 Another example is illustrated in the following image. It is from a Blackboard site for a program in the Creative Industries. Embedded within this LMS page is styled list of the latest articles from [a discipline specific journal](https://abj.artrepreneur.com/). Some site specific Javascript is used to retrieve and display the journal’s RSS feed within the LMS-hosted program site.
 
-![](images/library.png)
+![](https://djon.es/assets/blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/images/library.png)
 
 Another example is work by folk at QUT where they integrated the [disqus comment plug-in](https://disqus.com/) into the Blackboard 9.1 LMS to provide a discussion experience that improves upon that offered by Blackboard’s native discussion forum.
 
@@ -103,19 +103,19 @@ The previous mash-up examples took content/functionality from outside the LMS an
 
 For example, Blackboard 9.1 is known wide and far for ugly web pages (even [Stephen Downes](https://www.downes.ca/cgi-bin/page.cgi?post=69104) has experienced it). At almost it’s best, standard Blackboard 9.1 looks like the following.
 
-![](images/blackboard.png)
+![](https://djon.es/assets/blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/images/blackboard.png)
 
 Again, folk at QUT saw this as a problem and developed [a plugin](http://tweaks.github.io/Tweaks/) for the Blackboard LMS that could automatically transform the above to the something a bit better, like the following.
 
-![](images/qut.png)
+![](https://djon.es/assets/blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/images/qut.png)
 
 Over the last year we’ve gone a step forward and developed [some Javascript/CSS](https://github.com/djplaner/Card-Interface-Tweak) that can be embedded in Blackboard and produce something like the following.
 
-![](images/cards.png)
+![](https://djon.es/assets/blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/images/cards.png)
 
 This approach has also been extended to work with Blackboard functionality such [as review status](https://help.blackboard.com/Learn/Administrator/Hosting/Tools_Management/Review_Status).
 
-![](images/cardsReview.png)
+![](https://djon.es/assets/blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/images/cardsReview.png)
 
 There are many other examples of how the existing functionality/interface of an LMS is inappropriate for a given educational purpose. The [JS Hack building block](https://github.com/AllTheDucks/jshack) made use of the architecture of Blackboard 9.1 to enable institutions to develop (and share) modifications for the Blackboard 9.1 user interface. Both administrative (e.g. [displaying a warning to administrators](https://github.com/AllTheDucks/jshack-v1/wiki/Availability-Notice-Package)) and user interface.
 
@@ -135,7 +135,7 @@ The animated GIF below demonstrates that use of [a mashup we’ve developed](htt
 
 Not only that, in essence the mashup provides a simple [headless content management system](https://en.wikipedia.org/wiki/Headless_content_management_system) for Blackboard. Meaning the content (now in Word documetns) can be quickly re-used for different purposes. e.g. when we migrate to a different LMS, or in different course sites.
 
-![](images/editing.gif)
+![](https://djon.es/assets/blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/images/editing.gif)
  
 
 ## Challenges to mashups

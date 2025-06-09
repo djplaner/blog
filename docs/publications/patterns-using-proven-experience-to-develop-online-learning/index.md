@@ -1,43 +1,40 @@
----
-date: 2009-01-01 13:48:29+10:00
+﻿---
+comments: []
+date: 2009-01-01 03:48:29
+pingbacks:
+- approved: '1'
+  author: Patterns for e-learning - a lost opportunity or destined to fail &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
+  content: '[...] the rationale. We wrote a couple of papers explaining the project
+    (Jones and Stewart, 1999; Jones, Stewart and Power, 1999), gave a presentation
+    (the audio for the presentation is there in RealAudio format, shows how old [...]'
+  date: '2009-02-22 21:50:22'
+  date_gmt: '2009-02-22 11:50:22'
+  id: '2025'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Limits in developing innovative pedagogy with Moodle: The story of BIM
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.104.8
+  author_url: https://djon.es/blog/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
+  content: '[...] design theory for e-learning. For example, as far back as 1999 I
+    have three publications (1, 2, 3 where recognising and reusing the positives is
+    a key feature. It has been my argument that the [...]'
+  date: '2010-03-19 10:51:10'
+  date_gmt: '2010-03-19 00:51:10'
+  id: '2026'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Patterns: using proven experience to  develop online learning"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Patterns for e-learning - a lost opportunity or destined to fail &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
-      content: '[...] the rationale. We wrote a couple of papers explaining the project
-        (Jones and Stewart, 1999; Jones, Stewart and Power, 1999), gave a presentation
-        (the audio for the presentation is there in RealAudio format, shows how old [...]'
-      date: '2009-02-22 21:50:22'
-      date_gmt: '2009-02-22 11:50:22'
-      id: '2025'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Limits in developing innovative pedagogy with Moodle: The story of BIM
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.104.8
-      author_url: https://djon.es/blog/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
-      content: '[...] design theory for e-learning. For example, as far back as 1999 I
-        have three publications (1, 2, 3 where recognising and reusing the positives is
-        a key feature. It has been my argument that the [...]'
-      date: '2010-03-19 10:51:10'
-      date_gmt: '2010-03-19 00:51:10'
-      id: '2026'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Sharonn, Stewart, Leonie Power, Patterns: using proven experience to develop online learning, Proceedings of ASCILITE’99, Responding to Diversity, Brisbane: QUT, pp 155-162
 

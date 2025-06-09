@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - dojo
-date: 2006-08-01 13:43:53+10:00
+date: 2006-08-01 03:43:53
 next:
   text: Jenny Anastasi' presentation
   url: /blog/2006/08/28/jenny-anastasi-presentation/
 previous:
   text: Information literacy skills causing problems with BAM
   url: /blog/2006/07/31/information-literacy-skills-causing-problems-with-bam/
+template: blog-post.html
 title: Including Dojo in pages
 type: post
-template: blog-post.html
 ---
 Based on various sources including [the Dojo "manual"](http://manual.dojotoolkit.org/WikiHome/DojoDotBook/BookScript)
 

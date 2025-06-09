@@ -1,24 +1,24 @@
----
+﻿---
 categories:
 - bad
 - casa
 - elearning
-date: 2019-02-24 15:46:18+10:00
+date: 2019-02-24 05:46:18
 next:
   text: Testing out h5p interactives and tracking
   url: /blog/2019/05/30/testing-out-h5p-interactives-and-tracking/
 previous:
   text: "Digital learning templates \u2013 adding context and configuration"
   url: /blog/2019/02/10/digital-learning-templates-adding-context-and-configuration/
+template: blog-post.html
 title: Exploring knowledge reuse in design for digital learning
 type: post
-template: blog-post.html
 ---
 This post continues an on-going exploration of knowledge reuse in design for digital learning. Previous posts ([one](/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) and [two](/blog/2019/02/10/digital-learning-templates-adding-context-and-configuration/)) started the exploration in the context of developing an assemblage to help designers of web-based learning environments create [a card interface](https://medium.com/designed-thought/the-design-and-morality-of-the-card-interface-1f8349e9a9c0) (see Figure 1). Implementing such a design from scratch requires a diverse collection of knowledge that is beyond most individuals. It is hoped that packaging that knowledge into an assemblage of technologies will allow for that knowledge to be used and reused (within Blackboard 9.1) by more people and subsequently have a positive impact on the learning environment and experience.
 
 The card inteface is a simple example of this work. The requirements of the card interface are fairly contained and pre-defined. The next challenge is to explore if and how this can be expanded to something more difficult and open-ended.
 
-![](images/wAGZr6VW5+HagAAAABJRU5ErkJggg==)  
+![](https://djon.es/assets/blog/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/images/wAGZr6VW5+HagAAAABJRU5ErkJggg==)  
 Figure 1: Card interface example
 
 ## Problem: developing and maintaining online learning content
@@ -52,7 +52,7 @@ The last couple of weeks have seen the development of an assemblage of technolog
 
 Microsoft Word, of if you’d prefer LibreOffice, is used to create and edit content that is saved as a Word document (.docx). The Word document must be structured using [styles](http://www.consultdmw.com/how-to-use-word-styles.html), including some styles specific to the Content Interface (e.g. Note, Reading, Activity, Embed). For example, [t](https://drive.google.com/file/d/1KvHYiAklqn5RVWcO62cyp7ifBeRA2MA0/view?usp=sharing)[his Word document](https://drive.google.com/file/d/1KvHYiAklqn5RVWcO62cyp7ifBeRA2MA0/view?usp=sharing) was used to produce the learning module shown in Figure 2. That Word document and the learning module is actually an introduction to the Content Interface and illustrates the use of styles. Feel free to download [the Word document](https://drive.google.com/file/d/1KvHYiAklqn5RVWcO62cyp7ifBeRA2MA0/view?usp=sharing) for the learning module in Figure 2 and compare its contents with Figure 2. You can also download [the Word document](https://drive.google.com/file/d/1WwDyIJCZolRjhu_YqByB1JHalLJH7j0A/view?usp=sharing) used to produce this blog post.
 
-![](images/n8jISO3Aesj5DwLnCBl9hcHOAAAAAElFTkSuQmCC)  
+![](https://djon.es/assets/blog/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/images/n8jISO3Aesj5DwLnCBl9hcHOAAAAAElFTkSuQmCC)  
 Figure 2: Content interface example - Blackboard
 
 ### 2\. Convert to HTML using Mammoth
@@ -105,7 +105,7 @@ In [his blog post](http://abelardopardo.blogspot.com/2015/02/re-visiting-authori
 
 Perhaps the biggest limitations and source of challenge with this process is the use of Microsoft Word as the main authoring format. Even though most of the academics I work with use Word as their primary word processor there are issues. Word’s foibles as an authoring platform (e.g. see Figure 3 and [the associated explanation](https://www.explainxkcd.com/wiki/index.php/2109:_Invisible_Formatting)), the stretching of Word’s styles functionality through this process; and, a tendency for many people not to really understand how to use Word as intended (e.g. Ben-Ari & Yeshno, 2006). Hence there’s a question about the mechanics of the process. However, early experience shows there may be some hope.
 
-![](images/5QlgoB+NtEwAAAAASUVORK5CYII=)  
+![](https://djon.es/assets/blog/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/images/5QlgoB+NtEwAAAAASUVORK5CYII=)  
 Figure 3: [xkcd's explanation](https://m.xkcd.com/2109/) of one of the challenges of using Word processors
 
 There’s also the question of whether or not the “write in Word and publish in the LMS” process will be an abstraction too far. In particular, the increasing use of semantic elements in Word. A practice that challenges the typical formatting driven use of Word. Intermingled with this is that while the content interface may help reduce the cognitive load associated with the technical aspects of authoring, will this translate to an increased focus on design for learning?

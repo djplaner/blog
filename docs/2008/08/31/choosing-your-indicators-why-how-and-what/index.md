@@ -1,82 +1,79 @@
----
+﻿---
 categories:
 - blackboardindicators
 - c2d2
 - complexityleadership
 - coursesites
 - elearning
-date: 2008-08-31 12:52:38+10:00
+comments:
+- approved: '1'
+  author: Tony Bowes
+  author_email: vrbones@gmail.com
+  author_ip: 150.101.181.34
+  author_url: null
+  content: "More toys I can't play with :/\n\nDuring one of the GDLT sessions I had\
+    \ caught wind of the fact that the system tracks what pages are being viewed and\
+    \ by whom. When the course has been completed it would be great getting some \"\
+    google analytics\" type metrics out showing the page's view histry together with\
+    \ time on page, entry / exit points, etc. With student tracking it would be interesting\
+    \ seeing if any of the metrics correlate to final grade.\n\nMore interesting metrics\
+    \ would be:\n - supervisor post count on forum\n - post count per day overlaid\
+    \ with critical dates (assessment due, etc)\n - student / supervisor post count\
+    \ ratio on forum.\n - posts / readers ratio\n\nNot sure if it's a metric, but\
+    \ one thing I have been noticing more recently is a purposeful attempt in the\
+    \ coursework to get the student to post feedback or discuss an item on the forum.\
+    \ These points not only generate traffic and lively discussion, but also give\
+    \ an indication of where everyone is up to in the course. Having at least 2 or\
+    \ 3 of these points in each session would keep the engagement going. Ideally I'd\
+    \ like to see either a hyperlinking system so that you can leave forum comments\
+    \ tagged back to specific content, or even a comment-in-place system. Guess that's\
+    \ more for another topic tho..."
+  date: '2008-09-01 17:13:53'
+  date_gmt: '2008-09-01 07:13:53'
+  id: '1597'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: d.jones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'G''day Tony,
+
+
+    Thanks for the comment.   A lot to consider and we''ve though of some of these.
+
+
+    The integration of online activities into the course is an obvious one to encourage,
+    rather than leave it as an optional thing.   Some of the work we''ve done around
+    constructive alignment speaks to that.
+
+
+    The Google Analytics type information is certainly something that would help the
+    staff and there are some that try and use it. But it probably also needs to be
+    integrated into what they do.  Sort of applying constructive alignment into the
+    processes that support e-learning.
+
+
+    David.'
+  date: '2008-09-02 07:45:21'
+  date_gmt: '2008-09-01 21:45:21'
+  id: '1598'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-08-31 02:52:38
 next:
   text: REACT 2008 - An exercise in scholarship?
   url: /blog/2008/09/09/react-2008-an-exercise-in-scholarship/
+pingbacks: []
 previous:
   text: Getting started on Blackboard indicators
   url: /blog/2008/08/28/getting-started-on-blackboard-indicators/
+template: blog-post.html
 title: Choosing your indicators - why, how and what
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Tony Bowes
-      author_email: vrbones@gmail.com
-      author_ip: 150.101.181.34
-      author_url: null
-      content: "More toys I can't play with :/\n\nDuring one of the GDLT sessions I had\
-        \ caught wind of the fact that the system tracks what pages are being viewed and\
-        \ by whom. When the course has been completed it would be great getting some \"\
-        google analytics\" type metrics out showing the page's view histry together with\
-        \ time on page, entry / exit points, etc. With student tracking it would be interesting\
-        \ seeing if any of the metrics correlate to final grade.\n\nMore interesting metrics\
-        \ would be:\n - supervisor post count on forum\n - post count per day overlaid\
-        \ with critical dates (assessment due, etc)\n - student / supervisor post count\
-        \ ratio on forum.\n - posts / readers ratio\n\nNot sure if it's a metric, but\
-        \ one thing I have been noticing more recently is a purposeful attempt in the\
-        \ coursework to get the student to post feedback or discuss an item on the forum.\
-        \ These points not only generate traffic and lively discussion, but also give\
-        \ an indication of where everyone is up to in the course. Having at least 2 or\
-        \ 3 of these points in each session would keep the engagement going. Ideally I'd\
-        \ like to see either a hyperlinking system so that you can leave forum comments\
-        \ tagged back to specific content, or even a comment-in-place system. Guess that's\
-        \ more for another topic tho..."
-      date: '2008-09-01 17:13:53'
-      date_gmt: '2008-09-01 07:13:53'
-      id: '1597'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: d.jones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'G''day Tony,
-    
-    
-        Thanks for the comment.   A lot to consider and we''ve though of some of these.
-    
-    
-        The integration of online activities into the course is an obvious one to encourage,
-        rather than leave it as an optional thing.   Some of the work we''ve done around
-        constructive alignment speaks to that.
-    
-    
-        The Google Analytics type information is certainly something that would help the
-        staff and there are some that try and use it. But it probably also needs to be
-        integrated into what they do.  Sort of applying constructive alignment into the
-        processes that support e-learning.
-    
-    
-        David.'
-      date: '2008-09-02 07:45:21'
-      date_gmt: '2008-09-01 21:45:21'
-      id: '1598'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 The [unit](http://cddu.cqu.edu.au/) I work with is undertaking a project called [Blackboard Indicators](http://cddu.cqu.edu.au/index.php/Blackboard_Indicators). Essentially the development of a tool that will perform some automated checks on our [institution's](http://www.cquni.edu.au/) Blackboard course sites and show some indicators which might identify potential problems or areas for improvement.
 

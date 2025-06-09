@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - bim2
-date: 2013-03-03 18:09:10+10:00
+comments: []
+date: 2013-03-03 08:09:10
 next:
   text: How are they going?
   url: /blog/2013/03/04/how-are-they-going/
+pingbacks:
+- approved: '1'
+  author: Adding bim 2.0 to &#8220;CONTRIB&#8221; | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.232.113.87
+  author_url: https://djon.es/blog/2013/04/05/adding-bim-2-0-to-contrib/
+  content: '[...] to a bug report from a Russian user of BIM solved a problem with
+    2.3.2 version of [...]'
+  date: '2013-04-05 16:46:14'
+  date_gmt: '2013-04-05 06:46:14'
+  id: '641'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Diagnosing a BIM problem
   url: /blog/2013/02/27/diagnosing-a-bim-problem/
+template: blog-post.html
 title: BIM2 and disable_form_change_checker
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Adding bim 2.0 to &#8220;CONTRIB&#8221; | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.232.113.87
-      author_url: https://djon.es/blog/2013/04/05/adding-bim-2-0-to-contrib/
-      content: '[...] to a bug report from a Russian user of BIM solved a problem with
-        2.3.2 version of [...]'
-      date: '2013-04-05 16:46:14'
-      date_gmt: '2013-04-05 06:46:14'
-      id: '641'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As a developer, you have to love it when someone using your code diagnoses and identifies their own problem with your code. Especially if they give you a clear and concise explanation you can use. That's what happened with [the BIM2 problem](/blog/2013/02/27/diagnosing-a-bim-problem/) I blogged about recently. It appears I was using Moodle 2.3.4 the problem was found on Moodle 2.3.2+ and there was a change in the Moodle code in-between. The following describes the bug and hopefully the fix/change I've made to the BIM code.
 

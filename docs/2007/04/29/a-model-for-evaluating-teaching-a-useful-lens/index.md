@@ -1,80 +1,78 @@
----
+﻿---
 categories:
 - addie
 - ascilitementor
 - elearning
-date: 2007-04-29 21:13:15+10:00
+comments:
+- approved: '1'
+  author: Kathleen Gray
+  author_email: kgray@unimelb.edu.au
+  author_ip: 128.250.6.244
+  author_url: null
+  content: "Hi David:\n\nI think that the limitations of Trigwell\xE2\x80\x99s paper\
+    \ to resolve your problem statement arise from your moving quite quickly from\
+    \ one question \xE2\x80?what is good teaching\xE2\x80? to another \xE2\x80\x9C\
+    what is good academic development\" (aka AD, instructional development, educational\
+    \ development).\n\nIt seems to me that while AD has to be based on a view about\
+    \ what good teaching is, it can\xE2\x80\x99t luxuriate in working - or \xE2\x80\
+    \x9Cjudging\xE2\x80? as in Trigwell - at the level of one teacher and one student,\
+    \ but is called on to address the plurality of academics and students in the contexts\
+    \ of higher education.  In pursuing a university degree, a student never has only\
+    \ one teacher, and a teacher never has only one student, and teachers and students\
+    \ never work with each other outside of what you call the current state of affairs\
+    \ (globalisation, massification, privatisation, etc.). AD has to deal with this\
+    \ systematically, I feel, and this moves us from your first question to your second.\n\
+    \nIn introductory conversations about how to think about the work of AD, I pretty\
+    \ well always suggest doing a personal inventory (much like the personality-type\
+    \ quiz that helped you identify yourself as INTP) based on Ray Land\xE2\x80\x99\
+    s paper Agency, context and change in academic development. (International Journal\
+    \ for Academic Development, May 2001, 6 (1), p.4-20.)  Decide whether your tacit\
+    \ orientation to AD work is: Opportunist entrepreneurial / Reflective practitioner\
+    \ / Interpretive-hermeneutic / Romantic (outreach) / Professional competence (activist-modeller)\
+    \ / Political strategist (pragmatist) / Consultant researcher / Disciplinary /\
+    \ Managerial HRM ...\n\nIt\xE2\x80\x99s also a good exercise for us all to routinely\
+    \ examine our consciences for \"colonial\" approaches to AD (ref Doing Educational\
+    \ Development Ambivalently: Applying post\xE2\x80?colonial metaphors to educational\
+    \ development? by Catherine Manathunga. International Journal for Academic Development,\
+    \ May 2006, 11(1), p.19-29.)\n\nCheers!"
+  date: '2007-05-04 15:32:25'
+  date_gmt: '2007-05-04 05:32:25'
+  id: '1538'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2007-04-29 11:13:15
 next:
   text: University learning and teaching publications - rankings and RQF
   url: /blog/2007/05/17/university-learning-and-teaching-publications-rankings-and-rqf/
+pingbacks:
+- approved: '1'
+  author: Helping create innovative, good quality learning and teaching &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2007/06/10/helping-create-innovative-good-quality-learning-and-teaching/
+  content: '[...] create innovative, good quality learning and&nbsp;teaching  In an
+    earlier post I drew on a &#8220;model of teaching&#8221; from Trigwell (2001).
+    The model is shown [...]'
+  date: '2009-01-28 14:19:53'
+  date_gmt: '2009-01-28 04:19:53'
+  id: '1539'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Personality type - INTP
   url: /blog/2007/04/09/personality-type-intp/
+template: blog-post.html
 title: A model for evaluating teaching - a useful lens?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Kathleen Gray
-      author_email: kgray@unimelb.edu.au
-      author_ip: 128.250.6.244
-      author_url: null
-      content: "Hi David:\n\nI think that the limitations of Trigwell\xE2\x80\x99s paper\
-        \ to resolve your problem statement arise from your moving quite quickly from\
-        \ one question \xE2\x80?what is good teaching\xE2\x80? to another \xE2\x80\x9C\
-        what is good academic development\" (aka AD, instructional development, educational\
-        \ development).\n\nIt seems to me that while AD has to be based on a view about\
-        \ what good teaching is, it can\xE2\x80\x99t luxuriate in working - or \xE2\x80\
-        \x9Cjudging\xE2\x80? as in Trigwell - at the level of one teacher and one student,\
-        \ but is called on to address the plurality of academics and students in the contexts\
-        \ of higher education.  In pursuing a university degree, a student never has only\
-        \ one teacher, and a teacher never has only one student, and teachers and students\
-        \ never work with each other outside of what you call the current state of affairs\
-        \ (globalisation, massification, privatisation, etc.). AD has to deal with this\
-        \ systematically, I feel, and this moves us from your first question to your second.\n\
-        \nIn introductory conversations about how to think about the work of AD, I pretty\
-        \ well always suggest doing a personal inventory (much like the personality-type\
-        \ quiz that helped you identify yourself as INTP) based on Ray Land\xE2\x80\x99\
-        s paper Agency, context and change in academic development. (International Journal\
-        \ for Academic Development, May 2001, 6 (1), p.4-20.)  Decide whether your tacit\
-        \ orientation to AD work is: Opportunist entrepreneurial / Reflective practitioner\
-        \ / Interpretive-hermeneutic / Romantic (outreach) / Professional competence (activist-modeller)\
-        \ / Political strategist (pragmatist) / Consultant researcher / Disciplinary /\
-        \ Managerial HRM ...\n\nIt\xE2\x80\x99s also a good exercise for us all to routinely\
-        \ examine our consciences for \"colonial\" approaches to AD (ref Doing Educational\
-        \ Development Ambivalently: Applying post\xE2\x80?colonial metaphors to educational\
-        \ development? by Catherine Manathunga. International Journal for Academic Development,\
-        \ May 2006, 11(1), p.19-29.)\n\nCheers!"
-      date: '2007-05-04 15:32:25'
-      date_gmt: '2007-05-04 05:32:25'
-      id: '1538'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Helping create innovative, good quality learning and teaching &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2007/06/10/helping-create-innovative-good-quality-learning-and-teaching/
-      content: '[...] create innovative, good quality learning and&nbsp;teaching  In an
-        earlier post I drew on a &#8220;model of teaching&#8221; from Trigwell (2001).
-        The model is shown [...]'
-      date: '2009-01-28 14:19:53'
-      date_gmt: '2009-01-28 04:19:53'
-      id: '1539'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As part of [CQU's](http://www.cqu.edu.au/) moves around improving its evaluation of good teaching I was sent a paper by [Keith Trigwell](http://www.itl.usyd.edu.au/aboutus/keithtrigwell.htm) (2001), "Judging university teaching".
 
 From that paper comes the following "model of teaching (or a framework for judging teaching)"
 
-[![Trigwell's model of teaching](images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
+[![Trigwell's model of teaching](https://djon.es/assets/blog/2007/04/29/a-model-for-evaluating-teaching-a-useful-lens/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
 
 My interest in this model is the assistance it can provide in thinking about how a group charged with helping academics design, develop and delivery quality learning can understand and go about it's task. This is a problem I face in my new job.
 

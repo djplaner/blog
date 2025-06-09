@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - casa
-date: 2019-01-30 14:17:10+10:00
+date: 2019-01-30 04:17:10
 next:
   text: "Digital learning templates \u2013 adding context and configuration"
   url: /blog/2019/02/10/digital-learning-templates-adding-context-and-configuration/
 previous:
   text: '"Trying out" needs agency and control'
   url: /blog/2019/01/18/trying-out-needs-agency-and-control/
+template: blog-post.html
 title: Improving reuse of design knowledge in a LMS
 type: post
-template: blog-post.html
 ---
 In October last year I started a new position at Griffith University. A role designed to help improve the quality and quantity of use of the institutional learning ecosystem. An ecosystem that includes Blackboard (both 9.1 and soon Ultra), Office365, PebblePad, Echo360 etc. Pretty early on it became apparent that there was some problems with reusing design knowledge. A problem that had some initial solutions. But these solutions weren't built upon. The following tells the story of those problems and how I've be playing with an old idea of [scaffolding, context sensitive conglomerations](/blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/) (aka constructive templates) to help.
 
@@ -57,7 +57,7 @@ The solution is called [Blackboard Tweaks](http://tweaks.github.io/Tweaks/). A b
 
 <figure markdown>
 
-![](images/unitmap.png)
+![](https://djon.es/assets/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/images/unitmap.png)
 
 <caption>
 

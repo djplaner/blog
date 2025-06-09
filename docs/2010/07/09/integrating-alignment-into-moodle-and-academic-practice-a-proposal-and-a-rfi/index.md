@@ -1,202 +1,200 @@
----
+﻿---
 categories:
 - alignment
 - curriculummapping-cddu
 - elearning
 - moodle
-date: 2010-07-09 09:26:24+10:00
+comments:
+- approved: '1'
+  author: dveness
+  author_email: deborah.veness@anu.edu.au
+  author_ip: 150.203.145.36
+  author_url: null
+  content: 'Hi David
+
+
+    I won''t be at the Moot, but you might notice several of my colleagues lurking
+    about the place.
+
+
+    I like your thinking, but I think that trying to encapsulate this in a Moodle
+    process might just be a bit too difficult. It might be possible, I think, to build
+    a Moodle process that documents and makes public the final picture of alignment,
+    but I think all the work would have to happen before the information is keyed
+    in ... and that takes you right back to the beginning of the problem ... that
+    most academic staff don''t (want to) think about issues of alignment, even when
+    their institutions and governing bodies want them to.
+
+
+    However, if you do get there, I will be keen to see the results.
+
+
+    BTW have you noticed that Bb has just bought both Wimba and Elluminate?
+
+
+    Deborah'
+  date: '2010-07-09 14:42:25'
+  date_gmt: '2010-07-09 04:42:25'
+  id: '3114'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.42.225
+  author_url: https://djon.es/blog/
+  content: 'G''day Deborah,
+
+
+    Sorry you won''t be at the moot.  The presentation I linked to was from some ANU
+    colleagues of yours.
+
+
+    In terms of the "keying in", I agree that is perhaps the hardest part.  Though
+    there are many parts that would be hard.
+
+
+    The proposed solution to this, at least in the initial broader conception, was
+    that the initial mapping of a course would have to have a lot of support in the
+    form of instructional/curriculum designers working effectively and collaboratively
+    with the teaching academics. This would not be a simple process, but it''s one
+    that a lot of people are starting to do.
+
+
+    The difference here, is that once the initial mapping is in place, it is entered
+    into the Moodle course site.  Now, how completely this mapping can be done within
+    a Moodle course site is another problem to deal with, but let''s assume it can
+    be done.
+
+
+    This is where the first assumption kicks in.  Most academics simply tweak a course
+    that has already been offered.  With a good Moodle course (or any LMS) this would
+    mean modifying the course site.  If alignment were part of the course site, they
+    could be encouraged to maintain the mapping as they make the changes.  This is
+    where the ecosystem and a range of other practices kick in.
+
+
+    But, hopefully, the aim is that maintaining the alignment mapping is a small thing
+    that can be built into everyday practice. I also hope/believe that being asked
+    these questions might, in an appropriate support environment, start changing the
+    types of questions academics ask themselves when setting up a course.  Hopefully,
+    the ecosystem around the alignment mapping can also enable the development of
+    some new discussions and practices.
+
+
+    That''s the "hope", reality is a long way off.  Thanks for commenting, it''s helped
+    me frame a few things I need to say in the presentation.
+
+
+    David.'
+  date: '2010-07-09 14:55:20'
+  date_gmt: '2010-07-09 04:55:20'
+  id: '3115'
+  parent: '3114'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: dveness
+  author_email: deborah.veness@anu.edu.au
+  author_ip: 150.203.145.36
+  author_url: null
+  content: '... and then the next thing would be to link the stuff in the Moodle site
+    with all the other databases in which universities store course information -
+    the online handbooks, the course outline repositories that are turning up around
+    the place (I think you might hear a bit at the Moot about how UC is using Equella
+    for this purpose), and so on.
+
+
+    The mapping element needs to persist through these other systems, so the institution
+    can track how changes at a course level are impacting the programs. In my current
+    area, we are very efficient about how we use certain courses, particularly at
+    undergraduate level ... microeconomics, for instance, is a core course in more
+    than half of the undergraduate programs. Once you become aware of that, it becomes
+    very clear that you have to monitor the impact of changes very carefully.
+
+
+    Deborah'
+  date: '2010-07-09 15:07:19'
+  date_gmt: '2010-07-09 05:07:19'
+  id: '3116'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.42.225
+  author_url: https://djon.es/blog/
+  content: 'G''day Deborah,
+
+
+    Agree.  This information does need to be available and be used.  I''ve talked
+    a bit with the UC folk.
+
+
+    My problem with the way much of this is being done (at my institution and elsewhere)
+    is that the process starts from the administrative systems.  That''s where they
+    put the information first.  I see this as the tail wagging the dog, of course
+    it''s also solving the simple problem.
+
+
+    To be really useful and integrated, I think it has to start with what the academics
+    do.  Get it right there, get it integrated into what they do and draw the information
+    from their for the administrative purposes.
+
+
+    A thought, anyway.
+
+
+    David.'
+  date: '2010-07-09 16:01:42'
+  date_gmt: '2010-07-09 06:01:42'
+  id: '3117'
+  parent: '3116'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: dveness
+  author_email: deborah.veness@anu.edu.au
+  author_ip: 150.203.145.36
+  author_url: null
+  content: Yes, this is the only way - and it has to flow through seamlessly and easily,
+    so if there are peer review and moderation processes (as there should be), they
+    are all part and parcel ... ahh, we can only dream!
+  date: '2010-07-09 17:20:37'
+  date_gmt: '2010-07-09 07:20:37'
+  id: '3118'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-07-08 23:26:24
 next:
   text: Trip report - Moodlemoot'AU 2010
   url: /blog/2010/07/16/trip-report-moodlemootau-2010/
+pingbacks:
+- approved: '1'
+  author: Trip report &#8211; Moodlemoot&#8217;AU 2010 &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 76.74.254.62
+  author_url: https://djon.es/blog/2010/07/16/trip-report-moodlemootau-2010/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Integrating alignment into Moodle and academic practice: A proposal and a&nbsp;RFI
+    [...]'
+  date: '2010-07-19 14:22:26'
+  date_gmt: '2010-07-19 04:22:26'
+  id: '3119'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: McGuffins, learning, teaching and universities
   url: /blog/2010/07/04/mcguffins-learning-teaching-and-universities/
+template: blog-post.html
 title: '"Integrating alignment into Moodle and academic practice: A proposal and a
   RFI"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: dveness
-      author_email: deborah.veness@anu.edu.au
-      author_ip: 150.203.145.36
-      author_url: null
-      content: 'Hi David
-    
-    
-        I won''t be at the Moot, but you might notice several of my colleagues lurking
-        about the place.
-    
-    
-        I like your thinking, but I think that trying to encapsulate this in a Moodle
-        process might just be a bit too difficult. It might be possible, I think, to build
-        a Moodle process that documents and makes public the final picture of alignment,
-        but I think all the work would have to happen before the information is keyed
-        in ... and that takes you right back to the beginning of the problem ... that
-        most academic staff don''t (want to) think about issues of alignment, even when
-        their institutions and governing bodies want them to.
-    
-    
-        However, if you do get there, I will be keen to see the results.
-    
-    
-        BTW have you noticed that Bb has just bought both Wimba and Elluminate?
-    
-    
-        Deborah'
-      date: '2010-07-09 14:42:25'
-      date_gmt: '2010-07-09 04:42:25'
-      id: '3114'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.42.225
-      author_url: https://djon.es/blog/
-      content: 'G''day Deborah,
-    
-    
-        Sorry you won''t be at the moot.  The presentation I linked to was from some ANU
-        colleagues of yours.
-    
-    
-        In terms of the "keying in", I agree that is perhaps the hardest part.  Though
-        there are many parts that would be hard.
-    
-    
-        The proposed solution to this, at least in the initial broader conception, was
-        that the initial mapping of a course would have to have a lot of support in the
-        form of instructional/curriculum designers working effectively and collaboratively
-        with the teaching academics. This would not be a simple process, but it''s one
-        that a lot of people are starting to do.
-    
-    
-        The difference here, is that once the initial mapping is in place, it is entered
-        into the Moodle course site.  Now, how completely this mapping can be done within
-        a Moodle course site is another problem to deal with, but let''s assume it can
-        be done.
-    
-    
-        This is where the first assumption kicks in.  Most academics simply tweak a course
-        that has already been offered.  With a good Moodle course (or any LMS) this would
-        mean modifying the course site.  If alignment were part of the course site, they
-        could be encouraged to maintain the mapping as they make the changes.  This is
-        where the ecosystem and a range of other practices kick in.
-    
-    
-        But, hopefully, the aim is that maintaining the alignment mapping is a small thing
-        that can be built into everyday practice. I also hope/believe that being asked
-        these questions might, in an appropriate support environment, start changing the
-        types of questions academics ask themselves when setting up a course.  Hopefully,
-        the ecosystem around the alignment mapping can also enable the development of
-        some new discussions and practices.
-    
-    
-        That''s the "hope", reality is a long way off.  Thanks for commenting, it''s helped
-        me frame a few things I need to say in the presentation.
-    
-    
-        David.'
-      date: '2010-07-09 14:55:20'
-      date_gmt: '2010-07-09 04:55:20'
-      id: '3115'
-      parent: '3114'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: dveness
-      author_email: deborah.veness@anu.edu.au
-      author_ip: 150.203.145.36
-      author_url: null
-      content: '... and then the next thing would be to link the stuff in the Moodle site
-        with all the other databases in which universities store course information -
-        the online handbooks, the course outline repositories that are turning up around
-        the place (I think you might hear a bit at the Moot about how UC is using Equella
-        for this purpose), and so on.
-    
-    
-        The mapping element needs to persist through these other systems, so the institution
-        can track how changes at a course level are impacting the programs. In my current
-        area, we are very efficient about how we use certain courses, particularly at
-        undergraduate level ... microeconomics, for instance, is a core course in more
-        than half of the undergraduate programs. Once you become aware of that, it becomes
-        very clear that you have to monitor the impact of changes very carefully.
-    
-    
-        Deborah'
-      date: '2010-07-09 15:07:19'
-      date_gmt: '2010-07-09 05:07:19'
-      id: '3116'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.42.225
-      author_url: https://djon.es/blog/
-      content: 'G''day Deborah,
-    
-    
-        Agree.  This information does need to be available and be used.  I''ve talked
-        a bit with the UC folk.
-    
-    
-        My problem with the way much of this is being done (at my institution and elsewhere)
-        is that the process starts from the administrative systems.  That''s where they
-        put the information first.  I see this as the tail wagging the dog, of course
-        it''s also solving the simple problem.
-    
-    
-        To be really useful and integrated, I think it has to start with what the academics
-        do.  Get it right there, get it integrated into what they do and draw the information
-        from their for the administrative purposes.
-    
-    
-        A thought, anyway.
-    
-    
-        David.'
-      date: '2010-07-09 16:01:42'
-      date_gmt: '2010-07-09 06:01:42'
-      id: '3117'
-      parent: '3116'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: dveness
-      author_email: deborah.veness@anu.edu.au
-      author_ip: 150.203.145.36
-      author_url: null
-      content: Yes, this is the only way - and it has to flow through seamlessly and easily,
-        so if there are peer review and moderation processes (as there should be), they
-        are all part and parcel ... ahh, we can only dream!
-      date: '2010-07-09 17:20:37'
-      date_gmt: '2010-07-09 07:20:37'
-      id: '3118'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Trip report &#8211; Moodlemoot&#8217;AU 2010 &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 76.74.254.62
-      author_url: https://djon.es/blog/2010/07/16/trip-report-moodlemootau-2010/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Integrating alignment into Moodle and academic practice: A proposal and a&nbsp;RFI
-        [...]'
-      date: '2010-07-19 14:22:26'
-      date_gmt: '2010-07-19 04:22:26'
-      id: '3119'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm off to the [2001 Australian MoodleMoot](http://moodlemoot.org.au/) next week. The [conference program](http://moodlemoot.org.au/mod/resource/view.php?id=128) includes a collection of 3 minute show and tell sessions on the Tuesday afternoon. The following is a summary of what I think I'm going to talk about and a call for suggestions.
 
@@ -242,7 +240,7 @@ The [Moot presentation](http://moodlemoot.org.au/course/view.php?id=27) identifi
 
 What people experience is important. There's a growing body of literature from neuroscience (e.g. Zull, 2002) and psychology (e.g Bartunek and Moch, 1987) that suggests your experiences shape who you are, what you think and how you see the world. Which in turn is related to insights like Kolb's learning cycle.
 
-[![Kolb's Learning Cycle](images/4768967281_98e6965a33_m.jpg)](http://www.flickr.com/photos/david_jones/4768967281/ "Kolb's Learning Cycle by David T Jones, on Flickr")
+[![Kolb's Learning Cycle](https://djon.es/assets/blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/images/4768967281_98e6965a33_m.jpg)](http://www.flickr.com/photos/david_jones/4768967281/ "Kolb's Learning Cycle by David T Jones, on Flickr")
 
 If alignment is not something academics experience regularly, and experience within a context that encourages and enables them to reflect and experiment with alignment, then how are they expected really to learn and adopt alignment?
 

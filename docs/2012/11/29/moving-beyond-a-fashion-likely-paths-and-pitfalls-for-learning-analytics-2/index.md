@@ -1,71 +1,68 @@
----
+﻿---
 categories:
 - thesis
-date: 2012-11-29 23:07:37+10:00
+comments: []
+date: 2012-11-29 13:07:37
 next:
   text: '"Enabling academics to apply learning analytics to individual pedagogical
     practice: how and with what impacts?"'
   url: /blog/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/
+pingbacks:
+- approved: '1'
+  author: 'Enabling academics to apply learning analytics to individual pedagogical
+    practice: how and with what impacts? &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.44.22
+  author_url: https://djon.es/blog/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/
+  content: '[...] A recent presentation at the Southern Solar Flare conference places
+    the following idea in a broader context of learning analytics and how universities
+    are implementing it. [...]'
+  date: '2012-12-01 06:42:12'
+  date_gmt: '2012-11-30 20:42:12'
+  id: '513'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '#ascilite2012 technical support and the tail wagging the dog &laquo; The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 216.151.210.24
+  author_url: https://djon.es/blog/2012/12/02/tail-wagging-the-dog/
+  content: '[...] An extension to this proposition is that since the people, process
+    and product of university e-learning is inflexible, then university e-learning
+    by definition is either done &#8220;to&#8221; or &#8220;for&#8221; the academics.
+    i.e. the tail wags the dog. The practice of e-learning is constrained by the people,
+    process and product. This prevents university being done &#8220;with&#8221; the
+    academics. i.e. as a learning process. This was the theme picked up in our #FlareAus
+    presentation. [...]'
+  date: '2012-12-02 10:28:10'
+  date_gmt: '2012-12-02 00:28:10'
+  id: '514'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Can/will learning analytics challenge the current QA mentality of university
+    teaching &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 69.170.134.60
+  author_url: https://djon.es/blog/2012/12/11/canwill-learning-analytics-challenge-the-current-qa-mentality-of-university-teaching/
+  content: '[...] argument we put forward in a recent presentation was that the institutional
+    implementation of learning analytics needs to focus on &#8220;doing it [...]'
+  date: '2012-12-11 11:31:20'
+  date_gmt: '2012-12-11 01:31:20'
+  id: '515'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'The life and death of Webfuse: What&#039;s wrong with industrial e-learning
     and how to fix it'
   url: /blog/2012/11/26/the-life-and-death-of-webfuse-whats-wrong-with-industrial-e-learning-and-how-to-fix-it/
+template: blog-post.html
 title: '"Moving beyond a fashion: likely paths and pitfalls for learning analytics"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Enabling academics to apply learning analytics to individual pedagogical
-        practice: how and with what impacts? &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.44.22
-      author_url: https://djon.es/blog/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/
-      content: '[...] A recent presentation at the Southern Solar Flare conference places
-        the following idea in a broader context of learning analytics and how universities
-        are implementing it. [...]'
-      date: '2012-12-01 06:42:12'
-      date_gmt: '2012-11-30 20:42:12'
-      id: '513'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '#ascilite2012 technical support and the tail wagging the dog &laquo; The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 216.151.210.24
-      author_url: https://djon.es/blog/2012/12/02/tail-wagging-the-dog/
-      content: '[...] An extension to this proposition is that since the people, process
-        and product of university e-learning is inflexible, then university e-learning
-        by definition is either done &#8220;to&#8221; or &#8220;for&#8221; the academics.
-        i.e. the tail wags the dog. The practice of e-learning is constrained by the people,
-        process and product. This prevents university being done &#8220;with&#8221; the
-        academics. i.e. as a learning process. This was the theme picked up in our #FlareAus
-        presentation. [...]'
-      date: '2012-12-02 10:28:10'
-      date_gmt: '2012-12-02 00:28:10'
-      id: '514'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Can/will learning analytics challenge the current QA mentality of university
-        teaching &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 69.170.134.60
-      author_url: https://djon.es/blog/2012/12/11/canwill-learning-analytics-challenge-the-current-qa-mentality-of-university-teaching/
-      content: '[...] argument we put forward in a recent presentation was that the institutional
-        implementation of learning analytics needs to focus on &#8220;doing it [...]'
-      date: '2012-12-11 11:31:20'
-      date_gmt: '2012-12-11 01:31:20'
-      id: '515'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following resources are for a [presentation](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12/paper/view/439) given at the [Southern Solar Flare](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12/schedConf/overview) on the 30th November, 2012.
 

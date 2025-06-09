@@ -1,53 +1,50 @@
----
-date: 2012-06-26 10:45:20+10:00
+﻿---
+comments: []
+date: 2012-06-26 00:45:20
+pingbacks:
+- approved: '1'
+  author: Reflections on the PLE Conference 2012 | Mark Smithers
+  author_email: null
+  author_ip: 66.147.242.157
+  author_url: http://www.masmithers.com/2012/07/16/reflections-on-the-ple-conference-2012/
+  content: '[...] very interesting presentation was given by David Jones (@djplaner)
+    and Sarah Thorneycroft (@sthcroft). They gave us a case study [...]'
+  date: '2012-07-16 14:17:03'
+  date_gmt: '2012-07-16 04:17:03'
+  id: '363'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Project #pstn: engaging pre-service teachers in the&nbsp;Twitterverse |
+    PLE''s- what role for HE? | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/ple-s-what-role-for-he/p/2183404573/project-pstn-engaging-pre-service-teachers-in-the-twitterverse
+  content: '[...] Narelle Lemon1, Sarah Thorneycroft2, David Jones3, and Lauren Forner4
+    1 RMIT University, Melbourne, Victoria, Australia 2 University of New England,
+    Armidale, New South Wales, Australia 3 Universit... &nbsp; **and Stephen Downes
+    commentary: One of the presentations from the recent PLE conference shows how
+    you can go wrong in setting up your PLEs. While the objective of encouraging pre-service
+    teachers (PSTs) to use online networking, it seems to me to be a mistake to make
+    this a part of a course, and even more so to prescribe a specific technology (in
+    this case, Twitter). After all, the whole point of a PLE is that it conforms to
+    the person&#039;s own timelines, interests and technology choices. Now I admit,
+    I&#039;m a bit surprised that only 8 of the 151 PSTs had a Twitter account, but
+    that should only reinforce the perception that herding them all onto Twitter is
+    the wrong way to go. I would be encouraged, but from what I can tell the next
+    interation of the project will compound the mistake &quot;by embedding #pstn into
+    the course, the assessment, and the course support structures.&quot; What a way
+    to kill learner autonomy.&nbsp; [...]'
+  date: '2012-07-17 09:33:46'
+  date_gmt: '2012-07-16 23:33:46'
+  id: '364'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Project #pstn: engaging pre-service teachers in the Twitterverse"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Reflections on the PLE Conference 2012 | Mark Smithers
-      author_email: null
-      author_ip: 66.147.242.157
-      author_url: http://www.masmithers.com/2012/07/16/reflections-on-the-ple-conference-2012/
-      content: '[...] very interesting presentation was given by David Jones (@djplaner)
-        and Sarah Thorneycroft (@sthcroft). They gave us a case study [...]'
-      date: '2012-07-16 14:17:03'
-      date_gmt: '2012-07-16 04:17:03'
-      id: '363'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Project #pstn: engaging pre-service teachers in the&nbsp;Twitterverse |
-        PLE''s- what role for HE? | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/ple-s-what-role-for-he/p/2183404573/project-pstn-engaging-pre-service-teachers-in-the-twitterverse
-      content: '[...] Narelle Lemon1, Sarah Thorneycroft2, David Jones3, and Lauren Forner4
-        1 RMIT University, Melbourne, Victoria, Australia 2 University of New England,
-        Armidale, New South Wales, Australia 3 Universit... &nbsp; **and Stephen Downes
-        commentary: One of the presentations from the recent PLE conference shows how
-        you can go wrong in setting up your PLEs. While the objective of encouraging pre-service
-        teachers (PSTs) to use online networking, it seems to me to be a mistake to make
-        this a part of a course, and even more so to prescribe a specific technology (in
-        this case, Twitter). After all, the whole point of a PLE is that it conforms to
-        the person&#039;s own timelines, interests and technology choices. Now I admit,
-        I&#039;m a bit surprised that only 8 of the 151 PSTs had a Twitter account, but
-        that should only reinforce the perception that herding them all onto Twitter is
-        the wrong way to go. I would be encouraged, but from what I can tell the next
-        interation of the project will compound the mistake &quot;by embedding #pstn into
-        the course, the assessment, and the course support structures.&quot; What a way
-        to kill learner autonomy.&nbsp; [...]'
-      date: '2012-07-17 09:33:46'
-      date_gmt: '2012-07-16 23:33:46'
-      id: '364'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Narelle Lemon1, Sarah Thorneycroft2, David Jones3, and Lauren Forner4
 

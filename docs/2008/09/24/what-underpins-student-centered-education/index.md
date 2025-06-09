@@ -1,41 +1,38 @@
----
+﻿---
 categories:
 - elearning
 - plescquni
-date: 2008-09-24 11:17:31+10:00
+comments:
+- approved: '1'
+  author: Tony Bowes
+  author_email: vrbones@gmail.com
+  author_ip: 150.101.181.34
+  author_url: null
+  content: 'We still have the discussion as my blog software should tell hers about
+    my comment. But our contributions are captured in our own little bits of the blogosphere.
+
+
+    Unfortunately blogger still refuses to implement trackbacks, so I''ll have to
+    <a href="http://www.vrbones.com/2008/09/plescqu.html" rel="nofollow">join in the
+    conversation</a> manually ...'
+  date: '2008-09-24 15:13:58'
+  date_gmt: '2008-09-24 05:13:58'
+  id: '1603'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-09-24 01:17:31
 next:
   text: '"Design as reification, commodification and ideology: A critical view of
     IS design science"'
   url: /blog/2008/09/24/design-as-reification-commodification-and-ideology-a-critical-view-of-is-design-science/
+pingbacks: []
 previous:
   text: What is research?  How do you do it?
   url: /blog/2008/09/19/what-is-research-how-do-you-do-it/
+template: blog-post.html
 title: What underpins student-centered education
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Tony Bowes
-      author_email: vrbones@gmail.com
-      author_ip: 150.101.181.34
-      author_url: null
-      content: 'We still have the discussion as my blog software should tell hers about
-        my comment. But our contributions are captured in our own little bits of the blogosphere.
-    
-    
-        Unfortunately blogger still refuses to implement trackbacks, so I''ll have to
-        <a href="http://www.vrbones.com/2008/09/plescqu.html" rel="nofollow">join in the
-        conversation</a> manually ...'
-      date: '2008-09-24 15:13:58'
-      date_gmt: '2008-09-24 05:13:58'
-      id: '1603'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 After a long deal due to contextual and individual (i.e. mine) limitations, the first of the two [PLEs@CQUni project's](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni) research staff has arrived and started work. Welcome Jocene.
 

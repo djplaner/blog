@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-03-27 13:23:41+10:00
+comments:
+- approved: '1'
+  author: actionacademic
+  author_email: action_academic@aanet.com.au
+  author_ip: 138.77.2.131
+  author_url: null
+  content: 'Keep up the Phd work, there can''t be nuch to do at Struck Oil on a slow
+    Friday afternoon.
+
+    Google alert is very good at finding things to do with CQU.'
+  date: '2009-03-27 14:09:48'
+  date_gmt: '2009-03-27 04:09:48'
+  id: '2339'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-03-27 03:23:41
 next:
   text: Prescription, adaptation and failure around improving univeristy teaching
   url: /blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
+pingbacks: []
 previous:
   text: '&quot;One ring to rule them all&quot;: Limitations and implications of the
     LMS/VLE product model'
   url: /blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/
+template: blog-post.html
 title: '"PhD Update #5 - a new low"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: actionacademic
-      author_email: action_academic@aanet.com.au
-      author_ip: 138.77.2.131
-      author_url: null
-      content: 'Keep up the Phd work, there can''t be nuch to do at Struck Oil on a slow
-        Friday afternoon.
-    
-        Google alert is very good at finding things to do with CQU.'
-      date: '2009-03-27 14:09:48'
-      date_gmt: '2009-03-27 04:09:48'
-      id: '2339'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Well this week has been the worst yet in terms of progress on the PhD, at least with the last 5 weeks of updates. Most of it has been work related. Issues and events that have taken away the time, motivation and peace of mind necessary to effectively engage with PhD work.
 

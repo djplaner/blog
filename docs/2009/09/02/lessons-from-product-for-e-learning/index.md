@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,35 +6,32 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-09-02 10:02:49+10:00
+comments: []
+date: 2009-09-02 00:02:49
 next:
   text: '"BIM #6 - Learning weblib.php"'
   url: /blog/2009/09/03/bim-6-learning-weblib-php/
+pingbacks:
+- approved: '1'
+  author: Learning theories and e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.173
+  author_url: https://djon.es/blog/2009/10/04/learning-theories-and-e-learning/
+  content: '[...] complicated, diverse and ever changing. The intent is to argue that
+    this is in direct contrast to characteristics of the common approach taken by
+    universities to support e-learning. That is, an approach that [...]'
+  date: '2009-10-04 13:49:17'
+  date_gmt: '2009-10-04 03:49:17'
+  id: '2745'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Curriculum mapping, process, technology and higher education - some questions
   url: /blog/2009/09/01/curriculum-mapping-process-technology-and-higher-education/
+template: blog-post.html
 title: Lessons from product for e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Learning theories and e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.173
-      author_url: https://djon.es/blog/2009/10/04/learning-theories-and-e-learning/
-      content: '[...] complicated, diverse and ever changing. The intent is to argue that
-        this is in direct contrast to characteristics of the common approach taken by
-        universities to support e-learning. That is, an approach that [...]'
-      date: '2009-10-04 13:49:17'
-      date_gmt: '2009-10-04 03:49:17'
-      id: '2745'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This post contains the last section of the "Product" component of chapter 2 of the [my thesis](/blog/research/phd-thesis/), at least a rough first draft version of it. This is getting to the crux of my argument and problem with how most universities implement e-learning (adoption of an LMS) and it refers back to many of the other components of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). This will eventually become part of my EDUCAUSE'09 presentation and I'm thinking of re-working the following from thesis speak into something a little more leading.
 

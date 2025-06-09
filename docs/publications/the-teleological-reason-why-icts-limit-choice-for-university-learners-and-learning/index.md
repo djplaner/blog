@@ -1,103 +1,100 @@
----
-date: 2008-10-22 13:15:54+10:00
+﻿---
+comments: []
+date: 2008-10-22 03:15:54
+pingbacks:
+- approved: '1'
+  author: The Ps Framework - avoiding perceptual blindness? &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.66
+  author_url: https://djon.es/blog/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/
+  content: '[...] is teleological. It ignores and in many cases actively attacks ateleological
+    development. Jones and Muldoon (2007) go into more detail on this [...]'
+  date: '2008-10-24 15:49:08'
+  date_gmt: '2008-10-24 05:49:08'
+  id: '1747'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The dissonance gap in systems and LMS evaluations &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.21
+  author_url: https://djon.es/blog/2008/11/17/the-dissonance-gap-in-systems-and-lms-evaluations/
+  content: '[...] a couple of papers (e.g. this one) I&#8217;ve paraphrased this as  Technology
+    is not, of itself, liberating or empowering but serves [...]'
+  date: '2008-11-17 11:29:41'
+  date_gmt: '2008-11-17 01:29:41'
+  id: '1748'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Open source learning management systems - the latest fad in e-learning &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.186
+  author_url: https://djon.es/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/
+  content: "[...] in June, 2007 - when writing this paper I said &#8230;the subsequent\
+    \ limitation of rationality is demonstrated by the \u201Cfaddish\u201D [...]"
+  date: '2009-01-21 23:14:57'
+  date_gmt: '2009-01-21 13:14:57'
+  id: '1749'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How do you implement PLEs into higher education courses? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.88
+  author_url: https://djon.es/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
+  content: '[...] Traditionally e-learning within universities is teleological and
+    because the nature of teleological design is a complete and utter mismatch with
+    the requirements of e-learning problems arise. Some colleagues and I have pointed
+    these problems out in two publications (Jones, Luck, McConachie and Danaher, 2005;
+    Jones and Muldoon, 2007). [...]'
+  date: '2009-02-02 09:07:52'
+  date_gmt: '2009-02-01 23:07:52'
+  id: '1750'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How do you implement PLEs into higher education courses? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.87
+  author_url: https://djon.es/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
+  content: '[...] Traditionally e-learning within universities is teleological and
+    because the nature of teleological design is a complete and utter mismatch with
+    the requirements of e-learning problems arise. Some colleagues and I have pointed
+    these problems out in two publications (Jones, Luck, McConachie and Danaher, 2005;
+    Jones and Muldoon, 2007). [...]'
+  date: '2009-02-02 09:07:52'
+  date_gmt: '2009-02-01 23:07:52'
+  id: '1751'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'The life and death of Webfuse: lessons for learning and leading into the
+    future &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.2.43
+  author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+  content: '[...] The teleological reason why ICTs limit choice for university learners
+    and&nbsp;learning [...]'
+  date: '2012-06-22 14:06:27'
+  date_gmt: '2012-06-22 04:06:27'
+  id: '1752'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: The teleological reason why ICTs limit choice for university learners and learning
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The Ps Framework - avoiding perceptual blindness? &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.66
-      author_url: https://djon.es/blog/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/
-      content: '[...] is teleological. It ignores and in many cases actively attacks ateleological
-        development. Jones and Muldoon (2007) go into more detail on this [...]'
-      date: '2008-10-24 15:49:08'
-      date_gmt: '2008-10-24 05:49:08'
-      id: '1747'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The dissonance gap in systems and LMS evaluations &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.21
-      author_url: https://djon.es/blog/2008/11/17/the-dissonance-gap-in-systems-and-lms-evaluations/
-      content: '[...] a couple of papers (e.g. this one) I&#8217;ve paraphrased this as  Technology
-        is not, of itself, liberating or empowering but serves [...]'
-      date: '2008-11-17 11:29:41'
-      date_gmt: '2008-11-17 01:29:41'
-      id: '1748'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Open source learning management systems - the latest fad in e-learning &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.186
-      author_url: https://djon.es/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/
-      content: "[...] in June, 2007 - when writing this paper I said &#8230;the subsequent\
-        \ limitation of rationality is demonstrated by the \u201Cfaddish\u201D [...]"
-      date: '2009-01-21 23:14:57'
-      date_gmt: '2009-01-21 13:14:57'
-      id: '1749'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How do you implement PLEs into higher education courses? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.88
-      author_url: https://djon.es/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
-      content: '[...] Traditionally e-learning within universities is teleological and
-        because the nature of teleological design is a complete and utter mismatch with
-        the requirements of e-learning problems arise. Some colleagues and I have pointed
-        these problems out in two publications (Jones, Luck, McConachie and Danaher, 2005;
-        Jones and Muldoon, 2007). [...]'
-      date: '2009-02-02 09:07:52'
-      date_gmt: '2009-02-01 23:07:52'
-      id: '1750'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How do you implement PLEs into higher education courses? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.87
-      author_url: https://djon.es/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
-      content: '[...] Traditionally e-learning within universities is teleological and
-        because the nature of teleological design is a complete and utter mismatch with
-        the requirements of e-learning problems arise. Some colleagues and I have pointed
-        these problems out in two publications (Jones, Luck, McConachie and Danaher, 2005;
-        Jones and Muldoon, 2007). [...]'
-      date: '2009-02-02 09:07:52'
-      date_gmt: '2009-02-01 23:07:52'
-      id: '1751'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'The life and death of Webfuse: lessons for learning and leading into the
-        future &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.2.43
-      author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
-      content: '[...] The teleological reason why ICTs limit choice for university learners
-        and&nbsp;learning [...]'
-      date: '2012-06-22 14:06:27'
-      date_gmt: '2012-06-22 04:06:27'
-      id: '1752'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones and Nona Muldoon
 

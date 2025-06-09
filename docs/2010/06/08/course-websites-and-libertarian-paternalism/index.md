@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - reflectivealignment
 - thesis
 - webfuse
-date: 2010-06-08 09:28:12+10:00
+comments: []
+date: 2010-06-07 23:28:12
 next:
   text: Functional fixedness, analytics, and the LMS
   url: /blog/2010/06/12/functional-fixedness-analytics-the-lms-and-the-v-word/
+pingbacks:
+- approved: '1'
+  author: Should academics manually create course websites? &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 74.200.243.196
+  author_url: https://djon.es/blog/2010/06/07/should-academics-manually-create-course-websites/
+  content: '[...] (a) David Jones Another voice in the blogosphere    &laquo; Default
+    course sites and&nbsp;wizards  Course websites and &#8220;libertarian&nbsp;paternalism&#8221;
+    [...]'
+  date: '2010-06-08 09:31:24'
+  date_gmt: '2010-06-07 23:31:24'
+  id: '3099'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Should academics manually create course websites?
   url: /blog/2010/06/07/should-academics-manually-create-course-websites/
+template: blog-post.html
 title: Course websites and "libertarian paternalism"
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Should academics manually create course websites? &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 74.200.243.196
-      author_url: https://djon.es/blog/2010/06/07/should-academics-manually-create-course-websites/
-      content: '[...] (a) David Jones Another voice in the blogosphere    &laquo; Default
-        course sites and&nbsp;wizards  Course websites and &#8220;libertarian&nbsp;paternalism&#8221;
-        [...]'
-      date: '2010-06-08 09:31:24'
-      date_gmt: '2010-06-07 23:31:24'
-      id: '3099'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Stephen Downes [makes a valid point](http://www.downes.ca/cgi-bin/page.cgi?post=52617) about my recent question about whether or not academics [should manually create websites](/blog/2010/06/07/should-academics-manually-create-course-websites/). I agree with his underlying point that academics should not be forced to use the institutional approach. Given any option I would not suggest such an approach.
 

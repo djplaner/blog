@@ -1,68 +1,66 @@
----
+﻿---
 categories:
 - edc3100
 - moodle
-date: 2015-02-08 13:13:31+10:00
+comments:
+- approved: '1'
+  author: Layne
+  author_email: beetlecat@gmail.com
+  author_ip: 146.129.249.2
+  author_url: null
+  content: '20 years + 2 more years... This kind of stuff will *always* be with us.
+    ;)
+
+
+    Thanks for posting your findings, though. Simply finding out I needed to include  tags
+    around test import content was enough to make me happy!'
+  date: '2017-11-15 08:04:31'
+  date_gmt: '2017-11-14 22:04:31'
+  id: '10739'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2015-02-08 03:13:31
 next:
   text: Framing an open book as situated, social, distributed and protean
   url: /blog/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/
+pingbacks:
+- approved: '1'
+  author: How to help improve the Moodle book module | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.62
+  author_url: https://davidtjones.wordpress.com/2015/02/10/how-to-help-improve-the-moodle-book-module/
+  content: '[&#8230;] mentioned in the last post there are limitations in the Moodle
+    book module that are acting as a concrete lounge. The following [&#8230;]'
+  date: '2015-02-10 19:55:34'
+  date_gmt: '2015-02-10 09:55:34'
+  id: '1221'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Exploring Moodle book usage &#8211; part 4 &#8211; students and initial
+    use &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.180
+  author_url: https://davidtjones.wordpress.com/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/
+  content: '[&#8230;] My experience is that creating resources using the Book module
+    is not necessarily a straight forward process. I&#8217;ve kludged together various
+    tools and practices to reduce the difficulty, but I&#8217;ve heard other staff
+    give up on using the Book because they couldn&#8217;t. This has me wondering who
+    and how these Book resources have been created in other courses. [&#8230;]'
+  date: '2016-08-23 15:35:17'
+  date_gmt: '2016-08-23 05:35:17'
+  id: '1222'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Metaphors and organisational change
   url: /blog/2015/02/06/metaphors-and-organisational-change/
+template: blog-post.html
 title: Kludging an authoring process with Moodle books (almost)
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Layne
-      author_email: beetlecat@gmail.com
-      author_ip: 146.129.249.2
-      author_url: null
-      content: '20 years + 2 more years... This kind of stuff will *always* be with us.
-        ;)
-    
-    
-        Thanks for posting your findings, though. Simply finding out I needed to include  tags
-        around test import content was enough to make me happy!'
-      date: '2017-11-15 08:04:31'
-      date_gmt: '2017-11-14 22:04:31'
-      id: '10739'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: How to help improve the Moodle book module | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.62
-      author_url: https://davidtjones.wordpress.com/2015/02/10/how-to-help-improve-the-moodle-book-module/
-      content: '[&#8230;] mentioned in the last post there are limitations in the Moodle
-        book module that are acting as a concrete lounge. The following [&#8230;]'
-      date: '2015-02-10 19:55:34'
-      date_gmt: '2015-02-10 09:55:34'
-      id: '1221'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Exploring Moodle book usage &#8211; part 4 &#8211; students and initial
-        use &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.180
-      author_url: https://davidtjones.wordpress.com/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/
-      content: '[&#8230;] My experience is that creating resources using the Book module
-        is not necessarily a straight forward process. I&#8217;ve kludged together various
-        tools and practices to reduce the difficulty, but I&#8217;ve heard other staff
-        give up on using the Book because they couldn&#8217;t. This has me wondering who
-        and how these Book resources have been created in other courses. [&#8230;]'
-      date: '2016-08-23 15:35:17'
-      date_gmt: '2016-08-23 05:35:17'
-      id: '1222'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following outlines an attempt to evolve the authoring "process" I currently use with Moodle books into something a little more useful. It won't be the be all and end all of authoring process, just enough to solve the immediate problem I have. i.e. [bricolage](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset)
 
@@ -96,7 +94,7 @@ Suggesting that designing or selecting a single system (an outside-in approach) 
 
 As outlined in [a previous post](/blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/) and shown in the following screenshot my course uses ["Moodle books"](https://docs.moodle.org/28/en/Book_module). Each Moodle book tends to be focused on a specific task and generally is wrapped around external resources.
 
-[![Week1](images/16315335515_b91c408c98_m.jpg)](https://www.flickr.com/photos/david_jones/16315335515 "Week1 by David Jones, on Flickr")
+[![Week1](https://djon.es/assets/blog/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/images/16315335515_b91c408c98_m.jpg)](https://www.flickr.com/photos/david_jones/16315335515 "Week1 by David Jones, on Flickr")
 
 These books were originally written in HTML using the vi editor and manually imported into Moodle. Last year I made ad hoc changes by using the book module's "editing" interface. That's not a great process.
 

@@ -1,37 +1,34 @@
----
-date: 2008-10-15 16:30:27+10:00
+﻿---
+comments: []
+date: 2008-10-15 06:30:27
+pingbacks:
+- approved: '1'
+  author: 'Me as learner: 2015 and learning analytics | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.82.85
+  author_url: https://davidtjones.wordpress.com/2015/07/16/me-as-learner-2015-and-learning-analytics/
+  content: '[&#8230;] Publications [&#8230;]'
+  date: '2015-07-16 13:27:44'
+  date_gmt: '2015-07-16 03:27:44'
+  id: '1607'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Design of a BAD approach to developing TPACK | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.200
+  author_url: https://davidtjones.wordpress.com/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
+  content: '[&#8230;] Publications [&#8230;]'
+  date: '2015-09-06 12:35:32'
+  date_gmt: '2015-09-06 02:35:32'
+  id: '1608'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: Publications
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Me as learner: 2015 and learning analytics | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.82.85
-      author_url: https://davidtjones.wordpress.com/2015/07/16/me-as-learner-2015-and-learning-analytics/
-      content: '[&#8230;] Publications [&#8230;]'
-      date: '2015-07-16 13:27:44'
-      date_gmt: '2015-07-16 03:27:44'
-      id: '1607'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Design of a BAD approach to developing TPACK | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.200
-      author_url: https://davidtjones.wordpress.com/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
-      content: '[&#8230;] Publications [&#8230;]'
-      date: '2015-09-06 12:35:32'
-      date_gmt: '2015-09-06 02:35:32'
-      id: '1608'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following provides pointers to most of the publications I've produced over the year. The following contains some statistics about the publications before listing them by year of publication. If you want to see some citation metrics for these, take a look at [my Google scholar profile](http://scholar.google.com/citations?user=k8DkjXIqUl4J) (ORCID 0000-0002-3378-6826).
 

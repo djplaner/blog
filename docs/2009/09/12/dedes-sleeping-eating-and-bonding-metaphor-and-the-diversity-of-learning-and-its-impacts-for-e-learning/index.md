@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,40 +6,37 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-09-12 11:35:59+10:00
+comments: []
+date: 2009-09-12 01:35:59
 next:
   text: Getting started with CCK09
   url: /blog/2009/09/14/getting-started-with-cck09/
+pingbacks:
+- approved: '1'
+  author: What might the 3 levels of organisational culture reveal about university
+    e-learning | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.18
+  author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+  content: '[&#8230;] Consistency is generally a good thing for learning. Given the
+    institutional strategic plan putting some significant weight to personalisation,
+    creativity and innovation, having everything the same doesn&#8217;t seem appropriate.
+    Insights from research around learning, teaching, and educational technology would
+    seem to support that. e.g. some of the points from Chris Dede (Harvard Professor
+    of Education) mentioned in this post. [&#8230;]'
+  date: '2015-01-20 10:54:15'
+  date_gmt: '2015-01-20 00:54:15'
+  id: '2757'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #24: off to the crocodile form'
   url: /blog/2009/09/11/phd-update-24-off-to-the-crocodile-form/
+template: blog-post.html
 title: Dede's "sleeping, eating and bonding" metaphor and the diversity of learning
   and its impacts for e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: What might the 3 levels of organisational culture reveal about university
-        e-learning | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.18
-      author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
-      content: '[&#8230;] Consistency is generally a good thing for learning. Given the
-        institutional strategic plan putting some significant weight to personalisation,
-        creativity and innovation, having everything the same doesn&#8217;t seem appropriate.
-        Insights from research around learning, teaching, and educational technology would
-        seem to support that. e.g. some of the points from Chris Dede (Harvard Professor
-        of Education) mentioned in this post. [&#8230;]'
-      date: '2015-01-20 10:54:15'
-      date_gmt: '2015-01-20 00:54:15'
-      id: '2757'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Earlier this year I posted on [Disruption and the “mythic” technologies of education](/blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/) and my views about consistency and diversity when applied to learning, especially e-learning within universities.
 

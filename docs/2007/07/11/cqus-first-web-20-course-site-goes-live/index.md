@@ -1,109 +1,107 @@
----
+﻿---
 categories:
 - bam
 - web-20-course-sites
 - webfuse
-date: 2007-07-11 20:34:17+10:00
+comments:
+- approved: '1'
+  author: Xavier (RB Dev)
+  author_email: xshay@redbubble.com
+  author_ip: 150.101.157.6
+  author_url: http://www.redbubble.com/people/xshay
+  content: "\"\xE2\x80\x9CComment on this work\xE2\x80? link that is not within a\
+    \ paragraph tag which throws out the CSS.\"\nAiyee, you're right! I'll fix that\
+    \ for the next release..."
+  date: '2007-07-12 09:41:07'
+  date_gmt: '2007-07-11 23:41:07'
+  id: '1557'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: d.jones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.20.108
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: Xavier, that would be much appreciated.  You've also just provided a great
+    example of the beauty of a "web 2.0" world.
+  date: '2007-07-12 09:45:15'
+  date_gmt: '2007-07-11 23:45:15'
+  id: '1558'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2007-07-11 10:34:17
 next:
   text: Some short-term futures for learning @ CQU
   url: /blog/2007/07/11/some-short-term-futures-for-learning-cqu/
+pingbacks:
+- approved: '1'
+  author: What are the assumptions which PLEs/Learning 2.0 etc overthrow &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/
+  content: '[...] We have already started thinking and doing playing with how this
+    might change in terms of providing course websites with out first Web 2.0 course
+    site. [...]'
+  date: '2008-11-12 15:13:08'
+  date_gmt: '2008-11-12 05:13:08'
+  id: '1559'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
+    systems might go away &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 76.74.248.177
+  author_url: https://djon.es/blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
+  content: '[...] Scarcity of online services.Completely and utterly overthrown. Any
+    number of projects, mostly Edupunk projects, have shown you can effectively and
+    efficiently support an e-learning course using existing online services. I&#8217;ve
+    been involved in two such projects: BAM and Web 2.0 course sites. [...]'
+  date: '2009-02-25 08:46:07'
+  date_gmt: '2009-02-24 22:46:07'
+  id: '1560'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The protean nature of modern technology - another limitation of most views
+    of e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.24
+  author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
+  content: '[...] experiment with these possibilities was the Blog Aggregation (BAM)
+    Project. The second was the &#8220;web 2.0 course site&#8221; [...]'
+  date: '2009-03-06 08:54:38'
+  date_gmt: '2009-03-05 22:54:38'
+  id: '1561'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Design Rationale &#8211; ICTs for E-Learning A3 \u2013 Part 2 &laquo; The\
+    \ Weblog of (a) David Jones"
+  author_email: null
+  author_ip: 74.200.245.247
+  author_url: https://djon.es/blog/2011/06/05/design-rationale-icts-for-e-learning-a3-%e2%80%93-part-2/
+  content: '[...] Jones, D. (2007). CQU&#700;s first &#8220;web 2.0 course site&#8221;
+    goes live. Retrieved from https://djon.es/blog/2007/07/11/cqus-first-web-20-course-site-goes-live/.
+    [...]'
+  date: '2011-06-05 23:05:44'
+  date_gmt: '2011-06-05 13:05:44'
+  id: '1562'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Possible Futures v2.0
   url: /blog/2007/06/27/possible-futures-v20/
+template: blog-post.html
 title: CQU's first "web 2.0 course site" goes live
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Xavier (RB Dev)
-      author_email: xshay@redbubble.com
-      author_ip: 150.101.157.6
-      author_url: http://www.redbubble.com/people/xshay
-      content: "\"\xE2\x80\x9CComment on this work\xE2\x80? link that is not within a\
-        \ paragraph tag which throws out the CSS.\"\nAiyee, you're right! I'll fix that\
-        \ for the next release..."
-      date: '2007-07-12 09:41:07'
-      date_gmt: '2007-07-11 23:41:07'
-      id: '1557'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: d.jones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.20.108
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: Xavier, that would be much appreciated.  You've also just provided a great
-        example of the beauty of a "web 2.0" world.
-      date: '2007-07-12 09:45:15'
-      date_gmt: '2007-07-11 23:45:15'
-      id: '1558'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: What are the assumptions which PLEs/Learning 2.0 etc overthrow &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/
-      content: '[...] We have already started thinking and doing playing with how this
-        might change in terms of providing course websites with out first Web 2.0 course
-        site. [...]'
-      date: '2008-11-12 15:13:08'
-      date_gmt: '2008-11-12 05:13:08'
-      id: '1559'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
-        systems might go away &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 76.74.248.177
-      author_url: https://djon.es/blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
-      content: '[...] Scarcity of online services.Completely and utterly overthrown. Any
-        number of projects, mostly Edupunk projects, have shown you can effectively and
-        efficiently support an e-learning course using existing online services. I&#8217;ve
-        been involved in two such projects: BAM and Web 2.0 course sites. [...]'
-      date: '2009-02-25 08:46:07'
-      date_gmt: '2009-02-24 22:46:07'
-      id: '1560'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The protean nature of modern technology - another limitation of most views
-        of e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.24
-      author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
-      content: '[...] experiment with these possibilities was the Blog Aggregation (BAM)
-        Project. The second was the &#8220;web 2.0 course site&#8221; [...]'
-      date: '2009-03-06 08:54:38'
-      date_gmt: '2009-03-05 22:54:38'
-      id: '1561'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Design Rationale &#8211; ICTs for E-Learning A3 \u2013 Part 2 &laquo; The\
-        \ Weblog of (a) David Jones"
-      author_email: null
-      author_ip: 74.200.245.247
-      author_url: https://djon.es/blog/2011/06/05/design-rationale-icts-for-e-learning-a3-%e2%80%93-part-2/
-      content: '[...] Jones, D. (2007). CQU&#700;s first &#8220;web 2.0 course site&#8221;
-        goes live. Retrieved from https://djon.es/blog/2007/07/11/cqus-first-web-20-course-site-goes-live/.
-        [...]'
-      date: '2011-06-05 23:05:44'
-      date_gmt: '2011-06-05 13:05:44'
-      id: '1562'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Working with [Bernie Walker-Gibbs](http://fahe.cqu.edu.au/FCWViewer/staff.do?site=3&sid=WALKERBM), [CD&DU](http://webclass.cqu.edu.au/) has helped produce CQU's [first "web2.0 course site"](http://webfuse.cqu.edu.au/Courses/EDED11448/) for the course EDED11448, Creative Futuring. It's been [talked about previously](http://cq-pan.cqu.edu.au/david-jones/blog/?p=119). This post talks briefly about the purpose and initial experience.
 

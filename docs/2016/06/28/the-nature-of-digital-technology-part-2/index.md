@@ -1,143 +1,141 @@
----
+﻿---
 categories:
 - bad
 - digitalignorance
-date: 2016-06-28 11:38:11+10:00
+comments:
+- approved: '1'
+  author: damoclarky
+  author_email: d.clark@cqu.edu.au
+  author_ip: 138.77.33.117
+  author_url: null
+  content: "Hi David,\n\nHelpful blog post for me David. Mostly ill-structured (and\
+    \ probably ill-conceived) thoughts follow.\n\n\"Increasingly, a lot of the training\
+    \ and documentation provided to help users use digital technologies are recipes.\
+    \ They are step-by-step examples (with added screen shots ) of the recipe to follow\
+    \ to achieve this specific goal. If they don\u2019t have the recipe, or the recipe\
+    \ doesn\u2019t work then they are stuck. They don\u2019t have the conceptual models\
+    \ necessary to analyse and solve problems.\"\n\nNor are they able to use technologies\
+    \ in new and innovative ways.  If there is no recipe, then it's often perceived\
+    \ as not possible.\n\nThere also appears (at least to me) to be an irony in your\
+    \ blog post.  On the one hand, we have technology as unstable, with constant change\
+    \ occurring such as Apple iOS/Phone updates, or 6monthly Moodle releases.  Then\
+    \ on the other, we have:\n\n\"... commonplace notions of digital technologies\
+    \ that underpin both everyday life and research have a tendency to see them \u201C\
+    as relatively stable, discrete, independent, and fixed\u201D (Orlikowski &amp;\
+    \ Iacono, 2001, p. 121).\"\n\nIs it just perception that technology is not protean?\
+    \  There is a power differential at play.  Who owns technology?  Do you really\
+    \ \"own\" your iPhone?  What about the software on your iPhone?  What controls\
+    \ or restriction exist when you purchase something?  What about your organisation's\
+    \ OSS LMS software? It is very opaque, but who has permissions to change it?\n\
+    \nPart of the black box approach to technology is to deal with complexity.  Not\
+    \ in terms of complexity theory, but in terms of breaking big things into smaller\
+    \ things, thus making them easier to understand.  This is a typical human approach\
+    \ to problem solving.  If we were to alter the opacity of technological black\
+    \ boxes, how much complexity can we expect educators to cope with in then being\
+    \ able to leverage their own changes?\n\nPerhaps educators 'unpack' black boxes\
+    \ when they need to.  Furthermore, distributing the black boxes means that not\
+    \ every educator needs to understand the complexity of every black box.  But if\
+    \ they need to, they can.\n\n\"The increasing neo-liberal/corporatisation fetish\
+    \ within formal education on efficiency etc. appears to be placing an emphasis\
+    \ on refining what we already do. Dropping the dogmas of the quiet past would\
+    \ mean admitting that people had it wrong\u2026.etc.\_ It\u2019s difficult to\
+    \ see how such change will happen.\"\n\nWithout sounding too dramatic (or cynical),\
+    \ without industry-wide changes to how digital technology is viewed, are attempts\
+    \ to address the issues outlined in your blog post futile?\n\nHow do you bring\
+    \ about industry-wide change in attitude and thinking?\n\nDamo."
+  date: '2016-06-28 15:36:00'
+  date_gmt: '2016-06-28 05:36:00'
+  id: '3374'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 101.183.230.143
+  author_url: http://elketeaches.wordpress.com
+  content: 'It is great reading your progression of thoughts on this view of tech
+    in ed. It would be interesting to see how you might actually implement this if
+    you had control over a school or ed dept; have any schools, organisations actually
+    tried to do something different or are they all followers of the data-driven norm?
+
+
+    I need to get my hands on the Fafei et al (2014) article. I read your last section
+    above and it rings true to my experience of teaching a very graphic-dev focused
+    ITS subject this year. I spent a whole semester having to teach Photoshop &amp;
+    this left me feeling like all I had succeeded in doing was teaching students a
+    combo of menu/option clicks (recipes). I was supposed to teach 14 weeks of Excel
+    to Year 9 students and quickly re-designed the subject to a more computer programming
+    focus including physical programming. Photoshop &amp; Excel have value but imo
+    they don''t teach you about all of the possibilities in dig tech, instead they
+    give us a narrow understanding of what can be expected. I plan to include wearables
+    (e-textiles) using AdaFruit neopixels etc. -&gt; students want to make physical
+    stuff &amp; I think they should have to problem solve their way through this while
+    also learning how tech actually works. The Fafei article seems to fit with what
+    I''ve been designing/thinking this past semester.'
+  date: '2016-07-03 08:48:29'
+  date_gmt: '2016-07-02 22:48:29'
+  id: '3376'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 101.183.230.143
+  author_url: http://elketeaches.wordpress.com
+  content: 'Reblogged this on <a href="https://elketeaches.wordpress.com/2016/07/03/the-nature-of-digital-technology-part-2/"
+    rel="nofollow">elketeaches</a> and commented:
+
+    Like!
+
+    '
+  date: '2016-07-03 08:50:42'
+  date_gmt: '2016-07-02 22:50:42'
+  id: '3377'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2016-06-28 01:38:11
 next:
   text: Nature of digital technology? Part 2 - expansion
   url: /blog/2016/06/29/nature-of-digital-technology-part-2-expansion/
+pingbacks:
+- approved: '1'
+  author: Nature of digital technology? Part 2 &#8211; expansion &#8211; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.14
+  author_url: https://davidtjones.wordpress.com/2016/06/29/nature-of-digital-technology-part-2-expansion/
+  content: '[&#8230;] has commented on yesterday&#8217;s Part 2 post. A comment that&#8217;s
+    sparked a bit of thinking. I&#8217;ve [&#8230;]'
+  date: '2016-06-29 09:16:03'
+  date_gmt: '2016-06-28 23:16:03'
+  id: '3375'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Planning an EDC3100 &#8220;installfest&#8221; &#8211; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.99.93
+  author_url: https://davidtjones.wordpress.com/2016/07/07/planning-an-edc3100-installfest/
+  content: '[&#8230;] Trying to help students develop an appreciation of the value
+    of developing conceptual models of how a technology works, moving beyond recipe
+    following. [&#8230;]'
+  date: '2016-07-07 14:43:07'
+  date_gmt: '2016-07-07 04:43:07'
+  id: '3378'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What is the nature of digital technology? Part 1
   url: /blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/
+template: blog-post.html
 title: The nature of digital technology? Part 2
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: damoclarky
-      author_email: d.clark@cqu.edu.au
-      author_ip: 138.77.33.117
-      author_url: null
-      content: "Hi David,\n\nHelpful blog post for me David. Mostly ill-structured (and\
-        \ probably ill-conceived) thoughts follow.\n\n\"Increasingly, a lot of the training\
-        \ and documentation provided to help users use digital technologies are recipes.\
-        \ They are step-by-step examples (with added screen shots ) of the recipe to follow\
-        \ to achieve this specific goal. If they don\u2019t have the recipe, or the recipe\
-        \ doesn\u2019t work then they are stuck. They don\u2019t have the conceptual models\
-        \ necessary to analyse and solve problems.\"\n\nNor are they able to use technologies\
-        \ in new and innovative ways.  If there is no recipe, then it's often perceived\
-        \ as not possible.\n\nThere also appears (at least to me) to be an irony in your\
-        \ blog post.  On the one hand, we have technology as unstable, with constant change\
-        \ occurring such as Apple iOS/Phone updates, or 6monthly Moodle releases.  Then\
-        \ on the other, we have:\n\n\"... commonplace notions of digital technologies\
-        \ that underpin both everyday life and research have a tendency to see them \u201C\
-        as relatively stable, discrete, independent, and fixed\u201D (Orlikowski &amp;\
-        \ Iacono, 2001, p. 121).\"\n\nIs it just perception that technology is not protean?\
-        \  There is a power differential at play.  Who owns technology?  Do you really\
-        \ \"own\" your iPhone?  What about the software on your iPhone?  What controls\
-        \ or restriction exist when you purchase something?  What about your organisation's\
-        \ OSS LMS software? It is very opaque, but who has permissions to change it?\n\
-        \nPart of the black box approach to technology is to deal with complexity.  Not\
-        \ in terms of complexity theory, but in terms of breaking big things into smaller\
-        \ things, thus making them easier to understand.  This is a typical human approach\
-        \ to problem solving.  If we were to alter the opacity of technological black\
-        \ boxes, how much complexity can we expect educators to cope with in then being\
-        \ able to leverage their own changes?\n\nPerhaps educators 'unpack' black boxes\
-        \ when they need to.  Furthermore, distributing the black boxes means that not\
-        \ every educator needs to understand the complexity of every black box.  But if\
-        \ they need to, they can.\n\n\"The increasing neo-liberal/corporatisation fetish\
-        \ within formal education on efficiency etc. appears to be placing an emphasis\
-        \ on refining what we already do. Dropping the dogmas of the quiet past would\
-        \ mean admitting that people had it wrong\u2026.etc.\_ It\u2019s difficult to\
-        \ see how such change will happen.\"\n\nWithout sounding too dramatic (or cynical),\
-        \ without industry-wide changes to how digital technology is viewed, are attempts\
-        \ to address the issues outlined in your blog post futile?\n\nHow do you bring\
-        \ about industry-wide change in attitude and thinking?\n\nDamo."
-      date: '2016-06-28 15:36:00'
-      date_gmt: '2016-06-28 05:36:00'
-      id: '3374'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 101.183.230.143
-      author_url: http://elketeaches.wordpress.com
-      content: 'It is great reading your progression of thoughts on this view of tech
-        in ed. It would be interesting to see how you might actually implement this if
-        you had control over a school or ed dept; have any schools, organisations actually
-        tried to do something different or are they all followers of the data-driven norm?
-    
-    
-        I need to get my hands on the Fafei et al (2014) article. I read your last section
-        above and it rings true to my experience of teaching a very graphic-dev focused
-        ITS subject this year. I spent a whole semester having to teach Photoshop &amp;
-        this left me feeling like all I had succeeded in doing was teaching students a
-        combo of menu/option clicks (recipes). I was supposed to teach 14 weeks of Excel
-        to Year 9 students and quickly re-designed the subject to a more computer programming
-        focus including physical programming. Photoshop &amp; Excel have value but imo
-        they don''t teach you about all of the possibilities in dig tech, instead they
-        give us a narrow understanding of what can be expected. I plan to include wearables
-        (e-textiles) using AdaFruit neopixels etc. -&gt; students want to make physical
-        stuff &amp; I think they should have to problem solve their way through this while
-        also learning how tech actually works. The Fafei article seems to fit with what
-        I''ve been designing/thinking this past semester.'
-      date: '2016-07-03 08:48:29'
-      date_gmt: '2016-07-02 22:48:29'
-      id: '3376'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 101.183.230.143
-      author_url: http://elketeaches.wordpress.com
-      content: 'Reblogged this on <a href="https://elketeaches.wordpress.com/2016/07/03/the-nature-of-digital-technology-part-2/"
-        rel="nofollow">elketeaches</a> and commented:
-    
-        Like!
-    
-        '
-      date: '2016-07-03 08:50:42'
-      date_gmt: '2016-07-02 22:50:42'
-      id: '3377'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Nature of digital technology? Part 2 &#8211; expansion &#8211; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.14
-      author_url: https://davidtjones.wordpress.com/2016/06/29/nature-of-digital-technology-part-2-expansion/
-      content: '[&#8230;] has commented on yesterday&#8217;s Part 2 post. A comment that&#8217;s
-        sparked a bit of thinking. I&#8217;ve [&#8230;]'
-      date: '2016-06-29 09:16:03'
-      date_gmt: '2016-06-28 23:16:03'
-      id: '3375'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Planning an EDC3100 &#8220;installfest&#8221; &#8211; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.99.93
-      author_url: https://davidtjones.wordpress.com/2016/07/07/planning-an-edc3100-installfest/
-      content: '[&#8230;] Trying to help students develop an appreciation of the value
-        of developing conceptual models of how a technology works, moving beyond recipe
-        following. [&#8230;]'
-      date: '2016-07-07 14:43:07'
-      date_gmt: '2016-07-07 04:43:07'
-      id: '3378'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is a followup to yesterday's [Part 1 post](/blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/) and a continuation of an attempt to describe the nature of digital technology and to think about what this might reveal about how and what is being done by formal education has it attempts to use digital technology for learning and teaching. This post moves from the fundamental properties of digital technologies (yesterday's focus) to what some suggest is that nature of digital technologies.
 
@@ -147,9 +145,9 @@ This is a followup to yesterday's [Part 1 post](/blog/2016/06/27/what-is-the-nat
 
 [Yesterday's post](/blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/) aimed to open up the black box of digital technology a touch by explaining the two fundamental properties (data homogenization and reprorammability) of digital technology proposed by Yoo, Boland, Lyytinen, and Majchrzak (2012).  This was original represented using this image.
 
-[![Fundamental Properties](images/27923903105_4d8b529e0f.jpg)](https://www.flickr.com/photos/david_jones/27923903105/in/dateposted-public/ "Fundamental Properties")
+[![Fundamental Properties](https://djon.es/assets/blog/2016/06/28/the-nature-of-digital-technology-part-2/images/27923903105_4d8b529e0f.jpg)](https://www.flickr.com/photos/david_jones/27923903105/in/dateposted-public/ "Fundamental Properties")
 
-I don't think the image makes the point that these are fundamental properties of the black box, the digital technology. Hence, the following revised image. The idea being is that data homogenization and reprogrammability are properties that are "baked into" digital technology.  Identifying these properties has opened up the black box a little. This is going to be useful as I attempt to develop the model of digital technology further. [![Fundamental Properties embedded](images/27668826910_4b6146a2da.jpg)](https://www.flickr.com/photos/david_jones/27668826910/in/dateposted-public/ "Fundamental Properties embedded")
+I don't think the image makes the point that these are fundamental properties of the black box, the digital technology. Hence, the following revised image. The idea being is that data homogenization and reprogrammability are properties that are "baked into" digital technology.  Identifying these properties has opened up the black box a little. This is going to be useful as I attempt to develop the model of digital technology further. [![Fundamental Properties embedded](https://djon.es/assets/blog/2016/06/28/the-nature-of-digital-technology-part-2/images/27668826910_4b6146a2da.jpg)](https://www.flickr.com/photos/david_jones/27668826910/in/dateposted-public/ "Fundamental Properties embedded")
 
 ## Nature of digital technologies
 
@@ -161,7 +159,7 @@ As they argue the combination of protean, unstable, and opaque makes the use of 
 
 The following representation (I'm not a designer by any stretch of the imagination) is attempting to illustrate that this "nature" of digital technology sits above (or perhaps build upon or become possible due to) the fundamental properties introduced in the last post.
 
-[![Nature of Digital Technology](images/27871351151_63684fb636.jpg)](https://www.flickr.com/photos/david_jones/27871351151/in/dateposted-public/ "Nature of Digital Technology")
+[![Nature of Digital Technology](https://djon.es/assets/blog/2016/06/28/the-nature-of-digital-technology-part-2/images/27871351151_63684fb636.jpg)](https://www.flickr.com/photos/david_jones/27871351151/in/dateposted-public/ "Nature of Digital Technology")
 
 ### Unstable
 
@@ -177,7 +175,7 @@ Koehler and Mishra (2009) draw on Turkle (1995) to define opaque as "the inner w
 
 their computer systems encouraged them to represent their understanding of the technology as knowledge of what lay beneath the screen surface. They were encouraged to think of understanding as looking beyond the magic to the mechanism. [(p. 23)](https://books.google.com.au/books?hl=en&lr=&id=auXlqr6b2ZUC&oi=fnd&pg=PA9&dq=the+inner+workings+are+hidden+from+users+Turkle+1995&ots=zXp9QNYo42&sig=4k7KNNhROggwXzP1bQr4L2k4eYU#v=onepage&q=opaque&f=false)
 
-Earlier this year, as part of an introductory activity, I asked students to find and share an image (or other form of multimedia) that captured how they felt about digital technologies. The following captures just some of the images shared, and also captures a fairly widespread consensus of how these pre-service educators felt about digital technology. I'm guessing that it resonates with quite a few people. [![Perceptions of computers](images/27871979351_e81508a612.jpg)](https://www.flickr.com/photos/david_jones/27871979351/in/dateposted-public/ "Perceptions of computers") The increasingly opaque nature of digital technology combined with our increasing reliance on digital technologies in most parts of our everyday life would seem to have something to do this sense of frustration. Ben-Ari and Yeshno (2006) found that people with appropriate conceptual models of digital technologies were better able to analyse and solve problems. While learners without appropriate conceptual models were limited to aimless trial and error. I suggest that it is the aimless trial and error, due to a inappropriate conceptual model of how a digital technology works, is what creates the feelings of frustration illustrated by the above image.
+Earlier this year, as part of an introductory activity, I asked students to find and share an image (or other form of multimedia) that captured how they felt about digital technologies. The following captures just some of the images shared, and also captures a fairly widespread consensus of how these pre-service educators felt about digital technology. I'm guessing that it resonates with quite a few people. [![Perceptions of computers](https://djon.es/assets/blog/2016/06/28/the-nature-of-digital-technology-part-2/images/27871979351_e81508a612.jpg)](https://www.flickr.com/photos/david_jones/27871979351/in/dateposted-public/ "Perceptions of computers") The increasingly opaque nature of digital technology combined with our increasing reliance on digital technologies in most parts of our everyday life would seem to have something to do this sense of frustration. Ben-Ari and Yeshno (2006) found that people with appropriate conceptual models of digital technologies were better able to analyse and solve problems. While learners without appropriate conceptual models were limited to aimless trial and error. I suggest that it is the aimless trial and error, due to a inappropriate conceptual model of how a digital technology works, is what creates the feelings of frustration illustrated by the above image.
 
 ### Protean
 

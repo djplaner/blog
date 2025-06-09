@@ -1,64 +1,61 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-07-29 14:19:32+10:00
+comments: []
+date: 2014-07-29 04:19:32
 next:
   text: A bit more exploration of identity
   url: /blog/2014/07/29/a-bit-more-exploration-of-identity/
+pingbacks:
+- approved: '1'
+  author: Some readings on networked learning | Education...
+  author_email: null
+  author_ip: 89.30.118.151
+  author_url: http://www.scoop.it/t/educational-leadership-and-technology/p/4025760118/2014/08/04/some-readings-on-networked-learning
+  content: '[&#8230;] What follows is some ad hoc thoughts and reflections upon the
+    somewhat ad hoc collection of readings (Kligyte, 2009; Bonzo &amp; Parchoma, 2010;
+    Bell, 2010) around networked learning from Week 1 of...&nbsp; [&#8230;]'
+  date: '2014-08-05 06:18:06'
+  date_gmt: '2014-08-04 20:18:06'
+  id: '1016'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Some readings on networked learning | blended l...
+  author_email: null
+  author_ip: 89.30.118.151
+  author_url: http://www.scoop.it/t/blended-learning-by-v-kukharenko/p/4025773117/2014/08/05/some-readings-on-networked-learning
+  content: '[&#8230;] What follows is some ad hoc thoughts and reflections upon the
+    somewhat ad hoc collection of readings (Kligyte, 2009; Bonzo &amp; Parchoma, 2010;
+    Bell, 2010) around networked learning from Week 1 of...&nbsp; [&#8230;]'
+  date: '2014-08-05 15:20:57'
+  date_gmt: '2014-08-05 05:20:57'
+  id: '1017'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: One process for the NGL course | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.57
+  author_url: https://djon.es/blog/2014/08/25/one-process-for-the-ngl-course/
+  content: "[&#8230;] an important part of the \u201Csense\u201D phase is to write\
+    \ summary blogs of any readings. For example, this one. These are meant not to\
+    \ only give a summary of the reading, but also to record my initial reactions\
+    \ [&#8230;]"
+  date: '2014-08-25 11:41:22'
+  date_gmt: '2014-08-25 01:41:22'
+  id: '1018'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Creating the EDC3100 OPML files
   url: /blog/2014/07/28/creating-the-edc3100-opml-files/
+template: blog-post.html
 title: Some readings on networked learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Some readings on networked learning | Education...
-      author_email: null
-      author_ip: 89.30.118.151
-      author_url: http://www.scoop.it/t/educational-leadership-and-technology/p/4025760118/2014/08/04/some-readings-on-networked-learning
-      content: '[&#8230;] What follows is some ad hoc thoughts and reflections upon the
-        somewhat ad hoc collection of readings (Kligyte, 2009; Bonzo &amp; Parchoma, 2010;
-        Bell, 2010) around networked learning from Week 1 of...&nbsp; [&#8230;]'
-      date: '2014-08-05 06:18:06'
-      date_gmt: '2014-08-04 20:18:06'
-      id: '1016'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Some readings on networked learning | blended l...
-      author_email: null
-      author_ip: 89.30.118.151
-      author_url: http://www.scoop.it/t/blended-learning-by-v-kukharenko/p/4025773117/2014/08/05/some-readings-on-networked-learning
-      content: '[&#8230;] What follows is some ad hoc thoughts and reflections upon the
-        somewhat ad hoc collection of readings (Kligyte, 2009; Bonzo &amp; Parchoma, 2010;
-        Bell, 2010) around networked learning from Week 1 of...&nbsp; [&#8230;]'
-      date: '2014-08-05 15:20:57'
-      date_gmt: '2014-08-05 05:20:57'
-      id: '1017'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: One process for the NGL course | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.57
-      author_url: https://djon.es/blog/2014/08/25/one-process-for-the-ngl-course/
-      content: "[&#8230;] an important part of the \u201Csense\u201D phase is to write\
-        \ summary blogs of any readings. For example, this one. These are meant not to\
-        \ only give a summary of the reading, but also to record my initial reactions\
-        \ [&#8230;]"
-      date: '2014-08-25 11:41:22'
-      date_gmt: '2014-08-25 01:41:22'
-      id: '1018'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 What follows is some ad hoc thoughts and reflections upon the somewhat ad hoc collection of readings (Kligyte, 2009; Bonzo & Parchoma, 2010; Bell, 2010) around networked learning from [Week 1 of the NGL course](https://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/#readings).
 

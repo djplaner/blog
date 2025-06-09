@@ -1,89 +1,86 @@
----
+﻿---
 categories:
 - edc3100
 - teaching
-date: 2013-04-01 10:56:45+10:00
+comments:
+- approved: '1'
+  author: Robyn Crisp
+  author_email: robynacrisp@gmail.com
+  author_ip: 144.137.74.81
+  author_url: http://www.facebook.com/robyn.crisp.50
+  content: 'Hi David as one of your  327 students, I imagine as a  newbie to ICTs  I
+    sit  somewhere,on or below the average percentiles you  refer to. However despite
+    the rubric and grading systems designed to  measure our learning, that may not
+    in retrospect  reflect the responses you aim for, don''t be deceived- many of
+    us are on a high learning curve- a trapeze at times, BUT we are still on board,
+    and grateful ,despite the stress,for we see a vision forward that embraces ICTs.
+
+    Kind regards Robyn.'
+  date: '2013-04-05 12:53:48'
+  date_gmt: '2013-04-05 02:53:48'
+  id: '662'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 144.137.165.242
+  author_url: https://djon.es/blog/
+  content: G'day Robyn,  Thanks for taking the time to read and respond to the above.
+    It's always a buzz to hear from the students upon which these plans are being
+    implemented.  Good to hear about the learning curve. Sorry about the stress, but
+    then I am always in two minds about the stress side of the equation. Not sure
+    you can have learning without the stress, but on the other hand those systems
+    we put in place shouldn't contribute to the stress.  I'm learning as much as you
+    are from this experience.  David.
+  date: '2013-04-05 14:08:57'
+  date_gmt: '2013-04-05 04:08:57'
+  id: '663'
+  parent: '662'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Robyn Crisp
+  author_email: robynacrisp@gmail.com
+  author_ip: 144.137.74.81
+  author_url: http://www.facebook.com/robyn.crisp.50
+  content: "Hi David , I suspect you may find that many of your students flit through\
+    \ this and other professional blogs, with a quick peruse here and there leading\
+    \ us all  down a path of investigation, building our knowledge and eventually\
+    \  finding we begin to apply the insights   constructing  ideas elsewhere. It\
+    \ is an interesting medium-\"blogging\". Putting a blossoming idea out there in\
+    \ the ethos, from my perspective at least , takes a certain amount of courage\
+    \  or naivety,- depending on others  viewpoint. In some respects it goes against\
+    \ the natural rhythm  many of us associate  with the construction of dialogs.From\
+    \ where I sit now and in the recent past, I am driven by the journey with  the\
+    \ blurred destination  many  links ,blogs and tools away.Learning to  slowly relax\
+    \ and embrace the role of both the driver and passenger - the instigator and \
+    \ collaborator of the  learning  trip.\nTime precludes  responding  to each and\
+    \ every  idea  we read ,hear or share. Which brings me back to  the beginning\
+    \ for whislt I may  have posted this reponse  to your blog  there are many more\
+    \ of your students reading, who equally gain  in   a more reflective and quiet\
+    \ manner.\nBack to my  uni blogging for me  now. I will  pop by and check out\
+    \    your ideas from time  to time - until then , to you and any of your readers\
+    \ who care to do so  you may find me at ,\nhttp://robyn65.edublogs.org/\n Kind\
+    \ regards Robyn"
+  date: '2013-04-05 16:55:40'
+  date_gmt: '2013-04-05 06:55:40'
+  id: '664'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2013-04-01 00:56:45
 next:
   text: Adding bim 2.0 to "CONTRIB"
   url: /blog/2013/04/05/adding-bim-2-0-to-contrib/
+pingbacks: []
 previous:
   text: Does institutional e-learning have a TPACK problem?
   url: /blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
+template: blog-post.html
 title: Meaningless freedom and auto-marking the learning journals
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Robyn Crisp
-      author_email: robynacrisp@gmail.com
-      author_ip: 144.137.74.81
-      author_url: http://www.facebook.com/robyn.crisp.50
-      content: 'Hi David as one of your  327 students, I imagine as a  newbie to ICTs  I
-        sit  somewhere,on or below the average percentiles you  refer to. However despite
-        the rubric and grading systems designed to  measure our learning, that may not
-        in retrospect  reflect the responses you aim for, don''t be deceived- many of
-        us are on a high learning curve- a trapeze at times, BUT we are still on board,
-        and grateful ,despite the stress,for we see a vision forward that embraces ICTs.
-    
-        Kind regards Robyn.'
-      date: '2013-04-05 12:53:48'
-      date_gmt: '2013-04-05 02:53:48'
-      id: '662'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 144.137.165.242
-      author_url: https://djon.es/blog/
-      content: G'day Robyn,  Thanks for taking the time to read and respond to the above.
-        It's always a buzz to hear from the students upon which these plans are being
-        implemented.  Good to hear about the learning curve. Sorry about the stress, but
-        then I am always in two minds about the stress side of the equation. Not sure
-        you can have learning without the stress, but on the other hand those systems
-        we put in place shouldn't contribute to the stress.  I'm learning as much as you
-        are from this experience.  David.
-      date: '2013-04-05 14:08:57'
-      date_gmt: '2013-04-05 04:08:57'
-      id: '663'
-      parent: '662'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Robyn Crisp
-      author_email: robynacrisp@gmail.com
-      author_ip: 144.137.74.81
-      author_url: http://www.facebook.com/robyn.crisp.50
-      content: "Hi David , I suspect you may find that many of your students flit through\
-        \ this and other professional blogs, with a quick peruse here and there leading\
-        \ us all  down a path of investigation, building our knowledge and eventually\
-        \  finding we begin to apply the insights   constructing  ideas elsewhere. It\
-        \ is an interesting medium-\"blogging\". Putting a blossoming idea out there in\
-        \ the ethos, from my perspective at least , takes a certain amount of courage\
-        \  or naivety,- depending on others  viewpoint. In some respects it goes against\
-        \ the natural rhythm  many of us associate  with the construction of dialogs.From\
-        \ where I sit now and in the recent past, I am driven by the journey with  the\
-        \ blurred destination  many  links ,blogs and tools away.Learning to  slowly relax\
-        \ and embrace the role of both the driver and passenger - the instigator and \
-        \ collaborator of the  learning  trip.\nTime precludes  responding  to each and\
-        \ every  idea  we read ,hear or share. Which brings me back to  the beginning\
-        \ for whislt I may  have posted this reponse  to your blog  there are many more\
-        \ of your students reading, who equally gain  in   a more reflective and quiet\
-        \ manner.\nBack to my  uni blogging for me  now. I will  pop by and check out\
-        \    your ideas from time  to time - until then , to you and any of your readers\
-        \ who care to do so  you may find me at ,\nhttp://robyn65.edublogs.org/\n Kind\
-        \ regards Robyn"
-      date: '2013-04-05 16:55:40'
-      date_gmt: '2013-04-05 06:55:40'
-      id: '664'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 The course I'm teaching requires each student to create and user an individual blog. The blog should be created on an external blogging platform of their choice and used to reflect on their learning in whatever way they see fit. There are a couple of constraints around regularity (at least 2/3 posts a week), length (average of 100 words), links to resources (60% with links to online resources), and links to other student blogs (2 of all posts over a 3 week period). All this is meant to be automatically marked.
 
@@ -176,4 +173,4 @@ Question is whether this is a problem with my kludges, or the students haven't r
 
 The following is the latest Gephi visualisation of the links between student blogs. A bit more complex than the last one, but obviously connections aren't a priority.
 
-[![Blog connections - EDC3100 1 April](images/8607360775_f6ca9c1bee_n.jpg)](http://www.flickr.com/photos/david_jones/8607360775/ "Blog connections - EDC3100 1 April by David T Jones, on Flickr")
+[![Blog connections - EDC3100 1 April](https://djon.es/assets/blog/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/images/8607360775_f6ca9c1bee_n.jpg)](http://www.flickr.com/photos/david_jones/8607360775/ "Blog connections - EDC3100 1 April by David T Jones, on Flickr")

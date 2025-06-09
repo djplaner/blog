@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - blackboardindicators
 - elearning
-date: 2009-03-12 13:47:38+10:00
+date: 2009-03-12 03:47:38
 next:
   text: Moving from scarcity to abundance changes things - music
   url: /blog/2009/03/12/moving-from-scarcity-to-abundance-changes-things-music/
@@ -10,9 +10,9 @@ previous:
   text: Messiness of information systems - another reason institutional e-learning
     struggles
   url: /blog/2009/03/12/messiness-of-information-systems-another-reason-institutional-e-learning-struggles/
+template: blog-post.html
 title: Another perspective for the indicators project
 type: post
-template: blog-post.html
 ---
 [The indicators project](http://beerc.wordpress.com/2008/12/21/more-on-the-indicators/) is seeking to mine data in the system logs of a learning management system (LMS) in order to generate useful information. One of the major problems the project is facing is how turn the mountains of data into something useful. This post outlines another potential track based on some findings from Lee et al (2007).
 

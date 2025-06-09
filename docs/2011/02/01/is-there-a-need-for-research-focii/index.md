@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-02-01 16:23:07+10:00
+date: 2011-02-01 06:23:07
 next:
   text: Some stories from teaching awards
   url: /blog/2011/02/02/some-stories-from-teaching-awards/
 previous:
   text: NAPLAN tests, task corruption and teaching to the test
   url: /blog/2011/02/01/naplan-tests-task-corruption-and-teaching-to-the-test/
+template: blog-post.html
 title: Is there a need for research focii?
 type: post
-template: blog-post.html
 ---
 For almost 10 years now I have been hearing within higher education things like
 

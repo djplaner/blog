@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - chapter-3
 - information-systems
 - missingps
 - thesis
-date: 2009-01-18 16:18:18+10:00
+date: 2009-01-18 06:18:18
 next:
   text: Why am I a ePortfolio skeptic?
   url: /blog/2009/01/21/why-am-i-a-eportfolio-skeptic/
 previous:
   text: Using metaphor to examine diversity (or lack thereof) in research
   url: /blog/2009/01/16/using-metaphor-to-examine-diversity-or-lack-thereof-in-research/
+template: blog-post.html
 title: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
 type: post
-template: blog-post.html
 ---
 In a [previous post](/blog/2009/01/16/using-metaphor-to-examine-diversity-or-lack-thereof-in-research/) I pointed to and summarised a working paper that suggests that IS research is not all that diverse. At least at the conceptual level.
 

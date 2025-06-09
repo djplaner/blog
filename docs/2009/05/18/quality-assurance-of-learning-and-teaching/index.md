@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - reflectivealignment
-date: 2009-05-18 17:11:10+10:00
+date: 2009-05-18 07:11:10
 next:
   text: Diagnosing and recording a problem with BAM
   url: /blog/2009/05/19/diagnosing-and-recording-a-problem-with-bam/
 previous:
   text: Over emphasis on design and bugger all on maintenance
   url: /blog/2009/05/18/over-emphasis-on-design-and-bugger-all-on-maintenance/
+template: blog-post.html
 title: Quality assurance of learning and teaching
 type: post
-template: blog-post.html
 ---
 [AUQA](http://www.auqa.edu.au) is coming. Eventually most Australian universities will receive a second visit from AUQA. As such visitations come closer increasing levels of thought are given to demonstrating quality. What does it mean to demonstrate quality of learning and teaching?
 

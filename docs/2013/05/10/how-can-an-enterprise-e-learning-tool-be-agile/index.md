@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - elearning
-date: 2013-05-10 16:05:53+10:00
+date: 2013-05-10 06:05:53
 next:
   text: '"Moodle, BIM, reflective journals and TPACK: Suggestions for moving beyond"'
   url: /blog/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/
 previous:
   text: Everything old is new again
   url: /blog/2013/05/04/everything-old-is-new-again/
+template: blog-post.html
 title: How can an "enterprise" e-learning tool be agile?
 type: post
-template: blog-post.html
 ---
 I have a problem. If I'm really lucky, [BIM](/blog/research/bam-blog-aggregation-management/) will get added to my institution's version of BIM for Semester 2 and I will be able to use it. Based on my experience this semester - where I've used an approach that depends on BIM - there has been limitations and workload issues. Having BIM installed in the "enterprise LMS" will help significantly reduce these problems. It will also severely limit my ability to learn.
 

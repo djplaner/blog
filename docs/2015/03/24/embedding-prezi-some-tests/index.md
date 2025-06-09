@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2015-03-24 11:25:14+10:00
+date: 2015-03-24 01:25:14
 next:
   text: My example assignment 1 web-based artefact
   url: /blog/2015/03/25/my-example-assignment-1-web-based-artefact/
@@ -10,9 +10,9 @@ previous:
   url: /blog/2015/03/23/ways-to-raise-visiblity-of-unit-planning/
 tags:
 - edc3100
+template: blog-post.html
 title: Embedding prezi - some tests
 type: post
-template: blog-post.html
 ---
 A student of mine is reporting problems embedding a Prezi into a blog post. Here's a quick test.
 

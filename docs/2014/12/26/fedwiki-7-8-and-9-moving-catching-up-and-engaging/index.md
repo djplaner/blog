@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2014-12-26 11:29:22+10:00
+date: 2014-12-26 01:29:22
 next:
   text: '"Random #fedwikihappening ramblings"'
   url: /blog/2014/12/29/random-fedwikihappening-ramblings/
 previous:
   text: 'FedWiki Daily #6 - Mining, fracking and exploring the process'
   url: /blog/2014/12/19/software-issues-for-applying-conversation-theory-for-effective-collaboration-via-the-internet/
+template: blog-post.html
 title: FedWiki 7, 8 and 9 - Moving, catching up and engaging
 type: post
-template: blog-post.html
 ---
 Thanks to the good folk of @reclaimhosting I know have a FedWiki working as part of my own domain - [http://fedwiki.djon.es/](http://fedwiki.djon.es/). That's the good news. The bad news is that the move creates two problems
 
@@ -39,7 +39,7 @@ Done.
 
 Have been replying to [this comment](/blog/2014/12/16/initial-steps-with-the-fedwikihappening-happening/#comment-7086) on an earlier post and have noticed folk have figured out how to change the icon used to indicate forking etc.
 
-[![Happening Folks and fancy icons](images/15889765170_bd1d548df7.jpg)](https://www.flickr.com/photos/david_jones/15889765170 "Happening Folks and fancy icons by David Jones, on Flickr")
+[![Happening Folks and fancy icons](https://djon.es/assets/blog/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/images/15889765170_bd1d548df7.jpg)](https://www.flickr.com/photos/david_jones/15889765170 "Happening Folks and fancy icons by David Jones, on Flickr")
 
 Will have to figure out/come across how to do that in this session. Documented toward the end of [this blog post](http://blog.jasongreen.net/2014/08/personal-wikis-a-how-to-including-better-icons/). Requires access to the file system and using that to replace an icon.
 

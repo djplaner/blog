@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - moodle
 - moodleopenbook
 - openbook
-date: 2015-08-14 17:36:42+10:00
+comments: []
+date: 2015-08-14 07:36:42
 next:
   text: github and the Moodle book - Step 2
   url: /blog/2015/08/16/github-and-the-moodle-book-step-2/
+pingbacks:
+- approved: '1'
+  author: github and the Moodle book &#8211; Step 2 | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.169
+  author_url: https://davidtjones.wordpress.com/2015/08/16/github-and-the-moodle-book-step-2/
+  content: '[&#8230;] continuing story of linking github and the Moodle book module.
+    Following on from step 1 the main aim here is to grok the PHP client for the github
+    api I&#8217;m currently [&#8230;]'
+  date: '2015-08-16 17:27:59'
+  date_gmt: '2015-08-16 07:27:59'
+  id: '1374'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: github and the Moodle &#8211; Step 3 | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.160
+  author_url: https://davidtjones.wordpress.com/2015/08/20/github-and-the-moodle-step-3/
+  content: '[&#8230;] Explored how to complete various required tasks with that API
+    from command line php. [&#8230;]'
+  date: '2015-08-22 16:04:33'
+  date_gmt: '2015-08-22 06:04:33'
+  id: '1375'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Homogeneity: the inevitable result of a strategic approach?'
   url: /blog/2015/08/14/homogeneity-the-inevitable-result-of-a-strategic-approach/
+template: blog-post.html
 title: Bringing github and the Moodle book module together - step 1
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: github and the Moodle book &#8211; Step 2 | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.169
-      author_url: https://davidtjones.wordpress.com/2015/08/16/github-and-the-moodle-book-step-2/
-      content: '[&#8230;] continuing story of linking github and the Moodle book module.
-        Following on from step 1 the main aim here is to grok the PHP client for the github
-        api I&#8217;m currently [&#8230;]'
-      date: '2015-08-16 17:27:59'
-      date_gmt: '2015-08-16 07:27:59'
-      id: '1374'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: github and the Moodle &#8211; Step 3 | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.160
-      author_url: https://davidtjones.wordpress.com/2015/08/20/github-and-the-moodle-step-3/
-      content: '[&#8230;] Explored how to complete various required tasks with that API
-        from command line php. [&#8230;]'
-      date: '2015-08-22 16:04:33'
-      date_gmt: '2015-08-22 06:04:33'
-      id: '1375'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the first step in actually implementing some of the ideas outlined in [an earlier post](/blog/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/) about bringing [and the](http://github.com/) [Moodle Book module](https://docs.moodle.org/29/en/Book_module) together. The major steps covered here are
 
@@ -111,7 +108,7 @@ Login to local moodle. It has picked up the new module and asking to install. Th
 
 Doesn't do anything useful beyond display the availability of GitHub (with the nice icon).
 
-[![Early success](images/20556006825_8c11d6b4d3.jpg)](https://www.flickr.com/photos/david_jones/20556006825/in/dateposted-public/ "Early success")
+[![Early success](https://djon.es/assets/blog/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/images/20556006825_8c11d6b4d3.jpg)](https://www.flickr.com/photos/david_jones/20556006825/in/dateposted-public/ "Early success")
 
 Push that code back to the repository.
 

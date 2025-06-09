@@ -1,7 +1,7 @@
 ﻿---
 categories:
 - colophon
-date: 2025-05-23 14:17:25.821396+00:00
+date: 2025-05-23 14:17:25.821396
 next:
   text: Home
   url: /blog/index.html
@@ -171,5 +171,3 @@ In the past, I've taken the easy route and relied either on Wordpress analytics 
 ### Visual design
 
 The visual design is functional (at best). Being prettier would be nice, especially if it was [combined with interesting functionality](https://www.joshwcomeau.com/about-josh/). But this is far into the future.
-
-

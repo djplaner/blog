@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - eei
-date: 2018-11-30 08:47:42+10:00
+date: 2018-11-29 22:47:42
 next:
   text: Testing h5p
   url: /blog/2018/12/11/testing-h5p/
@@ -11,9 +11,9 @@ previous:
 tags:
 - complexity
 - irac
+template: blog-post.html
 title: Contextual ramblings on learning analytics
 type: post
-template: blog-post.html
 ---
 What follows is a collection of ad hoc ramblings around learning analytics prompted by a combination of [Col's recent post](https://beerc.wordpress.com/2018/11/29/the-tensions-around-learning-analytics/), associated literature arising from [ALASI'2018](https://www.monash.edu/alasi2018/home), and "sustainable retention" project that I'm involved with as part of my new job. It's mainly sensemaking and questions. Intended to help me clarify some thinking and encourage Col's to think a bit more about his design theory for meso-level practitioners implementing learning analytics.
 
@@ -108,7 +108,7 @@ Should we recognise and embrace this. We're not trying to scale this, make it ma
 
 <figure markdown>
 
-![](images/screen-shot-2018-11-29-at-09-25-05.png)
+![](https://djon.es/assets/blog/2018/11/30/contextual-ramblings-on-learning-analytics/images/screen-shot-2018-11-29-at-09-25-05.png)
 
 <caption>
 

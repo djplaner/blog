@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - bad
-date: 2014-11-05 11:12:45+10:00
+date: 2014-11-05 01:12:45
 next:
   text: '"Established versus Affordances: part of the reason institutional e-learning
     is like teenage sex"'
@@ -9,9 +9,9 @@ next:
 previous:
   text: Fixing one part of the peoplesoft gradebook
   url: /blog/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/
+template: blog-post.html
 title: Some more tweaks to gradebook
 type: post
-template: blog-post.html
 ---
 This is a development log of a few additions to the [recent fixes to the Peoplesoft gradebook](/blog/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/). The following documents attempts to implement the following
 

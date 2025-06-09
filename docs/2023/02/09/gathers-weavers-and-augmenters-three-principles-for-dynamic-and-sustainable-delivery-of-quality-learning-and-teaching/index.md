@@ -1,11 +1,11 @@
----
+﻿---
 categories:
 - academicdevelopment
 - bad
 - casa
 - highereducation
-coverImage: productivity.jpg
-date: 2023-02-09 10:13:12+10:00
+coverImage: https://djon.es/assets/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/images/productivity.jpg
+date: 2023-02-09 00:13:12
 next:
   text: Higher ed L&T's scale problem?
   url: /blog/2023/02/23/higher-ed-lts-scale-problem/
@@ -13,10 +13,10 @@ previous:
   text: 'Orchestrating entangled relations to stretch the iron triangle: Observations
     from an LMS migration'
   url: /blog/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/
+template: blog-post.html
 title: '"Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable
   delivery of quality learning and teaching"'
 type: post
-template: blog-post.html
 ---
 Henry Cook, Steven Booten and I gave the following presentation at [the THETA conference](https://theta.edu.au/) in Brisbane in April 2023.
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-01-10 17:33:02+10:00
+date: 2010-01-10 07:33:02
 next:
   text: Another idea for research project arising from the indicators project
   url: /blog/2010/01/12/another-idea-for-research-project-arising-from-the-indicators-project/
 previous:
   text: BIM - Mark Post screen
   url: /blog/2010/01/10/bim-mark-post-screen/
+template: blog-post.html
 title: BIM - getting capabilities working properly
 type: post
-template: blog-post.html
 ---
 Increasingly BIM development is getting to the stage where the functionality for BIM's three different types of user (coordinator, markers and students) are just about complete. I've been using a very naive, probably misleading interpretation of Moodle's capabilities system to distinguish between the different types of users and what they can do. Yesterday, doing what I thought was some minor updates, it broke. I'm currently having to use a kludge to get BIM to work for different users. This post is documents my attempts to fix this problem.
 

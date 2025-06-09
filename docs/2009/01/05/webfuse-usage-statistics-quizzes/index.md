@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - thesis
 - webfuse
-date: 2009-01-05 11:52:42+10:00
+date: 2009-01-05 01:52:42
 next:
   text: Webfuse statistics - Staff Portal
   url: /blog/2009/01/05/webfuse-statistics-staff-portal/
 previous:
   text: Operating Systems animations and other resources
   url: /blog/2008/12/30/operating-systems-animations-and-other-resources/
+template: blog-post.html
 title: Webfuse usage statistics - Quizzes
 type: post
-template: blog-post.html
 ---
 As part of my [PhD thesis](/blog/research/phd-thesis/) I'll be generating some statistics about the usage of the Webfuse e-learning system that has been in use at CQU since 1996.
 

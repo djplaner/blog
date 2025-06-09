@@ -1,224 +1,221 @@
----
+﻿---
 categories:
 - elearning
 - lmsevaluation
-date: 2009-10-07 13:12:30+10:00
+comments:
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'I''m replying to my own post to expand upon a tweet response and perhaps
+    add a more concrete example of what I''m getting at above.
+
+
+    Via twitter <a href="http://xolotl.org/" rel="nofollow">Nate Angell</a> pointed
+    to Marist''s evaluation of Sakai as <a href="http://www.campustechnology.com/Articles/2009/09/09/Community-Source-Evaluation-Strategies.aspx?Page=1"
+    rel="nofollow">reported in this article</a>. The article was written by Josh Barron
+    who, according to the article bio, is both <blockquote>Director of Academic Technology
+    and eLearning at Marist College in Poughkeepsie, New York and Chair of the Sakai
+    Foundation Board.</blockquote>
+
+
+    The point I''m trying to make is that there is a chance (a fairly good chance
+    if you go by the research literature on IS selection, decision making, rationality
+    etc.) that the story of Marist''s evaluation and selection of Sakai may not tell
+    the whole story.
+
+
+    In part this is a call to avoid self-reporting - not the best basis for evaluation
+    - but it''s also to capture the full complexity of what is a very difficult and
+    complex process.
+
+
+    That said, I''m really glad to have the reference.'
+  date: '2009-10-07 14:51:20'
+  date_gmt: '2009-10-07 04:51:20'
+  id: '2799'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'Nate gives his perspective on the Marist evaluation in this <a href="http://xolotl.org/xolotl/community-source-evaluation-strategies-why-commercial-support-key"
+    rel="nofollow">blog post</a>.
+
+
+    I''ve only quickly skimmed Nate''s post, so on that basis, it doesn''t appear
+    that the Marist evaluation included consideration of the likely pedagogical paths
+    that an LMS may take an institution down. This is a <a href="http://www.masmithers.com/2009/10/07/insidious-pedagogy-some-thoughts-on-lisa-lanes-article/"
+    rel="nofollow">point made by Mark Smithers</a> recently in response to <a href="http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2530/2303"
+    rel="nofollow">Lisa Lane''s article on FirstMonday</a>.'
+  date: '2009-10-07 14:57:27'
+  date_gmt: '2009-10-07 04:57:27'
+  id: '2800'
+  parent: '2799'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: ixmati
+  author_email: ixmati@gmail.com
+  author_ip: 24.21.188.21
+  author_url: http://
+  content: 'I see what you''re getting at better now that I''ve actually read your
+    post ;) As you can see, I''m more likely to fire off something on twitter than
+    do any actual research (hence my ABD status ;)
+
+
+    As per <a href="http://twitter.com/djplaner/statuses/4675399024" rel="nofollow">your
+    tweet back to me</a>, a major part of the forest I''ve seen missing is to align
+    IT selection with actual institutional mission and values (if they have even been
+    distilled). Too often, learning technologies are viewed as mere tools and the
+    process gets bogged down in the false hope of valid statistics from bakeoffs,
+    the minutiae of widgets, or the usability preferences of different folks on the
+    selection committees.
+
+
+    With this part of the forest in view, I strongly believe open source technologies
+    are typically far more likely to align with the missions and values of educational
+    institutions than proprietary products.
+
+
+    Or, one can view it in purely economic terms: In the community source model (such
+    as the Sakai Project), institutions combine their resources to build their own
+    technologies. Is it always cheaper in Year 1? Probably not, but there will be
+    savings across the community over time, along with better alignment with their
+    educational goals.'
+  date: '2009-10-07 15:16:20'
+  date_gmt: '2009-10-07 05:16:20'
+  id: '2801'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'Another follow up to my own post.  Also inspired by tweets from Nate.
+
+
+    I''ll use the concrete example of Josh Barron and the Marist evaluation above.
+
+
+    The suggestion here is not that Josh was "bad". The suggestion is that the evaluation
+    of an LMS as most suitable for a university is hugely complex. No matter how or
+    what you do, you will miss aspects.  No-one or no project group can hope to know
+    everything.  Things will be missed.
+
+
+    If you can accept that, then perhaps the following makes sense.
+
+
+    If the only perspectives being shared about LMS evaluations are the from the people
+    leading the evaluations, then the knowledge embedded in those publications will
+    be missing things.  Some of those things might be important.
+
+
+    Perhaps, asking people who weren''t the leaders or implementers of the evaluation
+    will generate some insight into what (if anything) is missing. Perhaps being aware
+    of those things can help improve the practice of LMS evaluations, perhaps not.  You
+    don''t know if you don''t ask.
+
+
+    It has to be recognised that the perspectives of the "others" are also likely
+    to miss things.'
+  date: '2009-10-07 15:16:42'
+  date_gmt: '2009-10-07 05:16:42'
+  id: '2802'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 118.208.92.156
+  author_url: http://
+  content: I'm wondering how many institutions who have adopted an open source LMS
+    have radically changed the vanilla product to fit their context? Its often said
+    by folk espousing the virtues of open source LMS that a key strength is their
+    ability to be adapted to the local context. This seems contrary to the missions
+    of IT departments who like centralized, stable systems that rarely change and
+    would most likely resist any change. An indication of an organization's disposition
+    towards customization would be the size and number of hoops and hurdles one has
+    to navigate to have a change made.
+  date: '2009-10-07 19:37:55'
+  date_gmt: '2009-10-07 09:37:55'
+  id: '2803'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'Let''s not start talking about thesis...I''m getting close to finishing,
+    but it''s been a long time....
+
+
+    While the theory most organisations are based on does require alignment with institutional
+    goals and the information systems they choose, I''m yet to see a university (with
+    minimal breadth of experience) that has successfully developed institutional goals
+    that are applied in a disciplined way.
+
+
+    I''ve actually argued in numerous places, most recently <a href="http://au.video.yahoo.com/watch/6075473/15784044?start=1m20s"
+    rel="nofollow">in this presentation</a> that the top down approach isn''t appropriate
+    for L&amp;T.
+
+
+    Similarly, while I agree with the sentiment that open source provides a better
+    basis than proprietary, I have the same question that Col asked in another comment.  How
+    many open source LMS installations are implemented "vanilla"?  I''m guessing the
+    folk participating in the Sakai foundation don''t fit in that category.
+
+
+    I''ve actually suggested <a href="https://djon.es/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/"
+    rel="nofollow">in an earlier post</a> that open source LMS are the next fad in
+    e-learning.'
+  date: '2009-10-07 21:24:38'
+  date_gmt: '2009-10-07 11:24:38'
+  id: '2804'
+  parent: '2801'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: mweisburgh
+  author_email: mitch.weisburgh@academicbiz.com
+  author_ip: 69.119.156.97
+  author_url: null
+  content: 'I''m doing a paper on trends in LMS''s and I''d love to find out more
+    about 1) how schools evaluate what/whether to get an LMS and 2) what needs are
+    changing the way LMS''s are or should be used.
+
+
+    I''m on skype and my email is mitch [dot] weisburgh [at] academicbiz [dot] com.'
+  date: '2009-10-24 05:45:58'
+  date_gmt: '2009-10-23 19:45:58'
+  id: '2805'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-10-07 03:12:30
 next:
   text: Is there value in strategic plans for educational technology
   url: /blog/2009/10/09/is-there-value-in-strategic-plans-for-educational-technology/
+pingbacks: []
 previous:
   text: LTERC, finally a research centre - shamless plug
   url: /blog/2009/10/07/lterc-finally-a-research-centre-shamless-plug/
 tags:
 - cms-vle-lms
+template: blog-post.html
 title: '"Call for participation: Getting the real stories of LMS evaluations?"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'I''m replying to my own post to expand upon a tweet response and perhaps
-        add a more concrete example of what I''m getting at above.
-    
-    
-        Via twitter <a href="http://xolotl.org/" rel="nofollow">Nate Angell</a> pointed
-        to Marist''s evaluation of Sakai as <a href="http://www.campustechnology.com/Articles/2009/09/09/Community-Source-Evaluation-Strategies.aspx?Page=1"
-        rel="nofollow">reported in this article</a>. The article was written by Josh Barron
-        who, according to the article bio, is both <blockquote>Director of Academic Technology
-        and eLearning at Marist College in Poughkeepsie, New York and Chair of the Sakai
-        Foundation Board.</blockquote>
-    
-    
-        The point I''m trying to make is that there is a chance (a fairly good chance
-        if you go by the research literature on IS selection, decision making, rationality
-        etc.) that the story of Marist''s evaluation and selection of Sakai may not tell
-        the whole story.
-    
-    
-        In part this is a call to avoid self-reporting - not the best basis for evaluation
-        - but it''s also to capture the full complexity of what is a very difficult and
-        complex process.
-    
-    
-        That said, I''m really glad to have the reference.'
-      date: '2009-10-07 14:51:20'
-      date_gmt: '2009-10-07 04:51:20'
-      id: '2799'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'Nate gives his perspective on the Marist evaluation in this <a href="http://xolotl.org/xolotl/community-source-evaluation-strategies-why-commercial-support-key"
-        rel="nofollow">blog post</a>.
-    
-    
-        I''ve only quickly skimmed Nate''s post, so on that basis, it doesn''t appear
-        that the Marist evaluation included consideration of the likely pedagogical paths
-        that an LMS may take an institution down. This is a <a href="http://www.masmithers.com/2009/10/07/insidious-pedagogy-some-thoughts-on-lisa-lanes-article/"
-        rel="nofollow">point made by Mark Smithers</a> recently in response to <a href="http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2530/2303"
-        rel="nofollow">Lisa Lane''s article on FirstMonday</a>.'
-      date: '2009-10-07 14:57:27'
-      date_gmt: '2009-10-07 04:57:27'
-      id: '2800'
-      parent: '2799'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: ixmati
-      author_email: ixmati@gmail.com
-      author_ip: 24.21.188.21
-      author_url: http://
-      content: 'I see what you''re getting at better now that I''ve actually read your
-        post ;) As you can see, I''m more likely to fire off something on twitter than
-        do any actual research (hence my ABD status ;)
-    
-    
-        As per <a href="http://twitter.com/djplaner/statuses/4675399024" rel="nofollow">your
-        tweet back to me</a>, a major part of the forest I''ve seen missing is to align
-        IT selection with actual institutional mission and values (if they have even been
-        distilled). Too often, learning technologies are viewed as mere tools and the
-        process gets bogged down in the false hope of valid statistics from bakeoffs,
-        the minutiae of widgets, or the usability preferences of different folks on the
-        selection committees.
-    
-    
-        With this part of the forest in view, I strongly believe open source technologies
-        are typically far more likely to align with the missions and values of educational
-        institutions than proprietary products.
-    
-    
-        Or, one can view it in purely economic terms: In the community source model (such
-        as the Sakai Project), institutions combine their resources to build their own
-        technologies. Is it always cheaper in Year 1? Probably not, but there will be
-        savings across the community over time, along with better alignment with their
-        educational goals.'
-      date: '2009-10-07 15:16:20'
-      date_gmt: '2009-10-07 05:16:20'
-      id: '2801'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'Another follow up to my own post.  Also inspired by tweets from Nate.
-    
-    
-        I''ll use the concrete example of Josh Barron and the Marist evaluation above.
-    
-    
-        The suggestion here is not that Josh was "bad". The suggestion is that the evaluation
-        of an LMS as most suitable for a university is hugely complex. No matter how or
-        what you do, you will miss aspects.  No-one or no project group can hope to know
-        everything.  Things will be missed.
-    
-    
-        If you can accept that, then perhaps the following makes sense.
-    
-    
-        If the only perspectives being shared about LMS evaluations are the from the people
-        leading the evaluations, then the knowledge embedded in those publications will
-        be missing things.  Some of those things might be important.
-    
-    
-        Perhaps, asking people who weren''t the leaders or implementers of the evaluation
-        will generate some insight into what (if anything) is missing. Perhaps being aware
-        of those things can help improve the practice of LMS evaluations, perhaps not.  You
-        don''t know if you don''t ask.
-    
-    
-        It has to be recognised that the perspectives of the "others" are also likely
-        to miss things.'
-      date: '2009-10-07 15:16:42'
-      date_gmt: '2009-10-07 05:16:42'
-      id: '2802'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 118.208.92.156
-      author_url: http://
-      content: I'm wondering how many institutions who have adopted an open source LMS
-        have radically changed the vanilla product to fit their context? Its often said
-        by folk espousing the virtues of open source LMS that a key strength is their
-        ability to be adapted to the local context. This seems contrary to the missions
-        of IT departments who like centralized, stable systems that rarely change and
-        would most likely resist any change. An indication of an organization's disposition
-        towards customization would be the size and number of hoops and hurdles one has
-        to navigate to have a change made.
-      date: '2009-10-07 19:37:55'
-      date_gmt: '2009-10-07 09:37:55'
-      id: '2803'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'Let''s not start talking about thesis...I''m getting close to finishing,
-        but it''s been a long time....
-    
-    
-        While the theory most organisations are based on does require alignment with institutional
-        goals and the information systems they choose, I''m yet to see a university (with
-        minimal breadth of experience) that has successfully developed institutional goals
-        that are applied in a disciplined way.
-    
-    
-        I''ve actually argued in numerous places, most recently <a href="http://au.video.yahoo.com/watch/6075473/15784044?start=1m20s"
-        rel="nofollow">in this presentation</a> that the top down approach isn''t appropriate
-        for L&amp;T.
-    
-    
-        Similarly, while I agree with the sentiment that open source provides a better
-        basis than proprietary, I have the same question that Col asked in another comment.  How
-        many open source LMS installations are implemented "vanilla"?  I''m guessing the
-        folk participating in the Sakai foundation don''t fit in that category.
-    
-    
-        I''ve actually suggested <a href="https://djon.es/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/"
-        rel="nofollow">in an earlier post</a> that open source LMS are the next fad in
-        e-learning.'
-      date: '2009-10-07 21:24:38'
-      date_gmt: '2009-10-07 11:24:38'
-      id: '2804'
-      parent: '2801'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: mweisburgh
-      author_email: mitch.weisburgh@academicbiz.com
-      author_ip: 69.119.156.97
-      author_url: null
-      content: 'I''m doing a paper on trends in LMS''s and I''d love to find out more
-        about 1) how schools evaluate what/whether to get an LMS and 2) what needs are
-        changing the way LMS''s are or should be used.
-    
-    
-        I''m on skype and my email is mitch [dot] weisburgh [at] academicbiz [dot] com.'
-      date: '2009-10-24 05:45:58'
-      date_gmt: '2009-10-23 19:45:58'
-      id: '2805'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 The following is a call for participation from folk interesting in writing a paper or two that will tell some real stories arising from LMS evaluations.
 

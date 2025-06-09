@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - plescquni
 - web-20-course-sites
-date: 2009-02-15 21:36:32+10:00
+date: 2009-02-15 11:36:32
 next:
   text: New ways of thinking - quote
   url: /blog/2009/02/15/new-ways-of-thinking-quote/
 previous:
   text: 'Getting half-baked ideas out there: improving research and the academy'
   url: /blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
+template: blog-post.html
 title: RSS feeds into course management systems - why?
 type: post
-template: blog-post.html
 ---
 Last night I was looking for some information about recording audio for powerpoint presentations in order to create a slidecast
 

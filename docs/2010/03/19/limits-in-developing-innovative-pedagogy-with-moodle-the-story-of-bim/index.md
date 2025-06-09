@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-03-19 10:50:56+10:00
+date: 2010-03-19 00:50:56
 next:
   text: Why is University/LMS e-learning so ugly?
   url: /blog/2010/03/23/why-is-universitylms-e-learning-so-ugly/
 previous:
   text: Research Method - Overview
   url: /blog/2010/03/18/research-method-overview/
+template: blog-post.html
 title: '"Limits in developing innovative pedagogy with Moodle: The story of BIM"'
 type: post
-template: blog-post.html
 ---
 The following is the extended presentation abstract I plan to submit to [MoodleMoot AU 2010](http://moodlemoot.org.au/). The idea was to submit a paper, but time has run out. The recent blog posts (starting with this one) about the story of BIM provide some of the early reflection that will form the basis of the presentation. The challenges mentioned in those posts will be abstracted somewhat to generate a series of limitations.
 

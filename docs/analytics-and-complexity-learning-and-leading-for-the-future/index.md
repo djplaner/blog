@@ -1,28 +1,25 @@
----
-date: 2012-08-30 13:39:40+10:00
+﻿---
+comments: []
+date: 2012-08-30 03:39:40
+pingbacks:
+- approved: '1'
+  author: 'Analytics and complexity: Learning and leading for the&nbsp;future | Higher
+    Education in the Future | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/higher-education-in-the-future/p/3530902508/analytics-and-complexity-learning-and-leading-for-the-future
+  content: '[...] Colin Beer (CQUniversity)David Jones (University of Southern Queensland)
+    Paper to be presented at ASCILITE&rsquo;2012 Full paper available here soon. Abstract
+    There is growing interest in the appli...&nbsp; [...]'
+  date: '2012-11-30 07:46:00'
+  date_gmt: '2012-11-29 21:46:00'
+  id: '439'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Analytics and complexity: Learning and leading for the future"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Analytics and complexity: Learning and leading for the&nbsp;future | Higher
-        Education in the Future | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/higher-education-in-the-future/p/3530902508/analytics-and-complexity-learning-and-leading-for-the-future
-      content: '[...] Colin Beer (CQUniversity)David Jones (University of Southern Queensland)
-        Paper to be presented at ASCILITE&rsquo;2012 Full paper available here soon. Abstract
-        There is growing interest in the appli...&nbsp; [...]'
-      date: '2012-11-30 07:46:00'
-      date_gmt: '2012-11-29 21:46:00'
-      id: '439'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Colin Beer (CQUniversity)  
 David Jones (University of Southern Queensland)

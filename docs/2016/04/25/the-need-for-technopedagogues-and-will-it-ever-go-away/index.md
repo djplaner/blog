@@ -1,60 +1,57 @@
----
+﻿---
 categories:
 - bad
-date: 2016-04-25 16:45:48+10:00
+comments:
+- approved: '1'
+  author: Howard Johnson (@HowardJ_phd)
+  author_email: HowardJ_phd@twitter.example.com
+  author_ip: 173.70.161.180
+  author_url: http://twitter.com/HowardJ_phd
+  content: "Hi David;\nI think of pedagogy at its best through (1) Vygotskian and\
+    \ (2) Bakhtinian type ideas: (1) A teacher introduces a student to a social practice\
+    \ (like how people operate within a certain discourse) (2) through dialogic interaction\
+    \ that is always unique and non-repeatable. When a teachers interacts in a class\
+    \ of 25 or 30 students through some form of direct instruction much of that pedagogy\
+    \ is lost, but the best teachers still find interaction with each student in some\
+    \ way. Many technologies model pedagogy as direct instruction with algorithmic\
+    \ interaction. It's much more efficient, but falls into that Rushkoffian optimization\
+    \ trap. Here's where Daniel Lemire's ideas fit:\n\". . . it makes no practical\
+    \ sense to limit computers to what brains can do when it is obviously more profitable\
+    \ to build machines that can do what brains cannot do. We do not ask for cars\
+    \ that walk like we do or for planes that fly like birds\u2026 why would we want\
+    \ computers that think like we do?\nBut conversely, it makes no sense to limit\
+    \ what people can do (and we are much more than isolated brains) to fit what machines\
+    \ can do. Are we not encouraged to focus our educations on what we can uniquely\
+    \ do but where machines struggle. It make most sense to form a symbiotic relationship\
+    \ in technopedagogy that frees teachers and students to be even more human.\n\
+    I see 3 problems. 1. is Tim Klapdor's idea of scale. For tech companies, scale\
+    \ is where the money is, but scale lead to that Rushkoffian optimization trap.\
+    \ The second problem is that so much tech is based on a Kurzweilian type techno\
+    \ optimism. We really have no idea how thought works and people develop intellectually.\
+    \ We have some correlations about what happens neuralogically and some ideas about\
+    \ algorithms that mimic thoughts but no real causal theories. But if computer\
+    \ power keeps doubling, the raw power will somehow fill the gaps. The 3rd problem\
+    \ I think is political. It is that elites really believe they are endowed with\
+    \ the prize we need. That it is OK for Stanford, Harvard and the such to have\
+    \ an elite educational experience but the rest have an education that is optimized\
+    \ for their algorithms. This is the ultimate feudual-techno-distopia."
+  date: '2016-05-01 15:58:36'
+  date_gmt: '2016-05-01 05:58:36'
+  id: '3344'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2016-04-25 06:45:48
 next:
   text: Focus, innovation and university IT
   url: /blog/2016/04/28/focus-innovation-and-university-it/
+pingbacks: []
 previous:
   text: Playing with Wikity
   url: /blog/2016/04/23/playing-with-wikity/
+template: blog-post.html
 title: The need for technopedagogues and will it ever go away?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Howard Johnson (@HowardJ_phd)
-      author_email: HowardJ_phd@twitter.example.com
-      author_ip: 173.70.161.180
-      author_url: http://twitter.com/HowardJ_phd
-      content: "Hi David;\nI think of pedagogy at its best through (1) Vygotskian and\
-        \ (2) Bakhtinian type ideas: (1) A teacher introduces a student to a social practice\
-        \ (like how people operate within a certain discourse) (2) through dialogic interaction\
-        \ that is always unique and non-repeatable. When a teachers interacts in a class\
-        \ of 25 or 30 students through some form of direct instruction much of that pedagogy\
-        \ is lost, but the best teachers still find interaction with each student in some\
-        \ way. Many technologies model pedagogy as direct instruction with algorithmic\
-        \ interaction. It's much more efficient, but falls into that Rushkoffian optimization\
-        \ trap. Here's where Daniel Lemire's ideas fit:\n\". . . it makes no practical\
-        \ sense to limit computers to what brains can do when it is obviously more profitable\
-        \ to build machines that can do what brains cannot do. We do not ask for cars\
-        \ that walk like we do or for planes that fly like birds\u2026 why would we want\
-        \ computers that think like we do?\nBut conversely, it makes no sense to limit\
-        \ what people can do (and we are much more than isolated brains) to fit what machines\
-        \ can do. Are we not encouraged to focus our educations on what we can uniquely\
-        \ do but where machines struggle. It make most sense to form a symbiotic relationship\
-        \ in technopedagogy that frees teachers and students to be even more human.\n\
-        I see 3 problems. 1. is Tim Klapdor's idea of scale. For tech companies, scale\
-        \ is where the money is, but scale lead to that Rushkoffian optimization trap.\
-        \ The second problem is that so much tech is based on a Kurzweilian type techno\
-        \ optimism. We really have no idea how thought works and people develop intellectually.\
-        \ We have some correlations about what happens neuralogically and some ideas about\
-        \ algorithms that mimic thoughts but no real causal theories. But if computer\
-        \ power keeps doubling, the raw power will somehow fill the gaps. The 3rd problem\
-        \ I think is political. It is that elites really believe they are endowed with\
-        \ the prize we need. That it is OK for Stanford, Harvard and the such to have\
-        \ an elite educational experience but the rest have an education that is optimized\
-        \ for their algorithms. This is the ultimate feudual-techno-distopia."
-      date: '2016-05-01 15:58:36'
-      date_gmt: '2016-05-01 05:58:36'
-      id: '3344'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Tim Klapdor [writes about](https://timklapdor.wordpress.com/2016/04/25/the-technopedagogue/) (along with a bunch of other stuff today) the process of discovering the concept of a technopedagogue and offers his translation of the French definition of that concept
 

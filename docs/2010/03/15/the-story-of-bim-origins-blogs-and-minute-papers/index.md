@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bim
-date: 2010-03-15 15:11:44+10:00
+comments: []
+date: 2010-03-15 05:11:44
 next:
   text: The story of BIM - Development of BAM
   url: /blog/2010/03/17/the-story-of-bim-development-of-bam/
+pingbacks:
+- approved: '1'
+  author: The story of BIM &#8211; Development of BAM &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.96.159
+  author_url: https://djon.es/blog/2010/03/17/the-story-of-bim-development-of-bam/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    The story of BIM &#8211; Origins &#8211; blogs and minute&nbsp;papers [...]'
+  date: '2010-03-17 11:27:53'
+  date_gmt: '2010-03-17 01:27:53'
+  id: '2960'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Improving L&#038;T at Universities - The emperor has no clothes
   url: /blog/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/
+template: blog-post.html
 title: The story of BIM - Origins - blogs and minute papers
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The story of BIM &#8211; Development of BAM &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.96.159
-      author_url: https://djon.es/blog/2010/03/17/the-story-of-bim-development-of-bam/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        The story of BIM &#8211; Origins &#8211; blogs and minute&nbsp;papers [...]'
-      date: '2010-03-17 11:27:53'
-      date_gmt: '2010-03-17 01:27:53'
-      id: '2960'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a start of trying to capture the story of BAM and BIM. The aim is to use this as part of a case study for a [paper](/blog/2010/02/06/challenges-in-developing-innovative-pedagogy-in-blended-learning-the-case-of-bim/) for [MoodleMoot'AU 2010](http://moodlemoot.org.au/).
 

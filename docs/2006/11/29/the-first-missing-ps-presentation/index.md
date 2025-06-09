@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - missingps
-date: 2006-11-29 11:23:04+10:00
+date: 2006-11-29 01:23:04
 next:
   text: The Long Tail - aggregation and context and the role of a "Web 2.0 course
     site"
@@ -9,9 +9,9 @@ next:
 previous:
   text: The research &quot;foundation&quot; for the missing Ps
   url: /blog/2006/10/29/the-research-foundation-for-the-missing-ps/
+template: blog-post.html
 title: The first missing Ps presentation
 type: post
-template: blog-post.html
 ---
 It's been quiet on the blog front for the last couple of weeks as I've been busy putting the finishing touches on the missing Ps presentation. The presentation was given on Friday the 24th November, 2006.
 

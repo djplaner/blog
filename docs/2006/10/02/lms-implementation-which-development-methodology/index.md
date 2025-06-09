@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - elearning
-date: 2006-10-02 14:26:41+10:00
+date: 2006-10-02 04:26:41
 next:
   text: Enterprises - do they need to "let go"?
   url: /blog/2006/10/03/enterprises-do-they-need-to-let-go/
 previous:
   text: Everything old is new again - working around copy detection
   url: /blog/2006/10/02/everything-old-is-new-again-working-around-copy-detection/
+template: blog-post.html
 title: LMS implementation - which development methodology
 type: post
-template: blog-post.html
 ---
 [Where now for development methodologies](http://doi.acm.org/10.1145/602421.602423) is an article from the Communications of the ACM thinking about the future of development methodologies.
 

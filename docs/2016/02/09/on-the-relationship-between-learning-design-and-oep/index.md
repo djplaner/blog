@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - thesis
-date: 2016-02-09 13:25:06+10:00
+comments: []
+date: 2016-02-09 03:25:06
 next:
   text: Minimalism, constructivism and use of Moodle or any other e-learning tool
   url: /blog/2016/02/11/minimalism-constructivism-and-use-of-moodle-or-anyother-e-learning-tool/
+pingbacks:
+- approved: '1'
+  author: Open educational practice beyond the institution? &#8211; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.181
+  author_url: https://davidtjones.wordpress.com/2016/02/22/open-educational-practice-beyond-the-institution/
+  content: '[&#8230;] following is a continuation of prior ponderings about about
+    open educational practice (OEP) and open educational resources (OER) in the context
+    of [&#8230;]'
+  date: '2016-02-22 12:01:48'
+  date_gmt: '2016-02-22 02:01:48'
+  id: '1480'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Extending a little thought experiment
   url: /blog/2016/02/05/extending-a-little-thought-experiment/
+template: blog-post.html
 title: Exploring the relationship between learning design and OEP
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Open educational practice beyond the institution? &#8211; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.181
-      author_url: https://davidtjones.wordpress.com/2016/02/22/open-educational-practice-beyond-the-institution/
-      content: '[&#8230;] following is a continuation of prior ponderings about about
-        open educational practice (OEP) and open educational resources (OER) in the context
-        of [&#8230;]'
-      date: '2016-02-22 12:01:48'
-      date_gmt: '2016-02-22 02:01:48'
-      id: '1480'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Another year and another [institutional grant opportunity](http://www.usq.edu.au/learning-teaching/excellence/2016landtgrants/opened) around openness. This year the focus is on Open Educational Practice and is
 

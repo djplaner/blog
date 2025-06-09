@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - edc3100
 - edu8117
 - research
 - theory
-date: 2015-10-08 12:16:56+10:00
+comments: []
+date: 2015-10-08 02:16:56
 next:
   text: What is "netgl" and how might it apply to my problem
   url: /blog/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
+pingbacks:
+- approved: '1'
+  author: What is &#8220;netgl&#8221; and how might it apply to my problem | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.240
+  author_url: https://davidtjones.wordpress.com/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
+  content: '[&#8230;] First, go and read a short post titled What is theory and why
+    use theories?. [&#8230;]'
+  date: '2015-10-08 14:21:30'
+  date_gmt: '2015-10-08 04:21:30'
+  id: '1442'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Technology required by teachers to customise technology-enhanced units
   url: /blog/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/
+template: blog-post.html
 title: What is theory and why use theories?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: What is &#8220;netgl&#8221; and how might it apply to my problem | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.240
-      author_url: https://davidtjones.wordpress.com/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
-      content: '[&#8230;] First, go and read a short post titled What is theory and why
-        use theories?. [&#8230;]'
-      date: '2015-10-08 14:21:30'
-      date_gmt: '2015-10-08 04:21:30'
-      id: '1442'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an edited version of something used in a course I teach that's currently hidden away in the LMS. I'm adding it here because I'm using it with another group of students.
 

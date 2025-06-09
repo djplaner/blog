@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - bim
-date: 2010-01-09 12:35:55+10:00
+comments: []
+date: 2010-01-09 02:35:55
 next:
   text: BIM - Mark Post screen
   url: /blog/2010/01/10/bim-mark-post-screen/
+pingbacks:
+- approved: '1'
+  author: BIM &#8211; Manage Marking &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.176
+  author_url: https://djon.es/blog/2010/01/17/bim-manage-marking/
+  content: '[...] Additional discussion of this collection of functionality was in
+    an earlier post [...]'
+  date: '2010-01-17 10:25:54'
+  date_gmt: '2010-01-17 00:25:54'
+  id: '2911'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - getting navigation bread crumbs and tabs working
   url: /blog/2010/01/09/bim-getting-navigation-bread-crumbs-and-tabs-working/
+template: blog-post.html
 title: BIM - Design of "Manage Marking" and other features for Coordinators
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM &#8211; Manage Marking &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.176
-      author_url: https://djon.es/blog/2010/01/17/bim-manage-marking/
-      content: '[...] Additional discussion of this collection of functionality was in
-        an earlier post [...]'
-      date: '2010-01-17 10:25:54'
-      date_gmt: '2010-01-17 00:25:54'
-      id: '2911'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [BAM/BIM](/blog/research/bam-blog-aggregation-management/) has initially been designed for use at [CQU](http://www.cqu.edu.au/). In that time it has been used in 29 course offerings with 13 of those averaging around 200 students per offering. i.e. BAM/BIM is originally designed for large offerings and hence needs to provide support for the teaching staff in charge of those large offerings.
 
@@ -52,7 +49,7 @@ The basic process will be something like this
 - You can add a BIM activity in the same way you add any other activity to a Moodle course.  
     There will be support, if you desire, to have multiple BIM activities in your course. When you add a BIM activity you will configure the activity.
 - Once added there will be a link in your Moodle course as shown in the following image. (**Click on the images to see larger versions**)  
-    [![BIM link from dummy moodle course](images/4183145931_66d39b489f_m.jpg)](http://www.flickr.com/photos/david_jones/4183145931/ "BIM link from dummy moodle course by David T Jones, on Flickr")
+    [![BIM link from dummy moodle course](https://djon.es/assets/blog/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/images/4183145931_66d39b489f_m.jpg)](http://www.flickr.com/photos/david_jones/4183145931/ "BIM link from dummy moodle course by David T Jones, on Flickr")
 - Students and staff will use this page to access BIM related services.
 
 Depending on the type of person using BIM, they will see different information. More information about what students and other staff will see will be outlined later. The rest of this will focus on what the coordiantor will see.
@@ -71,7 +68,7 @@ The coordinator interface for BIM will consist of at least 3 main sections:
 
 The default Moodle page will look something like the following.
 
-[![Configure BIM](images/4258409714_0f7e97da3d_m.jpg)](http://www.flickr.com/photos/david_jones/4258409714/ "Configure BIM by David T Jones, on Flickr")
+[![Configure BIM](https://djon.es/assets/blog/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/images/4258409714_0f7e97da3d_m.jpg)](http://www.flickr.com/photos/david_jones/4258409714/ "Configure BIM by David T Jones, on Flickr")
 
 Note the three tabs that allow the coordinator to navigate between sections/services. At this point, only the Show Details section has been implemented.
 
@@ -80,14 +77,14 @@ Note the three tabs that allow the coordinator to navigate between sections/serv
 This is essentially what coordinators see at the moment with BAM. It's also what markers will see. There are four main pages in show details.
 
 1. Show student details - shows details about the students.  
-    [![Show student details](images/4258409814_12f70ed683_m.jpg)](http://www.flickr.com/photos/david_jones/4258409814/ "Show student details by David T Jones, on Flickr")
+    [![Show student details](https://djon.es/assets/blog/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/images/4258409814_12f70ed683_m.jpg)](http://www.flickr.com/photos/david_jones/4258409814/ "Show student details by David T Jones, on Flickr")
     
     The tables here will be sortable.
     
 2. Show post details - shows the summary of all the posts for students.  
-    [![Show post details](images/4258409852_a335347303_m.jpg)](http://www.flickr.com/photos/david_jones/4258409852/ "Show post details by David T Jones, on Flickr")
+    [![Show post details](https://djon.es/assets/blog/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/images/4258409852_a335347303_m.jpg)](http://www.flickr.com/photos/david_jones/4258409852/ "Show post details by David T Jones, on Flickr")
 3. Allocate posts - this is how the marker manually changes the allocation of a student post as an answer.  
-    [![Allocate posts](images/4258409902_b1cf39e685_m.jpg)](http://www.flickr.com/photos/david_jones/4258409902/ "Allocate posts by David T Jones, on Flickr")
+    [![Allocate posts](https://djon.es/assets/blog/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/images/4258409902_b1cf39e685_m.jpg)](http://www.flickr.com/photos/david_jones/4258409902/ "Allocate posts by David T Jones, on Flickr")
 4. Mark post - how you mark an individual post (not currently implemented).
 
 ### Ideas for manage marking

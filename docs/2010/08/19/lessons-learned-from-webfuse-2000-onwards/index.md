@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-08-19 13:57:20+10:00
+date: 2010-08-19 03:57:20
 next:
   text: The curse of simple diagrams
   url: /blog/2010/08/20/the-curse-of-simple-diagrams/
 previous:
   text: Learning with an open course - a case study?
   url: /blog/2010/08/19/learning-with-an-open-course-a-case-study/
+template: blog-post.html
 title: '"Lessons learned from Webfuse: 2000 onwards"'
 type: post
-template: blog-post.html
 ---
 The following is an early draft of the "lessons learned" section of chapter 5 of [the thesis](/blog/research/phd-thesis/), the third last section that needs to be completed (to first draft stage). It still needs some work and completing the last two sections will probably lead to some changes, but it's a start.
 

@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-07-21 10:59:51+10:00
+date: 2010-07-21 00:59:51
 next:
   text: How to handle the marriage of PLEs and institutions
   url: /blog/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/
 previous:
   text: An overview of BIM
   url: /blog/2010/07/20/an-overview-of-bim/
+template: blog-post.html
 title: Features used in Webfuse course sites
 type: post
-template: blog-post.html
 ---
 Time to get back into the thesis. The following is the next completed section from the evaluation part of chapter 5 of [my thesis](/blog/research/phd-thesis/). A result of much data munging and some writing, still needs a bit more reflection and thought, but getting close.
 
@@ -71,13 +71,13 @@ The following graphs enable a visual comparison between the level of feature ado
 
 Figure 5.9 provides a visualisation of the percentage of courses using features associated with content transmission. The Malikowski et al (2007) range is identified by the dotted lines and represent that as of around 2004, it was common to find between 50% and 100% of course sites using content transmission features. The dashed line in Figure 5.9 shows that from 2005 through 2009 between 80% and 100% of CQU Blackboard course sites were using content transmission features. The thicker black line that includes data labels represents the percentage of Webfuse course sites using the option of adding content transmission features to the default course sites.
 
-[![Content Transmission](images/4813375847_cec27d5abc_m.jpg)](http://www.flickr.com/photos/david_jones/4813375847/ "Content Transmission by David T Jones, on Flickr")
+[![Content Transmission](https://djon.es/assets/blog/2010/07/21/features-used-in-webfuse-course-sites/images/4813375847_cec27d5abc_m.jpg)](http://www.flickr.com/photos/david_jones/4813375847/ "Content Transmission by David T Jones, on Flickr")
 
 _Figure 5.9 - Percentage course sites adopting content transmission: Webfuse, Blackboard and Malikowski et al (2007)_ (click image to enlarge)
 
 From Figure 5.9 it is possible to see that there was an increase from in the optional use of content transmission features when the default course site approach was introduced during the second half of 2001. In 2002, the first full year of operation for the default course site approach, there was an increase of over 20% use of content transmission features over 2000, the last full year without the default course site approach. From 2002 the adoption rate stayed above 60%. Figure 5.10 shows the percentage of course websites adopting class interaction features such as discussion forums, chat rooms etc. As of 2004, Malikowski et al (2007) found that it was typical to find between 20% and 50% of course sites adopting these features. From 2005 through 2009, the percentage of Blackboard courses adoption class interaction features increased from 28% through 61%. The data series with the data labels represents the adoption of class interactions within Webfuse course sites and highlights some of the limitations and contextual issues discussed above about Table 5.13.
 
-[![Interactions](images/4813376223_e354bdaa00_m.jpg)](http://www.flickr.com/photos/david_jones/4813376223/ "Interactions by David T Jones, on Flickr")
+[![Interactions](https://djon.es/assets/blog/2010/07/21/features-used-in-webfuse-course-sites/images/4813376223_e354bdaa00_m.jpg)](http://www.flickr.com/photos/david_jones/4813376223/ "Interactions by David T Jones, on Flickr")
 
 _Figure 5.10 – Percentage course sites adopting class interactions: Webfuse, Blackboard and Malikowski et al (2007)_(click image to enlarge)
 
@@ -87,7 +87,7 @@ Figure 5.10 shows that adoption of class interaction features were significantly
 
 Figure 5.11 shows the percentage adoption of features related to student assessment – typically quizzes and online assignment submission. It shows that the typical Malikowski et al (2007) adoption rate is expected to be between 20% and 50%. It shows that CQU Blackboard adoption from 2005 through 2009 ranged between 17% and 30%. On the other hand, Webfuse adoption after a minimal adoption in 1997 through 1999, increased to levels of over 90% from 2003 through 2005 before exceeding 100% from 2006 onwards.
 
-[![Evaluate Students](images/4813376457_8d962a70d1_m.jpg)](http://www.flickr.com/photos/david_jones/4813376457/ "Evaluate Students by David T Jones, on Flickr")
+[![Evaluate Students](https://djon.es/assets/blog/2010/07/21/features-used-in-webfuse-course-sites/images/4813376457_8d962a70d1_m.jpg)](http://www.flickr.com/photos/david_jones/4813376457/ "Evaluate Students by David T Jones, on Flickr")
 
 _Figure 5.11 – Percentage course sites adopting student assessment: Webfuse, Blackboard and Malikowski et al (2007)_(click image to enlarge)
 
@@ -95,7 +95,7 @@ The almost non-existent adoption of student assessment features within Webfuse f
 
 Figure 5.12 shows the adoption of course evaluation features. It shows that the expected Malikowski et al range (2007) to be between 0% and 20%. The adoption of course evaluation features by CQU Blackboard courses ranges from 2% in 2005 through to 5% in 2009. Prior to 2001, the Webfuse adoption rate is less than 10%, but then increases to range between 28% and 52% from 2001 on. This increase is generally due to increase availability of the Webfuse course barometer feature (see Section 5.3.6).
 
-[![Evaluate Courses](images/4813376713_2e36c64d45_m.jpg)](http://www.flickr.com/photos/david_jones/4813376713/ "Evaluate Courses by David T Jones, on Flickr")
+[![Evaluate Courses](https://djon.es/assets/blog/2010/07/21/features-used-in-webfuse-course-sites/images/4813376713_2e36c64d45_m.jpg)](http://www.flickr.com/photos/david_jones/4813376713/ "Evaluate Courses by David T Jones, on Flickr")
 
 _Figure 5.12 - Percentage course sites adopting course evaluation: Webfuse, Blackboard and Malikowski et al (2007)_(click image to enlarge)
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - journey
 - teaching
-date: 2010-11-12 14:52:37+10:00
+date: 2010-11-12 04:52:37
 next:
   text: Getting back into maths - it is not linear
   url: /blog/2010/11/15/getting-back-into-maths-it-is-not-linear/
 previous:
   text: A turning point
   url: /blog/2010/11/12/a-turning-point/
+template: blog-post.html
 title: Delving into institutional information systems
 type: post
-template: blog-post.html
 ---
 As recently noted, I'm about to return to university study. Have decided that I'm going to keep a journal of the entire experience. Perhaps with some intent later on to use this as data for research around the student experience. This may be of some interest as I will be studying at the institution I worked for as an academic for 20 years.
 
@@ -69,7 +69,7 @@ So, I'm past the important information and into "David's Student Centre". I'm he
 
 Ahh, it's an acceptance wizard. Only 13 steps. First step was click accept. No I have a page and a bit of text with HTML elements mixed in with content, perhaps due to using Chrome. But come on, it's just a page of text. How can you do that in a non-standard format?
 
-[![Bad formatting](images/5168710320_45bc1f8d37_m.jpg)](http://www.flickr.com/photos/david_jones/5168710320/ "Bad formatting by David T Jones, on Flickr")
+[![Bad formatting](https://djon.es/assets/blog/2010/11/12/delving-into-institutional-information-systems/images/5168710320_45bc1f8d37_m.jpg)](http://www.flickr.com/photos/david_jones/5168710320/ "Bad formatting by David T Jones, on Flickr")
 
 Page 3 doesn't have any bad formatting, but page 4 does. And page 3 had various form elements....not even consistent? And now onto the "HEC form" and the problems are horrendous, see the image.
 

@@ -1,144 +1,142 @@
----
+﻿---
 categories:
 - learninganalytics-elearning
-date: 2013-08-14 14:56:10+10:00
+comments:
+- approved: '1'
+  author: Kay
+  author_email: drkaskahempel@yahoo.co.uk
+  author_ip: 86.170.147.213
+  author_url: null
+  content: 'Thanks for your thoughts on this paper - your initial list of potential
+    problems due to practicalities of teaching in HE resonates particularly strongly
+    here:)
+
+
+    I have started thinking about LA applications in real HE context and its scalability
+    and transferability across different contexts as part of Data, Analytics and Learning
+    MOOC (DALMOOC) and see many similar barriers to applying LA by individuals and,
+    even more, at the institutional scale.
+
+
+    I have to say that I see individual adoption of LA as more likely - as LA is just
+    another form of data/analysis/reflection which can feed into reflective teaching
+    practice and action research done routinely by many within HE (although, by no
+    means, all). I am not sure if marrying LD and LA within theoretical repository
+    realms will help with these on the ground, context specific application of LA
+    by educators. Whatever they are - there are reasons why LD repositories remain
+    underutilised by practicing educators (and most likely not due to educator''s
+    ignorance either;) . Putting LA in the same basket may do little to help with
+    its widespread adoption. On the other hand I like your idea of in-built LA functions
+    into the existing tools. This can help their use to adjust teaching "on-the-go"
+    in response to needs of the particular cohort - which is one of the most important
+    abilities of a good educator. In fact, perhaps rather than aiming at high cost
+    course, programme and institution level learning redesign based on LA we should
+    use it for enhancing this micro-level flexibility of teaching, based on the analytical
+    abilities and professional judgement of the educators?'
+  date: '2014-11-12 23:07:05'
+  date_gmt: '2014-11-12 13:07:05'
+  id: '821'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: 'Good to hear that I''m not the only one pondering the problems of reality.  The
+    micro-level is really where I''m focused.  In no small part because I want the
+    functionality to use in my own teaching, but also because I do believe there''s
+    some value to be gained in terms of the overall quality of learning/teaching by
+    taking that approach.
+
+
+    In fact, I''ve just today spent some time designing the next step in a tool I''ll
+    be using myself next year.  The latest <a href="https://djon.es/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/#mockup"
+    rel="nofollow">blog post</a> has some description of it and an early, ugly mockup.
+
+
+    I''m hoping that this work - a continuation of my <a href="https://djon.es/blog/publications/"
+    rel="nofollow">two 2014 publications</a> - will explore this micro-level/on-the-go
+    approach a bit more.  Always happy to hear what others think or what they are
+    doing.'
+  date: '2014-11-13 17:02:02'
+  date_gmt: '2014-11-13 07:02:02'
+  id: '823'
+  parent: '821'
+  type: comment
+  user_id: '1'
+date: 2013-08-14 04:56:10
 next:
   text: Neither strategy nor "space" to innovate is enough
   url: /blog/2013/08/16/neither-strategy-nor-space-to-innovate-is-enough/
+pingbacks:
+- approved: '1'
+  author: Aligning learning analytics with learning desig...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/analyse-this/p/4006076054/aligning-learning-analytics-with-learning-design
+  content: '[&#8230;] The following is a summary and some initial reasons to this
+    paperLockyer, L., Heathcote, E., &amp; Dawson, S. (2013). Informing Pedagogical
+    Action: Aligning Learning Analytics With Learning Design....&nbsp; [&#8230;]'
+  date: '2013-08-14 17:43:26'
+  date_gmt: '2013-08-14 07:43:26'
+  id: '820'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Adding more student information to a Moodle course | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.80.160
+  author_url: https://djon.es/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/
+  content: '[&#8230;] this simple script into something that provides more useful
+    and specific process analytics (see this post for a definition of process analytics).
+    Also documents early attempts to share this script via [&#8230;]'
+  date: '2014-11-13 16:51:00'
+  date_gmt: '2014-11-13 06:51:00'
+  id: '822'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Our Learning Analytics are Our Pedagogy, Are They? (#xAPI, #dalmooc) |
+    Classroom Aid'
+  author_email: null
+  author_ip: 198.57.247.198
+  author_url: http://classroom-aid.com/2014/11/14/our-learning-analytics-are-our-pedagogy-are-they-xapi-dalmooc/
+  content: "[&#8230;] is this? Responded\_David Jones at\_University of Southern Queensland\
+    \ (in this post &#8220;Aligning learning analytics with learning\_design&#8220;).\
+    \ That&#8217;s a great question!\_A learning design might encompass a whole range\
+    \ of tools, [&#8230;]"
+  date: '2014-11-15 01:00:39'
+  date_gmt: '2014-11-14 15:00:39'
+  id: '824'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Designing a collection of analytics to explore &#8220;engagement&#8221;
+    &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.63
+  author_url: https://davidtjones.wordpress.com/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/
+  content: '[&#8230;] The plan here is to focus explicitly on the learning designs
+    within the courses and explore what can be revealed using checkpoint and process
+    analytics as outlined by Lockyer et al (2013). [&#8230;]'
+  date: '2016-04-14 07:46:04'
+  date_gmt: '2016-04-13 21:46:04'
+  id: '825'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Bugger analytics, just give me useful information
   url: /blog/2013/08/12/bugger-analytics-just-give-me-useful-information/
+template: blog-post.html
 title: Aligning learning analytics with learning design
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Kay
-      author_email: drkaskahempel@yahoo.co.uk
-      author_ip: 86.170.147.213
-      author_url: null
-      content: 'Thanks for your thoughts on this paper - your initial list of potential
-        problems due to practicalities of teaching in HE resonates particularly strongly
-        here:)
-    
-    
-        I have started thinking about LA applications in real HE context and its scalability
-        and transferability across different contexts as part of Data, Analytics and Learning
-        MOOC (DALMOOC) and see many similar barriers to applying LA by individuals and,
-        even more, at the institutional scale.
-    
-    
-        I have to say that I see individual adoption of LA as more likely - as LA is just
-        another form of data/analysis/reflection which can feed into reflective teaching
-        practice and action research done routinely by many within HE (although, by no
-        means, all). I am not sure if marrying LD and LA within theoretical repository
-        realms will help with these on the ground, context specific application of LA
-        by educators. Whatever they are - there are reasons why LD repositories remain
-        underutilised by practicing educators (and most likely not due to educator''s
-        ignorance either;) . Putting LA in the same basket may do little to help with
-        its widespread adoption. On the other hand I like your idea of in-built LA functions
-        into the existing tools. This can help their use to adjust teaching "on-the-go"
-        in response to needs of the particular cohort - which is one of the most important
-        abilities of a good educator. In fact, perhaps rather than aiming at high cost
-        course, programme and institution level learning redesign based on LA we should
-        use it for enhancing this micro-level flexibility of teaching, based on the analytical
-        abilities and professional judgement of the educators?'
-      date: '2014-11-12 23:07:05'
-      date_gmt: '2014-11-12 13:07:05'
-      id: '821'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: 'Good to hear that I''m not the only one pondering the problems of reality.  The
-        micro-level is really where I''m focused.  In no small part because I want the
-        functionality to use in my own teaching, but also because I do believe there''s
-        some value to be gained in terms of the overall quality of learning/teaching by
-        taking that approach.
-    
-    
-        In fact, I''ve just today spent some time designing the next step in a tool I''ll
-        be using myself next year.  The latest <a href="https://djon.es/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/#mockup"
-        rel="nofollow">blog post</a> has some description of it and an early, ugly mockup.
-    
-    
-        I''m hoping that this work - a continuation of my <a href="https://djon.es/blog/publications/"
-        rel="nofollow">two 2014 publications</a> - will explore this micro-level/on-the-go
-        approach a bit more.  Always happy to hear what others think or what they are
-        doing.'
-      date: '2014-11-13 17:02:02'
-      date_gmt: '2014-11-13 07:02:02'
-      id: '823'
-      parent: '821'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Aligning learning analytics with learning desig...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/analyse-this/p/4006076054/aligning-learning-analytics-with-learning-design
-      content: '[&#8230;] The following is a summary and some initial reasons to this
-        paperLockyer, L., Heathcote, E., &amp; Dawson, S. (2013). Informing Pedagogical
-        Action: Aligning Learning Analytics With Learning Design....&nbsp; [&#8230;]'
-      date: '2013-08-14 17:43:26'
-      date_gmt: '2013-08-14 07:43:26'
-      id: '820'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Adding more student information to a Moodle course | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.80.160
-      author_url: https://djon.es/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/
-      content: '[&#8230;] this simple script into something that provides more useful
-        and specific process analytics (see this post for a definition of process analytics).
-        Also documents early attempts to share this script via [&#8230;]'
-      date: '2014-11-13 16:51:00'
-      date_gmt: '2014-11-13 06:51:00'
-      id: '822'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Our Learning Analytics are Our Pedagogy, Are They? (#xAPI, #dalmooc) |
-        Classroom Aid'
-      author_email: null
-      author_ip: 198.57.247.198
-      author_url: http://classroom-aid.com/2014/11/14/our-learning-analytics-are-our-pedagogy-are-they-xapi-dalmooc/
-      content: "[&#8230;] is this? Responded\_David Jones at\_University of Southern Queensland\
-        \ (in this post &#8220;Aligning learning analytics with learning\_design&#8220;).\
-        \ That&#8217;s a great question!\_A learning design might encompass a whole range\
-        \ of tools, [&#8230;]"
-      date: '2014-11-15 01:00:39'
-      date_gmt: '2014-11-14 15:00:39'
-      id: '824'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Designing a collection of analytics to explore &#8220;engagement&#8221;
-        &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.63
-      author_url: https://davidtjones.wordpress.com/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/
-      content: '[&#8230;] The plan here is to focus explicitly on the learning designs
-        within the courses and explore what can be revealed using checkpoint and process
-        analytics as outlined by Lockyer et al (2013). [&#8230;]'
-      date: '2016-04-14 07:46:04'
-      date_gmt: '2016-04-13 21:46:04'
-      id: '825'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary and some initial responses to this paper
 

@@ -1,9 +1,9 @@
----
+﻿---
 categories:
 - bad
 - shadowsystems
-coverImage: trough.jpg
-date: 2020-06-02 09:50:33+10:00
+coverImage: https://djon.es/assets/blog/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/images/trough.jpg
+date: 2020-06-01 23:50:33
 next:
   text: Designing a personal "memex" with Foam
   url: /blog/2020/07/06/designing-a-personal-memex-with-foam/
@@ -11,9 +11,9 @@ previous:
   text: What are the impediments to quality teaching and what can be done to remove
     them?
   url: /blog/2020/05/30/what-are-the-impediments-to-quality-teaching-and-what-can-be-done-to-remove-them/
+template: blog-post.html
 title: Understanding (digital) education through workarounds and quality indicators
 type: post
-template: blog-post.html
 ---
 COVID-19 and the subsequent #pivotonline has higher education paying a lot more attention to the use of digital and online technology for learning and teaching (digital education). COVID-19 has made digital education necessary. COVID-19 has made any form of education – and just about anything else – more difficult. For everyone. COVID-19 and it’s impact is rewriting what higher education will be after. COVID-19 is raising hopes and fears that what will come after will be (positively?) transformative. Not beholden to previous conceptions and corporate mores.
 
@@ -29,7 +29,7 @@ The challenge I faced was whether I could remember a reasonable percentage of th
 
 Enter the following list of eight [Online Course Quality Indicators](http://professorjoosten.blogspot.com/2020/03/quality-indicators-of-online-learning.html) also available as a [PDF download](https://drive.google.com/file/d/1GfwQLyLIk12of2ZFSHpVLJlFryRJXXqo/view) and tested in Joosten, Cusatis & Harness (2019) (HT: [@plredmond](https://twitter.com/plredmond/status/1261053050304647168) and OLDaily).My interest here isn’t in the validity/value of this type of approach (of which I have my doubts). Instead, my interest in that the eight indicators offer a prompt for the type of considerations to which a conscientious teacher might pay attention. The type of considerations that will point out limitations within institutional support for (digital) education and generate workarounds.
 
-![](images/indicators.png)
+![](https://djon.es/assets/blog/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/images/indicators.png)
 
 ## Initial findings
 
@@ -101,7 +101,7 @@ Addition of [topic-based photos](http://djon.es/blog/2012/02/22/one-moodle-cours
 
 A “Right now” section at the top manually updated each week (along with the banner image) of term to orient students to the current focus.
 
-![](images/edc3100.jpeg)
+![](https://djon.es/assets/blog/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/images/edc3100.jpeg)
 
 **Moodle Activity Viewer**
 
@@ -121,13 +121,13 @@ In 2012 I took over a Masters course titled Network and Global Learning. Given t
 
 Given NGL was hosted on a course blog, this raised questions about how to take notes about what wasn’t working and ponder options for re-design. In Word, this could be done with the comments feature. For the Web [I used Diigo](/blog/2015/07/15/revising-week-1-of-edu8117-networked-and-global-learning/) to produce annotations like the following.
 
-![](images/diigo.png)
+![](https://djon.es/assets/blog/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/images/diigo.png)
 
 **Card Interface**
 
 Late 2018 saw me stepping backwards to Blackboard 9.1. A very flexible system for structuring a site, but incredibly hard to make look good without a lot of knowledge. How to enable lots of people organise their course sites effectively? Enter [the Card Interface](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/). Easily convert a standard Blackboard content page into a contemporary, visual user interface.
 
-|   ![](images/blackboard.png)   |   ![](images/cards.png)   |
+|   ![](https://djon.es/assets/blog/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/images/blackboard.png)   |   ![](https://djon.es/assets/blog/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/images/cards.png)   |
 | --- | --- |
 
 ### Support
@@ -170,7 +170,7 @@ My teaching journey has always involved distance education. First print-based an
 
 In on-campus teaching I had used [minute papers](https://oncourseworkshop.com/self-awareness/one-minute-paper/) as another method to gain insight into student progress. For distance education students, minute papers were implemented as part of the use of individual student blogs and [the BAM tool](http://djon.es/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) (Jones & Luck, 2009). I’ve also used Google forms to [implement the IMPACT procedure](/blog/2013/03/04/how-are-they-going/). An extended version of the minute paper. Student feedback was then run through Tagxedo
 
-![](images/cloud.png)
+![](https://djon.es/assets/blog/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/images/cloud.png)
 
 **Use my blog to publicly reflect on my teaching**
 
@@ -218,7 +218,7 @@ With 100s of students taking a course focused on exploring the use of different 
 
 We did this via a Google doc. Students were encouraged to add any problems they were having with the course and to also add suggested solutions.
 
-![](images/google.png)
+![](https://djon.es/assets/blog/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/images/google.png)
 
 **Shared bookmarks**
 
@@ -238,7 +238,7 @@ I used it a couple of times in my teaching, but more as a way to curate my own p
 
 One of the advantages (and disadvantages) of courses with large distance education enrolments is that the students can be located anywhere. To take advantage and raise awareness of this, and to demonstrate another pedagogical application of digital technology I adopted [Alec Couros’](https://twitter.com/courosa) [weather activity (slide 3)](https://www.slideshare.net/courosa/rethinking-teaching-learning-in-a-networked-reality-7244592). Check out the [380+ photos](https://www.flickr.com/photos/ictspedagogy/) generated since 2012, including the following contribution from me.
 
-![](images/flood.jpeg)
+![](https://djon.es/assets/blog/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/images/flood.jpeg)
 
 ### Content – interaction
 

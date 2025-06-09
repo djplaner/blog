@@ -1,20 +1,20 @@
----
-date: 2016-12-19 01:07:56+10:00
+﻿---
+date: 2016-12-18 15:07:56
 next:
   text: Early thoughts on the new year and the new job
   url: /blog/2017/01/03/early-thoughts-on-the-new-year-and-the-new-job/
 previous:
   text: Open, education, institutions and culture
   url: /blog/2016/11/18/open-education-institutions-and-culture/
+template: blog-post.html
 title: Farewell wordpress.com, hello Reclaim Hosting
 type: post
-template: blog-post.html
 ---
 This will (hopefully) be my last post on the [wordpress.com](http://wordpress.com) hosted version of this blog. Goodbye wordpress.com.
 
 I'm biting the bullet and going self-hosted with [Reclaim Hosting](https://reclaimhosting.com/). Hello Reclaim Hosting.
 
-[![Yay, My Reclaim Hosting T-Shirts Are Her by cogdogblog, on Flickr](images/26815347231_0832cb7eb2.jpg "Yay, My Reclaim Hosting T-Shirts Are Her by cogdogblog, on Flickr")](https://www.flickr.com/photos/cogdog/26815347231/) "[Yay, My Reclaim Hosting T-Shirts Are Her](https://www.flickr.com/photos/cogdog/26815347231/)" ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)) by [cogdogblog](https://www.flickr.com/people/cogdog/)
+[![Yay, My Reclaim Hosting T-Shirts Are Her by cogdogblog, on Flickr](https://djon.es/assets/blog/2016/12/19/farewell-wordpress-com-hello-reclaim-hosting/images/26815347231_0832cb7eb2.jpg "Yay, My Reclaim Hosting T-Shirts Are Her by cogdogblog, on Flickr")](https://www.flickr.com/photos/cogdog/26815347231/) "[Yay, My Reclaim Hosting T-Shirts Are Her](https://www.flickr.com/photos/cogdog/26815347231/)" ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)) by [cogdogblog](https://www.flickr.com/people/cogdog/)
 
  
 

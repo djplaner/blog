@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - bam
 - chapter-5
@@ -9,51 +9,48 @@ categories:
 - plescquni
 - thesis
 - webfuse
-date: 2009-02-11 10:18:01+10:00
+comments: []
+date: 2009-02-11 00:18:01
 next:
   text: The value of being open
   url: /blog/2009/02/11/the-value-of-being-open/
+pingbacks:
+- approved: '1'
+  author: 'Blogs in E-Learning: BAM, Moodle and a taxonomy of educational aggregation
+    projects? &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.186
+  author_url: https://djon.es/blog/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/
+  content: '[...] information on BAM can be found in this post and on BAM project
+    page. The post is probably the most recent and complete [...]'
+  date: '2009-02-24 21:24:34'
+  date_gmt: '2009-02-24 11:24:34'
+  id: '2127'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
+  content: '[...] Aggregation Management (BAM) system was, in part, designed to try
+    out approaches that leverage the protean nature of information technology. A major
+    part of this is a move to something different, and hopefully [...]'
+  date: '2009-03-02 15:40:30'
+  date_gmt: '2009-03-02 05:40:30'
+  id: '2128'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The protean nature of modern technology - another limitation of most views
     of e-learning
   url: /blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
+template: blog-post.html
 title: BAM - making e-learning technology more protean
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Blogs in E-Learning: BAM, Moodle and a taxonomy of educational aggregation
-        projects? &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.186
-      author_url: https://djon.es/blog/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/
-      content: '[...] information on BAM can be found in this post and on BAM project
-        page. The post is probably the most recent and complete [...]'
-      date: '2009-02-24 21:24:34'
-      date_gmt: '2009-02-24 11:24:34'
-      id: '2127'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
-      content: '[...] Aggregation Management (BAM) system was, in part, designed to try
-        out approaches that leverage the protean nature of information technology. A major
-        part of this is a move to something different, and hopefully [...]'
-      date: '2009-03-02 15:40:30'
-      date_gmt: '2009-03-02 05:40:30'
-      id: '2128'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In [a post](/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/) yesterday I talked about how most applications of e-learning within universities seems to actively prevent students and staff leveraging the protean nature of information technology. That is the nature of computer software to be flexible, malleable and customisable.
 
@@ -66,11 +63,11 @@ It's a research project aimed at extending ideas around how to implement e-learn
 BAM is a set of Perl scripts that aggregates RSS feeds, it matters little from where those RSS feeds originate, registered to individual students and then provides a range of additional services required by university educators. For example, (click on the screenshots to see larger images)
 
 - Link with the institutional teaching responsibilities database so that staff can see which of their students have (or haven't) registered their RSS feed.  
-    [![BAM show student blog details](images/3268716654_2b726c85f8_m.jpg)](http://www.flickr.com/photos/david_jones/3268716654/ "BAM show student blog details by David T Jones, on Flickr")
+    [![BAM show student blog details](https://djon.es/assets/blog/2009/02/11/bam-making-e-learning-technology-more-protean/images/3268716654_2b726c85f8_m.jpg)](http://www.flickr.com/photos/david_jones/3268716654/ "BAM show student blog details by David T Jones, on Flickr")
 - Show how many posts each staff member's students have made.  
-    [![BAM show all student posts page](images/3268716836_2dc450e632_m.jpg)](http://www.flickr.com/photos/david_jones/3268716836/ "BAM show all student posts page by David T Jones, on Flickr")
+    [![BAM show all student posts page](https://djon.es/assets/blog/2009/02/11/bam-making-e-learning-technology-more-protean/images/3268716836_2dc450e632_m.jpg)](http://www.flickr.com/photos/david_jones/3268716836/ "BAM show all student posts page by David T Jones, on Flickr")
 - If required, award a mark and make comments on a student's posts.  
-    [![BAM mark post page](images/3267891725_a7a21af026_m.jpg)](http://www.flickr.com/photos/david_jones/3267891725/ "BAM mark post page by David T Jones, on Flickr")
+    [![BAM mark post page](https://djon.es/assets/blog/2009/02/11/bam-making-e-learning-technology-more-protean/images/3267891725_a7a21af026_m.jpg)](http://www.flickr.com/photos/david_jones/3267891725/ "BAM mark post page by David T Jones, on Flickr")
 
 Because of the original context in which BAM was designed (explained in some of the publications and presentations listed in the next section) there are also some scripts to detect plagiarism between student posts.
 

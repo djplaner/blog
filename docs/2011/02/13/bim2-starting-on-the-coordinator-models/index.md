@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2011-02-13 11:56:34+10:00
+comments: []
+date: 2011-02-13 01:56:34
 next:
   text: On the potential flexibility of open source LMS and its limits
   url: /blog/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
+pingbacks:
+- approved: '1'
+  author: 'bim2: Some more coordinator tabs &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.127.216
+  author_url: https://djon.es/blog/2011/02/13/bim2-some-more-coordinator-tabs/
+  content: '[...] last work on bim2 ended up with the first 2 of 5 tabs for the coordinator
+    interface completed. This post [...]'
+  date: '2011-02-13 23:17:40'
+  date_gmt: '2011-02-13 13:17:40'
+  id: '3246'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Standardised testing is bad, but what is the alternative?
   url: /blog/2011/02/13/standardised-testing-is-bad-but-what-is-the-alternative/
+template: blog-post.html
 title: '"bim2: Starting on the coordinator models"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'bim2: Some more coordinator tabs &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.127.216
-      author_url: https://djon.es/blog/2011/02/13/bim2-some-more-coordinator-tabs/
-      content: '[...] last work on bim2 ended up with the first 2 of 5 tabs for the coordinator
-        interface completed. This post [...]'
-      date: '2011-02-13 23:17:40'
-      date_gmt: '2011-02-13 13:17:40'
-      id: '3246'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [last bit of work](/blog/2011/02/06/bim2-the-greater-coordinator-conversion/) on bim2 set up the structure for the coordinator interface and operations. This post documents the work of implementing the models, i.e. starting the process by which the coordinator interface actually starts actually working. Most of this should be a reasonably straight translation/update of bim into the OO structure of bim2.
 
@@ -43,7 +40,7 @@ Yep, all done. Also discovered that the problem with help buttons was due to the
 
 Time to double check and get the actual configure process working. First, a win with the help buttons, finally figured out what I was doing wrong. Next was a bug in the database table to hold the configuration and now there is a problem with the description being saved. Yep, another transition mistake in moving to Moodle 2. Fixed. (Click on the screenshot below to see it larger).
 
-[![configure](images/5439685195_785dba8d86_m.jpg)](http://www.flickr.com/photos/david_jones/5439685195/ "configure by David T Jones, on Flickr")
+[![configure](https://djon.es/assets/blog/2011/02/13/bim2-starting-on-the-coordinator-models/images/5439685195_785dba8d86_m.jpg)](http://www.flickr.com/photos/david_jones/5439685195/ "configure by David T Jones, on Flickr")
 
 ### Manage questions
 
@@ -109,11 +106,11 @@ Okay, now there is a problem with the update\_record method, "update\_record\_ra
 
 With that fixed, manage question is working. Based on my naive understanding of good Moodle 2 practice I can no longer do the automatic redirect that bim v1.0 used. Instead, you start Manage Questions with the following page that shows a list of all existing questions and space to add a new one.
 
-[![Manage Questions](images/5439685739_f5d00eec0a_m.jpg)](http://www.flickr.com/photos/david_jones/5439685739/ "Manage Questions by David T Jones, on Flickr")
+[![Manage Questions](https://djon.es/assets/blog/2011/02/13/bim2-starting-on-the-coordinator-models/images/5439685739_f5d00eec0a_m.jpg)](http://www.flickr.com/photos/david_jones/5439685739/ "Manage Questions by David T Jones, on Flickr")
 
 You make your changes on that page and hit one of the submit buttons. bim2 then processes the changes and displays details about what happened.
 
-[![Manage questions update](images/5440289364_5b23d13643_m.jpg)](http://www.flickr.com/photos/david_jones/5440289364/ "Manage questions update by David T Jones, on Flickr")
+[![Manage questions update](https://djon.es/assets/blog/2011/02/13/bim2-starting-on-the-coordinator-models/images/5440289364_5b23d13643_m.jpg)](http://www.flickr.com/photos/david_jones/5440289364/ "Manage questions update by David T Jones, on Flickr")
 
 There is a link at the bottom of that page to return to the first Manage Questions page. In bim1, this would have been where the automatic re-direct would've happened.
 

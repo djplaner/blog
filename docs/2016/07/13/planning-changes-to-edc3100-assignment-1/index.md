@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bad
 - edc3100
-date: 2016-07-13 13:19:24+10:00
+date: 2016-07-13 03:19:24
 next:
   text: Valuing the "residue of experience" a bit more
   url: /blog/2016/08/05/valuing-the-residue-of-experience-a-bit-more/
 previous:
   text: Planning an EDC3100 &quot;installfest&quot;
   url: /blog/2016/07/07/planning-an-edc3100-installfest/
+template: blog-post.html
 title: Planning changes to EDC3100 assignment 1
 type: post
-template: blog-post.html
 ---
 In the first half of the year there was [a new assignment](/blog/2016/03/10/setting-up-an-excel-checklist/) in EDC3100 designed to both enhance student learning, but also experiment with making the data produced by students and markers as part of the assessment process more accessible for manipulation by software. i.e. the students and markers entered data into a spreadsheet.
 

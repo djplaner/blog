@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - react
-date: 2006-12-16 12:46:34+10:00
+date: 2006-12-16 02:46:34
 next:
   text: Social capital - outcome and aim
   url: /blog/2006/12/16/social-capital-outcome-and-aim/
 previous:
   text: Underpinnings for the REACT approach
   url: /blog/2006/12/16/underpinnings-for-the-react-approach/
+template: blog-post.html
 title: Adoption of innovations and the "not invented here" syndrome
 type: post
-template: blog-post.html
 ---
 A lot of educational innovations are reported to be prevented/plagued with the "not invented here" syndrome that prevents adoption. One perspective on this is that this is blame allocation by the producer of the innovator. i.e. it's not my fault, but the fault of those recalcitrant adopters, they are rejecting my idea because of sheer bloody-mindedness.
 

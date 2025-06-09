@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,35 +6,32 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-03-11 10:04:21+10:00
+comments: []
+date: 2010-03-11 00:04:21
 next:
   text: Different perspectives on the purpose of the LMS
   url: /blog/2010/03/12/different-perspectives-on-the-purpose-of-the-lms/
+pingbacks:
+- approved: '1'
+  author: Improving L&amp;T at Universities &#8211; The emperor has no clothes &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.29
+  author_url: https://djon.es/blog/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/
+  content: '[...] universities continue to focus on the wrong time frame, I believe
+    they will continue to fail to make improvements in learning and [...]'
+  date: '2010-03-14 07:53:37'
+  date_gmt: '2010-03-13 21:53:37'
+  id: '2959'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Webfuse is dead! Long live Webfuse!
   url: /blog/2010/03/10/webfuse-is-dead-long-live-webfuse/
+template: blog-post.html
 title: '"Focusing on the wrong time frame - a core problem of university L&#038;T?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Improving L&amp;T at Universities &#8211; The emperor has no clothes &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.29
-      author_url: https://djon.es/blog/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/
-      content: '[...] universities continue to focus on the wrong time frame, I believe
-        they will continue to fail to make improvements in learning and [...]'
-      date: '2010-03-14 07:53:37'
-      date_gmt: '2010-03-13 21:53:37'
-      id: '2959'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I think that the quality of most university learning and teaching is somewhat less than it could be. There are some really good examples and really engaged teaching academics. However, they are in the minority. This problem is made worse when the context of a particular university is extremely complex. For example, a number of Australian public universities, in response to reductions in government funding, have developed a collection of partnerships with commercial and overseas organisations to offer their courses in various modes. Some of these universities also have traditional on-campus students as well as distance education student spread throughout the globe.
 

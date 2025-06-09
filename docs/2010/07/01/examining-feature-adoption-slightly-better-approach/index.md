@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -7,35 +7,32 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-07-01 12:41:07+10:00
+comments: []
+date: 2010-07-01 02:41:07
 next:
   text: Webfuse feature adoption - 1997 through 2009
   url: /blog/2010/07/01/webfuse-feature-adoption-1997-through-2009/
+pingbacks:
+- approved: '1'
+  author: Webfuse feature adoption &#8211; 1997 through 2009 &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.131
+  author_url: https://djon.es/blog/2010/07/01/webfuse-feature-adoption-1997-through-2009/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Examining feature adoption &#8211; slightly better&nbsp;approach [...]'
+  date: '2010-07-01 13:20:04'
+  date_gmt: '2010-07-01 03:20:04'
+  id: '3110'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: An integrated OLE
   url: /blog/2010/06/26/an-integrated-ole/
+template: blog-post.html
 title: Examining feature adoption - slightly better approach
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Webfuse feature adoption &#8211; 1997 through 2009 &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.131
-      author_url: https://djon.es/blog/2010/07/01/webfuse-feature-adoption-1997-through-2009/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Examining feature adoption &#8211; slightly better&nbsp;approach [...]'
-      date: '2010-07-01 13:20:04'
-      date_gmt: '2010-07-01 03:20:04'
-      id: '3110'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm in the throws of finalising the second last bit of data analysis [for the thesis](/blog/research/phd-thesis/). For this I'm trying to examine the level of feature adoption within courses supported by the Webfuse system (the main product for the the thesis). The following describes an attempt to formalise the process for this evaluation.
 
@@ -64,7 +61,7 @@ But since that work, I've gotten some additional Webfuse data and also had the o
 
 One of the problems is that the original calculations in the ASCILITE paper did not draw on the full set of Webfuse features that fit into the Malikowski et al (2007) categories (represented in the diagram below). I need to add a bit more in and that means trawling a range of data sources. I need to have this done through a single script.
 
-[![Reworked Malikowski model](images/3858116950_aa68b05446_m.jpg)](http://www.flickr.com/photos/david_jones/3858116950/ "Reworked Malikowski model by David T Jones, on Flickr")
+[![Reworked Malikowski model](https://djon.es/assets/blog/2010/07/01/examining-feature-adoption-slightly-better-approach/images/3858116950_aa68b05446_m.jpg)](http://www.flickr.com/photos/david_jones/3858116950/ "Reworked Malikowski model by David T Jones, on Flickr")
 
 In some ways, this need to have a "single script" encapsulates a key component of what the indicators project needs, an LMS independent computer representation of feature adoption of e-learning systems. A representation that can be queried and analysed quickly and easily.
 

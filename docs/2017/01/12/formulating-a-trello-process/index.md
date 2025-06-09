@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - eei
-date: 2017-01-12 15:47:11+10:00
+date: 2017-01-12 05:47:11
 next:
   text: Exploring course site resource usage using MAV
   url: /blog/2017/01/25/exploring-course-resource-usage-using-mav/
 previous:
   text: Early thoughts on the new year and the new job
   url: /blog/2017/01/03/early-thoughts-on-the-new-year-and-the-new-job/
+template: blog-post.html
 title: Formulating a Trello process
 type: post
-template: blog-post.html
 ---
 I've been using [Trello](http://trello.com) for a couple of years to track manage personal projects/tasks. I've done this in an ad hoc way. I've even occasionally attempted using it (badly) for small groups. I now need to get a bit more professional about it. The following is an attempt to formulate an initial plan for testing out the use of Trello for a work project. If only so we can escape the desolate, unproductive waste that is Sharepoint and email attachments....more on this at the end.
 

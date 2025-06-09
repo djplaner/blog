@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,50 +6,47 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-08-31 10:52:28+10:00
+comments: []
+date: 2009-08-31 00:52:28
 next:
   text: Product models - LMS, BoB and alternatives
   url: /blog/2009/08/31/product-models-lms-bob-and-alternatives/
+pingbacks:
+- approved: '1'
+  author: 'Phd Update #23 &#8211; Getting closer to the end of chapter 2 &laquo; The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/09/03/phd-update-23-getting-closer-to-the-end-of-chapter-2/
+  content: '[...] product; and  This was done: section on alternate models for procurement
+    and product and also the lessons section completed. The procurement section might
+    need some minor [...]'
+  date: '2009-09-03 21:49:52'
+  date_gmt: '2009-09-03 11:49:52'
+  id: '2736'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'The life and death of Webfuse: lessons for learning and leading into the
+    future &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.2.43
+  author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+  content: '[...] publications (thesis-base process posts one and two, OODLA paper,
+    prior ascilite paper, posts (procurement models, role of people in LMS [...]'
+  date: '2012-06-22 14:06:28'
+  date_gmt: '2012-06-22 04:06:28'
+  id: '2737'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Learning Tools in Higher Education: Products, Characteristics, Procurement'
   url: /blog/2009/08/30/learning-tools-in-higher-education-products-characteristics-procurement/
+template: blog-post.html
 title: '"Procurement and software: alternate models for e-learning"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Phd Update #23 &#8211; Getting closer to the end of chapter 2 &laquo; The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/09/03/phd-update-23-getting-closer-to-the-end-of-chapter-2/
-      content: '[...] product; and  This was done: section on alternate models for procurement
-        and product and also the lessons section completed. The procurement section might
-        need some minor [...]'
-      date: '2009-09-03 21:49:52'
-      date_gmt: '2009-09-03 11:49:52'
-      id: '2736'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'The life and death of Webfuse: lessons for learning and leading into the
-        future &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.2.43
-      author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
-      content: '[...] publications (thesis-base process posts one and two, OODLA paper,
-        prior ascilite paper, posts (procurement models, role of people in LMS [...]'
-      date: '2012-06-22 14:06:28'
-      date_gmt: '2012-06-22 04:06:28'
-      id: '2737'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 And here's the next bit of the Products component for chapter 2 of [my thesis](/blog/research/phd-thesis/). The aim of this section is basically two argue that the LMS approach to e-learning embodies one view of how to procure software and one software model. I eventually aim to argue that both of these predominant models are essentially bad matches for the nature of e-learning within a university. The following is intended more to identify that there are alternatives than argue for the inappropriateness. That's for later. But I doubt I've stopped it coming through.
 

@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,75 +6,73 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-08-23 10:28:52+10:00
+comments:
+- approved: '1'
+  author: cathygarland
+  author_email: cathy@scholar360.com
+  author_ip: 173.28.233.65
+  author_url: http://www.scholar360.com
+  content: Your readers may be interested in the next evolution of an LMS - an NLE
+    or Network Learning Environment.  Scholar360 LMS-SN is just such an environment,
+    combining all the course tools of an CMS, the learning-centered tools of an LMS,
+    and the collaborative tools of a social network.  You and your readers may want
+    to check it out at scholar360.com.
+  date: '2009-08-26 03:03:03'
+  date_gmt: '2009-08-25 17:03:03'
+  id: '2728'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-08-23 00:28:52
 next:
   text: Other information systems in higher education
   url: /blog/2009/08/23/other-information-systems-in-higher-education/
+pingbacks:
+- approved: '1'
+  author: Other information systems in higher education &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 66.135.48.210
+  author_url: https://djon.es/blog/2009/08/23/other-information-systems-in-higher-education/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    LMS characteristics and&nbsp;limitations [...]'
+  date: '2009-08-23 13:49:02'
+  date_gmt: '2009-08-23 03:49:02'
+  id: '2727'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Employment at the University of Alaska, Fairbanks
+  author_email: null
+  author_ip: 69.89.31.147
+  author_url: http://www.freethesage.com/?p=152
+  content: '[...] Unfortunately I cannot link to any of the courses I developed (other
+    than my own &#8211; see my Windows and Access links above) because they are almost
+    all housed (much to our general chagrin) in the clunky and not very user-friendly
+    Blackboard LMS. As instructional designers many of us had (and still do) reservations
+    about Blackboard and LMS&#8217;s in general. I won&#8217;t go into my reasons
+    now, but let&#8217;s just say a cranky, rant-filled post is in the making. For
+    now though I&#8217;ll let you read some other people&#8217;s opinions on Blackboard
+    specifically, including the following (these are just a few I Googled): countless
+    posts on Blackboard hate at the Chronicle website, the &#8216;I Hate Blackboard&#8217;
+    post on thingsihate.org, parezco y digo on blackboard hate. And then there are
+    more thoughtful opinions on why LMS&#8217;s in general are antithetical to a high-quality
+    online education: The wrong place to start learning by elearnspace, Skip Via (my
+    inspiration for making my courses use Google Sites instead of Blackboard), and
+    David Jones on LMS limitations. [...]'
+  date: '2011-02-26 04:19:34'
+  date_gmt: '2011-02-25 18:19:34'
+  id: '2729'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What is an LMS?
   url: /blog/2009/08/21/what-is-an-lms/
+template: blog-post.html
 title: LMS characteristics and limitations
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cathygarland
-      author_email: cathy@scholar360.com
-      author_ip: 173.28.233.65
-      author_url: http://www.scholar360.com
-      content: Your readers may be interested in the next evolution of an LMS - an NLE
-        or Network Learning Environment.  Scholar360 LMS-SN is just such an environment,
-        combining all the course tools of an CMS, the learning-centered tools of an LMS,
-        and the collaborative tools of a social network.  You and your readers may want
-        to check it out at scholar360.com.
-      date: '2009-08-26 03:03:03'
-      date_gmt: '2009-08-25 17:03:03'
-      id: '2728'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Other information systems in higher education &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 66.135.48.210
-      author_url: https://djon.es/blog/2009/08/23/other-information-systems-in-higher-education/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        LMS characteristics and&nbsp;limitations [...]'
-      date: '2009-08-23 13:49:02'
-      date_gmt: '2009-08-23 03:49:02'
-      id: '2727'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Employment at the University of Alaska, Fairbanks
-      author_email: null
-      author_ip: 69.89.31.147
-      author_url: http://www.freethesage.com/?p=152
-      content: '[...] Unfortunately I cannot link to any of the courses I developed (other
-        than my own &#8211; see my Windows and Access links above) because they are almost
-        all housed (much to our general chagrin) in the clunky and not very user-friendly
-        Blackboard LMS. As instructional designers many of us had (and still do) reservations
-        about Blackboard and LMS&#8217;s in general. I won&#8217;t go into my reasons
-        now, but let&#8217;s just say a cranky, rant-filled post is in the making. For
-        now though I&#8217;ll let you read some other people&#8217;s opinions on Blackboard
-        specifically, including the following (these are just a few I Googled): countless
-        posts on Blackboard hate at the Chronicle website, the &#8216;I Hate Blackboard&#8217;
-        post on thingsihate.org, parezco y digo on blackboard hate. And then there are
-        more thoughtful opinions on why LMS&#8217;s in general are antithetical to a high-quality
-        online education: The wrong place to start learning by elearnspace, Skip Via (my
-        inspiration for making my courses use Google Sites instead of Blackboard), and
-        David Jones on LMS limitations. [...]'
-      date: '2011-02-26 04:19:34'
-      date_gmt: '2011-02-25 18:19:34'
-      id: '2729'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This post follows on from [previous posts](/blog/2009/08/21/what-is-an-lms/) and contributes the next bit of the Product component of [my thesis](/blog/research/phd-thesis/).
 

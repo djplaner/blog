@@ -1,101 +1,99 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - psframework
 - thesis
-date: 2009-08-25 09:15:45+10:00
+comments:
+- approved: '1'
+  author: mollybob
+  author_email: sbg00sbg@yahoo.com.au
+  author_ip: 220.233.103.73
+  author_url: http://www.mollybob.wordpress.com
+  content: 'a very nice collection of quotes, some of which have very much left me
+    thinking.
+
+
+    What you''re saying about people being concerned about being seen to be incorrect
+    is so true.  I wonder about he complexities of this online too... I am happy to
+    write about my experiences as a student, and welcome constructive criticism as
+    it helps me learn, but it can be hard to behave in such a way in a professional
+    context because of what your own management expects.  *sigh* that sounds so very
+    jaded and negative.'
+  date: '2009-08-31 17:18:39'
+  date_gmt: '2009-08-31 07:18:39'
+  id: '2731'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'Jaded/negative or is it realistic.  Part of the rationale for the post
+    was to point out the reality of this in organisations.  Hopefully with the aim
+    of doing something about it, i.e. you can''t do it, if you don''t recognise it.   I
+    don''t expect it to have much impact.
+
+
+    One solution is given by a recent XKCD comic  http://xkcd.com/137/
+
+
+    While it may be difficult and prone to all sorts of risks, can I really expect
+    the organisations I work for to become any better if I don''t adopt/demonstrate
+    the behaviour I want them to adopt?
+
+
+    Sorry, become more about me....thanks for the comment, got me thinking some more.'
+  date: '2009-09-01 09:13:14'
+  date_gmt: '2009-08-31 23:13:14'
+  id: '2732'
+  parent: '2731'
+  type: comment
+  user_id: '1'
+date: 2009-08-24 23:15:45
 next:
   text: E-Learning 2.0 and reliability of external services
   url: /blog/2009/08/26/e-learning-2-0-and-reliability-of-external-services/
+pingbacks:
+- approved: '1'
+  author: APGAR for Class Meetings slide now on Slideshare &laquo; Gardner Writes
+  author_email: null
+  author_ip: 74.220.219.120
+  author_url: http://www.gardnercampbell.net/blog1/?p=919
+  content: '[...] to Education&#8221; (Mind, Brain, and Education 1:1). I also have
+    a post in the works about an Australian blogger named David Jones whom I&#8217;ve
+    learned a great deal from lately in a most wonderful distributed conversation.
+    [...]'
+  date: '2009-08-28 00:54:38'
+  date_gmt: '2009-08-27 14:54:38'
+  id: '2730'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Limits in developing innovative pedagogy with Moodle: The story of BIM
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.104.8
+  author_url: https://djon.es/blog/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
+  content: '[...] the SNAFU principle, confirmation bias and pattern entrainment,
+    defensive routines and the lack of a willingness to question the practices on
+    which ones self esteem is built. For me, it is only through [...]'
+  date: '2010-03-19 10:51:19'
+  date_gmt: '2010-03-19 00:51:19'
+  id: '2733'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Identifying file distribution on Webfuse course sites
   url: /blog/2009/08/24/identifying-file-distribution-on-webfuse-course-sites/
+template: blog-post.html
 title: Learning requires willingness to suffer injury to one's self-esteem
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: mollybob
-      author_email: sbg00sbg@yahoo.com.au
-      author_ip: 220.233.103.73
-      author_url: http://www.mollybob.wordpress.com
-      content: 'a very nice collection of quotes, some of which have very much left me
-        thinking.
-    
-    
-        What you''re saying about people being concerned about being seen to be incorrect
-        is so true.  I wonder about he complexities of this online too... I am happy to
-        write about my experiences as a student, and welcome constructive criticism as
-        it helps me learn, but it can be hard to behave in such a way in a professional
-        context because of what your own management expects.  *sigh* that sounds so very
-        jaded and negative.'
-      date: '2009-08-31 17:18:39'
-      date_gmt: '2009-08-31 07:18:39'
-      id: '2731'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'Jaded/negative or is it realistic.  Part of the rationale for the post
-        was to point out the reality of this in organisations.  Hopefully with the aim
-        of doing something about it, i.e. you can''t do it, if you don''t recognise it.   I
-        don''t expect it to have much impact.
-    
-    
-        One solution is given by a recent XKCD comic  http://xkcd.com/137/
-    
-    
-        While it may be difficult and prone to all sorts of risks, can I really expect
-        the organisations I work for to become any better if I don''t adopt/demonstrate
-        the behaviour I want them to adopt?
-    
-    
-        Sorry, become more about me....thanks for the comment, got me thinking some more.'
-      date: '2009-09-01 09:13:14'
-      date_gmt: '2009-08-31 23:13:14'
-      id: '2732'
-      parent: '2731'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: APGAR for Class Meetings slide now on Slideshare &laquo; Gardner Writes
-      author_email: null
-      author_ip: 74.220.219.120
-      author_url: http://www.gardnercampbell.net/blog1/?p=919
-      content: '[...] to Education&#8221; (Mind, Brain, and Education 1:1). I also have
-        a post in the works about an Australian blogger named David Jones whom I&#8217;ve
-        learned a great deal from lately in a most wonderful distributed conversation.
-        [...]'
-      date: '2009-08-28 00:54:38'
-      date_gmt: '2009-08-27 14:54:38'
-      id: '2730'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Limits in developing innovative pedagogy with Moodle: The story of BIM
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.104.8
-      author_url: https://djon.es/blog/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
-      content: '[...] the SNAFU principle, confirmation bias and pattern entrainment,
-        defensive routines and the lack of a willingness to question the practices on
-        which ones self esteem is built. For me, it is only through [...]'
-      date: '2010-03-19 10:51:19'
-      date_gmt: '2010-03-19 00:51:19'
-      id: '2733'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Over recent weeks I have ignored Twitter, it was consuming too much time and I have to focus on writing the PhD. There is a cost involved to doing this, you miss out on some good insights.
 

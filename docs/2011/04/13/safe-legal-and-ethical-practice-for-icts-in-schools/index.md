@@ -1,52 +1,49 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-04-13 10:54:31+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.19.182
+  author_url: http://www.vrbones.com
+  content: "There was a recent release from Ed Queensland legals that clarified some\
+    \ of the copywright stuff:\n\n<blockquote>In relation to Youtube and other online\
+    \ resources, the department's position is you may rely on Section 200AB (S. 200AB)\
+    \ of the Copyright Act (a free exception involving Flexible Fair Dealings), provided\
+    \ you meet ALL of the 5 criteria:\n\n    * You must be using the copyright material\
+    \ for the purposes of giving educational instruction.\n    * Your use must be\
+    \ non-commercial.\n    * The circumstances of your use must be a special case.\n\
+    \    * Your use must not conflict with the normal exploitation of the copyright\
+    \ material you are using.\n    * Your use must not unreasonably prejudice the\
+    \ copyright owner.\n\nThese are explained more fully in the information sheet\
+    \ called <a href=\"http://www.smartcopying.edu.au/scw/Jahia/lang/en/scw/go/pid/542\"\
+    \ rel=\"nofollow\">'The new flexible dealings exception - what am I allowed to\
+    \ do?'</a> along with a decision making flow chart to help you decide if S. 200AB\
+    \ applies to what you intend doing.\n</blockquote>\nYou also need to document\
+    \ the use as part of risk assessment.\nNote also that downloading for offline\
+    \ use breaks protection measures and thus is specifically not covered under 200AP,\
+    \ even if the original content had no copywright requirements before being uploaded\
+    \ to something like YouTube.\n\nThere's a fair bit more on the <a href=\"http://www.smartcopying.edu.au\"\
+    \ rel=\"nofollow\">SmartCopying</a> website if you're interested.\n\nHTH"
+  date: '2011-04-14 15:28:00'
+  date_gmt: '2011-04-14 05:28:00'
+  id: '61'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-04-13 00:54:31
 next:
   text: Analysis of digital technologies
   url: /blog/2011/04/15/analysis-of-digital-technologies/
+pingbacks: []
 previous:
   text: Exploring minecraft
   url: /blog/2011/04/12/exploring-minecraft/
+template: blog-post.html
 title: Safe, legal and ethical practice for ICTs in schools
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.19.182
-      author_url: http://www.vrbones.com
-      content: "There was a recent release from Ed Queensland legals that clarified some\
-        \ of the copywright stuff:\n\n<blockquote>In relation to Youtube and other online\
-        \ resources, the department's position is you may rely on Section 200AB (S. 200AB)\
-        \ of the Copyright Act (a free exception involving Flexible Fair Dealings), provided\
-        \ you meet ALL of the 5 criteria:\n\n    * You must be using the copyright material\
-        \ for the purposes of giving educational instruction.\n    * Your use must be\
-        \ non-commercial.\n    * The circumstances of your use must be a special case.\n\
-        \    * Your use must not conflict with the normal exploitation of the copyright\
-        \ material you are using.\n    * Your use must not unreasonably prejudice the\
-        \ copyright owner.\n\nThese are explained more fully in the information sheet\
-        \ called <a href=\"http://www.smartcopying.edu.au/scw/Jahia/lang/en/scw/go/pid/542\"\
-        \ rel=\"nofollow\">'The new flexible dealings exception - what am I allowed to\
-        \ do?'</a> along with a decision making flow chart to help you decide if S. 200AB\
-        \ applies to what you intend doing.\n</blockquote>\nYou also need to document\
-        \ the use as part of risk assessment.\nNote also that downloading for offline\
-        \ use breaks protection measures and thus is specifically not covered under 200AP,\
-        \ even if the original content had no copywright requirements before being uploaded\
-        \ to something like YouTube.\n\nThere's a fair bit more on the <a href=\"http://www.smartcopying.edu.au\"\
-        \ rel=\"nofollow\">SmartCopying</a> website if you're interested.\n\nHTH"
-      date: '2011-04-14 15:28:00'
-      date_gmt: '2011-04-14 05:28:00'
-      id: '61'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 The assignment for ICTs for Learning Design that I am meant to be completing has a rubric with four criteria. The fourth criteria is
 

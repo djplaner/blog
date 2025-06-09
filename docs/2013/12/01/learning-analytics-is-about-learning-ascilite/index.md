@@ -1,51 +1,48 @@
----
+﻿---
 categories:
 - elearning
 - learninganalytics-elearning
-date: 2013-12-01 09:15:11+10:00
+comments: []
+date: 2013-11-30 23:15:11
 next:
   text: '"Interfaces for learning data visualisations - #ascilite."'
   url: /blog/2013/12/01/interfaces-for-learning-data-visualisations-ascilite/
+pingbacks:
+- approved: '1'
+  author: 'Learning analytics is about learning - #ascilit...'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/analyse-this/p/4011959140/2013/12/02/learning-analytics-is-about-learning-ascilite
+  content: '[&#8230;] An attempt at some live blogging from #ascilite starting with
+    the Australian Learning Analytics Summer Institute (#a-lasi). Shirley Alexander
+    chair of the keynote. Relating story of challenges of g...&nbsp; [&#8230;]'
+  date: '2013-12-02 05:30:20'
+  date_gmt: '2013-12-01 19:30:20'
+  id: '911'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: OTR Links 12/02/2013 | doug --- off the record
+  author_email: null
+  author_ip: 66.155.38.14
+  author_url: http://dougpete.wordpress.com/2013/12/02/otr-links-12022013/
+  content: "[&#8230;] Learning analytics is about learning \u2013 #ascilite | The\
+    \ Weblog of (a) David Jones [&#8230;]"
+  date: '2013-12-02 15:32:29'
+  date_gmt: '2013-12-02 05:32:29'
+  id: '912'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The external validity problem
   url: /blog/2013/11/22/the-external-validity-problem/
 tags:
 - ascilite
+template: blog-post.html
 title: '"Learning analytics is about learning - #ascilite"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Learning analytics is about learning - #ascilit...'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/analyse-this/p/4011959140/2013/12/02/learning-analytics-is-about-learning-ascilite
-      content: '[&#8230;] An attempt at some live blogging from #ascilite starting with
-        the Australian Learning Analytics Summer Institute (#a-lasi). Shirley Alexander
-        chair of the keynote. Relating story of challenges of g...&nbsp; [&#8230;]'
-      date: '2013-12-02 05:30:20'
-      date_gmt: '2013-12-01 19:30:20'
-      id: '911'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: OTR Links 12/02/2013 | doug --- off the record
-      author_email: null
-      author_ip: 66.155.38.14
-      author_url: http://dougpete.wordpress.com/2013/12/02/otr-links-12022013/
-      content: "[&#8230;] Learning analytics is about learning \u2013 #ascilite | The\
-        \ Weblog of (a) David Jones [&#8230;]"
-      date: '2013-12-02 15:32:29'
-      date_gmt: '2013-12-02 05:32:29'
-      id: '912'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 An attempt at some live blogging from [#ascilite](http://www.ascilite.org.au/conferences/sydney13/) starting with the [Australian Learning Analytics Summer Institute (#a-lasi)](http://www.ascilite.org.au/conferences/sydney13/program/workshops/a-lasi.php).
 

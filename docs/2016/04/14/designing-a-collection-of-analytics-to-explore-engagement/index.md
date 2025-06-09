@@ -1,51 +1,48 @@
----
+﻿---
 categories:
 - bad
 - pirac
 - qilters
-date: 2016-04-14 07:45:28+10:00
+comments: []
+date: 2016-04-13 21:45:28
 next:
   text: Playing with Wikity
   url: /blog/2016/04/23/playing-with-wikity/
+pingbacks:
+- approved: '1'
+  author: Playing with Wikity &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.129
+  author_url: https://davidtjones.wordpress.com/2016/04/23/playing-with-wikity/
+  content: '[&#8230;] immediate application might be to this project that is supporting
+    a group of teacher educators using analytics to understand what&#8217;s going
+    on [&#8230;]'
+  date: '2016-04-23 16:29:19'
+  date_gmt: '2016-04-23 06:29:19'
+  id: '3339'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Measures of Engagement &#8211; Computer-Supported Collaborative Learning
+  author_email: null
+  author_ip: 172.93.105.42
+  author_url: http://cscl.wikity.cc/measures-of-engagement/
+  content: '[&#8230;] I don&#8217;t have an answer yet, am just beginning to research
+    the question, but this article by David Jones seems a good jumping-off point.
+    ExternalLink [&#8230;]'
+  date: '2016-10-23 01:59:03'
+  date_gmt: '2016-10-22 15:59:03'
+  id: '3340'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Playing with D3
   url: /blog/2016/04/09/playing-with-d3/
+template: blog-post.html
 title: Designing a collection of analytics to explore "engagement"
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Playing with Wikity &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.129
-      author_url: https://davidtjones.wordpress.com/2016/04/23/playing-with-wikity/
-      content: '[&#8230;] immediate application might be to this project that is supporting
-        a group of teacher educators using analytics to understand what&#8217;s going
-        on [&#8230;]'
-      date: '2016-04-23 16:29:19'
-      date_gmt: '2016-04-23 06:29:19'
-      id: '3339'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Measures of Engagement &#8211; Computer-Supported Collaborative Learning
-      author_email: null
-      author_ip: 172.93.105.42
-      author_url: http://cscl.wikity.cc/measures-of-engagement/
-      content: '[&#8230;] I don&#8217;t have an answer yet, am just beginning to research
-        the question, but this article by David Jones seems a good jumping-off point.
-        ExternalLink [&#8230;]'
-      date: '2016-10-23 01:59:03'
-      date_gmt: '2016-10-22 15:59:03'
-      id: '3340'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm working with a group of fellow teacher educators here at USQ to explore what is happening around student engagement with our online courses. It's driven by the apparent less than stellar responses on [the QILT site](https://www.qilt.edu.au/) from our prior students around "engagement". It's also driven by some disquiet about the limitations of aggregated and de-contextualised data like that reported on the QILT site and also that arising from most learning analytics (e.g. as found [by Gašević et. al. (2015)](/blog/2016/04/03/learning-analytics-should-not-promote-one-size-fits-all-the-effects-of-instructional-conditions-in-predicting-academic-success/).
 
@@ -72,23 +69,23 @@ Specific questions to be to be answered
 
 Each of the ovals in the following diagram are intended to represent a cycle where some analytics are presented.  We'll reflect on what is revealed and generate thoughts and questions. The labels for the ovals a short-hand for a specific type of analytics. These are described in more detail below.
 
-The sequence is meant to capture the increasing contextualisation. The first four cycles would use fairly generic analytics, but analytics that reveal different and perhaps more specific detail. The last two cycles - learning design and course specific - are very specific to each course. The course specific cycle would be aimed at exploring any of the questions we identified for our individual courses as we worked through the other cycles. [![Version 1 of process](images/26380443975_d89aeb5ff8.jpg)](https://www.flickr.com/photos/david_jones/26380443975/in/dateposted-public/ "Version 1 of process") It won't be quite as neat as the above. There will be some iteration and refinement of existing and previous cycles, but the overall trend would be down.
+The sequence is meant to capture the increasing contextualisation. The first four cycles would use fairly generic analytics, but analytics that reveal different and perhaps more specific detail. The last two cycles - learning design and course specific - are very specific to each course. The course specific cycle would be aimed at exploring any of the questions we identified for our individual courses as we worked through the other cycles. [![Version 1 of process](https://djon.es/assets/blog/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/images/26380443975_d89aeb5ff8.jpg)](https://www.flickr.com/photos/david_jones/26380443975/in/dateposted-public/ "Version 1 of process") It won't be quite as neat as the above. There will be some iteration and refinement of existing and previous cycles, but the overall trend would be down.
 
 The analytics below could also be compared and analysed a variety of ways, most of which would be responding to details of our context. e.g. comparisons against mode and specialisation etc.
 
 ## Click/grade & Time/grade
 
-This cycle replicates some of the patterns from [Beer et al (2010)](http://ascilite.org.au/conferences/sydney10/procs/Beer-full.pdf) (somewhat shameless, but relevant self-citation) and related.  This is aimed at just getting the toe in the water, getting the process set up.  It's also arguably perhaps as removed from student learning/engagement as you can get. A [recent post](/blog/2016/04/09/playing-with-d3/) showed off what one of these will look like. [![EDC3100 2015 Course and grades](images/26291023316_4748084e8f_n.jpg)](https://www.flickr.com/photos/david_jones/26291023316/in/dateposted-public/ "EDC3100 2015 Course and grades")
+This cycle replicates some of the patterns from [Beer et al (2010)](http://ascilite.org.au/conferences/sydney10/procs/Beer-full.pdf) (somewhat shameless, but relevant self-citation) and related.  This is aimed at just getting the toe in the water, getting the process set up.  It's also arguably perhaps as removed from student learning/engagement as you can get. A [recent post](/blog/2016/04/09/playing-with-d3/) showed off what one of these will look like. [![EDC3100 2015 Course and grades](https://djon.es/assets/blog/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/images/26291023316_4748084e8f_n.jpg)](https://www.flickr.com/photos/david_jones/26291023316/in/dateposted-public/ "EDC3100 2015 Course and grades")
 
 This would also include the heatmap type analysis such as the following diagrams.
 
 - Which links on a course site do the students click most? e.g. the [Moodle Activity Viewer](https://github.com/damoclark/mav).
 - What days/weeks of semester do they click most? e.g. the [Moodle activity calendar heatmap](https://infiniterooms.wordpress.com/2015/08/14/when-are-they-learning-a-moodle-activity-calendar-heatmap/)
 
-[![12259871663_48602a5da1_q](images/heatmap.jpg)](https://www.flickr.com/photos/david_jones/12259871663/sizes/o/)  
+[![12259871663_48602a5da1_q](https://djon.es/assets/blog/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/images/heatmap.jpg)](https://www.flickr.com/photos/david_jones/12259871663/sizes/o/)  
 
 
-[![](images/calendar_heatmap3.png)](https://infiniterooms.files.wordpress.com/2015/08/calendar_heatmap3.png)
+[![](https://djon.es/assets/blog/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/images/calendar_heatmap3.png)](https://infiniterooms.files.wordpress.com/2015/08/calendar_heatmap3.png)
 
 ## "Rossi" data sets
 
@@ -124,7 +121,7 @@ A "dhit" is a click on a forum. This includes navigation etc. The idea here is t
 
  
 
-![](images/screen-shot.png)
+![](https://djon.es/assets/blog/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/images/screen-shot.png)
 
 ## Networks and paths
 
@@ -141,11 +138,11 @@ The following is one of my first attempts generating such a graph. It shows the 
 
 [Romero et al (2013)](http://www.sciencedirect.com/science/article/pii/S0360131513001607) offers one example.
 
-[![001 - First Graph](images/8565340958_866b1928b3_n.jpg)](https://www.flickr.com/photos/david_jones/8565340958/ "001 - First Graph")
+[![001 - First Graph](https://djon.es/assets/blog/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/images/8565340958_866b1928b3_n.jpg)](https://www.flickr.com/photos/david_jones/8565340958/ "001 - First Graph")
 
 A Sankey diagram is a method for representing flow in networks. It can be used to [understand usage of websites](http://www.phillipburger.net/wordpress/website-path-analysis-with-sankey-diagram/).  Martin Hawksey has just written [this post](https://mashe.hawksey.info/2016/04/pushing-canvas-lms-discussion-data-to-google-analytics-tips-on-google-analytics-api-integration-batch-collection-and-queue-time/) (showing how to take LMS discussion data and send it through Google analytics) which includes the following screen shot of "event flow" (a related idea).  It shows (I believe) how a particular use has moved through a discussion forum. Looks like it provides various ways to interact with this information.
 
-![](images/image_thumb-1.png)
+![](https://djon.es/assets/blog/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/images/image_thumb-1.png)
 
 Hoping we might be able to leverage some of the work Danny Liu is doing.
 

@@ -1,200 +1,198 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-01-28 13:48:46+10:00
+comments:
+- approved: '1'
+  author: colsim
+  author_email: colsim@bigpond.com
+  author_ip: 161.50.48.2
+  author_url: null
+  content: 'I''ll admit that I work in the VET sector but our cross-collaboration
+    has shown that most universities already have at least one area dedicated to enhancing
+    teaching and learning quality, if not several.
+
+
+    Has the ALTC been duplicating, supporting or supplementing the work carried out
+    in these teams?'
+  date: '2011-01-28 14:16:53'
+  date_gmt: '2011-01-28 04:16:53'
+  id: '3231'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.186.142.97
+  author_url: https://djon.es/blog/
+  content: 'I think the ALTC aim would be to support/bring together what the universities
+    are doing.
+
+
+    While this has been done, I would suggest that it has been at the expense of increasing
+    the gap between the interested L&amp;T folk and those not. I think it''s common
+    for all uni L&amp;T centres to have "the usuals". The folk that always participate.
+    "The  usuals" are a small percentage of the total academic population at a university.
+    ALTC has been getting the "usuals" from all universities together, rather than
+    helping reach the majority.'
+  date: '2011-01-28 14:59:50'
+  date_gmt: '2011-01-28 04:59:50'
+  id: '3232'
+  parent: '3231'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: cactus47
+  author_email: jason.lodge@me.com
+  author_ip: 123.100.137.118
+  author_url: null
+  content: "Although it must be conceded that the ALTC is not as efficient or effective\
+    \ as it could have been (the way that teaching citations are determined, for instance,\
+    \ is nothing short of farcical), the same can be said about the ARC. How much\
+    \ money has been spent on the ERA process to date? And we are still far from consensus\
+    \ as to whether it is viable or not.\n\nThe demise of the ALTC will affect the\
+    \ \u2018unusuals\u2019 in several ways, in many ways more than the \u2018usuals\u2019\
+    . Firstly, we are about to move into a period where student demand will drive\
+    \ our base funding. This means that senior management is about to get very interested\
+    \ in student satisfaction and retention rates. Poor quality teaching and learning\
+    \ practices will come under the direct scrutiny of those who decide on promotion\
+    \ and resource allocation. In a demand driven system, this is inevitable. The\
+    \ days of any academic with any teaching load neglecting their teaching or treating\
+    \ it as an unwelcome distraction from research are about to end. No matter what\
+    \ philosophical stance you want to take and whether we like it or not, teaching\
+    \ is now everyone\u2019s business in higher education.\n\nThe blunt instruments\
+    \ we use to measure teaching quality compound this problem. TEQSA and each institution\
+    \ are going to rely on inadequate and outdated measures of satisfaction etc. to\
+    \ determine the quality of teaching at the coalface. This data will be laid bare\
+    \ on the \u2018My University\u2019 website for all to see and will significantly\
+    \ impact institutional rankings. We no longer have a mechanism to work collaboratively\
+    \ towards better measures of student outcomes because that is one purpose of the\
+    \ ALTC, to drive this sort of innovation. This will mean that the unusuals will\
+    \ be forced to spend inordinate amounts of time ensuring that their students are\
+    \ happy, which will not only have a detrimental effect on the time they devote\
+    \ to research but will in no way guarantee that students will actually learn anything.\
+    \ The unusuals will also have no choice, if you can\u2019t provide evidence that\
+    \ you are contributing in this area, don\u2019t expect to be promoted. Either\
+    \ that or find yourself a nice research fellowship and keep your head comfortably\
+    \ buried in the sand.\n\nThis shift in focus will inevitably force universities\
+    \ to look at ways to increase satisfaction and retention to maintain and increase\
+    \ base funding. Without the ALTC, each institution will be heading down this road\
+    \ in isolation, creating additional burden on resources and massive duplication\
+    \ of effort. These resources will be diverted from the internal research funding\
+    \ available to the unusuals because the bulk of the institution\u2019s funding\
+    \ will be driven by student demand. The ALTC allows the development of strategies\
+    \ that can be implemented across the sector. Although the dissemination strategy\
+    \ was not as good as it could have been, we now have no strategy at all. Innovation\
+    \ will become the liability of each institution without the means or motivation\
+    \ to collaborate with what are essentially competing organisations.\n\nA further\
+    \ implication comes from the fact that there is one less research pot for all\
+    \ of us. Without being able to aim for ALTC funding for support, some high calibre\
+    \ researchers with international renown are going to be looking elsewhere to pay\
+    \ for their research and they will have institutional backing. This is going to\
+    \ squeeze a lot of ECRs in particular out of the running for internal and external\
+    \ funding. There are many well known learning and teaching researchers in Australia\
+    \ with extensive lists of high quality publications and track records of external\
+    \ funding. In a student demand driven higher education system, learning and teaching\
+    \ research is an easy sell to a government-funded grant scheme because the benefits\
+    \ are easily mapped to national priorities. There are going to be some big guns\
+    \ putting their hands in the NHMRC and ARC pots that need not have been previously.\n\
+    \nUltimately, the rest of the academic community \u2013 the unusuals \u2013 have\
+    \ had more than sufficient opportunity to engage with learning and teaching innovation\
+    \ and the ALTC. As rightly pointed out, many have not and that is certain to be\
+    \ at their peril. Learning and teaching is everyone\u2019s business and with student\
+    \ demand driven funding and the demise of the ALTC, the day of peril is fast approaching.\
+    \ Is it really worth it for $22m p/a when the government is trying to find $5b?\
+    \ We are all going to suffer because of this."
+  date: '2011-01-29 14:07:19'
+  date_gmt: '2011-01-29 04:07:19'
+  id: '3233'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 60.231.0.84
+  author_url: https://djon.es/blog/
+  content: 'I agree with much of what you''ve said. Is saving $22m worth it in the
+    scheme of things?  Probably not, but that was always a political decision probably
+    driven by a combination of want to kill ALTC off anyway and also being seen to
+    be cutting from a range of sources.  It will be interesting to see if in the next
+    couple of year''s if there is any Labour agenda for something to replace ALTC.  Am
+    wondering if the government is thinking that the compacts will be a way to fund
+    and drive innovation in the direction they way.
+
+
+    That said, however, I''m not convinced that demand driven funding will drive interest
+    in good teaching. That was the point of the Tutty et al (2008) quote. Some universities
+    are already in a demand driven situation and the focus has been on what gets students
+    through, rather than on good teaching. Especially if the type of student you are
+    getting is less capable and/or more pragmatic. Especially if the changes necessary
+    for good teaching are seen as too problematic, or more importantly too expensive.
+
+
+    There''s also the assumption that "good" teaching means "happy" students. There''s
+    quite a bit of literature that students have certain expectations of a university
+    education and that they get upset when those expectations aren''t met. There expectations
+    usually consist of sitting in lecture theatres being talked at. As long as they
+    are treated reasonably well, get feedback and know how to get the grade they want,
+    they''ll be happy. Or at least happy enough.
+
+
+    In addition, I''m a bit more cynical about senior management responses to demand
+    driven funding. I predict there will be an increase in standardised delivery and
+    courses.  ALTC and TEQSA are already enabling a move toward this. But I''ve seen
+    broader examples with Dean''s mandating minimal delivery mechanisms which become
+    <a href="https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/"
+    rel="nofollow">maximum delivery mechanisms</a>.
+
+
+    Time will tell.  There''s probably a decent research proposal in predicting and
+    observing what will happen. Wonder who would fund it?'
+  date: '2011-01-31 07:51:31'
+  date_gmt: '2011-01-30 21:51:31'
+  id: '3234'
+  parent: '3233'
+  type: comment
+  user_id: '1'
+date: 2011-01-28 03:48:46
 next:
   text: The state of educational data mining in 2009
   url: /blog/2011/01/30/the-state-of-educational-data-mining-in-2009/
+pingbacks:
+- approved: '1'
+  author: Is there a need for research focii? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.232
+  author_url: https://djon.es/blog/2011/02/01/is-there-a-need-for-research-focii/
+  content: '[...] are lots of contributing factors. I talked about some of those factors
+    in a post about the demise of the ALTC. There are many [...]'
+  date: '2011-02-01 16:23:35'
+  date_gmt: '2011-02-01 06:23:35'
+  id: '3235'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: ALTC and Innovation | Mark Smithers
+  author_email: null
+  author_ip: 66.147.242.157
+  author_url: http://www.masmithers.com/2011/02/02/altc-and-innovation/
+  content: '[...] of ALTC but never actually published it. Thankfully David Jones
+    (@djplaner) wrote a much more thoughtful and balanced post about the topic on
+    his own blog which is well worth reading. Particularly his thoughts on the [...]'
+  date: '2011-02-02 08:48:53'
+  date_gmt: '2011-02-01 22:48:53'
+  id: '3236'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Analytics, semantic web and cognitive science
   url: /blog/2011/01/26/analytics-semantic-web-and-cognitive-science/
+template: blog-post.html
 title: The demise of ALTC and why I'm not sad
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: colsim
-      author_email: colsim@bigpond.com
-      author_ip: 161.50.48.2
-      author_url: null
-      content: 'I''ll admit that I work in the VET sector but our cross-collaboration
-        has shown that most universities already have at least one area dedicated to enhancing
-        teaching and learning quality, if not several.
-    
-    
-        Has the ALTC been duplicating, supporting or supplementing the work carried out
-        in these teams?'
-      date: '2011-01-28 14:16:53'
-      date_gmt: '2011-01-28 04:16:53'
-      id: '3231'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.186.142.97
-      author_url: https://djon.es/blog/
-      content: 'I think the ALTC aim would be to support/bring together what the universities
-        are doing.
-    
-    
-        While this has been done, I would suggest that it has been at the expense of increasing
-        the gap between the interested L&amp;T folk and those not. I think it''s common
-        for all uni L&amp;T centres to have "the usuals". The folk that always participate.
-        "The  usuals" are a small percentage of the total academic population at a university.
-        ALTC has been getting the "usuals" from all universities together, rather than
-        helping reach the majority.'
-      date: '2011-01-28 14:59:50'
-      date_gmt: '2011-01-28 04:59:50'
-      id: '3232'
-      parent: '3231'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: cactus47
-      author_email: jason.lodge@me.com
-      author_ip: 123.100.137.118
-      author_url: null
-      content: "Although it must be conceded that the ALTC is not as efficient or effective\
-        \ as it could have been (the way that teaching citations are determined, for instance,\
-        \ is nothing short of farcical), the same can be said about the ARC. How much\
-        \ money has been spent on the ERA process to date? And we are still far from consensus\
-        \ as to whether it is viable or not.\n\nThe demise of the ALTC will affect the\
-        \ \u2018unusuals\u2019 in several ways, in many ways more than the \u2018usuals\u2019\
-        . Firstly, we are about to move into a period where student demand will drive\
-        \ our base funding. This means that senior management is about to get very interested\
-        \ in student satisfaction and retention rates. Poor quality teaching and learning\
-        \ practices will come under the direct scrutiny of those who decide on promotion\
-        \ and resource allocation. In a demand driven system, this is inevitable. The\
-        \ days of any academic with any teaching load neglecting their teaching or treating\
-        \ it as an unwelcome distraction from research are about to end. No matter what\
-        \ philosophical stance you want to take and whether we like it or not, teaching\
-        \ is now everyone\u2019s business in higher education.\n\nThe blunt instruments\
-        \ we use to measure teaching quality compound this problem. TEQSA and each institution\
-        \ are going to rely on inadequate and outdated measures of satisfaction etc. to\
-        \ determine the quality of teaching at the coalface. This data will be laid bare\
-        \ on the \u2018My University\u2019 website for all to see and will significantly\
-        \ impact institutional rankings. We no longer have a mechanism to work collaboratively\
-        \ towards better measures of student outcomes because that is one purpose of the\
-        \ ALTC, to drive this sort of innovation. This will mean that the unusuals will\
-        \ be forced to spend inordinate amounts of time ensuring that their students are\
-        \ happy, which will not only have a detrimental effect on the time they devote\
-        \ to research but will in no way guarantee that students will actually learn anything.\
-        \ The unusuals will also have no choice, if you can\u2019t provide evidence that\
-        \ you are contributing in this area, don\u2019t expect to be promoted. Either\
-        \ that or find yourself a nice research fellowship and keep your head comfortably\
-        \ buried in the sand.\n\nThis shift in focus will inevitably force universities\
-        \ to look at ways to increase satisfaction and retention to maintain and increase\
-        \ base funding. Without the ALTC, each institution will be heading down this road\
-        \ in isolation, creating additional burden on resources and massive duplication\
-        \ of effort. These resources will be diverted from the internal research funding\
-        \ available to the unusuals because the bulk of the institution\u2019s funding\
-        \ will be driven by student demand. The ALTC allows the development of strategies\
-        \ that can be implemented across the sector. Although the dissemination strategy\
-        \ was not as good as it could have been, we now have no strategy at all. Innovation\
-        \ will become the liability of each institution without the means or motivation\
-        \ to collaborate with what are essentially competing organisations.\n\nA further\
-        \ implication comes from the fact that there is one less research pot for all\
-        \ of us. Without being able to aim for ALTC funding for support, some high calibre\
-        \ researchers with international renown are going to be looking elsewhere to pay\
-        \ for their research and they will have institutional backing. This is going to\
-        \ squeeze a lot of ECRs in particular out of the running for internal and external\
-        \ funding. There are many well known learning and teaching researchers in Australia\
-        \ with extensive lists of high quality publications and track records of external\
-        \ funding. In a student demand driven higher education system, learning and teaching\
-        \ research is an easy sell to a government-funded grant scheme because the benefits\
-        \ are easily mapped to national priorities. There are going to be some big guns\
-        \ putting their hands in the NHMRC and ARC pots that need not have been previously.\n\
-        \nUltimately, the rest of the academic community \u2013 the unusuals \u2013 have\
-        \ had more than sufficient opportunity to engage with learning and teaching innovation\
-        \ and the ALTC. As rightly pointed out, many have not and that is certain to be\
-        \ at their peril. Learning and teaching is everyone\u2019s business and with student\
-        \ demand driven funding and the demise of the ALTC, the day of peril is fast approaching.\
-        \ Is it really worth it for $22m p/a when the government is trying to find $5b?\
-        \ We are all going to suffer because of this."
-      date: '2011-01-29 14:07:19'
-      date_gmt: '2011-01-29 04:07:19'
-      id: '3233'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 60.231.0.84
-      author_url: https://djon.es/blog/
-      content: 'I agree with much of what you''ve said. Is saving $22m worth it in the
-        scheme of things?  Probably not, but that was always a political decision probably
-        driven by a combination of want to kill ALTC off anyway and also being seen to
-        be cutting from a range of sources.  It will be interesting to see if in the next
-        couple of year''s if there is any Labour agenda for something to replace ALTC.  Am
-        wondering if the government is thinking that the compacts will be a way to fund
-        and drive innovation in the direction they way.
-    
-    
-        That said, however, I''m not convinced that demand driven funding will drive interest
-        in good teaching. That was the point of the Tutty et al (2008) quote. Some universities
-        are already in a demand driven situation and the focus has been on what gets students
-        through, rather than on good teaching. Especially if the type of student you are
-        getting is less capable and/or more pragmatic. Especially if the changes necessary
-        for good teaching are seen as too problematic, or more importantly too expensive.
-    
-    
-        There''s also the assumption that "good" teaching means "happy" students. There''s
-        quite a bit of literature that students have certain expectations of a university
-        education and that they get upset when those expectations aren''t met. There expectations
-        usually consist of sitting in lecture theatres being talked at. As long as they
-        are treated reasonably well, get feedback and know how to get the grade they want,
-        they''ll be happy. Or at least happy enough.
-    
-    
-        In addition, I''m a bit more cynical about senior management responses to demand
-        driven funding. I predict there will be an increase in standardised delivery and
-        courses.  ALTC and TEQSA are already enabling a move toward this. But I''ve seen
-        broader examples with Dean''s mandating minimal delivery mechanisms which become
-        <a href="https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/"
-        rel="nofollow">maximum delivery mechanisms</a>.
-    
-    
-        Time will tell.  There''s probably a decent research proposal in predicting and
-        observing what will happen. Wonder who would fund it?'
-      date: '2011-01-31 07:51:31'
-      date_gmt: '2011-01-30 21:51:31'
-      id: '3234'
-      parent: '3233'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Is there a need for research focii? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.232
-      author_url: https://djon.es/blog/2011/02/01/is-there-a-need-for-research-focii/
-      content: '[...] are lots of contributing factors. I talked about some of those factors
-        in a post about the demise of the ALTC. There are many [...]'
-      date: '2011-02-01 16:23:35'
-      date_gmt: '2011-02-01 06:23:35'
-      id: '3235'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: ALTC and Innovation | Mark Smithers
-      author_email: null
-      author_ip: 66.147.242.157
-      author_url: http://www.masmithers.com/2011/02/02/altc-and-innovation/
-      content: '[...] of ALTC but never actually published it. Thankfully David Jones
-        (@djplaner) wrote a much more thoughtful and balanced post about the topic on
-        his own blog which is well worth reading. Particularly his thoughts on the [...]'
-      date: '2011-02-02 08:48:53'
-      date_gmt: '2011-02-01 22:48:53'
-      id: '3236'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 So the [Australian Learning and Teaching Council](http://www.theaustralian.com.au/higher-education/champion-of-learning-and-teaching-gets-the-chop/story-e6frgcjx-1225995531923) has got the chop. There are [a lot of folk](http://suggest.getup.org.au/forums/60819-campaign-ideas/suggestions/1416367-reversing-the-govt-s-decision-to-abolish-the-austr?ref=title) upset about this and I can understand why. A lot of people invested a lot of time and energy into ALTC activities, some/many of which had good outcomes.
 

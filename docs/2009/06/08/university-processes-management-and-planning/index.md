@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - phd
 - psframework
 - thesis
-date: 2009-06-08 12:43:17+10:00
+comments: []
+date: 2009-06-08 02:43:17
 next:
   text: You only get this type of education in class - mythic attributes of the lecture
   url: /blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
+pingbacks:
+- approved: '1'
+  author: How to Create a Profitable PPC Campaign Management | Internet Marketing
+  author_email: null
+  author_ip: 209.59.181.47
+  author_url: http://www.life-aids.com/Internet-Marketing/?p=128
+  content: "[...] University processes \u2013 management and planning [...]"
+  date: '2009-06-10 10:53:53'
+  date_gmt: '2009-06-10 00:53:53'
+  id: '2578'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #14 &#8211; Moving to a new day &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/06/14/phd-update-14-moving-to-a-new-day/
+  content: '[...] Management and planning processes within universities [...]'
+  date: '2009-06-14 11:35:36'
+  date_gmt: '2009-06-14 01:35:36'
+  id: '2579'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #13 - back after a week off'
   url: /blog/2009/06/05/phd-update-13-back-after-a-week-off/
+template: blog-post.html
 title: University processes - management and planning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: How to Create a Profitable PPC Campaign Management | Internet Marketing
-      author_email: null
-      author_ip: 209.59.181.47
-      author_url: http://www.life-aids.com/Internet-Marketing/?p=128
-      content: "[...] University processes \u2013 management and planning [...]"
-      date: '2009-06-10 10:53:53'
-      date_gmt: '2009-06-10 00:53:53'
-      id: '2578'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #14 &#8211; Moving to a new day &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/06/14/phd-update-14-moving-to-a-new-day/
-      content: '[...] Management and planning processes within universities [...]'
-      date: '2009-06-14 11:35:36'
-      date_gmt: '2009-06-14 01:35:36'
-      id: '2579'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is the first draft of a section from [my thesis](/blog/research/phd-thesis/). I'm currently working on the [Process](/blog/2009/05/25/teleological-and-ateleological-processes/) component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). The section included below is the first of three sections that seeks to summarise/describe the types of processes used within universities.
 

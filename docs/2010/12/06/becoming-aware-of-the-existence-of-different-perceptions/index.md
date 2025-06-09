@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - academicdevelopment
-date: 2010-12-06 15:32:33+10:00
+date: 2010-12-06 05:32:33
 next:
   text: A solution for BIM and special characters?
   url: /blog/2010/12/10/a-solution-for-bim-and-special-characters/
 previous:
   text: A new theme for Moodle 2
   url: /blog/2010/12/06/a-new-theme-for-moodle-2/
+template: blog-post.html
 title: Becoming aware of the existence of different perceptions
 type: post
-template: blog-post.html
 ---
 One of the ideas proposed, or at least reportedly proposed, in [Shekerjian (1990)](http://www.amazon.com/Uncommon-Genius-Denise-Shekerjian/dp/0140109862) is that the act of becoming aware that other people hold different perceptions of some task helps you think about your own strategy. I like this idea and tend to believe that being aware of diversity of opinion can help.
 

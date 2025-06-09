@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-04-06 21:40:55+10:00
+comments: []
+date: 2009-04-06 11:40:55
 next:
   text: '"Edupunk rules: Technology I, II and 3 - understanding and improving the
     practice of instructional technology"'
   url: /blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
+  content: '[...] Blame the studentPicks up on a quote from 1912 - early days of educational
+    technology - that embodies the &#8220;blame the student&#8221; or &#8220;can&#8217;t
+    trust the student&#8221; approaches to teaching. [...]'
+  date: '2009-04-17 14:23:13'
+  date_gmt: '2009-04-17 04:23:13'
+  id: '2387'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Birnbaum&#039;s fad cycle in higher education
   url: /blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/
+template: blog-post.html
 title: Early indications of "blame the student" that continues today
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
-      content: '[...] Blame the studentPicks up on a quote from 1912 - early days of educational
-        technology - that embodies the &#8220;blame the student&#8221; or &#8220;can&#8217;t
-        trust the student&#8221; approaches to teaching. [...]'
-      date: '2009-04-17 14:23:13'
-      date_gmt: '2009-04-17 04:23:13'
-      id: '2387'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Level 1 of Biggs knowledge of teaching is "blame the student". i.e. there are good and bad students. One of the common complaints I hear from academics at universities go something like this
 

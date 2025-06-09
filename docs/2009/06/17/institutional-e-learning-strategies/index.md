@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-06-17 11:41:17+10:00
+comments: []
+date: 2009-06-17 01:41:17
 next:
   text: What can history tell us about e-learning and its future?
   url: /blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+pingbacks:
+- approved: '1'
+  author: What can history tell us about e-learning and its future? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Institutional e-learning&nbsp;strategies [...]'
+  date: '2009-06-18 10:50:35'
+  date_gmt: '2009-06-18 00:50:35'
+  id: '2608'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: How silly can enterprise IT get? Tools should fit the people, not the other
     way around
   url: /blog/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/
+template: blog-post.html
 title: Institutional e-learning strategies
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: What can history tell us about e-learning and its future? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Institutional e-learning&nbsp;strategies [...]'
-      date: '2009-06-18 10:50:35'
-      date_gmt: '2009-06-18 00:50:35'
-      id: '2608'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following contains the next section from chapter 2 of my [thesis](/blog/research/phd-thesis/) and the section on Processes. It follows on from the [section on institutional learning and teaching strategies](/blog/2009/06/11/institutional-learning-and-teaching-strategies/) and seeks to talk a bit about institutional strategies for e-learning.
 

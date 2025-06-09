@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-06-18 11:38:14+10:00
+date: 2009-06-18 01:38:14
 next:
   text: Examination focus and what it might tell us about learning and teaching
   url: /blog/2009/06/19/examination-focus-and-what-it-might-tell-us-about-learning-and-teaching/
 previous:
   text: What can history tell us about e-learning and its future?
   url: /blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+template: blog-post.html
 title: The planning fallacy, innovation and ateleological design
 type: post
-template: blog-post.html
 ---
 I occasionally get comments (usually agreement) on the quote that I include in my email signature. The quote
 

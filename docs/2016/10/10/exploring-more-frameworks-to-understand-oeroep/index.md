@@ -1,43 +1,40 @@
----
+﻿---
 categories:
 - oep
-date: 2016-10-10 15:18:54+10:00
+comments:
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.176.255.105
+  author_url: https://djon.es/blog/
+  content: '<p>Reblogged this on <a href="https://oepuqusq.wordpress.com/2016/10/10/exploring-more-frameworks-to-understand-oeroep/"
+    rel="nofollow">OEP @ UQ &amp; USQ</a> and commented: </p>
+
+    <p>Stumbled across another OEP framework.  The following introduces it (badly)
+    and contains some of my stumbling sense-making around it and other frameworks.  I''m
+    currently (subject to more reflection) learning towards thinking this new framework
+    is a potential good fit for the SITE paper.
+
+
+    NExt step I''d like to try is to map some of the OEP literature in teacher education
+    against this model and see how valuable that is.</p>'
+  date: '2016-10-10 15:22:27'
+  date_gmt: '2016-10-10 05:22:27'
+  id: '3425'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2016-10-10 05:18:54
 next:
   text: Some MAV tasters
   url: /blog/2016/10/28/some-mav-tasters/
+pingbacks: []
 previous:
   text: Some findings from initial exploration of Moodle Book usage
   url: /blog/2016/10/06/some-findings-from-initial-exploration-of-moodle-book-usage/
+template: blog-post.html
 title: Exploring more frameworks to understand OER/OEP
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.176.255.105
-      author_url: https://djon.es/blog/
-      content: '<p>Reblogged this on <a href="https://oepuqusq.wordpress.com/2016/10/10/exploring-more-frameworks-to-understand-oeroep/"
-        rel="nofollow">OEP @ UQ &amp; USQ</a> and commented: </p>
-    
-        <p>Stumbled across another OEP framework.  The following introduces it (badly)
-        and contains some of my stumbling sense-making around it and other frameworks.  I''m
-        currently (subject to more reflection) learning towards thinking this new framework
-        is a potential good fit for the SITE paper.
-    
-    
-        NExt step I''d like to try is to map some of the OEP literature in teacher education
-        against this model and see how valuable that is.</p>'
-      date: '2016-10-10 15:22:27'
-      date_gmt: '2016-10-10 05:22:27'
-      id: '3425'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 What follows is a continuation of an [earlier exploration](/blog/2016/09/01/exploring-frameworks-to-understand-oeroep/) into extant "frameworks" to understand OER/OEP.
 
@@ -56,7 +53,7 @@ So the OEP matrix consists of
 1. OER;
 2. Learning architecture aka pedagogical practice.
 
-[![Stages of OEPs](images/30191634286_c841f4d171_z.jpg)](https://www.flickr.com/photos/david_jones/30191634286/in/dateposted-public/ "Stages of OEPs")
+[![Stages of OEPs](https://djon.es/assets/blog/2016/10/10/exploring-more-frameworks-to-understand-oeroep/images/30191634286_c841f4d171_z.jpg)](https://www.flickr.com/photos/david_jones/30191634286/in/dateposted-public/ "Stages of OEPs")
 
 OPAL (2011) offers the following example
 
@@ -70,7 +67,7 @@ OPAL (2011) offers the following explanations of the low, medium and high levels
 
 Ehlers (2011) then offers "Matrix 2" in the following image. It's intended to be used to "categorise, assess, and position the existing landscape of OEP within a context".  Based on the freedom to participate and the involvement of others.
 
-[![Diffusion of OEP](images/29598751864_0e6ddc6e1d_z.jpg)](https://www.flickr.com/photos/david_jones/29598751864/in/dateposted-public/ "Diffusion of OEP")
+[![Diffusion of OEP](https://djon.es/assets/blog/2016/10/10/exploring-more-frameworks-to-understand-oeroep/images/29598751864_0e6ddc6e1d_z.jpg)](https://www.flickr.com/photos/david_jones/29598751864/in/dateposted-public/ "Diffusion of OEP")
 
 Ehler (2011) positions OEP as the 2nd phase of open. It has a focus on actually using OER to improve learning. A move that requires the combination of OER and open learning architectures.  The following bullet list describing phase 2 is provided by Ehler (2011, pp 3-4)
 
@@ -109,7 +106,7 @@ But what about moving beyond the institution? Integrating OEP into teacher educa
 
 Leaving behind those questions for now, what's the connection between the Stagg, OPAL and other frameworks?
 
-[![A continuum of practice - OEP](images/29340227956_83b5c8f4e2.jpg)](https://www.flickr.com/photos/david_jones/29340227956/in/dateposted-public/ "A continuum of practice - OEP")
+[![A continuum of practice - OEP](https://djon.es/assets/blog/2016/10/10/exploring-more-frameworks-to-understand-oeroep/images/29340227956_83b5c8f4e2.jpg)](https://www.flickr.com/photos/david_jones/29340227956/in/dateposted-public/ "A continuum of practice - OEP")
 
 The Stagg continuum appears to be finer in the granularity with which it divides OER resources/practices, but at the same stage it isn't as fine grained around pedagogical activities.  Hence the following mapping of Stagg's continuum against the OER usage dimension of the OPAL matrix doesn't quite work.  e.g. Student co-creation from Stagg doesn't map against this dimension.
 

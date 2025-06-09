@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-08-23 13:48:53+10:00
+date: 2009-08-23 03:48:53
 next:
   text: Identifying file distribution on Webfuse course sites
   url: /blog/2009/08/24/identifying-file-distribution-on-webfuse-course-sites/
 previous:
   text: LMS characteristics and limitations
   url: /blog/2009/08/23/lms-characteristics-and-limitations/
+template: blog-post.html
 title: Other information systems in higher education
 type: post
-template: blog-post.html
 ---
 The following is the next short, and still somewhat questionable, section of the Product component. [A previous post](/blog/2009/08/23/lms-characteristics-and-limitations/) discussesd the limitations of an LMS, this section talks briefly about the other types of systems necessary for learning and teaching. The next section will talk about more abstract alternatives to those most commonly associated with the LMS.
 

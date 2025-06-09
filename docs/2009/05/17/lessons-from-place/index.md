@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-05-17 21:55:27+10:00
+comments: []
+date: 2009-05-17 11:55:27
 next:
   text: Over emphasis on design and bugger all on maintenance
   url: /blog/2009/05/18/over-emphasis-on-design-and-bugger-all-on-maintenance/
+pingbacks:
+- approved: '1'
+  author: 'Phd Update #12 &#8211; some progress, but late &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/05/23/phd-update-12-some-progress-but-late/
+  content: "[...] completed and posted the section on \u201CPlace\u201D. &#8211; DONEThe\
+    \ last section was put up fairly early in the week. I&#8217;m not all that happy\
+    \ with this section. But it might [...]"
+  date: '2009-05-23 07:20:30'
+  date_gmt: '2009-05-22 21:20:30'
+  id: '2509'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Phd Update #11 - very short week'
   url: /blog/2009/05/15/phd-update-11-very-short-week/
+template: blog-post.html
 title: Lessons from place
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Phd Update #12 &#8211; some progress, but late &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/05/23/phd-update-12-some-progress-but-late/
-      content: "[...] completed and posted the section on \u201CPlace\u201D. &#8211; DONEThe\
-        \ last section was put up fairly early in the week. I&#8217;m not all that happy\
-        \ with this section. But it might [...]"
-      date: '2009-05-23 07:20:30'
-      date_gmt: '2009-05-22 21:20:30'
-      id: '2509'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the last part of the [Place section](/blog/2009/05/06/place-component-of-the-ps-framework/) of chatper 2 of [my thesis](/blog/research/phd-thesis/). It's not that good, but enough has been done to get it out and await feedback.
 

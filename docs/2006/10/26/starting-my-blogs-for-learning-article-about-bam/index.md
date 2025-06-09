@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bam
-date: 2006-10-26 14:30:17+10:00
+date: 2006-10-26 04:30:17
 next:
   text: What should the institution provide in a Web 2.0 world?
   url: /blog/2006/10/26/what-should-the-institution-provide-in-a-web-20-world/
 previous:
   text: Additional improvements to BAM
   url: /blog/2006/10/25/additional-improvements-to-bam/
+template: blog-post.html
 title: Starting my "blogs for learning" article about BAM
 type: post
-template: blog-post.html
 ---
 [blogs for learning](http://blogsforlearning.msu.edu/) is an "online resource about instructional blogging being set up by Michigan State University. I've volunteered/been asked to write an article about the use of blogs in [COIS20025](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/) and [BAM](http://cq-pan.cqu.edu.au/david-jones/Projects/BAM/).
 

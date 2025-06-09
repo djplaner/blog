@@ -1,23 +1,19 @@
----
+﻿---
 categories:
 - eded20455
 - teaching
-date: 2011-06-16 21:24:30+10:00
+comments: []
+date: 2011-06-16 11:24:30
 next:
   text: A new term dawns
   url: /blog/2011/06/20/a-new-term-dawns/
+pingbacks: []
 previous:
   text: Design Rationale - ICTs for E-Learning A3
   url: /blog/2011/06/05/design-rationale-icts-for-e-learning-a3-part-2/
+template: blog-post.html
 title: A simple class management plan for beginning teachers
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 The following is part of an assignment for my study to become a teacher through [CQU](http://www.cqu.edu.au/). It's written as a letter/report/web page, an odd mix of genre.
 
@@ -52,7 +48,7 @@ Interest in class management (and related terms) is not recent. Figure 1 (click 
 
 > In these lectures on School Management, as accomplished chiefly in Class Management, I have endeavored, by presenting the real aims and ends of school training, the formation and fixation of correct habits,
 
-[![Incidence of class management and related terms](images/5839115596_424067eded_m.jpg)](http://www.flickr.com/photos/david_jones/5839115596/ "Incidence of class management and related terms by David T Jones, on Flickr") _Figure 1. Incidence of class management and related terms from [Ngrams](http://ngrams.googlelabs.com/graph?content=behavior+management,+class+management,+classroom+management&year_start=1800&year_end=2000&corpus=0&smoothing=3)_
+[![Incidence of class management and related terms](https://djon.es/assets/blog/2011/06/16/a-simple-class-management-plan-for-beginning-teachers/images/5839115596_424067eded_m.jpg)](http://www.flickr.com/photos/david_jones/5839115596/ "Incidence of class management and related terms by David T Jones, on Flickr") _Figure 1. Incidence of class management and related terms from [Ngrams](http://ngrams.googlelabs.com/graph?content=behavior+management,+class+management,+classroom+management&year_start=1800&year_end=2000&corpus=0&smoothing=3)_
 
 Since then many different perspectives on class management have been taken. Powell and Todd (2004, p. 2) identify perhaps the most common perception when they suggest that for many teachers (and the popular media) behaviour or class management is “solely concerned with establishing control over disruptive students”. McCaslin and Good (1998) offer a related perspective when they descibe how class management is typically seen as ensuring students respond quickly to the demands and goals of the teacher. Many authors, including Evertson and Weinstein (2006) identify the apparent contradiction between this “teacher as controller” perspective of class management and modern views of learning that encourage student independence, understanding, problem solving, and active participation. As an alternative to the discipline or control definition of class management, Evertson and Weinstein (2006, p. 4) offer this definition
 
@@ -79,7 +75,7 @@ _Adapted from “A systematic review of how theories explain learning behaviour 
 
 Figure 2 (click on the figure to see a larger version) offers another perspective on the various models that have been used to view and understand behaviour. In presenting the diagram in Figure 2, Conway (2009, pp. 130-132) offers a brief description of each of the different models. Conway (2009) does describe the behavioural model – with its focus observing behaviour and then responding without examining underlying causes - as previously the most relevant approach to education. With the ecological and sociological taker a broader, more eclectic approach drawing on the other models.
 
-[![Conceptual models of behaviour](images/5835729738_6ca2895fec_m.jpg)](http://www.flickr.com/photos/david_jones/5835729738/ "Conceptual models of behaviour by David T Jones, on Flickr") _Figure 2. Conceptual models of behaviour. Adapted from “Behaviour and support management”, by R. Conway, 2009, in Education for Inclusion and Diversity, A. Ashman, J. Elkins (eds), p. 131._
+[![Conceptual models of behaviour](https://djon.es/assets/blog/2011/06/16/a-simple-class-management-plan-for-beginning-teachers/images/5835729738_6ca2895fec_m.jpg)](http://www.flickr.com/photos/david_jones/5835729738/ "Conceptual models of behaviour by David T Jones, on Flickr") _Figure 2. Conceptual models of behaviour. Adapted from “Behaviour and support management”, by R. Conway, 2009, in Education for Inclusion and Diversity, A. Ashman, J. Elkins (eds), p. 131._
 
 #### It's complex
 
@@ -89,7 +85,7 @@ Another perspective of behaviour management, one that informs the ecological and
 
 Powell and Todd (2004, p. 17) echo this perspective when they describe learning behaviour as “complex, diverse, based on interactional processes and has multiple valid outcomes”. The observation by Schon (1984) that the rigid application of principles or theories is not sufficient since each teaching situation is unique mirrors the perspective provided by CAS. It seems likely that insights from CAS would prove useful in thinking about class management. The following video from uses a children’s birthday party to describe the differences between a CAS approach and two alternative approaches.
 
-http://www.youtube.com/watch?v=Miwb92eZaJg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Miwb92eZaJg?si=my5DM4RGTRe34GUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Know yourself, your students and context
 

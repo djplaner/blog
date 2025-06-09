@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-11-07 23:04:25+10:00
+date: 2010-11-07 13:04:25
 next:
   text: Scaffolding, context-sensitive conglomerations - v2.0
   url: /blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/
 previous:
   text: Crisis in higher education and limitations that prevent change
   url: /blog/2010/11/01/crisis-in-higher-education-and-limitations-that-prevent-change/
+template: blog-post.html
 title: A story of the power of intrinsic motivation
 type: post
-template: blog-post.html
 ---
 This weekend provided a wonderful story of the power of intrinsic motivation, and a perfect example of what I think is increasingly wrong with Australian higher education, especially its use of technology.
 

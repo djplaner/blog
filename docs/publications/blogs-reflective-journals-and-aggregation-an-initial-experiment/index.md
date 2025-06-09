@@ -1,85 +1,82 @@
----
-date: 2009-02-10 14:15:49+10:00
+﻿---
+comments: []
+date: 2009-02-10 04:15:49
+pingbacks:
+- approved: '1'
+  author: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
+  content: '[...] potential updates to BAM - a step towards breaking the LMS/CMS&nbsp;orthodoxy  The
+    initial design and use of the Blog Aggregation Management (BAM) system was, in
+    part, designed to try out approaches that [...]'
+  date: '2009-03-02 15:40:19'
+  date_gmt: '2009-03-02 05:40:19'
+  id: '2122'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: An alternate BAM related idea &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.160
+  author_url: https://djon.es/blog/2009/03/11/an-alternate-bam-related-idea/
+  content: '[...] original rationale and design for BAM was to support and improve
+    student usage of individual reflective journals and enable academic [...]'
+  date: '2009-03-11 10:49:56'
+  date_gmt: '2009-03-11 00:49:56'
+  id: '2123'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: First official BAM paper done &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/04/30/first-official-bam-paper-done/
+  content: '[...] initial experiment in the second half of 2006 has been the topic
+    of a report for a website and some blog posts. However, late last year Jo and
+    I submitted a paper to EdMedia&#8217;2009. It [...]'
+  date: '2009-04-30 09:22:33'
+  date_gmt: '2009-04-29 23:22:33'
+  id: '2124'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Group 1 Technologies: Blogs, Wikis and Websites &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2011/04/06/group-1-technologies-blogs-wikis-and-websites/
+  content: '[...] Jones, D. (2006). Blogs, reflective journals and aggregation: An
+    initial experiment. Retrieved April 4, 2011, from https://djon.es/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-e....
+    [...]'
+  date: '2011-04-06 11:46:27'
+  date_gmt: '2011-04-06 01:46:27'
+  id: '2125'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: OEP, institutions and culture &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.68
+  author_url: https://davidtjones.wordpress.com/2016/09/21/oep-institutions-and-culture/
+  content: '[&#8230;] blogs/github to thinking about how blogs/github might be leveraged
+    in an interesting OEP way. Even the initial development and application of BAM
+    (the non-Moodle predecessor) of BIM was driven by a fairly uninspired pedagogical
+    application [&#8230;]'
+  date: '2016-09-21 15:40:45'
+  date_gmt: '2016-09-21 05:40:45'
+  id: '2126'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Blogs, reflective journals and aggregation: An initial experiment"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
-      content: '[...] potential updates to BAM - a step towards breaking the LMS/CMS&nbsp;orthodoxy  The
-        initial design and use of the Blog Aggregation Management (BAM) system was, in
-        part, designed to try out approaches that [...]'
-      date: '2009-03-02 15:40:19'
-      date_gmt: '2009-03-02 05:40:19'
-      id: '2122'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: An alternate BAM related idea &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.160
-      author_url: https://djon.es/blog/2009/03/11/an-alternate-bam-related-idea/
-      content: '[...] original rationale and design for BAM was to support and improve
-        student usage of individual reflective journals and enable academic [...]'
-      date: '2009-03-11 10:49:56'
-      date_gmt: '2009-03-11 00:49:56'
-      id: '2123'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: First official BAM paper done &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/04/30/first-official-bam-paper-done/
-      content: '[...] initial experiment in the second half of 2006 has been the topic
-        of a report for a website and some blog posts. However, late last year Jo and
-        I submitted a paper to EdMedia&#8217;2009. It [...]'
-      date: '2009-04-30 09:22:33'
-      date_gmt: '2009-04-29 23:22:33'
-      id: '2124'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Group 1 Technologies: Blogs, Wikis and Websites &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2011/04/06/group-1-technologies-blogs-wikis-and-websites/
-      content: '[...] Jones, D. (2006). Blogs, reflective journals and aggregation: An
-        initial experiment. Retrieved April 4, 2011, from https://djon.es/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-e....
-        [...]'
-      date: '2011-04-06 11:46:27'
-      date_gmt: '2011-04-06 01:46:27'
-      id: '2125'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: OEP, institutions and culture &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.68
-      author_url: https://davidtjones.wordpress.com/2016/09/21/oep-institutions-and-culture/
-      content: '[&#8230;] blogs/github to thinking about how blogs/github might be leveraged
-        in an interesting OEP way. Even the initial development and application of BAM
-        (the non-Moodle predecessor) of BIM was driven by a fairly uninspired pedagogical
-        application [&#8230;]'
-      date: '2016-09-21 15:40:45'
-      date_gmt: '2016-09-21 05:40:45'
-      id: '2126'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This paper was originally written for the [Blogs for Learning](http://blogsforlearning.msu.edu/) site. Additional information about the BAM project can be [found here](/blog/research/bam-blog-aggregation-management/).
 
@@ -138,19 +135,19 @@ Table 2 - Reflective journal questions for Term 2, 2006 offering of COIS20025
 
 Once their blog was created students had to register their blog (Figure 1) with the CQU Blog Aggregation Management (BAM) system. BAM was developed to retrieve, store and manipulate the RSS or Atom feeds (Parry 2006) of each student's blog and integrate this information with a range of CQU information systems including staff marking responsibilities, online assignment management, copy/plagiarism detection and student records system. BAM also provided an interface used by staff to manage (Figure 2), track (Figure 3) and mark (Figure 4) their students' journal entries. BAM also kept a mirror of the feeds for all student blogs on a CQU server.
 
-[![BAM blog registration](images/3268716454_881188b8eb_o.png)](http://www.flickr.com/photos/david_jones/3268716454/ "BAM blog registration by David T Jones, on Flickr")
+[![BAM blog registration](https://djon.es/assets/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/images/3268716454_881188b8eb_o.png)](http://www.flickr.com/photos/david_jones/3268716454/ "BAM blog registration by David T Jones, on Flickr")
 
 **Figure 1 - Blog registration page**
 
-[![BAM show student blog details](images/3268716654_45968d797b_o.png)](http://www.flickr.com/photos/david_jones/3268716654/ "BAM show student blog details by David T Jones, on Flickr")
+[![BAM show student blog details](https://djon.es/assets/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/images/3268716654_45968d797b_o.png)](http://www.flickr.com/photos/david_jones/3268716654/ "BAM show student blog details by David T Jones, on Flickr")
 
 **Figure 2 - BAM blog details page**
 
-[![BAM show all student posts page](images/3268716836_341b600cbc_o.png)](http://www.flickr.com/photos/david_jones/3268716836/ "BAM show all student posts page by David T Jones, on Flickr")
+[![BAM show all student posts page](https://djon.es/assets/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/images/3268716836_341b600cbc_o.png)](http://www.flickr.com/photos/david_jones/3268716836/ "BAM show all student posts page by David T Jones, on Flickr")
 
 **Figure 3 - BAM show posts page**
 
-[![BAM mark post page](images/3267891725_40faa5316a_o.png)](http://www.flickr.com/photos/david_jones/3267891725/ "BAM mark post page by David T Jones, on Flickr")
+[![BAM mark post page](https://djon.es/assets/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/images/3267891725_40faa5316a_o.png)](http://www.flickr.com/photos/david_jones/3267891725/ "BAM mark post page by David T Jones, on Flickr")
 
 **Figure 4 - BAM mark posts page**
 
@@ -185,7 +182,7 @@ There has also been concern raised about the ethical and legal considerations ab
 
 This work was discussed at two presentations given at CQU in May and September of 2006. The slides and video of those presentations is available on the web at http://cq-pan.cqu.edu.au/david-jones/Projects/BAM/Presentations/
 
-[![Technorati showing COIS20025 posts](images/3267892043_343fb674e6_o.png)](http://www.flickr.com/photos/david_jones/3267892043/ "Technorati showing COIS20025 posts by David T Jones, on Flickr")
+[![Technorati showing COIS20025 posts](https://djon.es/assets/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/images/3267892043_343fb674e6_o.png)](http://www.flickr.com/photos/david_jones/3267892043/ "Technorati showing COIS20025 posts by David T Jones, on Flickr")
 
 **Figure 5**
 

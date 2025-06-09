@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - elearning
-date: 2015-09-03 20:36:46+10:00
+date: 2015-09-03 10:36:46
 next:
   text: Design of a BAD approach to developing TPACK
   url: /blog/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
 previous:
   text: The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning
   url: /blog/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/
+template: blog-post.html
 title: '"Educational technology: deja vu all over again"'
 type: post
-template: blog-post.html
 ---
 I must be getting old and have spent far too long in universities and educational technology. I keep seeing the wheel being reinvented all over again.
 

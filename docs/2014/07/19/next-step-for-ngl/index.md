@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-07-19 08:49:25+10:00
+date: 2014-07-18 22:49:25
 next:
   text: Me as learner - WoW, MMPORGs and learning
   url: /blog/2014/07/23/me-as-learner-wow-mmporgs-and-learning/
@@ -9,9 +9,9 @@ previous:
   text: Designing a course on &quot;Networked and Global Learning&quot; - scope, thoughts
     and call for suggestions
   url: /blog/2014/07/07/designing-a-course-on-networked-and-global-learning-scope-thoughts-and-call-for-suggestions/
+template: blog-post.html
 title: Next step for NGL
 type: post
-template: blog-post.html
 ---
 _Note:_ Most of the following was written a week or so ago. Since then [course site](https://netgl.wordpress.com/) and week 1 has come into being. Also, it appears that enrolment in the course has skyrocketed up to 15.
 

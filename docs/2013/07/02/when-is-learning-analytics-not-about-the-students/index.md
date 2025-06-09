@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - elearning
 - indicators
-date: 2013-07-02 15:46:52+10:00
+date: 2013-07-02 05:46:52
 next:
   text: A quick search for a Google reader alternative
   url: /blog/2013/07/07/a-quick-search-for-a-google-reader-alternative/
@@ -11,9 +11,9 @@ previous:
   url: /blog/2013/07/02/identifying-and-filling-some-tpack-holes/
 tags:
 - lasi2013
+template: blog-post.html
 title: When is learning analytics not about the students?
 type: post
-template: blog-post.html
 ---
 Sadly, but not surprisingly, I missed out on an invite to [LASI 2013](http://www.solaresearch.org/events/lasi/). But I am able to follow the conversation via other means such as the [LASI blog aggregator](http://learninganalyticsinstitutes.net/). Via the aggregator I've come across [this post](http://miketissenbaum.com/quick-thoughts-on-the-opening-sessions-of-lasi-2013/) from Mike Tissenbaum reflecting on the opening sessions.
 

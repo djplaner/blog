@@ -1,81 +1,79 @@
----
+﻿---
 categories:
 - chapter-3
 - design-theory
 - elearning
 - thesis
-date: 2010-03-18 21:17:42+10:00
+comments:
+- approved: '1'
+  author: estelaripa
+  author_email: estelaripa@yahoo.es
+  author_ip: 200.232.200.165
+  author_url: http://estelaripa.wordpress.com
+  content: Thanks!! I`m trying to make a similar task (acomplish my thesis, write
+    my blog as an aid to this) and your blog makes me feel less lonely and provides
+    to me very interesting inputs!!! (Sorry about my english ;)
+  date: '2010-04-01 01:42:32'
+  date_gmt: '2010-03-31 15:42:32'
+  id: '2973'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'G''day,
+
+
+    Happy to find a fellow traveler on the PhD journey.  Thanks for the comments on
+    the blog, I''m sorry to say that in recent months I''ve neglected the PhD reports.  Must
+    get back into those.
+
+
+    It''s interesting to see the connections that form, and how unexpected they can
+    be.  It must be over a year now that Diego and I first connected, and now another
+    connection is formed.  Also interesting to see some of the familiar names and
+    discussions in your blog, but also some new and interesting ones.
+
+
+    What''s your thesis topic?  From your blog, I''m guessing something around e-learning,
+    online communities?
+
+
+    David.'
+  date: '2010-04-01 09:10:05'
+  date_gmt: '2010-03-31 23:10:05'
+  id: '2975'
+  parent: '2973'
+  type: comment
+  user_id: '1'
+date: 2010-03-18 11:17:42
 next:
   text: '"Limits in developing innovative pedagogy with Moodle: The story of BIM"'
   url: /blog/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
+pingbacks:
+- approved: '1'
+  author: Blog de tesis, por David Jones &laquo; Estelaripa&#039;s Blog
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: http://estelaripa.wordpress.com/2010/03/31/blog-de-tesis-por-david-jones/
+  content: "[...] a borradores de capitulos como:\_Research Method \u2013 Overview\
+    \ \xAB The Weblog of (a) David Jones. Donde ofrece un cuadro interesante de los\
+    \ paradigmas de [...]"
+  date: '2010-04-01 02:16:27'
+  date_gmt: '2010-03-31 16:16:27'
+  id: '2974'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Embedding behaviour modification - paper summary
   url: /blog/2010/03/17/embedding-behaviour-modification-paper-summary/
+template: blog-post.html
 title: Research Method - Overview
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: estelaripa
-      author_email: estelaripa@yahoo.es
-      author_ip: 200.232.200.165
-      author_url: http://estelaripa.wordpress.com
-      content: Thanks!! I`m trying to make a similar task (acomplish my thesis, write
-        my blog as an aid to this) and your blog makes me feel less lonely and provides
-        to me very interesting inputs!!! (Sorry about my english ;)
-      date: '2010-04-01 01:42:32'
-      date_gmt: '2010-03-31 15:42:32'
-      id: '2973'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'G''day,
-    
-    
-        Happy to find a fellow traveler on the PhD journey.  Thanks for the comments on
-        the blog, I''m sorry to say that in recent months I''ve neglected the PhD reports.  Must
-        get back into those.
-    
-    
-        It''s interesting to see the connections that form, and how unexpected they can
-        be.  It must be over a year now that Diego and I first connected, and now another
-        connection is formed.  Also interesting to see some of the familiar names and
-        discussions in your blog, but also some new and interesting ones.
-    
-    
-        What''s your thesis topic?  From your blog, I''m guessing something around e-learning,
-        online communities?
-    
-    
-        David.'
-      date: '2010-04-01 09:10:05'
-      date_gmt: '2010-03-31 23:10:05'
-      id: '2975'
-      parent: '2973'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Blog de tesis, por David Jones &laquo; Estelaripa&#039;s Blog
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: http://estelaripa.wordpress.com/2010/03/31/blog-de-tesis-por-david-jones/
-      content: "[...] a borradores de capitulos como:\_Research Method \u2013 Overview\
-        \ \xAB The Weblog of (a) David Jones. Donde ofrece un cuadro interesante de los\
-        \ paradigmas de [...]"
-      date: '2010-04-01 02:16:27'
-      date_gmt: '2010-03-31 16:16:27'
-      id: '2974'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the first part of chapter 3 of my thesis. The aim of this part is to explain the broad view of research that informs the work. The second part will give more specific details about the specific method used. Over the next week, I'm re-reading this chapter, when the fixes are done, I will upload a completed version.
 

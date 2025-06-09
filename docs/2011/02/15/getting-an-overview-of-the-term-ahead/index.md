@@ -1,104 +1,102 @@
----
+﻿---
 categories:
 - journey
 - teaching
-date: 2011-02-15 17:25:30+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.106.224
+  author_url: http://www.vrbones.com
+  content: 'You could try linking your google accounts through the <a href="https://www.google.com/accounts/b/0/ManageAccount"
+    rel="nofollow">account management section</a> of google, but I haven''t done that
+    for any serious swapping, just a majority primary account with an occasional dabble
+    into the secondary (and tertiary) accounts. Having multiple google accounts is
+    still a PITA though, and sometimes it''s just worth using the privacy mode on
+    the browser to keep the cookies where they are supposed to be rather than attempting
+    to amalgamate everything.
+
+
+    Funnily enough the start of my DipEd was the catalyst to try to centralize all
+    my email sources, but try as I might I just couldn''t get work exchange server,
+    Uni, gmail, hotmail, and several other smaller acounts into one mailbox. iPhone
+    finally saved the day by having a single device that could link up to all accounts,
+    and still keep the relevance required to reply appropriately from the correct
+    account. Having Uni now on gmail should make the process easier though as you
+    should be able to set up your primary gmail account to pull from your Uni one.
+    That way you can have the Uni email automatically tagged for you and also have
+    the opportunity of replying from the appropriate account.
+
+
+    Good luck with the course. The assessment looks relatively mild when you lay it
+    out like that ;)'
+  date: '2011-02-15 23:05:27'
+  date_gmt: '2011-02-15 13:05:27'
+  id: '3256'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.168.91.18
+  author_url: https://djon.es/blog/
+  content: :) There are a lot of support activities associated with that assessment,
+    as I'm sure you know, so it's not as straight-forward. Especially given the need
+    to meet the expected requirements of the staff involved.  Should be an interesting
+    few weeks as it gets started.
+  date: '2011-02-16 09:30:10'
+  date_gmt: '2011-02-15 23:30:10'
+  id: '3257'
+  parent: '3256'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Jo Luck
+  author_email: j.luck@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: null
+  content: 'Hi David, last week I went to the demo of the student portal and asked
+    a question about creating a student timetable. I was told that a personalised
+    timetable is available for the students on the International campuses but that
+    it was too complex to create one for the domestic students.
+
+
+    In addition, I asked about staff having access to a personalised portal and was
+    told that would not be happening in the immediate future. As a lecturer I can
+    NOT see what the students have in the portal. Very hard to encourage students
+    to use the tools in the student portal when you don''t have access. *Sigh*'
+  date: '2011-02-16 10:29:52'
+  date_gmt: '2011-02-16 00:29:52'
+  id: '3258'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-02-15 07:25:30
 next:
   text: How hard is it to get a personalised class timetable?
   url: /blog/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/
+pingbacks:
+- approved: '1'
+  author: How hard is it to get a personalised class timetable? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.109
+  author_url: https://djon.es/blog/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/
+  content: '[...] it is too complex to create a personalised class timetable for students
+    at the institution I&#8217;m attending. I [...]'
+  date: '2011-02-16 13:57:18'
+  date_gmt: '2011-02-16 03:57:18'
+  id: '3259'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'bim2: Some more coordinator tabs'
   url: /blog/2011/02/13/bim2-some-more-coordinator-tabs/
+template: blog-post.html
 title: Getting an overview of the term ahead
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.106.224
-      author_url: http://www.vrbones.com
-      content: 'You could try linking your google accounts through the <a href="https://www.google.com/accounts/b/0/ManageAccount"
-        rel="nofollow">account management section</a> of google, but I haven''t done that
-        for any serious swapping, just a majority primary account with an occasional dabble
-        into the secondary (and tertiary) accounts. Having multiple google accounts is
-        still a PITA though, and sometimes it''s just worth using the privacy mode on
-        the browser to keep the cookies where they are supposed to be rather than attempting
-        to amalgamate everything.
-    
-    
-        Funnily enough the start of my DipEd was the catalyst to try to centralize all
-        my email sources, but try as I might I just couldn''t get work exchange server,
-        Uni, gmail, hotmail, and several other smaller acounts into one mailbox. iPhone
-        finally saved the day by having a single device that could link up to all accounts,
-        and still keep the relevance required to reply appropriately from the correct
-        account. Having Uni now on gmail should make the process easier though as you
-        should be able to set up your primary gmail account to pull from your Uni one.
-        That way you can have the Uni email automatically tagged for you and also have
-        the opportunity of replying from the appropriate account.
-    
-    
-        Good luck with the course. The assessment looks relatively mild when you lay it
-        out like that ;)'
-      date: '2011-02-15 23:05:27'
-      date_gmt: '2011-02-15 13:05:27'
-      id: '3256'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.168.91.18
-      author_url: https://djon.es/blog/
-      content: :) There are a lot of support activities associated with that assessment,
-        as I'm sure you know, so it's not as straight-forward. Especially given the need
-        to meet the expected requirements of the staff involved.  Should be an interesting
-        few weeks as it gets started.
-      date: '2011-02-16 09:30:10'
-      date_gmt: '2011-02-15 23:30:10'
-      id: '3257'
-      parent: '3256'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Jo Luck
-      author_email: j.luck@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: null
-      content: 'Hi David, last week I went to the demo of the student portal and asked
-        a question about creating a student timetable. I was told that a personalised
-        timetable is available for the students on the International campuses but that
-        it was too complex to create one for the domestic students.
-    
-    
-        In addition, I asked about staff having access to a personalised portal and was
-        told that would not be happening in the immediate future. As a lecturer I can
-        NOT see what the students have in the portal. Very hard to encourage students
-        to use the tools in the student portal when you don''t have access. *Sigh*'
-      date: '2011-02-16 10:29:52'
-      date_gmt: '2011-02-16 00:29:52'
-      id: '3258'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: How hard is it to get a personalised class timetable? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.109
-      author_url: https://djon.es/blog/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/
-      content: '[...] it is too complex to create a personalised class timetable for students
-        at the institution I&#8217;m attending. I [...]'
-      date: '2011-02-16 13:57:18'
-      date_gmt: '2011-02-16 03:57:18'
-      id: '3259'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In the next couple of weeks I re-commence my face-to-face university education. This time in a Graduate Diploma in Learning and Teaching in order to become a high school teacher. As it's less than two weeks from the start of term, the materials for the courses are now becoming ready. The following is an ad hoc collection of thoughts and experiences as I try to get an overview of the material and the term ahead.
 

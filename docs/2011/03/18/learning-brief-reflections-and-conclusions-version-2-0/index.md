@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-03-18 10:21:07+10:00
+date: 2011-03-18 00:21:07
 next:
   text: '"Literacy and Numeracy: Week 3"'
   url: /blog/2011/03/20/literacy-and-numeracy-week-3/
 previous:
   text: 'Reflection and conclusions: Learning brief'
   url: /blog/2011/03/15/reflection-and-conclusions-learning-brief/
+template: blog-post.html
 title: Learning brief - Reflections and conclusions - version 2.0
 type: post
-template: blog-post.html
 ---
 This is version 2 of an attempt at the [first assignment](/blog/2011/03/15/reflection-and-conclusions-learning-brief/) for the ICTs for Learning Design course.
 

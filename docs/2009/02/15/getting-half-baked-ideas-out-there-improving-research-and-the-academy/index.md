@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - cognitiveedge
@@ -9,53 +9,50 @@ categories:
 - lmsevaluation
 - react
 - thesis
-date: 2009-02-15 12:06:56+10:00
+comments: []
+date: 2009-02-15 02:06:56
 next:
   text: RSS feeds into course management systems - why?
   url: /blog/2009/02/15/rss-feeds-into-course-management-systems-why/
+pingbacks:
+- approved: '1'
+  author: Some ideas for e-learning indicators - releasing half-baked ideas &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.143
+  author_url: https://djon.es/blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/
+  content: '[...] post is an attempt to live up to some of the ideas of Jon Udell
+    that I discussed in this post about getting half-baked ideas out there. Col and
+    I have talked a bit today and I&#8217;ve also [...]'
+  date: '2009-02-17 15:00:24'
+  date_gmt: '2009-02-17 05:00:24'
+  id: '2137'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: An ill-informed observation on connectivism and other learning theories
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.162
+  author_url: https://djon.es/blog/2009/06/09/an-ill-informed-observation-on-connectivism-and-other-learning-theories/
+  content: '[...] Disclaimer: This is a complex question and this little post will
+    not cover everything (not the least because I&#8217;m somewhat clueless in the
+    topic). In fact, I&#8217;m focusing on just one point. This post is perhaps the
+    best example in my blog of me sharing a half-baked idea. [...]'
+  date: '2009-06-09 15:26:50'
+  date_gmt: '2009-06-09 05:26:50'
+  id: '2138'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Alternatives for the institutional implementation of e-learning: Lessons
     from 12 years of  Webfuse'
   url: /blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/
+template: blog-post.html
 title: '"Getting half-baked ideas out there: improving research and the academy"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Some ideas for e-learning indicators - releasing half-baked ideas &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.143
-      author_url: https://djon.es/blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/
-      content: '[...] post is an attempt to live up to some of the ideas of Jon Udell
-        that I discussed in this post about getting half-baked ideas out there. Col and
-        I have talked a bit today and I&#8217;ve also [...]'
-      date: '2009-02-17 15:00:24'
-      date_gmt: '2009-02-17 05:00:24'
-      id: '2137'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: An ill-informed observation on connectivism and other learning theories
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.162
-      author_url: https://djon.es/blog/2009/06/09/an-ill-informed-observation-on-connectivism-and-other-learning-theories/
-      content: '[...] Disclaimer: This is a complex question and this little post will
-        not cover everything (not the least because I&#8217;m somewhat clueless in the
-        topic). In fact, I&#8217;m focusing on just one point. This post is perhaps the
-        best example in my blog of me sharing a half-baked idea. [...]'
-      date: '2009-06-09 15:26:50'
-      date_gmt: '2009-06-09 05:26:50'
-      id: '2138'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In a previous post examining [one reason folk don't take to e-learning](/blog/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/) I included the following quote from [a book by Carolyn Marvin](http://www.amazon.com/When-Old-Technologies-Were-Communication/dp/0195063414/ref=sr_1_1?ie=UTF8&s=books&qid=1234322975&sr=8-1)
 

@@ -1,49 +1,46 @@
----
+﻿---
 categories:
 - elearning
 - plescquni
-date: 2010-07-22 11:03:00+10:00
+comments: []
+date: 2010-07-22 01:03:00
 next:
   text: '"PLEs and the institution: the wrong problem"'
   url: /blog/2010/07/23/ples-and-the-institution-the-wrong-problem/
+pingbacks:
+- approved: '1'
+  author: 'PLEs and the institution: the wrong problem &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 72.233.104.119
+  author_url: https://djon.es/blog/2010/07/23/ples-and-the-institution-the-wrong-problem/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    How to handle the marriage of PLEs and&nbsp;institutions [...]'
+  date: '2010-07-23 10:04:25'
+  date_gmt: '2010-07-23 00:04:25'
+  id: '3129'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Web 2.0 no meu Diigo (weekly) &laquo; Web 2.0 PT
+  author_email: null
+  author_ip: 74.200.247.111
+  author_url: http://web20pt.wordpress.com/2010/08/01/web-2-0-no-meu-diigo-weekly-41/
+  content: "[...] How to handle the marriage of PLEs and institutions \xAB The Weblog\
+    \ of (a) David Jones [...]"
+  date: '2010-11-23 22:35:48'
+  date_gmt: '2010-11-23 12:35:48'
+  id: '3130'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Features used in Webfuse course sites
   url: /blog/2010/07/21/features-used-in-webfuse-course-sites/
+template: blog-post.html
 title: How to handle the marriage of PLEs and institutions
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PLEs and the institution: the wrong problem &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 72.233.104.119
-      author_url: https://djon.es/blog/2010/07/23/ples-and-the-institution-the-wrong-problem/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        How to handle the marriage of PLEs and&nbsp;institutions [...]'
-      date: '2010-07-23 10:04:25'
-      date_gmt: '2010-07-23 00:04:25'
-      id: '3129'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Web 2.0 no meu Diigo (weekly) &laquo; Web 2.0 PT
-      author_email: null
-      author_ip: 74.200.247.111
-      author_url: http://web20pt.wordpress.com/2010/08/01/web-2-0-no-meu-diigo-weekly-41/
-      content: "[...] How to handle the marriage of PLEs and institutions \xAB The Weblog\
-        \ of (a) David Jones [...]"
-      date: '2010-11-23 22:35:48'
-      date_gmt: '2010-11-23 12:35:48'
-      id: '3130'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is my attempt to think about how the "marriage" of the PLE concept and educational institutions can be handled. It arises from reading some of the material that has arisen out of the [PLE conference](http://pleconference.citilab.eu/) held in Barcelona a few weeks ago and some subsequent posts, most notable [this one on the anatomy of a PLE](http://steve-wheeler.blogspot.com/2010/07/anatomy-of-ple.html) from Steve Wheeler.
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - chapter-1
 - thesis
-date: 2007-03-10 20:05:53+10:00
+date: 2007-03-10 10:05:53
 next:
   text: CAUDIT CIO's top 10 issues list - and what it says about them (to me)
   url: /blog/2007/03/10/caudit-cios-top-10-issues-list-and-what-it-says-about-them-to-me/
 previous:
   text: Thesis 1.1 - Introduction
   url: /blog/2007/03/10/thesis-11-introduction/
+template: blog-post.html
 title: Thesis 1.2 - Background to the research
 type: post
-template: blog-post.html
 ---
 Advanced industrial societies are currently undergoing a fundamental transformation from capital- and labour-based economies into knowledge economies (Burton-Jones 2001). In such economies knowledge, education, people and their ideas, become the key strategic resource necessary for prosperity (Duderstadt, Atkins et al. 2002). This transition to a knowledge economy is characterised by factors including globalization, increasing competition, knowledge sharing and transfer, and an information technology revolution (Zhang and Nunamaker 2003). This transition raises a number of issues for education systems, in particular how best to adapt such systems to the changes in the socio-economic landscape and provide the best educational opportunities and outcomes (Knight, Knight et al. 2006).
 

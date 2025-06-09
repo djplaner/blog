@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - c2d2
 - cognitiveedge
@@ -9,10 +9,29 @@ categories:
 - missingps
 - ple
 - thesis
-date: 2008-03-16 20:36:33+10:00
+comments: []
+date: 2008-03-16 10:36:33
 next:
   text: Understanding approaches to improving a course
   url: /blog/2008/05/18/understanding-approaches-to-improving-a-course/
+pingbacks:
+- approved: '1'
+  author: Tell a story about your garden &#8211; narrative and SenseMaker &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/06/04/tell-a-story-about-your-garden-narrative-and-sensemaker/
+  content: '[...] Tell a story about your garden &#8211; narrative and&nbsp;SenseMaker  There
+    have been a few glimmers in this blog in my undeveloped, long stalled but slowly
+    growing interest in the use of narrative, metaphor and myth to understand and
+    engage in innovation around learning and teaching. Much, but not all, of this
+    arises from the work of Dave Snowden and attending one of his workshops. [...]'
+  date: '2009-06-04 10:08:57'
+  date_gmt: '2009-06-04 00:08:57'
+  id: '1578'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: From scarcity to over abundance - paradigm change for IT departments (and
     others)
@@ -21,31 +40,9 @@ tags:
 - cogedge
 - complexity
 - cynefin
+template: blog-post.html
 title: Initial thoughts from CogEdge accreditation course
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Tell a story about your garden &#8211; narrative and SenseMaker &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/06/04/tell-a-story-about-your-garden-narrative-and-sensemaker/
-      content: '[...] Tell a story about your garden &#8211; narrative and&nbsp;SenseMaker  There
-        have been a few glimmers in this blog in my undeveloped, long stalled but slowly
-        growing interest in the use of narrative, metaphor and myth to understand and
-        engage in innovation around learning and teaching. Much, but not all, of this
-        arises from the work of Dave Snowden and attending one of his workshops. [...]'
-      date: '2009-06-04 10:08:57'
-      date_gmt: '2009-06-04 00:08:57'
-      id: '1578'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As [I've mentioned before](http://cq-pan.cqu.edu.au/david-jones/blog/?p=111) [Myers-Briggs](http://en.wikipedia.org/wiki/Myers-briggs) puts me into the INTP box, a [Kiersey Archiect-Rational](http://www.keirsey.com/handler.aspx?s=keirsey&f=fourtemps&tab=5&c=architect). Which amongst many other things I have an interest in figuring out the structure of things.
 

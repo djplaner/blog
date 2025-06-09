@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - irac
 - learninganalytics-elearning
-date: 2013-10-13 21:41:42+10:00
+date: 2013-10-13 11:41:42
 next:
   text: '"Creative Commons, Flickr and presentations: A bit of tinkering"'
   url: /blog/2013/10/20/creative-commons-flickr-and-presentations-a-bit-of-tinkering/
 previous:
   text: Strategies for curriculum mapping and data collection for assuring learning
   url: /blog/2013/10/10/strategies-for-curriculum-mapping-and-data-collection-for-assuring-learning/
+template: blog-post.html
 title: Supporting Action Research with Learning Analytics
 type: post
-template: blog-post.html
 ---
 The following is a summary and some thoughts on
 

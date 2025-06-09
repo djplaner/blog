@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-08-22 12:29:36+10:00
+date: 2010-08-22 02:29:36
 next:
   text: Oil sheiks, Lucifer and university learning and teaching
   url: /blog/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/
 previous:
   text: 'PhD Update #28 - minimal work, feedback arrived'
   url: /blog/2010/08/22/phd-update-28-minimal-work-feedback-arrived/
+template: blog-post.html
 title: Extracting case study research and multiple contexts?
 type: post
-template: blog-post.html
 ---
 The following is an attempt to consider and respond to a suggestion on [my thesis](/blog/research/phd-thesis/) from my esteemed supervisor. It's essentially some thinking and questions arising from further refinement of the research method being used in my thesis.
 

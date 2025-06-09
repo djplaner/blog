@@ -1,10 +1,70 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-08-15 13:35:06+10:00
+comments:
+- approved: '1'
+  author: suifaijohnmak
+  author_email: suifaijohnmak@yahoo.com.au
+  author_ip: 60.241.166.115
+  author_url: http://suifaijohnmak.wordpress.com
+  content: 'Hi David,
+
+    Thanks for your insights.
+
+    My response in the last comment here: http://suifaijohnmak.wordpress.com/2010/08/06/open-courses/'
+  date: '2010-08-15 17:17:59'
+  date_gmt: '2010-08-15 07:17:59'
+  id: '3146'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Tim
+  author_email: t.kastelle@business.uq.edu.au
+  author_ip: 203.206.249.136
+  author_url: http://
+  content: 'To some extent I share your hesitancy about applying business concepts
+    to education.  On the other hand, because universities play such an important
+    role in society, I think it''s also important that they be well-managed.  The
+    trick is to be able to recognise which tools might help and which won''t.  Quality
+    management won''t help in higher ed at all.  The thought that we would need to
+    eliminate variance in the delivery of education is wrong on almost every conceivable
+    level.
+
+
+    I do think there is some value in thinking about the business model for universities.  Not
+    in order to maximise profit or efficiency, but in order to understand what value
+    we''re actually creating.  This is particularly important here in Australia, where
+    universities are often viewed (wrongly) as only providing vocational training.
+
+
+    In any event, plenty to think about here...'
+  date: '2010-08-15 19:50:03'
+  date_gmt: '2010-08-15 09:50:03'
+  id: '3147'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-08-15 03:35:06
 next:
   text: How people learn and implications for academic development
   url: /blog/2010/08/19/how-people-learn-and-implications-for-academic-development/
+pingbacks:
+- approved: '1'
+  author: 'Combating professional isolation: Connecting professionals via social and
+    technological networks &laquo; Mathehu&#039;s Weblog'
+  author_email: null
+  author_ip: 66.135.48.233
+  author_url: http://mathehu.wordpress.com/2010/08/22/combating-professional-isolation-connecting-professionals-via-social-and-technological-networks/
+  content: "[...] professional isolation: Connecting professionals via social and\
+    \ technological&nbsp;networks One of David&#8217;s tweets pointed me to this blog\
+    \ by\_\_George Siemens. He discussed the use of social and technological [...]"
+  date: '2010-08-22 22:14:57'
+  date_gmt: '2010-08-22 12:14:57'
+  id: '3148'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #27 - New context'
   url: /blog/2010/08/13/phd-update-27-new-context/
@@ -15,71 +75,9 @@ tags:
 - jeff-jarvis
 - which-part
 - your-business-model
+template: blog-post.html
 title: Analysing the business model for higher education and why they can't
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: suifaijohnmak
-      author_email: suifaijohnmak@yahoo.com.au
-      author_ip: 60.241.166.115
-      author_url: http://suifaijohnmak.wordpress.com
-      content: 'Hi David,
-    
-        Thanks for your insights.
-    
-        My response in the last comment here: http://suifaijohnmak.wordpress.com/2010/08/06/open-courses/'
-      date: '2010-08-15 17:17:59'
-      date_gmt: '2010-08-15 07:17:59'
-      id: '3146'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Tim
-      author_email: t.kastelle@business.uq.edu.au
-      author_ip: 203.206.249.136
-      author_url: http://
-      content: 'To some extent I share your hesitancy about applying business concepts
-        to education.  On the other hand, because universities play such an important
-        role in society, I think it''s also important that they be well-managed.  The
-        trick is to be able to recognise which tools might help and which won''t.  Quality
-        management won''t help in higher ed at all.  The thought that we would need to
-        eliminate variance in the delivery of education is wrong on almost every conceivable
-        level.
-    
-    
-        I do think there is some value in thinking about the business model for universities.  Not
-        in order to maximise profit or efficiency, but in order to understand what value
-        we''re actually creating.  This is particularly important here in Australia, where
-        universities are often viewed (wrongly) as only providing vocational training.
-    
-    
-        In any event, plenty to think about here...'
-      date: '2010-08-15 19:50:03'
-      date_gmt: '2010-08-15 09:50:03'
-      id: '3147'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Combating professional isolation: Connecting professionals via social and
-        technological networks &laquo; Mathehu&#039;s Weblog'
-      author_email: null
-      author_ip: 66.135.48.233
-      author_url: http://mathehu.wordpress.com/2010/08/22/combating-professional-isolation-connecting-professionals-via-social-and-technological-networks/
-      content: "[...] professional isolation: Connecting professionals via social and\
-        \ technological&nbsp;networks One of David&#8217;s tweets pointed me to this blog\
-        \ by\_\_George Siemens. He discussed the use of social and technological [...]"
-      date: '2010-08-22 22:14:57'
-      date_gmt: '2010-08-22 12:14:57'
-      id: '3148'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Am somewhat torn between the logic of this sort of approach to applying insights from broader business practice to higher education, and a slight shudder at the history of misuse that exists as folk mindlessly adapt business practices to higher education. Mindless, ill-informed, or perhaps simply naive adoption of techno-rational management approaches such as top-down, "strategic" thinking and aspects of quality management are amongst the biggest problems for higher education at the moment.  
   

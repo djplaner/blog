@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - design-theory
 - plescquni
 - thesis
-date: 2008-08-06 09:32:57+10:00
+date: 2008-08-05 23:32:57
 next:
   text: Creating slidecasts on Slideshare - e-learning support?
   url: /blog/2008/08/07/creating-slidecasts-on-slideshare-e-learning-support/
 previous:
   text: How to lead your life and fulfill your childhood dreams
   url: /blog/2008/07/29/how-to-lead-your-life-and-fulfill-your-childhood-dreams/
+template: blog-post.html
 title: The dimensions of design research
 type: post
-template: blog-post.html
 ---
 What, if any, is the difference design research, design-based research and design theory? How does your answer to these questions modify your practice and understanding of design research? Answers to these, and other related questions, are important, at least to me, and perhaps a broader community. This and subsequent posts are related to a paper I'm trying to write that has the working title "The dimensions of design research".
 

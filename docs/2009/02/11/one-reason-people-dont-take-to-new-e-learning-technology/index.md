@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -8,68 +8,65 @@ categories:
 - plescquni
 - quotes
 - thesis
-date: 2009-02-11 14:39:05+10:00
+comments: []
+date: 2009-02-11 04:39:05
 next:
   text: '"Barriers to innovation in organisations: teleological processes, organisational
     structures and stepwise refinement"'
   url: /blog/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/
+pingbacks:
+- approved: '1'
+  author: 'Getting half-baked ideas out there: improving research and the academy
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.226
+  author_url: https://djon.es/blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
+  content: '[...] half-baked ideas out there: improving research and the&nbsp;academy  In
+    a previous post examining one reason folk don&#8217;t take to e-learning I included
+    the following quote from a book by Carolyn Marvin the introduction of new media
+    is a [...]'
+  date: '2009-02-15 12:07:19'
+  date_gmt: '2009-02-15 02:07:19'
+  id: '2130'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Patterns for e-learning - a lost opportunity or destined to fail &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
+  content: '[...] Why don&#8217;t people take to new e-learning technology.Covers
+    a couple of reasons including fear of failure, the inertia of current practice
+    and the problems with developer-based approaches. [...]'
+  date: '2009-02-22 21:50:43'
+  date_gmt: '2009-02-22 11:50:43'
+  id: '2131'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'The life and death of Webfuse: lessons for learning and leading into the
+    future &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.2.43
+  author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+  content: '[...] an emphasis on cheapness in support rolls. There&#8217;s also the
+    problem raised towards the end of this post where the innovative central staff
+    are trying to get people to use what&#8217;s been provided. [...]'
+  date: '2012-06-22 14:06:38'
+  date_gmt: '2012-06-22 04:06:38'
+  id: '2132'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The value of being open
   url: /blog/2009/02/11/the-value-of-being-open/
+template: blog-post.html
 title: One reason people don't take to new e-learning technology
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Getting half-baked ideas out there: improving research and the academy
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.226
-      author_url: https://djon.es/blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
-      content: '[...] half-baked ideas out there: improving research and the&nbsp;academy  In
-        a previous post examining one reason folk don&#8217;t take to e-learning I included
-        the following quote from a book by Carolyn Marvin the introduction of new media
-        is a [...]'
-      date: '2009-02-15 12:07:19'
-      date_gmt: '2009-02-15 02:07:19'
-      id: '2130'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Patterns for e-learning - a lost opportunity or destined to fail &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
-      content: '[...] Why don&#8217;t people take to new e-learning technology.Covers
-        a couple of reasons including fear of failure, the inertia of current practice
-        and the problems with developer-based approaches. [...]'
-      date: '2009-02-22 21:50:43'
-      date_gmt: '2009-02-22 11:50:43'
-      id: '2131'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'The life and death of Webfuse: lessons for learning and leading into the
-        future &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.2.43
-      author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
-      content: '[...] an emphasis on cheapness in support rolls. There&#8217;s also the
-        problem raised towards the end of this post where the innovative central staff
-        are trying to get people to use what&#8217;s been provided. [...]'
-      date: '2012-06-22 14:06:38'
-      date_gmt: '2012-06-22 04:06:38'
-      id: '2132'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In a [recent post](/blog/2009/02/09/plato-on-the-problems-that-writing-will-create-for-student-learning/) I started my collection of quotes on this blog. I also talked about the "mere exposure effect" and suggested it's one reason behind the horseless carriage approach to using new technology. It's also one reason why people resist new technology - especially e-learning/computer technology.
 

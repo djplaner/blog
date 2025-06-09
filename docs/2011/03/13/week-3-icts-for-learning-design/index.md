@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-03-13 09:28:26+10:00
+date: 2011-03-12 23:28:26
 next:
   text: '"Reflection and conclusions: Learning brief"'
   url: /blog/2011/03/15/reflection-and-conclusions-learning-brief/
 previous:
   text: 'Week 2: Literacy and Numeracy'
   url: /blog/2011/03/10/week-2-literacy-and-numeracy/
+template: blog-post.html
 title: '"Week 3: ICTs for Learning Design"'
 type: post
-template: blog-post.html
 ---
 Looks like I'm going to be away in coming weeks and the first assignment is due soon, so time to get a little ahead. So the following documents/reflects week 3 of work for the ICTs for Learning Design course.
 

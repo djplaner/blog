@@ -1,95 +1,92 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - phd
 - psframework
 - thesis
-date: 2009-04-17 11:49:39+10:00
+comments: []
+date: 2009-04-17 01:49:39
 next:
   text: '"PhD Update #7 - a fortnight in review"'
   url: /blog/2009/04/17/phd-update-7-a-fortnight-in-review/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    A history of technology-mediated&nbsp;learning [...]'
+  date: '2009-04-17 14:23:01'
+  date_gmt: '2009-04-17 04:23:01'
+  id: '2398'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The paradigms of e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/04/20/the-paradigms-of-e-learning/
+  content: '[...] working on the &#8220;Past Experience&#8221; component of the Ps
+    Framework. Recently, I posted the History of technology mediated learning section.
+    It provides a brief overview of technology-mediated learning prior to e-learning
+    - defined [...]'
+  date: '2009-04-20 22:04:54'
+  date_gmt: '2009-04-20 12:04:54'
+  id: '2399'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: E-learning usage - quality &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.211
+  author_url: https://djon.es/blog/2009/04/22/e-learning-usage-quality/
+  content: '[...] section of chapter 2 of my thesis. It follows on from previous posts
+    including: Ps Framework, History of technology-mediated learning, and the paradigms
+    of [...]'
+  date: '2009-04-22 12:36:58'
+  date_gmt: '2009-04-22 02:36:58'
+  id: '2400'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons for e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/04/25/lessons-for-e-learning/
+  content: '[...] of Chapter 2 of my thesis. Previous content for this section is
+    already on the blog, including: History of technology-mediated learning, Paradigms
+    of e-learning, e-learning usage - quality, and e-learning usage - [...]'
+  date: '2009-04-25 16:10:10'
+  date_gmt: '2009-04-25 06:10:10'
+  id: '2401'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A history of technology-mediated learning | TIC...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/tic-pour-mon-enseignement/p/4015556490/2014/02/07/a-history-of-technology-mediated-learning
+  content: '[&#8230;] The following is a section from my PhD thesis. It is part of
+    the &quot;Past Experience&quot; section of the Ps Framework. It aims to give a
+    potted history of technology-mediated learning and show how it conn...&nbsp; [&#8230;]'
+  date: '2014-02-08 06:13:17'
+  date_gmt: '2014-02-07 20:13:17'
+  id: '2402'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Theory and practice - quote and connection with e-learning?
   url: /blog/2009/04/15/theory-and-practice-quote-and-connection-with-e-learning/
+template: blog-post.html
 title: A history of technology-mediated learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        A history of technology-mediated&nbsp;learning [...]'
-      date: '2009-04-17 14:23:01'
-      date_gmt: '2009-04-17 04:23:01'
-      id: '2398'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The paradigms of e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/04/20/the-paradigms-of-e-learning/
-      content: '[...] working on the &#8220;Past Experience&#8221; component of the Ps
-        Framework. Recently, I posted the History of technology mediated learning section.
-        It provides a brief overview of technology-mediated learning prior to e-learning
-        - defined [...]'
-      date: '2009-04-20 22:04:54'
-      date_gmt: '2009-04-20 12:04:54'
-      id: '2399'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: E-learning usage - quality &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.211
-      author_url: https://djon.es/blog/2009/04/22/e-learning-usage-quality/
-      content: '[...] section of chapter 2 of my thesis. It follows on from previous posts
-        including: Ps Framework, History of technology-mediated learning, and the paradigms
-        of [...]'
-      date: '2009-04-22 12:36:58'
-      date_gmt: '2009-04-22 02:36:58'
-      id: '2400'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons for e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/04/25/lessons-for-e-learning/
-      content: '[...] of Chapter 2 of my thesis. Previous content for this section is
-        already on the blog, including: History of technology-mediated learning, Paradigms
-        of e-learning, e-learning usage - quality, and e-learning usage - [...]'
-      date: '2009-04-25 16:10:10'
-      date_gmt: '2009-04-25 06:10:10'
-      id: '2401'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A history of technology-mediated learning | TIC...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/tic-pour-mon-enseignement/p/4015556490/2014/02/07/a-history-of-technology-mediated-learning
-      content: '[&#8230;] The following is a section from my PhD thesis. It is part of
-        the &quot;Past Experience&quot; section of the Ps Framework. It aims to give a
-        potted history of technology-mediated learning and show how it conn...&nbsp; [&#8230;]'
-      date: '2014-02-08 06:13:17'
-      date_gmt: '2014-02-07 20:13:17'
-      id: '2402'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a section from my [PhD thesis](/blog/research/phd-thesis/). It is part of the "Past Experience" section of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). It aims to give a potted history of technology-mediated learning and show how it connects with e-learning. Since these terms are somewhat overused, it starts with some definitions. The plan is that this history will be used to identify lessons from history, which e-learning (generally) hasn't learned.
 

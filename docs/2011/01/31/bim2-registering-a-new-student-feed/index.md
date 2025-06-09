@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2011-01-31 16:57:55+10:00
+date: 2011-01-31 06:57:55
 next:
   text: NAPLAN tests, task corruption and teaching to the test
   url: /blog/2011/02/01/naplan-tests-task-corruption-and-teaching-to-the-test/
 previous:
   text: My god, is it done?
   url: /blog/2011/01/31/my-god-is-it-done/
+template: blog-post.html
 title: bim2 - Registering a new student feed
 type: post
-template: blog-post.html
 ---
 Apart from the many todos, the [last post covering bim2 development](/blog/2010/12/30/progressing-the-student-interface-for-bim2/) left off at the task of registering a new student feed. Summarising/recording the development of bim2 to complete that task is the purpose of this post.
 

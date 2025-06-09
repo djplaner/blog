@@ -1,69 +1,66 @@
----
+﻿---
 categories:
 - bam
 - elearning
-date: 2009-12-14 14:23:41+10:00
+comments: []
+date: 2009-12-14 04:23:41
 next:
   text: Here come the indicators, wait for the task corruption
   url: /blog/2009/12/15/here-come-the-indicators-wait-for-the-task-corruption/
+pingbacks:
+- approved: '1'
+  author: BIM and Moodle development &#8211; a more coherent overview found? &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/12/15/bim-and-moodle-a-more-coherent-overview/
+  content: '[...] level of annoyance at the state of the public documentation around
+    Moodle development slowing down BIM development. That state is essentially with
+    stuff all over the place, no coherent path through it [...]'
+  date: '2009-12-15 15:57:05'
+  date_gmt: '2009-12-15 05:57:05'
+  id: '2885'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: BIM &#8211; getting student registration working &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.245.226
+  author_url: https://djon.es/blog/2009/12/17/bim-getting-student-registration-working/
+  content: '[...] &#8211; getting student registration&nbsp;working  So, getting back
+    into BIM development. The last post reminded me where I&#8217;m up to. The following
+    is an attempt to plan, implement and document some [...]'
+  date: '2009-12-17 10:02:49'
+  date_gmt: '2009-12-17 00:02:49'
+  id: '2886'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: BIM &#8211; Getting &#8220;show student details&#8221; working &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.152
+  author_url: https://djon.es/blog/2009/12/17/bim-getting-show-student-details-working/
+  content: '[...] next step in BIM development. As summarised in the last post the
+    plan is to implement the remaining screens roughly complete so that potential
+    users can interact and give feedback. This included the need to [...]'
+  date: '2009-12-17 15:58:37'
+  date_gmt: '2009-12-17 05:58:37'
+  id: '2887'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'The Innovation Prevention Department: Why?'
   url: /blog/2009/12/11/the-innovation-prevention-department-why/
 tags:
 - bim
+template: blog-post.html
 title: '"Getting back into BIM: Summary and way forward"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM and Moodle development &#8211; a more coherent overview found? &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/12/15/bim-and-moodle-a-more-coherent-overview/
-      content: '[...] level of annoyance at the state of the public documentation around
-        Moodle development slowing down BIM development. That state is essentially with
-        stuff all over the place, no coherent path through it [...]'
-      date: '2009-12-15 15:57:05'
-      date_gmt: '2009-12-15 05:57:05'
-      id: '2885'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: BIM &#8211; getting student registration working &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.245.226
-      author_url: https://djon.es/blog/2009/12/17/bim-getting-student-registration-working/
-      content: '[...] &#8211; getting student registration&nbsp;working  So, getting back
-        into BIM development. The last post reminded me where I&#8217;m up to. The following
-        is an attempt to plan, implement and document some [...]'
-      date: '2009-12-17 10:02:49'
-      date_gmt: '2009-12-17 00:02:49'
-      id: '2886'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: BIM &#8211; Getting &#8220;show student details&#8221; working &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.152
-      author_url: https://djon.es/blog/2009/12/17/bim-getting-show-student-details-working/
-      content: '[...] next step in BIM development. As summarised in the last post the
-        plan is to implement the remaining screens roughly complete so that potential
-        users can interact and give feedback. This included the need to [...]'
-      date: '2009-12-17 15:58:37'
-      date_gmt: '2009-12-17 05:58:37'
-      id: '2887'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The last couple of months have resulted in an absence from work on BIM ([BAM](/blog/research/bam-blog-aggregation-management/) into Moodle). This post is meant to be a summary of where I had gotten up to and a restatement of what I need to do. The latter part is somewhat uncertain due to limited communication within my local context. Somewhat disappointing.
 

@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-06-20 14:46:06+10:00
+comments:
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://users.on.net/~iancreid/
+  content: I think they're probably Maoists, not Nazis!!
+  date: '2011-06-20 14:55:05'
+  date_gmt: '2011-06-20 04:55:05'
+  id: '77'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-06-20 04:46:06
 next:
   text: '"The death of learning in higher education: quality nazis, "strategic" leadership,
     blinkered project managers and idiot academics"'
   url: /blog/2011/06/20/the-death-of-learning-in-higher-education-quality-nazis-strategic-leadership-blinkered-project-managers-and-idiot-academics/
+pingbacks: []
 previous:
   text: A simple class management plan for beginning teachers
   url: /blog/2011/06/16/a-simple-class-management-plan-for-beginning-teachers/
+template: blog-post.html
 title: A new term dawns
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://users.on.net/~iancreid/
-      content: I think they're probably Maoists, not Nazis!!
-      date: '2011-06-20 14:55:05'
-      date_gmt: '2011-06-20 04:55:05'
-      id: '77'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 So assessment for term 1 of the Graduate Diploma in Learning and Teaching is complete, term 2 beckons. The following is some reflection on initial exploration of the courses, expectations and assessment.
 

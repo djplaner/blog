@@ -1,8 +1,8 @@
----
-date: 2008-12-31 13:34:48+10:00
+﻿---
+date: 2008-12-31 03:34:48
+template: blog-post.html
 title: Four models of on-line teaching
 type: page
-template: blog-post.html
 ---
 Tim Roberts, David Jones, Celia Romm, Four Models of Online Learning, Proceedings of TEND-2000, Abu Dhabi, April 2000.
 

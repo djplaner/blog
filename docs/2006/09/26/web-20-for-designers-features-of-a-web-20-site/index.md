@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2006-09-26 12:47:45+10:00
+date: 2006-09-26 02:47:45
 next:
   text: '"Web 2.0" applications/services used by students'
   url: /blog/2006/09/26/web-20-applicationsservices-used-by-students/
 previous:
   text: iTunes U - and the call for DRM
   url: /blog/2006/09/25/itunes-u-and-the-call-for-drm/
+template: blog-post.html
 title: Web 2.0 for Designers - features of a web 2.0 site
 type: post
-template: blog-post.html
 ---
 [A 2005 article](http://www.digital-web.com/articles/web_2_for_designers/) outlining 6 main themes in designing a web 2.0 site
 

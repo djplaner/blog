@@ -1,75 +1,72 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-12-07 09:12:34+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 122.111.166.29
+  author_url: http://cj13.wordpress.com/
+  content: How this is theorised is important. There is a story about shifting water
+    pumps to the Sahara. Did not work. Turns out you have to move most of Western
+    civilisation to the Sahara for the pumps to survive. Lots of stories like that.  The
+    thing about schools is that they need to be thought about as a technology, a way
+    of doing things. That means you pay attention to all the bits and pieces that
+    are in place that keep this 'technology' ticking over. So if you want to change
+    that you have to attend to it all (i.e. like Western civilisation). This is an
+    ANT-onformed account, i.e. it is not a diffusion of innov way of thinking about
+    this stuff. I've scribbled about that long time back. At base it is how you think
+    about/theorise stuff that is moving cf. stuff that is more or less stable. ANT
+    works well for change that kind of thing. For the stable stuff older forms of
+    social theory will work ok. Not sure this is helpful.
+  date: '2011-12-08 09:48:28'
+  date_gmt: '2011-12-07 23:48:28'
+  id: '172'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.214.160.225
+  author_url: https://djon.es/blog/
+  content: 'I can see a lot of resonances between the ANT perspective and that of
+    Complex Adaptive Systems, which was the "theoretical" source for much of the above.
+
+
+    :) I''ve moved on a bit from the DoI stuff, but I still have a soft place in my
+    heart for it.  Perhaps because it might hold some potential positives when applied
+    at a much finer grain....but that''s a story for another day.'
+  date: '2011-12-08 18:35:00'
+  date_gmt: '2011-12-08 08:35:00'
+  id: '173'
+  parent: '172'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 122.111.166.29
+  author_url: http://cj13.wordpress.com/
+  content: Yeah - i think DoI belongs in your collection of human intuitions :)
+  date: '2011-12-08 18:43:58'
+  date_gmt: '2011-12-08 08:43:58'
+  id: '174'
+  parent: '173'
+  type: comment
+  user_id: '0'
+date: 2011-12-06 23:12:34
 next:
   text: '"Ateleological travels in a teleological world: Past and future journeys
     around ICTs in education"'
   url: /blog/2011/12/09/ateleological-travels-in-a-teleological-world-past-and-future-journeys-around-icts-in-education/
+pingbacks: []
 previous:
   text: The failures of intuition in education
   url: /blog/2011/12/05/the-failures-of-intuition-in-education/
+template: blog-post.html
 title: '"Scaling" educational innovations'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 122.111.166.29
-      author_url: http://cj13.wordpress.com/
-      content: How this is theorised is important. There is a story about shifting water
-        pumps to the Sahara. Did not work. Turns out you have to move most of Western
-        civilisation to the Sahara for the pumps to survive. Lots of stories like that.  The
-        thing about schools is that they need to be thought about as a technology, a way
-        of doing things. That means you pay attention to all the bits and pieces that
-        are in place that keep this 'technology' ticking over. So if you want to change
-        that you have to attend to it all (i.e. like Western civilisation). This is an
-        ANT-onformed account, i.e. it is not a diffusion of innov way of thinking about
-        this stuff. I've scribbled about that long time back. At base it is how you think
-        about/theorise stuff that is moving cf. stuff that is more or less stable. ANT
-        works well for change that kind of thing. For the stable stuff older forms of
-        social theory will work ok. Not sure this is helpful.
-      date: '2011-12-08 09:48:28'
-      date_gmt: '2011-12-07 23:48:28'
-      id: '172'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.214.160.225
-      author_url: https://djon.es/blog/
-      content: 'I can see a lot of resonances between the ANT perspective and that of
-        Complex Adaptive Systems, which was the "theoretical" source for much of the above.
-    
-    
-        :) I''ve moved on a bit from the DoI stuff, but I still have a soft place in my
-        heart for it.  Perhaps because it might hold some potential positives when applied
-        at a much finer grain....but that''s a story for another day.'
-      date: '2011-12-08 18:35:00'
-      date_gmt: '2011-12-08 08:35:00'
-      id: '173'
-      parent: '172'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 122.111.166.29
-      author_url: http://cj13.wordpress.com/
-      content: Yeah - i think DoI belongs in your collection of human intuitions :)
-      date: '2011-12-08 18:43:58'
-      date_gmt: '2011-12-08 08:43:58'
-      id: '174'
-      parent: '173'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 This is an attempt to briefly (and possibly badly) express a disquiet I have with the idea of scaling educational innovations. It's sparked by [a post](http://blogs.edweek.org/edweek/rick_hess_straight_up/2011/12/why_education_innovation_tends_to_crash_and_burn.html) by Rick Hess titled "Why education innovation tends to crash and burn".
 

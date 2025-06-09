@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - curriculummapping-cddu
-date: 2010-03-10 10:21:33+10:00
+comments: []
+date: 2010-03-10 00:21:33
 next:
   text: Webfuse is dead! Long live Webfuse!
   url: /blog/2010/03/10/webfuse-is-dead-long-live-webfuse/
+pingbacks:
+- approved: '1'
+  author: First step in &#8220;Moodle curriculum mapping&#8221; &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.138
+  author_url: https://djon.es/blog/2010/03/23/first-step-in-moodle-curriculum-mapping/
+  content: '[...] outlined in a previous post it appears that Moodle (the institutional
+    LMS at my current institution) already has functions that [...]'
+  date: '2010-03-23 14:13:34'
+  date_gmt: '2010-03-23 04:13:34'
+  id: '2957'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Outcomes and Moodle
   url: /blog/2010/03/09/outcomes-and-moodle/
+template: blog-post.html
 title: Moodle, outcomes, metadata and curriculum mapping
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: First step in &#8220;Moodle curriculum mapping&#8221; &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.138
-      author_url: https://djon.es/blog/2010/03/23/first-step-in-moodle-curriculum-mapping/
-      content: '[...] outlined in a previous post it appears that Moodle (the institutional
-        LMS at my current institution) already has functions that [...]'
-      date: '2010-03-23 14:13:34'
-      date_gmt: '2010-03-23 04:13:34'
-      id: '2957'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This summarises some [continued investigation](/blog/2010/03/09/outcomes-and-moodle/) of Moodle support for outcomes as part of preparing for the [curriculum mapping project](/blog/research/curriculum-mapping/).
 

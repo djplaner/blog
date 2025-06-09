@@ -1,82 +1,79 @@
----
+﻿---
 categories:
 - bad
 - eei
-date: 2017-02-10 14:24:54+10:00
+comments:
+- approved: '1'
+  author: Multi Lisa
+  author_email: multilisablog@gmail.com
+  author_ip: 58.165.44.11
+  author_url: null
+  content: "We had a similar issue at my university recently, David. \nWe talked them\
+    \ into getting Zoom - because it does just work - and then we had quite a bit\
+    \ of voodoo and farting around before we could actually get it going through the\
+    \ VC conferencing systems in the teaching rooms. \nTo paraphrase Don Norman, I\
+    \ think user error is - more often than not - a result of design error.  And,\
+    \ to answer your question, I think good <a href=\"http://www.designkit.org/human-centered-design\"\
+    \ rel=\"nofollow\">human-centred design</a> must concern itself with a deep understanding\
+    \ of the human user.\nWhat a lot of teacher PD forgets, though, is that teachers\
+    \ are also human users and learners. Any PD provided needs to be grounded in a\
+    \ deep understanding of teachers' needs and goals if it is to be effective. \n\
+    Cheers\nLisa"
+  date: '2017-02-19 12:39:58'
+  date_gmt: '2017-02-19 02:39:58'
+  id: '4932'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.181.58.63
+  author_url: null
+  content: 'Thanks for the shared experience Lisa (and for confirming that I''m on
+    the right track).
+
+
+    The question I''m facing now is what can be done to encourage a deeper (I''d settle
+    for even some) understanding of teachers'' needs and goals into how the institution
+    does what it does.   The link for human-centered design you provide offers one
+    place to start.  How (if?) are you doing it where you are?'
+  date: '2017-02-19 13:13:11'
+  date_gmt: '2017-02-19 03:13:11'
+  id: '4933'
+  parent: '4932'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Multi Lisa
+  author_email: multilisablog@gmail.com
+  author_ip: 58.165.44.11
+  author_url: null
+  content: "Hi David\nIt isn\u2019t an area of responsibility for me, so your guess\
+    \ is as good as mine about how to make others see the importance of it. I don\u2019\
+    t think this is an issue confined to academics, though. I think human-centred\
+    \ design should be a standard part of management training these days - must write\
+    \ a LinkedIn post on this!\nIf you have some success, I\u2019d love to see some\
+    \ future blog posts on which strategies work.\nLisa"
+  date: '2017-02-26 07:23:12'
+  date_gmt: '2017-02-25 21:23:12'
+  id: '5195'
+  parent: '4933'
+  type: comment
+  user_id: '0'
+date: 2017-02-10 04:24:54
 next:
   text: Am I (or my team) ready to apply for an AAUT?
   url: /blog/2017/02/16/am-i-or-my-team-ready-to-apply-for-an-aaut/
+pingbacks: []
 previous:
   text: Exploring course site resource usage using MAV
   url: /blog/2017/01/25/exploring-course-resource-usage-using-mav/
 tags:
 - nodt
+template: blog-post.html
 title: The PEBKAC problems of digital L&T and how to solve it?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Multi Lisa
-      author_email: multilisablog@gmail.com
-      author_ip: 58.165.44.11
-      author_url: null
-      content: "We had a similar issue at my university recently, David. \nWe talked them\
-        \ into getting Zoom - because it does just work - and then we had quite a bit\
-        \ of voodoo and farting around before we could actually get it going through the\
-        \ VC conferencing systems in the teaching rooms. \nTo paraphrase Don Norman, I\
-        \ think user error is - more often than not - a result of design error.  And,\
-        \ to answer your question, I think good <a href=\"http://www.designkit.org/human-centered-design\"\
-        \ rel=\"nofollow\">human-centred design</a> must concern itself with a deep understanding\
-        \ of the human user.\nWhat a lot of teacher PD forgets, though, is that teachers\
-        \ are also human users and learners. Any PD provided needs to be grounded in a\
-        \ deep understanding of teachers' needs and goals if it is to be effective. \n\
-        Cheers\nLisa"
-      date: '2017-02-19 12:39:58'
-      date_gmt: '2017-02-19 02:39:58'
-      id: '4932'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.181.58.63
-      author_url: null
-      content: 'Thanks for the shared experience Lisa (and for confirming that I''m on
-        the right track).
-    
-    
-        The question I''m facing now is what can be done to encourage a deeper (I''d settle
-        for even some) understanding of teachers'' needs and goals into how the institution
-        does what it does.   The link for human-centered design you provide offers one
-        place to start.  How (if?) are you doing it where you are?'
-      date: '2017-02-19 13:13:11'
-      date_gmt: '2017-02-19 03:13:11'
-      id: '4933'
-      parent: '4932'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Multi Lisa
-      author_email: multilisablog@gmail.com
-      author_ip: 58.165.44.11
-      author_url: null
-      content: "Hi David\nIt isn\u2019t an area of responsibility for me, so your guess\
-        \ is as good as mine about how to make others see the importance of it. I don\u2019\
-        t think this is an issue confined to academics, though. I think human-centred\
-        \ design should be a standard part of management training these days - must write\
-        \ a LinkedIn post on this!\nIf you have some success, I\u2019d love to see some\
-        \ future blog posts on which strategies work.\nLisa"
-      date: '2017-02-26 07:23:12'
-      date_gmt: '2017-02-25 21:23:12'
-      id: '5195'
-      parent: '4933'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 [![PEBKAC by Rafa Esteve, on Flickr](https://farm8.static.flickr.com/7326/13928696037_37aa61542a.jpg "PEBKAC by Rafa Esteve, on Flickr")](https://www.flickr.com/photos/morosbruts/13928696037/)  
 "[PEBKAC](https://www.flickr.com/photos/morosbruts/13928696037/)" ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)) by [Rafa Esteve](https://www.flickr.com/people/morosbruts/)
@@ -85,7 +82,7 @@ pingbacks:
    
 [PEBKAC](https://en.wikipedia.org/wiki/User_error) (Problem Exists Between Keyboard And Chair) is just [one of the terms IT folk](http://www.cio.com/article/2438337/it-organization/luser--pebkac-and-other-ways-it-insults-users.html) use to express their frustration with the apparent stupidity of users. A frustration perhaps overshadowed by that felt by the end users who - as digital technology becomes pervasive within organisations - are increasingly frustrated by organisational technology that prevents them from performing the simplest of tasks and thus having to resort to calling IT for assistance and having experiences not dissimilar to that following.
 
-https://www.youtube.com/watch?v=sqXm6h8A\_UE  
+!!! warning "Video is no longer available"
 
 ### Overview
 

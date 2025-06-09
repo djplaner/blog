@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - elearning
-date: 2009-10-04 07:30:27+10:00
+date: 2009-10-03 21:30:27
 next:
   text: Learning theories and e-learning
   url: /blog/2009/10/04/learning-theories-and-e-learning/
 previous:
   text: Herding cats and behaviour change
   url: /blog/2009/10/02/herding-cats-and-behaviour-change/
+template: blog-post.html
 title: Online learning better than blended learning?
 type: post
-template: blog-post.html
 ---
 There's a bit of talk at my current institution about adopting "blended learning". The Vice Chancellor had [this to say](http://vc-cquniversity.blogspot.com/2009/09/blended-teaching-and-mobile-learning.html) and various other folk have been pushing the idea. However, I do hear that there has been some disagreement about the exact definition of blended learning being used by various parties.
 

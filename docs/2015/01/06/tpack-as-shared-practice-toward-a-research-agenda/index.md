@@ -1,278 +1,275 @@
----
+﻿---
 categories:
 - bad
-date: 2015-01-06 08:37:21+10:00
+comments: []
+date: 2015-01-05 22:37:21
 next:
   text: '"Do it with" teachers or students?'
   url: /blog/2015/01/12/do-it-with-teachers-or-students/
+pingbacks:
+- approved: '1'
+  author: This year it&#8217;s all about the connections | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.83.81
+  author_url: https://davidtjones.wordpress.com/2015/01/13/this-year-its-all-about-the-connections/
+  content: '[&#8230;] TPACK as shared practice (Jones, Heffernan &amp; Albion, 2015).
+    [&#8230;]'
+  date: '2015-01-13 10:55:11'
+  date_gmt: '2015-01-13 00:55:11'
+  id: '1176'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What might the 3 levels of organisational culture reveal about university
+    e-learning | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.18
+  author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+  content: '[&#8230;] as we&#8217;ve argued in another paper digital technologies
+    are protean. They are flexible and changeable. Some more so than others. For [&#8230;]'
+  date: '2015-01-20 10:54:44'
+  date_gmt: '2015-01-20 00:54:44'
+  id: '1177'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A proposal for fixing what&#8217;s broken with ed tech support in some universities
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.31
+  author_url: https://davidtjones.wordpress.com/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
+  content: '[&#8230;] This paper analyses the outcomes of what a small group of academics
+    (myself included) attempted to do to develop the knowledge/capability to develop
+    effective learning for hundreds of pre-service teachers via e-learning. That experience
+    is analysed using a distributive view of knowledge and learning and illustrates
+    just how broken what passes for ed tech support/academic staff development in
+    some universities. Picking up on yesterday&#8217;s post, the paper reports on
+    academics harnessing their digital fluency to address the almost complete lack
+    of usefulness of the institutionally developed attempts at supporting academic
+    staff in developing the knowledge necessary for effective e-learning. [&#8230;]'
+  date: '2015-01-22 11:57:53'
+  date_gmt: '2015-01-22 01:57:53'
+  id: '1178'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Framing an open book as situated, social, distributed and protean | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.188
+  author_url: https://davidtjones.wordpress.com/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/
+  content: '[&#8230;] to consider at some stage conceptions of learning and knowledge.
+    I&#8217;m going to draw on the &#8220;distributive view of learning and knowledge&#8221;
+    that we used in this paper (this view has become my most recent hammer). It&#8217;s
+    based on three [&#8230;]'
+  date: '2015-02-11 10:19:26'
+  date_gmt: '2015-02-11 00:19:26'
+  id: '1179'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Initial rationale and ideas for &#8220;continuous improvement&#8221; of
+    learning and teaching | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.34
+  author_url: https://davidtjones.wordpress.com/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/
+  content: '[&#8230;] TPACK as shared practice: Toward a research agenda [&#8230;]'
+  date: '2015-02-18 12:57:49'
+  date_gmt: '2015-02-18 02:57:49'
+  id: '1180'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Ways to raise visiblity of unit planning | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.77
+  author_url: https://davidtjones.wordpress.com/2015/03/23/ways-to-raise-visiblity-of-unit-planning/
+  content: '[&#8230;] &#8220;distributive&#8221; view is based on this paper and the
+    idea that learning/cognition is: situated, social, distributed, and [&#8230;]'
+  date: '2015-03-23 10:07:24'
+  date_gmt: '2015-03-23 00:07:24'
+  id: '1181'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Framing some project ideas around support and services for learning and
+    teaching | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.86.78
+  author_url: https://davidtjones.wordpress.com/2015/03/25/framing-some-project-ideas-around-support-and-services-for-learning-and-teaching/
+  content: '[&#8230;] situative learning (Putnam &amp; Borko, 2000) or (a recent slight
+    extension) distributive learning (Jones, Heffernan, Albion, 2015). A view that
+    sees learning and cognition as: situated, social, distributed, and protean. These
+    [&#8230;]'
+  date: '2015-03-25 13:54:52'
+  date_gmt: '2015-03-25 03:54:52'
+  id: '1182'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: All models are wrong, but some are useful and its application to e-learning
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.57
+  author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+  content: '[&#8230;] My suggestion is that there needs to be a more fruitful combination
+    of the BAD and SET frameworks and a particular focus on developing the organisation&#8217;s
+    distributed capacity to develop it&#8217;s TPACK. [&#8230;]'
+  date: '2015-08-28 09:05:05'
+  date_gmt: '2015-08-27 23:05:05'
+  id: '1183'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What type of &#8220;digital knowledge&#8221; does a teacher need? | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.134
+  author_url: https://davidtjones.wordpress.com/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
+  content: '[&#8230;] limited view of knowledge. As suggested by various types of
+    distributive views of knowledge (e.g. Jones, Heffernan and Albion (2015)), knowledge
+    isn&#8217;t just within the head. It arises from the networks of people, tools,
+    [&#8230;]'
+  date: '2015-09-10 13:26:36'
+  date_gmt: '2015-09-10 03:26:36'
+  id: '1184'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What is &#8220;netgl&#8221; and how might it apply to my problem | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.240
+  author_url: https://davidtjones.wordpress.com/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
+  content: '[&#8230;] my case that led to an interest in (seeing a connection with)
+    another theoretical idea, i.e. the distributive view of learning and knowledge.
+    I do recommend Putnam &amp; Borko (2000) as a good place to start learning about
+    how the [&#8230;]'
+  date: '2015-10-08 14:21:38'
+  date_gmt: '2015-10-08 04:21:38'
+  id: '1185'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Re-purposing V&amp;R mapping to explore modification of digital learning
+    spaces | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.159
+  author_url: https://davidtjones.wordpress.com/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/
+  content: '[&#8230;] of our students are online only students). We are also fairly
+    digitally fluent/literate. In a paper last year we explored how a distributive
+    view of knowledge sharing helped us &#8220;overcome the limitations [&#8230;]'
+  date: '2015-10-28 12:30:54'
+  date_gmt: '2015-10-28 02:30:54'
+  id: '1186'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What to expect/look for from SITE&#8217;2016? &#8211; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.101.31
+  author_url: https://davidtjones.wordpress.com/2016/03/22/what-to-expectlook-for-from-site2016/
+  content: "[&#8230;] get an overall paper award, it was successful in winning a TPACK\
+    \ SIG Paper Award.\_ Given that our previous paper was also TPACK related and\
+    \ won a paper award. This might suggest a &#8220;clique&#8221; with which [&#8230;]"
+  date: '2016-03-22 10:02:12'
+  date_gmt: '2016-03-22 00:02:12'
+  id: '1187'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Competence with digital technology: Do they see the point &#8211; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.100.25
+  author_url: https://davidtjones.wordpress.com/2016/03/31/competence-with-digital-technology-do-they-see-the-point/
+  content: '[&#8230;] this paper (Jones, Heffernan, &amp; Albion, 2015) some colleagues
+    and I draw on a distributive view of [&#8230;]'
+  date: '2016-03-31 09:46:33'
+  date_gmt: '2016-03-30 23:46:33'
+  id: '1188'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Playing with Wikity &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.129
+  author_url: https://davidtjones.wordpress.com/2016/04/23/playing-with-wikity/
+  content: '[&#8230;] Beyond that there are some potentially interesting contributions
+    Wikity can help with ideas around the BAD mindset, CASA, and some sort of foundation
+    for a &#8220;distributed TPACK&#8221; approach. [&#8230;]'
+  date: '2016-04-23 16:29:17'
+  date_gmt: '2016-04-23 06:29:17'
+  id: '1189'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Understanding and using the idea of &#8220;network learning&#8221; &#8211;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.118.102
+  author_url: https://davidtjones.wordpress.com/2016/08/17/understanding-and-using-the-idea-of-network-learning/
+  content: '[&#8230;] this paper some colleagues and I draw on what Putnam and Borko
+    (2000) have to say about new views of [&#8230;]'
+  date: '2016-08-17 15:37:28'
+  date_gmt: '2016-08-17 05:37:28'
+  id: '1190'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'University digital technology: problems, causes, and suggested solutions
+    &#8211; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.116.169
+  author_url: https://davidtjones.wordpress.com/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
+  content: '[&#8230;] teaching and the activities that support learning and teaching
+    are situated &#8211; context matters. For example, the most effective ways for
+    3rd year pre-service teachers to develop their abilities [&#8230;]'
+  date: '2016-09-07 13:08:32'
+  date_gmt: '2016-09-07 03:08:32'
+  id: '1191'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Making course activity more transparent: A proposed use of MAV &#8211;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.118.169
+  author_url: https://davidtjones.wordpress.com/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/
+  content: '[&#8230;] occurs around what MAV reveals. However, given that I&#8217;ve
+    co-authored a paper titled &#8220;TPACK as shared practice: Toward a research
+    agenda&#8221; (Jones, Heffernan, &amp; Albion, 2015) I am interested in exploring
+    if MAV can be leveraged in a [&#8230;]'
+  date: '2016-09-08 13:04:17'
+  date_gmt: '2016-09-08 03:04:17'
+  id: '1192'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: An illustration of the difficulty of learning about network learning
   url: /blog/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/
+template: blog-post.html
 title: '"TPACK as shared practice: Toward a research agenda"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: This year it&#8217;s all about the connections | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.83.81
-      author_url: https://davidtjones.wordpress.com/2015/01/13/this-year-its-all-about-the-connections/
-      content: '[&#8230;] TPACK as shared practice (Jones, Heffernan &amp; Albion, 2015).
-        [&#8230;]'
-      date: '2015-01-13 10:55:11'
-      date_gmt: '2015-01-13 00:55:11'
-      id: '1176'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What might the 3 levels of organisational culture reveal about university
-        e-learning | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.18
-      author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
-      content: '[&#8230;] as we&#8217;ve argued in another paper digital technologies
-        are protean. They are flexible and changeable. Some more so than others. For [&#8230;]'
-      date: '2015-01-20 10:54:44'
-      date_gmt: '2015-01-20 00:54:44'
-      id: '1177'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A proposal for fixing what&#8217;s broken with ed tech support in some universities
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.31
-      author_url: https://davidtjones.wordpress.com/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
-      content: '[&#8230;] This paper analyses the outcomes of what a small group of academics
-        (myself included) attempted to do to develop the knowledge/capability to develop
-        effective learning for hundreds of pre-service teachers via e-learning. That experience
-        is analysed using a distributive view of knowledge and learning and illustrates
-        just how broken what passes for ed tech support/academic staff development in
-        some universities. Picking up on yesterday&#8217;s post, the paper reports on
-        academics harnessing their digital fluency to address the almost complete lack
-        of usefulness of the institutionally developed attempts at supporting academic
-        staff in developing the knowledge necessary for effective e-learning. [&#8230;]'
-      date: '2015-01-22 11:57:53'
-      date_gmt: '2015-01-22 01:57:53'
-      id: '1178'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Framing an open book as situated, social, distributed and protean | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.188
-      author_url: https://davidtjones.wordpress.com/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/
-      content: '[&#8230;] to consider at some stage conceptions of learning and knowledge.
-        I&#8217;m going to draw on the &#8220;distributive view of learning and knowledge&#8221;
-        that we used in this paper (this view has become my most recent hammer). It&#8217;s
-        based on three [&#8230;]'
-      date: '2015-02-11 10:19:26'
-      date_gmt: '2015-02-11 00:19:26'
-      id: '1179'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Initial rationale and ideas for &#8220;continuous improvement&#8221; of
-        learning and teaching | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.34
-      author_url: https://davidtjones.wordpress.com/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/
-      content: '[&#8230;] TPACK as shared practice: Toward a research agenda [&#8230;]'
-      date: '2015-02-18 12:57:49'
-      date_gmt: '2015-02-18 02:57:49'
-      id: '1180'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Ways to raise visiblity of unit planning | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.77
-      author_url: https://davidtjones.wordpress.com/2015/03/23/ways-to-raise-visiblity-of-unit-planning/
-      content: '[&#8230;] &#8220;distributive&#8221; view is based on this paper and the
-        idea that learning/cognition is: situated, social, distributed, and [&#8230;]'
-      date: '2015-03-23 10:07:24'
-      date_gmt: '2015-03-23 00:07:24'
-      id: '1181'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Framing some project ideas around support and services for learning and
-        teaching | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.86.78
-      author_url: https://davidtjones.wordpress.com/2015/03/25/framing-some-project-ideas-around-support-and-services-for-learning-and-teaching/
-      content: '[&#8230;] situative learning (Putnam &amp; Borko, 2000) or (a recent slight
-        extension) distributive learning (Jones, Heffernan, Albion, 2015). A view that
-        sees learning and cognition as: situated, social, distributed, and protean. These
-        [&#8230;]'
-      date: '2015-03-25 13:54:52'
-      date_gmt: '2015-03-25 03:54:52'
-      id: '1182'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: All models are wrong, but some are useful and its application to e-learning
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.57
-      author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
-      content: '[&#8230;] My suggestion is that there needs to be a more fruitful combination
-        of the BAD and SET frameworks and a particular focus on developing the organisation&#8217;s
-        distributed capacity to develop it&#8217;s TPACK. [&#8230;]'
-      date: '2015-08-28 09:05:05'
-      date_gmt: '2015-08-27 23:05:05'
-      id: '1183'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What type of &#8220;digital knowledge&#8221; does a teacher need? | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.134
-      author_url: https://davidtjones.wordpress.com/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
-      content: '[&#8230;] limited view of knowledge. As suggested by various types of
-        distributive views of knowledge (e.g. Jones, Heffernan and Albion (2015)), knowledge
-        isn&#8217;t just within the head. It arises from the networks of people, tools,
-        [&#8230;]'
-      date: '2015-09-10 13:26:36'
-      date_gmt: '2015-09-10 03:26:36'
-      id: '1184'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What is &#8220;netgl&#8221; and how might it apply to my problem | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.240
-      author_url: https://davidtjones.wordpress.com/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
-      content: '[&#8230;] my case that led to an interest in (seeing a connection with)
-        another theoretical idea, i.e. the distributive view of learning and knowledge.
-        I do recommend Putnam &amp; Borko (2000) as a good place to start learning about
-        how the [&#8230;]'
-      date: '2015-10-08 14:21:38'
-      date_gmt: '2015-10-08 04:21:38'
-      id: '1185'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Re-purposing V&amp;R mapping to explore modification of digital learning
-        spaces | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.159
-      author_url: https://davidtjones.wordpress.com/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/
-      content: '[&#8230;] of our students are online only students). We are also fairly
-        digitally fluent/literate. In a paper last year we explored how a distributive
-        view of knowledge sharing helped us &#8220;overcome the limitations [&#8230;]'
-      date: '2015-10-28 12:30:54'
-      date_gmt: '2015-10-28 02:30:54'
-      id: '1186'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What to expect/look for from SITE&#8217;2016? &#8211; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.101.31
-      author_url: https://davidtjones.wordpress.com/2016/03/22/what-to-expectlook-for-from-site2016/
-      content: "[&#8230;] get an overall paper award, it was successful in winning a TPACK\
-        \ SIG Paper Award.\_ Given that our previous paper was also TPACK related and\
-        \ won a paper award. This might suggest a &#8220;clique&#8221; with which [&#8230;]"
-      date: '2016-03-22 10:02:12'
-      date_gmt: '2016-03-22 00:02:12'
-      id: '1187'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Competence with digital technology: Do they see the point &#8211; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.100.25
-      author_url: https://davidtjones.wordpress.com/2016/03/31/competence-with-digital-technology-do-they-see-the-point/
-      content: '[&#8230;] this paper (Jones, Heffernan, &amp; Albion, 2015) some colleagues
-        and I draw on a distributive view of [&#8230;]'
-      date: '2016-03-31 09:46:33'
-      date_gmt: '2016-03-30 23:46:33'
-      id: '1188'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Playing with Wikity &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.129
-      author_url: https://davidtjones.wordpress.com/2016/04/23/playing-with-wikity/
-      content: '[&#8230;] Beyond that there are some potentially interesting contributions
-        Wikity can help with ideas around the BAD mindset, CASA, and some sort of foundation
-        for a &#8220;distributed TPACK&#8221; approach. [&#8230;]'
-      date: '2016-04-23 16:29:17'
-      date_gmt: '2016-04-23 06:29:17'
-      id: '1189'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Understanding and using the idea of &#8220;network learning&#8221; &#8211;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.118.102
-      author_url: https://davidtjones.wordpress.com/2016/08/17/understanding-and-using-the-idea-of-network-learning/
-      content: '[&#8230;] this paper some colleagues and I draw on what Putnam and Borko
-        (2000) have to say about new views of [&#8230;]'
-      date: '2016-08-17 15:37:28'
-      date_gmt: '2016-08-17 05:37:28'
-      id: '1190'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'University digital technology: problems, causes, and suggested solutions
-        &#8211; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.116.169
-      author_url: https://davidtjones.wordpress.com/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
-      content: '[&#8230;] teaching and the activities that support learning and teaching
-        are situated &#8211; context matters. For example, the most effective ways for
-        3rd year pre-service teachers to develop their abilities [&#8230;]'
-      date: '2016-09-07 13:08:32'
-      date_gmt: '2016-09-07 03:08:32'
-      id: '1191'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Making course activity more transparent: A proposed use of MAV &#8211;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.118.169
-      author_url: https://davidtjones.wordpress.com/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/
-      content: '[&#8230;] occurs around what MAV reveals. However, given that I&#8217;ve
-        co-authored a paper titled &#8220;TPACK as shared practice: Toward a research
-        agenda&#8221; (Jones, Heffernan, &amp; Albion, 2015) I am interested in exploring
-        if MAV can be leveraged in a [&#8230;]'
-      date: '2016-09-08 13:04:17'
-      date_gmt: '2016-09-08 03:04:17'
-      id: '1192'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a draft of a paper that has been accepted at the [SITE'2015 conference](http://site.aace.org/conf/), and which has just been selected as a [SITE 2015 Outstanding Paper](http://www.editlib.org/p/150454/).
 

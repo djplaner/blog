@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,64 +6,61 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-05-08 12:17:21+10:00
+comments: []
+date: 2009-05-08 02:17:21
 next:
   text: '"PhD Update #10 - Dragging on"'
   url: /blog/2009/05/08/phd-update-10-dragging-on/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #10 &#8211; Dragging on &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/05/08/phd-update-10-dragging-on/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Sector &#8211; another part of&nbsp;Place [...]'
+  date: '2009-05-08 15:59:58'
+  date_gmt: '2009-05-08 05:59:58'
+  id: '2487'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Institution &#8211; another part of place &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/05/15/institution-another-part-of-place/
+  content: '[...] the society (2.1.1 &#8211; Society) and the impact of these changes
+    on the higher education sector (2.1.2 &#8211; Sector). This section moves toward
+    examining the factors associated with individual institutions that can [...]'
+  date: '2009-05-15 15:13:55'
+  date_gmt: '2009-05-15 05:13:55'
+  id: '2488'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What are the conditions that are conducive to the creation of a variety
+    of new ideas? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/05/25/what-are-the-conditions-that-are-conducive-to-the-creation-of-a-variety-of-new-ideas/
+  content: '[...] the growing influence of managerialization within society and the
+    increasing moves to standardisation and accountability within higher education
+    it is not difficult to identify some tensions. Indeed, the tension between [...]'
+  date: '2009-05-25 14:51:58'
+  date_gmt: '2009-05-25 04:51:58'
+  id: '2489'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Society - an aspect of Place impacting on e-learning
   url: /blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/
+template: blog-post.html
 title: Sector - another part of Place
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #10 &#8211; Dragging on &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/05/08/phd-update-10-dragging-on/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Sector &#8211; another part of&nbsp;Place [...]'
-      date: '2009-05-08 15:59:58'
-      date_gmt: '2009-05-08 05:59:58'
-      id: '2487'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Institution &#8211; another part of place &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/05/15/institution-another-part-of-place/
-      content: '[...] the society (2.1.1 &#8211; Society) and the impact of these changes
-        on the higher education sector (2.1.2 &#8211; Sector). This section moves toward
-        examining the factors associated with individual institutions that can [...]'
-      date: '2009-05-15 15:13:55'
-      date_gmt: '2009-05-15 05:13:55'
-      id: '2488'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What are the conditions that are conducive to the creation of a variety
-        of new ideas? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/05/25/what-are-the-conditions-that-are-conducive-to-the-creation-of-a-variety-of-new-ideas/
-      content: '[...] the growing influence of managerialization within society and the
-        increasing moves to standardisation and accountability within higher education
-        it is not difficult to identify some tensions. Indeed, the tension between [...]'
-      date: '2009-05-25 14:51:58'
-      date_gmt: '2009-05-25 04:51:58'
-      id: '2489'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Looks like I'm on a bit of a roll with the "good enough" approach - soon to halt I'm sure. The following is the next section of the [Place](/blog/2009/05/06/place-component-of-the-ps-framework/) component of the Ps Framework section for chapter 2 of the thesis.
 

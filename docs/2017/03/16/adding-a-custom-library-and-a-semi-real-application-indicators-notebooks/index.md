@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - indicators
-date: 2017-03-16 08:05:25+10:00
+date: 2017-03-15 22:05:25
 next:
   text: Observations on university L&T portals
   url: /blog/2017/03/17/observations-on-university-lt-portals/
 previous:
   text: Sharing "indicators platform" via github
   url: /blog/2017/03/13/sharing-indicators-platform-via-github/
+template: blog-post.html
 title: Adding a custom library and a semi-real application - Indicators notebook(s)
 type: post
-template: blog-post.html
 ---
 So the [indicators notebooks/platform](http://djon.es/blog/2017/03/13/sharing-indicators-platform-via-github/) is on github. The one and only bit of analysis is almost completely useless and still requires a fair bit of set up code. The aims in this post are
 
@@ -150,7 +150,7 @@ counts.plot(kind='bar')
 
 The code for terms generates output like the following
 
-[![Course per term](images/33422301436_f6ee7f3150.jpg)](https://www.flickr.com/photos/david_jones/33422301436/in/dateposted-public/ "Course per term")
+[![Course per term](https://djon.es/assets/blog/2017/03/16/adding-a-custom-library-and-a-semi-real-application-indicators-notebooks/images/33422301436_f6ee7f3150.jpg)](https://www.flickr.com/photos/david_jones/33422301436/in/dateposted-public/ "Course per term")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Still quite ugly, there are [ways to improve](https://datasciencelab.wordpress.com/tag/pandas/) the output. A later task. Along with much more learning about Python etc.

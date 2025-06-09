@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - elearning
 - webfuse
-date: 2012-11-08 16:04:57+10:00
+date: 2012-11-08 06:04:57
 next:
   text: '"The life and death of Webfuse: What''s wrong with industrial e-learning
     and how to fix it"'
@@ -10,15 +10,15 @@ next:
 previous:
   text: 'Moving beyond a fashion: likely paths and pitfalls for learning analytics'
   url: /blog/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/
+template: blog-post.html
 title: A triumph of the explicit over the tacit and the subsequent loss of learning
 type: post
-template: blog-post.html
 ---
 I've spent the last week dealing with a range of institutional systems for the submission and processing of assignments, results etc. I'm likely to spend at least another week or two trudging through the inexplicable holes, dead-ends, and busy work such systems create. Hence the need for a break. While walking through the local "Japanese Gardens" back to the office I stumbled across a possible explanation. Or at least a catchy phrase to represent that explanation and provide an opportunity to revisit and share some recent reading.
 
 These ill-fitting systems are illustrative of the triumph of the explicit over the tacit (and implicit) that is embodied in the type of business-like processes and policies in use in the current modern Australian university. It's this triumph that is the biggest barrier to widespread improvement and innovation in learning and teaching at those institutions because they limited institutional learning.
 
-[![Japanese Gardens](images/8165942087_88c5cc070e_n.jpg)](http://www.flickr.com/photos/david_jones/8165942087/ "Japanese Gardens by David T Jones, on Flickr")
+[![Japanese Gardens](https://djon.es/assets/blog/2012/11/08/a-triumph-of-the-explicit-over-the-tacit-and-the-subsequent-loss-of-learning/images/8165942087_88c5cc070e_n.jpg)](http://www.flickr.com/photos/david_jones/8165942087/ "Japanese Gardens by David T Jones, on Flickr")
 
 For example, the design of these information systems is based on the traditional Software Development Life Cycle where some poor sod had to develop the set of requirements which were then dutifully turned into software by the IT department or some vendor (even worse because the requirements become even less important as the focus becomes what the vendor's system can do). The requirements have to be made explicit so that the IT department can prove to unhappy users who find a system they can't use, that the system is exactly what the users asked for.
 

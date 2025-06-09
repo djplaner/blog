@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - elearning
-date: 2007-09-30 22:14:18+10:00
+date: 2007-09-30 12:14:18
 next:
   text: '"Call for papers -- Personal Learning Environments: How can we harness ICTs
     to effectively support lifelong learning?"'
@@ -9,9 +9,9 @@ next:
 previous:
   text: PhD Thesis Timetable
   url: /blog/2007/09/11/phd-thesis-timetable/
+template: blog-post.html
 title: '"It''s all over: no need to select an LMS"'
 type: post
-template: blog-post.html
 ---
 There are inclinations amongst some at my university, as with many others, to move onto a different learning management system (LMS). Which creates n important questions - which new LMS?
 

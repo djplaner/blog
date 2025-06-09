@@ -1,81 +1,78 @@
----
+﻿---
 categories:
 - casa
-coverImage: house.jpg
-date: 2020-08-01 18:10:57+10:00
+comments:
+- approved: '1'
+  author: Bryan
+  author_email: btopro@outlook.com
+  author_ip: 75.75.187.41
+  author_url: https://haxtheweb.org/
+  content: 'I''m glad the magic script was able to work for you and thanks for writing
+    things up about our ecosystem. A few links to maybe help w/ the ending next steps
+    you mentioned:
+
+    - Learn more about developing web components.  https://lit-element.polymer-project.org/try
+    - We recommend the size and developer experience of LitElement! OpenWC is a great
+    tooling to get started with web component development and skip on learning a lot
+    of in the weeds tooling stuff https://open-wc.org/
+
+
+    Figure out how to roll out a CDN/magic script specific to my institution/work.
+    - https://github.com/elmsln/unbundled-webcomponents This is the repo we made as
+    a starting point. It''s what feeds the PSU CDN (which is just up on github and
+    then hooks push changes out to Amazon Cloudfront). This repo has all or build
+    script automation for the magic script to work but off of your own CDN / end-point.
+
+
+    Start thinking about productive ways to integrate web components into my daily
+    work. - Absolutely; and try to think about small wins. I use meme-maker to be
+    silly but we use grid-plate and 100s of other tags that are just remixes of old
+    tags. The https://hax.camp/ website (or any of our other ones) you can inspect
+    and find tags we''ve used at any level. I''d start with cards, video players,
+    buttons, logos, small wins so that you can start the journey toward larger wins.
+
+
+    Ponder the implications of web components in terms of the NGDLE/VLE and local
+    strategic directions.
+
+    Talked at Apereo a bit about how this fits into my vision of NGDLE and how HAX
+    / the magic script make anything into a learning system -- https://www.youtube.com/watch?v=y04EquWHias&amp;list=PLJQupiji7J5fdTItbAp-op9Gfiwx1LvEE&amp;index=2&amp;t=0s
+
+
+    This is the gateway to the NGDLE.'
+  date: '2020-08-01 23:37:11'
+  date_gmt: '2020-08-01 13:37:11'
+  id: '18263'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: John
+  author_email: jjs@gcu.ac.uk
+  author_ip: 81.79.214.253
+  author_url: null
+  content: 'There is some good documentation on this particular CDN here:
+
+
+    https://webcomponents.psu.edu/?path=/story/about-getting-started--using-penn-state-cdn'
+  date: '2023-12-29 21:28:33'
+  date_gmt: '2023-12-29 11:28:33'
+  id: '24894'
+  parent: '0'
+  type: comment
+  user_id: '0'
+coverImage: https://djon.es/assets/blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/images/house.jpg
+date: 2020-08-01 08:10:57
 next:
   text: Visualising and pruning my Memex
   url: /blog/2020/08/09/visualising-and-pruning-my-memex/
+pingbacks: []
 previous:
   text: Getting started with memex
   url: /blog/2020/07/07/getting-started-with-memex/
+template: blog-post.html
 title: Pondering if and how Hax & web components fit in Blackboard
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Bryan
-      author_email: btopro@outlook.com
-      author_ip: 75.75.187.41
-      author_url: https://haxtheweb.org/
-      content: 'I''m glad the magic script was able to work for you and thanks for writing
-        things up about our ecosystem. A few links to maybe help w/ the ending next steps
-        you mentioned:
-    
-        - Learn more about developing web components.  https://lit-element.polymer-project.org/try
-        - We recommend the size and developer experience of LitElement! OpenWC is a great
-        tooling to get started with web component development and skip on learning a lot
-        of in the weeds tooling stuff https://open-wc.org/
-    
-    
-        Figure out how to roll out a CDN/magic script specific to my institution/work.
-        - https://github.com/elmsln/unbundled-webcomponents This is the repo we made as
-        a starting point. It''s what feeds the PSU CDN (which is just up on github and
-        then hooks push changes out to Amazon Cloudfront). This repo has all or build
-        script automation for the magic script to work but off of your own CDN / end-point.
-    
-    
-        Start thinking about productive ways to integrate web components into my daily
-        work. - Absolutely; and try to think about small wins. I use meme-maker to be
-        silly but we use grid-plate and 100s of other tags that are just remixes of old
-        tags. The https://hax.camp/ website (or any of our other ones) you can inspect
-        and find tags we''ve used at any level. I''d start with cards, video players,
-        buttons, logos, small wins so that you can start the journey toward larger wins.
-    
-    
-        Ponder the implications of web components in terms of the NGDLE/VLE and local
-        strategic directions.
-    
-        Talked at Apereo a bit about how this fits into my vision of NGDLE and how HAX
-        / the magic script make anything into a learning system -- https://www.youtube.com/watch?v=y04EquWHias&amp;list=PLJQupiji7J5fdTItbAp-op9Gfiwx1LvEE&amp;index=2&amp;t=0s
-    
-    
-        This is the gateway to the NGDLE.'
-      date: '2020-08-01 23:37:11'
-      date_gmt: '2020-08-01 13:37:11'
-      id: '18263'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: John
-      author_email: jjs@gcu.ac.uk
-      author_ip: 81.79.214.253
-      author_url: null
-      content: 'There is some good documentation on this particular CDN here:
-    
-    
-        https://webcomponents.psu.edu/?path=/story/about-getting-started--using-penn-state-cdn'
-      date: '2023-12-29 21:28:33'
-      date_gmt: '2023-12-29 11:28:33'
-      id: '24894'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 ### 2023 Update
 
@@ -85,7 +82,7 @@ Add the "magic script" to my Wordpress install and we have...
 
 So look what I've done inside my [Blackboard Learn](https://en.wikipedia.org/wiki/Blackboard_Learn) sandpit site.
 
-![Initial example of magic script web components in Blackboard](images/happyDance.gif)
+![Initial example of magic script web components in Blackboard](https://djon.es/assets/blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/images/happyDance.gif)
 
 It probably doesn't look that exciting. A bit of HTML and a couple of animated GIFS. Anyone could do that, right?
 
@@ -116,13 +113,13 @@ To do this I would (and did) add the following HTML to my Blackboard page.
 
 Which produces the following (all on the same Blackboard page).
 
-![Hello World Happy Dance](images/HelloWorldHappyDance.gif)
+![Hello World Happy Dance](https://djon.es/assets/blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/images/HelloWorldHappyDance.gif)
 
 **Note:** The _meme-maker_ tag wouldn't work without the _p_ tag around it. Perhaps a Blackboard thing, or perhaps an artefact of the kludge I've used to get it to work in Blackboard.
 
 The **meme-maker** web component includes code that knows how to take the values I've placed in the **top-text** and **bottom-text** attributes and overlay them onto the image I've specified in **image-url**. Change those attributes and I can create a new "meme". For example, something a little more HAX.
 
-![Joker Hello World](images/JokerHelloWorld.png)
+![Joker Hello World](https://djon.es/assets/blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/images/JokerHelloWorld.png)
 
 ## But wait, there's more
 
@@ -169,7 +166,7 @@ All of this is enabled through the use of web components. HAX uses the magic scr
 
 For example, the following screenshot shows the use of HAX to add a horizontal line into the Blackboard page from above.
 
-![Adding a horizontal line to Blackboard using HAX](images/haxEditingBlackboardPage.png)
+![Adding a horizontal line to Blackboard using HAX](https://djon.es/assets/blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/images/haxEditingBlackboardPage.png)
 
 Of course, the edit I'm making to the Blackboard page is only visible to me while I'm looking at the page. Any change I make is not saved for later use. For that to happen HAX needs to be integrated into the authing process of the content management system (in this case Blackboard). The [What is HAV?](https://youtu.be/9Mq6J6U9K9Q?t=429) includes examples of this happening in various different content management systems including Grav, Drupal and variations of Wordpress. This is achieved via changes to the content management systems editing process. For example, [this Javascript for Wordpress](https://plugins.trac.wordpress.org/browser/haxtheweb/tags/3.9.4/js/hax-the-press.js).
 
@@ -219,7 +216,7 @@ In fact, the Content Interface itself could be rewritten as a web component. Ena
 
 i.e. include the magic script with the Card Interface code and embed a web component. The problem with this approach is that the web component HTML has to be entered via TinyMCE (details about Cards are entered via TinyMCE into Blackboard content items) leading to the HTML entity problem...but it doesn't. As shown in the following image.
 
-![Web components in the Card Interface](images/WebComponentsInCardInterface.gif)
+![Web components in the Card Interface](https://djon.es/assets/blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/images/WebComponentsInCardInterface.gif)
 
 This is actually an unexpected outcome. A bit of tidying up would enable this to work somewhat. But of questionable value.
 

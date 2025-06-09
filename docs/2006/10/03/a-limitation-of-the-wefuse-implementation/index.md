@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - webfuse
-date: 2006-10-03 13:19:35+10:00
+date: 2006-10-03 03:19:35
 next:
   text: Questioning the value of group work
   url: /blog/2006/10/04/questioning-the-value-of-group-work/
 previous:
   text: Web 2.0 and the enterprise
   url: /blog/2006/10/03/web-20-and-the-enterprise/
+template: blog-post.html
 title: A limitation of the Wefuse implementation
 type: post
-template: blog-post.html
 ---
 For the uninitiated, most of my work and research over the last ten years has been in someway associated with [Webfuse](http://webfuse.cqu.edu.au/). It's the focus of my PhD and many of my [publications](http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/) with the intent of attempting to develop an information systems design theory for e-learning. [Jones and Gregor (2006)](http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/formulation.pdf) provide one explanation.
 

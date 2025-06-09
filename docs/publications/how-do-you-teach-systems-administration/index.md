@@ -1,14 +1,10 @@
----
-date: 2008-12-08 12:30:55+10:00
+﻿---
+comments: []
+date: 2008-12-08 02:30:55
+pingbacks: []
+template: blog-post.html
 title: How do you teach Systems Administration?
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 David Jones, How do you teach Systems Administration?, Presented at SAGE-AU'93, University of Melbourne, Melbourne.
 

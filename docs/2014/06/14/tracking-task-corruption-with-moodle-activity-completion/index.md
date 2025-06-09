@@ -1,9 +1,9 @@
----
+﻿---
 categories:
 - bad
 - edc3100
 - teaching
-date: 2014-06-14 10:39:46+10:00
+date: 2014-06-14 00:39:46
 next:
   text: Designing a course on "Networked and Global Learning" - scope, thoughts and
     call for suggestions
@@ -11,9 +11,9 @@ next:
 previous:
   text: Making BIM ready for Moodle 2.6
   url: /blog/2014/05/19/making-bim-ready-for-moodle-2-6/
+template: blog-post.html
 title: Tracking task corruption with Moodle activity completion
 type: post
-template: blog-post.html
 ---
 The following documents a quick kludge required for the assessment for a course I teach. It's primarily a document to help me think through the task and document what was done and why.
 

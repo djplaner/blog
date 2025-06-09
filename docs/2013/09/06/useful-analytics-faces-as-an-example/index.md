@@ -1,54 +1,52 @@
----
+﻿---
 categories:
 - learninganalytics-elearning
-date: 2013-09-06 09:28:01+10:00
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 118.208.170.114
+  author_url: null
+  content: Thoroughly agree. Holy grail syndrome. Higher education continues to look
+    for "silver bullets" in the pursuit of improving outcomes in an increasingly volatile
+    environment. Revolutionary change via clearly defined and over-managed projects
+    that rarely work, are always funded over evolutionary approaches that tend to
+    be more effective (in my opinion). The less funding for higher education, the
+    more dominant these managerial (and ineffective) approaches become, along with
+    a less effective education system. The problem you describe here specifically
+    with learning analytics, is perhaps just another symptom of the spiral Australian
+    higher education is in.
+  date: '2013-09-07 12:54:38'
+  date_gmt: '2013-09-07 02:54:38'
+  id: '847'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2013-09-05 23:28:01
 next:
   text: Is institutional e-learning a bit like teenage sex?
   url: /blog/2013/09/16/is-institutional-e-learning-like-teenage-sex/
+pingbacks:
+- approved: '1'
+  author: Useful &quot;analytics&quot; - Faces as an exam...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/analyse-this/p/4007159279/useful-analytics-faces-as-an-example
+  content: '[&#8230;] A couple of weeks ago I expressed one of my reservations with
+    the large buckets of money and time universities (and others) are currently investing
+    in learning analytics in a blog post titled Bugge...&nbsp; [&#8230;]'
+  date: '2013-09-06 09:36:36'
+  date_gmt: '2013-09-05 23:36:36'
+  id: '846'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The importance of &quot;We don&#039;t know what we&#039;re doing&quot;
   url: /blog/2013/09/04/the-importance-of-we-dont-know-what-were-doing/
+template: blog-post.html
 title: Useful "analytics" - Faces as an example
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 118.208.170.114
-      author_url: null
-      content: Thoroughly agree. Holy grail syndrome. Higher education continues to look
-        for "silver bullets" in the pursuit of improving outcomes in an increasingly volatile
-        environment. Revolutionary change via clearly defined and over-managed projects
-        that rarely work, are always funded over evolutionary approaches that tend to
-        be more effective (in my opinion). The less funding for higher education, the
-        more dominant these managerial (and ineffective) approaches become, along with
-        a less effective education system. The problem you describe here specifically
-        with learning analytics, is perhaps just another symptom of the spiral Australian
-        higher education is in.
-      date: '2013-09-07 12:54:38'
-      date_gmt: '2013-09-07 02:54:38'
-      id: '847'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Useful &quot;analytics&quot; - Faces as an exam...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/analyse-this/p/4007159279/useful-analytics-faces-as-an-example
-      content: '[&#8230;] A couple of weeks ago I expressed one of my reservations with
-        the large buckets of money and time universities (and others) are currently investing
-        in learning analytics in a blog post titled Bugge...&nbsp; [&#8230;]'
-      date: '2013-09-06 09:36:36'
-      date_gmt: '2013-09-05 23:36:36'
-      id: '846'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A couple of weeks ago I expressed one of my reservations with the large buckets of money and time universities (and others) are currently investing in learning analytics in a blog post titled [Bugger analytics, just give me useful information](/blog/2013/08/12/bugger-analytics-just-give-me-useful-information/). My reservation is that the learning designers, data scientists, commercial software vendors, management and other members of Geohegan's (1994) [technologists' alliance](/blog/2009/08/09/the-chasm/#alliance) are so enamoured of the theoretical future possibilities of learning analytics they are ignoring (or perhaps are possibly completely ignorant) of the current information needs of learners and teachers. The following is an attempt at a small example
 

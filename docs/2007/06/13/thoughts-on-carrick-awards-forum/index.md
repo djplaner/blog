@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - ascilitementor
 - elearning
 - emd
-date: 2007-06-13 11:10:57+10:00
+date: 2007-06-13 01:10:57
 next:
   text: Possible Futures v2.0
   url: /blog/2007/06/27/possible-futures-v20/
 previous:
   text: Creating a podcast that students/staff can contribute to
   url: /blog/2007/06/12/creating-a-podcast-that-studentsstaff-can-contribute-to/
+template: blog-post.html
 title: Thoughts on Carrick Awards Forum
 type: post
-template: blog-post.html
 ---
 **This is a work in progress**
 

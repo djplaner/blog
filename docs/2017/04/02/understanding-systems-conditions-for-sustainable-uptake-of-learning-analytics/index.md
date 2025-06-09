@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - 4paths
 - indicators
-date: 2017-04-02 13:19:49+10:00
+date: 2017-04-02 03:19:49
 next:
   text: Early steps in developing a design system/model for Professional Learning
     Opportunities
@@ -10,9 +10,9 @@ next:
 previous:
   text: WTF(udge) does EEI do?
   url: /blog/2017/03/24/wtfudge-does-eei-do/
+template: blog-post.html
 title: Understanding systems conditions for sustainable uptake of learning analytics
 type: post
-template: blog-post.html
 ---
 My current institution is - like most other universities - attempting to make some use of learning analytics. The following uses a _[model of system conditions for sustainable uptake of learning analytics](http://130.56.250.163/about-the-project/sustainable-uptake-of-la/)_ from Colvin et al (2016) to think about how/if those attempts might be enhanced. This is done by
 

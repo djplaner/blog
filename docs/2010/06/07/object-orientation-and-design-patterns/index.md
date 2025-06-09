@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -7,35 +7,32 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-06-07 08:31:56+10:00
+comments: []
+date: 2010-06-06 22:31:56
 next:
   text: The Wf Framework
   url: /blog/2010/06/07/the-wf-framework/
+pingbacks:
+- approved: '1'
+  author: Workarounds &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.38
+  author_url: https://djon.es/blog/2010/06/13/workarounds/
+  content: '[...] combination of the agile and adopted-focused development process
+    of Webfuse, when combined with the design of Webfuse enabled the rapid development
+    of &#8220;workarounds&#8221; that enabled the system to adapt to [...]'
+  date: '2010-06-13 09:22:05'
+  date_gmt: '2010-06-12 23:22:05'
+  id: '3083'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Emergent and agile development
   url: /blog/2010/06/05/emergent-and-agile-development/
+template: blog-post.html
 title: Object orientation and design patterns
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Workarounds &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.38
-      author_url: https://djon.es/blog/2010/06/13/workarounds/
-      content: '[...] combination of the agile and adopted-focused development process
-        of Webfuse, when combined with the design of Webfuse enabled the rapid development
-        of &#8220;workarounds&#8221; that enabled the system to adapt to [...]'
-      date: '2010-06-13 09:22:05'
-      date_gmt: '2010-06-12 23:22:05'
-      id: '3083'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the third in a sequence of sections from chapter 5 of [my thesis](/blog/research/phd-thesis/). These sections are describing the changes made in the development and support of Webfuse from 2000 through 2004 (and a bit beyond). This post very briefly describes the adoption a design patterns influenced, OO design.
 

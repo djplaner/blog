@@ -1,10 +1,115 @@
----
+﻿---
 categories:
 - thesis
-date: 2015-04-21 15:54:45+10:00
+comments:
+- approved: '1'
+  author: Kate Bowles
+  author_email: katebowles@internode.on.net
+  author_ip: 150.101.112.6
+  author_url: http://musicfordeckchairs.wordpress.com/
+  content: 'When I''ve talked to institutional leadership about enabling context-sensitive
+    modification, the response has been consistent: won''t somebody think of the students?
+    Everyone then produces a story about a student who minded having two different
+    experiences on two different platforms and thought this was typical of everything
+    that was wrong with their university. But if we''re relying on anecdotes, we might
+    as well point out that those same students are happy to lash together FB, Instagram,
+    YouTube and Snapchat. In other words, they can handle complexity.
+
+
+    I think it would be helpful to have some concrete evidence on this fairly precise
+    question, so that we don''t just meet story with story. My hunch is that the story
+    about consistency of customer experience works in some industries, especially
+    retail and service, and we take for granted that it transfers to education.
+
+
+    This is a great post, thanks so much. I find your SET mindset a really helpful
+    framework.'
+  date: '2015-04-21 16:19:05'
+  date_gmt: '2015-04-21 06:19:05'
+  id: '1266'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.32
+  author_url: https://djon.es/blog/
+  content: 'Thanks Kate.  I''ve had the same talk and used the same point.
+
+
+    Management here have tended to point to student surveys (of questionable method)
+    with mentions of students not being able to find information on course sites.  This
+    gets magically transformed into a need for every site needing to look the same.  Over
+    looking the absence of a search engine in the LMS, the difficulties students (and
+    all of us) have when trying to find something that is looking at us in the face,
+    that some academics have really crap websites, and that making the course sites
+    all look the same isn''t going to solve any of those problems.
+
+
+    For a long time I''ve wanted - but never had the time - to do research evaluating
+    students finding information in different course sites that have been designed
+    well and come with the full stock of web functionality (i.e. a search engine)
+    and compare it against those that look the same.
+
+
+    Reminds me of a @cogdog piece about the difference between being "of the web"
+    and "on the web".'
+  date: '2015-04-21 16:46:05'
+  date_gmt: '2015-04-21 06:46:05'
+  id: '1267'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2015-04-21 05:54:45
 next:
   text: Why is e-learning like teenage sex and what can be done about it?
   url: /blog/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/
+pingbacks:
+- approved: '1'
+  author: The role of &#8220;coding&#8221; in learning and teaching | The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.74
+  author_url: https://davidtjones.wordpress.com/2015/08/18/the-role-of-coding-in-learning-and-teaching/
+  content: '[&#8230;] of diversity and its importance to effective learning (and teaching)
+    brings in the notion of the reusability paradox. The Reusability Paradox arises
+    from the idea that the pedagogical value of a learning object [&#8230;]'
+  date: '2015-08-18 15:54:33'
+  date_gmt: '2015-08-18 05:54:33'
+  id: '1268'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Should coding and design be essential skills for an academic? | Student
+    Reflections
+  author_email: null
+  author_ip: 192.0.81.140
+  author_url: https://lisaaurisch.wordpress.com/2015/08/23/should-coding-and-design-be-essential-skills-for-an-academic/
+  content: "[&#8230;] my university\u2019s Moodle implementation, similar to ones\_\
+    David describes in his discussion of the resusability paradox, and who has substantially\
+    \ modified the css, html and javascript on a Moodle course in an effort to [&#8230;]"
+  date: '2015-08-23 15:01:19'
+  date_gmt: '2015-08-23 05:01:19'
+  id: '1269'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Design of a BAD approach to developing TPACK | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.200
+  author_url: https://davidtjones.wordpress.com/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
+  content: '[&#8230;] add value to the functionality of the current page/service.
+    This idea is linked to the idea of the Reusability Paradox and the Starvation
+    Problem of [&#8230;]'
+  date: '2015-09-06 12:35:47'
+  date_gmt: '2015-09-06 02:35:47'
+  id: '1270'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What&#039;s good for &quot;open content&quot; is good for the LMS/virtual
     learning space?
@@ -12,122 +117,15 @@ previous:
 tags:
 - bad
 - e-learning
+template: blog-post.html
 title: Where does the LMS sit in the reusability paradox
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Kate Bowles
-      author_email: katebowles@internode.on.net
-      author_ip: 150.101.112.6
-      author_url: http://musicfordeckchairs.wordpress.com/
-      content: 'When I''ve talked to institutional leadership about enabling context-sensitive
-        modification, the response has been consistent: won''t somebody think of the students?
-        Everyone then produces a story about a student who minded having two different
-        experiences on two different platforms and thought this was typical of everything
-        that was wrong with their university. But if we''re relying on anecdotes, we might
-        as well point out that those same students are happy to lash together FB, Instagram,
-        YouTube and Snapchat. In other words, they can handle complexity.
-    
-    
-        I think it would be helpful to have some concrete evidence on this fairly precise
-        question, so that we don''t just meet story with story. My hunch is that the story
-        about consistency of customer experience works in some industries, especially
-        retail and service, and we take for granted that it transfers to education.
-    
-    
-        This is a great post, thanks so much. I find your SET mindset a really helpful
-        framework.'
-      date: '2015-04-21 16:19:05'
-      date_gmt: '2015-04-21 06:19:05'
-      id: '1266'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.32
-      author_url: https://djon.es/blog/
-      content: 'Thanks Kate.  I''ve had the same talk and used the same point.
-    
-    
-        Management here have tended to point to student surveys (of questionable method)
-        with mentions of students not being able to find information on course sites.  This
-        gets magically transformed into a need for every site needing to look the same.  Over
-        looking the absence of a search engine in the LMS, the difficulties students (and
-        all of us) have when trying to find something that is looking at us in the face,
-        that some academics have really crap websites, and that making the course sites
-        all look the same isn''t going to solve any of those problems.
-    
-    
-        For a long time I''ve wanted - but never had the time - to do research evaluating
-        students finding information in different course sites that have been designed
-        well and come with the full stock of web functionality (i.e. a search engine)
-        and compare it against those that look the same.
-    
-    
-        Reminds me of a @cogdog piece about the difference between being "of the web"
-        and "on the web".'
-      date: '2015-04-21 16:46:05'
-      date_gmt: '2015-04-21 06:46:05'
-      id: '1267'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: The role of &#8220;coding&#8221; in learning and teaching | The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.74
-      author_url: https://davidtjones.wordpress.com/2015/08/18/the-role-of-coding-in-learning-and-teaching/
-      content: '[&#8230;] of diversity and its importance to effective learning (and teaching)
-        brings in the notion of the reusability paradox. The Reusability Paradox arises
-        from the idea that the pedagogical value of a learning object [&#8230;]'
-      date: '2015-08-18 15:54:33'
-      date_gmt: '2015-08-18 05:54:33'
-      id: '1268'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Should coding and design be essential skills for an academic? | Student
-        Reflections
-      author_email: null
-      author_ip: 192.0.81.140
-      author_url: https://lisaaurisch.wordpress.com/2015/08/23/should-coding-and-design-be-essential-skills-for-an-academic/
-      content: "[&#8230;] my university\u2019s Moodle implementation, similar to ones\_\
-        David describes in his discussion of the resusability paradox, and who has substantially\
-        \ modified the css, html and javascript on a Moodle course in an effort to [&#8230;]"
-      date: '2015-08-23 15:01:19'
-      date_gmt: '2015-08-23 05:01:19'
-      id: '1269'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Design of a BAD approach to developing TPACK | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.200
-      author_url: https://davidtjones.wordpress.com/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
-      content: '[&#8230;] add value to the functionality of the current page/service.
-        This idea is linked to the idea of the Reusability Paradox and the Starvation
-        Problem of [&#8230;]'
-      date: '2015-09-06 12:35:47'
-      date_gmt: '2015-09-06 02:35:47'
-      id: '1270'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This post [continues the adaptation](/blog/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/) of the original work of [David Wiley](https://davidwiley.org) around the reuse and remixing of open content and applying that knowledge to the LMS and other institutional e-learning systems and practices. The idea is that explicitly ignoring the distinction between the "content" and the digital systems (and perhaps also the physical equipment) that are used in contemporary learning/teaching spaces is useful in identifying problems with current practice and identifying alternatives.
 
 ### The Reusability Paradox
 
-![The inverse relationship between reusability and pedagogical effectiveness](images/figure.gif)
+![The inverse relationship between reusability and pedagogical effectiveness](https://djon.es/assets/blog/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/images/figure.gif)
 
 The graph to the right represents ["The Reusability Paradox"](http://cnx.org/contents/dad41956-c2b2-4e01-94b4-4a871783b021@19/The_Reusability_Paradox) from David Wiley. Developed in the context of learning objects the paradox proposes that there is an inverse relationship between the reusability of a learning object and its pedagogical effectiveness. That is, the more easily you can re-use it in different course, then the less impact it will have on student learning (and vice versa).
 

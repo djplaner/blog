@@ -1,134 +1,132 @@
----
+﻿---
 categories:
 - shadowsystems
 - webfuse
-date: 2008-10-31 10:38:53+10:00
+comments:
+- approved: '1'
+  author: matsonian
+  author_email: matsonian@yahoo.com
+  author_ip: 76.245.104.210
+  author_url: null
+  content: 'Having an idea is one step, implementing it is the next... or is it? How
+    about developing a plan for implementation like that which is developed using
+    the QuickPlanner Plus method of planning. QPP helps the individual to develop
+    idea from thought to fruition by helping to define the goals, objectives and vision.
+
+
+    http://www.quickplannerplus.com'
+  date: '2008-11-02 16:26:18'
+  date_gmt: '2008-11-02 06:26:18'
+  id: '1860'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'G''day Matson,
+
+
+    I tossed and turned a bit about whether or not I would spam your comment.
+
+
+    There were three main reasons I was going to spam it
+
+    * You don''t mention that quickplanner plus is your company
+
+    * My use of "idea" in this post wasn''t intended in the same way you used it
+
+    * The over-emphasis on "planning" is one of the major flaws contributing to shadow
+    systems
+
+
+    Your company
+
+
+    Your blogger profile (http://www.blogger.com/profile/14628159963370941143) lists
+    the quickplannerplus website as "My Website"
+
+
+    The idea
+
+
+    IN the above I intended "the idea" to represent the idea held be management and
+    the central IT division about what was happening in the organisation around the
+    use of their IT systems and the costs/benefits of those systems.
+
+
+    For me, the idea is separated from the reality of organisational life by a gap.  A
+    gap that is bridged by shadow systems.
+
+
+    The main idea of this post is that central IT divisions see shadow systems as
+    something to trashed out of hand, rather than understood as signifying that there
+    is a gap and that perhaps they should learn about the causes of that gap and rectify
+    the idea to be closer to the reality.
+
+
+    Over emphasis on plan-driven approaches.
+
+
+    A major contributor, IMHO, to the gap between the idea and reality is the on-going,
+    over use of plan-driven approaches by central IT divisions and senior management.  I
+    haven''t looked in detail but it appears that quickplannerplus assumes and enhances
+    this over use of plan-driven approaches.
+
+
+    I''ve talked about the problems of these approaches and the alternatives in other
+    blogs posts and in the other publications.
+
+
+    e.g.
+
+    https://djon.es/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/
+
+    https://djon.es/blog/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/
+
+
+    In the end, I decided to allow your post to provide a platform to repeat my platform
+    and maybe generate some additional debate.
+
+
+    David.'
+  date: '2008-11-03 08:36:28'
+  date_gmt: '2008-11-02 22:36:28'
+  id: '1861'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2008-10-31 00:38:53
 next:
   text: '"Extending the classroom: Open content and open teaching: Summary and reflection"'
   url: /blog/2008/11/11/extending-the-classroom-open-content-and-open-teaching-summary-and-reflection/
+pingbacks:
+- approved: '1'
+  author: The protean nature of modern technology - another limitation of most views
+    of e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.24
+  author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
+  content: '[...] This approach ignores the protean nature of software in that during
+    the long period of use the system is not to be changed and/or changes are kept
+    to a minimum. The only people who are allowed to change them are the central IT
+    folk and anyone who even thinks about changing or working around these systems
+    is sought out and &#8220;dealt with&#8221;. Hence the negative conatations of
+    shadow systems. [...]'
+  date: '2009-03-06 08:54:20'
+  date_gmt: '2009-03-05 22:54:20'
+  id: '1862'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Readings on Design-based research
   url: /blog/2008/10/30/readings-on-design-based-research/
+template: blog-post.html
 title: Between the idea and the reality,.... falls the shadow
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: matsonian
-      author_email: matsonian@yahoo.com
-      author_ip: 76.245.104.210
-      author_url: null
-      content: 'Having an idea is one step, implementing it is the next... or is it? How
-        about developing a plan for implementation like that which is developed using
-        the QuickPlanner Plus method of planning. QPP helps the individual to develop
-        idea from thought to fruition by helping to define the goals, objectives and vision.
-    
-    
-        http://www.quickplannerplus.com'
-      date: '2008-11-02 16:26:18'
-      date_gmt: '2008-11-02 06:26:18'
-      id: '1860'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'G''day Matson,
-    
-    
-        I tossed and turned a bit about whether or not I would spam your comment.
-    
-    
-        There were three main reasons I was going to spam it
-    
-        * You don''t mention that quickplanner plus is your company
-    
-        * My use of "idea" in this post wasn''t intended in the same way you used it
-    
-        * The over-emphasis on "planning" is one of the major flaws contributing to shadow
-        systems
-    
-    
-        Your company
-    
-    
-        Your blogger profile (http://www.blogger.com/profile/14628159963370941143) lists
-        the quickplannerplus website as "My Website"
-    
-    
-        The idea
-    
-    
-        IN the above I intended "the idea" to represent the idea held be management and
-        the central IT division about what was happening in the organisation around the
-        use of their IT systems and the costs/benefits of those systems.
-    
-    
-        For me, the idea is separated from the reality of organisational life by a gap.  A
-        gap that is bridged by shadow systems.
-    
-    
-        The main idea of this post is that central IT divisions see shadow systems as
-        something to trashed out of hand, rather than understood as signifying that there
-        is a gap and that perhaps they should learn about the causes of that gap and rectify
-        the idea to be closer to the reality.
-    
-    
-        Over emphasis on plan-driven approaches.
-    
-    
-        A major contributor, IMHO, to the gap between the idea and reality is the on-going,
-        over use of plan-driven approaches by central IT divisions and senior management.  I
-        haven''t looked in detail but it appears that quickplannerplus assumes and enhances
-        this over use of plan-driven approaches.
-    
-    
-        I''ve talked about the problems of these approaches and the alternatives in other
-        blogs posts and in the other publications.
-    
-    
-        e.g.
-    
-        https://djon.es/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/
-    
-        https://djon.es/blog/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/
-    
-    
-        In the end, I decided to allow your post to provide a platform to repeat my platform
-        and maybe generate some additional debate.
-    
-    
-        David.'
-      date: '2008-11-03 08:36:28'
-      date_gmt: '2008-11-02 22:36:28'
-      id: '1861'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: The protean nature of modern technology - another limitation of most views
-        of e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.24
-      author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
-      content: '[...] This approach ignores the protean nature of software in that during
-        the long period of use the system is not to be changed and/or changes are kept
-        to a minimum. The only people who are allowed to change them are the central IT
-        folk and anyone who even thinks about changing or working around these systems
-        is sought out and &#8220;dealt with&#8221;. Hence the negative conatations of
-        shadow systems. [...]'
-      date: '2009-03-06 08:54:20'
-      date_gmt: '2009-03-05 22:54:20'
-      id: '1862'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [T. S. Elliot's](http://en.wikipedia.org/wiki/T._S._Eliot) poem [The Hollow Men](http://en.wikipedia.org/wiki/The_Hollow_Men) has a section that goes
 
@@ -158,7 +156,7 @@ I find it particularly interesting that the current Wikipedia page on shadow sys
 
 Behrens and Sedera (2004) developed a model (shown below) in an attempt to explain why shadow systems exist.
 
-[![Sandy's Shadow System Model](images/2987249807_d61f55f8c8_m.jpg)](http://www.flickr.com/photos/david_jones/2987249807/ "Sandy's Shadow System Model by David T Jones, on Flickr")
+[![Sandy's Shadow System Model](https://djon.es/assets/blog/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/images/2987249807_d61f55f8c8_m.jpg)](http://www.flickr.com/photos/david_jones/2987249807/ "Sandy's Shadow System Model by David T Jones, on Flickr")
 
 The model suggests that shadow systems are created by a gap between the needs of organisation and its use of information technology and the features provided by the organisational IT systems. This mismatch can arise due to characteristics of the people, business processes, organisation and technology. How the gap is overcome is mediated by the available resources and support.
 

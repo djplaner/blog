@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,134 +6,132 @@ categories:
 - missingps
 - thesis
 - webfuse
-date: 2009-02-09 15:38:21+10:00
+comments:
+- approved: '1'
+  author: punyamishra
+  author_email: punya@msu.edu
+  author_ip: 68.255.76.1
+  author_url: null
+  content: David, it has been fun following your blog (found out about it through
+    trackback) - hope to visit more often now that I have you on my blogroll. thanks
+    ~ punya (http://punya.educ.msu.edu/)
+  date: '2009-02-09 16:09:28'
+  date_gmt: '2009-02-09 06:09:28'
+  id: '2105'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: G'day Punya, Hope I haven't taken things to far out of context. Have been
+    very interested in TPACK for quite some time and hope to have the chance to think
+    and apply it more moving forward. It resonates strongly with me and my experiences/beliefs.  David.
+  date: '2009-02-09 16:51:05'
+  date_gmt: '2009-02-09 06:51:05'
+  id: '2106'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2009-02-09 05:38:21
 next:
   text: BAM - making e-learning technology more protean
   url: /blog/2009/02/11/bam-making-e-learning-technology-more-protean/
+pingbacks:
+- approved: '1'
+  author: BAM - making e-learning technology more protean &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/02/11/bam-making-e-learning-technology-more-protean/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    The protean nature of modern technology - another limitation of most views of&nbsp;e-learning
+    [...]'
+  date: '2009-02-11 10:18:20'
+  date_gmt: '2009-02-11 00:18:20'
+  id: '2107'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The value of being open &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.243.217
+  author_url: https://djon.es/blog/2009/02/11/the-value-of-being-open/
+  content: '[...] it. Also, within 40 minutes of publishing the blog post, one of
+    the presenters of the keynote had made a comment on my [...]'
+  date: '2009-02-11 10:49:42'
+  date_gmt: '2009-02-11 00:49:42'
+  id: '2108'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The IRIS model of Technology Adoption - neat and incomplete? &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: https://djon.es/blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
+  content: '[...] as it is used in new and complex settings. This is especially true
+    if the innovation makes use of some form protean technology that enables and even
+    encourages the modification of the innovation by people within a given [...]'
+  date: '2009-03-06 09:19:21'
+  date_gmt: '2009-03-05 23:19:21'
+  id: '2109'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.48
+  author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
+  content: '[...] is the software has to be protean. As much as possible the users
+    of the system need to be able to play with the system, to try new [...]'
+  date: '2009-03-09 23:03:10'
+  date_gmt: '2009-03-09 13:03:10'
+  id: '2110'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Performance degradation - impact of new LMS implementation &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
+  content: '[...] Ignoring the protean nature of ICTs. [...]'
+  date: '2009-04-20 15:30:52'
+  date_gmt: '2009-04-20 05:30:52'
+  id: '2111'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Processing and Visualizing Data in Complex Learning Environments | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.121
+  author_url: https://djon.es/blog/2013/10/20/processing-and-visualizing-data-in-complex-learning-environments/
+  content: '[&#8230;] A distinction of digital technologies is the capacity to change.
+    i.e. it&#8217;s protean. [&#8230;]'
+  date: '2013-10-20 22:25:41'
+  date_gmt: '2013-10-20 12:25:41'
+  id: '2112'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: On the silliness of &quot;best practice&quot; - or why you shouldn&#039;t
     (just) copy successful organisations
   url: /blog/2009/02/09/on-the-silliness-of-best-practice-or-why-you-shouldnt-just-copy-successful-organisations/
+template: blog-post.html
 title: The protean nature of modern technology - another limitation of most views
   of e-learning
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: punyamishra
-      author_email: punya@msu.edu
-      author_ip: 68.255.76.1
-      author_url: null
-      content: David, it has been fun following your blog (found out about it through
-        trackback) - hope to visit more often now that I have you on my blogroll. thanks
-        ~ punya (http://punya.educ.msu.edu/)
-      date: '2009-02-09 16:09:28'
-      date_gmt: '2009-02-09 06:09:28'
-      id: '2105'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: G'day Punya, Hope I haven't taken things to far out of context. Have been
-        very interested in TPACK for quite some time and hope to have the chance to think
-        and apply it more moving forward. It resonates strongly with me and my experiences/beliefs.  David.
-      date: '2009-02-09 16:51:05'
-      date_gmt: '2009-02-09 06:51:05'
-      id: '2106'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: BAM - making e-learning technology more protean &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/02/11/bam-making-e-learning-technology-more-protean/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        The protean nature of modern technology - another limitation of most views of&nbsp;e-learning
-        [...]'
-      date: '2009-02-11 10:18:20'
-      date_gmt: '2009-02-11 00:18:20'
-      id: '2107'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The value of being open &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.243.217
-      author_url: https://djon.es/blog/2009/02/11/the-value-of-being-open/
-      content: '[...] it. Also, within 40 minutes of publishing the blog post, one of
-        the presenters of the keynote had made a comment on my [...]'
-      date: '2009-02-11 10:49:42'
-      date_gmt: '2009-02-11 00:49:42'
-      id: '2108'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The IRIS model of Technology Adoption - neat and incomplete? &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: https://djon.es/blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
-      content: '[...] as it is used in new and complex settings. This is especially true
-        if the innovation makes use of some form protean technology that enables and even
-        encourages the modification of the innovation by people within a given [...]'
-      date: '2009-03-06 09:19:21'
-      date_gmt: '2009-03-05 23:19:21'
-      id: '2109'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.48
-      author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
-      content: '[...] is the software has to be protean. As much as possible the users
-        of the system need to be able to play with the system, to try new [...]'
-      date: '2009-03-09 23:03:10'
-      date_gmt: '2009-03-09 13:03:10'
-      id: '2110'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Performance degradation - impact of new LMS implementation &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
-      content: '[...] Ignoring the protean nature of ICTs. [...]'
-      date: '2009-04-20 15:30:52'
-      date_gmt: '2009-04-20 05:30:52'
-      id: '2111'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Processing and Visualizing Data in Complex Learning Environments | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.121
-      author_url: https://djon.es/blog/2013/10/20/processing-and-visualizing-data-in-complex-learning-environments/
-      content: '[&#8230;] A distinction of digital technologies is the capacity to change.
-        i.e. it&#8217;s protean. [&#8230;]'
-      date: '2013-10-20 22:25:41'
-      date_gmt: '2013-10-20 12:25:41'
-      id: '2112'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A part of my thinking around the [Ps Framework](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) I suggest that there are a [number of dominant assumptions](/blog/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/) that underpin the current implementation of e-learning within institutions of higher education. I believe these dominant assumptions limit the quality, efficiency, effectiveness and innovativness of e-learning at Universities. In this post I am trying to identify one of the dominant assumptions associated with the "Product" component of the Ps Framework and its implications.
 

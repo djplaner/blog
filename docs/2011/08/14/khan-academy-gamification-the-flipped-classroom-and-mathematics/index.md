@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - eded20487
 - teaching
-date: 2011-08-14 20:27:16+10:00
+comments: []
+date: 2011-08-14 10:27:16
 next:
   text: Is IT a service industry, or is it "eating the world"?
   url: /blog/2011/08/23/is-it-a-service-industry-or-is-it-eating-the-world/
+pingbacks:
+- approved: '1'
+  author: Khan academy, gamification, the flipped classro...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/math-inquiry-project/p/4000764431/khan-academy-gamification-the-flipped-classroom-and-mathematics
+  content: '[...] As the title also suggests, I&#039;m seriously considering writing
+    a unit of work based on the assumption of using the Khan Academy videos, its recent
+    &ldquo;gamification&rdquo; features, and the notion of the flipped classroom (plus
+    ...&nbsp; [...]'
+  date: '2013-04-30 02:49:41'
+  date_gmt: '2013-04-29 16:49:41'
+  id: '121'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Gamification by camouflage - fads and higher ed
   url: /blog/2011/08/09/gamification-by-camouflage-fads-and-higher-ed/
+template: blog-post.html
 title: Khan academy, gamification, the flipped classroom and mathematics
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Khan academy, gamification, the flipped classro...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/math-inquiry-project/p/4000764431/khan-academy-gamification-the-flipped-classroom-and-mathematics
-      content: '[...] As the title also suggests, I&#039;m seriously considering writing
-        a unit of work based on the assumption of using the Khan Academy videos, its recent
-        &ldquo;gamification&rdquo; features, and the notion of the flipped classroom (plus
-        ...&nbsp; [...]'
-      date: '2013-04-30 02:49:41'
-      date_gmt: '2013-04-29 16:49:41'
-      id: '121'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As part of my study to become a high school teacher (Information Technology and Mathematics) I have to develop a unit of work for a senior class (defined here as being in Grades 10-12). As part of this process I'm meant to
 
@@ -141,13 +138,13 @@ What else should I be asking?
 
 Well, I've just logged in with my Google account and here's what I see (click on the image to see a larger version).
 
-[![My Khan Academy page](images/6041270824_29e2e0516f_m.jpg)](http://www.flickr.com/photos/david_jones/6041270824/ "My Khan Academy page by David T Jones, on Flickr")
+[![My Khan Academy page](https://djon.es/assets/blog/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/images/6041270824_29e2e0516f_m.jpg)](http://www.flickr.com/photos/david_jones/6041270824/ "My Khan Academy page by David T Jones, on Flickr")
 
 The energy is coming about since I've been exploring videos and preparing for a return home and the slow download speeds. i.e. I've opened up all the relevant sounding videos and pressed play and left them downloading in the background. KA thinks I've watched them and has awarded me badges accordingly.
 
 i.e. this is open to corruption, at least in terms of watching videos. Doing the exercises is a little more difficult. Some of the badges available.
 
-[![Some of the Khan Academy badges](images/6041276510_b35f9f9d58_m.jpg)](http://www.flickr.com/photos/david_jones/6041276510/ "Some of the Khan Academy badges by David T Jones, on Flickr")
+[![Some of the Khan Academy badges](https://djon.es/assets/blog/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/images/6041276510_b35f9f9d58_m.jpg)](http://www.flickr.com/photos/david_jones/6041276510/ "Some of the Khan Academy badges by David T Jones, on Flickr")
 
 They've obviously put some work into this, how well it motivates the students to learn is another question.
 

@@ -1,58 +1,55 @@
----
-date: 2008-12-31 23:14:25+10:00
+﻿---
+comments: []
+date: 2008-12-31 13:14:25
+pingbacks:
+- approved: '1'
+  author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
+  content: '[...] connections with the idea of adopted-based development processes,
+    which are talked about in this paper (Jones and Lynch, 1999) places additional
+    emphasis on being adopter-based and concentrating on the [...]'
+  date: '2009-03-09 23:01:51'
+  date_gmt: '2009-03-09 13:01:51'
+  id: '2022'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Limits in developing innovative pedagogy with Moodle: The story of BIM
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.104.8
+  author_url: https://djon.es/blog/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
+  content: '[...] systems design theory for e-learning. For example, as far back as
+    1999 I have three publications (1, 2, 3 where recognising and reusing the positives
+    is a key feature. It has been my argument that [...]'
+  date: '2010-03-19 10:51:05'
+  date_gmt: '2010-03-19 00:51:05'
+  id: '2023'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Clarification of the alignment project &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.181
+  author_url: https://djon.es/blog/2010/04/22/clarification-of-the-alignment-project/
+  content: '[...] towards being adopter-focused (Surry &amp; Farquhar, 1997). The
+    following description is taken from Jones and Lynch (1999) In contrast to the
+    developer-based approach, the adopter-based approach focuses on the [...]'
+  date: '2010-04-22 13:56:11'
+  date_gmt: '2010-04-22 03:56:11'
+  id: '2024'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: A Model for the Design of Web-based Systems that supports Adoption, Appropriation,
   and Evolution
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
-      content: '[...] connections with the idea of adopted-based development processes,
-        which are talked about in this paper (Jones and Lynch, 1999) places additional
-        emphasis on being adopter-based and concentrating on the [...]'
-      date: '2009-03-09 23:01:51'
-      date_gmt: '2009-03-09 13:01:51'
-      id: '2022'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Limits in developing innovative pedagogy with Moodle: The story of BIM
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.104.8
-      author_url: https://djon.es/blog/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
-      content: '[...] systems design theory for e-learning. For example, as far back as
-        1999 I have three publications (1, 2, 3 where recognising and reusing the positives
-        is a key feature. It has been my argument that [...]'
-      date: '2010-03-19 10:51:05'
-      date_gmt: '2010-03-19 00:51:05'
-      id: '2023'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Clarification of the alignment project &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.181
-      author_url: https://djon.es/blog/2010/04/22/clarification-of-the-alignment-project/
-      content: '[...] towards being adopter-focused (Surry &amp; Farquhar, 1997). The
-        following description is taken from Jones and Lynch (1999) In contrast to the
-        developer-based approach, the adopter-based approach focuses on the [...]'
-      date: '2010-04-22 13:56:11'
-      date_gmt: '2010-04-22 03:56:11'
-      id: '2024'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Teresa Lynch, A Model for the Design of Web-based Systems that supports Adoption, Appropriation, and Evolution, Proceedings of the 1st ICSE Workshop on Web Engineering, Murugesan, S. & Deshpande, Y. (eds), Los Angeles, pp 47-56
 
@@ -192,7 +189,7 @@ This model emphasises the importance of the interrelationships between the devel
 
 Additionally, the model focuses on the on-going examination and evaluation of practice, particularly that of lone-ranging innovators, for possible abstraction into patterns and implementation as templates. The on-going evaluation of new and existing practice, informed by the elements of diffusion theory, leads to the development of new patterns and templates and is intended to create a system which continues to grow and evolve to meet the changing context in which the Web-based information system is used.
 
-[![patterns in elearning](images/3152822497_7f0e2c3fb4_m.jpg)](http://www.flickr.com/photos/david_jones/3152822497/ "patterns in elearning by David T Jones, on Flickr")
+[![patterns in elearning](https://djon.es/assets/blog/publications/a-model-for-the-design-of-web-based-systems-that-supports-adoption-appropriation-and-evolution/images/3152822497_7f0e2c3fb4_m.jpg)](http://www.flickr.com/photos/david_jones/3152822497/ "patterns in elearning by David T Jones, on Flickr")
 
 Figure 1: The Proposed Model
 

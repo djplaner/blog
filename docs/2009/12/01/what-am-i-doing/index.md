@@ -1,14 +1,14 @@
----
-date: 2009-12-01 12:53:27+10:00
+﻿---
+date: 2009-12-01 02:53:27
 next:
   text: What research groups are looking at the future of education
   url: /blog/2009/12/01/what-research-groups-are-looking-at-the-future-of-education/
 previous:
   text: Any one for a grant application/research project?
   url: /blog/2009/11/27/any-one-for-a-grant-applicationresearch-project/
+template: blog-post.html
 title: What am I doing?
 type: post
-template: blog-post.html
 ---
 In the [University](http://www.cqu.edu.au/) within which I work there has always been one particular divide. There are the faculties - these are the parts of the organisation in which the "normal" academics live - and there are the non-faculties - populated by those folk who are not "normal" teaching/research academics sitting within disciplines. For example, I'm employed as an academic, I do research, but I do no direct teaching and live within the [Curriculum Design and Development Unit](http://cddu.cqu.edu.au/). I'm supposed to help the institution improve it's learning and teaching.
 

@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-07-05 14:03:35+10:00
+comments: []
+date: 2009-07-05 04:03:35
 next:
   text: Academics - the next part of the People section
   url: /blog/2009/07/07/academics-the-next-part-of-the-people-section/
+pingbacks:
+- approved: '1'
+  author: 'PhD update #17 &#8211; You know you&#8217;re losing your way when&#8230;.
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/
+  content: '[...] the last update I said I [...]'
+  date: '2009-07-19 14:32:54'
+  date_gmt: '2009-07-19 04:32:54'
+  id: '2635'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: How do you &quot;apprehend the future&quot;
   url: /blog/2009/07/01/how-do-you-apprehend-the-future/
+template: blog-post.html
 title: '"PhD Update #16 - return from a break"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD update #17 &#8211; You know you&#8217;re losing your way when&#8230;.
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/
-      content: '[...] the last update I said I [...]'
-      date: '2009-07-19 14:32:54'
-      date_gmt: '2009-07-19 04:32:54'
-      id: '2635'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As mentioned [a fortnight ago](/blog/2009/06/21/phd-update-15-some-progress-and-an-absence/) I've had much of the last two weeks doing non-PhD stuff including a [road trip to Longreach](http://www.flickr.com/photos/david_jones/tags/longreach/). So this update is somewhat light on.
 

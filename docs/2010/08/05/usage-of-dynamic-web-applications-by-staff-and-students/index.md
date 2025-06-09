@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-08-05 10:31:14+10:00
+date: 2010-08-05 00:31:14
 next:
   text: 30% of information about task performance
   url: /blog/2010/08/08/30-of-information-about-task-performance/
 previous:
   text: Usage of Wf applications
   url: /blog/2010/08/04/usage-of-wf-applications/
+template: blog-post.html
 title: Usage of dynamic web applications by staff and students
 type: post
-template: blog-post.html
 ---
 The following is a "formalisation" of [a previous post](/blog/2010/08/04/usage-of-wf-applications/). This is the version that forms the first draft of a section in the thesis.
 

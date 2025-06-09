@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bam
-date: 2006-10-25 15:04:39+10:00
+date: 2006-10-25 05:04:39
 next:
   text: Starting my "blogs for learning" article about BAM
   url: /blog/2006/10/26/starting-my-blogs-for-learning-article-about-bam/
 previous:
   text: 'Who is to blame for plagiarism: technology, lecturers or context?'
   url: /blog/2006/10/25/who-is-to-blame-for-plagiarism-technology-lecturers-or-context/
+template: blog-post.html
 title: Additional improvements to BAM
 type: post
-template: blog-post.html
 ---
 It's almost the end of term. We've started marking the blogs using BAM and not surprisingly some rough edges are showing. Things to look at
 

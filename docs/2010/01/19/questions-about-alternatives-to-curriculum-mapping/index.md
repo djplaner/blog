@@ -1,40 +1,37 @@
----
-date: 2010-01-19 13:19:30+10:00
+﻿---
+comments: []
+date: 2010-01-19 03:19:30
 next:
   text: Plans for a AJET paper around the indicators project
   url: /blog/2010/01/20/plans-for-a-ajet-paper-around-the-indicators-project/
+pingbacks:
+- approved: '1'
+  author: Loosing weight, nudging and changing the L&amp;T environment &#8211; early
+    foundations of my work &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.181
+  author_url: https://djon.es/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
+  content: '[...] bottom up curriculum mappingI&#8217;ve been thinking about a bottom
+    up approach to curriculum mapping. My main interest is how to modify slightly
+    existing practice to develop curriculum maps within a program that can give feedback
+    to participants about the problems in a course. In addition, there are possibilities
+    that such an approach can be used to structure complex choices &#8211; be developing
+    &#8220;wizards&#8221; that help guide the solution to identified problems &#8211;
+    and perhaps help change some of the defaults. [...]'
+  date: '2010-02-03 11:46:43'
+  date_gmt: '2010-02-03 01:46:43'
+  id: '2915'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - manage marking - view and release
   url: /blog/2010/01/17/bim-manage-marking-view-and-release/
 tags:
 - curriculummapping
+template: blog-post.html
 title: Questions about alternatives to curriculum mapping
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Loosing weight, nudging and changing the L&amp;T environment &#8211; early
-        foundations of my work &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.181
-      author_url: https://djon.es/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
-      content: '[...] bottom up curriculum mappingI&#8217;ve been thinking about a bottom
-        up approach to curriculum mapping. My main interest is how to modify slightly
-        existing practice to develop curriculum maps within a program that can give feedback
-        to participants about the problems in a course. In addition, there are possibilities
-        that such an approach can be used to structure complex choices &#8211; be developing
-        &#8220;wizards&#8221; that help guide the solution to identified problems &#8211;
-        and perhaps help change some of the defaults. [...]'
-      date: '2010-02-03 11:46:43'
-      date_gmt: '2010-02-03 01:46:43'
-      id: '2915'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A small group of colleagues are discussing possible ideas around a project to engage in curriculum mapping. Possibly with the aim of going for an ALTC grant. As part of that process one of my colleagues has raised a range of questions about the project (we're still at the storming and norming phase). The following is my attempt to answer some of those questions. The responses I give are obviously influenced by my beliefs about learning and teaching in higher education and how it does or does not work.
 

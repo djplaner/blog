@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - bad
 - e-learning
 - elearning
-date: 2015-09-13 16:24:59+10:00
+comments: []
+date: 2015-09-13 06:24:59
 next:
   text: What might a project combining LX Design and Analaytics look like?
   url: /blog/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
+pingbacks:
+- approved: '1'
+  author: Helping teachers &#8220;know thy students&#8221; | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.100.175
+  author_url: https://davidtjones.wordpress.com/2015/09/15/helping-teachers-know-thy-students/
+  content: '[&#8230;] plan to continue the use of augmented browsing as the primary
+    mechanism, and why I&#8217;ve started exploring Moodle&#8217;s API. It appears
+    to provide a way to allow the development of a flexible and customisable approach
+    to [&#8230;]'
+  date: '2015-09-15 10:06:43'
+  date_gmt: '2015-09-15 00:06:43'
+  id: '1425'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What type of &quot;digital knowledge&quot; does a teacher need?
   url: /blog/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
+template: blog-post.html
 title: Exploring Moodle's API
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Helping teachers &#8220;know thy students&#8221; | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.100.175
-      author_url: https://davidtjones.wordpress.com/2015/09/15/helping-teachers-know-thy-students/
-      content: '[&#8230;] plan to continue the use of augmented browsing as the primary
-        mechanism, and why I&#8217;ve started exploring Moodle&#8217;s API. It appears
-        to provide a way to allow the development of a flexible and customisable approach
-        to [&#8230;]'
-      date: '2015-09-15 10:06:43'
-      date_gmt: '2015-09-15 00:06:43'
-      id: '1425'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [![Biblia (German), f.40r, detail by CRC, University of Edinburgh, on Flickr](https://farm4.static.flickr.com/3682/10155924084_207fe9c6ba_m.jpg "Biblia (German), f.40r, detail by CRC, University of Edinburgh, on Flickr")](https://www.flickr.com/photos/crcedinburgh/10155924084/)  
 [![Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License](http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-nd/2.0/)   by  [](https://www.flickr.com/people/crcedinburgh/)[CRC, University of Edinburgh](https://www.flickr.com/people/crcedinburgh/) [](http://www.imagecodr.org/)

@@ -1,92 +1,89 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-08-21 15:11:38+10:00
+comments: []
+date: 2014-08-21 05:11:38
 next:
   text: And more NGL catch up
   url: /blog/2014/08/22/and-more-ngl-catch-up/
+pingbacks:
+- approved: '1'
+  author: All in all it&#8217;s just another hole in the wall | (sm)art education
+    network
+  author_email: null
+  author_ip: 66.155.38.74
+  author_url: http://mari4art.wordpress.com/2014/08/21/all-in-all-its-just-another-hole-in-the-wall/
+  content: '[&#8230;] Andrew and Anne talked about using Edmodo as a safe collaborative
+    classroom tool for high school students, while David [&#8230;]'
+  date: '2014-08-22 00:11:33'
+  date_gmt: '2014-08-21 14:11:33'
+  id: '1046'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "\u2018As Student\u2019 / \u2018As Learner\u2019 \u2013 Sharing my Learning\
+    \ | iThink, iTeach, iTeens"
+  author_email: null
+  author_ip: 66.155.10.174
+  author_url: http://willocksb.wordpress.com/2014/08/24/as-student-as-learner-sharing-my-learning/
+  content: "[&#8230;] else\u2019s innovative work, its beautiful, brilliant, breathtaking,\
+    \ your stunned. Their ideas are unexpected and surprising. But [&#8230;]"
+  date: '2014-08-24 18:30:46'
+  date_gmt: '2014-08-24 08:30:46'
+  id: '1049'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "\u2018As student\u2019 \u2013 seeking feedback on \u2018as teacher\u2019\
+    \ looking back, looking forward | iThink, iTeach, iTeens"
+  author_email: null
+  author_ip: 192.0.81.104
+  author_url: http://willocksb.wordpress.com/2014/09/07/as-student-seeking-feedback-on-as-teacher-looking-back-looking-forward/
+  content: "[&#8230;] networked and global learning far-outweighing the negatives?\
+    \ Furthermore, the metaphor presented by David regarding the \u2018walled garden\u2019\
+    , as \u201Csomething that puts barriers between the \u2018real\u2019 world [&#8230;]"
+  date: '2014-09-07 16:34:17'
+  date_gmt: '2014-09-07 06:34:17'
+  id: '1050'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'As Teacher: How can NGL inform my role as teacher? | iThink, iTeach, iTeens'
+  author_email: null
+  author_ip: 192.0.82.150
+  author_url: http://willocksb.wordpress.com/2014/09/20/as-teacher-how-can-ngl-inform-my-role-as-teacher/
+  content: "[&#8230;] networked and global learning far-outweighing the negatives?\
+    \ Furthermore, the metaphor presented by David regarding the \u2018walled garden\u2019\
+    , as \u201Csomething that puts barriers between the \u2018real\u2019 world [&#8230;]"
+  date: '2014-09-20 17:38:00'
+  date_gmt: '2014-09-20 07:38:00'
+  id: '1051'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Assignment 2 &#8211; DBR Proposal | EVEN ELMO&#039;S GOT A MOBILE
+  author_email: null
+  author_ip: 192.0.83.190
+  author_url: http://astrethewey.wordpress.com/2014/11/12/assignment-2-dbr-proposal/
+  content: "[&#8230;] Jones, D. (2014, August 21). A bit more NGL catchup [Web log\
+    \ post]. \_Retrieved from https://djon.es/blog/2014/08/21/a-bit-more-ngl-catchup/\
+    \ [&#8230;]"
+  date: '2014-11-12 11:04:03'
+  date_gmt: '2014-11-12 01:04:03'
+  id: '1052'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Evaluating the use of blogs/reflective journals
   url: /blog/2014/08/21/evaluating-the-use-of-blogsreflective-journals/
+template: blog-post.html
 title: A bit more NGL catchup
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: All in all it&#8217;s just another hole in the wall | (sm)art education
-        network
-      author_email: null
-      author_ip: 66.155.38.74
-      author_url: http://mari4art.wordpress.com/2014/08/21/all-in-all-its-just-another-hole-in-the-wall/
-      content: '[&#8230;] Andrew and Anne talked about using Edmodo as a safe collaborative
-        classroom tool for high school students, while David [&#8230;]'
-      date: '2014-08-22 00:11:33'
-      date_gmt: '2014-08-21 14:11:33'
-      id: '1046'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "\u2018As Student\u2019 / \u2018As Learner\u2019 \u2013 Sharing my Learning\
-        \ | iThink, iTeach, iTeens"
-      author_email: null
-      author_ip: 66.155.10.174
-      author_url: http://willocksb.wordpress.com/2014/08/24/as-student-as-learner-sharing-my-learning/
-      content: "[&#8230;] else\u2019s innovative work, its beautiful, brilliant, breathtaking,\
-        \ your stunned. Their ideas are unexpected and surprising. But [&#8230;]"
-      date: '2014-08-24 18:30:46'
-      date_gmt: '2014-08-24 08:30:46'
-      id: '1049'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "\u2018As student\u2019 \u2013 seeking feedback on \u2018as teacher\u2019\
-        \ looking back, looking forward | iThink, iTeach, iTeens"
-      author_email: null
-      author_ip: 192.0.81.104
-      author_url: http://willocksb.wordpress.com/2014/09/07/as-student-seeking-feedback-on-as-teacher-looking-back-looking-forward/
-      content: "[&#8230;] networked and global learning far-outweighing the negatives?\
-        \ Furthermore, the metaphor presented by David regarding the \u2018walled garden\u2019\
-        , as \u201Csomething that puts barriers between the \u2018real\u2019 world [&#8230;]"
-      date: '2014-09-07 16:34:17'
-      date_gmt: '2014-09-07 06:34:17'
-      id: '1050'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'As Teacher: How can NGL inform my role as teacher? | iThink, iTeach, iTeens'
-      author_email: null
-      author_ip: 192.0.82.150
-      author_url: http://willocksb.wordpress.com/2014/09/20/as-teacher-how-can-ngl-inform-my-role-as-teacher/
-      content: "[&#8230;] networked and global learning far-outweighing the negatives?\
-        \ Furthermore, the metaphor presented by David regarding the \u2018walled garden\u2019\
-        , as \u201Csomething that puts barriers between the \u2018real\u2019 world [&#8230;]"
-      date: '2014-09-20 17:38:00'
-      date_gmt: '2014-09-20 07:38:00'
-      id: '1051'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Assignment 2 &#8211; DBR Proposal | EVEN ELMO&#039;S GOT A MOBILE
-      author_email: null
-      author_ip: 192.0.83.190
-      author_url: http://astrethewey.wordpress.com/2014/11/12/assignment-2-dbr-proposal/
-      content: "[&#8230;] Jones, D. (2014, August 21). A bit more NGL catchup [Web log\
-        \ post]. \_Retrieved from https://djon.es/blog/2014/08/21/a-bit-more-ngl-catchup/\
-        \ [&#8230;]"
-      date: '2014-11-12 11:04:03'
-      date_gmt: '2014-11-12 01:04:03'
-      id: '1052'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Catching up with everyone in NGL is taking longer than I thought, mainly due to external factors. Here's some more.
 
@@ -96,8 +93,8 @@ It is interesting to [see a reference](http://katarenasafeplace.wordpress.com/20
 
 ### Short cut kings
 
-[![Short Cut Road by Unhindered by Talent, on Flickr](images/2057350339_738a34fcea_m.jpg "Short Cut Road by Unhindered by Talent, on Flickr")](https://www.flickr.com/photos/nicmcphee/2057350339/)  
-[![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/nicmcphee/)[Unhindered by Talent](https://www.flickr.com/people/nicmcphee/) [](http://www.imagecodr.org/)
+[![Short Cut Road by Unhindered by Talent, on Flickr](https://djon.es/assets/blog/2014/08/21/a-bit-more-ngl-catchup/images/2057350339_738a34fcea_m.jpg "Short Cut Road by Unhindered by Talent, on Flickr")](https://www.flickr.com/photos/nicmcphee/2057350339/)  
+[![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2014/08/21/a-bit-more-ngl-catchup/images/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/nicmcphee/)[Unhindered by Talent](https://www.flickr.com/people/nicmcphee/) [](http://www.imagecodr.org/)
 
 I really like [this sentiment](http://katarenasafeplace.wordpress.com/2014/08/09/understanding-week-2-trying-to-play-catch-up/) for a few reasons
 
@@ -127,8 +124,8 @@ I now find out that [Kath plays WoW](http://katarenasafeplace.wordpress.com/2014
 
 ### Walled gardens and protection
 
-[![Walled garden by recursion_see_recursion, on Flickr](images/325231714_123d94d79e_m.jpg "Walled garden by recursion_see_recursion, on Flickr")](https://www.flickr.com/photos/hawksanddoves/325231714/)  
-[![Creative Commons Creative Commons Attribution 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/hawksanddoves/)[recursion\_see\_recursion](https://www.flickr.com/people/hawksanddoves/) [](http://www.imagecodr.org/)
+[![Walled garden by recursion_see_recursion, on Flickr](https://djon.es/assets/blog/2014/08/21/a-bit-more-ngl-catchup/images/325231714_123d94d79e_m.jpg "Walled garden by recursion_see_recursion, on Flickr")](https://www.flickr.com/photos/hawksanddoves/325231714/)  
+[![Creative Commons Creative Commons Attribution 2.0 Generic License](https://djon.es/assets/blog/2014/08/21/a-bit-more-ngl-catchup/images/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/hawksanddoves/)[recursion\_see\_recursion](https://www.flickr.com/people/hawksanddoves/) [](http://www.imagecodr.org/)
 
 [Andrew and Anne](https://globalconnectionusq.wordpress.com/2014/08/16/a-useful-collaborative-tool/) share experiences with EdModo. A tool I played with a bit as I headed towards high school teaching. I wonder whether their perspective of Edmodo will evolve as they proceed further into the course?
 

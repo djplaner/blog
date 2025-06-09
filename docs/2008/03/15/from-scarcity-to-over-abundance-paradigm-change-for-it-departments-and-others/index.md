@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - cognitiveedge
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - enterprise-20
 - ple
 - web-20-course-sites
-date: 2008-03-15 21:12:01+10:00
+comments: []
+date: 2008-03-15 11:12:01
 next:
   text: Initial thoughts from CogEdge accreditation course
   url: /blog/2008/03/16/initial-thoughts-from-cogedge-accreditation-course/
+pingbacks:
+- approved: '1'
+  author: Look for incompetence before you go paranoid &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.232.101.59
+  author_url: https://djon.es/blog/2008/10/23/look-for-incompetence-before-you-go-paranoid/
+  content: '[...] of folk, including me, who have argued that the changes behind PLEs,
+    Web 2.0 etc. are creating a paradigm change for IT departments. A paradigm change
+    is not an easy thing to [...]'
+  date: '2008-10-23 09:12:16'
+  date_gmt: '2008-10-22 23:12:16'
+  id: '1577'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Ideas for &quot;spaces&quot; in Second Life
   url: /blog/2008/01/18/ideas-for-spaces-in-second-life/
+template: blog-post.html
 title: From scarcity to over abundance - paradigm change for IT departments (and others)
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Look for incompetence before you go paranoid &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.232.101.59
-      author_url: https://djon.es/blog/2008/10/23/look-for-incompetence-before-you-go-paranoid/
-      content: '[...] of folk, including me, who have argued that the changes behind PLEs,
-        Web 2.0 etc. are creating a paradigm change for IT departments. A paradigm change
-        is not an easy thing to [...]'
-      date: '2008-10-23 09:12:16'
-      date_gmt: '2008-10-22 23:12:16'
-      id: '1577'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Nothing all that new in this post, at least not that others [haven't talked about previously](http://www.longtail.com/the_long_tail/2006/10/the_economics_o.html). But writing this helps me think about a few things.
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - moodleopenbook
-date: 2015-08-13 10:18:36+10:00
+date: 2015-08-13 00:18:36
 next:
   text: ICT knowledge and quizzes
   url: /blog/2015/08/13/ict-knowledge-and-quizzes/
 previous:
   text: Changing &quot;as learner&quot; focus - analytics to &quot;chamber music&quot;
   url: /blog/2015/08/09/changing-as-learner-focus-analytics-to-chamber-music/
+template: blog-post.html
 title: Possible sources of an institution's e-learning content problems
 type: post
-template: blog-post.html
 ---
 My current institution has a content problem when it comes to e-learning (insert digital learning, online learning, technology enhanced learning, or just learning if you prefer). The following is an attempt to use my experience teaching at the institution to understand what are some of the factors contributing to the problem.
 
@@ -107,7 +107,7 @@ It's not only materials that need to be brought into the new medium. There are o
 
 As mentioned above, a common method for organising Moodle course sites is by week or by topic. The image below is part of the course site for EDC3100. The site is organised by week. The top of the site has skip navigation links (see the next image below) that you can use to take you directly to the week you need to work on. All the activities and resources you need for that week are in that section. As you complete each activity you will get a nice behaviouralist tick indicating that you have completed the activity.
 
-[![s2 2015](images/18976620828_8111df3667.jpg)](https://www.flickr.com/photos/david_jones/18976620828/in/album-72157629278697801/ "s2 2015")
+[![s2 2015](https://djon.es/assets/blog/2015/08/13/possible-sources-of-an-institutions-e-learning-content-problems/images/18976620828_8111df3667.jpg)](https://www.flickr.com/photos/david_jones/18976620828/in/album-72157629278697801/ "s2 2015")
 
 With this structure in place, I question the value of a Study Schedule. Especially when I see the type of information that is contained in many of the Study Schedules on other courses.
 
@@ -117,7 +117,7 @@ My course does include a Study Schedule. It would be interesting to see how ofte
 
 [The makeover](http://www.usq.edu.au/studydesk/) of the Study Desk was "sold" to academics (in part) using a line like "we won't touch 'Course Activity'". i.e. the normal Moodle list of activities and resources would remain the sole purview of the academic. The new look and feel was just adding some additional structure (see the left hand menu in the image below) to help students find information.
 
-[![tooltip](images/16406027186_2a4210be9a.jpg)](https://www.flickr.com/photos/david_jones/16406027186/in/album-72157629278697801/ "tooltip")
+[![tooltip](https://djon.es/assets/blog/2015/08/13/possible-sources-of-an-institutions-e-learning-content-problems/images/16406027186_2a4210be9a.jpg)](https://www.flickr.com/photos/david_jones/16406027186/in/album-72157629278697801/ "tooltip")
 
 It was left to academics to organise the "scroll of death" that is a Moodle site. A task that is not straight forward. There have been (yet) no attempts to develop and share higher-level models of how the "course activity" section could be structured. I'm assuming that at some stage soon there will be a project at the institution to develop the "one higher level model" for all courses at the institution, because consistency is good.
 

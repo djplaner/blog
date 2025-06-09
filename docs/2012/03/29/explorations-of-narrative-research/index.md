@@ -1,49 +1,47 @@
----
+﻿---
 categories:
 - elearning
 - narrative
 - research
-date: 2012-03-29 10:17:53+10:00
+comments:
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://users.on.net/~iancreid/
+  content: 'I also recommend this classic: http://www.hepg.org/her/abstract/436'
+  date: '2012-03-29 10:28:51'
+  date_gmt: '2012-03-29 00:28:51'
+  id: '289'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-03-29 00:17:53
 next:
   text: What are the really useful analytics?
   url: /blog/2012/03/29/what-are-the-really-useful-analytics/
+pingbacks:
+- approved: '1'
+  author: An ad hoc exploration ethnographic research | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.9.110
+  author_url: https://djon.es/blog/2013/04/07/an-ad-hoc-exploration-ethnographic-research/
+  content: '[...] following is an initial attempt to restart some earlier explorations
+    of research methods that may prove useful in examining the &#8220;Story of BIM&#8221;
+    for potential [...]'
+  date: '2013-04-07 23:41:11'
+  date_gmt: '2013-04-07 13:41:11'
+  id: '290'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: '&quot;Here I stand&quot; - Campbell&#039;s concerns on analytics and other
     stuff'
   url: /blog/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/
+template: blog-post.html
 title: Explorations of narrative research
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://users.on.net/~iancreid/
-      content: 'I also recommend this classic: http://www.hepg.org/her/abstract/436'
-      date: '2012-03-29 10:28:51'
-      date_gmt: '2012-03-29 00:28:51'
-      id: '289'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: An ad hoc exploration ethnographic research | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.9.110
-      author_url: https://djon.es/blog/2013/04/07/an-ad-hoc-exploration-ethnographic-research/
-      content: '[...] following is an initial attempt to restart some earlier explorations
-        of research methods that may prove useful in examining the &#8220;Story of BIM&#8221;
-        for potential [...]'
-      date: '2013-04-07 23:41:11'
-      date_gmt: '2013-04-07 13:41:11'
-      id: '290'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 For a long time I've had a vague interest in narrative research, i.e. it's one of those things I always meant to learn more about. Here are some initial explorations.
 

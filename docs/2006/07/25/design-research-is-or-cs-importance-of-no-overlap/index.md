@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - design-theory
-date: 2006-07-25 12:20:37+10:00
+date: 2006-07-25 02:20:37
 next:
   text: Limitations of incoming students and Gantt charts
   url: /blog/2006/07/25/limitations-of-incoming-students-and-gantt-charts/
 previous:
   text: 'BAM Progress #1'
   url: /blog/2006/07/23/bam-progress-1/
+template: blog-post.html
 title: '"Design research: IS or CS - importance of "no overlap""'
 type: post
-template: blog-post.html
 ---
 The Information Systems discipline has had lots of talk about design science research (aka many other related terms).
 

@@ -1,76 +1,73 @@
----
+﻿---
 categories:
 - bim2
-date: 2013-07-26 10:44:02+10:00
+comments:
+- approved: '1'
+  author: kj
+  author_email: k.besley@gmail.com
+  author_ip: 194.81.161.134
+  author_url: http://scesol.wordpress.com
+  content: 'Hi David,
+
+
+    Where is the call which doesn''t use the proxy? I have a different issue to you,
+    but I''m keen to try your fix. It''s getting irritating!
+
+
+    Thanks,
+
+
+    Ken'
+  date: '2013-07-30 01:31:10'
+  date_gmt: '2013-07-29 15:31:10'
+  id: '812'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.222.147.186
+  author_url: https://djon.es/blog/
+  content: "G'day Ken,\n\nIf you're having other problems, let me know.  Happy to\
+    \ help.\n\nlib/bim_rss.php in the function \"bim_get_feed_url\" - around line\
+    \ 247 - see this in GitHub here https://github.com/djplaner/moodle-mod_bim/blob/MOODLE_24_STABLE/lib/bim_rss.php\n\
+    \nThe initialisation of the $feed variable needs to be this\n    $feed = new moodle_simplepie();\n\
+    \nThe fix is in GitHub - so you could retrieve the code from there.  I also need\
+    \ to update the code on Moodle CONTRIB. But was waiting until I investigated a\
+    \ couple of other minor problems. I should probably revisit that.\n\nDavid."
+  date: '2013-07-30 07:39:34'
+  date_gmt: '2013-07-29 21:39:34'
+  id: '813'
+  parent: '812'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: G'day Ken,  FYI, I've updated BIM for Moodle 2.4 on both Github and <a
+    href="https://moodle.org/plugins/pluginversions.php?plugin=mod_bim" rel="nofollow">CONTRIB</a>
+    to have this fix and also a fix that will prevent non-teaching staff showing up
+    on the allocate markers screen.  David.
+  date: '2013-08-01 11:05:35'
+  date_gmt: '2013-08-01 01:05:35'
+  id: '814'
+  parent: '812'
+  type: comment
+  user_id: '1'
+date: 2013-07-26 00:44:02
 next:
   text: Learning analytics - What is the "end in mind"?
   url: /blog/2013/08/02/learning-analytics-what-is-the-end-in-mind/
+pingbacks: []
 previous:
   text: How are they feeling - Semester 2 - Part 1
   url: /blog/2013/07/18/how-are-they-feeling-semester-2-part-1/
+template: blog-post.html
 title: BIM, Moodle, Simplepie, curl and HTTP proxy issue
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: kj
-      author_email: k.besley@gmail.com
-      author_ip: 194.81.161.134
-      author_url: http://scesol.wordpress.com
-      content: 'Hi David,
-    
-    
-        Where is the call which doesn''t use the proxy? I have a different issue to you,
-        but I''m keen to try your fix. It''s getting irritating!
-    
-    
-        Thanks,
-    
-    
-        Ken'
-      date: '2013-07-30 01:31:10'
-      date_gmt: '2013-07-29 15:31:10'
-      id: '812'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.222.147.186
-      author_url: https://djon.es/blog/
-      content: "G'day Ken,\n\nIf you're having other problems, let me know.  Happy to\
-        \ help.\n\nlib/bim_rss.php in the function \"bim_get_feed_url\" - around line\
-        \ 247 - see this in GitHub here https://github.com/djplaner/moodle-mod_bim/blob/MOODLE_24_STABLE/lib/bim_rss.php\n\
-        \nThe initialisation of the $feed variable needs to be this\n    $feed = new moodle_simplepie();\n\
-        \nThe fix is in GitHub - so you could retrieve the code from there.  I also need\
-        \ to update the code on Moodle CONTRIB. But was waiting until I investigated a\
-        \ couple of other minor problems. I should probably revisit that.\n\nDavid."
-      date: '2013-07-30 07:39:34'
-      date_gmt: '2013-07-29 21:39:34'
-      id: '813'
-      parent: '812'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: G'day Ken,  FYI, I've updated BIM for Moodle 2.4 on both Github and <a
-        href="https://moodle.org/plugins/pluginversions.php?plugin=mod_bim" rel="nofollow">CONTRIB</a>
-        to have this fix and also a fix that will prevent non-teaching staff showing up
-        on the allocate markers screen.  David.
-      date: '2013-08-01 11:05:35'
-      date_gmt: '2013-08-01 01:05:35'
-      id: '814'
-      parent: '812'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Good news this week. [BIM](/blog/research/bam-blog-aggregation-management/) got into the institution's testing site for Moodle. One step close to going live. The bad news is that there were a couple of issues to resolve. This post is a record of the attempt to address the big one (successfully as well).
 

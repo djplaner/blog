@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-08-20 16:20:27+10:00
+comments: []
+date: 2010-08-20 06:20:27
 next:
   text: Minimum course presence and the tension between centralisation and de-centralisation
   url: /blog/2010/08/21/minimum-course-presence-and-the-tension-between-centralisation-and-de-centralisation/
+pingbacks:
+- approved: '1'
+  author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  content: '[...] Initially I became a full-time PhD student and a Dad. [...]'
+  date: '2013-01-24 15:06:48'
+  date_gmt: '2013-01-24 05:06:48'
+  id: '3152'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The curse of simple diagrams
   url: /blog/2010/08/20/the-curse-of-simple-diagrams/
+template: blog-post.html
 title: Off to see the dinosaurs
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
-      content: '[...] Initially I became a full-time PhD student and a Dad. [...]'
-      date: '2013-01-24 15:06:48'
-      date_gmt: '2013-01-24 05:06:48'
-      id: '3152'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 And now for something completely different, leaving the dinosaurs of academic development within universities behind, it's time to move on to some real dinosaurs, or at least their fossilised remains. In a few weeks, the two boys and I are off out west. In particular, we're off to "ride" the [Dinosaur trail](http://www.queenslandholidays.com.au/things-to-see-and-do/australias-dinosaur-trail/index.cfm) of Western Queensland. Both boys are going through the dinosaur phase, with the 5 year old certain he wants to be a paleontologist when he grows up.
 

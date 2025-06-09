@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,106 +6,103 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-04-25 16:09:45+10:00
+comments: []
+date: 2009-04-25 06:09:45
 next:
   text: Integration with professional lives of academics - why industrial e-learning
     fails and why post-industrial might work
   url: /blog/2009/04/29/integration-with-professional-lives-of-academics-why-industrial-e-learning-fails-and-why-post-industrial-might-work/
+pingbacks:
+- approved: '1'
+  author: MyPage Builder
+  author_email: null
+  author_ip: 67.205.85.77
+  author_url: http://mypage.com/site/blog/2009/04/25/lessons-for-e-learning/
+  content: "[...] here:\_ Lessons for e-learning [...]"
+  date: '2009-04-25 17:45:32'
+  date_gmt: '2009-04-25 07:45:32'
+  id: '2447'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #9 - spluttering out of steam &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/05/01/phd-update-9-spluttering-out-of-steam/
+  content: '[...] Lessons from Past Experience DONE This was almost finished last
+    week. Got it posted on Saturday and have made a few minor [...]'
+  date: '2009-05-01 16:08:39'
+  date_gmt: '2009-05-01 06:08:39'
+  id: '2448'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'University - change or die: and another problem with the LMS model &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/
+  content: '[...] technology. I summarise a few of these for different types of technology-mediated
+    learning in this post (search for &#8220;growing revolution&#8221; and look for
+    a series of [...]'
+  date: '2009-05-06 11:13:09'
+  date_gmt: '2009-05-06 01:13:09'
+  id: '2449'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What can history tell us about e-learning and its future? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+  content: '[...] of the ideas that arose from writing the past experience section
+    of my [...]'
+  date: '2009-06-18 10:49:37'
+  date_gmt: '2009-06-18 00:49:37'
+  id: '2450'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons from process for university e-learning &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.244.40
+  author_url: https://djon.es/blog/2009/06/21/lessons-from-process-for-university-e-learning/
+  content: '[...] of the perceived limitations and problems with e-learning within
+    universities (cross reference to Lessons from Past Experience) may arise from
+    the adoption of processes approaches based on non-existent assumptions. It has
+    been [...]'
+  date: '2009-06-21 14:47:10'
+  date_gmt: '2009-06-21 04:47:10'
+  id: '2451'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Business intelligence and PEBKAC &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/11/20/business-intelligence-and-pebkac/
+  content: '[...] an earlier post I argued that there is a highly visible hype cycle
+    around e-learning/technology mediated learning. [...]'
+  date: '2009-11-20 10:45:16'
+  date_gmt: '2009-11-20 00:45:16'
+  id: '2452'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Phd Update #8 - steaming ahead'
   url: /blog/2009/04/24/phd-update-8-steaming-ahead/
+template: blog-post.html
 title: Lessons for from past experience
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: MyPage Builder
-      author_email: null
-      author_ip: 67.205.85.77
-      author_url: http://mypage.com/site/blog/2009/04/25/lessons-for-e-learning/
-      content: "[...] here:\_ Lessons for e-learning [...]"
-      date: '2009-04-25 17:45:32'
-      date_gmt: '2009-04-25 07:45:32'
-      id: '2447'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #9 - spluttering out of steam &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/05/01/phd-update-9-spluttering-out-of-steam/
-      content: '[...] Lessons from Past Experience DONE This was almost finished last
-        week. Got it posted on Saturday and have made a few minor [...]'
-      date: '2009-05-01 16:08:39'
-      date_gmt: '2009-05-01 06:08:39'
-      id: '2448'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'University - change or die: and another problem with the LMS model &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/
-      content: '[...] technology. I summarise a few of these for different types of technology-mediated
-        learning in this post (search for &#8220;growing revolution&#8221; and look for
-        a series of [...]'
-      date: '2009-05-06 11:13:09'
-      date_gmt: '2009-05-06 01:13:09'
-      id: '2449'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What can history tell us about e-learning and its future? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
-      content: '[...] of the ideas that arose from writing the past experience section
-        of my [...]'
-      date: '2009-06-18 10:49:37'
-      date_gmt: '2009-06-18 00:49:37'
-      id: '2450'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons from process for university e-learning &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.244.40
-      author_url: https://djon.es/blog/2009/06/21/lessons-from-process-for-university-e-learning/
-      content: '[...] of the perceived limitations and problems with e-learning within
-        universities (cross reference to Lessons from Past Experience) may arise from
-        the adoption of processes approaches based on non-existent assumptions. It has
-        been [...]'
-      date: '2009-06-21 14:47:10'
-      date_gmt: '2009-06-21 04:47:10'
-      id: '2451'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Business intelligence and PEBKAC &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/11/20/business-intelligence-and-pebkac/
-      content: '[...] an earlier post I argued that there is a highly visible hype cycle
-        around e-learning/technology mediated learning. [...]'
-      date: '2009-11-20 10:45:16'
-      date_gmt: '2009-11-20 00:45:16'
-      id: '2452'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This posts contains the last content of what (I hope) will become the "Past Experience" section of Chapter 2 of my [thesis](/blog/research/phd-thesis/). Previous content for this section is already on the blog, including: [History of technology-mediated learning](/blog/2009/04/17/a-history-of-technology-mediated-learning/), [Paradigms of e-learning](/blog/2009/04/20/the-paradigms-of-e-learning/), [e-learning usage - quality](/blog/2009/04/22/e-learning-usage-quality/), and [e-learning usage - quantity](/blog/2009/04/23/usage-of-e-learning-quantity/).
 

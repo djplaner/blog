@@ -1,110 +1,107 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2010-12-06 14:51:34+10:00
+comments:
+- approved: '1'
+  author: Rolley
+  author_email: r.tickner@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: http://rolleys.wordpress.com
+  content: 'haha, i was in such a rush I forgot to write any help or setup details
+    at all!!! How hilarious.
+
+
+    But at least, the blog post I did offers some info on the customisations that
+    that administrator can do if they require a different colour scheme.
+
+
+    Basically, changing the general css colours is handled by the theme itself, however,
+    rather than expecting a sys admin to play around with the images that do all the
+    nice shading, I''ve made the theme use the JQuery theme roller css and images;
+    so theoretically, one could roll out a new colour scheme using the theme roller,
+    and follow the instructions on my blog to change the colour scheme of the theme.
+
+
+    Glad to see it works anyway, well, it appears to have worked from your screeny!
+
+
+    So, what sort of custom images do you wanna put in?
+
+
+    Are you talking about images in the banner? or the background? If so I didn''t
+    incorporate any features for that.  To replace the logo though you just copy a
+    file over the top of the existing logo.png file.. but of course it has to be quite
+    small or it won''t fit.
+
+
+    Basically, you haven''t missed or screwed anything up by the look of it. All you
+    do is plonk the files in there, tell Moodle to use it and you''re done (assuming
+    you don''t want to change the entire colour scheme, which it sounds like you don''t).
+
+
+    Ta!
+
+    R'
+  date: '2010-12-06 15:03:41'
+  date_gmt: '2010-12-06 05:03:41'
+  id: '3208'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Rolley
+  author_email: r.tickner@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: http://rolleys.wordpress.com
+  content: 'Thanks David,
+
+
+    I updated my original blog post on the theme to be more descriptive in terms of
+    the Theme''s aim, and what relevance the JQuery theme roller has as opposed to
+    the built-in settings.
+
+
+    : )
+
+
+    r'
+  date: '2010-12-06 15:15:49'
+  date_gmt: '2010-12-06 05:15:49'
+  id: '3209'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.222.179.137
+  author_url: https://djon.es/blog/
+  content: 'I think the image question is a hang over from your previous theme and
+    the idea of custom background images.  I kind of liked that idea.  Might give
+    your previous theme a try.
+
+
+    In the next couple of days I should be spending more time in Moodle as I work
+    on BIM 2.  This will give more experience with using the theme in action. Will
+    let you know if I find any problems.'
+  date: '2010-12-06 15:16:37'
+  date_gmt: '2010-12-06 05:16:37'
+  id: '3210'
+  parent: '3208'
+  type: comment
+  user_id: '1'
+date: 2010-12-06 04:51:34
 next:
   text: Becoming aware of the existence of different perceptions
   url: /blog/2010/12/06/becoming-aware-of-the-existence-of-different-perceptions/
+pingbacks: []
 previous:
   text: More testing for Moodle and BIM versions 2.0
   url: /blog/2010/12/02/more-testing-for-moodle-and-bim-versions-2-0/
+template: blog-post.html
 title: A new theme for Moodle 2
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Rolley
-      author_email: r.tickner@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: http://rolleys.wordpress.com
-      content: 'haha, i was in such a rush I forgot to write any help or setup details
-        at all!!! How hilarious.
-    
-    
-        But at least, the blog post I did offers some info on the customisations that
-        that administrator can do if they require a different colour scheme.
-    
-    
-        Basically, changing the general css colours is handled by the theme itself, however,
-        rather than expecting a sys admin to play around with the images that do all the
-        nice shading, I''ve made the theme use the JQuery theme roller css and images;
-        so theoretically, one could roll out a new colour scheme using the theme roller,
-        and follow the instructions on my blog to change the colour scheme of the theme.
-    
-    
-        Glad to see it works anyway, well, it appears to have worked from your screeny!
-    
-    
-        So, what sort of custom images do you wanna put in?
-    
-    
-        Are you talking about images in the banner? or the background? If so I didn''t
-        incorporate any features for that.  To replace the logo though you just copy a
-        file over the top of the existing logo.png file.. but of course it has to be quite
-        small or it won''t fit.
-    
-    
-        Basically, you haven''t missed or screwed anything up by the look of it. All you
-        do is plonk the files in there, tell Moodle to use it and you''re done (assuming
-        you don''t want to change the entire colour scheme, which it sounds like you don''t).
-    
-    
-        Ta!
-    
-        R'
-      date: '2010-12-06 15:03:41'
-      date_gmt: '2010-12-06 05:03:41'
-      id: '3208'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Rolley
-      author_email: r.tickner@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: http://rolleys.wordpress.com
-      content: 'Thanks David,
-    
-    
-        I updated my original blog post on the theme to be more descriptive in terms of
-        the Theme''s aim, and what relevance the JQuery theme roller has as opposed to
-        the built-in settings.
-    
-    
-        : )
-    
-    
-        r'
-      date: '2010-12-06 15:15:49'
-      date_gmt: '2010-12-06 05:15:49'
-      id: '3209'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.222.179.137
-      author_url: https://djon.es/blog/
-      content: 'I think the image question is a hang over from your previous theme and
-        the idea of custom background images.  I kind of liked that idea.  Might give
-        your previous theme a try.
-    
-    
-        In the next couple of days I should be spending more time in Moodle as I work
-        on BIM 2.  This will give more experience with using the theme in action. Will
-        let you know if I find any problems.'
-      date: '2010-12-06 15:16:37'
-      date_gmt: '2010-12-06 05:16:37'
-      id: '3210'
-      parent: '3208'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 This might seem like a bit of procrastination preventing progress on BIM 2.0, but it's part of the whole Moodle 2 familiarisation process and also checking out the work of a [friend](http://rolleys.wordpress.com/). What follows is an attempt to install the [universite](http://rolleys.wordpress.com/2010/12/03/a-moodle-2-theme-universite/) theme for Moodle 2 onto a local instance.
 
@@ -128,6 +125,6 @@ Ahh, appears I have to use a [jQuery theme roller](http://jqueryui.com/themeroll
 
 This is what it looks like
 
-[![Universite Moodle theme](images/5236574001_bfcc3ea855_m.jpg)](http://www.flickr.com/photos/david_jones/5236574001/ "Universite Moodle theme by David T Jones, on Flickr")
+[![Universite Moodle theme](https://djon.es/assets/blog/2010/12/06/a-new-theme-for-moodle-2/images/5236574001_bfcc3ea855_m.jpg)](http://www.flickr.com/photos/david_jones/5236574001/ "Universite Moodle theme by David T Jones, on Flickr")
 
 So Rolley, what have I missed/screwed up?

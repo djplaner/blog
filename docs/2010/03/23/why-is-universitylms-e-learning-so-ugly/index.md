@@ -1,191 +1,188 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
-date: 2010-03-23 09:43:32+10:00
+comments:
+- approved: '1'
+  author: Thomas
+  author_email: thomas.duggan@gmail.com
+  author_ip: 138.77.2.133
+  author_url: http://thomasduggan.wordpress.com/
+  content: 'It is a shame that the techs in charge won''t work with the creative types
+    in an organisation to produce something great. Everyone is supposed to be on the
+    same team after all. There are great people in both camps, but what is stopping
+    them working together?
+
+
+    The Puget Sounds Moodle looks amazing, and maybe one day once the technical bugs
+    are ironed out, our organisation can start looking at things from this perspective
+    too.'
+  date: '2010-03-23 09:52:16'
+  date_gmt: '2010-03-22 23:52:16'
+  id: '2976'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'My explanation is the one above - politics.  The aim in most organisations
+    is not to do the right thing or the best thing.  It''s to ensure that it''s done
+    by the "right" people, as defined by organisational charts and reporting lines.  Not
+    the best people.
+
+
+    There''s also the assumption of the "right" process. i.e the process that allows
+    management to objectively make the appropriate decisions about how to use scarce
+    resources.  i.e. you can''t be a good organisation unless you have a framework
+    to make decisions by.
+
+
+    The trouble is that when those decisions are made, they are not objective, they
+    are not informed by the framework.  The basic problem is that people are not objective,
+    they are not rational.
+
+
+    The only people that are objective are autistics.  A very coarse analogy is that
+    an autistic person actually tries to understand and and evaluate everything and
+    then make the right decisions.  Because for any complex task this is really hard,
+    they have problems.
+
+
+    How many autistic people have you seen in leadership positions?  Evidence that
+    management isn''t objective?'
+  date: '2010-03-23 09:59:53'
+  date_gmt: '2010-03-22 23:59:53'
+  id: '2977'
+  parent: '2976'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Thomas
+  author_email: thomas.duggan@gmail.com
+  author_ip: 138.77.2.133
+  author_url: http://thomasduggan.wordpress.com/
+  content: '(forgot to add)
+
+
+    In terms of Indigenous computer education and literacy, the literature suggests
+    that creating virtual environments (in addition to materials) that are culturally
+    affirming and relevant can further help engagement by Indigenous students.
+
+    Other than a banner image, sadly there isn''t much more we can do with our current
+    instance of Moodle in terms of visuals.'
+  date: '2010-03-23 10:00:51'
+  date_gmt: '2010-03-23 00:00:51'
+  id: '2978'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Thomas
+  author_email: thomas.duggan@gmail.com
+  author_ip: 138.77.2.133
+  author_url: http://thomasduggan.wordpress.com/
+  content: 'I guess I''m new to seeing how large organisations work :P
+
+
+    But from someone who is probably quite naive about the inner workings of a large
+    organisation, it boggles the mind how some decisions are made but not questioned
+    by others further up the ladder.  And when those further down the ladder question
+    things they are deemed as troublemakers or nay-sayers.  Also the need for ownership
+    of things by departments, even at their detriment, continues to amaze me.'
+  date: '2010-03-23 10:06:24'
+  date_gmt: '2010-03-23 00:06:24'
+  id: '2979'
+  parent: '2976'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Rolley
+  author_email: r.tickner@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: http://
+  content: 'Yeah, the political aspect seems to stop anything from ever being done
+    in this regard.  I''ve found that any feedback about improving UI design and aesthetics,
+    or any attempt to help/contribute; gets taken as an insult rather than the intended
+    constructive feedback and want to help improve things.
+
+
+    You''re right too, that there seems to be a myriad of factors that prevent good
+    visual design in these sorts of systems.  Be it marketing, technical, political
+    and so on.
+
+
+    The whole thing reminds me of a comedy skit I saw last night from the 2010 Melbourne
+    Comedy Festival. The comedian was discussing the old saying "never judge a book
+    by it''s cover".. and made an absolutely hilarious mockery of it - it was funny,
+    because in reality, we do actually judge a book by it''s cover so to speak.  All
+    the ugly e-learning systems and more, what are they saying about us as institutions?
+
+
+    We can''t escape the fact that what a person sees provides them with immediate
+    data to make judgements on, both unconsciously and consciously.  The principle
+    applies to anything, and it''s because of this fact that design even exists.
+
+
+    I''d love to see more institutions take UI design and aesthetics seriously and
+    stop downgrading the importance of its place in their online presence.'
+  date: '2010-03-23 10:52:25'
+  date_gmt: '2010-03-23 00:52:25'
+  id: '2980'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Rolley
+  author_email: r.tickner@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: http://
+  content: 'You made a good point about ownership of things by departments, and also
+    how the "right" people as defined by the organisation are perhaps not always the
+    best people alone for the task at hand.
+
+
+    Collaboration could save a lot of problems here but sadly, humans (especially
+    in large groups [organistaions]) tend to also be egotistical as well as subjective
+    and irrational.  No person is perfect, and we tend to loose sight of wider goals
+    and objectives in all the organisational distractions, and get trapped in ego
+    cages.'
+  date: '2010-03-23 11:12:10'
+  date_gmt: '2010-03-23 01:12:10'
+  id: '2981'
+  parent: '2976'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: shootingrobots
+  author_email: derek@weblearning.co.za
+  author_ip: 41.185.105.88
+  author_url: null
+  content: Ugly sites may also have something to do with the <a href="http://en.wikipedia.org/wiki/File:Project_Triangle.svg"
+    rel="nofollow">Project Triangle</a> In my experience Universities don't have the
+    budget necessary to get the UI and aesthetics right. Sadly fast and cheap take
+    precedence of beauty. It should be possible to set up a repository of CSS designs.
+    Moodle has a collection of designs (http://moodle.org/mod/data/view.php?id=6552),
+    but maybe  A Moodle zen garden  approach might push the envelope.
+  date: '2010-03-23 23:04:06'
+  date_gmt: '2010-03-23 13:04:06'
+  id: '2982'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-03-22 23:43:32
 next:
   text: First step in "Moodle curriculum mapping"
   url: /blog/2010/03/23/first-step-in-moodle-curriculum-mapping/
+pingbacks: []
 previous:
   text: 'Limits in developing innovative pedagogy with Moodle: The story of BIM'
   url: /blog/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
+template: blog-post.html
 title: Why is University/LMS e-learning so ugly?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Thomas
-      author_email: thomas.duggan@gmail.com
-      author_ip: 138.77.2.133
-      author_url: http://thomasduggan.wordpress.com/
-      content: 'It is a shame that the techs in charge won''t work with the creative types
-        in an organisation to produce something great. Everyone is supposed to be on the
-        same team after all. There are great people in both camps, but what is stopping
-        them working together?
-    
-    
-        The Puget Sounds Moodle looks amazing, and maybe one day once the technical bugs
-        are ironed out, our organisation can start looking at things from this perspective
-        too.'
-      date: '2010-03-23 09:52:16'
-      date_gmt: '2010-03-22 23:52:16'
-      id: '2976'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'My explanation is the one above - politics.  The aim in most organisations
-        is not to do the right thing or the best thing.  It''s to ensure that it''s done
-        by the "right" people, as defined by organisational charts and reporting lines.  Not
-        the best people.
-    
-    
-        There''s also the assumption of the "right" process. i.e the process that allows
-        management to objectively make the appropriate decisions about how to use scarce
-        resources.  i.e. you can''t be a good organisation unless you have a framework
-        to make decisions by.
-    
-    
-        The trouble is that when those decisions are made, they are not objective, they
-        are not informed by the framework.  The basic problem is that people are not objective,
-        they are not rational.
-    
-    
-        The only people that are objective are autistics.  A very coarse analogy is that
-        an autistic person actually tries to understand and and evaluate everything and
-        then make the right decisions.  Because for any complex task this is really hard,
-        they have problems.
-    
-    
-        How many autistic people have you seen in leadership positions?  Evidence that
-        management isn''t objective?'
-      date: '2010-03-23 09:59:53'
-      date_gmt: '2010-03-22 23:59:53'
-      id: '2977'
-      parent: '2976'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Thomas
-      author_email: thomas.duggan@gmail.com
-      author_ip: 138.77.2.133
-      author_url: http://thomasduggan.wordpress.com/
-      content: '(forgot to add)
-    
-    
-        In terms of Indigenous computer education and literacy, the literature suggests
-        that creating virtual environments (in addition to materials) that are culturally
-        affirming and relevant can further help engagement by Indigenous students.
-    
-        Other than a banner image, sadly there isn''t much more we can do with our current
-        instance of Moodle in terms of visuals.'
-      date: '2010-03-23 10:00:51'
-      date_gmt: '2010-03-23 00:00:51'
-      id: '2978'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Thomas
-      author_email: thomas.duggan@gmail.com
-      author_ip: 138.77.2.133
-      author_url: http://thomasduggan.wordpress.com/
-      content: 'I guess I''m new to seeing how large organisations work :P
-    
-    
-        But from someone who is probably quite naive about the inner workings of a large
-        organisation, it boggles the mind how some decisions are made but not questioned
-        by others further up the ladder.  And when those further down the ladder question
-        things they are deemed as troublemakers or nay-sayers.  Also the need for ownership
-        of things by departments, even at their detriment, continues to amaze me.'
-      date: '2010-03-23 10:06:24'
-      date_gmt: '2010-03-23 00:06:24'
-      id: '2979'
-      parent: '2976'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Rolley
-      author_email: r.tickner@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: http://
-      content: 'Yeah, the political aspect seems to stop anything from ever being done
-        in this regard.  I''ve found that any feedback about improving UI design and aesthetics,
-        or any attempt to help/contribute; gets taken as an insult rather than the intended
-        constructive feedback and want to help improve things.
-    
-    
-        You''re right too, that there seems to be a myriad of factors that prevent good
-        visual design in these sorts of systems.  Be it marketing, technical, political
-        and so on.
-    
-    
-        The whole thing reminds me of a comedy skit I saw last night from the 2010 Melbourne
-        Comedy Festival. The comedian was discussing the old saying "never judge a book
-        by it''s cover".. and made an absolutely hilarious mockery of it - it was funny,
-        because in reality, we do actually judge a book by it''s cover so to speak.  All
-        the ugly e-learning systems and more, what are they saying about us as institutions?
-    
-    
-        We can''t escape the fact that what a person sees provides them with immediate
-        data to make judgements on, both unconsciously and consciously.  The principle
-        applies to anything, and it''s because of this fact that design even exists.
-    
-    
-        I''d love to see more institutions take UI design and aesthetics seriously and
-        stop downgrading the importance of its place in their online presence.'
-      date: '2010-03-23 10:52:25'
-      date_gmt: '2010-03-23 00:52:25'
-      id: '2980'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Rolley
-      author_email: r.tickner@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: http://
-      content: 'You made a good point about ownership of things by departments, and also
-        how the "right" people as defined by the organisation are perhaps not always the
-        best people alone for the task at hand.
-    
-    
-        Collaboration could save a lot of problems here but sadly, humans (especially
-        in large groups [organistaions]) tend to also be egotistical as well as subjective
-        and irrational.  No person is perfect, and we tend to loose sight of wider goals
-        and objectives in all the organisational distractions, and get trapped in ego
-        cages.'
-      date: '2010-03-23 11:12:10'
-      date_gmt: '2010-03-23 01:12:10'
-      id: '2981'
-      parent: '2976'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: shootingrobots
-      author_email: derek@weblearning.co.za
-      author_ip: 41.185.105.88
-      author_url: null
-      content: Ugly sites may also have something to do with the <a href="http://en.wikipedia.org/wiki/File:Project_Triangle.svg"
-        rel="nofollow">Project Triangle</a> In my experience Universities don't have the
-        budget necessary to get the UI and aesthetics right. Sadly fast and cheap take
-        precedence of beauty. It should be possible to set up a repository of CSS designs.
-        Moodle has a collection of designs (http://moodle.org/mod/data/view.php?id=6552),
-        but maybe  A Moodle zen garden  approach might push the envelope.
-      date: '2010-03-23 23:04:06'
-      date_gmt: '2010-03-23 13:04:06'
-      id: '2982'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Yesterday, Derek Moore [tweeted](http://twitter.com/weblearning/status/10865172082)
 

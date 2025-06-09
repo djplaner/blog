@@ -1,309 +1,307 @@
----
+﻿---
 categories:
 - elearning
 - futures
-date: 2009-08-04 13:35:40+10:00
+comments:
+- approved: '1'
+  author: Mark Smithers
+  author_email: mark@myoporum.com
+  author_ip: 131.170.90.2
+  author_url: http://www.masmithers.com
+  content: 'Thanks for the response David. There are a couple of things that I would
+    like to comment on.
+
+
+    Firstly, I agree with about the best way of predicting the future is to build
+    it. My concern is that others (not universities) are busy building the future
+    while universities are busy contemplating other things.
+
+
+    The other important point you made was in regard to open content for course material
+    and the ''fear'' of publically sharing material of ''low quality''. This fear
+    by academic staff who may lack confidence in their own abilities coupled with
+    academic managers fear of releasing ''low quality'' material is stifling the move
+    to open content development by many universities. In the mean time other universities
+    and organisations press home their advantage.
+
+
+    Of course huge staff development and cultural change  is required at many institutions
+    in order to catch up. I suspect smaller, organisationally simpler and more self
+    confident institutions will be the ones that can move quickest to change, leaving
+    behind large, complex, middle of the road universities.
+
+
+    More on that in a future post.
+
+
+    Cheers
+
+
+    Mark'
+  date: '2009-08-06 15:44:51'
+  date_gmt: '2009-08-06 05:44:51'
+  id: '2683'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'No worries on the comment.  I just wish I had more time to write a bit
+    more clearly.  I look forward to your future posts.  This is something I do have
+    to engage with.
+
+
+    Your point about "universities busy contemplating other things" is an important
+    point.  I think most of the university is busy doing that.  However, my impression
+    is that the IT folk aren''t.  They are generally trying to develop maps to guide
+    what they are going to have to do into the future.
+
+
+    The problem is, that with no-one else at Unis doing it, the future can tend, occasionally,
+    to be a more technology led/constrained than it should.
+
+
+    That said, I don''t think there''s an answer.'
+  date: '2009-08-06 15:53:30'
+  date_gmt: '2009-08-06 05:53:30'
+  id: '2684'
+  parent: '2683'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: martinbojam
+  author_email: martin.bojam@360inspire.com
+  author_ip: 82.45.182.98
+  author_url: null
+  content: 'I''ve joined this debate rather late on, so forgive me if I go over well
+    trodden ground.
+
+
+    I''m a marketing consultant operating exclusively in the education field, and
+    I do share many of the concerns expressed here about the future of tertiary education.  I
+    certainly agree about the difficulty of predicting accurately the future ("nailing
+    jelly to the wall" is a phrase which comes to mind) but I had a go at this myself
+    (together with Ian Rowley, Director of Strategy at the University of Warwick -
+    in his private capacity) at a CASE conference last December.
+
+
+    Briefly, our thesis was that, over the next 15 years, the combined effect of demographic
+    trends (especially in the world''s North) combined with massive financial pressures
+    (not specifically to do with the current economic situation) on all of a university''s
+    income streams (but especially income from the state) and growing competition
+    from other regional and national institutions, from other countries and from for-profits
+    would place a great strain on all but a handful of HEs.  Initially, technology
+    would seem to be the answer (open source, on line learning, sourcing lecturers
+    and professors from around the world and video-conferencing them into lecture
+    halls, etc etc) but ultimately would leed to a very small number of (financially)
+    elite campus based institutions and for everyone else, they would sit at home
+    and stare at their computers.
+
+
+    You''ll gather that I find this possible outcome a case of the cure being worse
+    than the disease, and more akin to teaching or training than education.
+
+
+    The ray of sunshine we found lay (not surprisingly, you might cynically say) in
+    institutions defining themselves much more precisely, developing niche competencies
+    into world beating expertise, and branding and marketing themselves much more
+    aggressively.  It may not alter the outcome, but it should emsure more survivors.
+
+
+    It was a point of view which didn''t find too many takers, and who can tell if
+    there is any merit in it (who will remember in 2024 anyway?), but it provoked
+    discussion and debate, which I think is important.  We all have a tendency to
+    address issues in isolation (competition, globalisation, finance, demographics,
+    technology) rather than considering them as a potential whole.
+
+
+    Hope that makes some minor contribution to the debate
+
+
+    Martin Bojam
+
+    360Education'
+  date: '2009-08-06 18:28:53'
+  date_gmt: '2009-08-06 08:28:53'
+  id: '2685'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Martin,
+
+
+    Thanks for the contribution.
+
+
+    The trends you mentioned are particularly important, and to my mind, further complicate
+    predictions.
+
+
+    I see the argument about financial pressures - reduction in state funding - being
+    a significant problem.  It''s one Australian universities have been dealing with
+    for a while (and I believe British unis are taking a renewed hit at the moment).  However,
+    it''s balanced/contradicted by another political pressure - regions like to have
+    universities, regions elect politicians.
+
+
+    Taken in combination, I''m not sure that this will lead to a significant reduction
+    in universities - though it may reduce numbers somewhat.  There have been rumbles
+    within Australian higher ed about merging small institutions - a move that has
+    sort of stalled, but I can see a government pushing this in the future.
+
+
+    The future you describe is one where there''s a small number of elite campuses
+    and everyone else sits at home looking at the computer.  My question is, which
+    institution is providing the "learning" for those folk sitting at home?
+
+
+    The elite campuses?  Or something more like the Open Uni in the UK?  Or some conglomeration
+    like the <a href="http://www.open.edu.au/" rel="nofollow">open universities australia</a>?
+
+
+    David.'
+  date: '2009-08-07 08:49:08'
+  date_gmt: '2009-08-06 22:49:08'
+  id: '2686'
+  parent: '2685'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: martinbojam
+  author_email: martin.bojam@360inspire.com
+  author_ip: 82.45.182.98
+  author_url: null
+  content: 'Hi David
+
+
+    Sorry - my contributions seem very sporadic at best, don''t they?
+
+
+    In terms of the provision of "learning", I guess the answer could be "any of the
+    above", though of course it could also be the Burger King University, or similar!  I
+    do see a future for universties markeing literally tens of thousands of courses
+    (not by any means all their own) around the world, using the strength of their
+    brand name, reputation and distribution networks - it does sound remarkably like
+    packaged goods, doesn''t it?
+
+
+    I''m sure that there will be a trend towards amalgamations in the UK, and even
+    the permitting of HEIs to fail.  There''s an interesting paper from an organisation
+    called Policy Exchange on this matter.  I''m sure that we''ll see the entry of
+    the private sector into HEIs on a much larger scale in the next few years.
+
+
+    As for regions liking their own universities - I can see that''s a barrier to
+    concentration in Australia where you have, in round terms, 1 per 100k square miles,
+    but of course in the UK we have literally 135 universities in that same space
+    - 100k sq m.
+
+
+    I think money is becoming scarily important at the moment - my understanding is
+    that Australia has come through the crisis rather better than the UK and USA,
+    but there''s a great deal of nervousness around the sector here.
+
+
+    I look forward to renewing this correspondence, hopefully more frequently!
+
+
+    Martin'
+  date: '2009-11-26 21:57:49'
+  date_gmt: '2009-11-26 11:57:49'
+  id: '2687'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: "G'day Martin,\n\nThanks for picking up the discussion again.  As it happens\
+    \ I may have the space/requirement to think more about this.  Looks like I might\
+    \ be involved in some attempt to develop a bid for a research centre around the\
+    \ future of learning/universities.  So restarting the conversation is timely.\n\
+    \nAustralia may have come through the GFC a bit better than others, but I'm not\
+    \ sure it's finished yet.  The theory is that a large part of our performance\
+    \ is based on China. I always get a bit worried when someone/country is relying\
+    \ too much on the one source.  Especially given some recent suggestions that China\
+    \ is showing the signs of a bubble.\n\nWhen/if that bubble bursts, the outcome\
+    \ is not likely to be good for public universities in Australia.\n\nWhen it comes\
+    \ to learning from commercial organisations and/or large prestige universities\
+    \ I start from a perspective of skepticism.  This doesn't mean I think it's impossible,\
+    \ I just think that it could possibly be a lot more difficult than many think\
+    \ and in some contexts not likely to happen.  It will be interesting to see how\
+    \ it plays out and to theorise/predict/observe what happens.\n\nPart of my skepticism\
+    \ comes from seeing what happens, at fairly close range, when a purely commercial\
+    \ organisation takes on the role of learning in higher education. There are two\
+    \ limitations I've seen\n<ul>\n  <li> Focus on profit reduces quality.<br />Commercial\
+    \ organisations are focused on making money, even more so than many modern universities.\
+    \  From my observations (anecdotal but somewhat extensive) many of the attempts\
+    \ I've seen so far in the Australian context have taken this too far and the quality\
+    \ of L&amp;T has suffered.  In the absence of other constraining factors, I think\
+    \ most of the students at these institutions would have walked long ago.  </li>\n\
+    \  <li> The disconnect between research and learning.<br />A part of saving money\
+    \ is not paying staff to do research, or in some cases be aware of recent research.\
+    \  This in part also contributes to the quality of the learning.</li>\n</ul>\n\
+    \nThat said, I'm not suggesting that commercial organisations are alone in suffering\
+    \ these problems. I've observed a number of universities or parts thereof who\
+    \ have suffered the same problem.  Making decisions solely on money, rather than\
+    \ the quality of learning (trying to seek some balance seems best).  And for many\
+    \ university staff, research is a compliance thing at best and something the ignore\
+    \ at worst.\n\nHowever, in a purely commercial organisation I think the pressure\
+    \ is much greater, at least so far in Australia.\n\nIt would be interesting to\
+    \ see how some of the organisations in the states are going on these types of\
+    \ measures, how they handle it and how the students perceive it.\n\nI think another\
+    \ big question is the purpose of universities and learning.  Part of the support\
+    \ for the commercialisation of learning arises from the perspective that the purpose\
+    \ of learning is instrumental or utilitarian.   If the purpose of learning is\
+    \ knowledge for its own sake, the \"pure\" conception (Martin and Etzkowitz, 2000)\
+    \ then a very different perspective arises.\n\nI do wonder if there is ever going\
+    \ to be any more room for the \"pure\" conception when consideration is given\
+    \ to learning and universities.\n\nWell, that's gone a long way further than I\
+    \ thought.  Martin, thank you for the spark, hope this is of some interest.\n\n\
+    David.\n\nMartin, B. and H. Etzkowitz (2000). \"The origin and evolution of the\
+    \ university species.\" Journal for Science and Technology Studies 13(3-4): 9-34.\n"
+  date: '2009-11-27 09:03:43'
+  date_gmt: '2009-11-26 23:03:43'
+  id: '2688'
+  parent: '2687'
+  type: comment
+  user_id: '1'
+date: 2009-08-04 03:35:40
 next:
   text: How do you measure success with institutional use of an LMS/VLE?
   url: /blog/2009/08/05/how-do-you-measure-success-with-institutional-use-of-an-lmsvle/
+pingbacks:
+- approved: '1'
+  author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  content: '[...] importantly it was this period that really saw the growth of my
+    PLN. e.g. this post which mentions Mark Smithers (@marksmithers) and Claire Brookes
+    [...]'
+  date: '2013-01-24 15:06:39'
+  date_gmt: '2013-01-24 05:06:39'
+  id: '2689'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #19 - Falling just a little short'
   url: /blog/2009/08/02/phd-update-19-falling-just-a-little-short/
+template: blog-post.html
 title: How will universities change over ten years?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Mark Smithers
-      author_email: mark@myoporum.com
-      author_ip: 131.170.90.2
-      author_url: http://www.masmithers.com
-      content: 'Thanks for the response David. There are a couple of things that I would
-        like to comment on.
-    
-    
-        Firstly, I agree with about the best way of predicting the future is to build
-        it. My concern is that others (not universities) are busy building the future
-        while universities are busy contemplating other things.
-    
-    
-        The other important point you made was in regard to open content for course material
-        and the ''fear'' of publically sharing material of ''low quality''. This fear
-        by academic staff who may lack confidence in their own abilities coupled with
-        academic managers fear of releasing ''low quality'' material is stifling the move
-        to open content development by many universities. In the mean time other universities
-        and organisations press home their advantage.
-    
-    
-        Of course huge staff development and cultural change  is required at many institutions
-        in order to catch up. I suspect smaller, organisationally simpler and more self
-        confident institutions will be the ones that can move quickest to change, leaving
-        behind large, complex, middle of the road universities.
-    
-    
-        More on that in a future post.
-    
-    
-        Cheers
-    
-    
-        Mark'
-      date: '2009-08-06 15:44:51'
-      date_gmt: '2009-08-06 05:44:51'
-      id: '2683'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'No worries on the comment.  I just wish I had more time to write a bit
-        more clearly.  I look forward to your future posts.  This is something I do have
-        to engage with.
-    
-    
-        Your point about "universities busy contemplating other things" is an important
-        point.  I think most of the university is busy doing that.  However, my impression
-        is that the IT folk aren''t.  They are generally trying to develop maps to guide
-        what they are going to have to do into the future.
-    
-    
-        The problem is, that with no-one else at Unis doing it, the future can tend, occasionally,
-        to be a more technology led/constrained than it should.
-    
-    
-        That said, I don''t think there''s an answer.'
-      date: '2009-08-06 15:53:30'
-      date_gmt: '2009-08-06 05:53:30'
-      id: '2684'
-      parent: '2683'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: martinbojam
-      author_email: martin.bojam@360inspire.com
-      author_ip: 82.45.182.98
-      author_url: null
-      content: 'I''ve joined this debate rather late on, so forgive me if I go over well
-        trodden ground.
-    
-    
-        I''m a marketing consultant operating exclusively in the education field, and
-        I do share many of the concerns expressed here about the future of tertiary education.  I
-        certainly agree about the difficulty of predicting accurately the future ("nailing
-        jelly to the wall" is a phrase which comes to mind) but I had a go at this myself
-        (together with Ian Rowley, Director of Strategy at the University of Warwick -
-        in his private capacity) at a CASE conference last December.
-    
-    
-        Briefly, our thesis was that, over the next 15 years, the combined effect of demographic
-        trends (especially in the world''s North) combined with massive financial pressures
-        (not specifically to do with the current economic situation) on all of a university''s
-        income streams (but especially income from the state) and growing competition
-        from other regional and national institutions, from other countries and from for-profits
-        would place a great strain on all but a handful of HEs.  Initially, technology
-        would seem to be the answer (open source, on line learning, sourcing lecturers
-        and professors from around the world and video-conferencing them into lecture
-        halls, etc etc) but ultimately would leed to a very small number of (financially)
-        elite campus based institutions and for everyone else, they would sit at home
-        and stare at their computers.
-    
-    
-        You''ll gather that I find this possible outcome a case of the cure being worse
-        than the disease, and more akin to teaching or training than education.
-    
-    
-        The ray of sunshine we found lay (not surprisingly, you might cynically say) in
-        institutions defining themselves much more precisely, developing niche competencies
-        into world beating expertise, and branding and marketing themselves much more
-        aggressively.  It may not alter the outcome, but it should emsure more survivors.
-    
-    
-        It was a point of view which didn''t find too many takers, and who can tell if
-        there is any merit in it (who will remember in 2024 anyway?), but it provoked
-        discussion and debate, which I think is important.  We all have a tendency to
-        address issues in isolation (competition, globalisation, finance, demographics,
-        technology) rather than considering them as a potential whole.
-    
-    
-        Hope that makes some minor contribution to the debate
-    
-    
-        Martin Bojam
-    
-        360Education'
-      date: '2009-08-06 18:28:53'
-      date_gmt: '2009-08-06 08:28:53'
-      id: '2685'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Martin,
-    
-    
-        Thanks for the contribution.
-    
-    
-        The trends you mentioned are particularly important, and to my mind, further complicate
-        predictions.
-    
-    
-        I see the argument about financial pressures - reduction in state funding - being
-        a significant problem.  It''s one Australian universities have been dealing with
-        for a while (and I believe British unis are taking a renewed hit at the moment).  However,
-        it''s balanced/contradicted by another political pressure - regions like to have
-        universities, regions elect politicians.
-    
-    
-        Taken in combination, I''m not sure that this will lead to a significant reduction
-        in universities - though it may reduce numbers somewhat.  There have been rumbles
-        within Australian higher ed about merging small institutions - a move that has
-        sort of stalled, but I can see a government pushing this in the future.
-    
-    
-        The future you describe is one where there''s a small number of elite campuses
-        and everyone else sits at home looking at the computer.  My question is, which
-        institution is providing the "learning" for those folk sitting at home?
-    
-    
-        The elite campuses?  Or something more like the Open Uni in the UK?  Or some conglomeration
-        like the <a href="http://www.open.edu.au/" rel="nofollow">open universities australia</a>?
-    
-    
-        David.'
-      date: '2009-08-07 08:49:08'
-      date_gmt: '2009-08-06 22:49:08'
-      id: '2686'
-      parent: '2685'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: martinbojam
-      author_email: martin.bojam@360inspire.com
-      author_ip: 82.45.182.98
-      author_url: null
-      content: 'Hi David
-    
-    
-        Sorry - my contributions seem very sporadic at best, don''t they?
-    
-    
-        In terms of the provision of "learning", I guess the answer could be "any of the
-        above", though of course it could also be the Burger King University, or similar!  I
-        do see a future for universties markeing literally tens of thousands of courses
-        (not by any means all their own) around the world, using the strength of their
-        brand name, reputation and distribution networks - it does sound remarkably like
-        packaged goods, doesn''t it?
-    
-    
-        I''m sure that there will be a trend towards amalgamations in the UK, and even
-        the permitting of HEIs to fail.  There''s an interesting paper from an organisation
-        called Policy Exchange on this matter.  I''m sure that we''ll see the entry of
-        the private sector into HEIs on a much larger scale in the next few years.
-    
-    
-        As for regions liking their own universities - I can see that''s a barrier to
-        concentration in Australia where you have, in round terms, 1 per 100k square miles,
-        but of course in the UK we have literally 135 universities in that same space
-        - 100k sq m.
-    
-    
-        I think money is becoming scarily important at the moment - my understanding is
-        that Australia has come through the crisis rather better than the UK and USA,
-        but there''s a great deal of nervousness around the sector here.
-    
-    
-        I look forward to renewing this correspondence, hopefully more frequently!
-    
-    
-        Martin'
-      date: '2009-11-26 21:57:49'
-      date_gmt: '2009-11-26 11:57:49'
-      id: '2687'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: "G'day Martin,\n\nThanks for picking up the discussion again.  As it happens\
-        \ I may have the space/requirement to think more about this.  Looks like I might\
-        \ be involved in some attempt to develop a bid for a research centre around the\
-        \ future of learning/universities.  So restarting the conversation is timely.\n\
-        \nAustralia may have come through the GFC a bit better than others, but I'm not\
-        \ sure it's finished yet.  The theory is that a large part of our performance\
-        \ is based on China. I always get a bit worried when someone/country is relying\
-        \ too much on the one source.  Especially given some recent suggestions that China\
-        \ is showing the signs of a bubble.\n\nWhen/if that bubble bursts, the outcome\
-        \ is not likely to be good for public universities in Australia.\n\nWhen it comes\
-        \ to learning from commercial organisations and/or large prestige universities\
-        \ I start from a perspective of skepticism.  This doesn't mean I think it's impossible,\
-        \ I just think that it could possibly be a lot more difficult than many think\
-        \ and in some contexts not likely to happen.  It will be interesting to see how\
-        \ it plays out and to theorise/predict/observe what happens.\n\nPart of my skepticism\
-        \ comes from seeing what happens, at fairly close range, when a purely commercial\
-        \ organisation takes on the role of learning in higher education. There are two\
-        \ limitations I've seen\n<ul>\n  <li> Focus on profit reduces quality.<br />Commercial\
-        \ organisations are focused on making money, even more so than many modern universities.\
-        \  From my observations (anecdotal but somewhat extensive) many of the attempts\
-        \ I've seen so far in the Australian context have taken this too far and the quality\
-        \ of L&amp;T has suffered.  In the absence of other constraining factors, I think\
-        \ most of the students at these institutions would have walked long ago.  </li>\n\
-        \  <li> The disconnect between research and learning.<br />A part of saving money\
-        \ is not paying staff to do research, or in some cases be aware of recent research.\
-        \  This in part also contributes to the quality of the learning.</li>\n</ul>\n\
-        \nThat said, I'm not suggesting that commercial organisations are alone in suffering\
-        \ these problems. I've observed a number of universities or parts thereof who\
-        \ have suffered the same problem.  Making decisions solely on money, rather than\
-        \ the quality of learning (trying to seek some balance seems best).  And for many\
-        \ university staff, research is a compliance thing at best and something the ignore\
-        \ at worst.\n\nHowever, in a purely commercial organisation I think the pressure\
-        \ is much greater, at least so far in Australia.\n\nIt would be interesting to\
-        \ see how some of the organisations in the states are going on these types of\
-        \ measures, how they handle it and how the students perceive it.\n\nI think another\
-        \ big question is the purpose of universities and learning.  Part of the support\
-        \ for the commercialisation of learning arises from the perspective that the purpose\
-        \ of learning is instrumental or utilitarian.   If the purpose of learning is\
-        \ knowledge for its own sake, the \"pure\" conception (Martin and Etzkowitz, 2000)\
-        \ then a very different perspective arises.\n\nI do wonder if there is ever going\
-        \ to be any more room for the \"pure\" conception when consideration is given\
-        \ to learning and universities.\n\nWell, that's gone a long way further than I\
-        \ thought.  Martin, thank you for the spark, hope this is of some interest.\n\n\
-        David.\n\nMartin, B. and H. Etzkowitz (2000). \"The origin and evolution of the\
-        \ university species.\" Journal for Science and Technology Studies 13(3-4): 9-34.\n"
-      date: '2009-11-27 09:03:43'
-      date_gmt: '2009-11-26 23:03:43'
-      id: '2688'
-      parent: '2687'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
-      content: '[...] importantly it was this period that really saw the growth of my
-        PLN. e.g. this post which mentions Mark Smithers (@marksmithers) and Claire Brookes
-        [...]'
-      date: '2013-01-24 15:06:39'
-      date_gmt: '2013-01-24 05:06:39'
-      id: '2689'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I came across a post title "Some ways university will change over ten years by [Mark Smithers](http://www.masmithers.com/about/) via a tweet from [Claire Brooks](http://www.linkedin.com/in/clairebrooks). The post is, as Mark puts it, an attempt to anticipate the changing roles and functions of universities and how it will effect educational technology. To some extent it's the sort of thing that I might be expected to do in [my current position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/, if not to develop institutional policy, at least to inform it.
 

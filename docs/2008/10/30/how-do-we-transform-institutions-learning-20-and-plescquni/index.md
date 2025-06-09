@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - plescquni
-date: 2008-10-30 00:52:55+10:00
+date: 2008-10-29 14:52:55
 next:
   text: Readings on Design-based research
   url: /blog/2008/10/30/readings-on-design-based-research/
 previous:
   text: The importance of diversity to improving learning and teaching
   url: /blog/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/
+template: blog-post.html
 title: How do we transform institutions? Learning 2.0 and PLEs@CQUni
 type: post
-template: blog-post.html
 ---
 Graham Atwell raises some questions around the topics Learning 2.0, PLEs, Web2.0, informal and formal learning in this [blog post](http://www.pontydysgu.org/2008/10/teaching-or-learning/). Apparently based on a workshop which appears to be focusing on the harnessing of these technologies/approaches in existing educational organisations
 

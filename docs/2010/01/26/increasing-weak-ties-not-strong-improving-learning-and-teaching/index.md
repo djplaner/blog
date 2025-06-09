@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - curriculumdesign
 - elearning
-date: 2010-01-26 07:58:51+10:00
+date: 2010-01-25 21:58:51
 next:
   text: BIM - sending results to the gradebook
   url: /blog/2010/01/26/bim-sending-results-to-the-gradebook/
 previous:
   text: BIM - Allocating markers
   url: /blog/2010/01/24/bim-allocating-markers/
+template: blog-post.html
 title: Increasing weak ties, not strong - improving learning and teaching
 type: post
-template: blog-post.html
 ---
 I'm wondering if too much of the focus on improving teaching within universities is focused on groups within strong(er) ties at the cost of increasing the weaker ties.
 

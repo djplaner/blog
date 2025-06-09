@@ -1,88 +1,85 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-12-20 17:22:33+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.180.4
+  author_url: http://www.vrbones.com
+  content: 'It seems that there is still a disconnect between SRS and personal recommendations
+    in that personal recommendations come as part of a conversation, not left hanging
+    out there as a general recommendation.
+
+
+    I was mulling over this with steam''s <a href="http://www.gamasutra.com/view/news/31649/Valve_Launches_Game_Recommendation_Feature_For_Steam.php"
+    rel="nofollow">attempt</a> at bringing in personal recommendations. I regularly
+    discuss the games I''m playing with virtually anyone that will listen, but I don''t
+    feel comfortable writing up a recommendation for public (or even friendly) consumption.
+    I need to know where the person is up to in their game playing career and mould
+    my story to adapt.
+
+
+    It''s a conversation about the recommendation that''s important, not the one-way
+    shovel SRS''s give you.
+
+
+    Maybe they just need to implement a ''phone a friend'' button where it automatically
+    sends out a request to your social network indicating that you want to buy/use
+    a certain product and then gathers thumbs up/down responses? Still seems too slow
+    compared to automated recommendations, and only a little step away from crowdsourcing
+    anyway.
+
+
+    I''d be interested in the results of stuff like this as an automated course recommender
+    would be on the cards when courses get down to the 1-2 hour marks. There are others
+    in the e-learning analytics group that are approaching it from the SRS angle.'
+  date: '2010-12-23 08:10:16'
+  date_gmt: '2010-12-22 22:10:16'
+  id: '3215'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 123.211.226.49
+  author_url: https://djon.es/blog/
+  content: 'Tony, your comment about the conversation captures and aspect of my reservations
+    about SRS, analytics and other sorts of automated, compsci quantitative approaches.  i.e.
+    I''m not sure how well the capture the reality of people and how they act, think,
+    relate etc.
+
+
+    I''m not convinced that all the mathematics and compsci can address this problem
+    and I''m pretty sure that most of the math/compsci folk tend to focus more on
+    the math than the people side. The people side gets too messy.
+
+
+    I''m interested in how aspects of SRS, analytics and related stuff can be married
+    with the behaviour change insights to produce systems the encourage and enable
+    better learning and teaching.  Not in replacing people or automating tasks.
+
+
+    I''m seriously considering participating in the analytics MOOC to see if I can
+    test these nascent thoughts a bit.'
+  date: '2010-12-23 16:30:40'
+  date_gmt: '2010-12-23 06:30:40'
+  id: '3216'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2010-12-20 07:22:33
 next:
   text: Adding a bim2 activity - development progress
   url: /blog/2010/12/20/adding-a-bim2-activity-development-progress/
+pingbacks: []
 previous:
   text: Problems with naming of bim2
   url: /blog/2010/12/19/problems-with-naming-of-bim2/
+template: blog-post.html
 title: A Theory-Driven Design Framework for Social Recommender Systems
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.180.4
-      author_url: http://www.vrbones.com
-      content: 'It seems that there is still a disconnect between SRS and personal recommendations
-        in that personal recommendations come as part of a conversation, not left hanging
-        out there as a general recommendation.
-    
-    
-        I was mulling over this with steam''s <a href="http://www.gamasutra.com/view/news/31649/Valve_Launches_Game_Recommendation_Feature_For_Steam.php"
-        rel="nofollow">attempt</a> at bringing in personal recommendations. I regularly
-        discuss the games I''m playing with virtually anyone that will listen, but I don''t
-        feel comfortable writing up a recommendation for public (or even friendly) consumption.
-        I need to know where the person is up to in their game playing career and mould
-        my story to adapt.
-    
-    
-        It''s a conversation about the recommendation that''s important, not the one-way
-        shovel SRS''s give you.
-    
-    
-        Maybe they just need to implement a ''phone a friend'' button where it automatically
-        sends out a request to your social network indicating that you want to buy/use
-        a certain product and then gathers thumbs up/down responses? Still seems too slow
-        compared to automated recommendations, and only a little step away from crowdsourcing
-        anyway.
-    
-    
-        I''d be interested in the results of stuff like this as an automated course recommender
-        would be on the cards when courses get down to the 1-2 hour marks. There are others
-        in the e-learning analytics group that are approaching it from the SRS angle.'
-      date: '2010-12-23 08:10:16'
-      date_gmt: '2010-12-22 22:10:16'
-      id: '3215'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 123.211.226.49
-      author_url: https://djon.es/blog/
-      content: 'Tony, your comment about the conversation captures and aspect of my reservations
-        about SRS, analytics and other sorts of automated, compsci quantitative approaches.  i.e.
-        I''m not sure how well the capture the reality of people and how they act, think,
-        relate etc.
-    
-    
-        I''m not convinced that all the mathematics and compsci can address this problem
-        and I''m pretty sure that most of the math/compsci folk tend to focus more on
-        the math than the people side. The people side gets too messy.
-    
-    
-        I''m interested in how aspects of SRS, analytics and related stuff can be married
-        with the behaviour change insights to produce systems the encourage and enable
-        better learning and teaching.  Not in replacing people or automating tasks.
-    
-    
-        I''m seriously considering participating in the analytics MOOC to see if I can
-        test these nascent thoughts a bit.'
-      date: '2010-12-23 16:30:40'
-      date_gmt: '2010-12-23 06:30:40'
-      id: '3216'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 I'm becoming increasingly interested in how the design of e-learning systems can be improved through insights from behaviour change literature and related work (e.g. I think game design principles have some connections with behaviour change. A while ago I started some thinking about this. The following is a summary of/reflection on
 

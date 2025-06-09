@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2011-02-06 23:10:05+10:00
+date: 2011-02-06 13:10:05
 next:
   text: Standardised testing is bad, but what is the alternative?
   url: /blog/2011/02/13/standardised-testing-is-bad-but-what-is-the-alternative/
 previous:
   text: A little bim2 status and planning
   url: /blog/2011/02/06/a-little-bim2-status-and-planning/
+template: blog-post.html
 title: '"bim2: the greater coordinator conversion"'
 type: post
-template: blog-post.html
 ---
 This tells the story of the conversion of the bim coordinator code into the new OO design being used for bim2.
 

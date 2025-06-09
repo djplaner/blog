@@ -1,77 +1,74 @@
----
+﻿---
 categories:
 - learninganalytics-elearning
-date: 2013-09-04 09:09:56+10:00
+comments: []
+date: 2013-09-03 23:09:56
 next:
   text: The importance of "We don't know what we're doing"
   url: /blog/2013/09/04/the-importance-of-we-dont-know-what-were-doing/
+pingbacks:
+- approved: '1'
+  author: 'Learning Analytics: The emergence of a discipli...'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/edumorfosis/p/4007085092/learning-analytics-the-emergence-of-a-discipline
+  content: '[&#8230;] Continuing my reading of some recent learning analytics journal
+    articles, the following is a summary and some thoughts onSiemens, G. (2013). Learning
+    Analytics: The Emergence of a Discipline. Ameri...&nbsp; [&#8230;]'
+  date: '2013-09-05 03:26:44'
+  date_gmt: '2013-09-04 17:26:44'
+  id: '841'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Learning Analytics: The Emergence of a Discipline | E-TeachUK'
+  author_email: null
+  author_ip: 66.155.38.10
+  author_url: http://muppetmasteruk.wordpress.com/2013/09/04/learning-analytics-the-emergence-of-a-discipline/
+  content: '[&#8230;] See on Scoop.it &#8211; E-Learning and TechnologyContinuing
+    my reading of some recent learning analytics journal articles, the following is
+    a summary and some thoughts onSiemens, G. (2013). Learning Analytics: The Emergence
+    of a Discipline. Ameri&#8230;See on davidtjones.wordpress.com [&#8230;]'
+  date: '2013-09-05 03:37:26'
+  date_gmt: '2013-09-04 17:37:26'
+  id: '842'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Learning Analytics: The Emergence of a Discipli...'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/higher-education-by-alma-vega/p/4007355604/learning-analytics-the-emergence-of-a-discipline
+  content: '[&#8230;] &ldquo; Continuing my reading of some recent learning analytics
+    journal articles, the following is a summary and some thoughts onSiemens, G. (2013).
+    Learning Analytics: The Emergence of a Discipline. Ameri...&rdquo;&nbsp; [&#8230;]'
+  date: '2013-09-10 11:44:22'
+  date_gmt: '2013-09-10 01:44:22'
+  id: '843'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Sensemaking: A structure for intelligence revolution - Analyst One'
+  author_email: null
+  author_ip: 72.47.224.18
+  author_url: http://analystone.com/sensemaking-structure-intelligence-revolution/
+  content: '[&#8230;] Learning Analytics: The Emergence of a Discipline (davidtjones.wordpress.com)
+    [&#8230;]'
+  date: '2013-10-12 22:15:28'
+  date_gmt: '2013-10-12 12:15:28'
+  id: '845'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: An overview of learning analytics
   url: /blog/2013/08/31/an-overview-of-learning-analytics/
+template: blog-post.html
 title: '"Learning Analytics: The Emergence of a Discipline"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Learning Analytics: The emergence of a discipli...'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/edumorfosis/p/4007085092/learning-analytics-the-emergence-of-a-discipline
-      content: '[&#8230;] Continuing my reading of some recent learning analytics journal
-        articles, the following is a summary and some thoughts onSiemens, G. (2013). Learning
-        Analytics: The Emergence of a Discipline. Ameri...&nbsp; [&#8230;]'
-      date: '2013-09-05 03:26:44'
-      date_gmt: '2013-09-04 17:26:44'
-      id: '841'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Learning Analytics: The Emergence of a Discipline | E-TeachUK'
-      author_email: null
-      author_ip: 66.155.38.10
-      author_url: http://muppetmasteruk.wordpress.com/2013/09/04/learning-analytics-the-emergence-of-a-discipline/
-      content: '[&#8230;] See on Scoop.it &#8211; E-Learning and TechnologyContinuing
-        my reading of some recent learning analytics journal articles, the following is
-        a summary and some thoughts onSiemens, G. (2013). Learning Analytics: The Emergence
-        of a Discipline. Ameri&#8230;See on davidtjones.wordpress.com [&#8230;]'
-      date: '2013-09-05 03:37:26'
-      date_gmt: '2013-09-04 17:37:26'
-      id: '842'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Learning Analytics: The Emergence of a Discipli...'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/higher-education-by-alma-vega/p/4007355604/learning-analytics-the-emergence-of-a-discipline
-      content: '[&#8230;] &ldquo; Continuing my reading of some recent learning analytics
-        journal articles, the following is a summary and some thoughts onSiemens, G. (2013).
-        Learning Analytics: The Emergence of a Discipline. Ameri...&rdquo;&nbsp; [&#8230;]'
-      date: '2013-09-10 11:44:22'
-      date_gmt: '2013-09-10 01:44:22'
-      id: '843'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Sensemaking: A structure for intelligence revolution - Analyst One'
-      author_email: null
-      author_ip: 72.47.224.18
-      author_url: http://analystone.com/sensemaking-structure-intelligence-revolution/
-      content: '[&#8230;] Learning Analytics: The Emergence of a Discipline (davidtjones.wordpress.com)
-        [&#8230;]'
-      date: '2013-10-12 22:15:28'
-      date_gmt: '2013-10-12 12:15:28'
-      id: '845'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Continuing my reading of some recent learning analytics journal articles, the following is a summary and some thoughts on
 
@@ -299,7 +296,7 @@ LA Model (see image below) is a systemwide approach to analytics. Resources are 
 
 Does suggest that "bottom-up approach" has always gone on. i.e. teaching staff using available tools to gather insights.
 
-[![Siemens (2013) Learning Analytics Model](images/9662456144_51b12d6057_n.jpg)](http://www.flickr.com/photos/david_jones/9662456144/ "Siemens (2013) Learning Analytics Model by David T Jones, on Flickr")
+[![Siemens (2013) Learning Analytics Model](https://djon.es/assets/blog/2013/09/04/learning-analytics-the-emergence-of-a-discipline/images/9662456144_51b12d6057_n.jpg)](http://www.flickr.com/photos/david_jones/9662456144/ "Siemens (2013) Learning Analytics Model by David T Jones, on Flickr")
 
 _Aside:_ I can see the value in this model. It matches the typical enterprise, rational approach. But I also fear that it will suffer exactly the same sort of problems every enterprise approach has followed before. Personally, I think the relative amount of space taken up by the "information" component of IRAC speaks volumes. Would be good to overlay IRAC on this. The "Action" stuff is too small to capture the complexity and the variety of what goes on there.
 

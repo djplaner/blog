@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-09-03 21:49:38+10:00
+date: 2009-09-03 11:49:38
 next:
   text: Pedagogy - the centrality of the pedagogue and what they believe
   url: /blog/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/
 previous:
   text: 'BIM #6 - Learning weblib.php'
   url: /blog/2009/09/03/bim-6-learning-weblib-php/
+template: blog-post.html
 title: '"Phd Update #23 - Getting closer to the end of chapter 2"'
 type: post
-template: blog-post.html
 ---
 I'm taking the weekend, including Friday, off from the PhD - so an early update. It's been a good week. If only a short one in that I'll miss Friday.
 

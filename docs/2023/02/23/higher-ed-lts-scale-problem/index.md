@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - bad
 - casa
-date: 2023-02-23 07:32:37+10:00
+date: 2023-02-22 21:32:37
 next:
   text: Announcing (finally) Canvas Collections
   url: /blog/2023/08/18/announcing-finally-canvas-collections/
@@ -10,9 +10,9 @@ previous:
   text: 'Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable
     delivery of quality learning and teaching'
   url: /blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/
+template: blog-post.html
 title: Higher ed L&T's scale problem?
 type: post
-template: blog-post.html
 ---
 Contemporary higher education appears to have a scale problem.
 

@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - web-20-course-sites
 - webfuse
-date: 2006-12-21 12:39:23+10:00
+date: 2006-12-21 02:39:23
 next:
   text: Collaboration, Design and Innovation
   url: /blog/2006/12/22/collaboration-design-and-innovation/
 previous:
   text: Software as a service - Google apps for your domain
   url: /blog/2006/12/21/software-as-a-service-google-apps-for-your-domain/
+template: blog-post.html
 title: Prototyping a Web 2.0 Course site
 type: post
-template: blog-post.html
 ---
 [Goold and Auga (2006)](http://www.ascilite.org.au/conferences/sydney06/proceeding/html_abstracts/85.html) describe an experiment in prototyping of a transformation of a face-to-face course into an online offering.
 

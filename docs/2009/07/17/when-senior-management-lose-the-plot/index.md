@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -7,37 +7,34 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-07-17 11:21:56+10:00
+comments: []
+date: 2009-07-17 01:21:56
 next:
   text: Occupational stress in Australian University Staff
   url: /blog/2009/07/17/occupational-stress-in-australian-university-staff/
+pingbacks:
+- approved: '1'
+  author: Loosing weight, improving learning and teaching and complex systems &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.85
+  author_url: https://djon.es/blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/
+  content: '[...] learning and teaching and complex&nbsp;systems  Anyone who listens
+    to me or reads this blog (e.g. when senior management loses the plot, quality
+    compliance and task corruption, models of growth &#8211; responding to the grammar
+    of [...]'
+  date: '2009-08-06 13:08:29'
+  date_gmt: '2009-08-06 03:08:29'
+  id: '2646'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Installing Moodle - first step in BAM/MoodleAM
   url: /blog/2009/07/16/installing-moodle-first-step-in-bammoodleam/
+template: blog-post.html
 title: When senior management lose the plot
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Loosing weight, improving learning and teaching and complex systems &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.85
-      author_url: https://djon.es/blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/
-      content: '[...] learning and teaching and complex&nbsp;systems  Anyone who listens
-        to me or reads this blog (e.g. when senior management loses the plot, quality
-        compliance and task corruption, models of growth &#8211; responding to the grammar
-        of [...]'
-      date: '2009-08-06 13:08:29'
-      date_gmt: '2009-08-06 03:08:29'
-      id: '2646'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm currently working on the "Leaders and managers" part of the People component of the Ps Framework for my thesis. As part of the reading for that section I came across the following quote. It turns out I won't use it directly in the thesis and I need to save it for future work/reference. I'm also taking the opportunity to track down and record a bit more information about it.
 

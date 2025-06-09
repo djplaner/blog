@@ -1,66 +1,64 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
 - thesis
-date: 2012-09-13 13:48:39+10:00
+comments:
+- approved: '1'
+  author: Stephen Downes
+  author_email: stephen@downes.ca
+  author_ip: 156.34.60.195
+  author_url: http://downess.wordpress.com
+  content: It looks to me like this discussion is headed in the direction of the personal
+    learning environment, a concept that has attracted a lot of attention over the
+    last few years
+  date: '2012-09-13 21:26:24'
+  date_gmt: '2012-09-13 11:26:24'
+  id: '464'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-09-13 03:48:39
 next:
   text: '"Chasing dreams and recognising realities: teachers'' responses to ICT"'
   url: /blog/2012/09/17/chasing-dreams-and-recognising-realities-teachers-responses-to-ict/
+pingbacks:
+- approved: '1'
+  author: The illusion we understand the past fosters overconfidence in our ability
+    to predict the&nbsp;future | elearning in Post Grad Business Schools | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/elearning-in-post-grad-business-schools/p/2709874602/the-illusion-we-understand-the-past-fosters-overconfidence-in-our-ability-to-predict-the-future
+  content: '[...] The post Learning Management System (LMS) world. What will it look
+    like for Higher Ed? How can we even predict the future...&nbsp; [...]'
+  date: '2012-09-17 16:53:53'
+  date_gmt: '2012-09-17 06:53:53'
+  id: '466'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The illusion we understand the past fosters overconfidence in our ability
+    to predict the&nbsp;future | Mobile learning- emerging processes | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/mobile-learning-emerging-processes/p/2723677556/the-illusion-we-understand-the-past-fosters-overconfidence-in-our-ability-to-predict-the-future
+  content: '[...] As mentioned in the last post I&rsquo;m currently reading Thinking,
+    Fast and Slow by Daniel Kahneman. The title of this post comes from this quote
+    from that book The illusion that we understand the...&nbsp; [...]'
+  date: '2012-09-19 01:27:26'
+  date_gmt: '2012-09-18 15:27:26'
+  id: '467'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The core problem with learning analytics?
   url: /blog/2012/09/11/the-core-problem-with-learning-analytics/
+template: blog-post.html
 title: The illusion we understand the past fosters overconfidence in our ability to
   predict the future
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Stephen Downes
-      author_email: stephen@downes.ca
-      author_ip: 156.34.60.195
-      author_url: http://downess.wordpress.com
-      content: It looks to me like this discussion is headed in the direction of the personal
-        learning environment, a concept that has attracted a lot of attention over the
-        last few years
-      date: '2012-09-13 21:26:24'
-      date_gmt: '2012-09-13 11:26:24'
-      id: '464'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: The illusion we understand the past fosters overconfidence in our ability
-        to predict the&nbsp;future | elearning in Post Grad Business Schools | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/elearning-in-post-grad-business-schools/p/2709874602/the-illusion-we-understand-the-past-fosters-overconfidence-in-our-ability-to-predict-the-future
-      content: '[...] The post Learning Management System (LMS) world. What will it look
-        like for Higher Ed? How can we even predict the future...&nbsp; [...]'
-      date: '2012-09-17 16:53:53'
-      date_gmt: '2012-09-17 06:53:53'
-      id: '466'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The illusion we understand the past fosters overconfidence in our ability
-        to predict the&nbsp;future | Mobile learning- emerging processes | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/mobile-learning-emerging-processes/p/2723677556/the-illusion-we-understand-the-past-fosters-overconfidence-in-our-ability-to-predict-the-future
-      content: '[...] As mentioned in the last post I&rsquo;m currently reading Thinking,
-        Fast and Slow by Daniel Kahneman. The title of this post comes from this quote
-        from that book The illusion that we understand the...&nbsp; [...]'
-      date: '2012-09-19 01:27:26'
-      date_gmt: '2012-09-18 15:27:26'
-      id: '467'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As mentioned in the [last post](/blog/2012/09/11/the-core-problem-with-learning-analytics/) I'm currently reading [Thinking, Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637) by [Daniel Kahneman](http://en.wikipedia.org/wiki/Daniel_Kahneman). The title of this post comes from this quote from that book
 

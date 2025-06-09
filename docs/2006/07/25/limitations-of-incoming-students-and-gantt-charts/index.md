@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bam
-date: 2006-07-25 14:16:40+10:00
+date: 2006-07-25 04:16:40
 next:
   text: Further issues with BamRegistration
   url: /blog/2006/07/31/further-issues-with-bamregistration/
 previous:
   text: 'Design research: IS or CS - importance of &quot;no overlap&quot;'
   url: /blog/2006/07/25/design-research-is-or-cs-importance-of-no-overlap/
+template: blog-post.html
 title: Limitations of incoming students and Gantt charts
 type: post
-template: blog-post.html
 ---
 Thought it would be a grand idea to get the students, in week 3, to prepare a Gantt chart planning out their study for the term. They get to apply some content knowledge and think actively about planning their study.
 

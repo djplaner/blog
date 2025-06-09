@@ -1,49 +1,47 @@
----
+﻿---
 categories:
 - bad
 - oer
-date: 2015-02-10 13:29:01+10:00
+comments:
+- approved: '1'
+  author: Rob Farrow
+  author_email: r.j.farrow@open.ac.uk
+  author_ip: 146.199.104.92
+  author_url: null
+  content: Reblogged this on <a href="http://oerresearchhub.org/2015/02/11/framing-an-open-book-as-situated-social-distributed-and-protean/"
+    rel="nofollow"></a>.
+  date: '2015-02-12 05:02:16'
+  date_gmt: '2015-02-11 19:02:16'
+  id: '1226'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2015-02-10 03:29:01
 next:
   text: How to help improve the Moodle book module
   url: /blog/2015/02/10/how-to-help-improve-the-moodle-book-module/
+pingbacks:
+- approved: '1'
+  author: Starting the &#8220;Moodle open book&#8221; project | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.82.20
+  author_url: https://davidtjones.wordpress.com/2015/04/13/starting-the-moodle-open-book-project/
+  content: '[&#8230;] in February I shared shared some thoughts on some possibilities
+    about a project for some grants for &#8220;open textbook&#8221; at my current
+    [&#8230;]'
+  date: '2015-04-13 22:10:01'
+  date_gmt: '2015-04-13 12:10:01'
+  id: '1227'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Kludging an authoring process with Moodle books (almost)
   url: /blog/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
+template: blog-post.html
 title: Framing an open book as situated, social, distributed and protean
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Rob Farrow
-      author_email: r.j.farrow@open.ac.uk
-      author_ip: 146.199.104.92
-      author_url: null
-      content: Reblogged this on <a href="http://oerresearchhub.org/2015/02/11/framing-an-open-book-as-situated-social-distributed-and-protean/"
-        rel="nofollow"></a>.
-      date: '2015-02-12 05:02:16'
-      date_gmt: '2015-02-11 19:02:16'
-      id: '1226'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Starting the &#8220;Moodle open book&#8221; project | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.82.20
-      author_url: https://davidtjones.wordpress.com/2015/04/13/starting-the-moodle-open-book-project/
-      content: '[&#8230;] in February I shared shared some thoughts on some possibilities
-        about a project for some grants for &#8220;open textbook&#8221; at my current
-        [&#8230;]'
-      date: '2015-04-13 22:10:01'
-      date_gmt: '2015-04-13 12:10:01'
-      id: '1227'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 My institution has [some grants available](http://www.usq.edu.au/learning-teaching/excellence/landtgrants/OpenTextbooks) to produce open textbooks. The following is an attempt to develop an interesting idea that might be funded by such a grant.
 

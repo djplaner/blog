@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bam
-date: 2006-08-28 13:53:05+10:00
+date: 2006-08-28 03:53:05
 next:
   text: Web 2.0 Course Sites
   url: /blog/2006/09/17/web-20-course-sites/
 previous:
   text: Including Dojo in pages
   url: /blog/2006/08/01/including-dojo-in-pages/
+template: blog-post.html
 title: Jenny Anastasi' presentation
 type: post
-template: blog-post.html
 ---
 Part of a project for "Embracing blogs" for information literacy. Based on a paper that I think I've seen before.
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - react
-date: 2006-12-16 12:35:29+10:00
+date: 2006-12-16 02:35:29
 next:
   text: Adoption of innovations and the "not invented here" syndrome
   url: /blog/2006/12/16/adoption-of-innovations-and-the-not-invented-here-syndrome/
 previous:
   text: Mao&#039;s &quot;four pests&quot; campaign - problems with herding cats
   url: /blog/2006/12/15/maos-four-pests-campaign-problems-with-herding-cats/
+template: blog-post.html
 title: Underpinnings for the REACT approach
 type: post
-template: blog-post.html
 ---
 [Knowledge Management in the Learning Society](http://www.oecd.org/LongAbstract/0,2546,en_2649_34539_1900762_119699_1_1_1,00.html) is a book from the OECD that examines the issues in and around education due to the changes in society - the learning society.
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - plescquni
-date: 2008-11-27 16:10:46+10:00
+date: 2008-11-27 06:10:46
 next:
   text: Selecting a tripod
   url: /blog/2008/11/29/selecting-a-tripod/
 previous:
   text: More on blogs and discussion
   url: /blog/2008/11/26/more-on-blogs-and-discussion/
+template: blog-post.html
 title: Indications of limitations - blog based discussions
 type: post
-template: blog-post.html
 ---
 I'm trying to run an [experiment in blog-based discussions](/blog/2008/11/26/an-experiment-in-blog-based-discussions/). Trying to understand, from experience, the realities of using individual blogs for a multi-person discussion. It's not going well.
 

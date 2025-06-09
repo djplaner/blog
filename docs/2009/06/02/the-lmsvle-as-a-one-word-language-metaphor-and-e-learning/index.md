@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - information-systems
 - phd
 - thesis
-date: 2009-06-02 09:41:18+10:00
+comments: []
+date: 2009-06-01 23:41:18
 next:
   text: Attending lectures is 'old school' - what else is?
   url: /blog/2009/06/02/attending-lectures-is-old-school-what-else-is/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #13 &#8211; back after a week off &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/05/phd-update-13-back-after-a-week-off/
+  content: '[...] been a few blog posts in that time, all somewhat associated to the
+    thesis. The main connection is this one about the LMS as a one word language.
+    It is inspired by the paper that gave me the concept of [...]'
+  date: '2009-06-05 16:24:31'
+  date_gmt: '2009-06-05 06:24:31'
+  id: '2552'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A night at Ezard
   url: /blog/2009/05/27/a-night-at-ezard/
+template: blog-post.html
 title: The LMS/VLE as a one word language - metaphor and e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #13 &#8211; back after a week off &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/05/phd-update-13-back-after-a-week-off/
-      content: '[...] been a few blog posts in that time, all somewhat associated to the
-        thesis. The main connection is this one about the LMS as a one word language.
-        It is inspired by the paper that gave me the concept of [...]'
-      date: '2009-06-05 16:24:31'
-      date_gmt: '2009-06-05 06:24:31'
-      id: '2552'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm currently back from a holiday restarting work on [my thesis](/blog/research/phd-thesis/) and in particular on the [process component](/blog/2009/05/25/teleological-and-ateleological-processes/) of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). I'm currently working on the section that describes the two extremes, I'm using Introna's (1996) distinction between teleological design and ateleological design.
 

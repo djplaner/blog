@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-08-09 08:56:35+10:00
+date: 2011-08-08 22:56:35
 next:
   text: Khan academy, gamification, the flipped classroom and mathematics
   url: /blog/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/
@@ -12,9 +12,9 @@ tags:
 - eportfolios
 - gamification
 - highered
+template: blog-post.html
 title: Gamification by camouflage - fads and higher ed
 type: post
-template: blog-post.html
 ---
 So, [gamification](https://en.wikipedia.org/wiki/Gamification) is one of the flavours of the month in the ed tech community. The [Khan Academy are doing it](https://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education.html) and there's a growing list of people writing about it: various gaming folk [are talking about how it might work](http://www.escapistmagazine.com/videos/view/extra-credits/3167-Gamifying-Education), [an EDUCAUSE article](https://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume46/ThisGameSucksHowtoImprovetheGa/222665), some smart folk [are doing interesting stuff around Moodle course design and professional development](http://sarahthorneycroft.com/?p=444), and some [high school teachers are actually doing it](http://missaliceleung.wordpress.com/2011/06/19/gamifying-learning-in-my-classroom-11-learning-unconference/).
 

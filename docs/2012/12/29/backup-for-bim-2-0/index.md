@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2012-12-29 17:46:05+10:00
+date: 2012-12-29 07:46:05
 next:
   text: Adding restore to BIM
   url: /blog/2013/01/01/adding-restore-to-bim/
 previous:
   text: Major (Moodle) requirements for BIM 2.0
   url: /blog/2012/12/29/major-moodle-requirements-for-bim-2-0/
+template: blog-post.html
 title: Backup for BIM 2.0
 type: post
-template: blog-post.html
 ---
 What follows is a journal of the attempt to bring [BIM 2.0's](/blog/research/bam-blog-aggregation-management/) backup functionality into line with the new approach in Moodle 2.x.
 

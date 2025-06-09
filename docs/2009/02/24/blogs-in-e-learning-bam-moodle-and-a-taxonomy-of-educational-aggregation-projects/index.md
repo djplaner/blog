@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - bam
-date: 2009-02-24 21:24:22+10:00
+comments: []
+date: 2009-02-24 11:24:22
 next:
   text: '"Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
     systems might go away"'
   url: /blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
+pingbacks:
+- approved: '1'
+  author: An alternate BAM related idea &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/03/11/an-alternate-bam-related-idea/
+  content: '[...] alternate BAM related&nbsp;idea  In a previous post I talked about
+    the rationale and need for thinking about a taxonomy of educational aggregation
+    [...]'
+  date: '2009-03-11 10:52:50'
+  date_gmt: '2009-03-11 00:52:50'
+  id: '2181'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Branding and universities - a mismatch of purpose and place?
   url: /blog/2009/02/24/branding-and-universities-a-mismatch-of-purpose-and-place/
+template: blog-post.html
 title: '"Blogs in E-Learning: BAM, Moodle and a taxonomy of educational aggregation
   projects?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: An alternate BAM related idea &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/03/11/an-alternate-bam-related-idea/
-      content: '[...] alternate BAM related&nbsp;idea  In a previous post I talked about
-        the rationale and need for thinking about a taxonomy of educational aggregation
-        [...]'
-      date: '2009-03-11 10:52:50'
-      date_gmt: '2009-03-11 00:52:50'
-      id: '2181'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 ### Background
 

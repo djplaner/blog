@@ -1,65 +1,62 @@
----
+﻿---
 categories:
 - cognitiveedge
-date: 2009-06-04 10:08:44+10:00
+comments:
+- approved: '1'
+  author: snowded
+  author_email: snowded@mac.com
+  author_ip: 86.140.177.18
+  author_url: null
+  content: 'Thanks for this - all comments welcome
+
+    The n/a option is normally given by the way, unless the client wants to force
+    a response
+
+    We are finding that people enjoy telling a story, and it improves response rates
+    (I am doing something meaningful not just ticking boxes) but its early days yet.
+
+    Dave Snowden'
+  date: '2009-06-07 19:19:55'
+  date_gmt: '2009-06-07 09:19:55'
+  id: '2556'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Dave,
+
+
+    Glad it helped.
+
+
+    When pondering the motivation to contribute a story I was thinking of a specific
+    instance I''m interested in where the organisational context is encouraging lack
+    of engagement.  I take your point about stories, I think/hope it may work.  Will
+    wait and see.
+
+
+    David.'
+  date: '2009-06-07 21:12:36'
+  date_gmt: '2009-06-07 11:12:36'
+  id: '2557'
+  parent: '2556'
+  type: comment
+  user_id: '1'
+date: 2009-06-04 00:08:44
 next:
   text: Teleological design - definition and weaknesses
   url: /blog/2009/06/05/teleological-design-definition-and-weaknesses/
+pingbacks: []
 previous:
   text: Attending lectures is &#039;old school&#039; - what else is?
   url: /blog/2009/06/02/attending-lectures-is-old-school-what-else-is/
+template: blog-post.html
 title: Tell a story about your garden - narrative and SenseMaker
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: snowded
-      author_email: snowded@mac.com
-      author_ip: 86.140.177.18
-      author_url: null
-      content: 'Thanks for this - all comments welcome
-    
-        The n/a option is normally given by the way, unless the client wants to force
-        a response
-    
-        We are finding that people enjoy telling a story, and it improves response rates
-        (I am doing something meaningful not just ticking boxes) but its early days yet.
-    
-        Dave Snowden'
-      date: '2009-06-07 19:19:55'
-      date_gmt: '2009-06-07 09:19:55'
-      id: '2556'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Dave,
-    
-    
-        Glad it helped.
-    
-    
-        When pondering the motivation to contribute a story I was thinking of a specific
-        instance I''m interested in where the organisational context is encouraging lack
-        of engagement.  I take your point about stories, I think/hope it may work.  Will
-        wait and see.
-    
-    
-        David.'
-      date: '2009-06-07 21:12:36'
-      date_gmt: '2009-06-07 11:12:36'
-      id: '2557'
-      parent: '2556'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 There have been a [few glimmers](/blog/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/) in this blog in my undeveloped, long stalled but slowly growing interest in the use of narrative, metaphor and myth to understand and engage in innovation around learning and teaching. Much, but not all, of this arises from the work of [Dave Snowden](http://www.cognitive-edge.com/blogs/dave/) and attending [one of his workshops](/blog/2008/03/16/initial-thoughts-from-cogedge-accreditation-course/).
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - exploring
 - moodleopenbook
-date: 2016-10-06 18:17:22+10:00
+date: 2016-10-06 08:17:22
 next:
   text: Exploring more frameworks to understand OER/OEP
   url: /blog/2016/10/10/exploring-more-frameworks-to-understand-oeroep/
 previous:
   text: Exploring Moodle Book usage - part 9 - Strange courses
   url: /blog/2016/09/26/exploring-moodle-book-usage-part-9-strange-courses/
+template: blog-post.html
 title: Some findings from initial exploration of Moodle Book usage
 type: post
-template: blog-post.html
 ---
 I recently gave a talk at the [Moodlemoot’AU 2016 conference](https://mootau.moodlemoot.org/course/view.php?id=62) in Perth. The talk was titled [“How and why do people use the Moodle Book module?”](/blog/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/)  It reported on analysis of data from one University's Moodle isntances to explore how courses, learners, and teachers made use of the Moodle Book module (aka the Book) from 2012 through 2015. The slides, abstract, and links to various interactive graphs used in the presentation are available via [the presentation webpage](/blog/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/).
 
@@ -60,4 +60,4 @@ After the presentation, someone from the institution's central L&T group came up
 
 It appears that content authoring might remain an unresolved problem.
 
-[![Create or import](images/30124783496_8d8ddee677_z.jpg)](https://www.flickr.com/photos/david_jones/30124783496/in/dateposted-public/ "Create or import")
+[![Create or import](https://djon.es/assets/blog/2016/10/06/some-findings-from-initial-exploration-of-moodle-book-usage/images/30124783496_8d8ddee677_z.jpg)](https://www.flickr.com/photos/david_jones/30124783496/in/dateposted-public/ "Create or import")

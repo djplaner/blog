@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - addie
 - elearning
 - emd
-date: 2007-02-09 16:28:10+10:00
+date: 2007-02-09 06:28:10
 next:
   text: Slowing change and persuading academics
   url: /blog/2007/02/10/slowing-change-and-persuading-academics/
 previous:
   text: New job, new start, new challenges
   url: /blog/2007/02/03/new-job-new-start-new-challenges/
+template: blog-post.html
 title: Should the learner always be the focus?
 type: post
-template: blog-post.html
 ---
 A discussion of [ITForum](http://it.coe.uga.edu/itforum/) provided a pointer to an [interview](http://www.digitallearning.in/interview-details.asp?interviewid=137) with [Badrul Khan](http://badrulkhan.com/khan/) (who provided the link). In it he suggests that instructional design deals with just 2 dimensions (pedagogy and evaluation) of 8 dimensions required to create learner-focussed learning material.
 

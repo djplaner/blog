@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20458
 - teaching
-date: 2011-03-21 17:14:13+10:00
+date: 2011-03-21 07:14:13
 next:
   text: Problems for teaching scholars
   url: /blog/2011/03/30/problems-for-teaching-scholars/
 previous:
   text: Is high school the next challenge for CS
   url: /blog/2011/03/21/is-high-school-the-next-challenge-for-cs/
+template: blog-post.html
 title: '"Literacy and Numeracy: Week 4"'
 type: post
-template: blog-post.html
 ---
 Week 4 of the literacy and numeracy course.
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - paperideas
 - webfusereflectionsimplications
-date: 2009-01-07 16:32:13+10:00
+date: 2009-01-07 06:32:13
 next:
   text: Content, redirects and impact on Google ranking
   url: /blog/2009/01/07/content-redirects-and-impact-on-google-ranking/
 previous:
   text: Implementing the rotating banner image
   url: /blog/2009/01/06/implementing-the-rotating-banner-image/
+template: blog-post.html
 title: Reflections and Implications from Webfuse - Domain languages
 type: post
-template: blog-post.html
 ---
 As I am currently [writing up the PhD](/blog/research/phd-thesis/) I have banned myself from working on any new papers. However, as I work through the PhD I will get ideas for papers so rather than waste time writing them in full and even worse forget about them I'm going to try and write about them on the blog and categorise them appropriately. With the hope that post PhD I can come back and have a large collection of papers to write. Alternatively, I'll have a collection of dribble to laugh at.
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - 4paths
-date: 2015-08-21 13:36:42+10:00
+date: 2015-08-21 03:36:42
 next:
   text: All models are wrong, but some are useful and its application to e-learning
   url: /blog/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
 previous:
   text: github and the Moodle - Step 3
   url: /blog/2015/08/20/github-and-the-moodle-step-3/
+template: blog-post.html
 title: Refining a visualisation
 type: post
-template: blog-post.html
 ---
 Time to [refine the visualisation](/blog/2015/08/18/visualising-locations-of-students-etc/) of students by postcodes started earlier this week. Have another set of data to work with.
 

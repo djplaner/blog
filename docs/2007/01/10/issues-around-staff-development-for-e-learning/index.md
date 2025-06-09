@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - react
-date: 2007-01-10 15:40:32+10:00
+date: 2007-01-10 05:40:32
 next:
   text: A problem with credentialism around teaching and learning
   url: /blog/2007/01/11/a-problem-with-credentialism-around-teaching-and-learning/
 previous:
   text: Process and product are inextricably linked
   url: /blog/2007/01/10/process-and-product-are-inextricably-linked/
+template: blog-post.html
 title: Issues around staff development for e-learning
 type: post
-template: blog-post.html
 ---
 Just working my way through Pettit (2005) which tells the story of how the [OUK](http://www.open.ac.uk/) used online conferencing for staff development around e-learning. What I'm finding useful to my situation is the literature review which covers some of the issues around this issue and which connects nicely with some earlier ideas.
 

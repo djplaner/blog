@@ -1,84 +1,82 @@
----
+﻿---
 categories:
 - bad
-date: 2016-04-28 13:33:45+10:00
+comments:
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.46
+  author_url: https://djon.es/blog/
+  content: '<p>Reblogged this on <a href="https://ictsandpedagogy.wordpress.com/2016/05/02/focus-innovation-and-university-it/"
+    rel="nofollow">EDC3100: ICTs and Pedagogy </a> and commented: </p>
+
+    <p>Just some testing</p>'
+  date: '2016-05-03 07:04:36'
+  date_gmt: '2016-05-02 21:04:36'
+  id: '3347'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: jacquelinehowlett
+  author_email: jac19701212@y7mail.com
+  author_ip: 118.208.105.208
+  author_url: http://jacquelinehowlett.wordpress.com
+  content: 'Reblogged this on <a href="https://jacquelinehowlett.wordpress.com/2016/05/10/focus-innovation-and-university-it/"
+    rel="nofollow">The Blog Belonging to Jacqueline</a> and commented:
+
+    For the record, I am pretty sure I am the one who has reblogged other posts more
+    than 5 times, so let''s make that 6 times, just for the hell of it!!
+
+
+    Reblogging is not plagerism  ("o")/ , I am not passing this off as my own work
+    - it links straight back to David! I reblog because I like it and I want to be
+    able to find it again quickly!!'
+  date: '2016-05-10 21:07:22'
+  date_gmt: '2016-05-10 11:07:22'
+  id: '3348'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2016-04-28 03:33:45
 next:
   text: How does BIM allocate blog posts to prompts
   url: /blog/2016/05/09/how-does-bim-allocate-blog-posts-to-prompts/
+pingbacks:
+- approved: '1'
+  author: Defending University ICT teams | Screenface
+  author_email: null
+  author_ip: 50.87.248.105
+  author_url: http://screenface.net/defending-university-ict-teams/
+  content: "[&#8230;] (it&#8217;s a word) with three widely applauded posts from Martin\
+    \ Weller, Mark Smithers and\_David Jones\_about the problems with university ICT\
+    \ teams. (I guess more precisely it is the problems with [&#8230;]"
+  date: '2016-05-01 12:21:22'
+  date_gmt: '2016-05-01 02:21:22'
+  id: '3345'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Defending University I.T. teams | Screenface
+  author_email: null
+  author_ip: 50.87.248.105
+  author_url: http://screenface.net/defending-university-i-t-teams/
+  content: "[&#8230;] (it&#8217;s a word) with three widely applauded posts from Martin\
+    \ Weller, Mark Smithers and\_David Jones\_about the problems with university I.T.\
+    \ teams. (I guess more precisely it is the problems with [&#8230;]"
+  date: '2016-05-02 14:24:23'
+  date_gmt: '2016-05-02 04:24:23'
+  id: '3346'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The need for technopedagogues and will it ever go away?
   url: /blog/2016/04/25/the-need-for-technopedagogues-and-will-it-ever-go-away/
+template: blog-post.html
 title: Focus, innovation and university IT
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.46
-      author_url: https://djon.es/blog/
-      content: '<p>Reblogged this on <a href="https://ictsandpedagogy.wordpress.com/2016/05/02/focus-innovation-and-university-it/"
-        rel="nofollow">EDC3100: ICTs and Pedagogy </a> and commented: </p>
-    
-        <p>Just some testing</p>'
-      date: '2016-05-03 07:04:36'
-      date_gmt: '2016-05-02 21:04:36'
-      id: '3347'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: jacquelinehowlett
-      author_email: jac19701212@y7mail.com
-      author_ip: 118.208.105.208
-      author_url: http://jacquelinehowlett.wordpress.com
-      content: 'Reblogged this on <a href="https://jacquelinehowlett.wordpress.com/2016/05/10/focus-innovation-and-university-it/"
-        rel="nofollow">The Blog Belonging to Jacqueline</a> and commented:
-    
-        For the record, I am pretty sure I am the one who has reblogged other posts more
-        than 5 times, so let''s make that 6 times, just for the hell of it!!
-    
-    
-        Reblogging is not plagerism  ("o")/ , I am not passing this off as my own work
-        - it links straight back to David! I reblog because I like it and I want to be
-        able to find it again quickly!!'
-      date: '2016-05-10 21:07:22'
-      date_gmt: '2016-05-10 11:07:22'
-      id: '3348'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Defending University ICT teams | Screenface
-      author_email: null
-      author_ip: 50.87.248.105
-      author_url: http://screenface.net/defending-university-ict-teams/
-      content: "[&#8230;] (it&#8217;s a word) with three widely applauded posts from Martin\
-        \ Weller, Mark Smithers and\_David Jones\_about the problems with university ICT\
-        \ teams. (I guess more precisely it is the problems with [&#8230;]"
-      date: '2016-05-01 12:21:22'
-      date_gmt: '2016-05-01 02:21:22'
-      id: '3345'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Defending University I.T. teams | Screenface
-      author_email: null
-      author_ip: 50.87.248.105
-      author_url: http://screenface.net/defending-university-i-t-teams/
-      content: "[&#8230;] (it&#8217;s a word) with three widely applauded posts from Martin\
-        \ Weller, Mark Smithers and\_David Jones\_about the problems with university I.T.\
-        \ teams. (I guess more precisely it is the problems with [&#8230;]"
-      date: '2016-05-02 14:24:23'
-      date_gmt: '2016-05-02 04:24:23'
-      id: '3346'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm currently reading ["Automate this"](https://en.wikipedia.org/wiki/Automate_This) by Christopher Steiner and came across the following
 
@@ -96,7 +94,7 @@ We have to get back to having dialogue, and having IT people who understand the 
 
 In a previous post I argued that a "incommensurate barrier" exists between techno (University IT) and the pedagogue (University teacher). The quote Steiner illustrates the nature of this barrier. IT is focused on efficiency (and other criteria) across the entire organisation, while the teacher specialises (focuses) on the course(s)/student(s) they are teaching. Their focus is on attacking the complex problem of teaching their course in different ways.  Sometimes with a focus on cheaper and more, but also on more effective.
 
-![Animated gif of reusability paradox showing a trend to putting more context into the object](images/21382816484_b9e0ae07db_o_d.gif)
+![Animated gif of reusability paradox showing a trend to putting more context into the object](https://djon.es/assets/blog/2016/04/28/focus-innovation-and-university-it/images/21382816484_b9e0ae07db_o_d.gif)
 
 Which, for me, brings to mind Wiley's [reusability paradox](http://cnx.org/contents/2tQZVsKy@19/The-Reusability-Paradox).
 

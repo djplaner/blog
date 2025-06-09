@@ -1,89 +1,86 @@
----
+﻿---
 categories:
 - indicators
-date: 2012-03-29 12:31:53+10:00
+comments: []
+date: 2012-03-29 02:31:53
 next:
   text: Curriculum innovation as an educational technology trend
   url: /blog/2012/03/30/curriculum-innovation-as-an-educational-technology-trend/
+pingbacks:
+- approved: '1'
+  author: What are the really useful&nbsp;analytics? | Digital Delights | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/digital-delights/p/1524074760/what-are-the-really-useful-analytics
+  content: '[...] background-position: 50% 0px; background-color:#222222; background-repeat
+    : repeat; }           davidtjones.wordpress.com  - Today, 1:03 [...]'
+  date: '2012-04-02 04:03:14'
+  date_gmt: '2012-04-01 18:03:14'
+  id: '284'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What are the really useful&nbsp;analytics? | Utbildning p&aring; n&auml;tet
+    | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/utbildning-pa-natet/p/1524493729/what-are-the-really-useful-analytics
+  content: '[...] background-position: 50% 0px; background-color:#222222; background-repeat
+    : repeat; }           davidtjones.wordpress.com  - Today, 2:31 [...]'
+  date: '2012-04-02 05:31:59'
+  date_gmt: '2012-04-01 19:31:59'
+  id: '285'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What are the really useful&nbsp;analytics? | E-Learning and Online Teaching
+    | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-and-online-teaching/p/1525540504/what-are-the-really-useful-analytics
+  content: '[...] } #themeHeader #titleAndDescription * { color: black; }           davidtjones.wordpress.com  -
+    Today, 7:09 [...]'
+  date: '2012-04-02 10:09:35'
+  date_gmt: '2012-04-02 00:09:35'
+  id: '286'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "What are the really useful\_analytics? | E-Learning and Online Teaching\
+    \ Today"
+  author_email: null
+  author_ip: 69.170.134.34
+  author_url: http://onlineteachingtoday.wordpress.com/2012/04/02/what-are-the-really-useful-analytics/
+  content: '[...] Via davidtjones.wordpress.com Share this:TwitterFacebookLike this:LikeBe
+    the first to like this post. [...]'
+  date: '2012-04-02 10:09:42'
+  date_gmt: '2012-04-02 00:09:42'
+  id: '287'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What are the really useful&nbsp;analytics? | Digital Knowmads | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/digital-knowmads/p/1530113228/what-are-the-really-useful-analytics
+  content: '[...] background-position: 50% 0px; background-color:#222222; background-repeat
+    : no-repeat; }           davidtjones.wordpress.com  - Today, 12:58 [...]'
+  date: '2012-04-03 03:58:46'
+  date_gmt: '2012-04-02 17:58:46'
+  id: '288'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Explorations of narrative research
   url: /blog/2012/03/29/explorations-of-narrative-research/
+template: blog-post.html
 title: What are the really useful analytics?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: What are the really useful&nbsp;analytics? | Digital Delights | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/digital-delights/p/1524074760/what-are-the-really-useful-analytics
-      content: '[...] background-position: 50% 0px; background-color:#222222; background-repeat
-        : repeat; }           davidtjones.wordpress.com  - Today, 1:03 [...]'
-      date: '2012-04-02 04:03:14'
-      date_gmt: '2012-04-01 18:03:14'
-      id: '284'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What are the really useful&nbsp;analytics? | Utbildning p&aring; n&auml;tet
-        | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/utbildning-pa-natet/p/1524493729/what-are-the-really-useful-analytics
-      content: '[...] background-position: 50% 0px; background-color:#222222; background-repeat
-        : repeat; }           davidtjones.wordpress.com  - Today, 2:31 [...]'
-      date: '2012-04-02 05:31:59'
-      date_gmt: '2012-04-01 19:31:59'
-      id: '285'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What are the really useful&nbsp;analytics? | E-Learning and Online Teaching
-        | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-and-online-teaching/p/1525540504/what-are-the-really-useful-analytics
-      content: '[...] } #themeHeader #titleAndDescription * { color: black; }           davidtjones.wordpress.com  -
-        Today, 7:09 [...]'
-      date: '2012-04-02 10:09:35'
-      date_gmt: '2012-04-02 00:09:35'
-      id: '286'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "What are the really useful\_analytics? | E-Learning and Online Teaching\
-        \ Today"
-      author_email: null
-      author_ip: 69.170.134.34
-      author_url: http://onlineteachingtoday.wordpress.com/2012/04/02/what-are-the-really-useful-analytics/
-      content: '[...] Via davidtjones.wordpress.com Share this:TwitterFacebookLike this:LikeBe
-        the first to like this post. [...]'
-      date: '2012-04-02 10:09:42'
-      date_gmt: '2012-04-02 00:09:42'
-      id: '287'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What are the really useful&nbsp;analytics? | Digital Knowmads | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/digital-knowmads/p/1530113228/what-are-the-really-useful-analytics
-      content: '[...] background-position: 50% 0px; background-color:#222222; background-repeat
-        : no-repeat; }           davidtjones.wordpress.com  - Today, 12:58 [...]'
-      date: '2012-04-03 03:58:46'
-      date_gmt: '2012-04-02 17:58:46'
-      id: '288'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Following on from [recent posts](/blog/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/) around learning analytics, this post is going to try and drill down a bit further on one of the useful questions around analytics identified by Shelia MacNeil's [summary of a Gardner Campbell talk](http://blogs.cetis.ac.uk/sheilamacneill/2012/03/09/learning-analytics-where-do-you-stand/). The questions
 
@@ -107,7 +104,7 @@ While that's certainly a potential application of analytics, like others I find 
 
 Instead, I'm starting to lean more toward the idea of analytics being yet another "blind man" available to people to discover what is going on around e-learning/learning. Like the other blind men of e-learning research (I'll use that term for want of a better label) - surveys, interviews etc. - it has its limitations (Gardner expressed a big picture limitation) but perhaps combined they can help.
 
-[![53 / The blind Men and the Elephant](images/5891501870_f427910295_n.jpg)](http://www.flickr.com/photos/isse7/5891501870/ "53 / The blind Men and the Elephant by Rune.., on Flickr")
+[![53 / The blind Men and the Elephant](https://djon.es/assets/blog/2012/03/29/what-are-the-really-useful-analytics/images/5891501870_f427910295_n.jpg)](http://www.flickr.com/photos/isse7/5891501870/ "53 / The blind Men and the Elephant by Rune.., on Flickr")
 
 Perhaps the indicators project is more about helping combine the perspectives blind men in order to better understand what is going on. At this stage, just maybe the managers can get their hands on it. But not until we've tested the "sight" of the analytics blind man. Which leads nicely into the next section.
 
@@ -133,17 +130,17 @@ Malikowski et al identified five categories of LMS features. Our initial explora
 - The black continuous line represents feature adoption with this institution's version of the Blackboard LMS.
 - The black dashed line represents feature adoption with a locally produced "LMS".
 
-[![Feature adoption - Transmit Content - Wf vs Bb](images/3864198214_d17841edec_m.jpg)](http://www.flickr.com/photos/david_jones/3864198214/ "Feature adoption - Transmit Content - Wf vs Bb by David T Jones, on Flickr")
+[![Feature adoption - Transmit Content - Wf vs Bb](https://djon.es/assets/blog/2012/03/29/what-are-the-really-useful-analytics/images/3864198214_d17841edec_m.jpg)](http://www.flickr.com/photos/david_jones/3864198214/ "Feature adoption - Transmit Content - Wf vs Bb by David T Jones, on Flickr")
 
 The transmit content usage for Wf (locally produced LMS) only includes optional content distribution. Wf automatically produced course websites with a range of information. Academics could optionally add more material.
 
-[![Feature adoption - Class Interaction- Wf vs Bb](images/3864198348_83a53bca9d_m.jpg)](http://www.flickr.com/photos/david_jones/3864198348/ "Feature adoption - Class Interaction- Wf vs Bb by David T Jones, on Flickr")
+[![Feature adoption - Class Interaction- Wf vs Bb](https://djon.es/assets/blog/2012/03/29/what-are-the-really-useful-analytics/images/3864198348_83a53bca9d_m.jpg)](http://www.flickr.com/photos/david_jones/3864198348/ "Feature adoption - Class Interaction- Wf vs Bb by David T Jones, on Flickr")
 
 Use of class interaction features were significantly higher in Wf than Blackboard and what was found by Malikowski et al.
 
-[![Feature adoption - Evaluating Students - Bb vs Wf](images/3863413831_9d6b976044_m.jpg)](http://www.flickr.com/photos/david_jones/3863413831/ "Feature adoption - Evaluating Students - Bb vs Wf by David T Jones, on Flickr")
+[![Feature adoption - Evaluating Students - Bb vs Wf](https://djon.es/assets/blog/2012/03/29/what-are-the-really-useful-analytics/images/3863413831_9d6b976044_m.jpg)](http://www.flickr.com/photos/david_jones/3863413831/ "Feature adoption - Evaluating Students - Bb vs Wf by David T Jones, on Flickr")
 
-[![Feature adoption: evaluating Courses Bb versus Wf](images/3863413941_95bc65eb5c_m.jpg)](http://www.flickr.com/photos/david_jones/3863413941/ "Feature adoption: evaluating Courses Bb versus Wf by David T Jones, on Flickr")
+[![Feature adoption: evaluating Courses Bb versus Wf](https://djon.es/assets/blog/2012/03/29/what-are-the-really-useful-analytics/images/3863413941_95bc65eb5c_m.jpg)](http://www.flickr.com/photos/david_jones/3863413941/ "Feature adoption: evaluating Courses Bb versus Wf by David T Jones, on Flickr")
 
 ### Student activity and grades
 
@@ -151,7 +148,7 @@ Dawson et al (2008) found significant differences between low and high performin
 
 We found that this generally applied for our students whether "usage" was measured by visits to the LMS, posts to discussion forums, or replies to discussion forums. However, it didn't apply to all groups of students. The institution had three types of students. The following graph shows how one group (the dotted line) don't show this pattern. With this group of students, students who got high distinctions and distinctions had less LMS usage than the students with a Credit.
 
-[![Staff interaction impact on forum posts and replies](images/3863068719_6b6c4da40f_n.jpg)](http://www.flickr.com/photos/david_jones/3863068719/ "Staff interaction impact on forum posts and replies by David T Jones, on Flickr")
+[![Staff interaction impact on forum posts and replies](https://djon.es/assets/blog/2012/03/29/what-are-the-really-useful-analytics/images/3863068719_6b6c4da40f_n.jpg)](http://www.flickr.com/photos/david_jones/3863068719/ "Staff interaction impact on forum posts and replies by David T Jones, on Flickr")
 
 ### Impact of external factors
 
@@ -159,21 +156,21 @@ We then explored whether other factors influenced this link between student usag
 
 For example, would online courses taught by the education academics (teacher education) be any different than the other courses. The following graph shows somewhat similar trends, but it also shows that education (EDED) courses have discussion forums that are, on average, visited less than other courses.
 
-[![Hits on course sites and forums](images/3859984015_20dbbd3fa9_n.jpg)](http://www.flickr.com/photos/david_jones/3859984015/ "Hits on course sites and forums by David T Jones, on Flickr")
+[![Hits on course sites and forums](https://djon.es/assets/blog/2012/03/29/what-are-the-really-useful-analytics/images/3859984015_20dbbd3fa9_n.jpg)](http://www.flickr.com/photos/david_jones/3859984015/ "Hits on course sites and forums by David T Jones, on Flickr")
 
 And when looking at the average number of posts/replies by students the expected pattern breaks down. Especially for replies.
 
-[![Forum posts and replies](images/3860768578_bdfeb321a2_n.jpg)](http://www.flickr.com/photos/david_jones/3860768578/ "Forum posts and replies by David T Jones, on Flickr")
+[![Forum posts and replies](https://djon.es/assets/blog/2012/03/29/what-are-the-really-useful-analytics/images/3860768578_bdfeb321a2_n.jpg)](http://www.flickr.com/photos/david_jones/3860768578/ "Forum posts and replies by David T Jones, on Flickr")
 
 We found that staff involvement with course sites made a difference. The following graphs show the usage/grade pattern for courses where staff accessed the course website less than 100 times during the course.
 
-[![Average student hits on course site/discussion forum for super low staff participation courses](images/4037668923_b626637a3d_n.jpg)](http://www.flickr.com/photos/david_jones/4037668923/ "Average student hits on course site/discussion forum for super low staff participation courses by David T Jones, on Flickr")
+[![Average student hits on course site/discussion forum for super low staff participation courses](https://djon.es/assets/blog/2012/03/29/what-are-the-really-useful-analytics/images/4037668923_b626637a3d_n.jpg)](http://www.flickr.com/photos/david_jones/4037668923/ "Average student hits on course site/discussion forum for super low staff participation courses by David T Jones, on Flickr")
 
-[![Average student posts/replies on discussion forums for super low staff participation courses](images/4038417332_8be6f549f4_m.jpg)](http://www.flickr.com/photos/david_jones/4038417332/ "Average student posts/replies on discussion forums for super low staff participation courses by David T Jones, on Flickr")
+[![Average student posts/replies on discussion forums for super low staff participation courses](https://djon.es/assets/blog/2012/03/29/what-are-the-really-useful-analytics/images/4038417332_8be6f549f4_m.jpg)](http://www.flickr.com/photos/david_jones/4038417332/ "Average student posts/replies on discussion forums for super low staff participation courses by David T Jones, on Flickr")
 
 We also found that age changed the pattern and level of usage. Older students used the LMS more. Younger students less.
 
-[![](images/4151816868_7266bd8f17_o.jpg)](http://www.flickr.com/photos/7321820@N08/4418722696/in/set-72157622534664834 "Average site usage by age")
+[![](https://djon.es/assets/blog/2012/03/29/what-are-the-really-useful-analytics/images/4151816868_7266bd8f17_o.jpg)](http://www.flickr.com/photos/7321820@N08/4418722696/in/set-72157622534664834 "Average site usage by age")
 
 ### Critical success factors
 

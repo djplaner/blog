@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - eei
-date: 2017-03-17 16:09:07+10:00
+date: 2017-03-17 06:09:07
 next:
   text: WTF(udge) does EEI do?
   url: /blog/2017/03/24/wtfudge-does-eei-do/
 previous:
   text: Adding a custom library and a semi-real application - Indicators notebook(s)
   url: /blog/2017/03/16/adding-a-custom-library-and-a-semi-real-application-indicators-notebooks/
+template: blog-post.html
 title: Observations on university L&T portals
 type: post
-template: blog-post.html
 ---
 At some stage soon I need to start developing a report on "learning and teaching portals". i.e. how our institution deals with online resources around learning and teaching. There are a few issues with how we do it, and it appears that we're not alone
 

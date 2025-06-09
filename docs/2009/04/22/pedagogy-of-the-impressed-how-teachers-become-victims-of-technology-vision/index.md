@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - thesis
-date: 2009-04-22 11:14:12+10:00
+comments: []
+date: 2009-04-22 01:14:12
 next:
   text: E-learning usage - quality
   url: /blog/2009/04/22/e-learning-usage-quality/
+pingbacks:
+- approved: '1'
+  author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.85
+  author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
+  content: '[...] Pedagogy of the impressed - how teachers become victims of technology
+    vision , [...]'
+  date: '2009-04-24 15:01:53'
+  date_gmt: '2009-04-24 05:01:53'
+  id: '2421'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The paradigms of e-learning
   url: /blog/2009/04/20/the-paradigms-of-e-learning/
+template: blog-post.html
 title: Pedagogy of the impressed - how teachers become victims of technology vision
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.85
-      author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
-      content: '[...] Pedagogy of the impressed - how teachers become victims of technology
-        vision , [...]'
-      date: '2009-04-24 15:01:53'
-      date_gmt: '2009-04-24 05:01:53'
-      id: '2421'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I've just skimmed through a recent paper by Convery (2009) titled "The pedagogy of the impressed: how teachers become victims of technology vision". This paper resonates quite strongly with a growing sense of concern I have about simplistic, ill-informed practices around e-learning. In particular, there are (for me at least) direct connections with some of my recent posts about [how a new LMS will improve L&T](/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/), [the paradigms of e-learning](/blog/2009/04/20/the-paradigms-of-e-learning/), [the fad cycle in higher education](/blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/) and its application to technology-mediated learning, the technologists alliance (more on this soon) and the [idea of technological gravity](/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/) and technology I, II and III.
 

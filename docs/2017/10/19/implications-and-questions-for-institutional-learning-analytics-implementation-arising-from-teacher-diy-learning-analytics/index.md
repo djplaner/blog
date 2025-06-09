@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - 4paths
 - learninganalytics-elearning
-date: 2017-10-19 13:54:03+10:00
+date: 2017-10-19 03:54:03
 next:
   text: Introducing the Moodle Activity Viewer (MAV) & digital reno
   url: /blog/2017/10/30/introducing-the-moodle-activity-viewer-mav-digital-reno/
 previous:
   text: Exploring options for teacher DIY learning analytics
   url: /blog/2017/10/07/exploring-options-for-teacher-diy-learning-analytics/
+template: blog-post.html
 title: Implications and questions for institutional learning analytics implementation
   arising from teacher DIY learning analytics
 type: post
-template: blog-post.html
 ---
 David Jones, Hazel Jones, Colin Beer, Celeste Lawson, Implications and questions for institutional learning analytics implementation arising from teacher DIY learning analytics, To appear in the proceedings of the [2017 Australian Learning Analytics Summer Institute (ALASI 2017)](http://itali.uq.edu.au/alasi2017)
 
@@ -36,14 +36,14 @@ During 2015 and 2016 one of the authors developed and used a DIY learning analyt
 
 When in use, Know thy student modified every page of the course site viewed by the teacher. It added a **\[details\]** link where ever a link to a user profile appeared, as illustrated in Figure 1.
 
-[![Forum post + more student details](images/21234896670_4bc5b9523e.jpg)](https://www.flickr.com/photos/david_jones/21234896670/in/dateposted-public/ "Forum post + more student details")
+[![Forum post + more student details](https://djon.es/assets/blog/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/images/21234896670_4bc5b9523e.jpg)](https://www.flickr.com/photos/david_jones/21234896670/in/dateposted-public/ "Forum post + more student details")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Figure 1 - Modified course page
 
 Clicking on one of the **\[details\]** link would open a new pop up window (Figure 2) to provide access to information about the student. The pop-up window provided information in three separate tabs, including: personal details (Figure 2); activity completion (Figure 3); and, blog posts (Figure 4). Know thy student provided the examiner with ubiquitous and embedded access to course specific information about each student enrolled in the course.
 
-[![Student background](images/20800269384_7e8e57697b.jpg)](https://www.flickr.com/photos/david_jones/20800269384/in/dateposted-public/ "Student background")
+[![Student background](https://djon.es/assets/blog/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/images/20800269384_7e8e57697b.jpg)](https://www.flickr.com/photos/david_jones/20800269384/in/dateposted-public/ "Student background")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Figure 2 - Personal details
@@ -62,7 +62,7 @@ Baker (2016) identifies a common goal shared by learning analytics systems, that
 
 How widespread is this apparent failure? What are the factors contributing to this apparent failure? What can be done to address it?
 
-[![Student activity completion](images/21396731876_a83e942ec2.jpg)](https://www.flickr.com/photos/david_jones/21396731876/in/dateposted-public/ "Student activity completion")
+[![Student activity completion](https://djon.es/assets/blog/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/images/21396731876_a83e942ec2.jpg)](https://www.flickr.com/photos/david_jones/21396731876/in/dateposted-public/ "Student activity completion")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Figure 3 - Activity completion
@@ -73,7 +73,7 @@ Experience from this case suggests that providing useful contextual data appropr
 
 Does the provision of embedded, ubiquitous and contextual learning analytics increase and encourage greater adoption and bricolage by teachers with learning analytics? What impact would that have on the learning experience? Given the inherent diversity in education, how can institutional learning analytics provide contextually appropriate learning analytics?
 
-[![Sentiment analysis of blog posts](images/24713913780_28a2460275.jpg)](https://www.flickr.com/photos/david_jones/24713913780/in/dateposted-public/ "Sentiment analysis of blog posts")
+[![Sentiment analysis of blog posts](https://djon.es/assets/blog/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/images/24713913780_28a2460275.jpg)](https://www.flickr.com/photos/david_jones/24713913780/in/dateposted-public/ "Sentiment analysis of blog posts")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Figure 4 - Sentiment analysis of blog posts

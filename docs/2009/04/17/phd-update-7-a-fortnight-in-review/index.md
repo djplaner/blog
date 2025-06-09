@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-04-17 14:22:52+10:00
+comments: []
+date: 2009-04-17 04:22:52
 next:
   text: Performance degradation - impact of new LMS implementation
   url: /blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
+pingbacks:
+- approved: '1'
+  author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.85
+  author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
+  content: '[...] Update #8 - steaming&nbsp;ahead  The week since my last PhD update
+    has been a good one. The most productive (in terms of completed first drafts of
+    thesis sections) [...]'
+  date: '2009-04-24 15:01:23'
+  date_gmt: '2009-04-24 05:01:23'
+  id: '2404'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A history of technology-mediated learning
   url: /blog/2009/04/17/a-history-of-technology-mediated-learning/
+template: blog-post.html
 title: '"PhD Update #7 - a fortnight in review"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.85
-      author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
-      content: '[...] Update #8 - steaming&nbsp;ahead  The week since my last PhD update
-        has been a good one. The most productive (in terms of completed first drafts of
-        thesis sections) [...]'
-      date: '2009-04-24 15:01:23'
-      date_gmt: '2009-04-24 05:01:23'
-      id: '2404'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 It's now been 2 weeks since my last "weekly" [PhD update](/blog/2009/04/02/phd-update-6-start-of-shortened-weeks/). The public holidays, minor surgery and a general malaise contributed to by on-going issues at work have meant that work hasn't progressed as quickly as I'd hoped and it would have been pretty pointless to post an update last week.
 

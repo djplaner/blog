@@ -1,93 +1,90 @@
----
+﻿---
 categories:
 - elearning
 - thesis
-date: 2012-04-13 13:14:00+10:00
+comments:
+- approved: '1'
+  author: Justin (@grubbypandas)
+  author_email: grubbypandas@twitter.example.com
+  author_ip: 110.174.29.163
+  author_url: http://twitter.com/grubbypandas
+  content: Our university in Sydney has recently moved away from the moodle model
+    and has moved to a custom version. The previous moodle version that was used most
+    courses used the online submission as a back up only if their initial copy of
+    the assessment was lost. This included all of my IT related courses I kid you
+    not. I've even had examples where i have submitted an incorrect code file in the  submission
+    and they have not even noticed it as they don't even run it. Now with this new
+    online version, most courses don't even use the facility to submit electronically,
+    let alone marking online.
+  date: '2012-04-13 14:37:46'
+  date_gmt: '2012-04-13 04:37:46'
+  id: '341'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Peter Albion (@palbion)
+  author_email: palbion@twitter.example.com
+  author_ip: 121.223.33.93
+  author_url: http://twitter.com/palbion
+  content: 'If you are using EASE then for some allocation patterns it is possible
+    to have the system allocate to markers automatically. I have even managed, by
+    scripting over the top, to allocate to markers dictated by a list in a spreadsheet.
+    I also have a script that attaches feedback files to the web form without my doing
+    it manually. You are welcome to both if they are likely to be of any use, even
+    as a starting point for your own solution.
+
+
+    I agree that the system never seems to do quite what we need. In part that is
+    because it has been developed and tweaked to meet needs of others that are not
+    quite the same as mine.'
+  date: '2012-04-13 20:31:47'
+  date_gmt: '2012-04-13 10:31:47'
+  id: '342'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.186.109.100
+  author_url: https://djon.es/blog/
+  content: 'G''day Justin, It appears you''re not the only student <a href="http://tallynwarner.edublogs.org/2012/04/12/assignment-submissions/"
+    rel="nofollow">having some problems</a> around assignment submission.
+
+    The Moodle system always appeared less than functional. I think some current work
+    may address that. But then there''s the question of change around academic practice.
+    David.'
+  date: '2012-04-14 10:43:15'
+  date_gmt: '2012-04-14 00:43:15'
+  id: '343'
+  parent: '341'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.186.109.100
+  author_url: https://djon.es/blog/
+  content: I'm not sure the system really suits anyone, at least not anyone with large
+    courses. Will gladly take you up on the scripts. Catch up next week.
+  date: '2012-04-14 10:44:26'
+  date_gmt: '2012-04-14 00:44:26'
+  id: '344'
+  parent: '342'
+  type: comment
+  user_id: '1'
+date: 2012-04-13 03:14:00
 next:
   text: Questions and insights on (education) hack days/hackathons
   url: /blog/2012/04/25/questions-and-insights-on-edhackathons/
+pingbacks: []
 previous:
   text: bim2 - working on coordinator - part 1
   url: /blog/2012/04/11/bim2-working-on-coordinator-part-1/
+template: blog-post.html
 title: Mind the gap - a big problem with institutional e-learning
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Justin (@grubbypandas)
-      author_email: grubbypandas@twitter.example.com
-      author_ip: 110.174.29.163
-      author_url: http://twitter.com/grubbypandas
-      content: Our university in Sydney has recently moved away from the moodle model
-        and has moved to a custom version. The previous moodle version that was used most
-        courses used the online submission as a back up only if their initial copy of
-        the assessment was lost. This included all of my IT related courses I kid you
-        not. I've even had examples where i have submitted an incorrect code file in the  submission
-        and they have not even noticed it as they don't even run it. Now with this new
-        online version, most courses don't even use the facility to submit electronically,
-        let alone marking online.
-      date: '2012-04-13 14:37:46'
-      date_gmt: '2012-04-13 04:37:46'
-      id: '341'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Peter Albion (@palbion)
-      author_email: palbion@twitter.example.com
-      author_ip: 121.223.33.93
-      author_url: http://twitter.com/palbion
-      content: 'If you are using EASE then for some allocation patterns it is possible
-        to have the system allocate to markers automatically. I have even managed, by
-        scripting over the top, to allocate to markers dictated by a list in a spreadsheet.
-        I also have a script that attaches feedback files to the web form without my doing
-        it manually. You are welcome to both if they are likely to be of any use, even
-        as a starting point for your own solution.
-    
-    
-        I agree that the system never seems to do quite what we need. In part that is
-        because it has been developed and tweaked to meet needs of others that are not
-        quite the same as mine.'
-      date: '2012-04-13 20:31:47'
-      date_gmt: '2012-04-13 10:31:47'
-      id: '342'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.186.109.100
-      author_url: https://djon.es/blog/
-      content: 'G''day Justin, It appears you''re not the only student <a href="http://tallynwarner.edublogs.org/2012/04/12/assignment-submissions/"
-        rel="nofollow">having some problems</a> around assignment submission.
-    
-        The Moodle system always appeared less than functional. I think some current work
-        may address that. But then there''s the question of change around academic practice.
-        David.'
-      date: '2012-04-14 10:43:15'
-      date_gmt: '2012-04-14 00:43:15'
-      id: '343'
-      parent: '341'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.186.109.100
-      author_url: https://djon.es/blog/
-      content: I'm not sure the system really suits anyone, at least not anyone with large
-        courses. Will gladly take you up on the scripts. Catch up next week.
-      date: '2012-04-14 10:44:26'
-      date_gmt: '2012-04-14 00:44:26'
-      id: '344'
-      parent: '342'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The almost 300 students in the course I'm teaching have their first assignment due on Monday. I'm currently laying the ground work to help the small course team to mark those assignments. Actually I'm busy procrastinating about the task by writing this blog post. Mainly because it is more work than it needs to be and it is this way because of one of the fundamental flaws of how universities are currently implementing e-learning systems.
 

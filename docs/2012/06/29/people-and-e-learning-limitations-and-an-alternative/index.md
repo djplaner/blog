@@ -1,68 +1,65 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
 - phd
 - thesis
 - webfuse
-date: 2012-06-29 12:13:09+10:00
+comments: []
+date: 2012-06-29 02:13:09
 next:
   text: Reducing meaningless freedom and a Mahara feature request
   url: /blog/2012/06/30/reducing-meaningless-freedom-and-a-mahara-feature-request/
+pingbacks:
+- approved: '1'
+  author: People and e-learning &ndash; limitations and an&nbsp;alternative | Implementing
+    e-Learning | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-implementation/p/2088801858/people-and-e-learning-limitations-and-an-alternative
+  content: '[...] So the last of three sections examining the limitations of industrial
+    e-learning and suggesting an alternative. Time to write the conclusion, read the
+    paper over again and cut it down to size. Peop...&nbsp; [...]'
+  date: '2012-07-03 07:05:43'
+  date_gmt: '2012-07-02 21:05:43'
+  id: '383'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Is there a link between managerialisation and learning analytics? &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.248.218
+  author_url: https://djon.es/blog/2012/07/15/is-there-a-link-between-managerialisation-and-learning-analytics/
+  content: '[...] certainly what I argue in a series of posts that form the skeleton
+    for an ASCILITE paper [...]'
+  date: '2012-07-15 13:33:39'
+  date_gmt: '2012-07-15 03:33:39'
+  id: '384'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Some notes about &#8220;bullshit&#8221; &#8211; Col&#039;s Weblog
+  author_email: null
+  author_ip: 192.0.114.8
+  author_url: https://beerc.wordpress.com/2022/11/16/some-notes-about-bullshit/
+  content: '[&#8230;] decision-makers at the top of the hierarchy are at the end of
+    an upwardly cascading chain of &#8220;Chinese Whispers&#8221; that can be dominated
+    by positive imagery, or when bad news can&#8217;t be avoided, it is [&#8230;]'
+  date: '2022-11-16 09:48:23'
+  date_gmt: '2022-11-15 23:48:23'
+  id: '24884'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Introducing the alternative
   url: /blog/2012/06/29/introducing-the-alternative/
+template: blog-post.html
 title: People and e-learning - limitations and an alternative
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: People and e-learning &ndash; limitations and an&nbsp;alternative | Implementing
-        e-Learning | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-implementation/p/2088801858/people-and-e-learning-limitations-and-an-alternative
-      content: '[...] So the last of three sections examining the limitations of industrial
-        e-learning and suggesting an alternative. Time to write the conclusion, read the
-        paper over again and cut it down to size. Peop...&nbsp; [...]'
-      date: '2012-07-03 07:05:43'
-      date_gmt: '2012-07-02 21:05:43'
-      id: '383'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Is there a link between managerialisation and learning analytics? &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.248.218
-      author_url: https://djon.es/blog/2012/07/15/is-there-a-link-between-managerialisation-and-learning-analytics/
-      content: '[...] certainly what I argue in a series of posts that form the skeleton
-        for an ASCILITE paper [...]'
-      date: '2012-07-15 13:33:39'
-      date_gmt: '2012-07-15 03:33:39'
-      id: '384'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Some notes about &#8220;bullshit&#8221; &#8211; Col&#039;s Weblog
-      author_email: null
-      author_ip: 192.0.114.8
-      author_url: https://beerc.wordpress.com/2022/11/16/some-notes-about-bullshit/
-      content: '[&#8230;] decision-makers at the top of the hierarchy are at the end of
-        an upwardly cascading chain of &#8220;Chinese Whispers&#8221; that can be dominated
-        by positive imagery, or when bad news can&#8217;t be avoided, it is [&#8230;]'
-      date: '2022-11-16 09:48:23'
-      date_gmt: '2022-11-15 23:48:23'
-      id: '24884'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 So the last of three sections examining the limitations of industrial e-learning and suggesting an alternative. Time to write the conclusion, read the paper over again and cut it down to size.
 

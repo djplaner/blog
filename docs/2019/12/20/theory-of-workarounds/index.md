@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - 4paths
 - bad
 - casa
-date: 2019-12-20 09:44:53+10:00
+date: 2019-12-19 23:44:53
 next:
   text: Is training the barrier to quality online learning in higher ed?
   url: /blog/2019/12/23/is-training-the-barrier-to-quality-online-learning-in-higher-ed/
 previous:
   text: 'The conceptualisation of e-learning: Lessons and implications'
   url: /blog/2019/12/19/the-conceptualisation-of-e-learning-lessons-and-implications/
+template: blog-post.html
 title: Theory of workarounds
 type: post
-template: blog-post.html
 ---
 ## Introduction
 
@@ -56,7 +56,7 @@ Alter’s theory of workarounds draws on a number of theories and concepts, incl
 - Agency theory;
 - Work system theory
 
-![](images/alter.png)
+![](https://djon.es/assets/blog/2019/12/20/theory-of-workarounds/images/alter.png)
 
 Figure 1 - Alter's (2014) Theory of Workarounds (p. 1056)
 
@@ -76,7 +76,7 @@ Subsequently, there are _local consequences and broader consequences_. Locally, 
 
 Alter also makes a point of outlining the temporality of workarounds as outlined in Figure 2.
 
-![](images/time.png)  
+![](https://djon.es/assets/blog/2019/12/20/theory-of-workarounds/images/time.png)  
 
 Figure 2: Temporality of Workarounds (adapted from Alter, 2014, p. 1058)
 

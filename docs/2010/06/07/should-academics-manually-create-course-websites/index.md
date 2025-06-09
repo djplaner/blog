@@ -1,143 +1,141 @@
----
+﻿---
 categories:
 - elearning
 - moodle
 - thesis
 - webfuse
-date: 2010-06-07 20:36:24+10:00
+comments:
+- approved: '1'
+  author: cloudpollen
+  author_email: cloudpollen@gmail.com
+  author_ip: 88.30.29.146
+  author_url: http://www.cloudpollen.com
+  content: 'A great post, I could''nt agree more on the Moodle system, whilst working
+    in college as the IT administrator for the staff I found Moodle terrible to use,
+    I don''t believe that teachers should have to set up an environment and nor should
+    they take a week to get it going. It should just work.
+
+
+    I have placed your blog post link on my site http://blog.cloudpollen.com/'
+  date: '2010-06-10 04:48:44'
+  date_gmt: '2010-06-09 18:48:44'
+  id: '3094'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'G''day Neil,
+
+
+    Thanks for the comments.  Will be interested to see how Cloudpollen goes, both
+    in terms of what features you build into it/the philosophy you take etc; and,
+    how it gets accepted by educators and their institutions.
+
+
+    It''s a brave step you''ve taken and wish you the best in it.  However, I can''t
+    help but see the problems you''ll face, especially with institutions. IMHO, the
+    main reason Moodle is exploding in terms of adoption within universities is because
+    it panders to management''s current experiences/prejudices (i.e. they need to
+    own the system), plus it''s free.  Overcoming this is a huge problem.
+
+
+    David.'
+  date: '2010-06-10 14:19:47'
+  date_gmt: '2010-06-10 04:19:47'
+  id: '3095'
+  parent: '3094'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: cloudpollen
+  author_email: cloudpollen@gmail.com
+  author_ip: 88.31.214.90
+  author_url: http://www.cloudpollen.com
+  content: 'This is very true and a valid point, the system itself is primarily aimed
+    at the educators as I''ve seen many a disappointed glare from the waiting for
+    a solution that they can just use. Like you said we will wait and see :)
+
+
+    Love your posts, keep them coming!'
+  date: '2010-06-10 17:50:53'
+  date_gmt: '2010-06-10 07:50:53'
+  id: '3096'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-06-07 10:36:24
 next:
   text: Course websites and "libertarian paternalism"
   url: /blog/2010/06/08/course-websites-and-libertarian-paternalism/
+pingbacks:
+- approved: '1'
+  author: Course websites and &#8220;libertarian paternalism&#8221; &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.144
+  author_url: https://djon.es/blog/2010/06/08/course-websites-and-libertarian-paternalism/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Should academics manually create course&nbsp;websites? [...]'
+  date: '2010-06-08 09:28:29'
+  date_gmt: '2010-06-07 23:28:29'
+  id: '3092'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A fantastic blog post on &#8216;Should academ&#8230; &laquo; Blog
+  author_email: null
+  author_ip: 174.120.159.130
+  author_url: http://blog.cloudpollen.com/2010/06/09/a-fantastic-blog-post-on-should-academ/
+  content: '[...] A fantastic blog post on &#8216;Should academics manually create
+    course websites?&#8217; https://djon.es/blog/2010/06/07/should-academics-manually-create-course-websites/
+    [...]'
+  date: '2010-06-10 04:47:24'
+  date_gmt: '2010-06-09 18:47:24'
+  id: '3093'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Academics, course websites and power laws &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.104.119
+  author_url: https://djon.es/blog/?p=3009
+  content: '[...] course websites and power&nbsp;laws  Last week I was thinking that
+    academics shouldn&#8217;t manually create course sites. That arose out of the
+    process of writing up the why/what behind what we did with Webfuse from 1999 [...]'
+  date: '2010-06-14 21:42:38'
+  date_gmt: '2010-06-14 11:42:38'
+  id: '3097'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What might the 3 levels of organisational culture reveal about university
+    e-learning | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.18
+  author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+  content: '[&#8230;] and support one approach to an institution doing something about
+    this. Since then I&#8217;ve made the argument for this. However, there are two
+    important points missing from the &#8220;new look and feel&#8221; [&#8230;]'
+  date: '2015-01-20 10:54:22'
+  date_gmt: '2015-01-20 00:54:22'
+  id: '3098'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Default course sites and wizards
   url: /blog/2010/06/07/default-course-sites-and-wizards/
+template: blog-post.html
 title: Should academics manually create course websites?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cloudpollen
-      author_email: cloudpollen@gmail.com
-      author_ip: 88.30.29.146
-      author_url: http://www.cloudpollen.com
-      content: 'A great post, I could''nt agree more on the Moodle system, whilst working
-        in college as the IT administrator for the staff I found Moodle terrible to use,
-        I don''t believe that teachers should have to set up an environment and nor should
-        they take a week to get it going. It should just work.
-    
-    
-        I have placed your blog post link on my site http://blog.cloudpollen.com/'
-      date: '2010-06-10 04:48:44'
-      date_gmt: '2010-06-09 18:48:44'
-      id: '3094'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'G''day Neil,
-    
-    
-        Thanks for the comments.  Will be interested to see how Cloudpollen goes, both
-        in terms of what features you build into it/the philosophy you take etc; and,
-        how it gets accepted by educators and their institutions.
-    
-    
-        It''s a brave step you''ve taken and wish you the best in it.  However, I can''t
-        help but see the problems you''ll face, especially with institutions. IMHO, the
-        main reason Moodle is exploding in terms of adoption within universities is because
-        it panders to management''s current experiences/prejudices (i.e. they need to
-        own the system), plus it''s free.  Overcoming this is a huge problem.
-    
-    
-        David.'
-      date: '2010-06-10 14:19:47'
-      date_gmt: '2010-06-10 04:19:47'
-      id: '3095'
-      parent: '3094'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: cloudpollen
-      author_email: cloudpollen@gmail.com
-      author_ip: 88.31.214.90
-      author_url: http://www.cloudpollen.com
-      content: 'This is very true and a valid point, the system itself is primarily aimed
-        at the educators as I''ve seen many a disappointed glare from the waiting for
-        a solution that they can just use. Like you said we will wait and see :)
-    
-    
-        Love your posts, keep them coming!'
-      date: '2010-06-10 17:50:53'
-      date_gmt: '2010-06-10 07:50:53'
-      id: '3096'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Course websites and &#8220;libertarian paternalism&#8221; &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.144
-      author_url: https://djon.es/blog/2010/06/08/course-websites-and-libertarian-paternalism/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Should academics manually create course&nbsp;websites? [...]'
-      date: '2010-06-08 09:28:29'
-      date_gmt: '2010-06-07 23:28:29'
-      id: '3092'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A fantastic blog post on &#8216;Should academ&#8230; &laquo; Blog
-      author_email: null
-      author_ip: 174.120.159.130
-      author_url: http://blog.cloudpollen.com/2010/06/09/a-fantastic-blog-post-on-should-academ/
-      content: '[...] A fantastic blog post on &#8216;Should academics manually create
-        course websites?&#8217; https://djon.es/blog/2010/06/07/should-academics-manually-create-course-websites/
-        [...]'
-      date: '2010-06-10 04:47:24'
-      date_gmt: '2010-06-09 18:47:24'
-      id: '3093'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Academics, course websites and power laws &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.104.119
-      author_url: https://djon.es/blog/?p=3009
-      content: '[...] course websites and power&nbsp;laws  Last week I was thinking that
-        academics shouldn&#8217;t manually create course sites. That arose out of the
-        process of writing up the why/what behind what we did with Webfuse from 1999 [...]'
-      date: '2010-06-14 21:42:38'
-      date_gmt: '2010-06-14 11:42:38'
-      id: '3097'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What might the 3 levels of organisational culture reveal about university
-        e-learning | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.18
-      author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
-      content: '[&#8230;] and support one approach to an institution doing something about
-        this. Since then I&#8217;ve made the argument for this. However, there are two
-        important points missing from the &#8220;new look and feel&#8221; [&#8230;]'
-      date: '2015-01-20 10:54:22'
-      date_gmt: '2015-01-20 00:54:22'
-      id: '3098'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 (There is a response/attempted clarification to [comments](http://www.downes.ca/cgi-bin/page.cgi?post=52617) on the following by Stephen Downes in [another post](/blog/2010/06/08/course-websites-and-libertarian-paternalism/))
 

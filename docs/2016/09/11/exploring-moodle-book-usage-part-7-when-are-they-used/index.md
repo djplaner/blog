@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - edc3100
 - exploring
 - moodleopenbook
-date: 2016-09-11 18:19:26+10:00
+comments: []
+date: 2016-09-11 08:19:26
 next:
   text: Your experience of organisational digital technology?
   url: /blog/2016/09/20/your-experience-of-institutional-digital-technology/
+pingbacks:
+- approved: '1'
+  author: Exploring Moodle Book usage &#8211; Part 7a) &#8211; when are they modified
+    &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.112.5
+  author_url: https://davidtjones.wordpress.com/2016/09/20/exploring-moodle-book-usage-part-7a-when-are-they-modified/
+  content: '[&#8230;] a previous post I generated various representations of when
+    Moodle Book resources were being used and some [&#8230;]'
+  date: '2016-09-20 17:32:33'
+  date_gmt: '2016-09-20 07:32:33'
+  id: '3416'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Which comes first? Pedagogy or technology?
   url: /blog/2016/09/11/which-comes-first-pedagogy-or-technology/
+template: blog-post.html
 title: "Exploring Moodle Book usage \u2013 Part 7 \u2013 When are they used?"
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Exploring Moodle Book usage &#8211; Part 7a) &#8211; when are they modified
-        &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.112.5
-      author_url: https://davidtjones.wordpress.com/2016/09/20/exploring-moodle-book-usage-part-7a-when-are-they-modified/
-      content: '[&#8230;] a previous post I generated various representations of when
-        Moodle Book resources were being used and some [&#8230;]'
-      date: '2016-09-20 17:32:33'
-      date_gmt: '2016-09-20 07:32:33'
-      id: '3416'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [last post](/blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/) in this series looked briefly at the contents of Moodle Book resources. This post is going to look at when the book resources are used, including:
 
@@ -64,63 +61,63 @@ This is especially the case for the viewing events. Starting with a low number f
 
 ### Views per hour each year
 
-**2012** [![2012 views per hour](images/29542262346_21a0a24787_z.jpg)](https://www.flickr.com/photos/david_jones/29542262346/in/dateposted-public/ "2012 views per hour")
+**2012** [![2012 views per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29542262346_21a0a24787_z.jpg)](https://www.flickr.com/photos/david_jones/29542262346/in/dateposted-public/ "2012 views per hour")
 
-**2013** [![2013 views per hour](images/28950939704_5a5350222e_z.jpg)](https://www.flickr.com/photos/david_jones/28950939704/in/dateposted-public/ "2013 views per hour")
+**2013** [![2013 views per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/28950939704_5a5350222e_z.jpg)](https://www.flickr.com/photos/david_jones/28950939704/in/dateposted-public/ "2013 views per hour")
 
-**2014** [![2014 views per hour](images/29576448095_fbc332266c_z.jpg)](https://www.flickr.com/photos/david_jones/29576448095/in/dateposted-public/ "2014 views per hour")
+**2014** [![2014 views per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29576448095_fbc332266c_z.jpg)](https://www.flickr.com/photos/david_jones/29576448095/in/dateposted-public/ "2014 views per hour")
 
 **2015**
 
-[![2015 views per hour](images/29542260646_542df98e6a_z.jpg)](https://www.flickr.com/photos/david_jones/29542260646/in/dateposted-public/ "2015 views per hour")
+[![2015 views per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29542260646_542df98e6a_z.jpg)](https://www.flickr.com/photos/david_jones/29542260646/in/dateposted-public/ "2015 views per hour")
 
 **EDC3100 2015 S1**
 
-[![EDC3100 2015 1 views per hour](images/29576447565_e66bba691d_z.jpg)](https://www.flickr.com/photos/david_jones/29576447565/in/dateposted-public/ "EDC3100 2015 1 views per hour")
+[![EDC3100 2015 1 views per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29576447565_e66bba691d_z.jpg)](https://www.flickr.com/photos/david_jones/29576447565/in/dateposted-public/ "EDC3100 2015 1 views per hour")
 
 ### Prints per hour each year
 
 **2012**
 
-[![2012 prints per hour](images/29468289572_e6da17a580_z.jpg)](https://www.flickr.com/photos/david_jones/29468289572/in/dateposted-public/ "2012 prints per hour")
+[![2012 prints per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29468289572_e6da17a580_z.jpg)](https://www.flickr.com/photos/david_jones/29468289572/in/dateposted-public/ "2012 prints per hour")
 
 **2013**
 
-[![2013 prints per hour](images/28953059013_71bd9d7be6_z.jpg)](https://www.flickr.com/photos/david_jones/28953059013/in/dateposted-public/ "2013 prints per hour")
+[![2013 prints per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/28953059013_71bd9d7be6_z.jpg)](https://www.flickr.com/photos/david_jones/28953059013/in/dateposted-public/ "2013 prints per hour")
 
 **2014**
 
-[![2014 prints per hour](images/29542261466_f2bb6f537e_z.jpg)](https://www.flickr.com/photos/david_jones/29542261466/in/dateposted-public/ "2014 prints per hour")
+[![2014 prints per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29542261466_f2bb6f537e_z.jpg)](https://www.flickr.com/photos/david_jones/29542261466/in/dateposted-public/ "2014 prints per hour")
 
 **2015**
 
-[![2015 prints per hour](images/29496027121_8ee63f7143_z.jpg)](https://www.flickr.com/photos/david_jones/29496027121/in/dateposted-public/ "2015 prints per hour")
+[![2015 prints per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29496027121_8ee63f7143_z.jpg)](https://www.flickr.com/photos/david_jones/29496027121/in/dateposted-public/ "2015 prints per hour")
 
 **EDC3100 2015 S1**
 
-[![EDC3100 2015 1 prints per hour](images/29542260546_30586a0f35_z.jpg)](https://www.flickr.com/photos/david_jones/29542260546/in/dateposted-public/ "EDC3100 2015 1 prints per hour")
+[![EDC3100 2015 1 prints per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29542260546_30586a0f35_z.jpg)](https://www.flickr.com/photos/david_jones/29542260546/in/dateposted-public/ "EDC3100 2015 1 prints per hour")
 
 ### Updates per hour each year
 
 **2012**
 
-[![2012 updates per hour](images/29542262486_53541a8a81_z.jpg)](https://www.flickr.com/photos/david_jones/29542262486/in/dateposted-public/ "2012 updates per hour")
+[![2012 updates per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29542262486_53541a8a81_z.jpg)](https://www.flickr.com/photos/david_jones/29542262486/in/dateposted-public/ "2012 updates per hour")
 
 **2013**
 
-[![2013 updates per hour](images/28950939794_d2e60abef3_z.jpg)](https://www.flickr.com/photos/david_jones/28950939794/in/dateposted-public/ "2013 updates per hour")
+[![2013 updates per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/28950939794_d2e60abef3_z.jpg)](https://www.flickr.com/photos/david_jones/28950939794/in/dateposted-public/ "2013 updates per hour")
 
 **2014**
 
-[![2014 updates per hour](images/29576448185_f33affaf78_z.jpg)](https://www.flickr.com/photos/david_jones/29576448185/in/dateposted-public/ "2014 updates per hour")
+[![2014 updates per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29576448185_f33affaf78_z.jpg)](https://www.flickr.com/photos/david_jones/29576448185/in/dateposted-public/ "2014 updates per hour")
 
 **2015**
 
-[![2015 updates per hour](images/29576447925_653b74c148_z.jpg)](https://www.flickr.com/photos/david_jones/29576447925/in/dateposted-public/ "2015 updates per hour")
+[![2015 updates per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29576447925_653b74c148_z.jpg)](https://www.flickr.com/photos/david_jones/29576447925/in/dateposted-public/ "2015 updates per hour")
 
 **EDC3100 2015 S1**
 
-[![EDC3100 2015 1 updates per hour](images/29542260346_1a98a727b3_z.jpg)](https://www.flickr.com/photos/david_jones/29542260346/in/dateposted-public/ "EDC3100 2015 1 updates per hour")
+[![EDC3100 2015 1 updates per hour](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29542260346_1a98a727b3_z.jpg)](https://www.flickr.com/photos/david_jones/29542260346/in/dateposted-public/ "EDC3100 2015 1 updates per hour")
 
 ## Calendar Heatmaps
 
@@ -138,11 +135,11 @@ The darker the colour the greater the use. In the 2012 image below you should be
 
 The 2012 map seems to establish the pattern.  Heavy use at the start of semester with a gradual reduction through semester. A few upticks during semester and toward the end of semester.
 
-I no longer have easy access to specific dates for 2012 and 2013. The 2014 heatmap has some specific dates which should broadly apply to these earlier years. [![2012 Book usage](images/29599803905_eb089edf51_z.jpg)](https://www.flickr.com/photos/david_jones/29599803905/in/dateposted-public/ "2012 Book usage")
+I no longer have easy access to specific dates for 2012 and 2013. The 2014 heatmap has some specific dates which should broadly apply to these earlier years. [![2012 Book usage](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29599803905_eb089edf51_z.jpg)](https://www.flickr.com/photos/david_jones/29599803905/in/dateposted-public/ "2012 Book usage")
 
 ### 2013
 
-[![2013 Book usage - calendar heatmap](images/29309640360_7d4514d69c_z.jpg)](https://www.flickr.com/photos/david_jones/29309640360/in/dateposted-public/ "2013 Book usage - calendar heatmap")
+[![2013 Book usage - calendar heatmap](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29309640360_7d4514d69c_z.jpg)](https://www.flickr.com/photos/david_jones/29309640360/in/dateposted-public/ "2013 Book usage - calendar heatmap")
 
 ### 2014
 
@@ -154,7 +151,7 @@ The institution maintains [a web page](https://www.usq.edu.au/current-students/2
 - November 3 - Semester 2 exams start.
 - November 17 - Semester 3 starts.
 
-[![Screen Shot 2016-09-11 at 4.52.36 pm](images/29489956642_caacaa70b6_z.jpg)](https://www.flickr.com/photos/david_jones/29489956642/in/dateposted-public/ "Screen Shot 2016-09-11 at 4.52.36 pm")
+[![Screen Shot 2016-09-11 at 4.52.36 pm](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29489956642_caacaa70b6_z.jpg)](https://www.flickr.com/photos/david_jones/29489956642/in/dateposted-public/ "Screen Shot 2016-09-11 at 4.52.36 pm")
 
 ### 2015
 
@@ -166,11 +163,11 @@ The semester 1 2015 offering of my course had the following due dates for its 3 
 
 Raising the question of what the heatmap for that course might look like - see below
 
-[![Screen Shot 2016-09-11 at 4.53.10 pm](images/29309638570_84c0d8e086_z.jpg)](https://www.flickr.com/photos/david_jones/29309638570/in/dateposted-public/ "Screen Shot 2016-09-11 at 4.53.10 pm")
+[![Screen Shot 2016-09-11 at 4.53.10 pm](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29309638570_84c0d8e086_z.jpg)](https://www.flickr.com/photos/david_jones/29309638570/in/dateposted-public/ "Screen Shot 2016-09-11 at 4.53.10 pm")
 
 ### EDC3100 - S1, 2015
 
-Focusing just on my course the increase in usage just before the due date for the assignments is more obvious. One of the reasons for this is that all the Assessment information for the course is included in a Moodle Book resource. [![EDC3100 S1 2015 book usage - calendar heatmap](images/29600112035_5524ddf877_z.jpg)](https://www.flickr.com/photos/david_jones/29600112035/in/dateposted-public/ "EDC3100 S1 2015 book usage - calendar heatmap") Other time periods relevant to this course are:
+Focusing just on my course the increase in usage just before the due date for the assignments is more obvious. One of the reasons for this is that all the Assessment information for the course is included in a Moodle Book resource. [![EDC3100 S1 2015 book usage - calendar heatmap](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29600112035_5524ddf877_z.jpg)](https://www.flickr.com/photos/david_jones/29600112035/in/dateposted-public/ "EDC3100 S1 2015 book usage - calendar heatmap") Other time periods relevant to this course are:
 
 - April 6 to 17 - the two week mid-semester break; and, Which correspond to two of the lightest periods of usage of book resources.
 - May 18 to June 5 - a three week period when most of the students are on Professional Experience within schools. Which also corresponds to a light period of usage.
@@ -189,7 +186,7 @@ It also begs the question about whether particular offerings of the course show 
 
 ### 2012 - S2
 
-The 2012 S2 pattern is quite a bit different. It is a bit more uneven and appears to continue well after the semester is finished.  This is due to this being the first semester the course used the Book module and also because there was a semester 3 offering of the course for a few students that used the same resources. [![EDC3100 2012 2 - Book usage](images/29600356655_f9a92b38d9_z.jpg)](https://www.flickr.com/photos/david_jones/29600356655/in/dateposted-public/ "EDC3100 2012 2 - Book usage")
+The 2012 S2 pattern is quite a bit different. It is a bit more uneven and appears to continue well after the semester is finished.  This is due to this being the first semester the course used the Book module and also because there was a semester 3 offering of the course for a few students that used the same resources. [![EDC3100 2012 2 - Book usage](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29600356655_f9a92b38d9_z.jpg)](https://www.flickr.com/photos/david_jones/29600356655/in/dateposted-public/ "EDC3100 2012 2 - Book usage")
 
 The 2012 heatmap also shows a trend that continues. i.e. usage of the Book resources continue well past the end of semester. It's not heavy usage, but is still there.
 
@@ -199,26 +196,26 @@ The 2012 heatmap also shows a trend that continues. i.e. usage of the Book resou
 
 2013 S1 is a bit different as well. Lighter use at the start of semester. A bit heavier usage around assignment due dates. My guess is that this was still early in the evolution of how the Book was being used.
 
-[![EDC3100 2013 S1 - Book usage](images/29490486232_8e51807933_z.jpg)](https://www.flickr.com/photos/david_jones/29490486232/in/dateposted-public/ "EDC3100 2013 S1 - Book usage")
+[![EDC3100 2013 S1 - Book usage](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29490486232_8e51807933_z.jpg)](https://www.flickr.com/photos/david_jones/29490486232/in/dateposted-public/ "EDC3100 2013 S1 - Book usage")
 
 ### 2013 - S2
 
-This map seems to be evolving toward the heavy use at the start of semester. [![EDC3100 2013 S2 - Book usage](images/28976960893_f2e1c8bdca_z.jpg)](https://www.flickr.com/photos/david_jones/28976960893/in/dateposted-public/ "EDC3100 2013 S2 - Book usage")
+This map seems to be evolving toward the heavy use at the start of semester. [![EDC3100 2013 S2 - Book usage](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/28976960893_f2e1c8bdca_z.jpg)](https://www.flickr.com/photos/david_jones/28976960893/in/dateposted-public/ "EDC3100 2013 S2 - Book usage")
 
 ### 2014 - S1
 
 And now the pattern is established. Heavy use at the start of semester and in the lead up to Assignment 1. A slight uptick then for Assignments 2 and 3. With the light usage around Professional Experience evident.
 
-[![EDC3100 2014 S1 - Book usage](images/28976961043_c72dde8d90_z.jpg)](https://www.flickr.com/photos/david_jones/28976961043/in/dateposted-public/ "EDC3100 2014 S1 - Book usage")
+[![EDC3100 2014 S1 - Book usage](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/28976961043_c72dde8d90_z.jpg)](https://www.flickr.com/photos/david_jones/28976961043/in/dateposted-public/ "EDC3100 2014 S1 - Book usage")
 
 ### 2014 - S2
 
-[![EDC3100 2014 S2 - Book usage](images/29490486372_888851174f_z.jpg)](https://www.flickr.com/photos/david_jones/29490486372/in/dateposted-public/ "EDC3100 2014 S2 - Book usage")
+[![EDC3100 2014 S2 - Book usage](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29490486372_888851174f_z.jpg)](https://www.flickr.com/photos/david_jones/29490486372/in/dateposted-public/ "EDC3100 2014 S2 - Book usage")
 
 ### 2015 - S2
 
-###   [![EDC3100 2015 S2 - Book usage](images/29490486452_47eee46321_z.jpg)](https://www.flickr.com/photos/david_jones/29490486452/in/dateposted-public/ "EDC3100 2015 S2 - Book usage") What about just the students?
+###   [![EDC3100 2015 S2 - Book usage](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29490486452_47eee46321_z.jpg)](https://www.flickr.com/photos/david_jones/29490486452/in/dateposted-public/ "EDC3100 2015 S2 - Book usage") What about just the students?
 
 The following shows just the student usage for the 2013 S1 offering. Not a huge difference to the "all role" version above suggesting that it is students who are doing most of the viewing. But it does confirm that the on-going usage of the Book resources past the end of the semester are students who appear to have found some value for the information post the course.
 
-[![EDC3100 2013 1 - Just students](images/29310584000_5e56d806cb_z.jpg)](https://www.flickr.com/photos/david_jones/29310584000/in/dateposted-public/ "EDC3100 2013 1 - Just students")
+[![EDC3100 2013 1 - Just students](https://djon.es/assets/blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/images/29310584000_5e56d806cb_z.jpg)](https://www.flickr.com/photos/david_jones/29310584000/in/dateposted-public/ "EDC3100 2013 1 - Just students")

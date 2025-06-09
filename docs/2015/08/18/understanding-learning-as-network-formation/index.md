@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - bad
 - netgl
-date: 2015-08-18 14:31:49+10:00
+comments:
+- approved: '1'
+  author: debliriges
+  author_email: liriges@usq.edu.au
+  author_ip: 139.86.9.83
+  author_url: http://debliriges.wordpress.com
+  content: So interesting to read of the 2015 netgl student experiences and reflect
+    back on this time in my netgl journey in 2014 -  it was one of the more challenging
+    experiences in my studies, but well worth the effort and has provided me with
+    a continuing learning legacy - thanks David
+  date: '2015-08-18 16:58:16'
+  date_gmt: '2015-08-18 06:58:16'
+  id: '1384'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: rbngp10
+  author_email: vluxaurea10@gmail.com
+  author_ip: 83.34.232.3
+  author_url: http://rbngp10.wordpress.com
+  content: Reblogged this on <a href="https://rbngp10.wordpress.com/2015/08/19/understanding-learning-as-network-formation/"
+    rel="nofollow">rbngp10</a>.
+  date: '2015-08-19 21:43:12'
+  date_gmt: '2015-08-19 11:43:12'
+  id: '1385'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2015-08-18 04:31:49
 next:
   text: Why should a teacher know how to code?
   url: /blog/2015/08/18/the-role-of-coding-in-learning-and-teaching/
+pingbacks: []
 previous:
   text: Testing the Lucimoo epub export book tool
   url: /blog/2015/08/18/testing-the-lucimoo-epub-export-book-tool/
+template: blog-post.html
 title: Understanding learning as network formation
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: debliriges
-      author_email: liriges@usq.edu.au
-      author_ip: 139.86.9.83
-      author_url: http://debliriges.wordpress.com
-      content: So interesting to read of the 2015 netgl student experiences and reflect
-        back on this time in my netgl journey in 2014 -  it was one of the more challenging
-        experiences in my studies, but well worth the effort and has provided me with
-        a continuing learning legacy - thanks David
-      date: '2015-08-18 16:58:16'
-      date_gmt: '2015-08-18 06:58:16'
-      id: '1384'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: rbngp10
-      author_email: vluxaurea10@gmail.com
-      author_ip: 83.34.232.3
-      author_url: http://rbngp10.wordpress.com
-      content: Reblogged this on <a href="https://rbngp10.wordpress.com/2015/08/19/understanding-learning-as-network-formation/"
-        rel="nofollow">rbngp10</a>.
-      date: '2015-08-19 21:43:12'
-      date_gmt: '2015-08-19 11:43:12'
-      id: '1385'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 This is a follow on from [yesterday's post](/blog/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/) weaving in a few posts from [netgl](http://netgl.wordpress.com) participants.
 

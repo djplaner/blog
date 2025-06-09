@@ -1,8 +1,8 @@
----
-date: 2008-10-27 14:10:30+10:00
+﻿---
+date: 2008-10-27 04:10:30
+template: blog-post.html
 title: '"REACT&#039;s paper format"'
 type: page
-template: blog-post.html
 ---
 The intent is that each [REACT](/blog/research/reflection-evaluation-and-collaboration-in-teaching/) paper will follow a fixed format. The idea is to make it easier for people to write the paper by having a pre-defined structure that provides specific guidelines about what information is required. A consistent format should also make it easier for readers to compare and contrast approaches.
 

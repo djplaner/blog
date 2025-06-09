@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - thesis
-date: 2009-07-15 12:20:44+10:00
+comments: []
+date: 2009-07-15 02:20:44
 next:
   text: BAM into Moodle approved - starting the process
   url: /blog/2009/07/16/bam-into-moodle-approved-starting-the-process/
+pingbacks:
+- approved: '1'
+  author: Nudging as paternalism &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/08/18/nudging-as-paternalism/
+  content: '[...] connects with some of my long term thoughts, recent reading and
+    recent [...]'
+  date: '2009-08-18 15:48:42'
+  date_gmt: '2009-08-18 05:48:42'
+  id: '2639'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BAM and the Chinese &quot;firewall&quot;
   url: /blog/2009/07/15/bam-and-the-chinese-firewall/
+template: blog-post.html
 title: '"Predictably irrational - implications for L&#038;T at Universities"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Nudging as paternalism &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/08/18/nudging-as-paternalism/
-      content: '[...] connects with some of my long term thoughts, recent reading and
-        recent [...]'
-      date: '2009-08-18 15:48:42'
-      date_gmt: '2009-08-18 05:48:42'
-      id: '2639'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Over the last few days I've finished reading [Predictably Irrational](http://www.amazon.com/Predictably-Irrational-Hidden-Forces-Decisions/dp/006135323X) by [Dan Ariely](http://www.predictablyirrational.com/?page_id=5) a professor at Duke University in behavioural economics. What follows is a bit of a summary. In short, I enjoyed it and it's reinforced an interest in questioning some of the assumptions that seem to underpin the current practice of L&T at Universities.
 

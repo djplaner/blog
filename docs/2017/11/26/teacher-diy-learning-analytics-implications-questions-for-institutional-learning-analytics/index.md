@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - 4paths
 - bad
@@ -7,7 +7,7 @@ categories:
 - e-learning
 - indicators
 - learninganalytics-elearning
-date: 2017-11-26 10:38:02+10:00
+date: 2017-11-26 00:38:02
 next:
   text: Are learning analytics leading us towards a utopian or dystopian future, and
     what can we as practitioners do to influence this?
@@ -15,10 +15,10 @@ next:
 previous:
   text: Improving teacher awareness, action and reflection on learner activity
   url: /blog/2017/11/12/improving-teacher-awareness-action-and-reflection-on-learner-activity/
+template: blog-post.html
 title: Teacher DIY learning analytics - implications & questions for institutional
   learning analytics
 type: post
-template: blog-post.html
 ---
 The following provides a collection of information and resources associated with [a paper](http://djon.es/blog/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/) and presentation given at [ALASI 2017 - the Australian Learning Analytics Summer Institute](http://itali.uq.edu.au/alasi2017) in Brisbane on 30 November, 2017. Below you'll find an abstract, a recording of a version of the presentation, the presentation slides and the references.
 
@@ -60,12 +60,12 @@ The paper examines the DIY development and use of a particular application of le
 
 The following heat map shows the number of times _Know thy student_ was used on each day during 2015 and 2016.
 
-[![Know thy student usage clicks per day](images/38611772746_c67cbb698c.jpg)](https://www.flickr.com/photos/david_jones/38611772746/in/dateposted-public/ "Know thy student usage clicks per day")
+[![Know thy student usage clicks per day](https://djon.es/assets/blog/2017/11/26/teacher-diy-learning-analytics-implications-questions-for-institutional-learning-analytics/images/38611772746_c67cbb698c.jpg)](https://www.flickr.com/photos/david_jones/38611772746/in/dateposted-public/ "Know thy student usage clicks per day")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The following bar graph contains 761 “bars”. Each bar represents a unique student enrolled in this course. The size of the bar shows the number of times _Know thy student_ was used for that particular student. (One student was obviously used for testing purposes during the development of the tool)
 
-[![Know thy student usage clicks per student](images/38611770246_5164807fd4.jpg)](https://www.flickr.com/photos/david_jones/38611770246/in/dateposted-public/ "Know thy student usage clicks per student")
+[![Know thy student usage clicks per student](https://djon.es/assets/blog/2017/11/26/teacher-diy-learning-analytics-implications-questions-for-institutional-learning-analytics/images/38611770246_5164807fd4.jpg)](https://www.flickr.com/photos/david_jones/38611770246/in/dateposted-public/ "Know thy student usage clicks per student")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Abstract

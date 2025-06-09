@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,38 +6,35 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-06-19 23:09:35+10:00
+comments: []
+date: 2009-06-19 13:09:35
 next:
   text: "The reason *insert label* talk about gurus is because they can\u2019t spell\
     \ the word charlatan"
   url: /blog/2009/06/21/the-reason-insert-label-talk-about-gurus-is-because-they-cant-spell-the-word-charlatan/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #15 &#8211; Some progress and an absence &laquo; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/06/21/phd-update-15-some-progress-and-an-absence/
+  content: '[...] I&#8217;ve just posted the last section of the Process component
+    (Lessons from process) and completed the other section earlier in the week (Learning
+    and teaching processes). [...]'
+  date: '2009-06-21 14:55:23'
+  date_gmt: '2009-06-21 04:55:23'
+  id: '2616'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Why minimium standards (probably) won&#039;t work and will probably become
     maximum standards
   url: /blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
+template: blog-post.html
 title: Learning and teaching processes
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #15 &#8211; Some progress and an absence &laquo; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/06/21/phd-update-15-some-progress-and-an-absence/
-      content: '[...] I&#8217;ve just posted the last section of the Process component
-        (Lessons from process) and completed the other section earlier in the week (Learning
-        and teaching processes). [...]'
-      date: '2009-06-21 14:55:23'
-      date_gmt: '2009-06-21 04:55:23'
-      id: '2616'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the penultimate section from the Processes section of chapter 2 of my [thesis](/blog/research/phd-thesis/). It aims to talk about the types of processes used for learning and teaching (including e-learning). It seeks to use the lens of [teleological and ateleological processes](/blog/2009/05/25/teleological-and-ateleological-processes/). This version has been finished quickly and could be made better. I'm trying hard to get "good enough" done and out so I can make progress. I guess supervisor feedback will tell the tale.
 

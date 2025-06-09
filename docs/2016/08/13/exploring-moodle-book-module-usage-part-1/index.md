@@ -1,151 +1,149 @@
----
+﻿---
 categories:
 - bad
 - edc3100
 - edu8117
 - exploring
 - moodleopenbook
-date: 2016-08-13 17:10:02+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 144.134.192.120
+  author_url: http://elketeaches.wordpress.com
+  content: Great post, David! Good pics. I have referred to your first part a few
+    times because you explain it so well.  I am still unsure whether changes could
+    be made in a system that is extremely time poor; if I lose a bit of passion for
+    this gig then who picks up the pieces?
+  date: '2016-09-06 05:22:16'
+  date_gmt: '2016-09-05 19:22:16'
+  id: '3398'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.176.255.105
+  author_url: https://djon.es/blog/
+  content: 'One of the $64K questions. Touches on one of the differences I see between
+    be a teacher/lecturer and being in central learning and teaching.
+
+
+    In central L&amp;T (my definition) the aim is to help others. Hence my aim is
+    to try to make tweaks to the system that help people experience novelty that helps
+    them learn and in turn leads them to better understand the limits of their existing
+    schema and develop new schema.  The problem is that this isn''t what central L&amp;T
+    does, they are typically driven by management to solve specific problems. An approach
+    that leads to changes that aren''t situated and face the problem of the Grammar
+    of School.
+
+
+    In my own practice, I don''t have to worry about the schema of others.  I can
+    be more innovative (still tied to by my own schema). Though I do have to keep
+    the learners'' schema in mind. But because I''m being innovative, there''s almost
+    no chance of anyone picking up the pieces. If I get run over by a bus, it''s going
+    to be hard for the institution to pick up my teaching.
+
+
+    At some level this is the reusability paradox. If you worry about the "bus" problem,
+    you limit context specific value.  I''ve decided not to worry.
+
+
+    How you deal with this in central L&amp;T, is another question.'
+  date: '2016-09-06 07:37:06'
+  date_gmt: '2016-09-05 21:37:06'
+  id: '3399'
+  parent: '3398'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 203.15.135.254
+  author_url: http://elketeaches.wordpress.com
+  content: 'Excellent! I agree, who cares about the bus. I''m pretty sure I''d quit
+    if I had to conform too closely anyway. It seems ironic that they want me to confirm
+    and yet also be innovative at the same time '
+  date: '2016-09-06 07:48:54'
+  date_gmt: '2016-09-05 21:48:54'
+  id: '3400'
+  parent: '3399'
+  type: comment
+  user_id: '0'
+date: 2016-08-13 07:10:02
 next:
   text: Exploring Moodle Book usage - part 2 - overall use
   url: /blog/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/
+pingbacks:
+- approved: '1'
+  author: David Jones &#8211; Exploring Moodle Book Module | EdTech Hot Technologies
+  author_email: null
+  author_ip: 192.0.82.52
+  author_url: https://edtechhottechnologies.wordpress.com/2016/08/15/david-jones-exploring-moodle-book-module/
+  content: '[&#8230;] Follow me [&#8230;]'
+  date: '2016-08-16 00:35:54'
+  date_gmt: '2016-08-15 14:35:54'
+  id: '3394'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Exploring Moodle Book usage &#8211; part 2 &#8211; overall use &#8211; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.122
+  author_url: https://davidtjones.wordpress.com/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/
+  content: '[&#8230;] in a series of posts exploring the usage of the Moodle Book
+    module at my current institution. The first post gave some background and outlined
+    an initial series of questions about Book usage that I&#8217;m [&#8230;]'
+  date: '2016-08-16 10:20:51'
+  date_gmt: '2016-08-16 00:20:51'
+  id: '3395'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: On the value or otherwise of SAMR, RAT etc. &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.101.32
+  author_url: https://davidtjones.wordpress.com/2016/08/23/on-the-value-or-otherwise-of-samr-rat-etc/
+  content: '[&#8230;] second is related to the horsey horseless carriage problem.
+    The more familiar you are with something, the harder it is to challenge the underlying
+    unwritten [&#8230;]'
+  date: '2016-08-23 15:22:45'
+  date_gmt: '2016-08-23 05:22:45'
+  id: '3396'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Exploring Moodle book usage &#8211; part 4 &#8211; students and initial
+    use &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.180
+  author_url: https://davidtjones.wordpress.com/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/
+  content: '[&#8230;] The last post identified that the Book is generally used in
+    larger courses. A possible implication of this is that the Book is more likely
+    to be used if the course has distance education/online students. The thinking
+    here is that such courses have historically had print-based study guides, which
+    could be converted into the Book module. Also, that on-campus courses are more
+    typically going to rely on lectures and tutorials as the primary form of teaching
+    method. This links directly back to the idea of horsey, horseless carriage thinking.
+    [&#8230;]'
+  date: '2016-08-23 15:35:12'
+  date_gmt: '2016-08-23 05:35:12'
+  id: '3397'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: How many digital devices do you have?
   url: /blog/2016/08/12/how-many-digital-devices-do-you-have/
+template: blog-post.html
 title: Exploring Moodle Book Module usage - part 1 - background and planning
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 144.134.192.120
-      author_url: http://elketeaches.wordpress.com
-      content: Great post, David! Good pics. I have referred to your first part a few
-        times because you explain it so well.  I am still unsure whether changes could
-        be made in a system that is extremely time poor; if I lose a bit of passion for
-        this gig then who picks up the pieces?
-      date: '2016-09-06 05:22:16'
-      date_gmt: '2016-09-05 19:22:16'
-      id: '3398'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.176.255.105
-      author_url: https://djon.es/blog/
-      content: 'One of the $64K questions. Touches on one of the differences I see between
-        be a teacher/lecturer and being in central learning and teaching.
-    
-    
-        In central L&amp;T (my definition) the aim is to help others. Hence my aim is
-        to try to make tweaks to the system that help people experience novelty that helps
-        them learn and in turn leads them to better understand the limits of their existing
-        schema and develop new schema.  The problem is that this isn''t what central L&amp;T
-        does, they are typically driven by management to solve specific problems. An approach
-        that leads to changes that aren''t situated and face the problem of the Grammar
-        of School.
-    
-    
-        In my own practice, I don''t have to worry about the schema of others.  I can
-        be more innovative (still tied to by my own schema). Though I do have to keep
-        the learners'' schema in mind. But because I''m being innovative, there''s almost
-        no chance of anyone picking up the pieces. If I get run over by a bus, it''s going
-        to be hard for the institution to pick up my teaching.
-    
-    
-        At some level this is the reusability paradox. If you worry about the "bus" problem,
-        you limit context specific value.  I''ve decided not to worry.
-    
-    
-        How you deal with this in central L&amp;T, is another question.'
-      date: '2016-09-06 07:37:06'
-      date_gmt: '2016-09-05 21:37:06'
-      id: '3399'
-      parent: '3398'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 203.15.135.254
-      author_url: http://elketeaches.wordpress.com
-      content: 'Excellent! I agree, who cares about the bus. I''m pretty sure I''d quit
-        if I had to conform too closely anyway. It seems ironic that they want me to confirm
-        and yet also be innovative at the same time '
-      date: '2016-09-06 07:48:54'
-      date_gmt: '2016-09-05 21:48:54'
-      id: '3400'
-      parent: '3399'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: David Jones &#8211; Exploring Moodle Book Module | EdTech Hot Technologies
-      author_email: null
-      author_ip: 192.0.82.52
-      author_url: https://edtechhottechnologies.wordpress.com/2016/08/15/david-jones-exploring-moodle-book-module/
-      content: '[&#8230;] Follow me [&#8230;]'
-      date: '2016-08-16 00:35:54'
-      date_gmt: '2016-08-15 14:35:54'
-      id: '3394'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Exploring Moodle Book usage &#8211; part 2 &#8211; overall use &#8211; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.122
-      author_url: https://davidtjones.wordpress.com/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/
-      content: '[&#8230;] in a series of posts exploring the usage of the Moodle Book
-        module at my current institution. The first post gave some background and outlined
-        an initial series of questions about Book usage that I&#8217;m [&#8230;]'
-      date: '2016-08-16 10:20:51'
-      date_gmt: '2016-08-16 00:20:51'
-      id: '3395'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: On the value or otherwise of SAMR, RAT etc. &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.101.32
-      author_url: https://davidtjones.wordpress.com/2016/08/23/on-the-value-or-otherwise-of-samr-rat-etc/
-      content: '[&#8230;] second is related to the horsey horseless carriage problem.
-        The more familiar you are with something, the harder it is to challenge the underlying
-        unwritten [&#8230;]'
-      date: '2016-08-23 15:22:45'
-      date_gmt: '2016-08-23 05:22:45'
-      id: '3396'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Exploring Moodle book usage &#8211; part 4 &#8211; students and initial
-        use &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.180
-      author_url: https://davidtjones.wordpress.com/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/
-      content: '[&#8230;] The last post identified that the Book is generally used in
-        larger courses. A possible implication of this is that the Book is more likely
-        to be used if the course has distance education/online students. The thinking
-        here is that such courses have historically had print-based study guides, which
-        could be converted into the Book module. Also, that on-campus courses are more
-        typically going to rely on lectures and tutorials as the primary form of teaching
-        method. This links directly back to the idea of horsey, horseless carriage thinking.
-        [&#8230;]'
-      date: '2016-08-23 15:35:12'
-      date_gmt: '2016-08-23 05:35:12'
-      id: '3397'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm due to have the slides for a [Moodlemoot Australia presentation](/blog/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/) in a few weeks. Time to get organised. The following is (perhaps) the first of a sequence of posts reporting on progress toward that presentation and the related research.
 
@@ -153,7 +151,7 @@ I'm due to have the slides for a [Moodlemoot Australia presentation](/blog/2016/
 
 My interest in research is primarily driven by the observation that most educational usage of digital technology to enhance learning and teaching is fairly bad. Typically the blame for this gets laid at the feet of the teaching staff who are digitally illiterate, not qualified to teach, or are laggards. My belief/argument is that the problem really arises because the environment within formal education institutions just doesn't understand what is required to make a difference. Much of what they do (e.g. institutional standards for course sites, checklists, training, support documentation, design and support of technlogies...) does little to help and tends to make the problem worse.
 
-[![You want digitally fluent faculty?](images/15025763858_58eea9f20c_z.jpg)](https://www.flickr.com/photos/david_jones/15025763858/ "You want digitally fluent faculty?")
+[![You want digitally fluent faculty?](https://djon.es/assets/blog/2016/08/13/exploring-moodle-book-module-usage-part-1/images/15025763858_58eea9f20c_z.jpg)](https://www.flickr.com/photos/david_jones/15025763858/ "You want digitally fluent faculty?")
 
 A contributing factor to that is that institutional attempts to improve digital learning actually fails to be based on any insights on how people (in this case teaching staff and all those involved with digital learning) learn. How institutions implement digital learning actually gets in the way of people learning how to do it better.
 
@@ -169,7 +167,7 @@ The grammar of school problem is linked to the idea of [schema](http://changingm
 
 ### Evidence of schema in how digital technologies are used
 
-[![Horsey, Horseless Carriage](images/1899horseyhorseless-png_918790_ver1-0.png)](https://www.google.com/patents/USD30551#v=onepage&q&f=false)
+[![Horsey, Horseless Carriage](https://djon.es/assets/blog/2016/08/13/exploring-moodle-book-module-usage-part-1/images/1899horseyhorseless-png_918790_ver1-0.png)](https://www.google.com/patents/USD30551#v=onepage&q&f=false)
 
 The schema idea means that people will perceive and thus use digital technologies in ways that fit with their "integrated sets of assumptions, expectations and experiences". This is an explanation for the horsey, horseless carriage way people respond to digital technologies. It's why courses where the majority of students are online students and will never come onto a campus are still designed around the idea of face-to-face lectures and tutorials.
 
@@ -177,7 +175,7 @@ It also explains why when I finally returned to teaching a course I adopted the 
 
 | 1996 | 2016 |
 | --- | --- |
-| [![The 85321 "online" book - 1996](images/28941656415_ff5165abe5_n.jpg)](https://www.flickr.com/photos/david_jones/28941656415/in/dateposted-public/ "The 85321 \"online\" book - 1996") | [![Online book 2016](images/28330821023_9e6e226b3b_n.jpg)](https://www.flickr.com/photos/david_jones/28330821023/in/dateposted-public/ "Online book 2016") |
+| [![The 85321 "online" book - 1996](https://djon.es/assets/blog/2016/08/13/exploring-moodle-book-module-usage-part-1/images/28941656415_ff5165abe5_n.jpg)](https://www.flickr.com/photos/david_jones/28941656415/in/dateposted-public/ "The 85321 \"online\" book - 1996") | [![Online book 2016](https://djon.es/assets/blog/2016/08/13/exploring-moodle-book-module-usage-part-1/images/28330821023_9e6e226b3b_n.jpg)](https://www.flickr.com/photos/david_jones/28330821023/in/dateposted-public/ "Online book 2016") |
 
 The 1996 image is a [page](http://web.archive.org/web/19970809020334/http://mc.cqu.edu.au/subjects/85321/study-guide/chap4/sec1p2.html) from  the [study guide](http://web.archive.org/web/19971017052720/http://mc.cqu.edu.au/subjects/85321/study-guide/index.html) (wonder how many people can play the au file containing the Wayne's World II quote) for the Systems Administration course I taught in 1996. The 2016 image is a page from the "study guide" I developed for an [Arts & Technologies C&P course](http://www.usq.edu.au/course/specification/2016/EDM8006-S2-2016-WEB-TWMBA.html).
 
@@ -185,7 +183,7 @@ I believe/suggest that the influence of schema also plays a significant contribu
 
 And it's not just the teaching staff. Students have developed schema about what it means to be taught, and what it means to be taught at university. A schema developed either through direct experience, or via the experience of others and various media. The typical schema for university education involved large lecture halls and tutorials.
 
-[![ne da se mi by Tadeeej, on Flickr](images/3228729514_a4dedacbc5.jpg "ne da se mi by Tadeeej, on Flickr")](https://www.flickr.com/photos/tadeeej/3228729514/) "[ne da se mi](https://www.flickr.com/photos/tadeeej/3228729514/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/tadeeej/)[Tadeeej](https://www.flickr.com/people/tadeeej/) [](http://www.imagecodr.org/)
+[![ne da se mi by Tadeeej, on Flickr](https://djon.es/assets/blog/2016/08/13/exploring-moodle-book-module-usage-part-1/images/3228729514_a4dedacbc5.jpg "ne da se mi by Tadeeej, on Flickr")](https://www.flickr.com/photos/tadeeej/3228729514/) "[ne da se mi](https://www.flickr.com/photos/tadeeej/3228729514/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/tadeeej/)[Tadeeej](https://www.flickr.com/people/tadeeej/) [](http://www.imagecodr.org/)
 
  
 

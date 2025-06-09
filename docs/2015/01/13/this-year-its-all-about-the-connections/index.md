@@ -1,177 +1,175 @@
----
+﻿---
 categories:
 - bad
-date: 2015-01-13 10:54:56+10:00
+comments:
+- approved: '1'
+  author: Peter
+  author_email: palbion@me.com
+  author_ip: 139.86.69.32
+  author_url: http://pamatravel.wordpress.com
+  content: There are some intriguing possibilities there. It should make for an interesting
+    year. I guess it has not escaped your notice that 'case' is Spanish for house.
+    Is that a nice match to your Spanish website at http://djon.es ?
+  date: '2015-01-13 15:39:25'
+  date_gmt: '2015-01-13 05:39:25'
+  id: '1168'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.32
+  author_url: https://djon.es/blog/
+  content: 'An interesting year indeed, if any of it gets actioned.
+
+
+    The Spanish connection is entirely coincidental.  The initial task was trying
+    to work assemblage, context-specific, and scaffolding into an acronym. CASA was
+    the first decent one. It''s a plus that it''s not used for something less appropriate.'
+  date: '2015-01-13 15:57:02'
+  date_gmt: '2015-01-13 05:57:02'
+  id: '1169'
+  parent: '1168'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Peter
+  author_email: palbion@me.com
+  author_ip: 101.162.25.252
+  author_url: http://pamatravel.wordpress.com
+  content: Casa = house might be appropriate for digital renovation and digital residents
+    :-)
+  date: '2015-01-13 19:17:20'
+  date_gmt: '2015-01-13 09:17:20'
+  id: '1170'
+  parent: '1169'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.32
+  author_url: https://djon.es/blog/
+  content: 'The house/renovator connection was something I''d thought of. Even thinking
+    of integrating it in someway into EDC3100 (i.e. teacher needs to create their
+    house/classroom, that means digital renovation, and maybe make mention of assemblages).  The
+    impression I get is that the renovation metaphor would resonate with a lot of
+    the students and may help get over some of the ICT-fear they have. The assemblage
+    notion might be a step too far. Certainly the full-on socio-material perspective
+    probably is, but a lighter coverage could be important to get them to think more
+    broadly about the task.
+
+
+    Will have to work out how best to use the renovation metaphor without having the
+    students get too stuck in thinking of the digital world through the lenses of
+    the physical.
+
+
+    Actually, have been wondering whether the four themes from the SITE paper might
+    be a useful framing lens for the EDC3100 students.  Explaining the rationale behind
+    individual blogs, feed readers etc and breaking them out of the "it has to be
+    all in my head" mindset.'
+  date: '2015-01-14 09:04:04'
+  date_gmt: '2015-01-13 23:04:04'
+  id: '1171'
+  parent: '1168'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: drpresident
+  author_email: dp@dpresident.net
+  author_ip: 81.30.237.5
+  author_url: http://journeywithtechnology.com
+  content: I'm very interested in your Social questions. Working in K-12 (K-5 at the
+    moment), the question of social conversations around teaching and learning regularly
+    come up. I've been intrigued by the TPACK model since I first encountered it a
+    few years ago. My curiosity is sparked as a learner myself, as well as in light
+    of my work with other teachers (as a technology coach). Although the context is
+    different, I look forward to learning more from you in this realm.
+  date: '2015-01-14 18:33:46'
+  date_gmt: '2015-01-14 08:33:46'
+  id: '1172'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.32
+  author_url: https://djon.es/blog/
+  content: 'I hope we can get to do some more work that''s interesting.  I''d certainly
+    be keen to hear comments, critiques and alternate suggestions from other folk.
+    I have to admit that I have thought that much of what we''re doing here is very
+    similar to the problems/requirements in schools. For this reason I''m hoping we
+    can do more of this in the hope of identify some potential ideas that might be
+    transferable, but also so we as teachers of pre-service teachers can model this
+    practice for future teachers.
+
+
+    The struggle I have is the point you made - the context is different. One of the
+    advantages we have in our context is that a vast majority of our teaching and
+    learning takes place in a digital space. I think it''s going to be much easier
+    to enable these social conversations about teaching in a digital space because
+    of the affordances of digital technologies.  Doing this in an environment where
+    most of the teaching and learning takes place in a physical space strikes me as
+    more difficult, though perhaps not impossible.
+
+
+    Of course, there is the much more difficult problem. Perhaps must summed up by
+    the saying "the price of democracy is participation". Social conversations about
+    teaching are only going be valuable if people participate. While good applications
+    of digital technology can perhaps better encourage and enable this, people still
+    have to participate/contribute.  This is the $64K question.'
+  date: '2015-01-16 10:54:28'
+  date_gmt: '2015-01-16 00:54:28'
+  id: '1173'
+  parent: '1172'
+  type: comment
+  user_id: '1'
+date: 2015-01-13 00:54:56
 next:
   text: '"Choosing a research publication outlet: Part II"'
   url: /blog/2015/01/14/choosing-a-research-publication-outlet-part-ii/
+pingbacks:
+- approved: '1'
+  author: A proposal for fixing what&#8217;s broken with ed tech support in some universities
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.31
+  author_url: https://davidtjones.wordpress.com/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
+  content: '[&#8230;] The &#8220;how to do&#8221; advice in the support area should
+    actually help you do it. i.e. rather than a sequence of steps describing what
+    you do, there&#8217;s actually a link that will take you back to actual system
+    and help you do it. Linked to the idea of Context Appropriate Scaffolding Assemblages
+    (CASA). [&#8230;]'
+  date: '2015-01-22 11:58:07'
+  date_gmt: '2015-01-22 01:58:07'
+  id: '1174'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '&#8220;Me as teacher&#8221; &#8211; the 2015 focus for NGL | The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.82.47
+  author_url: https://davidtjones.wordpress.com/2015/07/23/me-as-teacher-the-2015-focus-for-ngl/
+  content: '[&#8230;] a very network centered perspective on learning, my &#8220;role
+    as teacher&#8221; is to help make connections. Borrowing from the &#8220;distributed
+    view&#8221; the idea is that the world is complex, dynamic, [&#8230;]'
+  date: '2015-07-23 13:22:27'
+  date_gmt: '2015-07-23 03:22:27'
+  id: '1175'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: '&quot;Do it with&quot; teachers or students?'
   url: /blog/2015/01/12/do-it-with-teachers-or-students/
+template: blog-post.html
 title: This year it's all about the connections
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Peter
-      author_email: palbion@me.com
-      author_ip: 139.86.69.32
-      author_url: http://pamatravel.wordpress.com
-      content: There are some intriguing possibilities there. It should make for an interesting
-        year. I guess it has not escaped your notice that 'case' is Spanish for house.
-        Is that a nice match to your Spanish website at http://djon.es ?
-      date: '2015-01-13 15:39:25'
-      date_gmt: '2015-01-13 05:39:25'
-      id: '1168'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.32
-      author_url: https://djon.es/blog/
-      content: 'An interesting year indeed, if any of it gets actioned.
-    
-    
-        The Spanish connection is entirely coincidental.  The initial task was trying
-        to work assemblage, context-specific, and scaffolding into an acronym. CASA was
-        the first decent one. It''s a plus that it''s not used for something less appropriate.'
-      date: '2015-01-13 15:57:02'
-      date_gmt: '2015-01-13 05:57:02'
-      id: '1169'
-      parent: '1168'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Peter
-      author_email: palbion@me.com
-      author_ip: 101.162.25.252
-      author_url: http://pamatravel.wordpress.com
-      content: Casa = house might be appropriate for digital renovation and digital residents
-        :-)
-      date: '2015-01-13 19:17:20'
-      date_gmt: '2015-01-13 09:17:20'
-      id: '1170'
-      parent: '1169'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.32
-      author_url: https://djon.es/blog/
-      content: 'The house/renovator connection was something I''d thought of. Even thinking
-        of integrating it in someway into EDC3100 (i.e. teacher needs to create their
-        house/classroom, that means digital renovation, and maybe make mention of assemblages).  The
-        impression I get is that the renovation metaphor would resonate with a lot of
-        the students and may help get over some of the ICT-fear they have. The assemblage
-        notion might be a step too far. Certainly the full-on socio-material perspective
-        probably is, but a lighter coverage could be important to get them to think more
-        broadly about the task.
-    
-    
-        Will have to work out how best to use the renovation metaphor without having the
-        students get too stuck in thinking of the digital world through the lenses of
-        the physical.
-    
-    
-        Actually, have been wondering whether the four themes from the SITE paper might
-        be a useful framing lens for the EDC3100 students.  Explaining the rationale behind
-        individual blogs, feed readers etc and breaking them out of the "it has to be
-        all in my head" mindset.'
-      date: '2015-01-14 09:04:04'
-      date_gmt: '2015-01-13 23:04:04'
-      id: '1171'
-      parent: '1168'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: drpresident
-      author_email: dp@dpresident.net
-      author_ip: 81.30.237.5
-      author_url: http://journeywithtechnology.com
-      content: I'm very interested in your Social questions. Working in K-12 (K-5 at the
-        moment), the question of social conversations around teaching and learning regularly
-        come up. I've been intrigued by the TPACK model since I first encountered it a
-        few years ago. My curiosity is sparked as a learner myself, as well as in light
-        of my work with other teachers (as a technology coach). Although the context is
-        different, I look forward to learning more from you in this realm.
-      date: '2015-01-14 18:33:46'
-      date_gmt: '2015-01-14 08:33:46'
-      id: '1172'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.32
-      author_url: https://djon.es/blog/
-      content: 'I hope we can get to do some more work that''s interesting.  I''d certainly
-        be keen to hear comments, critiques and alternate suggestions from other folk.
-        I have to admit that I have thought that much of what we''re doing here is very
-        similar to the problems/requirements in schools. For this reason I''m hoping we
-        can do more of this in the hope of identify some potential ideas that might be
-        transferable, but also so we as teachers of pre-service teachers can model this
-        practice for future teachers.
-    
-    
-        The struggle I have is the point you made - the context is different. One of the
-        advantages we have in our context is that a vast majority of our teaching and
-        learning takes place in a digital space. I think it''s going to be much easier
-        to enable these social conversations about teaching in a digital space because
-        of the affordances of digital technologies.  Doing this in an environment where
-        most of the teaching and learning takes place in a physical space strikes me as
-        more difficult, though perhaps not impossible.
-    
-    
-        Of course, there is the much more difficult problem. Perhaps must summed up by
-        the saying "the price of democracy is participation". Social conversations about
-        teaching are only going be valuable if people participate. While good applications
-        of digital technology can perhaps better encourage and enable this, people still
-        have to participate/contribute.  This is the $64K question.'
-      date: '2015-01-16 10:54:28'
-      date_gmt: '2015-01-16 00:54:28'
-      id: '1173'
-      parent: '1172'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: A proposal for fixing what&#8217;s broken with ed tech support in some universities
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.31
-      author_url: https://davidtjones.wordpress.com/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
-      content: '[&#8230;] The &#8220;how to do&#8221; advice in the support area should
-        actually help you do it. i.e. rather than a sequence of steps describing what
-        you do, there&#8217;s actually a link that will take you back to actual system
-        and help you do it. Linked to the idea of Context Appropriate Scaffolding Assemblages
-        (CASA). [&#8230;]'
-      date: '2015-01-22 11:58:07'
-      date_gmt: '2015-01-22 01:58:07'
-      id: '1174'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '&#8220;Me as teacher&#8221; &#8211; the 2015 focus for NGL | The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.82.47
-      author_url: https://davidtjones.wordpress.com/2015/07/23/me-as-teacher-the-2015-focus-for-ngl/
-      content: '[&#8230;] a very network centered perspective on learning, my &#8220;role
-        as teacher&#8221; is to help make connections. Borrowing from the &#8220;distributed
-        view&#8221; the idea is that the world is complex, dynamic, [&#8230;]'
-      date: '2015-07-23 13:22:27'
-      date_gmt: '2015-07-23 03:22:27'
-      id: '1175'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an attempt to give some structure to what I might do this year in terms of teaching and research. It's in the same spirit as a [similar post](http://timklapdor.wordpress.com/2015/01/07/coming-soon-a-contribution-not-a-prediction-for-2015/) by Tim Klapdor. A summary of my possible contribution to 2015, rather than a set of predictions for 2015. More in line with [Alan Kay's quote](http://www.smalltalk.org/alankay.html)
 
@@ -318,8 +316,8 @@ Some questions include
 
 ### A FedWiki textbook?
 
-[![Beaulieu National Motor Museum 18-09-201 by Karen Roe, on Flickr](images/8515798857_5460573c25_m.jpg "Beaulieu National Motor Museum 18-09-201 by Karen Roe, on Flickr")](https://www.flickr.com/photos/karen_roe/8515798857/)  
-[![Creative Commons Creative Commons Attribution 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/karen_roe/)[Karen Roe](https://www.flickr.com/people/karen_roe/) [](http://www.imagecodr.org/)
+[![Beaulieu National Motor Museum 18-09-201 by Karen Roe, on Flickr](https://djon.es/assets/blog/2015/01/13/this-year-its-all-about-the-connections/images/8515798857_5460573c25_m.jpg "Beaulieu National Motor Museum 18-09-201 by Karen Roe, on Flickr")](https://www.flickr.com/photos/karen_roe/8515798857/)  
+[![Creative Commons Creative Commons Attribution 2.0 Generic License](https://djon.es/assets/blog/2015/01/13/this-year-its-all-about-the-connections/images/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/karen_roe/)[Karen Roe](https://www.flickr.com/people/karen_roe/) [](http://www.imagecodr.org/)
 
 This is a random though that's sprung from an unexpected source. Have just received an email from the institutional leaders of learning and teaching at my institution advising that two new internal grant opportunities. One of those is an "Open textbook initiative" intended "to develop an alternative to the traditional textbook".
 

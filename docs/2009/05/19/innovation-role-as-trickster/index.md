@@ -1,14 +1,14 @@
----
-date: 2009-05-19 14:33:55+10:00
+﻿---
+date: 2009-05-19 04:33:55
 next:
   text: Another BAM problem - awarding mark of 0
   url: /blog/2009/05/20/another-bam-problem-awarding-mark-of-0/
 previous:
   text: Diagnosing and recording a problem with BAM
   url: /blog/2009/05/19/diagnosing-and-recording-a-problem-with-bam/
+template: blog-post.html
 title: Innovation role as Trickster
 type: post
-template: blog-post.html
 ---
 Happened to watch [this talk](http://www.ted.com/index.php/talks/emily_levine_s_theory_of_everything.html) by Emily Levine at a 2002 [TED conference](http://www.ted.com/) a funny talk with some interesting insights and perspectives that I find potentially directly connected to my new role. What follows is some reflection on these.
 

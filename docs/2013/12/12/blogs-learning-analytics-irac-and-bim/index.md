@@ -1,20 +1,20 @@
----
+﻿---
 categories:
 - bim2
 - indicators
 - irac
 - learninganalytics-elearning
 - moodle
-date: 2013-12-12 09:50:18+10:00
+date: 2013-12-11 23:50:18
 next:
   text: The adoption and acceptance of learning analytics
   url: /blog/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/
 previous:
   text: '#moodle, blogs, Moodle blogs and #bim'
   url: /blog/2013/12/10/moodle-blogs-moodle-blogs-and-bim/
+template: blog-post.html
 title: Blogs, learning analytics, IRAC and BIM
 type: post
-template: blog-post.html
 ---
 In 2014 I am hoping to make some changes to [BIM](/blog/research/bam-blog-aggregation-management/) that will enhance [the course I'll be teaching](http://www.usq.edu.au/course/synopses/2014/EDC3100.html). The hope is to leverage various learning analytics to enhance student learning. The following is an attempt to use [the IRAC framework](/blog/2013/12/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics-ascilite/) to think about what might be done. Essentially a bit of brainstorming about possible future development.
 
@@ -204,7 +204,7 @@ The actual definition of affordances in the IRAC framwork - like the IRAC framew
 - Help staff to intervene and track interventions with all students.
 - Support staff in creating auto-marking approaches.
 
-[![EduFeedr Progress](images/11318749853_7c65beb03f_n.jpg)](http://www.flickr.com/photos/david_jones/11318749853 "EduFeedr Progress by David Jones, on Flickr")
+[![EduFeedr Progress](https://djon.es/assets/blog/2013/12/12/blogs-learning-analytics-irac-and-bim/images/11318749853_7c65beb03f_n.jpg)](http://www.flickr.com/photos/david_jones/11318749853 "EduFeedr Progress by David Jones, on Flickr")
 
 ## Measuring impact and improvement
 

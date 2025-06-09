@@ -1,70 +1,67 @@
----
+﻿---
 categories:
 - c2d2
 - curriculumdesign
 - elearning
 - reflectivealignment
-date: 2010-02-27 06:37:56+10:00
+comments:
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: null
+  content: 'David
+
+
+    Couldn''t agree more.
+
+
+    I''d also add another problem (#3) - instructional design, as a separate discipline
+    from teaching means that teachers never learn the skills of designing good experiences,
+    thus reducing the effectiveness of their work.
+
+
+    This idea was developed a long time ago by Ted Nunan - http://books.google.com.au/books?id=l_4NAAAAQAAJ'
+  date: '2010-03-02 08:56:16'
+  date_gmt: '2010-03-01 22:56:16'
+  id: '2948'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'G''day Ian,
+
+
+    Thanks for the comment and the pointer to the book.  This really hits a sweet
+    spot for me and this will be a useful resource.  It gels with some other literature
+    I came across on the weekend and I''m hoping to use it to inform some future work.
+
+
+    Thanks again.
+
+
+    David.'
+  date: '2010-03-02 09:03:37'
+  date_gmt: '2010-03-01 23:03:37'
+  id: '2949'
+  parent: '2948'
+  type: comment
+  user_id: '1'
+date: 2010-02-26 20:37:56
 next:
   text: Implications of cognitive theory for instructional design
   url: /blog/2010/02/27/implications-of-cognitive-theory-for-instructional-design/
+pingbacks: []
 previous:
   text: Fixes to BIM
   url: /blog/2010/02/25/fixes-to-bim/
+template: blog-post.html
 title: Reservations about instructional design
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: null
-      content: 'David
-    
-    
-        Couldn''t agree more.
-    
-    
-        I''d also add another problem (#3) - instructional design, as a separate discipline
-        from teaching means that teachers never learn the skills of designing good experiences,
-        thus reducing the effectiveness of their work.
-    
-    
-        This idea was developed a long time ago by Ted Nunan - http://books.google.com.au/books?id=l_4NAAAAQAAJ'
-      date: '2010-03-02 08:56:16'
-      date_gmt: '2010-03-01 22:56:16'
-      id: '2948'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'G''day Ian,
-    
-    
-        Thanks for the comment and the pointer to the book.  This really hits a sweet
-        spot for me and this will be a useful resource.  It gels with some other literature
-        I came across on the weekend and I''m hoping to use it to inform some future work.
-    
-    
-        Thanks again.
-    
-    
-        David.'
-      date: '2010-03-02 09:03:37'
-      date_gmt: '2010-03-01 23:03:37'
-      id: '2949'
-      parent: '2948'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The following is at first a rambling diatribe outlining some of my reservations with instructional design as it is practiced. Then it is a summary/reflection on Winn (1990) - "Some implications of cognitive theory for instructional design". The abstract for Winn (199)
 

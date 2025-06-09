@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - photography
-date: 2008-11-21 09:08:32+10:00
+comments: []
+date: 2008-11-20 23:08:32
 next:
   text: Kant - separation of reason and experience
   url: /blog/2008/11/21/kant-separation-of-reason-and-experience/
+pingbacks:
+- approved: '1'
+  author: Selecting a tripod &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.184
+  author_url: https://djon.es/blog/2008/11/29/selecting-a-tripod/
+  content: '[...] a&nbsp;tripod   It&#8217;s been a week or so since I purchased the
+    new camera. Last weekend I had to buy Aperture 2 for my Mac so I could easily
+    pull the raw photos off the [...]'
+  date: '2008-11-29 16:16:57'
+  date_gmt: '2008-11-29 06:16:57'
+  id: '1899'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: More on the expert designer - efficiency and effectiveness
   url: /blog/2008/11/21/more-on-the-expert-designer-efficiency-and-effectiveness/
+template: blog-post.html
 title: Starting a new journey and hobby - photography
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Selecting a tripod &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.184
-      author_url: https://djon.es/blog/2008/11/29/selecting-a-tripod/
-      content: '[...] a&nbsp;tripod   It&#8217;s been a week or so since I purchased the
-        new camera. Last weekend I had to buy Aperture 2 for my Mac so I could easily
-        pull the raw photos off the [...]'
-      date: '2008-11-29 16:16:57'
-      date_gmt: '2008-11-29 06:16:57'
-      id: '1899'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Bit the bullet yesterday and upgraded to a DSLR. The Olympus C-770 we've had for almost four years seems a bit the worse for wear after [Zach and Zeke](http://www.flickr.com/photos/david_jones/3030788393/) dropped it while battling for control. Plus there's the size issues, 4MP is not cutting it anymore.
 
@@ -39,7 +36,7 @@ The C-770 has some nostalgia value. It was purchased the day [Zach](http://www.f
 
 ### The replacement
 
-[![The new camera](images/3046144733_5086f1558a_m.jpg)](http://www.flickr.com/photos/david_jones/3046144733/ "The new camera by David T Jones, on Flickr")
+[![The new camera](https://djon.es/assets/blog/2008/11/21/starting-a-new-journey-and-hobby-photography/images/3046144733_5086f1558a_m.jpg)](http://www.flickr.com/photos/david_jones/3046144733/ "The new camera by David T Jones, on Flickr")
 
 
 So a few tens of thousands of shots later the C-770 is being replaced by a Sony A300 DSLR. The C-770 will be passed onto the boys as a toy.

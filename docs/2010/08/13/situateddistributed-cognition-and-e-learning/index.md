@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-08-13 10:32:19+10:00
+date: 2010-08-13 00:32:19
 next:
   text: '"PhD Update #27 - New context"'
   url: /blog/2010/08/13/phd-update-27-new-context/
@@ -14,9 +14,9 @@ tags:
 - magazine
 - rethinking
 - solutions
+template: blog-post.html
 title: Situated/distributed cognition and e-learning
 type: post
-template: blog-post.html
 ---
 This quote summarises very nicely what I think will become a major research interest of mine in the future. i.e. how can we modify the environment - particularly, but not primarily, through information technology - within universities to encourage and enable improvements in teaching and learning?  
   

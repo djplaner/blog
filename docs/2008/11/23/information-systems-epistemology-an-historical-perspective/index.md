@@ -1,71 +1,69 @@
----
+﻿---
 categories:
 - chapter-3
 - design-theory
 - thesis
-date: 2008-11-23 14:16:56+10:00
+comments:
+- approved: '1'
+  author: jocene
+  author_email: j.vallack@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: null
+  content: 'What an exciting post. I look forward to having a moment to blog on this.
+    Trouble is I''ll have to think for a couple of days in order to prepare the blog!
+
+    Schutz worries me. Being a sociologist, he sees everything in ontological rather
+    than epistemological terms. He knows only through the life-world (as I recall.
+    And yes, I am being subversive).
+
+    ''Apodictic'' knowledge, in the Husserlian sense, connects with Plato''s ideal
+    forms - "archetypes'' (Jung) if you like. Aristotle wasn''t quite as bright as
+    Plato. I''m not certain where the Sophists fit in here, but I am sure they have
+    their place.
+
+    Careful David, you''ll become obsessed and metaphysical. ''Better stick with Schutz
+    after all.
+
+    This is really interesting.
+
+    I don''t think you could refer to Decartes as a major source of positivism could
+    you? "I drink therefore I am?" Well I hadn''t thought of the Cartesian dilemma
+    like that before, but...
+
+    and the first photo - beautiful. Good to see the new perspective through the lens
+    of a fine piece of technology.
+
+    I think you should buy your camera bag (the good one) in Paris. Paris could represent
+    your new perspective through your new lens - the eighth P (for Paris)!'
+  date: '2008-11-25 17:54:05'
+  date_gmt: '2008-11-25 07:54:05'
+  id: '1886'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-11-23 04:16:56
 next:
   text: An experiment in blog-based discussions
   url: /blog/2008/11/26/an-experiment-in-blog-based-discussions/
+pingbacks:
+- approved: '1'
+  author: "20160309RES701 \u2013 BLOG#2:TRUTH | nmit chris d&#039;E"
+  author_email: null
+  author_ip: 192.0.112.235
+  author_url: https://nmitchris.wordpress.com/2016/03/08/20160309res701-blog1research/
+  content: '[&#8230;] Historical perspective, [&#8230;]'
+  date: '2016-03-13 12:15:11'
+  date_gmt: '2016-03-13 02:15:11'
+  id: '1887'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: First photo
   url: /blog/2008/11/21/first-photo/
+template: blog-post.html
 title: '"Information Systems Epistemology: An Historical Perspective"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: jocene
-      author_email: j.vallack@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: null
-      content: 'What an exciting post. I look forward to having a moment to blog on this.
-        Trouble is I''ll have to think for a couple of days in order to prepare the blog!
-    
-        Schutz worries me. Being a sociologist, he sees everything in ontological rather
-        than epistemological terms. He knows only through the life-world (as I recall.
-        And yes, I am being subversive).
-    
-        ''Apodictic'' knowledge, in the Husserlian sense, connects with Plato''s ideal
-        forms - "archetypes'' (Jung) if you like. Aristotle wasn''t quite as bright as
-        Plato. I''m not certain where the Sophists fit in here, but I am sure they have
-        their place.
-    
-        Careful David, you''ll become obsessed and metaphysical. ''Better stick with Schutz
-        after all.
-    
-        This is really interesting.
-    
-        I don''t think you could refer to Decartes as a major source of positivism could
-        you? "I drink therefore I am?" Well I hadn''t thought of the Cartesian dilemma
-        like that before, but...
-    
-        and the first photo - beautiful. Good to see the new perspective through the lens
-        of a fine piece of technology.
-    
-        I think you should buy your camera bag (the good one) in Paris. Paris could represent
-        your new perspective through your new lens - the eighth P (for Paris)!'
-      date: '2008-11-25 17:54:05'
-      date_gmt: '2008-11-25 07:54:05'
-      id: '1886'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: "20160309RES701 \u2013 BLOG#2:TRUTH | nmit chris d&#039;E"
-      author_email: null
-      author_ip: 192.0.112.235
-      author_url: https://nmitchris.wordpress.com/2016/03/08/20160309res701-blog1research/
-      content: '[&#8230;] Historical perspective, [&#8230;]'
-      date: '2016-03-13 12:15:11'
-      date_gmt: '2016-03-13 02:15:11'
-      id: '1887'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Information Systems Epistemology: An Historical Perspective
 
@@ -177,7 +175,7 @@ Positivism has had success in natural sciences, somewhat more checkered in socia
 
 Author provides some summaries of the historical development of epistemology and in particular draws on one provided by Ivanov (1984) which is shown in the following image.
 
-[![Relevant schools of thought for information science (Ivanov, 1984)](images/3042218043_bf49cabf39_m.jpg)](http://www.flickr.com/photos/david_jones/3042218043/)
+[![Relevant schools of thought for information science (Ivanov, 1984)](https://djon.es/assets/blog/2008/11/23/information-systems-epistemology-an-historical-perspective/images/3042218043_bf49cabf39_m.jpg)](http://www.flickr.com/photos/david_jones/3042218043/)
 
 ### History of IS epistemology
 

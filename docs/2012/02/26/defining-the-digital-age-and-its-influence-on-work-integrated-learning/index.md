@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - research
-date: 2012-02-26 23:16:31+10:00
+comments: []
+date: 2012-02-26 13:16:31
 next:
   text: '"The clash of corporate IT and open source learning management system: a
     nascent research idea"'
   url: /blog/2012/02/27/the-clash-of-corporate-it-and-open-source-learning-management-system-a-nascent-research-idea/
+pingbacks:
+- approved: '1'
+  author: Online resources | digital era
+  author_email: null
+  author_ip: 66.135.48.142
+  author_url: https://digitalerasite.wordpress.com/2015/11/13/online-resources/
+  content: '[&#8230;] https://davidtjones.wordpress.com/2012/02/26/defining-the-digital-age-and-its-influence-on-work-inte&#8230;
+    [&#8230;]'
+  date: '2015-11-14 07:46:21'
+  date_gmt: '2015-11-13 21:46:21'
+  id: '237'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Does school ruin learning?
   url: /blog/2012/02/25/does-school-ruin-learning/
+template: blog-post.html
 title: Defining the digital age and its influence on work integrated learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Online resources | digital era
-      author_email: null
-      author_ip: 66.135.48.142
-      author_url: https://digitalerasite.wordpress.com/2015/11/13/online-resources/
-      content: '[&#8230;] https://davidtjones.wordpress.com/2012/02/26/defining-the-digital-age-and-its-influence-on-work-inte&#8230;
-        [&#8230;]'
-      date: '2015-11-14 07:46:21'
-      date_gmt: '2015-11-13 21:46:21'
-      id: '237'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 If you hadn't realised by now, this blog is often used as a notebook to record ideas in development. This is by no means complete, but the record is there.
 

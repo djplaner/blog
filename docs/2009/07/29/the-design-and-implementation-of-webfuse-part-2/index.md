@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-4
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2009-07-29 16:52:02+10:00
+date: 2009-07-29 06:52:02
 next:
   text: The design and implementation of Webfuse - Part 3
   url: /blog/2009/07/29/the-design-and-implementation-of-webfuse-part-3/
 previous:
   text: The design and implementation of Webfuse - Part 1
   url: /blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/
+template: blog-post.html
 title: The design and implementation of Webfuse - Part 2
 type: post
-template: blog-post.html
 ---
 This post continues the description of the design and implementation of Webfuse started with [this post](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/).
 

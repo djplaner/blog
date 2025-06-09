@@ -1,87 +1,84 @@
----
+﻿---
 categories:
 - edc3100
 - teaching
-date: 2012-01-23 12:02:50+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 122.111.171.161
+  author_url: http://cj13.wordpress.com/
+  content: "You know my views on much of this but for what it is worth\u2026 v little\
+    \ \u263A\n\nThe real problem is how to prepare teachers for a system that has\
+    \ been able to make the Internet look and sound like the tar baby? School systems\
+    \ have never \u201Cgot it\u201D. Many teachers do understand that this \u201C\
+    beast\u201D defies the kind of silly \u201Cwe know what\u2019s best logic\u201D\
+    \ that has characterised schooling for hundreds of years but, despite their best\
+    \ efforts, they have always been done over by system-based net nazis. This is\
+    \ not to say that good stuff is not possible at the edges but they have to learn\
+    \ who the enemy is otherwise it will end in tears!\n\nMost of the stuff written\
+    \ about this that you cite is BEB (bovine excretory byproduct), i.e. from the\
+    \ camp that says we know all this; we know what is going on and why and we know\
+    \ what to do next!! Pass a good dose of your favourite mind altering substance\
+    \ if you believe that. The Ed tech mob have been a key reason schools have been\
+    \ spinning wheels for thirty years.  They need to be innoculated so they can counter\
+    \ the dumb stuff these folk preach. There are one or two smart ed tech folk but\
+    \ they are the exception.\n\nOK. What would I do? Begin with where they are. They\
+    \ will come with an interesting patchwork of skills, knowledges, half knowledges\
+    \ and silly ideas about all of this. So yes it is about skilling them up but not\
+    \ in a one size fits all model. Importantly they need to understand that no one\
+    \ understands it all but people get by by knowing other folk who do and helping\
+    \ one another.\n\nI\u2019d be tempted to get them to do some mapping of the Internet\
+    \ early on but, as they go, to keep notes on how they tackled the task. Get them\
+    \ to divide up the task so that the skills already in the group are able to be\
+    \ deployed. (Maybe a warm up exercise to get them used to this very different\
+    \ way of working)\n\nPart of this has to be some sense of the trends, i.e. what\
+    \ Moores law actually translates to in terms of computer oomph and how this will\
+    \ continue to disrupt jobs and ways of doing knowledge work, i.e. what they are\
+    \ doing in your course.  There is plenty of stuff available but some sense of\
+    \ things like \u201Cbig data\u201D, the 2nd economy, \u201Csmart\u201D devices/bodies\
+    \ etc. An interesting read might be: Weinberger, D. (2011). Too big to know :\
+    \ rethinking knowledge now that the facts aren't the facts, experts are everywhere,\
+    \ and the smartest person in the room is the room. New York: Basic Books.\n\n\
+    A good guy here is Mike Wesch (From Knowledgable to Knowledge-able: Learning in\
+    \ New Media Environments). He has done some neat stuff with his students. Lots\
+    \ of his stuff online.\n\nAnd maybe once they get into the swing of things they\
+    \ might debate/decide what would be the most useful thing they could do given\
+    \ the dumb, over-hyped environment in which they will soon work. You might want\
+    \ to scaffold how to get to that point, maybe have a couple of suggestions but\
+    \ it would be excellent to come from them, i.e. they are the poor folk who will\
+    \ have to deal with this weird space called computers in schools.\n\nI\u2019m\
+    \ doing an abs for a possible book chapt \u2013 here is an early draft of the\
+    \ begin bit:\n\nWhen I grow up I want to be a cephalopod or the unbearable sameness\
+    \ of instrumentum docere\n\nUnlike humans, cephalopods don\u2019t have blind spots,\
+    \ that is they don\u2019t have an absence of photoreceptor cells in the retina.\
+    \ Humans usually don\u2019t notice their blind spot because the other eye helps\
+    \ the brain fill in the missing information. In this chapter, I develop the notion\
+    \ of a blind spot to consider the remarkable consistency of approach taken by\
+    \ those interested in the use of computing and related technologies to support\
+    \ teaching and learning {Selwyn, 2010 #7223}. I examine the \u2018blindness\u2019\
+    \ of educational technologists in terms of the social/technical binary, the persistence\
+    \ of computing and related technologies as an educational good, and the delegation\
+    \ of work to machines. In short, dimensions and aspects of using machines in educational\
+    \ practices that go beyond the agenda that has been dominant for thirty or more\
+    \ years."
+  date: '2012-01-23 13:09:05'
+  date_gmt: '2012-01-23 03:09:05'
+  id: '185'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-01-23 02:02:50
 next:
   text: Understanding trends around ICTs
   url: /blog/2012/01/26/understanding-trends-around-icts/
+pingbacks: []
 previous:
   text: Initial thoughts on an ICT and Pedagogy course
   url: /blog/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/
+template: blog-post.html
 title: Reflections on understanding context
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 122.111.171.161
-      author_url: http://cj13.wordpress.com/
-      content: "You know my views on much of this but for what it is worth\u2026 v little\
-        \ \u263A\n\nThe real problem is how to prepare teachers for a system that has\
-        \ been able to make the Internet look and sound like the tar baby? School systems\
-        \ have never \u201Cgot it\u201D. Many teachers do understand that this \u201C\
-        beast\u201D defies the kind of silly \u201Cwe know what\u2019s best logic\u201D\
-        \ that has characterised schooling for hundreds of years but, despite their best\
-        \ efforts, they have always been done over by system-based net nazis. This is\
-        \ not to say that good stuff is not possible at the edges but they have to learn\
-        \ who the enemy is otherwise it will end in tears!\n\nMost of the stuff written\
-        \ about this that you cite is BEB (bovine excretory byproduct), i.e. from the\
-        \ camp that says we know all this; we know what is going on and why and we know\
-        \ what to do next!! Pass a good dose of your favourite mind altering substance\
-        \ if you believe that. The Ed tech mob have been a key reason schools have been\
-        \ spinning wheels for thirty years.  They need to be innoculated so they can counter\
-        \ the dumb stuff these folk preach. There are one or two smart ed tech folk but\
-        \ they are the exception.\n\nOK. What would I do? Begin with where they are. They\
-        \ will come with an interesting patchwork of skills, knowledges, half knowledges\
-        \ and silly ideas about all of this. So yes it is about skilling them up but not\
-        \ in a one size fits all model. Importantly they need to understand that no one\
-        \ understands it all but people get by by knowing other folk who do and helping\
-        \ one another.\n\nI\u2019d be tempted to get them to do some mapping of the Internet\
-        \ early on but, as they go, to keep notes on how they tackled the task. Get them\
-        \ to divide up the task so that the skills already in the group are able to be\
-        \ deployed. (Maybe a warm up exercise to get them used to this very different\
-        \ way of working)\n\nPart of this has to be some sense of the trends, i.e. what\
-        \ Moores law actually translates to in terms of computer oomph and how this will\
-        \ continue to disrupt jobs and ways of doing knowledge work, i.e. what they are\
-        \ doing in your course.  There is plenty of stuff available but some sense of\
-        \ things like \u201Cbig data\u201D, the 2nd economy, \u201Csmart\u201D devices/bodies\
-        \ etc. An interesting read might be: Weinberger, D. (2011). Too big to know :\
-        \ rethinking knowledge now that the facts aren't the facts, experts are everywhere,\
-        \ and the smartest person in the room is the room. New York: Basic Books.\n\n\
-        A good guy here is Mike Wesch (From Knowledgable to Knowledge-able: Learning in\
-        \ New Media Environments). He has done some neat stuff with his students. Lots\
-        \ of his stuff online.\n\nAnd maybe once they get into the swing of things they\
-        \ might debate/decide what would be the most useful thing they could do given\
-        \ the dumb, over-hyped environment in which they will soon work. You might want\
-        \ to scaffold how to get to that point, maybe have a couple of suggestions but\
-        \ it would be excellent to come from them, i.e. they are the poor folk who will\
-        \ have to deal with this weird space called computers in schools.\n\nI\u2019m\
-        \ doing an abs for a possible book chapt \u2013 here is an early draft of the\
-        \ begin bit:\n\nWhen I grow up I want to be a cephalopod or the unbearable sameness\
-        \ of instrumentum docere\n\nUnlike humans, cephalopods don\u2019t have blind spots,\
-        \ that is they don\u2019t have an absence of photoreceptor cells in the retina.\
-        \ Humans usually don\u2019t notice their blind spot because the other eye helps\
-        \ the brain fill in the missing information. In this chapter, I develop the notion\
-        \ of a blind spot to consider the remarkable consistency of approach taken by\
-        \ those interested in the use of computing and related technologies to support\
-        \ teaching and learning {Selwyn, 2010 #7223}. I examine the \u2018blindness\u2019\
-        \ of educational technologists in terms of the social/technical binary, the persistence\
-        \ of computing and related technologies as an educational good, and the delegation\
-        \ of work to machines. In short, dimensions and aspects of using machines in educational\
-        \ practices that go beyond the agenda that has been dominant for thirty or more\
-        \ years."
-      date: '2012-01-23 13:09:05'
-      date_gmt: '2012-01-23 03:09:05'
-      id: '185'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 After a couple of weeks off-line, I'm slowly catching up on making public some writing. This post is a follow up to [a previous post](/blog/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/) with some initial thoughts on the ICT and Pedagogy course I'm teaching this term. There were some great comments on that post which I need to think and write about, but later. This post is a collection of some impressions and reactions to the first chapter of the set text for the course.
 

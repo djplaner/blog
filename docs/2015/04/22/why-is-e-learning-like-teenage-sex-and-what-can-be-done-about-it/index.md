@@ -1,67 +1,64 @@
----
+﻿---
 categories:
 - thesis
-date: 2015-04-22 09:13:18+10:00
+comments: []
+date: 2015-04-21 23:13:18
 next:
   text: What does this say about learning analytics?
   url: /blog/2015/04/22/what-does-this-say-about-learning-analytics/
+pingbacks:
+- approved: '1'
+  author: Thoughts on e-learning the new teenage sex. | robyngreenwood
+  author_email: null
+  author_ip: 192.0.100.37
+  author_url: https://robyngreenwood.wordpress.com/2015/04/23/thoughts-on-e-learning-the-new-teenage-sex/
+  content: '[&#8230;] David&#8217;s blog, it left me thinking. At first I couldn&#8217;t
+    see the link between e-learning and teenage sex. [&#8230;]'
+  date: '2015-04-23 20:17:16'
+  date_gmt: '2015-04-23 10:17:16'
+  id: '1271'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Reading &#8211; Embracing Big Data in Complex Educational Systems: The
+    Learning Analytics Imperative and the Policy Challenge | The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 192.0.83.69
+  author_url: https://davidtjones.wordpress.com/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
+  content: '[&#8230;] I can see very strong connections with the arguments made in
+    this paper between institutions and learning analytics and the reasons why I think
+    e-learning is a bit like teenage sex. [&#8230;]'
+  date: '2015-06-14 18:05:18'
+  date_gmt: '2015-06-14 08:05:18'
+  id: '1272'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Understanding and using the idea of &#8220;network learning&#8221; &#8211;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.118.102
+  author_url: https://davidtjones.wordpress.com/2016/08/17/understanding-and-using-the-idea-of-network-learning/
+  content: '[&#8230;] given a presentation that argues that almost all e-learning
+    is like teenage sex. Not because I think that digital technologies cannot have
+    any positive effect. But because I think [&#8230;]'
+  date: '2016-08-17 15:37:35'
+  date_gmt: '2016-08-17 05:37:35'
+  id: '1273'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Where does the LMS sit in the reusability paradox
   url: /blog/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
 tags:
 - bad
+template: blog-post.html
 title: Why is e-learning like teenage sex and what can be done about it?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Thoughts on e-learning the new teenage sex. | robyngreenwood
-      author_email: null
-      author_ip: 192.0.100.37
-      author_url: https://robyngreenwood.wordpress.com/2015/04/23/thoughts-on-e-learning-the-new-teenage-sex/
-      content: '[&#8230;] David&#8217;s blog, it left me thinking. At first I couldn&#8217;t
-        see the link between e-learning and teenage sex. [&#8230;]'
-      date: '2015-04-23 20:17:16'
-      date_gmt: '2015-04-23 10:17:16'
-      id: '1271'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Reading &#8211; Embracing Big Data in Complex Educational Systems: The
-        Learning Analytics Imperative and the Policy Challenge | The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 192.0.83.69
-      author_url: https://davidtjones.wordpress.com/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
-      content: '[&#8230;] I can see very strong connections with the arguments made in
-        this paper between institutions and learning analytics and the reasons why I think
-        e-learning is a bit like teenage sex. [&#8230;]'
-      date: '2015-06-14 18:05:18'
-      date_gmt: '2015-06-14 08:05:18'
-      id: '1272'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Understanding and using the idea of &#8220;network learning&#8221; &#8211;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.118.102
-      author_url: https://davidtjones.wordpress.com/2016/08/17/understanding-and-using-the-idea-of-network-learning/
-      content: '[&#8230;] given a presentation that argues that almost all e-learning
-        is like teenage sex. Not because I think that digital technologies cannot have
-        any positive effect. But because I think [&#8230;]'
-      date: '2016-08-17 15:37:35'
-      date_gmt: '2016-08-17 05:37:35'
-      id: '1273'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 There are two versions of this talk.
 
@@ -80,7 +77,7 @@ Slides not available
 
 ## Abstract
 
-[![Is elearning like teenage sex? by David T Jones, on Flickr](images/9861514544_01b3c7fbca_m.jpg "Is elearning like teenage sex? by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/9861514544/) [![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/david_jones/)[David T Jones](https://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+[![Is elearning like teenage sex? by David T Jones, on Flickr](https://djon.es/assets/blog/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/images/9861514544_01b3c7fbca_m.jpg "Is elearning like teenage sex? by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/9861514544/) [![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/david_jones/)[David T Jones](https://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
 
 The implementation of e-learning - defined by the OECD ([2005](http://www.oecd-ilibrary.org/education/e-learning-in-tertiary-education_9789264009219-en)) as the use of information and communications technology (ICT) to support and enhance learning and teaching - in universities has a problem. A problem perhaps best summed up by Professor Mark Brown ([Laxon, 2013](http://bit.ly/165UHP5))
 
@@ -90,7 +87,7 @@ E-learning's teenage sex problem is apparent at USQ with the perception that som
 
 This is not a new problem. In a paper over 20 years ago Geoghagen ([1994](http://eprints.soton.ac.uk/260144/)) sought to explain why a three decade long "vision of pedagogical utopia" (n.p.) promised by instructional technologies had failed to eventuate. Given that "Australian universities have made very large investments in corporate educational technologies" ([Holt et al., 2013](http://www.ascilite.org.au/ajet/submission/index.php/AJET/article/view/84), p. 388) it would appear increasingly important to understand and address e-learning's on-going teenage sex problem.
 
-[![You want digitally fluent faculty? by David T Jones, on Flickr](images/15025763858_58eea9f20c_m.jpg "You want digitally fluent faculty? by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/15025763858/) [![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/david_jones/)[David T Jones](https://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+[![You want digitally fluent faculty? by David T Jones, on Flickr](https://djon.es/assets/blog/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/images/15025763858_58eea9f20c_m.jpg "You want digitally fluent faculty? by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/15025763858/) [![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/david_jones/)[David T Jones](https://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
 
 This session will discuss and demonstrate both practical and theoretical perspectives of and solutions to the problem. The practical approaches and tools to be demonstrated have been applied successfully within USQ by individual and small groups of academics. Similar approaches and tools have also been used at CQUniversity to develop a strategic, learning analytics-enabled, student retention project.
 

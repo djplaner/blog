@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - cognitiveedge
-date: 2009-10-21 13:50:51+10:00
+date: 2009-10-21 03:50:51
 next:
   text: Participation, impact, collecting data and connecting people
   url: /blog/2009/10/24/participation-impact-collecting-data-and-connecting-people/
 previous:
   text: Choosing a research publication outlet
   url: /blog/2009/10/19/choosing-a-publication-outlet/
+template: blog-post.html
 title: Alternate ways to get the real story in organisations
 type: post
-template: blog-post.html
 ---
 I've just been to a meeting with a strangely optimistic group of people who are trying to gather "real stories" about what is going on within an organisation through focus groups. They are attempting to present this information to senior management in an attempt to get them to understand what staff are experiencing, to indicate that something different might need to be done.
 

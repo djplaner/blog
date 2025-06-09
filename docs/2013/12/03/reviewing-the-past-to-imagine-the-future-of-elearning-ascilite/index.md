@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - ascilite
-date: 2013-12-03 14:15:36+10:00
+date: 2013-12-03 04:15:36
 next:
   text: '"The IRAC framework: Locating the performance zone for learning analytics
     #ascilite"'
@@ -9,9 +9,9 @@ next:
 previous:
   text: 'Enhancing learning analytics by understanding the needs of teachers #ascilite'
   url: /blog/2013/12/02/enhancing-learning-analytics-by-understanding-the-needs-of-teachers-ascilite/
+template: blog-post.html
 title: '"Reviewing the past to imagine the future of elearning #ascilite"'
 type: post
-template: blog-post.html
 ---
 [Cathy Gunn](http://www.clear.auckland.ac.nz/index.php?p=staff_page&staff=cgunn), Reviewing the past to imagine the future of elearning
 

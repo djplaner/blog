@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - design-theory
-date: 2008-07-29 09:39:42+10:00
+date: 2008-07-28 23:39:42
 next:
   text: The dimensions of design research
   url: /blog/2008/08/06/the-dimensions-of-design-research/
 previous:
   text: The Ps Framework - using it to think about PLE implementation at CQU
   url: /blog/2008/07/26/the-ps-framework-using-it-to-think-about-ple-implementation-at-cqu/
+template: blog-post.html
 title: How to lead your life and fulfill your childhood dreams
 type: post
-template: blog-post.html
 ---
 I'm late to the last lecture meme. If you don't know what I'm talking about, take some time (76 minutes) out of your life and watch [Randy Pausch's Last Lecture](http://www.cmu.edu/randyslecture/) on achieving your childhood dreams.
 

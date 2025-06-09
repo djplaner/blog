@@ -1,8 +1,8 @@
----
-date: 2009-01-02 02:31:07+10:00
+﻿---
+date: 2009-01-01 16:31:07
+template: blog-post.html
 title: '"CQ-PAN: Putting schools into cyberspace"'
 type: page
-template: blog-post.html
 ---
 Brett Carter, Jason Lockwood, Sean O’Kelly, Chris Parry, Shane Atkinson, Terry Manderson, David Jones CQ-PAN: Putting Schools into Cyberspace, Information On-Line and On-Disk 95, Sydney
 
@@ -133,7 +133,7 @@ The main users of the CQ-PAN system will be computer novices. This means that it
 
 The current system works and looks like any other text based MS-DOS application. An environment which most, if not all, school users are familiar.
 
-[![Yarn Interface #2](images/3155804011_1866c2525c_m.jpg)](http://www.flickr.com/photos/david_jones/3155804011/ "Yarn Interface #2 by David T Jones, on Flickr")
+[![Yarn Interface #2](https://djon.es/assets/blog/publications/cq-pan-putting-schools-into-cyberspace/images/3155804011_1866c2525c_m.jpg)](http://www.flickr.com/photos/david_jones/3155804011/ "Yarn Interface #2 by David T Jones, on Flickr")
 
 Figure 1 - The CQ-PAN Off-line Interface (the YARN newsreader).
 

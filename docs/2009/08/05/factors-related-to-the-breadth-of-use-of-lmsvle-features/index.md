@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-4
 - design-theory
@@ -7,50 +7,47 @@ categories:
 - lmsevaluation
 - phd
 - thesis
-date: 2009-08-05 13:14:48+10:00
+comments: []
+date: 2009-08-05 03:14:48
 next:
   text: Automating calculation of LMS/CMS/VLE feature usage - a project?
   url: /blog/2009/08/05/automating-calculation-of-lmscmsvle-feature-usage-a-project/
+pingbacks:
+- approved: '1'
+  author: Automating calculation of LMS/CMS/VLE feature usage &#8211; a project? &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/08/05/automating-calculation-of-lmscmsvle-feature-usage-a-project/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Factors related to the breadth of use of LMS/VLE&nbsp;features [...]'
+  date: '2009-08-05 13:57:19'
+  date_gmt: '2009-08-05 03:57:19'
+  id: '2690'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: External factors associated with CMS adoption &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 66.135.48.210
+  author_url: https://djon.es/blog/2009/08/05/external-factors-associated-with-cms-adoption/
+  content: '[...] factors associated with CMS&nbsp;adoption  This post follows on
+    from a previous post and continues an examination of some papers written by Malikowski
+    and colleagues examining the [...]'
+  date: '2009-08-05 14:35:18'
+  date_gmt: '2009-08-05 04:35:18'
+  id: '2691'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: How do you measure success with institutional use of an LMS/VLE?
   url: /blog/2009/08/05/how-do-you-measure-success-with-institutional-use-of-an-lmsvle/
+template: blog-post.html
 title: Factors related to the breadth of use of LMS/VLE features
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Automating calculation of LMS/CMS/VLE feature usage &#8211; a project? &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/08/05/automating-calculation-of-lmscmsvle-feature-usage-a-project/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Factors related to the breadth of use of LMS/VLE&nbsp;features [...]'
-      date: '2009-08-05 13:57:19'
-      date_gmt: '2009-08-05 03:57:19'
-      id: '2690'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: External factors associated with CMS adoption &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 66.135.48.210
-      author_url: https://djon.es/blog/2009/08/05/external-factors-associated-with-cms-adoption/
-      content: '[...] factors associated with CMS&nbsp;adoption  This post follows on
-        from a previous post and continues an examination of some papers written by Malikowski
-        and colleagues examining the [...]'
-      date: '2009-08-05 14:35:18'
-      date_gmt: '2009-08-05 04:35:18'
-      id: '2691'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As a step towards thinking about how you judge the success of an LMS/VLE, this post looks at some work done by [Steven Malikowski](http://malikowski.org/). Why his work? Well he is co-author on three journal papers that provide one perspective on the usage of features of an LMS, including one that proposes a model for research into course management systems. A list of the papers in the references section.
 

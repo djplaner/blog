@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - edc3100
-date: 2015-01-21 08:42:39+10:00
+date: 2015-01-20 22:42:39
 next:
   text: '"Barriers to higher education technology adoption: Digital fluency or usefulness?"'
   url: /blog/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/
@@ -9,9 +9,9 @@ previous:
   text: What might the 3 levels of organisational culture reveal about university
     e-learning
   url: /blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+template: blog-post.html
 title: Learning to live with a standard look and feel
 type: post
-template: blog-post.html
 ---
 **About** \- this is an old post (2015) that was never posted. Posting it now for other reasons.
 
@@ -60,13 +60,13 @@ Which suggests that engaging the hierarchy will be required. Oh fun.
 
 Each of the weekly learning paths on the course site are placed into a topic. Each topic has a label that includes the title of the learning path and the dates for the week in which it is meant to apply. In the image below you should be able to see the "21-25 Jul (Week 1)" near the top of the image.
 
-[![Week1](images/16315335515_b91c408c98_s.jpg)](https://www.flickr.com/photos/david_jones/16315335515 "Week1 by David Jones, on Flickr")
+[![Week1](https://djon.es/assets/blog/2015/01/21/learning-to-live-with-a-standard-look-and-feel/images/16315335515_b91c408c98_s.jpg)](https://www.flickr.com/photos/david_jones/16315335515 "Week1 by David Jones, on Flickr")
 
 The problem is that this is a screen shot from the Semester 1, 2015 offering of the course. The appropriate date is not 21-25 Jul for this learning path.
 
 The same problem exists with the study schedule as shown in the following image. The August dates are not appropriate for these weeks.
 
-[![studySchedule](images/16135176729_054efae82e_s.jpg)](https://www.flickr.com/photos/david_jones/16135176729 "studySchedule by David Jones, on Flickr")
+[![studySchedule](https://djon.es/assets/blog/2015/01/21/learning-to-live-with-a-standard-look-and-feel/images/16135176729_054efae82e_s.jpg)](https://www.flickr.com/photos/david_jones/16135176729 "studySchedule by David Jones, on Flickr")
 
 Each semester, as the course is copied over, I need to manually update these dates and hope that I get them all. The time it takes to do this reduces the amount of time I spend on make truly important changes to the course.
 

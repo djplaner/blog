@@ -1,68 +1,65 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - psframework
 - thesis
-date: 2009-03-13 21:34:03+10:00
+comments: []
+date: 2009-03-13 11:34:03
 next:
   text: '"Comparing VLEs/LMS to the past: flaws and implications for development models"'
   url: /blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
+pingbacks:
+- approved: '1'
+  author: Coordination, support and knowledge sharing associated with e-learning -
+    where does your organisation fit? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/03/18/coordination-support-and-knowledge-sharing-associated-with-e-learning-where-does-your-organisation-fit/
+  content: '[...] and knowledge sharing associated with e-learning - where does your
+    organisation&nbsp;fit?  A recent post summarised a paper that was taking some
+    insights from the information systems discipline and [...]'
+  date: '2009-03-18 23:46:58'
+  date_gmt: '2009-03-18 13:46:58'
+  id: '2247'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update - Week #4 - Frustration and progress &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/03/20/phd-update-week-4-frustration-and-progress/
+  content: '[...] A summary of a paper that applies some insights from information
+    systems to e-learning implementation. [...]'
+  date: '2009-03-20 10:19:59'
+  date_gmt: '2009-03-20 00:19:59'
+  id: '2248'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: IS Implementation Phases and Lewin&#8217;s organisational change | Tus Clases
+    Blog
+  author_email: null
+  author_ip: 173.236.169.35
+  author_url: http://www.tusclases.bestmkng.com/2010/10/is-implementation-phases-and-lewins-organisational-change/
+  content: '[...] Initially used in this blog post &#8211; davidtjones.wordpress.com/2009/03/13/virtual-learning-env&#8230;
+    [...]'
+  date: '2010-10-14 12:31:54'
+  date_gmt: '2010-10-14 02:31:54'
+  id: '2249'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD update - week #3'
   url: /blog/2009/03/13/phd-update-week-3/
+template: blog-post.html
 title: '"Virtual learning environments: three implementation perspectives"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Coordination, support and knowledge sharing associated with e-learning -
-        where does your organisation fit? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/03/18/coordination-support-and-knowledge-sharing-associated-with-e-learning-where-does-your-organisation-fit/
-      content: '[...] and knowledge sharing associated with e-learning - where does your
-        organisation&nbsp;fit?  A recent post summarised a paper that was taking some
-        insights from the information systems discipline and [...]'
-      date: '2009-03-18 23:46:58'
-      date_gmt: '2009-03-18 13:46:58'
-      id: '2247'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update - Week #4 - Frustration and progress &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/03/20/phd-update-week-4-frustration-and-progress/
-      content: '[...] A summary of a paper that applies some insights from information
-        systems to e-learning implementation. [...]'
-      date: '2009-03-20 10:19:59'
-      date_gmt: '2009-03-20 00:19:59'
-      id: '2248'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: IS Implementation Phases and Lewin&#8217;s organisational change | Tus Clases
-        Blog
-      author_email: null
-      author_ip: 173.236.169.35
-      author_url: http://www.tusclases.bestmkng.com/2010/10/is-implementation-phases-and-lewins-organisational-change/
-      content: '[...] Initially used in this blog post &#8211; davidtjones.wordpress.com/2009/03/13/virtual-learning-env&#8230;
-        [...]'
-      date: '2010-10-14 12:31:54'
-      date_gmt: '2010-10-14 02:31:54'
-      id: '2249'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The aim of this post is to summarise my current reading - Keller (2005). I believe it will have some connection with the thesis.
 
@@ -114,7 +111,7 @@ The rest of the introduction is broken up into sections:
 
 The concept of implementation section refers to a figure like the following to show the linkage between Lewin's model of organisational change and the stages of an implementation model.
 
-[![IS Implementation Phases and Lewin's organisational change](images/3350260757_d1fba0e4e7_m.jpg)](http://www.flickr.com/photos/david_jones/3350260757/ "IS Implementation Phases and Lewin's organisational change by David T Jones, on Flickr")
+[![IS Implementation Phases and Lewin's organisational change](https://djon.es/assets/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/images/3350260757_d1fba0e4e7_m.jpg)](http://www.flickr.com/photos/david_jones/3350260757/ "IS Implementation Phases and Lewin's organisational change by David T Jones, on Flickr")
 
 There seems to be some connection with [George Siemens' IRIS model](http://www.elearnspace.org/blog/2009/03/05/iris-model/), some similarities and some differences. I've expressed some reservations about both [the IRIS model](/blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/) and also [Lewins model](/blog/2007/01/11/freeze-and-unfreeze-one-problem-with-herding-cats/). A few things have come together that mean I do need to revisit these.
 
@@ -134,7 +131,7 @@ Some friends and I have used the TAM in a couple of previous papers. One for an 
 
 Keller uses a later version from Venkatesh & Davies (2000) that adds subjective norm and behavioural intention. See the following figure.
 
-[![TAM with the extension of subjective norm](images/3350311761_243536671a_m.jpg)](http://www.flickr.com/photos/david_jones/3350311761/)
+[![TAM with the extension of subjective norm](https://djon.es/assets/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/images/3350311761_243536671a_m.jpg)](http://www.flickr.com/photos/david_jones/3350311761/)
 
 #### Social cognitive theory (SCT)
 
@@ -144,7 +141,7 @@ A different theory developed by other researchers from Bandura. Includes element
 
 This is where 8 of the influential models of user acceptance have been integrated into a theory that has been found to explain 70% of the variance in users acceptance and use of information systems.
 
-[![UTAUT](images/3350330093_4ccc62b9ec_m.jpg)](http://www.flickr.com/photos/david_jones/3350330093/ "UTAUT by David T Jones, on Flickr")
+[![UTAUT](https://djon.es/assets/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/images/3350330093_4ccc62b9ec_m.jpg)](http://www.flickr.com/photos/david_jones/3350330093/ "UTAUT by David T Jones, on Flickr")
 
 ### Implementation as diffusion of innovations
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - missingps
-date: 2006-10-29 08:33:38+10:00
+date: 2006-10-28 22:33:38
 next:
   text: The first missing Ps presentation
   url: /blog/2006/11/29/the-first-missing-ps-presentation/
 previous:
   text: The missing Ps - Process
   url: /blog/2006/10/27/the-missing-ps-process/
+template: blog-post.html
 title: The research "foundation" for the missing Ps
 type: post
-template: blog-post.html
 ---
 The work on [the missing Ps](http://cq-pan.cqu.edu.au/david-jones/blog/?p=52) is intended to contribute some research publications within the information systems field and also form the structure for chapter 2 of my PhD thesis. Consequently, it is important that the work have a good research foundation. This post is intended to provide that foundation, or at least document my development of the foundation.
 

@@ -1,92 +1,90 @@
----
+﻿---
 categories:
 - bam
-date: 2009-07-28 15:48:14+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 115.64.241.18
+  author_url: http://www.vrbones.com
+  content: Did you settle on an IDE or are you using a text editor?
+  date: '2009-07-29 18:46:32'
+  date_gmt: '2009-07-29 08:46:32'
+  id: '2669'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'I''m a vi kind of guy.
+
+
+    With the size of the code I''m developing, I don''t really see the need for an
+    IDE.  But then I have a lot of tacit knowledge around vi and web development -
+    so comfort level is high with that approach.'
+  date: '2009-07-29 18:58:37'
+  date_gmt: '2009-07-29 08:58:37'
+  id: '2670'
+  parent: '2669'
+  type: comment
+  user_id: '1'
+date: 2009-07-28 05:48:14
 next:
   text: The design and implementation of Webfuse - Part 1
   url: /blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/
+pingbacks:
+- approved: '1'
+  author: 'BAM into Moodle #8 &#8211; finishing the eStudyGuide building block &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/
+  content: '[...] into Moodle #8 &#8211; finishing the eStudyGuide building&nbsp;block  The
+    last post in this series described the start of a little project to learn more
+    about PHP/Moodle programming [...]'
+  date: '2009-07-30 11:39:06'
+  date_gmt: '2009-07-30 01:39:06'
+  id: '2671'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: BIM &#8211; Saving/manipulating RSS files &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.135.48.164
+  author_url: https://djon.es/blog/2009/12/20/bim-savingmanipulating-rss-files/
+  content: '[...] had originally found the magpie rss library. However, it now appears
+    that Magpie is deprecated and SimplePie is [...]'
+  date: '2009-12-20 18:03:46'
+  date_gmt: '2009-12-20 08:03:46'
+  id: '2672'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The VLE model and the wrong level of abstraction &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.247.239
+  author_url: https://djon.es/blog/2010/07/04/the-vle-model-and-the-wrong-level-of-abstraction/
+  content: '[...] example of what I mean here is the CQU eStudyGuide Moodle block
+    I played with last year. Some brief [...]'
+  date: '2010-07-04 10:24:45'
+  date_gmt: '2010-07-04 00:24:45'
+  id: '2673'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BAM into Moodle #6 - Planning and some real coding'
   url: /blog/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/
+template: blog-post.html
 title: '"BAM into Moodle #7 - an eStudyGuide block"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 115.64.241.18
-      author_url: http://www.vrbones.com
-      content: Did you settle on an IDE or are you using a text editor?
-      date: '2009-07-29 18:46:32'
-      date_gmt: '2009-07-29 08:46:32'
-      id: '2669'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'I''m a vi kind of guy.
-    
-    
-        With the size of the code I''m developing, I don''t really see the need for an
-        IDE.  But then I have a lot of tacit knowledge around vi and web development -
-        so comfort level is high with that approach.'
-      date: '2009-07-29 18:58:37'
-      date_gmt: '2009-07-29 08:58:37'
-      id: '2670'
-      parent: '2669'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'BAM into Moodle #8 &#8211; finishing the eStudyGuide building block &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/
-      content: '[...] into Moodle #8 &#8211; finishing the eStudyGuide building&nbsp;block  The
-        last post in this series described the start of a little project to learn more
-        about PHP/Moodle programming [...]'
-      date: '2009-07-30 11:39:06'
-      date_gmt: '2009-07-30 01:39:06'
-      id: '2671'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: BIM &#8211; Saving/manipulating RSS files &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.135.48.164
-      author_url: https://djon.es/blog/2009/12/20/bim-savingmanipulating-rss-files/
-      content: '[...] had originally found the magpie rss library. However, it now appears
-        that Magpie is deprecated and SimplePie is [...]'
-      date: '2009-12-20 18:03:46'
-      date_gmt: '2009-12-20 08:03:46'
-      id: '2672'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The VLE model and the wrong level of abstraction &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.247.239
-      author_url: https://djon.es/blog/2010/07/04/the-vle-model-and-the-wrong-level-of-abstraction/
-      content: '[...] example of what I mean here is the CQU eStudyGuide Moodle block
-        I played with last year. Some brief [...]'
-      date: '2010-07-04 10:24:45'
-      date_gmt: '2010-07-04 00:24:45'
-      id: '2673'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [last post](/blog/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/) provided an overview of what is required to put BAM into Moodle and generated a list of things I have to learn in order to implement it.
 

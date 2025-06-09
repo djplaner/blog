@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -7,42 +7,39 @@ categories:
 - psframework
 - thesis
 - webfuse
-date: 2011-01-06 10:43:11+10:00
+comments:
+- approved: '1'
+  author: Maurice A. Barry
+  author_email: maurice.a.barry@gmail.com
+  author_ip: 24.222.32.1
+  author_url: http://mauriceabarry.wordpress.com
+  content: A very well laid out argument! No surprise, then that I find myself in
+    agreement. A can even think of several cases where I have seen exactly that happen.
+    LMS implementation is perhaps the best known example but I have also seen the
+    same with SIS (Student Information Systems) implementation--insutead of matching/building
+    a product to the need, one is purchased and people learn to work within its limitations
+    and adopt its work flows--not an ideal situation at all.
+  date: '2013-01-10 03:13:23'
+  date_gmt: '2013-01-09 17:13:23'
+  id: '3218'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-01-06 00:43:11
 next:
   text: Thesis acknowledgements version 0.5
   url: /blog/2011/01/07/thesis-acknowledgements-version-0-5/
+pingbacks: []
 previous:
   text: Progressing the student interface for bim2
   url: /blog/2010/12/30/progressing-the-student-interface-for-bim2/
+template: blog-post.html
 title: A command for organisations? Program or be programmed
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Maurice A. Barry
-      author_email: maurice.a.barry@gmail.com
-      author_ip: 24.222.32.1
-      author_url: http://mauriceabarry.wordpress.com
-      content: A very well laid out argument! No surprise, then that I find myself in
-        agreement. A can even think of several cases where I have seen exactly that happen.
-        LMS implementation is perhaps the best known example but I have also seen the
-        same with SIS (Student Information Systems) implementation--insutead of matching/building
-        a product to the need, one is purchased and people learn to work within its limitations
-        and adopt its work flows--not an ideal situation at all.
-      date: '2013-01-10 03:13:23'
-      date_gmt: '2013-01-09 17:13:23'
-      id: '3218'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 I've just finished the Douglas Rushkoff book [Program or be Programmed: Ten commands for a digital age](http://www.amazon.com/Program-Be-Programmed-Commands-Digital/dp/1935928155/). As the title suggests the author provides ten "commands" for living well with digital technologies. This post arises from the titular and last command examined in the book, Program or be programmed.
 
-[![Dougls Rushkoff](images/5263891846_6645a80563_m.jpg)](http://www.flickr.com/photos/kevinkrejci/5263891846/ "Dougls Rushkoff by Kevin Krejci, on Flickr")
+[![Dougls Rushkoff](https://djon.es/assets/blog/2011/01/06/a-command-for-organisations-program-or-be-programmed/images/5263891846_6645a80563_m.jpg)](http://www.flickr.com/photos/kevinkrejci/5263891846/ "Dougls Rushkoff by Kevin Krejci, on Flickr")
 
 This particular command was of interest to me for two reasons. First, it suggests that learning to program is important and that more should be doing it. As I'm likely to become a information technology high school teacher there is some significant self-interest in there being a widely accepted importance to learning ot program. Second, and the main connection for this post, is that my experience with and observation of universities is that they are tending "to be programmed", rather than program. In particular when it comes to e-learning.
 

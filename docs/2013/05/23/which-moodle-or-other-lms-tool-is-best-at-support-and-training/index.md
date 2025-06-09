@@ -1,50 +1,48 @@
----
+﻿---
 categories:
 - bim2
 - elearning
 - moodle
-date: 2013-05-23 14:08:14+10:00
+comments:
+- approved: '1'
+  author: leopetersen
+  author_email: leopetersen@sify.com
+  author_ip: 115.118.174.64
+  author_url: https://stewartvance.blogspot.com/2013/07/moodle-developments-flexibility-and.html
+  content: Moodle as a course management system plays an important role in students
+    and teachers life, learning online and discussing that is now much easier to both
+    the parties. To me forums and chats is one of the best thing that act as a Moodle
+    tool, even it allows to interact well.
+  date: '2013-08-01 15:35:45'
+  date_gmt: '2013-08-01 05:35:45'
+  id: '773'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2013-05-23 04:08:14
 next:
   text: Preparing BIM for Moodle 2.4 (and beyond?)
   url: /blog/2013/05/26/preparing-bim-for-moodle-2-4-and-beyond/
+pingbacks:
+- approved: '1'
+  author: Which Moodle (or other LMS) tool is best at sup...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/moodling-for-languages/p/4002333640/which-moodle-or-other-lms-tool-is-best-at-support-and-training
+  content: '[&#8230;] A pessimistic optimist&#039;s journey through learning, teaching
+    and technology (by David Jones)&nbsp; [&#8230;]'
+  date: '2013-05-28 14:19:39'
+  date_gmt: '2013-05-28 04:19:39'
+  id: '772'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: I&#039;m helping to organise a conference - sort of
   url: /blog/2013/05/22/im-helping-to-organise-a-conference-sort-of/
+template: blog-post.html
 title: Which Moodle (or other LMS) tool is best at support and training?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: leopetersen
-      author_email: leopetersen@sify.com
-      author_ip: 115.118.174.64
-      author_url: https://stewartvance.blogspot.com/2013/07/moodle-developments-flexibility-and.html
-      content: Moodle as a course management system plays an important role in students
-        and teachers life, learning online and discussing that is now much easier to both
-        the parties. To me forums and chats is one of the best thing that act as a Moodle
-        tool, even it allows to interact well.
-      date: '2013-08-01 15:35:45'
-      date_gmt: '2013-08-01 05:35:45'
-      id: '773'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Which Moodle (or other LMS) tool is best at sup...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/moodling-for-languages/p/4002333640/which-moodle-or-other-lms-tool-is-best-at-support-and-training
-      content: '[&#8230;] A pessimistic optimist&#039;s journey through learning, teaching
-        and technology (by David Jones)&nbsp; [&#8230;]'
-      date: '2013-05-28 14:19:39'
-      date_gmt: '2013-05-28 04:19:39'
-      id: '772'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A question for those with experience of Moodle or other LMS tools/plugins/services etc
 

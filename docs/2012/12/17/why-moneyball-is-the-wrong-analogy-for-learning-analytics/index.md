@@ -1,130 +1,128 @@
----
+﻿---
 categories:
 - learninganalytics-elearning
-date: 2012-12-17 11:47:24+10:00
+comments:
+- approved: '1'
+  author: suifaijohnmak
+  author_email: suifaijohnmak@yahoo.com.au
+  author_ip: 60.241.166.115
+  author_url: http://suifaijohnmak.wordpress.com
+  content: Is learning analytics about predictions?  How would you intervene when
+    you found out that the learner is not learning?  By sending out emails or commenting
+    on class blog?  These sort of strategies have to be integrated with a teacher-machine
+    system to ensure that it is effective.  It really depends on what the purpose
+    of LA is.  If all the students in your online courses are responding greatly to
+    the discussion boards, you just use the data to show that they are having fruitful
+    interaction.  It is the outliers that teachers need to take care of, and perhaps
+    intervene. I wonder if there are such pattern detectors which could do this automatically.  John
+  date: '2012-12-18 00:01:48'
+  date_gmt: '2012-12-17 14:01:48'
+  id: '539'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: 'Thanks for picking this up John.  The thought about prediction was almost
+    an after thought. Something that came up at the very end of the post when other
+    tasks were calling out for attention.
+
+
+    So I will try again.
+
+
+    Some of this confusion comes from a quick use of Silver''s book which is focused
+    on talking about predictions.  Hence the use above.
+
+
+    Is learning analytics about predictions?  I''m thinking yes.
+
+
+    <a href="http://www.solaresearch.org/mission/about/" rel="nofollow">SoLAR defines</a>
+    learning analytics as
+
+    <blockquote>the measurement, collection, analysis and reporting of data about
+    learners and their contexts, for purposes of understanding and optimizing learning
+    and the environments in which it occurs.</blockquote>
+
+
+    Increasingly I am thinking that that "optimizing" part is the crux of it.  i.e.
+    the aim of learning analytics, at least for a teacher/student, is to make a change
+    in their learning - to optimize it. This suggests that the insight gained from
+    analysing the data is being used to plan some intervention, some change. Embedded
+    in that change is the assumption that it will get better/different.  To me this
+    is a type of  prediction.
+
+
+    Without this type of prediction, I''m not sure learning analytics is all that
+    useful. Except perhaps to researchers and archeologists.
+
+
+    In your example, you do get confirmation that there are some that are working
+    okay, but you''re still keen to intervene for the outliers.
+
+
+    In terms of automatic pattern detectors, if there aren''t someone already, I''m
+    sure there are some folk working on it.'
+  date: '2012-12-18 11:13:53'
+  date_gmt: '2012-12-18 01:13:53'
+  id: '540'
+  parent: '539'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: suifaijohnmak
+  author_email: suifaijohnmak@yahoo.com.au
+  author_ip: 60.241.166.115
+  author_url: http://suifaijohnmak.wordpress.com
+  content: 'Hi David,  Yes, that is resonating: the aim of learning analytics, for
+    a teacher/student, is to make a change in their learning - to optimize it. In
+    the case of a connectivist course, I do see it makes sense, as there are feedback
+    loops whilst interactions in the forums, discussion boards, and so the instructors
+    would be able to make adjustment when he/she realize the difficulties that learners
+    might have.  Rita, Fournier and I have used SNA in analysing the how facilitators''
+    participation had impacted on the number of postings and comments by MOOCs participants,
+    and we found that facilitator''s involvement did impact on participants'' engagement
+    and discussion. I just wonder how this could be applicable with an instructivist
+    MOOC with tens or hundreds thousands of participants (like the xMOOCs) where discussion
+    boards are "closed".  May be this is where I would like to explore, if LA be applicable
+    to xMOOCs and how instructors would interpret the LA.'
+  date: '2012-12-18 21:57:41'
+  date_gmt: '2012-12-18 11:57:41'
+  id: '541'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-12-17 01:47:24
 next:
   text: '"BIM: another restart?"'
   url: /blog/2012/12/19/bim-another-restart/
+pingbacks:
+- approved: '1'
+  author: Why Moneyball is the wrong analogy for learning&nbsp;analytics | Analyse
+    This | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/analyse-this/p/3745740525/why-moneyball-is-the-wrong-analogy-for-learning-analytics
+  content: '[...] Learning analytics is one of the research areas I&rsquo;m interested
+    in. Consequently, I&rsquo;ve read and listened to a bit about learning analytics
+    over recent times. In that time I&rsquo;ve ofte...&nbsp; [...]'
+  date: '2012-12-17 19:49:09'
+  date_gmt: '2012-12-17 09:49:09'
+  id: '538'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Beyond the early adopters of online instruction: Motivating the reluctant
     majority'
   url: /blog/2012/12/14/beyond-the-early-adopters-of-online-instruction-motivating-the-reluctant-majority/
+template: blog-post.html
 title: Why Moneyball is the wrong analogy for learning analytics
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: suifaijohnmak
-      author_email: suifaijohnmak@yahoo.com.au
-      author_ip: 60.241.166.115
-      author_url: http://suifaijohnmak.wordpress.com
-      content: Is learning analytics about predictions?  How would you intervene when
-        you found out that the learner is not learning?  By sending out emails or commenting
-        on class blog?  These sort of strategies have to be integrated with a teacher-machine
-        system to ensure that it is effective.  It really depends on what the purpose
-        of LA is.  If all the students in your online courses are responding greatly to
-        the discussion boards, you just use the data to show that they are having fruitful
-        interaction.  It is the outliers that teachers need to take care of, and perhaps
-        intervene. I wonder if there are such pattern detectors which could do this automatically.  John
-      date: '2012-12-18 00:01:48'
-      date_gmt: '2012-12-17 14:01:48'
-      id: '539'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: 'Thanks for picking this up John.  The thought about prediction was almost
-        an after thought. Something that came up at the very end of the post when other
-        tasks were calling out for attention.
-    
-    
-        So I will try again.
-    
-    
-        Some of this confusion comes from a quick use of Silver''s book which is focused
-        on talking about predictions.  Hence the use above.
-    
-    
-        Is learning analytics about predictions?  I''m thinking yes.
-    
-    
-        <a href="http://www.solaresearch.org/mission/about/" rel="nofollow">SoLAR defines</a>
-        learning analytics as
-    
-        <blockquote>the measurement, collection, analysis and reporting of data about
-        learners and their contexts, for purposes of understanding and optimizing learning
-        and the environments in which it occurs.</blockquote>
-    
-    
-        Increasingly I am thinking that that "optimizing" part is the crux of it.  i.e.
-        the aim of learning analytics, at least for a teacher/student, is to make a change
-        in their learning - to optimize it. This suggests that the insight gained from
-        analysing the data is being used to plan some intervention, some change. Embedded
-        in that change is the assumption that it will get better/different.  To me this
-        is a type of  prediction.
-    
-    
-        Without this type of prediction, I''m not sure learning analytics is all that
-        useful. Except perhaps to researchers and archeologists.
-    
-    
-        In your example, you do get confirmation that there are some that are working
-        okay, but you''re still keen to intervene for the outliers.
-    
-    
-        In terms of automatic pattern detectors, if there aren''t someone already, I''m
-        sure there are some folk working on it.'
-      date: '2012-12-18 11:13:53'
-      date_gmt: '2012-12-18 01:13:53'
-      id: '540'
-      parent: '539'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: suifaijohnmak
-      author_email: suifaijohnmak@yahoo.com.au
-      author_ip: 60.241.166.115
-      author_url: http://suifaijohnmak.wordpress.com
-      content: 'Hi David,  Yes, that is resonating: the aim of learning analytics, for
-        a teacher/student, is to make a change in their learning - to optimize it. In
-        the case of a connectivist course, I do see it makes sense, as there are feedback
-        loops whilst interactions in the forums, discussion boards, and so the instructors
-        would be able to make adjustment when he/she realize the difficulties that learners
-        might have.  Rita, Fournier and I have used SNA in analysing the how facilitators''
-        participation had impacted on the number of postings and comments by MOOCs participants,
-        and we found that facilitator''s involvement did impact on participants'' engagement
-        and discussion. I just wonder how this could be applicable with an instructivist
-        MOOC with tens or hundreds thousands of participants (like the xMOOCs) where discussion
-        boards are "closed".  May be this is where I would like to explore, if LA be applicable
-        to xMOOCs and how instructors would interpret the LA.'
-      date: '2012-12-18 21:57:41'
-      date_gmt: '2012-12-18 11:57:41'
-      id: '541'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Why Moneyball is the wrong analogy for learning&nbsp;analytics | Analyse
-        This | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/analyse-this/p/3745740525/why-moneyball-is-the-wrong-analogy-for-learning-analytics
-      content: '[...] Learning analytics is one of the research areas I&rsquo;m interested
-        in. Consequently, I&rsquo;ve read and listened to a bit about learning analytics
-        over recent times. In that time I&rsquo;ve ofte...&nbsp; [...]'
-      date: '2012-12-17 19:49:09'
-      date_gmt: '2012-12-17 09:49:09'
-      id: '538'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Learning analytics is one of the research areas I'm interested in. Consequently, I've read and listened to a bit about learning analytics over recent times. In that time I've often heard [Moneyball](http://en.wikipedia.org/wiki/Moneyball) used as an example or analogy for learning analytics.
 

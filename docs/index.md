@@ -1,13 +1,7 @@
----
+﻿---
+tags:
+- blog
+template: blog-home.html
 title: Blog home page
 type: blog
-template: blog-home.html
-tags: 
-    - blog
 ---
-
-
-
-
-
-

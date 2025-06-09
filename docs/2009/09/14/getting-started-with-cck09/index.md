@@ -1,51 +1,48 @@
----
+﻿---
 categories:
 - cck09
-date: 2009-09-14 13:50:54+10:00
+comments:
+- approved: '1'
+  author: mollybob
+  author_email: sbg00sbg@yahoo.com.au
+  author_ip: 220.233.103.73
+  author_url: http://www.mollybob.wordpress.com
+  content: Good luck with CCK09.  I'll be eagerly reading CCK09 posts as compensation
+    for not being able to take part. - good luck!
+  date: '2009-09-23 20:37:31'
+  date_gmt: '2009-09-23 10:37:31'
+  id: '2758'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: ':)  My CCK09 participation has been significantly less than I hoped.
+
+
+    Get the presentation tomorrow out of the way and hopefully it will be back on
+    track.......'
+  date: '2009-09-23 22:17:13'
+  date_gmt: '2009-09-23 12:17:13'
+  id: '2759'
+  parent: '2758'
+  type: comment
+  user_id: '1'
+date: 2009-09-14 03:50:54
 next:
   text: Herding cats, losing weight and how to improve learning and teaching
   url: /blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/
+pingbacks: []
 previous:
   text: Dede&#039;s &quot;sleeping, eating and bonding&quot; metaphor and the diversity
     of learning and its impacts for e-learning
   url: /blog/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/
+template: blog-post.html
 title: Getting started with CCK09
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: mollybob
-      author_email: sbg00sbg@yahoo.com.au
-      author_ip: 220.233.103.73
-      author_url: http://www.mollybob.wordpress.com
-      content: Good luck with CCK09.  I'll be eagerly reading CCK09 posts as compensation
-        for not being able to take part. - good luck!
-      date: '2009-09-23 20:37:31'
-      date_gmt: '2009-09-23 10:37:31'
-      id: '2758'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: ':)  My CCK09 participation has been significantly less than I hoped.
-    
-    
-        Get the presentation tomorrow out of the way and hopefully it will be back on
-        track.......'
-      date: '2009-09-23 22:17:13'
-      date_gmt: '2009-09-23 12:17:13'
-      id: '2759'
-      parent: '2758'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Last year I planned to participate in CCK08 - [Connectivism and Connective Knowledge'2008](http://ltc.umanitoba.ca/connectivism/?page_id=2) - "a rather large online course" organised by George Siemens and Stephen Downes. Then various things, including a nastly little organisational restructure got in the way and I piked out.
 

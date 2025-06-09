@@ -1,10 +1,32 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-03-31 08:00:52+10:00
+comments: []
+date: 2011-03-30 22:00:52
 next:
   text: '"Pedagogical Content Knowledge: Week 4"'
   url: /blog/2011/03/31/pedagogical-content-knowledge-week-4/
+pingbacks:
+- approved: '1'
+  author: Col&#039;s Weblog
+  author_email: null
+  author_ip: 74.200.247.246
+  author_url: http://beerc.wordpress.com/2011/04/03/490/
+  content: "[...] In terms of the practical application of academic analytics, I maintain\
+    \ that it is most useful when used by the teacher, or student at their point and\
+    \ time of need. At the course level tactical data is required whereas at the whole\
+    \ of LMS level, the data is mainly strategic. The teacher\u2019s conceptions of\
+    \ learning and teaching, their experience with teaching online courses, their\
+    \ technical aptitude and a whole bunch of other things contribute to the student\
+    \ experience. So better tools that can tactically demonstrate how online courses\
+    \ are being utilised by the staff and students can only help if applied at that\
+    \ level. David alludes to this in one of his recent posts. [...]"
+  date: '2011-04-03 11:08:37'
+  date_gmt: '2011-04-03 01:08:37'
+  id: '38'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Supportive Learning Environments: Week 3, 4, 5 and 6'
   url: /blog/2011/03/30/supportive-learning-environments-week-3-4-5-and-6/
@@ -14,34 +36,9 @@ tags:
 - seriously
 - someone
 - stopped
+template: blog-post.html
 title: The next step for the LMS?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Col&#039;s Weblog
-      author_email: null
-      author_ip: 74.200.247.246
-      author_url: http://beerc.wordpress.com/2011/04/03/490/
-      content: "[...] In terms of the practical application of academic analytics, I maintain\
-        \ that it is most useful when used by the teacher, or student at their point and\
-        \ time of need. At the course level tactical data is required whereas at the whole\
-        \ of LMS level, the data is mainly strategic. The teacher\u2019s conceptions of\
-        \ learning and teaching, their experience with teaching online courses, their\
-        \ technical aptitude and a whole bunch of other things contribute to the student\
-        \ experience. So better tools that can tactically demonstrate how online courses\
-        \ are being utilised by the staff and students can only help if applied at that\
-        \ level. David alludes to this in one of his recent posts. [...]"
-      date: '2011-04-03 11:08:37'
-      date_gmt: '2011-04-03 01:08:37'
-      id: '38'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This post draws on [this article](http://techcrunch.com/2011/03/29/google-talk-guru/) about Google's Talk Guru to argue the need for systems that support people at the point of them carrying out some task.  
   

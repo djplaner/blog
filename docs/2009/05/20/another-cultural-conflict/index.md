@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-05-20 17:03:12+10:00
+date: 2009-05-20 07:03:12
 next:
   text: Purpose - a component of the Ps Framework
   url: /blog/2009/05/20/purpose-a-component-of-the-ps-framework/
 previous:
   text: Another BAM problem - awarding mark of 0
   url: /blog/2009/05/20/another-bam-problem-awarding-mark-of-0/
+template: blog-post.html
 title: Another cultural conflict
 type: post
-template: blog-post.html
 ---
 The main point of this post is to save this quote. I'm about to delete it from the thesis, can't make it fit, and I think it is important.
 

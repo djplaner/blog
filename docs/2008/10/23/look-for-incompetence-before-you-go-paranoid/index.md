@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - elearning
 - ple
 - web-20-course-sites
 - webfuse
-date: 2008-10-23 09:10:20+10:00
+comments: []
+date: 2008-10-22 23:10:20
 next:
   text: The Ps Framework - avoiding perceptual blindness?
   url: /blog/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/
+pingbacks:
+- approved: '1'
+  author: The gulf between users and IT departments &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.232.153.33
+  author_url: https://djon.es/blog/2008/10/26/the-gulf-between-users-and-it-departments/
+  content: '[...] course I should take my own advice look for incompetence before
+    you go paranoid. Senior IT folk, as with most people, will see the problem in
+    the same way they have always seen [...]'
+  date: '2008-10-26 21:38:00'
+  date_gmt: '2008-10-26 11:38:00'
+  id: '1847'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Design Based Research vs. Mixed Methods: The Differences and Commonalities'
   url: /blog/2008/10/22/design-based-research-vs-mixed-methods-the-differences-and-commonalities/
+template: blog-post.html
 title: Look for incompetence before you go paranoid
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The gulf between users and IT departments &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.232.153.33
-      author_url: https://djon.es/blog/2008/10/26/the-gulf-between-users-and-it-departments/
-      content: '[...] course I should take my own advice look for incompetence before
-        you go paranoid. Senior IT folk, as with most people, will see the problem in
-        the same way they have always seen [...]'
-      date: '2008-10-26 21:38:00'
-      date_gmt: '2008-10-26 11:38:00'
-      id: '1847'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I suggest that many of the problems organisations face can be traced back to a few observations
 

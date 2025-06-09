@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-11-17 22:43:16+10:00
+date: 2010-11-17 12:43:16
 next:
   text: Installing and starting with Moodle 2.0
   url: /blog/2010/11/18/installing-and-starting-with-moodle-2-0/
 previous:
   text: EduFeedr is live. BIM for open blog courses
   url: /blog/2010/11/16/edufeedr-is-live-bim-for-open-blog-courses/
+template: blog-post.html
 title: Understanding EduFeedr and contrast with BIM
 type: post
-template: blog-post.html
 ---
 The following is an attempt to summarise an attempt to understanding [EduFeedr](http://www.edufeedr.net/) a bit more. Especially to compare and contrast it with [BIM](/blog/research/bam-blog-aggregation-management/). I'm particularly interested in seeing what lessons can be learned from EduFeedr, not to mention what code and ideas can be borrowed.
 

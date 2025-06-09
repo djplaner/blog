@@ -1,168 +1,165 @@
----
+﻿---
 categories:
 - eded20456
 - teaching
-date: 2011-03-03 16:31:16+10:00
+comments:
+- approved: '1'
+  author: charlesnelson
+  author_email: cnelson@kean.edu
+  author_ip: 74.102.144.23
+  author_url: http://charlesnelson.wordpress.com/
+  content: "\"In connectivism, a phrase like \u2018constructing meaning\u2019 makes\
+    \ no sense. Connections form naturally, through a process of association, and\
+    \ are not \u2018constructed\u2019 through some sort of intentional action.\"\n\
+    \nIf you compare this notion of forming naturally to Piaget's notion of assimilation/accommodation,\
+    \ then saying that \"connections form naturally\" says nothing about learning\
+    \ because it doesn't say how those connections form, why much experience is assimilated,\
+    \ and why real changes (i.e., accommodation) may not occur."
+  date: '2011-03-04 01:13:47'
+  date_gmt: '2011-03-03 15:13:47'
+  id: '5'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: charlesnelson
+  author_email: cnelson@kean.edu
+  author_ip: 131.125.57.27
+  author_url: http://charlesnelson.wordpress.com/
+  content: '"Onto learning styles. Apparently Sternberg (1997) claims that differences
+    in ability only account for about 20% of variation in learner performance. Suggesting
+    that it is variation in learning style that plays a part."
+
+
+    Why does that suggest that it''s "variation in learning style"? Wouldn''t it be
+    that "time on task" that plays a major role?
+
+
+    More on connectivism: "learning as the process of creating connections and developing
+    a network" and "knowledge is distributed across a network of connections, and
+    therefore that learning consists of the ability to construct and traverse those
+    networks."
+
+
+    Connections are being created at (least) two levels: in the brain of an individual
+    and in the network of individual people. The knowledge that is in the brain (or
+    body) is not the same as the knowledge distributed across people. The knowledge
+    that is constructed, for radical constructivists (and Piaget), is in the brain.
+
+
+    One doesn''t traverse neurons of the brain, yet connectivists talk about the learning
+    of the individual, which  should refer to a neuronal network. Conversely, they
+    don''t really talk about the knowledge of the network of individuals, but rather
+    talk about the knowledge of a single individual as if it were at a network of
+    individuals. Connectivists seem to conflate these two networks.'
+  date: '2011-03-04 04:30:09'
+  date_gmt: '2011-03-03 18:30:09'
+  id: '6'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.184.22.82
+  author_url: https://djon.es/blog/
+  content: 'G''day Charles,
+
+
+    Thanks for taking the time to comment on these posts and apologies for not responding
+    more quickly. It''s been a lack of time thing.
+
+
+    As it stands, I retain only notions of both constructivism and connectivism that
+    are under formation. Connectivism with its more constrained definition (i.e. basically
+    limited to Downes and Siemens) is a little easier to understand. At least in terms
+    of speaking of something a little more concrete.  e.g. you talk specifically of
+    Piaget''s "version of constructivism" (the quotes indicate I''m fairly reluctant
+    to use that phrase, though it is somewhat useful) of which I know little.  To
+    some extent, comparing connectivism and constructivism is probably not really
+    comparing apples.
+
+
+    I will admit that I find Downes'' notion of "connections form naturally" somewhat
+    vague, but I''m cautious to go further than that, because again I have not take
+    the time to read and think further on it.
+
+
+    All of the above is a long way of saying that I have more reading and thinking
+    to do, thanks for the spark.'
+  date: '2011-03-05 16:10:54'
+  date_gmt: '2011-03-05 06:10:54'
+  id: '7'
+  parent: '5'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.184.22.82
+  author_url: https://djon.es/blog/
+  content: 'I''ll take this in two separate responses.
+
+
+    The point about Sternberg''s quote is one I agree with. I haven''t seen Sternberg
+    or other authors provide any research support to indicate what the other 80% is
+    made up. The context in which it was mentioned implied that learning styles played
+    a part in that 80%, but did not indicate how much (I assume because they didn''t
+    ask that question in the research).
+
+
+    I felt that this was a somewhat questionable rhetorical ploy. I could use the
+    same research to support just about anything.'
+  date: '2011-03-05 16:14:05'
+  date_gmt: '2011-03-05 06:14:05'
+  id: '8'
+  parent: '6'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.184.22.82
+  author_url: https://djon.es/blog/
+  content: 'The point about the apparent equality with which connectivism treats the
+    two different types of knowledge is an interesting point.
+
+
+    I wonder how/if Siemens, Downes and other connectivists have responded to this
+    point?
+
+
+    I guess one response I might expect from them might be to reject the notion that
+    the knowledge in the two networks are different.
+
+
+    Again more to look into. Again thanks for providing different perspectives, though
+    there is a small part of the pragmatic student in me that is a little less thankful.  Too
+    much to read, but it is interesting.
+
+
+    I think my working hypothesis on these two paradigms remain that I see much that
+    is useful in both, some that isn''t, a bit of similarity (depending on perspective)
+    and usefulness in both.   I am, I think, somewhat biased towards connectivism
+    due to my involvement with this blog and other social media. I have to keep that
+    in mind as I consider this more.'
+  date: '2011-03-05 16:20:56'
+  date_gmt: '2011-03-05 06:20:56'
+  id: '9'
+  parent: '6'
+  type: comment
+  user_id: '1'
+date: 2011-03-03 06:31:16
 next:
   text: A question (or two) on the similarity of "neuronal" and "networked" knowledge
   url: /blog/2011/03/05/a-question-or-two-on-the-similarity-of-neuronal-and-networked-knowledge/
+pingbacks: []
 previous:
   text: A PMI of constructivism
   url: /blog/2011/03/03/a-pmi-of-constructivism/
+template: blog-post.html
 title: '"Pedagogical Content Knowledge: Week 1"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: charlesnelson
-      author_email: cnelson@kean.edu
-      author_ip: 74.102.144.23
-      author_url: http://charlesnelson.wordpress.com/
-      content: "\"In connectivism, a phrase like \u2018constructing meaning\u2019 makes\
-        \ no sense. Connections form naturally, through a process of association, and\
-        \ are not \u2018constructed\u2019 through some sort of intentional action.\"\n\
-        \nIf you compare this notion of forming naturally to Piaget's notion of assimilation/accommodation,\
-        \ then saying that \"connections form naturally\" says nothing about learning\
-        \ because it doesn't say how those connections form, why much experience is assimilated,\
-        \ and why real changes (i.e., accommodation) may not occur."
-      date: '2011-03-04 01:13:47'
-      date_gmt: '2011-03-03 15:13:47'
-      id: '5'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: charlesnelson
-      author_email: cnelson@kean.edu
-      author_ip: 131.125.57.27
-      author_url: http://charlesnelson.wordpress.com/
-      content: '"Onto learning styles. Apparently Sternberg (1997) claims that differences
-        in ability only account for about 20% of variation in learner performance. Suggesting
-        that it is variation in learning style that plays a part."
-    
-    
-        Why does that suggest that it''s "variation in learning style"? Wouldn''t it be
-        that "time on task" that plays a major role?
-    
-    
-        More on connectivism: "learning as the process of creating connections and developing
-        a network" and "knowledge is distributed across a network of connections, and
-        therefore that learning consists of the ability to construct and traverse those
-        networks."
-    
-    
-        Connections are being created at (least) two levels: in the brain of an individual
-        and in the network of individual people. The knowledge that is in the brain (or
-        body) is not the same as the knowledge distributed across people. The knowledge
-        that is constructed, for radical constructivists (and Piaget), is in the brain.
-    
-    
-        One doesn''t traverse neurons of the brain, yet connectivists talk about the learning
-        of the individual, which  should refer to a neuronal network. Conversely, they
-        don''t really talk about the knowledge of the network of individuals, but rather
-        talk about the knowledge of a single individual as if it were at a network of
-        individuals. Connectivists seem to conflate these two networks.'
-      date: '2011-03-04 04:30:09'
-      date_gmt: '2011-03-03 18:30:09'
-      id: '6'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.184.22.82
-      author_url: https://djon.es/blog/
-      content: 'G''day Charles,
-    
-    
-        Thanks for taking the time to comment on these posts and apologies for not responding
-        more quickly. It''s been a lack of time thing.
-    
-    
-        As it stands, I retain only notions of both constructivism and connectivism that
-        are under formation. Connectivism with its more constrained definition (i.e. basically
-        limited to Downes and Siemens) is a little easier to understand. At least in terms
-        of speaking of something a little more concrete.  e.g. you talk specifically of
-        Piaget''s "version of constructivism" (the quotes indicate I''m fairly reluctant
-        to use that phrase, though it is somewhat useful) of which I know little.  To
-        some extent, comparing connectivism and constructivism is probably not really
-        comparing apples.
-    
-    
-        I will admit that I find Downes'' notion of "connections form naturally" somewhat
-        vague, but I''m cautious to go further than that, because again I have not take
-        the time to read and think further on it.
-    
-    
-        All of the above is a long way of saying that I have more reading and thinking
-        to do, thanks for the spark.'
-      date: '2011-03-05 16:10:54'
-      date_gmt: '2011-03-05 06:10:54'
-      id: '7'
-      parent: '5'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.184.22.82
-      author_url: https://djon.es/blog/
-      content: 'I''ll take this in two separate responses.
-    
-    
-        The point about Sternberg''s quote is one I agree with. I haven''t seen Sternberg
-        or other authors provide any research support to indicate what the other 80% is
-        made up. The context in which it was mentioned implied that learning styles played
-        a part in that 80%, but did not indicate how much (I assume because they didn''t
-        ask that question in the research).
-    
-    
-        I felt that this was a somewhat questionable rhetorical ploy. I could use the
-        same research to support just about anything.'
-      date: '2011-03-05 16:14:05'
-      date_gmt: '2011-03-05 06:14:05'
-      id: '8'
-      parent: '6'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.184.22.82
-      author_url: https://djon.es/blog/
-      content: 'The point about the apparent equality with which connectivism treats the
-        two different types of knowledge is an interesting point.
-    
-    
-        I wonder how/if Siemens, Downes and other connectivists have responded to this
-        point?
-    
-    
-        I guess one response I might expect from them might be to reject the notion that
-        the knowledge in the two networks are different.
-    
-    
-        Again more to look into. Again thanks for providing different perspectives, though
-        there is a small part of the pragmatic student in me that is a little less thankful.  Too
-        much to read, but it is interesting.
-    
-    
-        I think my working hypothesis on these two paradigms remain that I see much that
-        is useful in both, some that isn''t, a bit of similarity (depending on perspective)
-        and usefulness in both.   I am, I think, somewhat biased towards connectivism
-        due to my involvement with this blog and other social media. I have to keep that
-        in mind as I consider this more.'
-      date: '2011-03-05 16:20:56'
-      date_gmt: '2011-03-05 06:20:56'
-      id: '9'
-      parent: '6'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 This is the fourth of these weekly summaries/reflections - perhaps learning log is a better description - but only 1 is complete so far. Hopefully this will be #2. The course is titled Pedagogical Content Knowledge and appears to aim to use Schulman's ideas of PCK to frame the necessary learning about both pedagogy and the content for the pre-service teachers in this course.
 

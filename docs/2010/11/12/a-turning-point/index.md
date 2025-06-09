@@ -1,240 +1,238 @@
----
+﻿---
 categories:
 - journey
 - teaching
-date: 2010-11-12 13:15:12+10:00
+comments:
+- approved: '1'
+  author: stuartpalmer
+  author_email: spalm@deakin.edu.au
+  author_ip: 128.184.132.244
+  author_url: null
+  content: Oh the irony.  As one of the authors of the mentioned ALTC report, I can
+    further report that, as of Tuesday 9 November, my T&amp;L centre has been officially
+    notified of the commencement of a 'consultation period' for a major restructuring
+    - cue HR, NTEU and other parties to enter the fray.  Of course, by the findings
+    of our own report, this event was, in fact, overdue! :)
+  date: '2010-11-12 13:42:17'
+  date_gmt: '2010-11-12 03:42:17'
+  id: '3193'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Sarah
+  author_email: sarahthorneycroft@me.com
+  author_ip: 129.180.73.121
+  author_url: http://teaspot.wordpress.com
+  content: 'As someone who has more or less had the exact opposite shift in career
+    to you, I can likely only be moderately useful, but as you know, I do share your
+    frustrations with university L&amp;T. Your reservations about the school system
+    are correct also. That said, there''s a lot about the school system that''s really
+    organic, there''s an immediate adaptability that we HE boffins don''t have. Theory
+    goes out the window as soon as you step in the classroom and that can be quite
+    liberating (especially, I imagine, after you''ve just churned out 100,000 words
+    of theory).
+
+
+    The main thing I would say to you is - don''t prune your PLN. Some of the most
+    valuable people in mine are K12 teachers. Less relevant to my learning needs,
+    as you put it, but still valuable and I think my PLN would be the worse without
+    them.
+
+
+    And - grats on the PhD. Epic effort.'
+  date: '2010-11-12 13:52:00'
+  date_gmt: '2010-11-12 03:52:00'
+  id: '3194'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: stuartpalmer
+  author_email: spalm@deakin.edu.au
+  author_ip: 128.184.132.244
+  author_url: null
+  content: PS - Congratulations on the 'beginning of the end' for the doctoral studies!
+  date: '2010-11-12 13:54:55'
+  date_gmt: '2010-11-12 03:54:55'
+  id: '3195'
+  parent: '3193'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.168.165.135
+  author_url: https://djon.es/blog/
+  content: 'G''day Stuart, I had pondered that irony when you tweeted the restructure.
+    Had the people at your institution who moved for the restructure read the report?
+    Perhaps not a question you can answer here.
+
+
+    I wish you and all the others involved the best during this process. Above all
+    I hope it was better than the two restructures we went through within 18 months.
+
+
+    I guess being in a T&amp;L centre is a bit like Melbourne weather, if you don''t
+    like it now, wait a bit.   I couldn''t be bothered waiting anymore.'
+  date: '2010-11-12 13:58:11'
+  date_gmt: '2010-11-12 03:58:11'
+  id: '3196'
+  parent: '3193'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.168.165.135
+  author_url: https://djon.es/blog/
+  content: 're: the PLN.  I think I was starting to come to the same conclusion.  But
+    I have been wondering when enough is enough. Have seen folk following 1000s on
+    twitter, I often wonder how that can be managed and useful. Perhaps I need to
+    think about my own practices.
+
+
+    It''s the "now" of the classroom that really does beckon again. I enjoyed that
+    as a university teaching academic. The high school aspect will be similar, though
+    different.
+
+
+    Sarah, I guess the big question I have for someone like yourself is<blockquote>What
+    would you like to have known going into high school, that you know now?</blockquote>'
+  date: '2010-11-12 14:01:49'
+  date_gmt: '2010-11-12 04:01:49'
+  id: '3197'
+  parent: '3194'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Sarah
+  author_email: sarahthorneycroft@me.com
+  author_ip: 129.180.73.121
+  author_url: http://teaspot.wordpress.com
+  content: 'What would I have liked to have known? That if, like me, you are a pretty
+    introverted person, nothing in the world will prepare you for wrangling large
+    groups of children. Might be true for extroverts too but can''t help you on that
+    one. All the T&amp;L theory in the world did not help me know how to navigate
+    the realities of classroom management. My big mistake was being unwilling to admit
+    I was struggling with that and not asking for help.
+
+
+    The other thing I would have liked to have known was that admin and politics will
+    kill you, but working in HE you already know that.'
+  date: '2010-11-12 14:28:44'
+  date_gmt: '2010-11-12 04:28:44'
+  id: '3198'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.168.165.135
+  author_url: https://djon.es/blog/
+  content: 'Thanks Sarah.
+
+
+    I am an introvert and am expecting high school - especially junior maths - to
+    be a very different environment than university level IT.
+
+
+    At the moment, I''m actually excited about that.  Wonder how long that will last?'
+  date: '2010-11-12 15:15:38'
+  date_gmt: '2010-11-12 05:15:38'
+  id: '3199'
+  parent: '3198'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: stuartpalmer
+  author_email: spalm@deakin.edu.au
+  author_ip: 118.209.91.138
+  author_url: null
+  content: 'Hi David, thanks for that.
+
+
+    Stopping to read things would get in the way of the ''fire-ready-aim'' strategy
+    for action - any action.  I kid thee not when I say that one of the justifications
+    offered for the original desire to have the new structure all done and dusted
+    by the end of November was so that it could be included in the draft paperwork
+    being prepared for the next AUQA audit at my place!
+
+
+    One of my good colleagues here has been in a central teaching development role
+    for many years, and this will be his 10th (or maybe 11th, he can''t really remember)
+    restructure.
+
+
+    At this point, I''m quite ambivalent to the whole shenanigans.  But, I know there
+    are some others in related division also involved in the restructure, who may
+    suffer if it goes as currently proposed, and I do feel for them.'
+  date: '2010-11-14 20:03:10'
+  date_gmt: '2010-11-14 10:03:10'
+  id: '3201'
+  parent: '3193'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: null
+  content: 'David -
+
+
+    I didn''t see any mention of the Kahn Academy in your or others'' posts.  If you''ve
+    not checked it out, you simply must must do so!!!!!!
+
+
+    http://www.khanacademy.org/'
+  date: '2010-11-18 02:30:26'
+  date_gmt: '2010-11-17 16:30:26'
+  id: '3202'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-11-12 03:15:12
 next:
   text: Delving into institutional information systems
   url: /blog/2010/11/12/delving-into-institutional-information-systems/
+pingbacks:
+- approved: '1'
+  author: The evolution and rise of the garden beds &laquo; Blog for the le grande
+    potager
+  author_email: null
+  author_ip: 74.200.247.247
+  author_url: http://legrandepotager.wordpress.com/2010/11/13/the-evolution-and-rise-of-the-garden-beds/
+  content: '[...] achieved a turning point in my life, I know have more time to spend
+    on the garden. So between yesterday and today I&#8217;ve [...]'
+  date: '2010-11-13 16:18:56'
+  date_gmt: '2010-11-13 06:18:56'
+  id: '3200'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  content: '[...] the end of 2010 I&#8217;d just about finished the PhD and enrolled
+    to become a high school teacher. By January 2011 the thesis was finished, by May
+    it was accepted and graduation was [...]'
+  date: '2013-01-24 15:06:53'
+  date_gmt: '2013-01-24 05:06:53'
+  id: '3203'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Initial plans for BIM 2.0
   url: /blog/2010/11/09/initial-plans-for-bim-2-0/
+template: blog-post.html
 title: A turning point
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: stuartpalmer
-      author_email: spalm@deakin.edu.au
-      author_ip: 128.184.132.244
-      author_url: null
-      content: Oh the irony.  As one of the authors of the mentioned ALTC report, I can
-        further report that, as of Tuesday 9 November, my T&amp;L centre has been officially
-        notified of the commencement of a 'consultation period' for a major restructuring
-        - cue HR, NTEU and other parties to enter the fray.  Of course, by the findings
-        of our own report, this event was, in fact, overdue! :)
-      date: '2010-11-12 13:42:17'
-      date_gmt: '2010-11-12 03:42:17'
-      id: '3193'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Sarah
-      author_email: sarahthorneycroft@me.com
-      author_ip: 129.180.73.121
-      author_url: http://teaspot.wordpress.com
-      content: 'As someone who has more or less had the exact opposite shift in career
-        to you, I can likely only be moderately useful, but as you know, I do share your
-        frustrations with university L&amp;T. Your reservations about the school system
-        are correct also. That said, there''s a lot about the school system that''s really
-        organic, there''s an immediate adaptability that we HE boffins don''t have. Theory
-        goes out the window as soon as you step in the classroom and that can be quite
-        liberating (especially, I imagine, after you''ve just churned out 100,000 words
-        of theory).
-    
-    
-        The main thing I would say to you is - don''t prune your PLN. Some of the most
-        valuable people in mine are K12 teachers. Less relevant to my learning needs,
-        as you put it, but still valuable and I think my PLN would be the worse without
-        them.
-    
-    
-        And - grats on the PhD. Epic effort.'
-      date: '2010-11-12 13:52:00'
-      date_gmt: '2010-11-12 03:52:00'
-      id: '3194'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: stuartpalmer
-      author_email: spalm@deakin.edu.au
-      author_ip: 128.184.132.244
-      author_url: null
-      content: PS - Congratulations on the 'beginning of the end' for the doctoral studies!
-      date: '2010-11-12 13:54:55'
-      date_gmt: '2010-11-12 03:54:55'
-      id: '3195'
-      parent: '3193'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.168.165.135
-      author_url: https://djon.es/blog/
-      content: 'G''day Stuart, I had pondered that irony when you tweeted the restructure.
-        Had the people at your institution who moved for the restructure read the report?
-        Perhaps not a question you can answer here.
-    
-    
-        I wish you and all the others involved the best during this process. Above all
-        I hope it was better than the two restructures we went through within 18 months.
-    
-    
-        I guess being in a T&amp;L centre is a bit like Melbourne weather, if you don''t
-        like it now, wait a bit.   I couldn''t be bothered waiting anymore.'
-      date: '2010-11-12 13:58:11'
-      date_gmt: '2010-11-12 03:58:11'
-      id: '3196'
-      parent: '3193'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.168.165.135
-      author_url: https://djon.es/blog/
-      content: 're: the PLN.  I think I was starting to come to the same conclusion.  But
-        I have been wondering when enough is enough. Have seen folk following 1000s on
-        twitter, I often wonder how that can be managed and useful. Perhaps I need to
-        think about my own practices.
-    
-    
-        It''s the "now" of the classroom that really does beckon again. I enjoyed that
-        as a university teaching academic. The high school aspect will be similar, though
-        different.
-    
-    
-        Sarah, I guess the big question I have for someone like yourself is<blockquote>What
-        would you like to have known going into high school, that you know now?</blockquote>'
-      date: '2010-11-12 14:01:49'
-      date_gmt: '2010-11-12 04:01:49'
-      id: '3197'
-      parent: '3194'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Sarah
-      author_email: sarahthorneycroft@me.com
-      author_ip: 129.180.73.121
-      author_url: http://teaspot.wordpress.com
-      content: 'What would I have liked to have known? That if, like me, you are a pretty
-        introverted person, nothing in the world will prepare you for wrangling large
-        groups of children. Might be true for extroverts too but can''t help you on that
-        one. All the T&amp;L theory in the world did not help me know how to navigate
-        the realities of classroom management. My big mistake was being unwilling to admit
-        I was struggling with that and not asking for help.
-    
-    
-        The other thing I would have liked to have known was that admin and politics will
-        kill you, but working in HE you already know that.'
-      date: '2010-11-12 14:28:44'
-      date_gmt: '2010-11-12 04:28:44'
-      id: '3198'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.168.165.135
-      author_url: https://djon.es/blog/
-      content: 'Thanks Sarah.
-    
-    
-        I am an introvert and am expecting high school - especially junior maths - to
-        be a very different environment than university level IT.
-    
-    
-        At the moment, I''m actually excited about that.  Wonder how long that will last?'
-      date: '2010-11-12 15:15:38'
-      date_gmt: '2010-11-12 05:15:38'
-      id: '3199'
-      parent: '3198'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: stuartpalmer
-      author_email: spalm@deakin.edu.au
-      author_ip: 118.209.91.138
-      author_url: null
-      content: 'Hi David, thanks for that.
-    
-    
-        Stopping to read things would get in the way of the ''fire-ready-aim'' strategy
-        for action - any action.  I kid thee not when I say that one of the justifications
-        offered for the original desire to have the new structure all done and dusted
-        by the end of November was so that it could be included in the draft paperwork
-        being prepared for the next AUQA audit at my place!
-    
-    
-        One of my good colleagues here has been in a central teaching development role
-        for many years, and this will be his 10th (or maybe 11th, he can''t really remember)
-        restructure.
-    
-    
-        At this point, I''m quite ambivalent to the whole shenanigans.  But, I know there
-        are some others in related division also involved in the restructure, who may
-        suffer if it goes as currently proposed, and I do feel for them.'
-      date: '2010-11-14 20:03:10'
-      date_gmt: '2010-11-14 10:03:10'
-      id: '3201'
-      parent: '3193'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: null
-      content: 'David -
-    
-    
-        I didn''t see any mention of the Kahn Academy in your or others'' posts.  If you''ve
-        not checked it out, you simply must must do so!!!!!!
-    
-    
-        http://www.khanacademy.org/'
-      date: '2010-11-18 02:30:26'
-      date_gmt: '2010-11-17 16:30:26'
-      id: '3202'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: The evolution and rise of the garden beds &laquo; Blog for the le grande
-        potager
-      author_email: null
-      author_ip: 74.200.247.247
-      author_url: http://legrandepotager.wordpress.com/2010/11/13/the-evolution-and-rise-of-the-garden-beds/
-      content: '[...] achieved a turning point in my life, I know have more time to spend
-        on the garden. So between yesterday and today I&#8217;ve [...]'
-      date: '2010-11-13 16:18:56'
-      date_gmt: '2010-11-13 06:18:56'
-      id: '3200'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
-      content: '[...] the end of 2010 I&#8217;d just about finished the PhD and enrolled
-        to become a high school teacher. By January 2011 the thesis was finished, by May
-        it was accepted and graduation was [...]'
-      date: '2013-01-24 15:06:53'
-      date_gmt: '2013-01-24 05:06:53'
-      id: '3203'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I am unsure whether or not I believe in specific turning points. Perhaps life is a bit more complex. The metaphor of life as a road with specific forks which mark the turning points, seems a bit simplistic. But today does feel like a turning point due to two events:
 

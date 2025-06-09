@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-03-30 08:01:22+10:00
+date: 2011-03-29 22:01:22
 next:
   text: '"Supportive Learning Environments: Week 3, 4, 5 and 6"'
   url: /blog/2011/03/30/supportive-learning-environments-week-3-4-5-and-6/
@@ -14,9 +14,9 @@ tags:
 - ce21-advice
 - classroom
 - human-subjects-review-board
+template: blog-post.html
 title: Problems for teaching scholars
 type: post
-template: blog-post.html
 ---
 It appears that there is an increasing, [ERA](http://www.arc.gov.au/era/) driven trend within Australian universities for placing greater emphasis on teaching scholars. These are academics who are no longer expected to do research, apart from engage scholarly with their own teaching practice.  
   

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-08-20 13:34:51+10:00
+date: 2014-08-20 03:34:51
 next:
   text: Evaluating the use of blogs/reflective journals
   url: /blog/2014/08/21/evaluating-the-use-of-blogsreflective-journals/
 previous:
   text: Part C of catching up on NGL
   url: /blog/2014/08/18/part-c-of-catching-up-on-ngl/
+template: blog-post.html
 title: Reclaim, identity, and bricolage
 type: post
-template: blog-post.html
 ---
 Some thinking and reporting on some explorations of getting into the Reclaim project (movement?). -- _update:_ picking this up after a few weeks of inactivity.
 
@@ -49,8 +49,8 @@ Being introduced to anyone as "David Jones" in part commences the obligatory cul
 
 ### First world problems
 
-[![Why are my wipes at home not warm? #firs by avlxyz, on Flickr](images/12245947654_05bf0df5cb_m.jpg "Why are my wipes at home not warm? #firs by avlxyz, on Flickr")](https://www.flickr.com/photos/avlxyz/12245947654/)  
-[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/avlxyz/)[avlxyz](https://www.flickr.com/people/avlxyz/) [](http://www.imagecodr.org/)
+[![Why are my wipes at home not warm? #firs by avlxyz, on Flickr](https://djon.es/assets/blog/2014/08/20/reclaim-identity-and-bricolage/images/12245947654_05bf0df5cb_m.jpg "Why are my wipes at home not warm? #firs by avlxyz, on Flickr")](https://www.flickr.com/photos/avlxyz/12245947654/)  
+[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2014/08/20/reclaim-identity-and-bricolage/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/avlxyz/)[avlxyz](https://www.flickr.com/people/avlxyz/) [](http://www.imagecodr.org/)
 
 At this stage I have to label this as very much a first world problem. Given what's happening in Western Africa, Iraq, Ferguson (the inclusion of America in this list is incredibly sad, silly etc), Syria, Ukraine and many other places, worrying about my online identity strikes me variously as self-serving, irrelevant, confronting, worrying etc.
 

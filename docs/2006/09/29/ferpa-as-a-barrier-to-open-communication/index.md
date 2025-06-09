@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2006-09-29 09:20:57+10:00
+date: 2006-09-28 23:20:57
 next:
   text: What is online teaching
   url: /blog/2006/09/29/what-is-online-teaching/
 previous:
   text: UC Berkeley already using Google Video
   url: /blog/2006/09/28/uc-berkeley-already-using-google-video/
+template: blog-post.html
 title: FERPA as a barrier to open communication
 type: post
-template: blog-post.html
 ---
 A discussion on a mailing list indicates that government legislation may be a barrier to the Web 2.0 idea of making everything open.  In someway related to, or tied up with the issue of privacy etc.
 

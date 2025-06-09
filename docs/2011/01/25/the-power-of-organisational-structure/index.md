@@ -1,76 +1,73 @@
----
+﻿---
 categories:
 - journey
 - lak11
 - teaching
-date: 2011-01-25 10:37:51+10:00
+comments:
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: null
+  content: 'David David David -
+
+
+    You''re such an idealist.  By definition, the larger the organization, the bigger
+    and more entrenched the bureaucracy.  People who benefit the most from the status
+    quo are the biggest defenders of the status quo.  Every decision of every person
+    in every organization is ruled first by ego and self-interest, and then other
+    considerations.  People in large organizations cannot be trusted to do what''s
+    best for the organization.  There are certainly exceptions, but they are the ones
+    who are the biggest threat to others, and so the ones who attract the most criticism
+    and derision.
+
+
+    For me, the ONLY answer is to work on your own or in a small organization.  That''s
+    my lesson in life.'
+  date: '2011-01-26 02:24:45'
+  date_gmt: '2011-01-25 16:24:45'
+  id: '3228'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.187.101.166
+  author_url: https://djon.es/blog/
+  content: 'G''day Kevin,
+
+
+    One of the benefits of working in an Australian University used to be that you
+    were essentially left to your own devices. One of the major benefits during the
+    mid-1990s was that if you knew a bit of technology you could do stuff.  i.e. it
+    used to be like working on your own or in a small organisation.
+
+
+    With the increasing managerial tendencies in Australian universities and the rise
+    of enterprise e-learning, it is no more.  I guess you''ve identified one of the
+    underlying reasons why I didn''t want to stay in academia at the old university.
+
+
+    Not sure I''m going to find anything better elsewhere, might have to look around
+    for a small school....'
+  date: '2011-01-26 12:11:45'
+  date_gmt: '2011-01-26 02:11:45'
+  id: '3229'
+  parent: '3228'
+  type: comment
+  user_id: '1'
+date: 2011-01-25 00:37:51
 next:
   text: Analytics, semantic web and cognitive science
   url: /blog/2011/01/26/analytics-semantic-web-and-cognitive-science/
+pingbacks: []
 previous:
   text: The difference between utopian and dystopian visions
   url: /blog/2011/01/19/the-difference-between-utopian-and-dystopian-visions/
+template: blog-post.html
 title: The power of organisational structure
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: null
-      content: 'David David David -
-    
-    
-        You''re such an idealist.  By definition, the larger the organization, the bigger
-        and more entrenched the bureaucracy.  People who benefit the most from the status
-        quo are the biggest defenders of the status quo.  Every decision of every person
-        in every organization is ruled first by ego and self-interest, and then other
-        considerations.  People in large organizations cannot be trusted to do what''s
-        best for the organization.  There are certainly exceptions, but they are the ones
-        who are the biggest threat to others, and so the ones who attract the most criticism
-        and derision.
-    
-    
-        For me, the ONLY answer is to work on your own or in a small organization.  That''s
-        my lesson in life.'
-      date: '2011-01-26 02:24:45'
-      date_gmt: '2011-01-25 16:24:45'
-      id: '3228'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.187.101.166
-      author_url: https://djon.es/blog/
-      content: 'G''day Kevin,
-    
-    
-        One of the benefits of working in an Australian University used to be that you
-        were essentially left to your own devices. One of the major benefits during the
-        mid-1990s was that if you knew a bit of technology you could do stuff.  i.e. it
-        used to be like working on your own or in a small organisation.
-    
-    
-        With the increasing managerial tendencies in Australian universities and the rise
-        of enterprise e-learning, it is no more.  I guess you''ve identified one of the
-        underlying reasons why I didn''t want to stay in academia at the old university.
-    
-    
-        Not sure I''m going to find anything better elsewhere, might have to look around
-        for a small school....'
-      date: '2011-01-26 12:11:45'
-      date_gmt: '2011-01-26 02:11:45'
-      id: '3229'
-      parent: '3228'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 I find myself in an interesting transitionary period in learning. I'm in the final stages of my part-time PhD study, just waiting for the copy editor to check the last two chapters and then its submission time. I'm participating - participation that has been negatively impacted recently by the desire to get the thesis finalised - in a MOOC, [LAK11](http://learninganalytics.net/) and looking at returning to full-time study as a high school teacher in training. It is from within this context that the following arises.
 

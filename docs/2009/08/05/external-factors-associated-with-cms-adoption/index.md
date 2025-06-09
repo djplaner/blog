@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-4
 - design-theory
@@ -7,16 +7,16 @@ categories:
 - lmsevaluation
 - phd
 - thesis
-date: 2009-08-05 14:35:06+10:00
+date: 2009-08-05 04:35:06
 next:
   text: Losing weight, improving learning and teaching and complex systems
   url: /blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/
 previous:
   text: Automating calculation of LMS/CMS/VLE feature usage - a project?
   url: /blog/2009/08/05/automating-calculation-of-lmscmsvle-feature-usage-a-project/
+template: blog-post.html
 title: External factors associated with CMS adoption
 type: post
-template: blog-post.html
 ---
 This post follows on from [a previous post](/blog/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/) and continues an examination of some papers written by Malikowski and colleagues examining the adoption of features of an LMS/VLE/CMS. This one focuses on the 2006 paper.
 
@@ -75,7 +75,7 @@ In some cases STDDEV was twice as large as the percentage of faculty members usi
 
 They include the following pie chart that is meant to use the model from Malikowski et al (2007). But I can't, for the life of me, figure out how they get to it.
 
-[![Categories of CMS Features](images/3790475867_c28be8d8eb_m.jpg)](http://www.flickr.com/photos/david_jones/3790475867/ "Categories of CMS Features by David T Jones, on Flickr")
+[![Categories of CMS Features](https://djon.es/assets/blog/2009/08/05/external-factors-associated-with-cms-adoption/images/3790475867_c28be8d8eb_m.jpg)](http://www.flickr.com/photos/david_jones/3790475867/ "Categories of CMS Features by David T Jones, on Flickr")
 
 Found that only the college (discipline) could be said to be the only external factor that was a significant predictor of feature usage.
 

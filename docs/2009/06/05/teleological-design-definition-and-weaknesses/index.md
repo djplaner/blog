@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,166 +6,163 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-06-05 08:58:09+10:00
+comments: []
+date: 2009-06-04 22:58:09
 next:
   text: Ateleological processes - definition and weaknesses
   url: /blog/2009/06/05/ateleological-processes-definition-and-weaknesses/
+pingbacks:
+- approved: '1'
+  author: Ateleological processes &#8211; definition and weaknesses &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Teleological design &#8211; definition and&nbsp;weaknesses [...]'
+  date: '2009-06-05 09:09:27'
+  date_gmt: '2009-06-04 23:09:27'
+  id: '2558'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The teaching/research nexus &#8211; an example? &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 66.135.48.210
+  author_url: https://djon.es/blog/2009/06/05/the-teachingresearch-nexus-an-example/
+  content: '[...] I&#8217;ve added a couple of posts around teleological and ateleological
+    processes. WordPress.com has added to the ateleological post the following two
+    [...]'
+  date: '2009-06-05 09:48:02'
+  date_gmt: '2009-06-04 23:48:02'
+  id: '2559'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #13 &#8211; back after a week off &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/05/phd-update-13-back-after-a-week-off/
+  content: '[...] description of teleological processes and their weaknesses; [...]'
+  date: '2009-06-05 16:24:21'
+  date_gmt: '2009-06-05 06:24:21'
+  id: '2560'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: To all my friends and colleagues out there &#8211; PhD etiquette &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/06/14/to-all-my-friends-and-colleagues-out-there-phd-etiquette/
+  content: '[...] design (for more detail feel free to read other sections of the
+    thesis completed recently on teleological processes and ateleological processes)
+    &#8211; see some progress is being [...]'
+  date: '2009-06-14 11:30:24'
+  date_gmt: '2009-06-14 01:30:24'
+  id: '2561'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What can history tell us about e-learning and its future? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+  content: '[...] what is happening in our institution. The transition to Moodle is
+    being run as a very traditional teleological process. This means that any activity
+    not seen as directly contributing to the achievement of the purpose [...]'
+  date: '2009-06-18 10:49:43'
+  date_gmt: '2009-06-18 00:49:43'
+  id: '2562'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Questions about alternatives to curriculum mapping &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.248.141
+  author_url: https://djon.es/blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
+  content: '[...] bottom-up or emergent approaches is discussed in more detail in
+    a sequence of posts: overview, teleological and [...]'
+  date: '2010-01-19 13:20:11'
+  date_gmt: '2010-01-19 03:20:11'
+  id: '2563'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How to make curriculum mapping useful to university academics &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.63
+  author_url: https://djon.es/blog/2010/02/17/how-to-make-curriculum-mapping-useful-to-university-academics/
+  content: '[...] curriculum mapping is similar to most projects within organisations
+    and universities. It is a teleological process. Truex et al (2000) identify a
+    shared assumption about teleological design processes involving a [...]'
+  date: '2010-02-17 11:20:21'
+  date_gmt: '2010-02-17 01:20:21'
+  id: '2564'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.72
+  author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
+  content: '[...] of plan-driven or teleological design.Constructive alignments is
+    a teleological design process. It assumes you can identify the outcomes at the
+    start and use that as a basis to identify/design [...]'
+  date: '2010-05-14 14:14:13'
+  date_gmt: '2010-05-14 04:14:13'
+  id: '2565'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Three likely paths for learning analytics and academic in Oz higher education
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 69.170.134.162
+  author_url: https://djon.es/blog/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/
+  content: '[...] based on the assumptions of teleological processes.i.e. the system
+    is stable and predictable, the designers can manipulate the system&#8217;s [...]'
+  date: '2012-10-11 15:32:59'
+  date_gmt: '2012-10-11 05:32:59'
+  id: '2567'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Reading &#8211; Embracing Big Data in Complex Educational Systems: The
+    Learning Analytics Imperative and the Policy Challenge | The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 192.0.83.69
+  author_url: https://davidtjones.wordpress.com/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
+  content: '[&#8230;] But the basic premise I see in the paper is that to fix the
+    problems of the current inappropriate teleological processes used in institutional
+    strategic planning and policy setting is an enhanced/adaptive teleological [&#8230;]'
+  date: '2015-06-14 18:05:13'
+  date_gmt: '2015-06-14 08:05:13'
+  id: '2568'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Tell a story about your garden - narrative and SenseMaker
   url: /blog/2009/06/04/tell-a-story-about-your-garden-narrative-and-sensemaker/
+template: blog-post.html
 title: Teleological design - definition and weaknesses
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Ateleological processes &#8211; definition and weaknesses &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Teleological design &#8211; definition and&nbsp;weaknesses [...]'
-      date: '2009-06-05 09:09:27'
-      date_gmt: '2009-06-04 23:09:27'
-      id: '2558'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The teaching/research nexus &#8211; an example? &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 66.135.48.210
-      author_url: https://djon.es/blog/2009/06/05/the-teachingresearch-nexus-an-example/
-      content: '[...] I&#8217;ve added a couple of posts around teleological and ateleological
-        processes. WordPress.com has added to the ateleological post the following two
-        [...]'
-      date: '2009-06-05 09:48:02'
-      date_gmt: '2009-06-04 23:48:02'
-      id: '2559'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #13 &#8211; back after a week off &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/05/phd-update-13-back-after-a-week-off/
-      content: '[...] description of teleological processes and their weaknesses; [...]'
-      date: '2009-06-05 16:24:21'
-      date_gmt: '2009-06-05 06:24:21'
-      id: '2560'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: To all my friends and colleagues out there &#8211; PhD etiquette &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/06/14/to-all-my-friends-and-colleagues-out-there-phd-etiquette/
-      content: '[...] design (for more detail feel free to read other sections of the
-        thesis completed recently on teleological processes and ateleological processes)
-        &#8211; see some progress is being [...]'
-      date: '2009-06-14 11:30:24'
-      date_gmt: '2009-06-14 01:30:24'
-      id: '2561'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What can history tell us about e-learning and its future? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
-      content: '[...] what is happening in our institution. The transition to Moodle is
-        being run as a very traditional teleological process. This means that any activity
-        not seen as directly contributing to the achievement of the purpose [...]'
-      date: '2009-06-18 10:49:43'
-      date_gmt: '2009-06-18 00:49:43'
-      id: '2562'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Questions about alternatives to curriculum mapping &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.248.141
-      author_url: https://djon.es/blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
-      content: '[...] bottom-up or emergent approaches is discussed in more detail in
-        a sequence of posts: overview, teleological and [...]'
-      date: '2010-01-19 13:20:11'
-      date_gmt: '2010-01-19 03:20:11'
-      id: '2563'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How to make curriculum mapping useful to university academics &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.63
-      author_url: https://djon.es/blog/2010/02/17/how-to-make-curriculum-mapping-useful-to-university-academics/
-      content: '[...] curriculum mapping is similar to most projects within organisations
-        and universities. It is a teleological process. Truex et al (2000) identify a
-        shared assumption about teleological design processes involving a [...]'
-      date: '2010-02-17 11:20:21'
-      date_gmt: '2010-02-17 01:20:21'
-      id: '2564'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.72
-      author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
-      content: '[...] of plan-driven or teleological design.Constructive alignments is
-        a teleological design process. It assumes you can identify the outcomes at the
-        start and use that as a basis to identify/design [...]'
-      date: '2010-05-14 14:14:13'
-      date_gmt: '2010-05-14 04:14:13'
-      id: '2565'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Three likely paths for learning analytics and academic in Oz higher education
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 69.170.134.162
-      author_url: https://djon.es/blog/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/
-      content: '[...] based on the assumptions of teleological processes.i.e. the system
-        is stable and predictable, the designers can manipulate the system&#8217;s [...]'
-      date: '2012-10-11 15:32:59'
-      date_gmt: '2012-10-11 05:32:59'
-      id: '2567'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Reading &#8211; Embracing Big Data in Complex Educational Systems: The
-        Learning Analytics Imperative and the Policy Challenge | The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 192.0.83.69
-      author_url: https://davidtjones.wordpress.com/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
-      content: '[&#8230;] But the basic premise I see in the paper is that to fix the
-        problems of the current inappropriate teleological processes used in institutional
-        strategic planning and policy setting is an enhanced/adaptive teleological [&#8230;]'
-      date: '2015-06-14 18:05:13'
-      date_gmt: '2015-06-14 08:05:13'
-      id: '2568'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 After a long pause due to holidays and work, here's the next installment of the process component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) for chapter 2 of my [thesis](/blog/research/phd-thesis/). A [previous post](/blog/2009/05/25/teleological-and-ateleological-processes/) gave a brief overview of teleological and ateleological processes. The purpose of this post is to go into more detail about teleological processes. A subsequent post will do the same for ateleological.
 

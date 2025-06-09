@@ -1,40 +1,37 @@
----
+﻿---
 categories:
 - paris2008
-date: 2008-12-11 00:25:02+10:00
+comments:
+- approved: '1'
+  author: gblack57
+  author_email: smell@netspace.net.au
+  author_ip: 220.253.90.57
+  author_url: null
+  content: 'Think of hte stress you could have saved if you hadn''t have bought the
+    phone!
+
+
+    gb'
+  date: '2008-12-11 20:14:50'
+  date_gmt: '2008-12-11 10:14:50'
+  id: '1914'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-12-10 14:25:02
 next:
   text: Singapore to Paris
   url: /blog/2008/12/12/singapore-to-paris/
+pingbacks: []
 previous:
   text: Accept the fact that we have to treat almost anybody as a volunteer - implications
     for learning and teaching
   url: /blog/2008/12/05/accept-the-fact-that-we-have-to-treat-almost-anybody-as-a-volunteer-implications-for-learning-and-teaching/
 tags:
 - travel-changi-singapore-paris
+template: blog-post.html
 title: Struck Oil to Singapore
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: gblack57
-      author_email: smell@netspace.net.au
-      author_ip: 220.253.90.57
-      author_url: null
-      content: 'Think of hte stress you could have saved if you hadn''t have bought the
-        phone!
-    
-    
-        gb'
-      date: '2008-12-11 20:14:50'
-      date_gmt: '2008-12-11 10:14:50'
-      id: '1914'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 For the purposes of informing my family and keeping a record for my faulty memory I am going to blog, where possible, Sandy's and my trip to Paris for [ICIS'2008](http://www.icis2008.org/). This first installment is from the start of the travel in Struck Oil through to the QANTAS Club in Singapore Airport.
 
@@ -60,7 +57,7 @@ The one advantage was that the apparently bigger plan meant that there was room.
 
 So a few hours in Singapore airport was spent eating (not memorable), shopping (somewhat memorable) and sitting the in QANTAS club writing this. Sandy has just headed out to buy some sneakers as the boots she has on don't work well after podiatrial swelling.
 
-[![High Voltage Disney](images/3098101116_8f7507eec2_m.jpg)](http://www.flickr.com/photos/david_jones/3098101116/ "High Voltage Disney by David T Jones, on Flickr")
+[![High Voltage Disney](https://djon.es/assets/blog/2008/12/11/struck-oil-to-singapore/images/3098101116_8f7507eec2_m.jpg)](http://www.flickr.com/photos/david_jones/3098101116/ "High Voltage Disney by David T Jones, on Flickr")
 
 One of the laughs of Singapore airport was the Disney promotion. Just near where we were eating was this big, fake Disney set up. A stage of some sort with a cartoon pirate ship nearby. The pirate ship had a pirate Mickey standing on it, eye patch and all. Fairy lights all over it, very "nice" and lots of folk taking their photo in front of and on it.
 

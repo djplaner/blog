@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - elearning
 - indicators
-date: 2009-10-24 08:58:00+10:00
+date: 2009-10-23 22:58:00
 next:
   text: The bureaucratic model and the grammar and future of universities
   url: /blog/2009/10/26/the-bureaucratic-model-and-the-grammar-and-future-of-universities/
@@ -11,9 +11,9 @@ previous:
   url: /blog/2009/10/21/alternate-ways-to-get-the-real-story-in-organisations/
 tags:
 - vle-cms-lms
+template: blog-post.html
 title: Participation, impact, collecting data and connecting people
 type: post
-template: blog-post.html
 ---
 A couple of colleagues and I are trying to kickstart a little thing we call the [Indicators project](http://indicatorsproject.wordpress.com/). We've developed a "tag line" for the project which sums up the core of the project.
 
@@ -51,11 +51,11 @@ The X axis in both graphs is student final grade at our current institution. Fro
 
 In the first graph the Y axis is the average number of hits on either the course website or the course discussion forum. Hopefully you can see the pattern, students with better grades average a higher number of hits.
 
-[![Average student hits on course site/discussion forum for high staff participation courses](images/4037668845_dab85a9db1_m.jpg)](http://www.flickr.com/photos/david_jones/4037668845/ "Average student hits on course site/discussion forum for high staff participation courses by David T Jones, on Flickr")
+[![Average student hits on course site/discussion forum for high staff participation courses](https://djon.es/assets/blog/2009/10/24/participation-impact-collecting-data-and-connecting-people/images/4037668845_dab85a9db1_m.jpg)](http://www.flickr.com/photos/david_jones/4037668845/ "Average student hits on course site/discussion forum for high staff participation courses by David T Jones, on Flickr")
 
 In the next graph, the Y axis is the average number of posts (starting a discussion thread) and the average number of replies (responding to an existing discussion thread) in the course discussion forum. So far, the number of replies is always greater than the number of posts. As you can see, the pattern is still there, but it is somewhat less evident for replies.
 
-[![Average student posts/replies on discussion forums for high staff participation courses](images/4037668889_8ccb1d63cc_m.jpg)](http://www.flickr.com/photos/david_jones/4037668889/ "Average student posts/replies on discussion forums for high staff participation courses by David T Jones, on Flickr")
+[![Average student posts/replies on discussion forums for high staff participation courses](https://djon.es/assets/blog/2009/10/24/participation-impact-collecting-data-and-connecting-people/images/4037668889_8ccb1d63cc_m.jpg)](http://www.flickr.com/photos/david_jones/4037668889/ "Average student posts/replies on discussion forums for high staff participation courses by David T Jones, on Flickr")
 
 ### Importance of staff participation
 
@@ -67,11 +67,11 @@ What do you notice about the pattern between grade and LMS usage?
 
 First, the hits on the course site and the course discussion forum
 
-[![Average student hits on course site/discussion forum for super low staff participation courses](images/4037668923_b626637a3d_m.jpg)](http://www.flickr.com/photos/david_jones/4037668923/ "Average student hits on course site/discussion forum for super low staff participation courses by David T Jones, on Flickr")
+[![Average student hits on course site/discussion forum for super low staff participation courses](https://djon.es/assets/blog/2009/10/24/participation-impact-collecting-data-and-connecting-people/images/4037668923_b626637a3d_m.jpg)](http://www.flickr.com/photos/david_jones/4037668923/ "Average student hits on course site/discussion forum for super low staff participation courses by David T Jones, on Flickr")
 
 Now, the average number of posts and replies in the course discussion forum
 
-[![Average student posts/replies on discussion forums for super low staff participation courses](images/4038417332_8be6f549f4_m.jpg)](http://www.flickr.com/photos/david_jones/4038417332/ "Average student posts/replies on discussion forums for super low staff participation courses by David T Jones, on Flickr")
+[![Average student posts/replies on discussion forums for super low staff participation courses](https://djon.es/assets/blog/2009/10/24/participation-impact-collecting-data-and-connecting-people/images/4038417332_8be6f549f4_m.jpg)](http://www.flickr.com/photos/david_jones/4038417332/ "Average student posts/replies on discussion forums for super low staff participation courses by David T Jones, on Flickr")
 
 For me, the pattern is not there. The HD students appear to have decided there's no value on the course website and decided they need to rely upon themselves. They've still been able to get a HD in spite of the super low staff participation. More work needs to be done.
 

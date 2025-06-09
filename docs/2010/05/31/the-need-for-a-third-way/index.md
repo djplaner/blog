@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-4
 - design-theory
@@ -6,111 +6,108 @@ categories:
 - reflectivealignment
 - thesis
 - webfuse
-date: 2010-05-31 11:28:25+10:00
+comments: []
+date: 2010-05-31 01:28:25
 next:
   text: Adding OPML feeds to BIM
   url: /blog/2010/06/01/adding-opml-feeds-to-bim/
+pingbacks:
+- approved: '1'
+  author: 'Dealing with complexity &#8211; David Jones &amp; the third way for education
+    : DrAlb'
+  author_email: null
+  author_ip: 117.55.226.121
+  author_url: http://www.pama.net.au/dralb/?p=210
+  content: '[...] David Jones has posted an interesting piece about how he sees an
+    alignment between the third way popularised in politics and what might be needed
+    in education: The need for a third way &laquo; The Weblog of (a) David Jones.
+    [...]'
+  date: '2010-05-31 20:00:33'
+  date_gmt: '2010-05-31 10:00:33'
+  id: '3064'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The road not taken &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.88
+  author_url: https://djon.es/blog/2010/06/05/the-road-not-taken/
+  content: '[...] is why in the post that started this thread I proposed that the
+    first stage of improving learning and teaching (i.e. [...]'
+  date: '2010-06-05 09:03:49'
+  date_gmt: '2010-06-04 23:03:49'
+  id: '3065'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'The confusion of small and big changes: input versus output and types of
+    systems &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.14
+  author_url: https://djon.es/blog/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
+  content: '[...] The general solution I suggest is one slide 200 or so (it was only
+    a 60 minute presentation) and goes under the title &#8220;reflective alignment&#8221;
+    and can be summarised as All aspects of the learning and teaching environment
+    are aligned to enable and encourage academic staff to reflect on their teaching
+    with the aim of achieving 3rd order change. [...]'
+  date: '2010-06-07 13:29:57'
+  date_gmt: '2010-06-07 03:29:57'
+  id: '3066'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Course websites and &#8220;libertarian paternalism&#8221; &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.144
+  author_url: https://djon.es/blog/2010/06/08/course-websites-and-libertarian-paternalism/
+  content: '[...] ask them to do it efficiently and effectively? That&#8217;s one
+    perspective, my real interest is in a third way that tries to effectively merge
+    features of both incompetent paternalism and the academic free for [...]'
+  date: '2010-06-08 09:28:32'
+  date_gmt: '2010-06-07 23:28:32'
+  id: '3067'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Teachers decide what changes they will make \u2026 : DrAlb"
+  author_email: null
+  author_ip: 117.55.226.121
+  author_url: http://www.pama.net.au/dralb/?p=212
+  content: '[...] Jones spotted my comment on his post about the need for a third
+    way and writes about the need for academics to feel in control of change in teaching
+    and learning. That [...]'
+  date: '2010-06-18 06:43:06'
+  date_gmt: '2010-06-17 20:43:06'
+  id: '3068'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Trip report &#8211; Moodlemoot&#8217;AU 2010 &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 76.74.254.62
+  author_url: https://djon.es/blog/2010/07/16/trip-report-moodlemootau-2010/
+  content: '[...] that I am most interested in. The progress block appears to be particular
+    effective examples of a &#8220;nudge theory&#8221; approach to improving learning
+    and [...]'
+  date: '2010-07-19 14:22:59'
+  date_gmt: '2010-07-19 04:22:59'
+  id: '3069'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Adding email merge to BIM
   url: /blog/2010/05/30/2933/
+template: blog-post.html
 title: The need for a third way
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Dealing with complexity &#8211; David Jones &amp; the third way for education
-        : DrAlb'
-      author_email: null
-      author_ip: 117.55.226.121
-      author_url: http://www.pama.net.au/dralb/?p=210
-      content: '[...] David Jones has posted an interesting piece about how he sees an
-        alignment between the third way popularised in politics and what might be needed
-        in education: The need for a third way &laquo; The Weblog of (a) David Jones.
-        [...]'
-      date: '2010-05-31 20:00:33'
-      date_gmt: '2010-05-31 10:00:33'
-      id: '3064'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The road not taken &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.88
-      author_url: https://djon.es/blog/2010/06/05/the-road-not-taken/
-      content: '[...] is why in the post that started this thread I proposed that the
-        first stage of improving learning and teaching (i.e. [...]'
-      date: '2010-06-05 09:03:49'
-      date_gmt: '2010-06-04 23:03:49'
-      id: '3065'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'The confusion of small and big changes: input versus output and types of
-        systems &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.14
-      author_url: https://djon.es/blog/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
-      content: '[...] The general solution I suggest is one slide 200 or so (it was only
-        a 60 minute presentation) and goes under the title &#8220;reflective alignment&#8221;
-        and can be summarised as All aspects of the learning and teaching environment
-        are aligned to enable and encourage academic staff to reflect on their teaching
-        with the aim of achieving 3rd order change. [...]'
-      date: '2010-06-07 13:29:57'
-      date_gmt: '2010-06-07 03:29:57'
-      id: '3066'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Course websites and &#8220;libertarian paternalism&#8221; &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.144
-      author_url: https://djon.es/blog/2010/06/08/course-websites-and-libertarian-paternalism/
-      content: '[...] ask them to do it efficiently and effectively? That&#8217;s one
-        perspective, my real interest is in a third way that tries to effectively merge
-        features of both incompetent paternalism and the academic free for [...]'
-      date: '2010-06-08 09:28:32'
-      date_gmt: '2010-06-07 23:28:32'
-      id: '3067'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Teachers decide what changes they will make \u2026 : DrAlb"
-      author_email: null
-      author_ip: 117.55.226.121
-      author_url: http://www.pama.net.au/dralb/?p=212
-      content: '[...] Jones spotted my comment on his post about the need for a third
-        way and writes about the need for academics to feel in control of change in teaching
-        and learning. That [...]'
-      date: '2010-06-18 06:43:06'
-      date_gmt: '2010-06-17 20:43:06'
-      id: '3068'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Trip report &#8211; Moodlemoot&#8217;AU 2010 &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 76.74.254.62
-      author_url: https://djon.es/blog/2010/07/16/trip-report-moodlemootau-2010/
-      content: '[...] that I am most interested in. The progress block appears to be particular
-        effective examples of a &#8220;nudge theory&#8221; approach to improving learning
-        and [...]'
-      date: '2010-07-19 14:22:59'
-      date_gmt: '2010-07-19 04:22:59'
-      id: '3069'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 One of the themes for this blog is that the majority of current approaches to improving learning and teaching within universities simply don't work. At least not in terms of enabling improvement in a majority of the learning and teaching at an institution. Recently I finally completed reading the last bits of the book [Nudge](http://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X/ref=sr_1_1?ie=UTF8&s=books&qid=1265155607&sr=8-1) by Thaler and Sunstein. Chapter 18 is titled "The Real Third Way". This post explores how that metaphor connects with some of the thinking expressed here.
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - edu8117
-date: 2015-07-16 13:27:37+10:00
+date: 2015-07-16 03:27:37
 next:
   text: '"Import and the Book module: a case of knowledge loss?"'
   url: /blog/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/
 previous:
   text: Revising week 1 of EDU8117 - Networked and Global Learning
   url: /blog/2015/07/15/revising-week-1-of-edu8117-networked-and-global-learning/
+template: blog-post.html
 title: '"Me as learner: 2015 and learning analytics"'
 type: post
-template: blog-post.html
 ---
 It's July 2015 which means two things. First, Semester 2 is about to get underway and thankfully (though it's a two-edged sword) [EDU8117, Networked and Global Learning (netgl)](https://netgl.wordpress.com/) is running again. Second, it's summer in the northern hemisphere which seems to coincide with another round of xMOOCs running out of the US. Time to combine them both.
 
@@ -36,7 +36,7 @@ The MOOC I'm going to try and complete is [Big Data in Education](https://www.ed
 
 ### Why have I gone with a formal task?
 
-[![Early birthday present](images/17007169075_7c8bd07542_m.jpg)](https://www.flickr.com/photos/david_jones/17007169075/in/photolist-rUSbR2-7ZbGKD-fnEytE-dQ2LME-71D6An-71D6Sk-66arFa-656GBd-652t2V-5m2hPp-3wUcZj-3wKZoZ-3wLrSv-3wL3bx-3wQkvs "Early birthday present")
+[![Early birthday present](https://djon.es/assets/blog/2015/07/16/me-as-learner-2015-and-learning-analytics/images/17007169075_7c8bd07542_m.jpg)](https://www.flickr.com/photos/david_jones/17007169075/in/photolist-rUSbR2-7ZbGKD-fnEytE-dQ2LME-71D6An-71D6Sk-66arFa-656GBd-652t2V-5m2hPp-3wUcZj-3wKZoZ-3wLrSv-3wL3bx-3wQkvs "Early birthday present")
 
 I had seriously thought about using this as an opportunity to recapture my high school music experience and learn more about playing my birthday present this year (see the image to the right). This is more the type of "learning" I had in mind when designing the "me as learner" task for netgl. The idea was to move beyond more formal learning topics. Some previous participants have taken this approach and tried to learn about topics as diverse as baking bread or playing a particular bluegrass "fiddle" song/approach.
 

@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - thesis
-date: 2015-12-15 16:43:30+10:00
+comments: []
+date: 2015-12-15 06:43:30
 next:
   text: Finishing tweaks to Moodle book search block
   url: /blog/2016/01/17/finishing-tweaks-to-moodle-book-search-block/
+pingbacks:
+- approved: '1'
+  author: Finishing tweaks to Moodle book search block | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.113.137
+  author_url: https://davidtjones.wordpress.com/2016/01/17/finishing-tweaks-to-moodle-book-search-block/
+  content: '[&#8230;] previous post recorded some early exploration of what tweaks
+    might be necessary to be made to the Moodle book [&#8230;]'
+  date: '2016-01-17 14:31:20'
+  date_gmt: '2016-01-17 04:31:20'
+  id: '1463'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Book github tool: producing some HTML5'
   url: /blog/2015/12/14/book-github-tool-producing-some-html5/
 tags:
 - moodleopenbook
+template: blog-post.html
 title: Tweaking Moodle book search
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Finishing tweaks to Moodle book search block | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.113.137
-      author_url: https://davidtjones.wordpress.com/2016/01/17/finishing-tweaks-to-moodle-book-search-block/
-      content: '[&#8230;] previous post recorded some early exploration of what tweaks
-        might be necessary to be made to the Moodle book [&#8230;]'
-      date: '2016-01-17 14:31:20'
-      date_gmt: '2016-01-17 04:31:20'
-      id: '1463'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A couple of weeks ago I gave [a presentation](/blog/2015/11/30/opening-up-and-enhancing-moodle-books-with-github-epub-etc/) showing off some work from the [Moodle open Book project](/blog/the-moodle-open-book-module-project/). The middle of the presentation was a live demonstration of the Moodle Book and various features. At one point in the presentation members of the audience (including a number of academics who used the Book module in their Moodle sites) gave an audible gasp. This occurred when I showed off [the search block](https://github.com/stronk7/moodle-block_search_books) for the Book module. A tool that allows the user to search the contents of all the books in a Moodle course. The gasp indicated just how much teachers and students desire this feature. A feature I've been [calling out](/blog/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/) for quite some time.
 

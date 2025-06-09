@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-06-07 10:04:23+10:00
+comments: []
+date: 2010-06-07 00:04:23
 next:
   text: The confusion of small and big changes
   url: /blog/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
+pingbacks:
+- approved: '1'
+  author: Some rough Webfuse usage statistics &#8211; 2001 through 2009 &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.31
+  author_url: https://djon.es/blog/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/
+  content: '[...] of the major developments in Webfuse from 1999/2000 was the development
+    of the Wf framework which provided the basis for &#8220;Webfuse&#8221; interactive
+    web applications. There were a broad [...]'
+  date: '2010-06-17 14:10:01'
+  date_gmt: '2010-06-17 04:10:01'
+  id: '3084'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Object orientation and design patterns
   url: /blog/2010/06/07/object-orientation-and-design-patterns/
+template: blog-post.html
 title: The Wf Framework
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Some rough Webfuse usage statistics &#8211; 2001 through 2009 &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.31
-      author_url: https://djon.es/blog/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/
-      content: '[...] of the major developments in Webfuse from 1999/2000 was the development
-        of the Wf framework which provided the basis for &#8220;Webfuse&#8221; interactive
-        web applications. There were a broad [...]'
-      date: '2010-06-17 14:10:01'
-      date_gmt: '2010-06-17 04:10:01'
-      id: '3084'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Yet another section from Chapter 5 of [the thesis](/blog/research/phd-thesis/) describing the various changes made to Webfuse in the period from 2000 onwards. This one (very briefly) describes the Webfuse framework for dynamic web applications.
 

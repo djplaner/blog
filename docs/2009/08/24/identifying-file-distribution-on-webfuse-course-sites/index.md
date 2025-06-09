@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -7,16 +7,16 @@ categories:
 - lmsevaluation
 - phd
 - thesis
-date: 2009-08-24 12:03:58+10:00
+date: 2009-08-24 02:03:58
 next:
   text: Learning requires willingness to suffer injury to one's self-esteem
   url: /blog/2009/08/25/learning-requires-willingness-to-suffer-injury-to-ones-self-esteem/
 previous:
   text: Other information systems in higher education
   url: /blog/2009/08/23/other-information-systems-in-higher-education/
+template: blog-post.html
 title: Identifying file distribution on Webfuse course sites
 type: post
-template: blog-post.html
 ---
 As part of the thesis I've been engaging with some of the literature around LMS feature usage to evaluate usage of Webfuse. A good first stab of this was reported in [an earlier post](/blog/2009/08/07/breadth-of-webfuse-use-1997-through-2009/). There were a number of limitations of that work, it's time to expand a bit on it. To some extent for the PhD and to some extent because of a paper.
 
@@ -80,7 +80,7 @@ The next aim is to generate a file that contains the number of files for each co
 
 After deleting a few entries for backup or temp directories. We have our list. Time to manipulate the data, turn it into a CSV file and into Excel. Graph below, fairly significant disparity in number of files - the type of curve looks very familiar though.
 
-[![Number of uploaded files per Webfuse course site for 2005](images/3849901067_4875c08fd4_m.jpg)](http://www.flickr.com/photos/david_jones/3849901067/ "Number of uploaded files per Webfuse course site for 2005 by David T Jones, on Flickr")
+[![Number of uploaded files per Webfuse course site for 2005](https://djon.es/assets/blog/2009/08/24/identifying-file-distribution-on-webfuse-course-sites/images/3849901067_4875c08fd4_m.jpg)](http://www.flickr.com/photos/david_jones/3849901067/ "Number of uploaded files per Webfuse course site for 2005 by David T Jones, on Flickr")
 
 In total, for 2005 there were 178 course sites that had files. That's out of 299 - so 59.5%. This compares to the 50% that Col found for the Blackboard course sites in the same year.
 
@@ -110,7 +110,7 @@ Let's have a look at the 2005 data. Remove some dummy data, remove extra whitesp
 
 In terms of the number of announcements contributed by the teaching staff. The following graph shows the distribution. The largest number for a single offering was 34. Based on a 12 week CQU teaching term, that's almost, on average, 3 announcements a week
 
-[![Number of coordinator announcements - Webfuse 2005](images/3850198849_6f9ec50c42_m.jpg)](http://www.flickr.com/photos/david_jones/3850198849/ "Number of coordinator announcements - Webfuse 2005 by David T Jones, on Flickr")
+[![Number of coordinator announcements - Webfuse 2005](https://djon.es/assets/blog/2009/08/24/identifying-file-distribution-on-webfuse-course-sites/images/3850198849_6f9ec50c42_m.jpg)](http://www.flickr.com/photos/david_jones/3850198849/ "Number of coordinator announcements - Webfuse 2005 by David T Jones, on Flickr")
 
 ### Power laws and LMS usage?
 

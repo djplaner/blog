@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim2
-date: 2011-11-19 16:43:31+10:00
+date: 2011-11-19 06:43:31
 next:
   text: Twitter, pre-service teachers and creating networks
   url: /blog/2011/11/21/twitter-pre-service-teachers-and-creating-networks/
 previous:
   text: Do any universities know what&#039;s happening with their LMS?
   url: /blog/2011/11/15/do-any-universities-know-whats-happening-with-their-lms/
+template: blog-post.html
 title: Porting BIM to Moodle 2 - Step 1
 type: post
-template: blog-post.html
 ---
 The wife's out for some culture so I find myself late on a Saturday night taking the initial steps in the second attempt to port BIM to Moodle 2. Started reading Mike Churchward's blog series on [porting modules to Moodle 2](http://tandl.churchward.ca/2011/10/converting-m19-plug-ins-to-m2.html).
 

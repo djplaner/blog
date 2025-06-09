@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - quotes
-date: 2009-02-16 14:07:00+10:00
+date: 2009-02-16 04:07:00
 next:
   text: Some ideas for e-learning indicators - releasing half-baked ideas
   url: /blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/
 previous:
   text: Frameworks and representation - tidy versus messy
   url: /blog/2009/02/16/frameworks-and-representation-tidy-versus-messy/
+template: blog-post.html
 title: Common sense (the things we take for granted) is the big obstacle for innovation
 type: post
-template: blog-post.html
 ---
 [Wesley Fryer](http://www.wesfryer.com/bio/) has a [post](http://www.speedofcreativity.org/2009/02/15/sir-ken-robinson-on-creativity-and-transforming-our-schools-itsc-2009/) summarising a talk given by [Sir Ken Robinson](http://www.sirkenrobinson.com/). I'm pulling out a few relevant quotes/recollections for later use.
 

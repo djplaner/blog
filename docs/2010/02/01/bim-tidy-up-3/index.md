@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - bim
-date: 2010-02-01 14:38:13+10:00
+date: 2010-02-01 04:38:13
 next:
   text: '"Loosing weight, nudging and changing the L&#038;T environment - early foundations
     of my work"'
@@ -9,9 +9,9 @@ next:
 previous:
   text: Week 10 - don&#039;t know why I&#039;m testing ignore
   url: /blog/2010/02/01/week-10-dont-know-why-im-testing-ignore/
+template: blog-post.html
 title: '"BIM - Tidy up #3"'
 type: post
-template: blog-post.html
 ---
 Next step in tidying up is to clean up the checking, calculation and setting of the blog and feed URLs as students register their blogs.
 

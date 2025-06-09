@@ -1,54 +1,52 @@
----
-date: 2008-11-13 08:59:49+10:00
+﻿---
+comments:
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: "<ul>\n  <li> A test</li>\n  <li> A test </li>\n</ul>"
+  date: '2012-02-10 14:52:46'
+  date_gmt: '2012-02-10 04:52:46'
+  id: '1874'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2008-11-12 22:59:49
+pingbacks:
+- approved: '1'
+  author: You only get this type of education in class &#8211; mythic attributes of
+    the lecture &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
+  content: '[...] in information technology, I traveled to Barcelona for my first
+    ACM SIGCSE conference to present this paper (Jones, 1996) about teaching university
+    level information technology courses by distance education. [...]'
+  date: '2009-06-09 14:51:07'
+  date_gmt: '2009-06-09 04:51:07'
+  id: '1873'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What&#8217;s good for the &#8220;open content&#8221; is good for the LMS/virtual
+    learning space? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.86
+  author_url: https://davidtjones.wordpress.com/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
+  content: '[&#8230;] all the distance education courses for a University had to use
+    the same style guide, even if it broke all the Prolog code in the Machine Intelligence
+    material. Mandating consistent, minimum standards for all courses in [&#8230;]'
+  date: '2015-04-15 10:15:28'
+  date_gmt: '2015-04-15 00:15:28'
+  id: '1877'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Computing by Distance Education: Problems and Solutions"'
 type: page
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: "<ul>\n  <li> A test</li>\n  <li> A test </li>\n</ul>"
-      date: '2012-02-10 14:52:46'
-      date_gmt: '2012-02-10 04:52:46'
-      id: '1874'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: You only get this type of education in class &#8211; mythic attributes of
-        the lecture &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
-      content: '[...] in information technology, I traveled to Barcelona for my first
-        ACM SIGCSE conference to present this paper (Jones, 1996) about teaching university
-        level information technology courses by distance education. [...]'
-      date: '2009-06-09 14:51:07'
-      date_gmt: '2009-06-09 04:51:07'
-      id: '1873'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What&#8217;s good for the &#8220;open content&#8221; is good for the LMS/virtual
-        learning space? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.86
-      author_url: https://davidtjones.wordpress.com/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
-      content: '[&#8230;] all the distance education courses for a University had to use
-        the same style guide, even if it broke all the Prolog code in the Machine Intelligence
-        material. Mandating consistent, minimum standards for all courses in [&#8230;]'
-      date: '2015-04-15 10:15:28'
-      date_gmt: '2015-04-15 00:15:28'
-      id: '1877'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Computing by Distance Education: Problems and Solutions, Integrating Technology into Computer Science Education, Association for Computing Machinery, Barcelona, Gordon Davies, pp 139-146
 

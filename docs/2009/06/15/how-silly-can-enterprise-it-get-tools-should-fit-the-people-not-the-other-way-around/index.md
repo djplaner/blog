@@ -1,114 +1,112 @@
----
+﻿---
 categories:
 - elearning
 - shadowsystems
-date: 2009-06-15 10:40:43+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: "<blockquote>There are lots of \u201Clittle things\u201D like this that\
+    \ reinforce to users of these systems that the they are having to change to fit\
+    \ the tool, not the other way around.</blockquote>\nThe problem is that there\
+    \ is no computer program or simulation on earth that can replicate a face-to-face\
+    \ conversation with another human being. It is ALWAYS going to be a compromise\
+    \ because the optimal solution from a users perspective is simply not possible\
+    \ yet. Not only that, but a solution that invests heavily in HCI will be far more\
+    \ expensive than one that relies on humans adapting to the way the machine needs\
+    \ the data presented. Do you want your slash at twice the price? What about 10\
+    \ times the price? At some point everyone needs to pick their comfortable point\
+    \ on the price / usability scale. What seems to be the point of contention is\
+    \ that enterprise systems make a wholesale choice for you.\n\nThat said, HCI has\
+    \ huge <a href=\"http://books.google.com.au/books?id=kDVgsGgkF4cC\" rel=\"nofollow\"\
+    >cost benefits</a>, so you can't simply ignore it totally. This is especially\
+    \ true in a mature space where UI is increasingly the <a>differentiating factor</a>.\
+    \ You can also view the whole web2.0 movement as a user interface enhancement\
+    \ over traditional web pages.  Best thing about developing HCI is that you know\
+    \ users are never going to go back if you can deliver a superior interface.\n\n\
+    Personally I'm fairly intolerant of poor UI too, especially in cases where there\
+    \ has been an established intuitive solution like the example above. Maybe I'm\
+    \ just riled up about demanding that tools \"should\" fit whereas I'd rather seek\
+    \ the tool that is the best fit and use that (even if it involves guerilla tactics\
+    \ if inside a corporate structure)."
+  date: '2009-06-17 15:31:22'
+  date_gmt: '2009-06-17 05:31:22'
+  id: '2603'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.130
+  author_url: https://djon.es/blog/
+  content: 'G''day Tony,
+
+
+    For me it''s more than just HCI.  However, I think you get close to my problem
+    with current practice with the first part of your comments.
+
+
+    <blockquote>The problem is that there is no computer program or simulation on
+    earth that can replicate a face-to-face conversation with another human being.
+    It is ALWAYS going to be a compromise because the optimal solution from a users
+    perspective is simply not possible yet.</blockquote>
+
+
+    The problem I have with most information technology is the assumption that you
+    can develop a solution before folk have used it, implement it and then leave it.
+
+
+    For me, enterprise IT has to, as much as possible, attempt to be as much like
+    a conversation as possible.  i.e. Enterprise IT has to be listening to what people
+    are saying and to be clearly and transparently seen to be changing and improving
+    what it does in response to that conversation.
+
+
+    Sure, you will never get a perfect solution. You can''t do everything all the
+    time.
+
+
+    However, the model at the moment is to actively ignore people and be seen to not
+    respond.  Which is just broken. IMHO
+
+
+    David.'
+  date: '2009-06-18 14:00:49'
+  date_gmt: '2009-06-18 04:00:49'
+  id: '2604'
+  parent: '2603'
+  type: comment
+  user_id: '1'
+date: 2009-06-15 00:40:43
 next:
   text: Institutional e-learning strategies
   url: /blog/2009/06/17/institutional-e-learning-strategies/
+pingbacks:
+- approved: '1'
+  author: Gaps, shadow systems and the VLE/LMS &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/07/31/gaps-shadow-systems-and-the-vlelms/
+  content: '[...] with is the lack of fit between enterprise systems and what people
+    want to do with them. I&#8217;ve blogged about this with enterprise systems, learned
+    to live and thrive in spite of that gap and drawn some lessons from it for enterprise
+    [...]'
+  date: '2009-07-31 11:51:32'
+  date_gmt: '2009-07-31 01:51:32'
+  id: '2605'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #14 - Moving to a new day'
   url: /blog/2009/06/14/phd-update-14-moving-to-a-new-day/
+template: blog-post.html
 title: How silly can enterprise IT get? Tools should fit the people, not the other
   way around
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: "<blockquote>There are lots of \u201Clittle things\u201D like this that\
-        \ reinforce to users of these systems that the they are having to change to fit\
-        \ the tool, not the other way around.</blockquote>\nThe problem is that there\
-        \ is no computer program or simulation on earth that can replicate a face-to-face\
-        \ conversation with another human being. It is ALWAYS going to be a compromise\
-        \ because the optimal solution from a users perspective is simply not possible\
-        \ yet. Not only that, but a solution that invests heavily in HCI will be far more\
-        \ expensive than one that relies on humans adapting to the way the machine needs\
-        \ the data presented. Do you want your slash at twice the price? What about 10\
-        \ times the price? At some point everyone needs to pick their comfortable point\
-        \ on the price / usability scale. What seems to be the point of contention is\
-        \ that enterprise systems make a wholesale choice for you.\n\nThat said, HCI has\
-        \ huge <a href=\"http://books.google.com.au/books?id=kDVgsGgkF4cC\" rel=\"nofollow\"\
-        >cost benefits</a>, so you can't simply ignore it totally. This is especially\
-        \ true in a mature space where UI is increasingly the <a>differentiating factor</a>.\
-        \ You can also view the whole web2.0 movement as a user interface enhancement\
-        \ over traditional web pages.  Best thing about developing HCI is that you know\
-        \ users are never going to go back if you can deliver a superior interface.\n\n\
-        Personally I'm fairly intolerant of poor UI too, especially in cases where there\
-        \ has been an established intuitive solution like the example above. Maybe I'm\
-        \ just riled up about demanding that tools \"should\" fit whereas I'd rather seek\
-        \ the tool that is the best fit and use that (even if it involves guerilla tactics\
-        \ if inside a corporate structure)."
-      date: '2009-06-17 15:31:22'
-      date_gmt: '2009-06-17 05:31:22'
-      id: '2603'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.130
-      author_url: https://djon.es/blog/
-      content: 'G''day Tony,
-    
-    
-        For me it''s more than just HCI.  However, I think you get close to my problem
-        with current practice with the first part of your comments.
-    
-    
-        <blockquote>The problem is that there is no computer program or simulation on
-        earth that can replicate a face-to-face conversation with another human being.
-        It is ALWAYS going to be a compromise because the optimal solution from a users
-        perspective is simply not possible yet.</blockquote>
-    
-    
-        The problem I have with most information technology is the assumption that you
-        can develop a solution before folk have used it, implement it and then leave it.
-    
-    
-        For me, enterprise IT has to, as much as possible, attempt to be as much like
-        a conversation as possible.  i.e. Enterprise IT has to be listening to what people
-        are saying and to be clearly and transparently seen to be changing and improving
-        what it does in response to that conversation.
-    
-    
-        Sure, you will never get a perfect solution. You can''t do everything all the
-        time.
-    
-    
-        However, the model at the moment is to actively ignore people and be seen to not
-        respond.  Which is just broken. IMHO
-    
-    
-        David.'
-      date: '2009-06-18 14:00:49'
-      date_gmt: '2009-06-18 04:00:49'
-      id: '2604'
-      parent: '2603'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Gaps, shadow systems and the VLE/LMS &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/07/31/gaps-shadow-systems-and-the-vlelms/
-      content: '[...] with is the lack of fit between enterprise systems and what people
-        want to do with them. I&#8217;ve blogged about this with enterprise systems, learned
-        to live and thrive in spite of that gap and drawn some lessons from it for enterprise
-        [...]'
-      date: '2009-07-31 11:51:32'
-      date_gmt: '2009-07-31 01:51:32'
-      id: '2605'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I have a thing against large scale enterprise information systems (such as ERP systems like Peoplesoft or learning management systems - commercial or open source) and how they are generally implemented within organisations. This morning provides a wonderful example of why.
 
@@ -156,7 +154,7 @@ What sort of message do you think this sends to the users?
 
 All this reminded me of the song [From Little Things Big Things Grow](http://en.wikipedia.org/wiki/From_Little_Things_Big_Things_Grow)
 
-\[youtube=http://www.youtube.com/watch?v=\_tHEGo-g3mw\]
+!!! warning "Video no longer available"
 
 ### Organisational fit and success
 

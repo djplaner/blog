@@ -1,14 +1,14 @@
----
-date: 2006-10-22 21:38:02+10:00
+﻿---
+date: 2006-10-22 11:38:02
 next:
   text: The missing Ps - Purpose and place
   url: /blog/2006/10/22/purpose-and-place/
 previous:
   text: The missing Ps - Perception
   url: /blog/2006/10/19/the-missing-ps-perception/
+template: blog-post.html
 title: Teleological approach to organisational reviews and change projects
 type: post
-template: blog-post.html
 ---
 I know of a few organisations that are currently undergoing that favourite past-time of all new management and the greatest fear of people in their new organisations, the organisational restructure. As part of another thread of reading I came across a [post](http://eclecticbill.blogspot.com/2006/04/wisdom-of-numbskulls.html) that has a nice take on these events.
 

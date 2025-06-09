@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - missingps
 - web-20-course-sites
-date: 2006-12-21 09:17:32+10:00
+date: 2006-12-20 23:17:32
 next:
   text: Prototyping a Web 2.0 Course site
   url: /blog/2006/12/21/prototyping-a-web-20-course-site/
 previous:
   text: Social capital, REACT, Trust - misc resources
   url: /blog/2006/12/19/social-capital-react-trust-misc-resources/
+template: blog-post.html
 title: Software as a service - Google apps for your domain
 type: post
-template: blog-post.html
 ---
 The Economist magazine ran an [article](http://www.economist.com/business/displaystory.cfm?story_id=8450071) on Dec 19th, 2006 which is sub-titled - "Consumer technologies are invading corporate computing".
 

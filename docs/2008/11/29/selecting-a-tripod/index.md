@@ -1,73 +1,70 @@
----
+﻿---
 categories:
 - photography
-date: 2008-11-29 16:16:46+10:00
+comments:
+- approved: '1'
+  author: simillibus
+  author_email: wtaylor@simillibus.org
+  author_ip: 24.21.138.151
+  author_url: null
+  content: 'David, I love my gorillapod - I suspect you''ll find it a good move.
+
+    I do have a lighter camera (still not moved up to a DSLR), so weight might be
+    an issue.  I use mine for backpacking and one-bag travel via trains in eastern
+    Europe. It''ll mount in some pretty creative places.
+
+    - will taylor'
+  date: '2008-11-29 17:47:09'
+  date_gmt: '2008-11-29 07:47:09'
+  id: '1904'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'G''day Will,
+
+
+    Thanks for the affirmation.  The weight was a consideration, one mentioned in
+    the reviews the various "selecting a tripod" pages you can google.
+
+
+    It appears that the Gorillapod SLR-Zoom (http://www.joby.com/products/gorillapod/slrzoom/)
+    will take up to 3 kilograms.
+
+
+    According to Sony my camera only weights just over 0.5 kilograms.  Add the lens,
+    battery etc and I think it should be okay.
+
+
+    I guess I''ve decided.
+
+
+    David.'
+  date: '2008-11-29 18:43:55'
+  date_gmt: '2008-11-29 08:43:55'
+  id: '1905'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2008-11-29 06:16:46
 next:
   text: A time to rethink enterprise helpdesk systems and management
   url: /blog/2008/12/03/a-time-to-rethink-enterprise-helpdesk-systems-and-management/
+pingbacks: []
 previous:
   text: Indications of limitations - blog based discussions
   url: /blog/2008/11/27/indications-of-limitations-blog-based-discussions/
+template: blog-post.html
 title: Selecting a tripod
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: simillibus
-      author_email: wtaylor@simillibus.org
-      author_ip: 24.21.138.151
-      author_url: null
-      content: 'David, I love my gorillapod - I suspect you''ll find it a good move.
-    
-        I do have a lighter camera (still not moved up to a DSLR), so weight might be
-        an issue.  I use mine for backpacking and one-bag travel via trains in eastern
-        Europe. It''ll mount in some pretty creative places.
-    
-        - will taylor'
-      date: '2008-11-29 17:47:09'
-      date_gmt: '2008-11-29 07:47:09'
-      id: '1904'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'G''day Will,
-    
-    
-        Thanks for the affirmation.  The weight was a consideration, one mentioned in
-        the reviews the various "selecting a tripod" pages you can google.
-    
-    
-        It appears that the Gorillapod SLR-Zoom (http://www.joby.com/products/gorillapod/slrzoom/)
-        will take up to 3 kilograms.
-    
-    
-        According to Sony my camera only weights just over 0.5 kilograms.  Add the lens,
-        battery etc and I think it should be okay.
-    
-    
-        I guess I''ve decided.
-    
-    
-        David.'
-      date: '2008-11-29 18:43:55'
-      date_gmt: '2008-11-29 08:43:55'
-      id: '1905'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 It's been a week or so since I purchased the [new camera](/blog/2008/11/21/starting-a-new-journey-and-hobby-photography/). Last weekend I had to buy Aperture 2 for my Mac so I could easily pull the raw photos off the camera. Have been fairly happy with that purchase and the photos have [flowed](/blog/2008/11/21/first-photo/).
 
-[![The Beautiful Wife](images/3049789388_7752103a2f_m.jpg)](http://www.flickr.com/photos/david_jones/3049789388/ "The Beautiful Wife by David T Jones, on Flickr")
+[![The Beautiful Wife](https://djon.es/assets/blog/2008/11/29/selecting-a-tripod/images/3049789388_7752103a2f_m.jpg)](http://www.flickr.com/photos/david_jones/3049789388/ "The Beautiful Wife by David T Jones, on Flickr")
 
 I've only put 10 to 20 of them onto my [Flickr photostream](http://www.flickr.com/photos/david_jones/), a lot more sitting on the hard drive and I've yet to take on any assignments. I need to do this to start really learning something about photography, rather than simply some trial and error.
 
@@ -75,7 +72,7 @@ Of the photos I've placed on Flickr so far, the shot of the missus is the most v
 
 Was going to try and pick a favourite, but couldn't decide. I don't mind this one of Zeke.
 
-[![Reflective Rider](images/3049755360_839f2343fa_m.jpg)](http://www.flickr.com/photos/david_jones/3049755360/ "Reflective Rider by David T Jones, on Flickr")
+[![Reflective Rider](https://djon.es/assets/blog/2008/11/29/selecting-a-tripod/images/3049755360_839f2343fa_m.jpg)](http://www.flickr.com/photos/david_jones/3049755360/ "Reflective Rider by David T Jones, on Flickr")
 
 ### The next accessory
 

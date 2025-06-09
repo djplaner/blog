@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - cognitiveedge
 - complexityleadership
@@ -6,90 +6,87 @@ categories:
 - highereducation
 - psframework
 - research
-date: 2014-01-21 10:52:01+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 58.110.46.210
+  author_url: http://cj13.wordpress.com/
+  content: "Sturgeon's law comes to mind for your first question. For the second,\
+    \ I was fortunate to stumble upon 3 folk who understood 'leadership' and they\
+    \ informed how I tried to work with folk - my remote mentors when I needed mentoring\
+    \ in the face of ridiculous, absurdist, self agrandisement - the rest? - frauds,\
+    \ snake oil merchants in a world swimming in snake oil--and these are the kind\
+    \ terms to describe the jetsam that one finds in much of the 'leadership' in the\
+    \ academy in Oz (there are good folk in this mess but they, in my experience are\
+    \ rare and not good at stomping on the under-talented bullies that pop up in these\
+    \ roles.  Those that can't do it teach, those who can't teach opt to \"lead\"\
+    \ not having the first clue about what that might mean.\n\nIf a \"leader\" is\
+    \ not growing leaders then she/he is not a leader.\n\nThe good guys:\n\nRicardo\
+    \ Semler,\nDee Hock\n&amp;\nJean-Fran\xE7ois Zobrist\n\nor, if you'd prefer a\
+    \ more artistic version of the same argument: http://www.ted.com/talks/lang/eng/itay_talgam_lead_like_the_great_conductors.html\n\
+    \nhappy to add to this collection - the rest... frauds."
+  date: '2014-01-21 19:50:04'
+  date_gmt: '2014-01-21 09:50:04'
+  id: '933'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.80.93
+  author_url: https://djon.es/blog/
+  content: This will be a good start, thanks Chris.  I've heard you mention Semler
+    and Hock previously.  I'm wondering how much the ideas of these folk have infected
+    the formal literature, especially in the school leadership stuff?  To explore
+    as time permits.
+  date: '2014-01-22 15:50:41'
+  date_gmt: '2014-01-22 05:50:41'
+  id: '934'
+  parent: '933'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 58.110.46.210
+  author_url: http://cj13.wordpress.com/
+  content: I'd be thrilled to  know if you found anyone who was. I should not pass
+    judgement on the ed. leadership lit. but what I have read, long time back never
+    impressed me.
+  date: '2014-01-22 17:59:33'
+  date_gmt: '2014-01-22 07:59:33'
+  id: '935'
+  parent: '934'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: adrianriojas
+  author_email: adrian@ygchurch.com
+  author_ip: 162.194.248.145
+  author_url: http://adrianriojas.wordpress.com
+  content: Reblogged this on <a href="http://adrianriojas.org/2014/02/19/leadership-as-defining-whats-successful/"
+    rel="nofollow">| Adrian D. Riojas, M.Ed |</a>.
+  date: '2014-02-20 03:25:20'
+  date_gmt: '2014-02-19 17:25:20'
+  id: '936'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2014-01-21 00:52:01
 next:
   text: '"A #moodle course site wide "macro" facility?"'
   url: /blog/2014/01/22/a-moodle-course-site-wide-macro-facility/
+pingbacks: []
 previous:
   text: Analysing some course evaluation comments
   url: /blog/2014/01/15/analysing-some-course-evaluation-comments/
 tags:
 - leadership
+template: blog-post.html
 title: Leadership as defining what's successful
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 58.110.46.210
-      author_url: http://cj13.wordpress.com/
-      content: "Sturgeon's law comes to mind for your first question. For the second,\
-        \ I was fortunate to stumble upon 3 folk who understood 'leadership' and they\
-        \ informed how I tried to work with folk - my remote mentors when I needed mentoring\
-        \ in the face of ridiculous, absurdist, self agrandisement - the rest? - frauds,\
-        \ snake oil merchants in a world swimming in snake oil--and these are the kind\
-        \ terms to describe the jetsam that one finds in much of the 'leadership' in the\
-        \ academy in Oz (there are good folk in this mess but they, in my experience are\
-        \ rare and not good at stomping on the under-talented bullies that pop up in these\
-        \ roles.  Those that can't do it teach, those who can't teach opt to \"lead\"\
-        \ not having the first clue about what that might mean.\n\nIf a \"leader\" is\
-        \ not growing leaders then she/he is not a leader.\n\nThe good guys:\n\nRicardo\
-        \ Semler,\nDee Hock\n&amp;\nJean-Fran\xE7ois Zobrist\n\nor, if you'd prefer a\
-        \ more artistic version of the same argument: http://www.ted.com/talks/lang/eng/itay_talgam_lead_like_the_great_conductors.html\n\
-        \nhappy to add to this collection - the rest... frauds."
-      date: '2014-01-21 19:50:04'
-      date_gmt: '2014-01-21 09:50:04'
-      id: '933'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.80.93
-      author_url: https://djon.es/blog/
-      content: This will be a good start, thanks Chris.  I've heard you mention Semler
-        and Hock previously.  I'm wondering how much the ideas of these folk have infected
-        the formal literature, especially in the school leadership stuff?  To explore
-        as time permits.
-      date: '2014-01-22 15:50:41'
-      date_gmt: '2014-01-22 05:50:41'
-      id: '934'
-      parent: '933'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 58.110.46.210
-      author_url: http://cj13.wordpress.com/
-      content: I'd be thrilled to  know if you found anyone who was. I should not pass
-        judgement on the ed. leadership lit. but what I have read, long time back never
-        impressed me.
-      date: '2014-01-22 17:59:33'
-      date_gmt: '2014-01-22 07:59:33'
-      id: '935'
-      parent: '934'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: adrianriojas
-      author_email: adrian@ygchurch.com
-      author_ip: 162.194.248.145
-      author_url: http://adrianriojas.wordpress.com
-      content: Reblogged this on <a href="http://adrianriojas.org/2014/02/19/leadership-as-defining-whats-successful/"
-        rel="nofollow">| Adrian D. Riojas, M.Ed |</a>.
-      date: '2014-02-20 03:25:20'
-      date_gmt: '2014-02-19 17:25:20'
-      id: '936'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 After spending a few days visiting friends and family in Central Queensland - not to mention enjoying the beach - a long 7+ hour drive home provided an opportunity for some thinking. I've long had significant qualms about the notion of leadership, especially as it is increasingly being understood and defined by the current corporatisation of universities and schools. The rhetoric is increasingly strong amongst schools with the current fashion for assuming that Principals can be the saviour of schools that have broken free from the evils of bureaucracy. I even work within an institution where a leadership research group is quite active amongst the education faculty.
 

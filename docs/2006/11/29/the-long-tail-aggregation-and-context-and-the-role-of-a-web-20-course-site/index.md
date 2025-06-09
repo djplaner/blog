@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2006-11-29 16:25:51+10:00
+date: 2006-11-29 06:25:51
 next:
   text: Software as a Service (SaaS) and elearning
   url: /blog/2006/11/29/software-as-a-service-saas-and-elearning/
 previous:
   text: The first missing Ps presentation
   url: /blog/2006/11/29/the-first-missing-ps-presentation/
+template: blog-post.html
 title: The Long Tail - aggregation and context and the role of a "Web 2.0 course site"
 type: post
-template: blog-post.html
 ---
 The model inherent in most university based elearning and in most LMS/CMS/VLEs relies on course offering based websites that contain content produced primarily by the academic. This is the standard model used by the majority of academics in designing their teaching. Academics can spend upwards of 90% of their planning and development creating information (Oliver 1999) as the primary focus of learning.
 

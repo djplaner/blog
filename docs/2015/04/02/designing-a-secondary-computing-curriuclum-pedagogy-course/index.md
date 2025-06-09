@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - eds4406
-date: 2015-04-02 11:06:46+10:00
+date: 2015-04-02 01:06:46
 next:
   text: Starting the "Moodle open book" project
   url: /blog/2015/04/13/starting-the-moodle-open-book-project/
 previous:
   text: Concrete lounges and why basketball players aren&#039;t better hockey players
   url: /blog/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/
+template: blog-post.html
 title: '"Designing a Secondary Computing curriuclum &#038; pedagogy course"'
 type: post
-template: blog-post.html
 ---
 A colleague and I have been tasked with the design of [EDS4406 Secondary Computing Curriculum and Pedagogy](http://www.usq.edu.au/course/specification/2015/EDS4406-S2-2015-WEB-TWMBA.html). It's one of a suite of discpiline specific courses being designed to be taken be pre-service teachers preparing to teach those disciplines at a high school level. The following outlines some initial ideas for the course design.
 

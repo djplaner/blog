@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - web-20-course-sites
-date: 2006-09-18 12:24:31+10:00
+date: 2006-09-18 02:24:31
 next:
   text: BAM, blogs and problems with spam blog lockouts
   url: /blog/2006/09/18/bam-blogs-and-problems-with-spam-blog-lockouts/
 previous:
   text: Helpdesk and training - first step in SDO
   url: /blog/2006/09/18/helpdesk-and-training-first-step-in-sdo/
+template: blog-post.html
 title: Google video as a host for streaming/lectures
 type: post
-template: blog-post.html
 ---
 I'm becoming interested in the notion of [Web 2.0 course sites](http://cq-pan.cqu.edu.au/david-jones/blog/?p=15) as the next step in the evolutionary development of Webfuse.
 

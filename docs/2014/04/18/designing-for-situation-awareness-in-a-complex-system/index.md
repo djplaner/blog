@@ -1,67 +1,64 @@
----
+﻿---
 categories:
 - indicators
 - irac
-date: 2014-04-18 15:17:54+10:00
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 118.208.67.177
+  author_url: null
+  content: I take your point about the system design section appearing to be in the
+    complicated systems category. The situation awareness literature comes out of
+    human factors and the most well known application is flight crews in aircraft.
+    In this case, evolutionary approaches based on safe-fail probes from the complexity
+    literature are not really viable, not to mention it might upset the passengers
+    in first-class. I think that designing for situation awareness in elearning, would
+    look quite a bit different to what was described in this paper and this paper
+    is biased towards industries where single failures can have a high price. However,
+    it would be interesting to compare the number of variables in play in the operation
+    of an aircraft compared to the number of variables in play in a single academic's
+    online classroom. Even better would be to compare how many of these variables
+    are being presented to the operators by their respective technologies.
+  date: '2014-04-18 15:52:27'
+  date_gmt: '2014-04-18 05:52:27'
+  id: '979'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.187.8.72
+  author_url: https://djon.es/blog/
+  content: 'Given the role mental models - conceptions of L&amp;T - play in situation
+    awareness I wonder whether it''s possible to identify a set of variables that
+    people would be interested in.  Is there a set of variables that all teachers
+    in all contexts would be interested in?  Not sure there is, especially if you''re
+    starting with where the academics are, rather than where you think they should
+    be.
+
+
+    One of the questions I''m interested in from the above is how many of the "problems"
+    experience in a course can be levelled at the students/teacher and how many at
+    the "systems"?'
+  date: '2014-04-19 13:56:40'
+  date_gmt: '2014-04-19 03:56:40'
+  id: '980'
+  parent: '979'
+  type: comment
+  user_id: '1'
+date: 2014-04-18 05:17:54
 next:
   text: How much reblogging is "bad"?
   url: /blog/2014/05/05/how-much-reblogging-is-bad/
+pingbacks: []
 previous:
   text: Staff need to be using the same tools they use to teach to also learn
   url: /blog/2014/04/02/staff-need-to-be-using-the-same-tools-they-use-to-teach-to-also-learn/
+template: blog-post.html
 title: Designing for situation awareness in a complex system
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 118.208.67.177
-      author_url: null
-      content: I take your point about the system design section appearing to be in the
-        complicated systems category. The situation awareness literature comes out of
-        human factors and the most well known application is flight crews in aircraft.
-        In this case, evolutionary approaches based on safe-fail probes from the complexity
-        literature are not really viable, not to mention it might upset the passengers
-        in first-class. I think that designing for situation awareness in elearning, would
-        look quite a bit different to what was described in this paper and this paper
-        is biased towards industries where single failures can have a high price. However,
-        it would be interesting to compare the number of variables in play in the operation
-        of an aircraft compared to the number of variables in play in a single academic's
-        online classroom. Even better would be to compare how many of these variables
-        are being presented to the operators by their respective technologies.
-      date: '2014-04-18 15:52:27'
-      date_gmt: '2014-04-18 05:52:27'
-      id: '979'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.187.8.72
-      author_url: https://djon.es/blog/
-      content: 'Given the role mental models - conceptions of L&amp;T - play in situation
-        awareness I wonder whether it''s possible to identify a set of variables that
-        people would be interested in.  Is there a set of variables that all teachers
-        in all contexts would be interested in?  Not sure there is, especially if you''re
-        starting with where the academics are, rather than where you think they should
-        be.
-    
-    
-        One of the questions I''m interested in from the above is how many of the "problems"
-        experience in a course can be levelled at the students/teacher and how many at
-        the "systems"?'
-      date: '2014-04-19 13:56:40'
-      date_gmt: '2014-04-19 03:56:40'
-      id: '980'
-      parent: '979'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The following is a summary and probably some thoughts on
 

@@ -1,62 +1,59 @@
----
+﻿---
 categories:
 - eei
-date: 2017-03-09 09:59:20+10:00
+comments:
+- approved: '1'
+  author: Bill Wade
+  author_email: bill.wade@usq.edu.au
+  author_ip: 139.86.69.45
+  author_url: null
+  content: 'Thanks David - a good scan of the landscape, as much as time would permit
+    you, I expect.  I continue to follow NAVITAS''s Learning and Teaching updates:
+
+    http://learningandteaching-navitas.com
+
+
+    They have established an institutional "space" to assure sharing of practice.
+
+
+    So one example of attempt to gather, collect and share.   I wonder what you and
+    others think of this approach?'
+  date: '2017-03-10 10:26:52'
+  date_gmt: '2017-03-10 00:26:52'
+  id: '5532'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.41
+  author_url: null
+  content: 'Bill, thanks for the additional pointer to another example.  Valuable,
+    especially since the above really isn''t a scan.  It''s more sharing an accidental
+    discovery during the week (Teaching@Sydney), connecting it to what I already knew
+    (@sthcrft''s coffee courses & ANU''s adoption thereof), and reflecting on the
+    difference and what might be.
+
+
+    Bigger scan yet to come. So keep the pointers coming.'
+  date: '2017-03-10 10:34:56'
+  date_gmt: '2017-03-10 00:34:56'
+  id: '5533'
+  parent: '5532'
+  type: comment
+  user_id: '1'
+date: 2017-03-08 23:59:20
 next:
   text: How we are rethinking L&T grants, awards and professional learning
   url: /blog/2017/03/09/how-we-are-rethinking-lt-grants-awards-and-professional-learning/
+pingbacks: []
 previous:
   text: Thinking about (more) reproducible research and learning analytics
   url: /blog/2017/03/08/thinking-about-more-reproducible-research-and-learning-analytics/
+template: blog-post.html
 title: Communication and professional learning for teaching at Universities
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Bill Wade
-      author_email: bill.wade@usq.edu.au
-      author_ip: 139.86.69.45
-      author_url: null
-      content: 'Thanks David - a good scan of the landscape, as much as time would permit
-        you, I expect.  I continue to follow NAVITAS''s Learning and Teaching updates:
-    
-        http://learningandteaching-navitas.com
-    
-    
-        They have established an institutional "space" to assure sharing of practice.
-    
-    
-        So one example of attempt to gather, collect and share.   I wonder what you and
-        others think of this approach?'
-      date: '2017-03-10 10:26:52'
-      date_gmt: '2017-03-10 00:26:52'
-      id: '5532'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.41
-      author_url: null
-      content: 'Bill, thanks for the additional pointer to another example.  Valuable,
-        especially since the above really isn''t a scan.  It''s more sharing an accidental
-        discovery during the week (Teaching@Sydney), connecting it to what I already knew
-        (@sthcrft''s coffee courses & ANU''s adoption thereof), and reflecting on the
-        difference and what might be.
-    
-    
-        Bigger scan yet to come. So keep the pointers coming.'
-      date: '2017-03-10 10:34:56'
-      date_gmt: '2017-03-10 00:34:56'
-      id: '5533'
-      parent: '5532'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 One of the significant challenges I'll be facing in the new position are around how to help the institution effectively engage teaching academics in relevant communication/professional learning that will help them. One of the immediate challenges from this task is identifying examples of good practice that have attempted to unify communication and professional learning for teaching at Universities into something user-centered and contemporary.
 

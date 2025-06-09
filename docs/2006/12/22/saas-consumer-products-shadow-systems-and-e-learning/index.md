@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - enterprise-20
 - web-20-course-sites
-date: 2006-12-22 11:32:31+10:00
+date: 2006-12-22 01:32:31
 next:
   text: Rationale for the Web 2.0 Course Site approach
   url: /blog/2006/12/23/rationale-for-the-web-20-course-site-approach/
 previous:
   text: Collaboration, Design and Innovation
   url: /blog/2006/12/22/collaboration-design-and-innovation/
+template: blog-post.html
 title: SaaS, Consumer products, shadow systems and e-learning
 type: post
-template: blog-post.html
 ---
 In a [recent post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=77) I commented on the trend around how consumer driven computing is driving the development of "software as a service". In particular, pointing to an article from the Economist that talked about how Arizona State University was using Google Apps to host email accounts for their students.
 

@@ -1,86 +1,83 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - learninganalytics-elearning
-date: 2012-10-22 12:34:56+10:00
+comments: []
+date: 2012-10-22 02:34:56
 next:
   text: '"The quest to make sense of information: A research commentary"'
   url: /blog/2012/10/25/the-quest-to-make-sense-of-information-a-research-commentary/
+pingbacks:
+- approved: '1'
+  author: Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional
+    Strategic&nbsp;Plan | Analyse This | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/analyse-this/p/3053999982/numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan
+  content: '[...] The following has some reflection/questions generated while reading
+    Macfadyen, L. P., &amp; Dawson, S. (2012). Numbers Are Not Enough. Why e-Learning
+    Analytics Failed to Inform an Institutional Str...&nbsp; [...]'
+  date: '2012-10-22 12:45:13'
+  date_gmt: '2012-10-22 02:45:13'
+  id: '488'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The Blog of D. Jones | Numbers Are Not Enough. Why e-Learning Analytics
+    Failed to Inform an Institutional Strategic&nbsp;Plan | Educaci&oacute;n flexible
+    y abierta | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/flexible-abierta/p/3055273867/the-blog-of-d-jones-numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan
+  content: '[...] The following has some reflection/questions generated while reading
+    Macfadyen, L. P., &amp; Dawson, S. (2012). Numbers Are Not Enough. Why e-Learning
+    Analytics Failed to Inform an Institutional Str...&nbsp; [...]'
+  date: '2012-10-22 16:45:08'
+  date_gmt: '2012-10-22 06:45:08'
+  id: '489'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Weblog of D. Jones | Numbers Are Not Enough. Why e-Learning Analytics Failed
+    to Inform an Institutional Strategic&nbsp;Plan | Educaci&oacute;n flexible y abierta
+    | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/flexible-abierta/p/3055286928/weblog-of-d-jones-numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan
+  content: '[...] The following has some reflection/questions generated while reading
+    Macfadyen, L. P., &amp; Dawson, S. (2012). Numbers Are Not Enough. Why e-Learning
+    Analytics Failed to Inform an Institutional Str...&nbsp; [...]'
+  date: '2012-10-22 16:51:33'
+  date_gmt: '2012-10-22 06:51:33'
+  id: '490'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional
+    Strategic&nbsp;Plan | Aprendiendo a Distancia | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/aprendiendo-a-distancia/p/3055726421/numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan
+  content: '[...] The following has some reflection/questions generated while reading
+    Macfadyen, L. P., &amp; Dawson, S. (2012). Numbers Are Not Enough. Why e-Learning
+    Analytics Failed to Inform an Institutional Str...&nbsp; [...]'
+  date: '2012-10-22 20:39:37'
+  date_gmt: '2012-10-22 10:39:37'
+  id: '491'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The Texas sharpshooter fallacy and other issues for learning analytics
   url: /blog/2012/10/18/the-texas-sharpshooter-fallacy-and-other-issues-for-learning-analytics/
+template: blog-post.html
 title: Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional
   Strategic Plan
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional
-        Strategic&nbsp;Plan | Analyse This | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/analyse-this/p/3053999982/numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan
-      content: '[...] The following has some reflection/questions generated while reading
-        Macfadyen, L. P., &amp; Dawson, S. (2012). Numbers Are Not Enough. Why e-Learning
-        Analytics Failed to Inform an Institutional Str...&nbsp; [...]'
-      date: '2012-10-22 12:45:13'
-      date_gmt: '2012-10-22 02:45:13'
-      id: '488'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The Blog of D. Jones | Numbers Are Not Enough. Why e-Learning Analytics
-        Failed to Inform an Institutional Strategic&nbsp;Plan | Educaci&oacute;n flexible
-        y abierta | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/flexible-abierta/p/3055273867/the-blog-of-d-jones-numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan
-      content: '[...] The following has some reflection/questions generated while reading
-        Macfadyen, L. P., &amp; Dawson, S. (2012). Numbers Are Not Enough. Why e-Learning
-        Analytics Failed to Inform an Institutional Str...&nbsp; [...]'
-      date: '2012-10-22 16:45:08'
-      date_gmt: '2012-10-22 06:45:08'
-      id: '489'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Weblog of D. Jones | Numbers Are Not Enough. Why e-Learning Analytics Failed
-        to Inform an Institutional Strategic&nbsp;Plan | Educaci&oacute;n flexible y abierta
-        | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/flexible-abierta/p/3055286928/weblog-of-d-jones-numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan
-      content: '[...] The following has some reflection/questions generated while reading
-        Macfadyen, L. P., &amp; Dawson, S. (2012). Numbers Are Not Enough. Why e-Learning
-        Analytics Failed to Inform an Institutional Str...&nbsp; [...]'
-      date: '2012-10-22 16:51:33'
-      date_gmt: '2012-10-22 06:51:33'
-      id: '490'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional
-        Strategic&nbsp;Plan | Aprendiendo a Distancia | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/aprendiendo-a-distancia/p/3055726421/numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan
-      content: '[...] The following has some reflection/questions generated while reading
-        Macfadyen, L. P., &amp; Dawson, S. (2012). Numbers Are Not Enough. Why e-Learning
-        Analytics Failed to Inform an Institutional Str...&nbsp; [...]'
-      date: '2012-10-22 20:39:37'
-      date_gmt: '2012-10-22 10:39:37'
-      id: '491'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following has some reflection/questions generated while reading
 

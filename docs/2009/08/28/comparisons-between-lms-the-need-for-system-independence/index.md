@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,51 +6,48 @@ categories:
 - indicators
 - phd
 - thesis
-date: 2009-08-28 15:31:57+10:00
+comments: []
+date: 2009-08-28 05:31:57
 next:
   text: '"Learning Tools in Higher Education: Products, Characteristics, Procurement"'
   url: /blog/2009/08/30/learning-tools-in-higher-education-products-characteristics-procurement/
+pingbacks:
+- approved: '1'
+  author: How do you develop a cross-LMS usage comparison? &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/09/09/how-do-you-develop-a-cross-lms-usage-comparison/
+  content: '[...] do you develop a cross-LMS usage&nbsp;comparison?  I recently posted
+    about the need to develop an approach that allows for the simple and consistent
+    comparison of usage [...]'
+  date: '2009-09-09 15:59:16'
+  date_gmt: '2009-09-09 05:59:16'
+  id: '2734'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Examining feature adoption &#8211; slightly better approach &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.68
+  author_url: https://djon.es/blog/2010/07/01/examining-feature-adoption-slightly-better-approach/
+  content: '[...] it into a form that can be compared with other systems. I&#8217;ve
+    done this before. It was first blogged about and then became part of an ASCILITE
+    paper (Beer et al, [...]'
+  date: '2010-07-01 12:41:18'
+  date_gmt: '2010-07-01 02:41:18'
+  id: '2735'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #22 - one day active, but some movement'
   url: /blog/2009/08/28/phd-update-22-one-day-active-but-some-movement/
+template: blog-post.html
 title: Comparisons between LMS - the need for system independence
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: How do you develop a cross-LMS usage comparison? &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/09/09/how-do-you-develop-a-cross-lms-usage-comparison/
-      content: '[...] do you develop a cross-LMS usage&nbsp;comparison?  I recently posted
-        about the need to develop an approach that allows for the simple and consistent
-        comparison of usage [...]'
-      date: '2009-09-09 15:59:16'
-      date_gmt: '2009-09-09 05:59:16'
-      id: '2734'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Examining feature adoption &#8211; slightly better approach &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.68
-      author_url: https://djon.es/blog/2010/07/01/examining-feature-adoption-slightly-better-approach/
-      content: '[...] it into a form that can be compared with other systems. I&#8217;ve
-        done this before. It was first blogged about and then became part of an ASCILITE
-        paper (Beer et al, [...]'
-      date: '2010-07-01 12:41:18'
-      date_gmt: '2010-07-01 02:41:18'
-      id: '2735'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Some colleagues and I are putting the finishing touches on a paper that has arisen out of the [indicators project](http://beerc.wordpress.com/2009/03/15/the-indicators-project/). The paper is an exploratory paper, seeking to find interesting patterns that might indicate good or bad things about the use of LMS (learning management systems, aka course management systems, virtual learning environments etc) that might help improve decision-making by all participants (students through management). I hope to post the paper in coming days.
 
@@ -72,7 +69,7 @@ The only published approach we're aware of that attempts to make a first step to
 
 I've talked about and used the model previously ([first](/blog/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/), [second](/blog/2009/08/07/breadth-of-webfuse-use-1997-through-2009/) and other places). For the purposes of the paper we produced a different representation of the Malikowski et al (2007) model.
 
-[![Reworked Malikowski model](images/3858116950_aa68b05446_m.jpg)](http://www.flickr.com/photos/david_jones/3858116950/ "Reworked Malikowski model by David T Jones, on Flickr")
+[![Reworked Malikowski model](https://djon.es/assets/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/images/3858116950_aa68b05446_m.jpg)](http://www.flickr.com/photos/david_jones/3858116950/ "Reworked Malikowski model by David T Jones, on Flickr")
 
 From my perspective there are three contributions the model makes
 
@@ -89,7 +86,7 @@ The benefit the model has provided us is the ability to group the different feat
 
 Malikowski et al (2007) define this to include announcements, uploaded files and the use of the gradebook to share grades (but not assignment submission etc.). The following graph shows the percentage of course sites in both Blackboard (black continuous line), Webfuse (black dashed lines) and the "benchmark region" identified in Malikowski et al. In the case of transmitting content the "benchmark region" is between 50 and 100%.
 
-[![Feature adoption - Transmit Content - Wf vs Bb](images/3864198214_270c126ecc_o.png)](http://www.flickr.com/photos/david_jones/3864198214/ "Feature adoption - Transmit Content - Wf vs Bb by David T Jones, on Flickr")
+[![Feature adoption - Transmit Content - Wf vs Bb](https://djon.es/assets/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/images/3864198214_270c126ecc_o.png)](http://www.flickr.com/photos/david_jones/3864198214/ "Feature adoption - Transmit Content - Wf vs Bb by David T Jones, on Flickr")
 
 This shows that both Blackboard and Webfuse are in the "benchmark region". Not surprising given the pre-dominant use of LMSs for content transmission. What may be surprising is that Webfuse only averages around 60-75%. This is due to one of those differences in LMS. Webfuse is designed to automatically create default course sites that contain a range of content. Also, it's quite common for the announcements facility in a Webfuse course site to be used by faculty management to disseminate administrative announcements to students.
 
@@ -99,7 +96,7 @@ So, in reality 100% of Webfuse courses transmit content. The percentage show tho
 
 Class interactions covers chat rooms, email, discussion forums, mailing lists etc. Anything that get folk in a course talking.
 
-[![Feature adoption - Class Interaction- Wf vs Bb](images/3864198348_cd541c27fe_o.png)](http://www.flickr.com/photos/david_jones/3864198348/ "Feature adoption - Class Interaction- Wf vs Bb by David T Jones, on Flickr")
+[![Feature adoption - Class Interaction- Wf vs Bb](https://djon.es/assets/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/images/3864198348_cd541c27fe_o.png)](http://www.flickr.com/photos/david_jones/3864198348/ "Feature adoption - Class Interaction- Wf vs Bb by David T Jones, on Flickr")
 
 Both Blackboard and Webfuse are, to varying extents, outside of the "benchmark area". Webfuse quite considerably reaching levels near 100% in recent years. Blackboard has only just crept over. This creeping over of Bb may be an indicator that the "benchmark area" is out of date. It was created drawing on 2004 and earlier literature. If feature adoption increases over time, the "benchmark area" has probably moved up.
 
@@ -107,7 +104,7 @@ Both Blackboard and Webfuse are, to varying extents, outside of the "benchmark a
 
 Online assignment submission, quizzes and use of other tools to assess/evaluate students.
 
-[![Feature adoption - Evaluating Students - Bb vs Wf](images/3863413831_a92d545fe8_o.png)](http://www.flickr.com/photos/david_jones/3863413831/ "Feature adoption - Evaluating Students - Bb vs Wf by David T Jones, on Flickr")
+[![Feature adoption - Evaluating Students - Bb vs Wf](https://djon.es/assets/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/images/3863413831_a92d545fe8_o.png)](http://www.flickr.com/photos/david_jones/3863413831/ "Feature adoption - Evaluating Students - Bb vs Wf by David T Jones, on Flickr")
 
 Over recent years Webfuse has seen double the adoption of these features than Blackboard. It's grown outside the "benchmark area". Most of this is online assignment submission, in fact some of the courses using the Webfuse online assignment submission system are actually Blackboard courses.
 
@@ -117,7 +114,7 @@ The last category we covered was evaluating the course/instruction through surve
 
 Which raises an interesting question. I clearly remember a non-Webfuse person being quite critical that Webfuse did not offer the computer-based instruction funtionality - we could have added it but no-one ever asked. What is better, paying for features few people ever use or not having features that a few people will use?
 
-[![Feature adoption: evaluating Courses Bb versus Wf](images/3863413941_be7d9fa713_o.png)](http://www.flickr.com/photos/david_jones/3863413941/ "Feature adoption: evaluating Courses Bb versus Wf by David T Jones, on Flickr")
+[![Feature adoption: evaluating Courses Bb versus Wf](https://djon.es/assets/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/images/3863413941_be7d9fa713_o.png)](http://www.flickr.com/photos/david_jones/3863413941/ "Feature adoption: evaluating Courses Bb versus Wf by David T Jones, on Flickr")
 
 First, it should be pointed out that for "rarely used" features like course evaluation there is an absence of percentages in Malikowski et al (2007). I've specified 20% as the upper limit for this "benchmark area" because "moderately used" was 20% or higher. So it's probably unfair to describe the Blackboard adoption level as being at the bottom of the range. On the hand, Webfuse is streets ahead. Near 100% dropping to just less than 40%. More on this below.
 

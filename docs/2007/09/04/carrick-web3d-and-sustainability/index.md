@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - web3dx
-date: 2007-09-04 21:53:44+10:00
+date: 2007-09-04 11:53:44
 next:
   text: Design-based research and theory
   url: /blog/2007/09/04/design-based-research-and-theory/
@@ -9,9 +9,9 @@ previous:
   text: Why &quot;modeller-broker&quot; orientation is inherently limited - bridging
     the gap
   url: /blog/2007/09/03/why-modeller-broker-orientation-is-inherently-limited-bridging-the-gap/
+template: blog-post.html
 title: Carrick, Web3D and Sustainability
 type: post
-template: blog-post.html
 ---
 I'm lucky enough to be involved with a [Carrick funded project](http://cddu.cqu.edu.au/index.php/Web3D_Exchange_Project) looking at how to integrate 3D immersive technologies into university education. My fellow project team members have already been put through the uplifting experience that is my pessimism. I'm quite sure that experience was enough for them to reconsider the value of having be involved.
 

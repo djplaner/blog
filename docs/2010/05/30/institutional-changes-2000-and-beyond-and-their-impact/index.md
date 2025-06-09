@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,160 +6,157 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-05-30 13:40:18+10:00
+comments:
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: null
+  content: 'David
+
+
+    Fascinating stuff - very similar to experiences at UniSA! I do hope you will make
+    links between these events and the larger picture (eg commercialization of universities,
+    business oriented approaches to management, etc)'
+  date: '2010-05-31 15:53:30'
+  date_gmt: '2010-05-31 05:53:30'
+  id: '3059'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Ian,
+
+
+    Thanks for the comments.
+
+
+    I think there''s a very interesting paper or three to be written reflecting on
+    the last 15 years of distance, open, flexible, e-, and blended learning in Australian
+    universities.
+
+
+    I have a feeling that there are group of universities that have been through very
+    similar experiences. Somewhat like the above.
+
+
+    As I was re-reading old strategic and management plans from 10 years ago, I couldn''t
+    help but notice a sense of deja vu with respect to more recent plans. I have more
+    than a sneaking suspicion that the outcomes are likely to be much the same.
+
+
+    As for making the link more broadly, I don''t think I''ve done it in the above.  I
+    need to work that in as well - within the limited space I have. I had did this
+    to some extent in an earlier chapter.  Will need to ponder more on that.
+
+
+    Thanks for the feedback.
+
+
+    David.'
+  date: '2010-05-31 16:08:13'
+  date_gmt: '2010-05-31 06:08:13'
+  id: '3060'
+  parent: '3059'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: null
+  content: 'I did try to chronicle some of that from a semi-technical point of view,
+    and with a ''here''s what''s coming'' perspective in two AUSWEB papers:
+
+
+    http://ausweb.scu.edu.au/aw99/papers/reid/paper.html
+
+    http://ausweb.scu.edu.au/aw08/papers/refereed/reid/paper.html
+
+
+    Might be useful!
+
+
+    Best wishes with the beast (aka thesis)
+
+
+    Ian'
+  date: '2010-05-31 16:24:15'
+  date_gmt: '2010-05-31 06:24:15'
+  id: '3061'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Jo Luck
+  author_email: j.luck@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: null
+  content: 'Hi David, I think you have most of the major factors/changes at CQU that
+    have influenced student numbers, student cohorts and changes to student Information
+    Systems.
+
+
+    I agree with Ian''s comments in that you need to link this to the Australian Higher
+    Education sector in the last decade. You have a copy of my thesis. I write briefly
+    about managerialism in section 2.3 Situating Academic Work Practices in Australian
+    Higher Education. That will give you some key references eg Simon Marginson etc.
+
+
+    I think that you need to reorganise how you write this chapter. The way it is
+    now is very confusing as you jump backwards and forwards chronologially sometimes
+    in the one paragraph! Also you write about faculty systems and institutional systems
+    in the same paras. I hear Bobby''s voice ringing in my ears - one significant
+    point per paragraph.
+
+
+    Perhaps if you go from the big picture level down to the faculty level it might
+    help with the readability. Eg, Write a paragraph or two about how the Australian
+    HE environment was influencing CQU late 1990s - 2010, then a few paragraphs about
+    how CQU responded to those pressures. Finally write about how the Faculty was
+    affected and responded to those external pressures.
+
+
+    Then you can move onto the impact of those changes on the webuse team and the
+    development of webuse.
+
+
+    Consider putting some of this information into a table. In one of my data chapters
+    the addition of tables to convey detail cut down the verbosity and increased the
+    understandability enormously.
+
+
+    Lastly, I think you need to name or number the VCs or write VC (1996-2001) VC
+    (2001-2004) VC (2004-2009). I knew who you were referring to because i lived through
+    it but a reader external to CQU would not understand that there were 3 VCs during
+    this timeframe. You may need to do a similar thing with the Deans.
+
+
+    Good luck with this takes me back to the horrors of two and half years ago ;-)
+
+
+    Jo'
+  date: '2010-06-01 18:14:52'
+  date_gmt: '2010-06-01 08:14:52'
+  id: '3062'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-05-30 03:40:18
 next:
   text: Adding email merge to BIM
   url: /blog/2010/05/30/2933/
+pingbacks: []
 previous:
   text: Focusing on integration - chapter 5
   url: /blog/2010/05/30/focusing-on-integration-chapter-5/
+template: blog-post.html
 title: Institutional changes - 2000 and beyond - and their impact
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: null
-      content: 'David
-    
-    
-        Fascinating stuff - very similar to experiences at UniSA! I do hope you will make
-        links between these events and the larger picture (eg commercialization of universities,
-        business oriented approaches to management, etc)'
-      date: '2010-05-31 15:53:30'
-      date_gmt: '2010-05-31 05:53:30'
-      id: '3059'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Ian,
-    
-    
-        Thanks for the comments.
-    
-    
-        I think there''s a very interesting paper or three to be written reflecting on
-        the last 15 years of distance, open, flexible, e-, and blended learning in Australian
-        universities.
-    
-    
-        I have a feeling that there are group of universities that have been through very
-        similar experiences. Somewhat like the above.
-    
-    
-        As I was re-reading old strategic and management plans from 10 years ago, I couldn''t
-        help but notice a sense of deja vu with respect to more recent plans. I have more
-        than a sneaking suspicion that the outcomes are likely to be much the same.
-    
-    
-        As for making the link more broadly, I don''t think I''ve done it in the above.  I
-        need to work that in as well - within the limited space I have. I had did this
-        to some extent in an earlier chapter.  Will need to ponder more on that.
-    
-    
-        Thanks for the feedback.
-    
-    
-        David.'
-      date: '2010-05-31 16:08:13'
-      date_gmt: '2010-05-31 06:08:13'
-      id: '3060'
-      parent: '3059'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: null
-      content: 'I did try to chronicle some of that from a semi-technical point of view,
-        and with a ''here''s what''s coming'' perspective in two AUSWEB papers:
-    
-    
-        http://ausweb.scu.edu.au/aw99/papers/reid/paper.html
-    
-        http://ausweb.scu.edu.au/aw08/papers/refereed/reid/paper.html
-    
-    
-        Might be useful!
-    
-    
-        Best wishes with the beast (aka thesis)
-    
-    
-        Ian'
-      date: '2010-05-31 16:24:15'
-      date_gmt: '2010-05-31 06:24:15'
-      id: '3061'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Jo Luck
-      author_email: j.luck@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: null
-      content: 'Hi David, I think you have most of the major factors/changes at CQU that
-        have influenced student numbers, student cohorts and changes to student Information
-        Systems.
-    
-    
-        I agree with Ian''s comments in that you need to link this to the Australian Higher
-        Education sector in the last decade. You have a copy of my thesis. I write briefly
-        about managerialism in section 2.3 Situating Academic Work Practices in Australian
-        Higher Education. That will give you some key references eg Simon Marginson etc.
-    
-    
-        I think that you need to reorganise how you write this chapter. The way it is
-        now is very confusing as you jump backwards and forwards chronologially sometimes
-        in the one paragraph! Also you write about faculty systems and institutional systems
-        in the same paras. I hear Bobby''s voice ringing in my ears - one significant
-        point per paragraph.
-    
-    
-        Perhaps if you go from the big picture level down to the faculty level it might
-        help with the readability. Eg, Write a paragraph or two about how the Australian
-        HE environment was influencing CQU late 1990s - 2010, then a few paragraphs about
-        how CQU responded to those pressures. Finally write about how the Faculty was
-        affected and responded to those external pressures.
-    
-    
-        Then you can move onto the impact of those changes on the webuse team and the
-        development of webuse.
-    
-    
-        Consider putting some of this information into a table. In one of my data chapters
-        the addition of tables to convey detail cut down the verbosity and increased the
-        understandability enormously.
-    
-    
-        Lastly, I think you need to name or number the VCs or write VC (1996-2001) VC
-        (2001-2004) VC (2004-2009). I knew who you were referring to because i lived through
-        it but a reader external to CQU would not understand that there were 3 VCs during
-        this timeframe. You may need to do a similar thing with the Deans.
-    
-    
-        Good luck with this takes me back to the horrors of two and half years ago ;-)
-    
-    
-        Jo'
-      date: '2010-06-01 18:14:52'
-      date_gmt: '2010-06-01 08:14:52'
-      id: '3062'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 This carries on "bits" from [chapter 5](/blog/2010/05/30/focusing-on-integration-chapter-5/) of the thesis. It's a rough draft of a description of the institutional context within [CQU](http://www.cqu.edu.au/) from 2000 onwards. It's brief and targeted mainly at the factors which impact on Webfuse development.
 

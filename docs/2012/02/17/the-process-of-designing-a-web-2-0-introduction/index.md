@@ -1,23 +1,23 @@
----
+﻿---
 categories:
 - edc3100
 - teaching
-date: 2012-02-17 16:26:18+10:00
+date: 2012-02-17 06:26:18
 next:
   text: Please help, are there "dating services" for online courses?
   url: /blog/2012/02/19/please-help-are-there-dating-services-for-online-courses/
 previous:
   text: But does it have to be a lecture?
   url: /blog/2012/02/17/but-does-it-have-to-be-a-lecture/
+template: blog-post.html
 title: The process of designing a "Web 2.0" introduction
 type: post
-template: blog-post.html
 ---
 The following tells the story of how and why I designed the following "Web 2.0" (and yes, I am very reluctant to use that term for a [range of reasons](http://www.computerweekly.com/feature/Web-20-What-does-it-constitute) but will for a range of other reasons) introduction of myself.
 
 The following image (click on the image to see a large photo) shows the final state. You can also [view it here](http://popplet.com/app/#/196113).
 
-[![The finished introductory Popplet](images/6890101217_dc11f38d06.jpg)](http://www.flickr.com/photos/david_jones/6890101217/ "The finished introductory Popplet by David T Jones, on Flickr")
+[![The finished introductory Popplet](https://djon.es/assets/blog/2012/02/17/the-process-of-designing-a-web-2-0-introduction/images/6890101217_dc11f38d06.jpg)](http://www.flickr.com/photos/david_jones/6890101217/ "The finished introductory Popplet by David T Jones, on Flickr")
 
 The above was produced using [Popplet](http://popplet.com/). A fairly simple site to use. Popplet is essentially a slightly easier to use, not quite as functional, slightly different version of [Prezi](http://prezi.com/). Popplet doesn't really focus on being a presentation tool (it can sort of act like that) it is likely to be much more powerful as way to collaborate on the above, rather than simply disseminate information.
 
@@ -52,7 +52,7 @@ This [Top 35 list](http://edudemic.com/2010/07/the-35-best-web-2-0-classroom-too
 
 That list was going to be quite large, but Popplet looks interesting enough to stop (plus time is getting away from me). The following video is the Popplet preview video that sucked me in.
 
-\[youtube=http://www.youtube.com/watch?v=DU5q7ms4LfI\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DU5q7ms4LfI?si=6uSMUQzlNBPPyhIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### What's the model/sweet spot for the tool?
 
@@ -81,7 +81,7 @@ And we're ready to "make new popplet". As is typically the case with these types
 
 So, that's the four main "structuring" poppies created.
 
-[![Step 1: Creating a Popplet](images/6889430613_3c386f0880.jpg)](http://www.flickr.com/photos/david_jones/6889430613/ "Step 1: Creating a Popplet by David T Jones, on Flickr")
+[![Step 1: Creating a Popplet](https://djon.es/assets/blog/2012/02/17/the-process-of-designing-a-web-2-0-introduction/images/6889430613_3c386f0880.jpg)](http://www.flickr.com/photos/david_jones/6889430613/ "Step 1: Creating a Popplet by David T Jones, on Flickr")
 
 Now to add some multimedia around it.
 

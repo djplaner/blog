@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2011-02-16 17:19:07+10:00
+date: 2011-02-16 07:19:07
 next:
   text: '"bim2: manage marking support services"'
   url: /blog/2011/02/17/bim2-manage-marking-support-services/
 previous:
   text: A glimmer of what I&#039;m thinking
   url: /blog/2011/02/16/a-glimmer-of-what-im-thinking/
+template: blog-post.html
 title: '"bim2: Coordinator''s manage marking tab"'
 type: post
-template: blog-post.html
 ---
 The next step in bim2 development is implementation of the manage marking tab.
 
@@ -103,7 +103,7 @@ Current planning is to implement the above using the following classes
     
     So, now for the message and details table. Done. Here's what it looks like
     
-    [![Manage marking](images/5450422292_8e24abb6f0_m.jpg)](http://www.flickr.com/photos/david_jones/5450422292/ "Manage marking by David T Jones, on Flickr")
+    [![Manage marking](https://djon.es/assets/blog/2011/02/16/bim2-coordinators-manage-marking-tab/images/5450422292_8e24abb6f0_m.jpg)](http://www.flickr.com/photos/david_jones/5450422292/ "Manage marking by David T Jones, on Flickr")
     
     ### What's left
     

@@ -1,91 +1,89 @@
----
+﻿---
 categories:
 - bim
 - chapter-2
 - elearning
 - reflectivealignment
 - thesis
-date: 2010-02-11 13:09:25+10:00
+comments:
+- approved: '1'
+  author: Lindsay
+  author_email: lindsay.jordan@arts.ac.uk
+  author_ip: 195.195.80.188
+  author_url: null
+  content: 'David, this is really interesting - I''m sorry I missed it when you wrote
+    it; I''ve come across it in my explorations on the PLENK 2010 course.
+
+
+    I''m going to bookmark it and return to it when my brain has stopped hurting.'
+  date: '2010-09-15 00:30:14'
+  date_gmt: '2010-09-14 14:30:14'
+  id: '2932'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.154.42.225
+  author_url: https://djon.es/blog/
+  content: 'G''day Lindsay,
+
+
+    Always easy to miss stuff in the huge flow of information out there, I do it all
+    the time. Interested to hear what meaning the above generates in you, I hope to
+    revisit this idea in the future, eventually.
+
+
+    Good luck with the PLENK2010 course, I wish I could participate, but the thesis
+    has to come first.
+
+
+    David.'
+  date: '2010-09-15 07:57:45'
+  date_gmt: '2010-09-14 21:57:45'
+  id: '2933'
+  parent: '2932'
+  type: comment
+  user_id: '1'
+date: 2010-02-11 03:09:25
 next:
   text: BIM - Ideas for changes arising from user testing
   url: /blog/2010/02/11/bim-ideas-for-changes-arising-from-user-testing/
+pingbacks:
+- approved: '1'
+  author: Webfuse is dead! Long live Webfuse! &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.243.207
+  author_url: https://djon.es/blog/2010/03/10/webfuse-is-dead-long-live-webfuse/
+  content: '[...] developers had a much greater commonality of meaning with the academics
+    than traditionally [...]'
+  date: '2010-03-10 17:08:39'
+  date_gmt: '2010-03-10 07:08:39'
+  id: '2930'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The Riddle of Online Resonance (second instalment) &laquo; Jenny Connected
+  author_email: null
+  author_ip: 72.233.96.192
+  author_url: http://jennymackness.wordpress.com/2010/09/14/the-riddle-of-online-resonance-second-instalment/
+  content: "[...] Jones, D. (2010) Implications arising from the absence of the \u2018\
+    sameness of meaning\u2019. Retrieved 29-08-2010 from: https://djon.es/blog/2010/02/11/implications-arising-from-the-absence-of-the-sameness-of...\
+    \ [...]"
+  date: '2010-09-14 16:12:11'
+  date_gmt: '2010-09-14 06:12:11'
+  id: '2931'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - misc changes from moodle-train
   url: /blog/2010/02/10/bim-misc-changes-from-moodle-train/
+template: blog-post.html
 title: Implications arising from the absence of the "sameness of meaning"
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Lindsay
-      author_email: lindsay.jordan@arts.ac.uk
-      author_ip: 195.195.80.188
-      author_url: null
-      content: 'David, this is really interesting - I''m sorry I missed it when you wrote
-        it; I''ve come across it in my explorations on the PLENK 2010 course.
-    
-    
-        I''m going to bookmark it and return to it when my brain has stopped hurting.'
-      date: '2010-09-15 00:30:14'
-      date_gmt: '2010-09-14 14:30:14'
-      id: '2932'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.154.42.225
-      author_url: https://djon.es/blog/
-      content: 'G''day Lindsay,
-    
-    
-        Always easy to miss stuff in the huge flow of information out there, I do it all
-        the time. Interested to hear what meaning the above generates in you, I hope to
-        revisit this idea in the future, eventually.
-    
-    
-        Good luck with the PLENK2010 course, I wish I could participate, but the thesis
-        has to come first.
-    
-    
-        David.'
-      date: '2010-09-15 07:57:45'
-      date_gmt: '2010-09-14 21:57:45'
-      id: '2933'
-      parent: '2932'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Webfuse is dead! Long live Webfuse! &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.243.207
-      author_url: https://djon.es/blog/2010/03/10/webfuse-is-dead-long-live-webfuse/
-      content: '[...] developers had a much greater commonality of meaning with the academics
-        than traditionally [...]'
-      date: '2010-03-10 17:08:39'
-      date_gmt: '2010-03-10 07:08:39'
-      id: '2930'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The Riddle of Online Resonance (second instalment) &laquo; Jenny Connected
-      author_email: null
-      author_ip: 72.233.96.192
-      author_url: http://jennymackness.wordpress.com/2010/09/14/the-riddle-of-online-resonance-second-instalment/
-      content: "[...] Jones, D. (2010) Implications arising from the absence of the \u2018\
-        sameness of meaning\u2019. Retrieved 29-08-2010 from: https://djon.es/blog/2010/02/11/implications-arising-from-the-absence-of-the-sameness-of...\
-        \ [...]"
-      date: '2010-09-14 16:12:11'
-      date_gmt: '2010-09-14 06:12:11'
-      id: '2931'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A few days ago [Stephen Downes](http://downes.ca/) - a little unusually - made a sequence of comments/tweets on Twitter around the "sameness of meaning" and its impossibility. Since then I've had a number of experiences and discussions that suggest some of the problem associated with learning and teaching policy, process and structure within universities arises because too many people assume that there is sameness of meaning.
 

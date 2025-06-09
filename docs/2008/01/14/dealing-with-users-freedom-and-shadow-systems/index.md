@@ -1,42 +1,39 @@
----
+﻿---
 categories:
 - c2d2
 - elearning
 - enterprise-20
 - information-systems
 - webfuse
-date: 2008-01-14 10:20:11+10:00
+comments: []
+date: 2008-01-14 00:20:11
 next:
   text: Ideas for "spaces" in Second Life
   url: /blog/2008/01/18/ideas-for-spaces-in-second-life/
+pingbacks:
+- approved: '1'
+  author: University IT governance and Innovation &laquo; Col&#8217;s Weblog
+  author_email: null
+  author_ip: 72.233.2.49
+  author_url: http://beerc.wordpress.com/2008/05/07/university-it-governance-and-innovation/
+  content: "[...] which can be an indicator effectiveness of official IT systems.\
+    \ If more and more people are using shadow systems it could indicate a \u2018\
+    coal face\u2019 issue with the official system and perhaps IT departments would\
+    \ [...]"
+  date: '2008-05-07 11:50:04'
+  date_gmt: '2008-05-07 01:50:04'
+  id: '1576'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: '&quot;CQU Learning&quot; - early days of a Second Life island'
   url: /blog/2008/01/13/cqu-learning-early-days-of-a-second-life-island/
 tags:
 - shadowsystems-cddu-c2d2
+template: blog-post.html
 title: Dealing with "users", freedom and shadow systems
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: University IT governance and Innovation &laquo; Col&#8217;s Weblog
-      author_email: null
-      author_ip: 72.233.2.49
-      author_url: http://beerc.wordpress.com/2008/05/07/university-it-governance-and-innovation/
-      content: "[...] which can be an indicator effectiveness of official IT systems.\
-        \ If more and more people are using shadow systems it could indicate a \u2018\
-        coal face\u2019 issue with the official system and perhaps IT departments would\
-        \ [...]"
-      date: '2008-05-07 11:50:04'
-      date_gmt: '2008-05-07 01:50:04'
-      id: '1576'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Apparently [Accenture](http://accenture.com/) have discovered ["user-determined computing"](http://www.loosewireblog.com/2008/01/user-determined.html) and associated issues.
 

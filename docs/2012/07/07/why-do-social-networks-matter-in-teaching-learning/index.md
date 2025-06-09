@@ -1,129 +1,126 @@
----
+﻿---
 categories:
 - elearning
 - ple
 - teaching
-date: 2012-07-07 15:55:37+10:00
+comments: []
+date: 2012-07-07 05:55:37
 next:
   text: Redesigning the weekly ramble
   url: /blog/2012/07/15/redesigning-the-weekly-ramble/
+pingbacks:
+- approved: '1'
+  author: Why do (social) networks matter in teaching &amp;&nbsp;learning? | Educational
+    Technology in Higher Education | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educational-technology-in-higher-education/p/2123303662/why-do-social-networks-matter-in-teaching-learning
+  content: '[...] After a week of increasingly intermittent engagements with Twitter
+    I stumbled back into the Twitterverse this afternoon and one of the first things
+    I see is this post from @marksmithers. It is Mark...&nbsp; [...]'
+  date: '2012-07-07 17:26:39'
+  date_gmt: '2012-07-07 07:26:39'
+  id: '387'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why do (social) networks matter in teaching &amp;&nbsp;learning? | The DigiTeacher
+    | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/the-digiteacher/p/2123873717/why-do-social-networks-matter-in-teaching-learning
+  content: '[...] After a week of increasingly intermittent engagements with Twitter
+    I stumbled back into the Twitterverse this afternoon and one of the first things
+    I see is this post from @marksmithers. It is Mark...&nbsp; [...]'
+  date: '2012-07-07 19:36:47'
+  date_gmt: '2012-07-07 09:36:47'
+  id: '388'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Why do (social) networks matter in teaching &amp;\_learning? | Flexibility\
+    \ Enables Learning"
+  author_email: null
+  author_ip: 216.151.210.46
+  author_url: http://flexilearn.wordpress.com/2012/07/07/why-do-social-networks-matter-in-teaching-learning/
+  content: '[...] on davidtjones.wordpress.com Like this:LikeBe the first to like
+    this.   Bookmark the [...]'
+  date: '2012-07-08 09:49:38'
+  date_gmt: '2012-07-07 23:49:38'
+  id: '389'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why do (social) networks matter in teaching &amp;&nbsp;learning? | Teaching
+    &amp; learning in the creative industries | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/teaching-learning-in-the-creative-industries/p/2135409389/why-do-social-networks-matter-in-teaching-learning
+  content: '[...] &nbsp; [...]'
+  date: '2012-07-09 17:03:45'
+  date_gmt: '2012-07-09 07:03:45'
+  id: '390'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Why do (social) networks matter in teaching &amp;&nbsp;learning? | The
+    Digital Stranger: Education, participation, social networking and creativity |
+    Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/the-digital-stranger-education-participation-social-networking-and-creativity/p/2160089644/why-do-social-networks-matter-in-teaching-learning
+  content: '[...] &quot;After a week of increasingly intermittent engagements with
+    Twitter I stumbled back into the Twitterverse this afternoon and one of the first
+    things I see is this post from @marksmithers.&nbsp;It is Mark&rsquo;s response
+    to the call for help from @courosa for his keynote at the Melbourne PLE conference
+    next week. Alec&rsquo;s question is&nbsp;Why do (social) networks matter in teaching
+    &amp; learning?&quot;&nbsp; [...]'
+  date: '2012-07-13 01:08:34'
+  date_gmt: '2012-07-12 15:08:34'
+  id: '391'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why do (social) networks matter in teaching &amp;&nbsp;learning? | Thinking
+    about teaching English | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/thinking-about-teaching-english/p/2203719282/why-do-social-networks-matter-in-teaching-learning
+  content: '[...] After a week of increasingly intermittent engagements with Twitter
+    I stumbled back into the Twitterverse this afternoon and one of the first things
+    I see is this post from @marksmithers. It is Mark...&nbsp; [...]'
+  date: '2012-07-20 06:16:07'
+  date_gmt: '2012-07-19 20:16:07'
+  id: '392'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why do (social) networks matter in teaching &amp;&nbsp;learning? | English.hub.ar
+    | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/english-hub-ar/p/2238766139/why-do-social-networks-matter-in-teaching-learning
+  content: '[...] After a week of increasingly intermittent engagements with Twitter
+    I stumbled back into the Twitterverse this afternoon and one of the first things
+    I see is this post from @marksmithers. It is Mark...&nbsp; [...]'
+  date: '2012-07-26 00:15:40'
+  date_gmt: '2012-07-25 14:15:40'
+  id: '393'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Reducing meaningless freedom and a Mahara feature request
   url: /blog/2012/06/30/reducing-meaningless-freedom-and-a-mahara-feature-request/
+template: blog-post.html
 title: '"Why do (social) networks matter in teaching &#038; learning?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Why do (social) networks matter in teaching &amp;&nbsp;learning? | Educational
-        Technology in Higher Education | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educational-technology-in-higher-education/p/2123303662/why-do-social-networks-matter-in-teaching-learning
-      content: '[...] After a week of increasingly intermittent engagements with Twitter
-        I stumbled back into the Twitterverse this afternoon and one of the first things
-        I see is this post from @marksmithers. It is Mark...&nbsp; [...]'
-      date: '2012-07-07 17:26:39'
-      date_gmt: '2012-07-07 07:26:39'
-      id: '387'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why do (social) networks matter in teaching &amp;&nbsp;learning? | The DigiTeacher
-        | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/the-digiteacher/p/2123873717/why-do-social-networks-matter-in-teaching-learning
-      content: '[...] After a week of increasingly intermittent engagements with Twitter
-        I stumbled back into the Twitterverse this afternoon and one of the first things
-        I see is this post from @marksmithers. It is Mark...&nbsp; [...]'
-      date: '2012-07-07 19:36:47'
-      date_gmt: '2012-07-07 09:36:47'
-      id: '388'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Why do (social) networks matter in teaching &amp;\_learning? | Flexibility\
-        \ Enables Learning"
-      author_email: null
-      author_ip: 216.151.210.46
-      author_url: http://flexilearn.wordpress.com/2012/07/07/why-do-social-networks-matter-in-teaching-learning/
-      content: '[...] on davidtjones.wordpress.com Like this:LikeBe the first to like
-        this.   Bookmark the [...]'
-      date: '2012-07-08 09:49:38'
-      date_gmt: '2012-07-07 23:49:38'
-      id: '389'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why do (social) networks matter in teaching &amp;&nbsp;learning? | Teaching
-        &amp; learning in the creative industries | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/teaching-learning-in-the-creative-industries/p/2135409389/why-do-social-networks-matter-in-teaching-learning
-      content: '[...] &nbsp; [...]'
-      date: '2012-07-09 17:03:45'
-      date_gmt: '2012-07-09 07:03:45'
-      id: '390'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Why do (social) networks matter in teaching &amp;&nbsp;learning? | The
-        Digital Stranger: Education, participation, social networking and creativity |
-        Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/the-digital-stranger-education-participation-social-networking-and-creativity/p/2160089644/why-do-social-networks-matter-in-teaching-learning
-      content: '[...] &quot;After a week of increasingly intermittent engagements with
-        Twitter I stumbled back into the Twitterverse this afternoon and one of the first
-        things I see is this post from @marksmithers.&nbsp;It is Mark&rsquo;s response
-        to the call for help from @courosa for his keynote at the Melbourne PLE conference
-        next week. Alec&rsquo;s question is&nbsp;Why do (social) networks matter in teaching
-        &amp; learning?&quot;&nbsp; [...]'
-      date: '2012-07-13 01:08:34'
-      date_gmt: '2012-07-12 15:08:34'
-      id: '391'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why do (social) networks matter in teaching &amp;&nbsp;learning? | Thinking
-        about teaching English | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/thinking-about-teaching-english/p/2203719282/why-do-social-networks-matter-in-teaching-learning
-      content: '[...] After a week of increasingly intermittent engagements with Twitter
-        I stumbled back into the Twitterverse this afternoon and one of the first things
-        I see is this post from @marksmithers. It is Mark...&nbsp; [...]'
-      date: '2012-07-20 06:16:07'
-      date_gmt: '2012-07-19 20:16:07'
-      id: '392'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why do (social) networks matter in teaching &amp;&nbsp;learning? | English.hub.ar
-        | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/english-hub-ar/p/2238766139/why-do-social-networks-matter-in-teaching-learning
-      content: '[...] After a week of increasingly intermittent engagements with Twitter
-        I stumbled back into the Twitterverse this afternoon and one of the first things
-        I see is this post from @marksmithers. It is Mark...&nbsp; [...]'
-      date: '2012-07-26 00:15:40'
-      date_gmt: '2012-07-25 14:15:40'
-      id: '393'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 After a week of increasingly intermittent engagements with Twitter I stumbled back into the Twitterverse this afternoon and one of the first things I see is [this post](http://www.masmithers.com/2012/07/05/why-do-social-networks-matter-in-teaching-learning/) from @marksmithers. It is Mark's response to the [call for help](http://educationaltechnology.ca/couros/2091) from @courosa for his keynote at [the Melbourne PLE conference](http://pleconf.org/category/ple-conference/melbourne/) next week. Alec's question is
 

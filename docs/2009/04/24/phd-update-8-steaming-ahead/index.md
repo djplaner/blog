@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-04-24 15:01:03+10:00
+comments: []
+date: 2009-04-24 05:01:03
 next:
   text: Lessons for from past experience
   url: /blog/2009/04/25/lessons-for-e-learning/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #9 - spluttering out of steam &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/05/01/phd-update-9-spluttering-out-of-steam/
+  content: '[...] progress has not been as much as desired, but perhaps isn&#8217;t
+    quite as bad. As often happens, last week&#8217;s optimistic claims of &#8220;speeding
+    up&#8221; spluttered out a [...]'
+  date: '2009-05-01 16:08:33'
+  date_gmt: '2009-05-01 06:08:33'
+  id: '2446'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Models of growth - responding to the grammar of school
   url: /blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/
+template: blog-post.html
 title: '"Phd Update #8 - steaming ahead"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #9 - spluttering out of steam &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/05/01/phd-update-9-spluttering-out-of-steam/
-      content: '[...] progress has not been as much as desired, but perhaps isn&#8217;t
-        quite as bad. As often happens, last week&#8217;s optimistic claims of &#8220;speeding
-        up&#8221; spluttered out a [...]'
-      date: '2009-05-01 16:08:33'
-      date_gmt: '2009-05-01 06:08:33'
-      id: '2446'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The week since my last [PhD update](/blog/2009/04/17/phd-update-7-a-fortnight-in-review/) has been a good one. The most productive (in terms of completed first drafts of thesis sections) since I started this series of updates. I feel I'm getting into a routine and slowly developing pragmatic ideas and techniques for producing a thesis that is "good enough". In reality, I'm probably still to far up the scale towards "too good", but I'm getting there. It's a journey.
 

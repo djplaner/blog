@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - elearning
-date: 2013-11-22 14:37:45+10:00
+date: 2013-11-22 04:37:45
 next:
   text: '"Learning analytics is about learning - #ascilite"'
   url: /blog/2013/12/01/learning-analytics-is-about-learning-ascilite/
@@ -9,9 +9,9 @@ previous:
   text: Examining diffusion and sustainability of e-learning strategies thorugh weblog
     data
   url: /blog/2013/11/19/examining-diffusion-and-sustainability-of-e-learning-strategies-thorugh-weblog-data/
+template: blog-post.html
 title: The external validity problem
 type: post
-template: blog-post.html
 ---
 Via a very roundabout method I came across an editorial from the journal "Computers in the Schools" (Maddux and Johnson, 2012) titled "External Validity and Research in Information Technology in Education".
 

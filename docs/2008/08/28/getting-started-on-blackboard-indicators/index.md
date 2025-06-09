@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - blackboardindicators
 - coursesites
 - elearning
-date: 2008-08-28 23:03:29+10:00
+comments: []
+date: 2008-08-28 13:03:29
 next:
   text: Choosing your indicators - why, how and what
   url: /blog/2008/08/31/choosing-your-indicators-why-how-and-what/
+pingbacks:
+- approved: '1'
+  author: Choosing your indicators - why, how and what at David&#8217;s WebLog
+  author_email: null
+  author_ip: 138.77.94.11
+  author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=205
+  content: '[...] About        &laquo; Getting started on Blackboard indicators [...]'
+  date: '2008-08-31 12:52:45'
+  date_gmt: '2008-08-31 02:52:45'
+  id: '1596'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Alternate foundations - the presentation
   url: /blog/2008/08/28/alternate-foundations-the-presentation/
+template: blog-post.html
 title: Getting started on Blackboard indicators
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Choosing your indicators - why, how and what at David&#8217;s WebLog
-      author_email: null
-      author_ip: 138.77.94.11
-      author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=205
-      content: '[...] About        &laquo; Getting started on Blackboard indicators [...]'
-      date: '2008-08-31 12:52:45'
-      date_gmt: '2008-08-31 02:52:45'
-      id: '1596'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [unit](http://cddu.cqu.edu.au/) I work for is responsible for providing assistance to [CQUniversity](http://www.cqu.edu.au/) staff and students in their use of e-learning. Which currently at CQUni is mostly the use of Blackboard.
 

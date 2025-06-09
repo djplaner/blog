@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - bim
 - elearning
 - moodle
-date: 2010-05-30 21:33:57+10:00
+comments: []
+date: 2010-05-30 11:33:57
 next:
   text: The need for a third way
   url: /blog/2010/05/31/the-need-for-a-third-way/
+pingbacks:
+- approved: '1'
+  author: On the potential flexibility of open source LMS and its limits &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.69.93
+  author_url: https://djon.es/blog/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
+  content: '[...] the existing Moodle bulk-email facility (or perhaps adding a wrapper
+    around it like I did with bim) to use this database table to send personalised
+    emails to group [...]'
+  date: '2011-02-13 17:26:16'
+  date_gmt: '2011-02-13 07:26:16'
+  id: '3063'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Institutional changes - 2000 and beyond - and their impact
   url: /blog/2010/05/30/institutional-changes-2000-and-beyond-and-their-impact/
+template: blog-post.html
 title: Adding email merge to BIM
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: On the potential flexibility of open source LMS and its limits &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.69.93
-      author_url: https://djon.es/blog/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
-      content: '[...] the existing Moodle bulk-email facility (or perhaps adding a wrapper
-        around it like I did with bim) to use this database table to send personalised
-        emails to group [...]'
-      date: '2011-02-13 17:26:16'
-      date_gmt: '2011-02-13 07:26:16'
-      id: '3063'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following details an attempt to use user/messageselect.php with BIM in an attempt to move towards implementing an [email merge facility](/blog/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/) for BIM.
 
@@ -40,7 +37,7 @@ The following details an attempt to use user/messageselect.php with BIM in an at
 
 The intent here is that BIM will be used to select the users and will pass it to message select. The first test will be to replace the current "unregistered users" section on "Your Students" which simply shows a list of email address which the staff member has to copy and paste into an email program. See the following screen shot (click on it to see it larger).
 
-[![Unregistered users - BIM your students](images/4652359046_cf2681bebc_m.jpg)](http://www.flickr.com/photos/david_jones/4652359046/ "Unregistered users - BIM your students by David T Jones, on Flickr")
+[![Unregistered users - BIM your students](https://djon.es/assets/blog/2010/05/30/2933/images/4652359046_cf2681bebc_m.jpg)](http://www.flickr.com/photos/david_jones/4652359046/ "Unregistered users - BIM your students by David T Jones, on Flickr")
 
 The idea is to replace it with a simple link that when clicked on will pass the details of the unregistered users to messageselect.php
 
@@ -85,4 +82,4 @@ This function displays a submit button with a given message. If pressed the form
 
 Implemented in BIM, it looks like the following.
 
-[![BIM's new email merge](images/4651993995_51e6721e3b_o.jpg)](http://www.flickr.com/photos/david_jones/4651993995/ "BIM's new email merge by David T Jones, on Flickr")
+[![BIM's new email merge](https://djon.es/assets/blog/2010/05/30/2933/images/4651993995_51e6721e3b_o.jpg)](http://www.flickr.com/photos/david_jones/4651993995/ "BIM's new email merge by David T Jones, on Flickr")

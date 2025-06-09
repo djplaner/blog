@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-4
 - design-theory
@@ -6,49 +6,46 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2009-07-29 11:27:50+10:00
+comments: []
+date: 2009-07-29 01:27:50
 next:
   text: The design and implementation of Webfuse - Part 2
   url: /blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/
+pingbacks:
+- approved: '1'
+  author: The design and implementation of Webfuse &#8211; Part 2 &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    The design and implementation of Webfuse &#8211; Part&nbsp;1 [...]'
+  date: '2009-07-29 16:52:35'
+  date_gmt: '2009-07-29 06:52:35'
+  id: '2674'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The design and implementation of Webfuse &#8211; Part 3 &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-3/
+  content: '[...] of the Webfuse system. These are part of chapter four of my thesis.
+    The previous two parts are here and [...]'
+  date: '2009-07-29 23:53:14'
+  date_gmt: '2009-07-29 13:53:14'
+  id: '2675'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BAM into Moodle #7 - an eStudyGuide block'
   url: /blog/2009/07/28/bam-into-moodle-7-an-estudyguide-block/
+template: blog-post.html
 title: The design and implementation of Webfuse - Part 1
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The design and implementation of Webfuse &#8211; Part 2 &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        The design and implementation of Webfuse &#8211; Part&nbsp;1 [...]'
-      date: '2009-07-29 16:52:35'
-      date_gmt: '2009-07-29 06:52:35'
-      id: '2674'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The design and implementation of Webfuse &#8211; Part 3 &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-3/
-      content: '[...] of the Webfuse system. These are part of chapter four of my thesis.
-        The previous two parts are here and [...]'
-      date: '2009-07-29 23:53:14'
-      date_gmt: '2009-07-29 13:53:14'
-      id: '2675'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This continues the collection of content that goes into Chapter 4 of my [PhD thesis](/blog/research/phd-thesis/). Chapter 4 is meant to tell the story of the first iteration of Webfuse from 1996 through 1999. The [last section](/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/) I posted describes the design guidelines that informed the implementation of Webfuse. This post and at least one following post seeks to describe the details of the design and implementation of Webfuse.
 
@@ -84,7 +81,7 @@ Nanard, Nanard and Kahn (1998) extended the idea into constructive templates wit
 
 As a web-publishing system the primary output of Webfuse was web pages. Each Web page was of a specific type. The type of page specified which Webfuse hypermedia template, during this period they were called page types, would be used to produce the web page. A page type was implemented as a collection of pre-defined Perl functions that would obtain the necessary content from the author, convert that content into the HTML necessary to display the body of the page and carry out any additional necessary steps. Figure 4.1 is an example of a web page produced by Webfuse.
 
-[![Content index page example](images/3761738338_4ea70ae248_m.jpg)](http://www.flickr.com/photos/david_jones/3761738338/ "Content index page example by David T Jones, on Flickr")
+[![Content index page example](https://djon.es/assets/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/images/3761738338_4ea70ae248_m.jpg)](http://www.flickr.com/photos/david_jones/3761738338/ "Content index page example by David T Jones, on Flickr")
 
 _Figure 4.1 – A simple web page produced by Webfuse_
 
@@ -92,7 +89,7 @@ On each web page produced by Webfuse there will be an "Edit" link. If an authori
 
 Figure 4.2 shows the page update form for the web page from Figure 4.1. A page type called TableList produces the web page shown in Figure 4.1. As the name suggests this page type is used to manage a series of lists containing individual elements, which are displayed in a series of separate tables. Each element in the list points to another web page that is created and then managed through Webfuse. In Figure 4.1 there is one list called "Years" which consists of the elements "2008" and "2009". Figure 4.2 contains HTML form elements to manage two lists. One for the existing list called "Years" and one that can be used to add a new list. As well as managing the elements of lists the form in Figure 4.2 also provides some formatting options including how to sort the list elements, how many columns to have in the table and how big the table borders should be.
 
-[![Page update form for content index page](images/3761738614_b9aa183a89_m.jpg)](http://www.flickr.com/photos/david_jones/3761738614/ "Page update form for content index page by David T Jones, on Flickr")
+[![Page update form for content index page](https://djon.es/assets/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/images/3761738614_b9aa183a89_m.jpg)](http://www.flickr.com/photos/david_jones/3761738614/ "Page update form for content index page by David T Jones, on Flickr")
 
 _Figure 4.2 – Page update form for the web page shown in Figure 4.1_
 
@@ -104,7 +101,7 @@ The previous paragraphs draw on research literature to identify a number of adva
 
 Figure 4.3 is a partial, graphical representation of the hierarchical structure of the Faculty of Applied Science website created and managed via Webfuse during 1997. At the top level is the main science home page. The next level down has five main sections including one for the Faculty's research centre's and one for each of its four departments – Maths and Computing, Applied Physics, Biology and Chemistry. Each of the department websites followed a similar structure with main sections for information, staff, academic programs, students, research and community. The websites for individual courses – prior to 1998 these were called units – are all contained in their own folders with names based on the course codes (e.g. 85321, Systems Administration).
 
-[![Partial hierarchy of science.cqu.edu.au pages - 1997](images/3761739848_d81a5d2439_m.jpg)](http://www.flickr.com/photos/david_jones/3761739848/ "Partial hierarchy of science.cqu.edu.au pages - 1997 by David T Jones, on Flickr")
+[![Partial hierarchy of science.cqu.edu.au pages - 1997](https://djon.es/assets/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/images/3761739848_d81a5d2439_m.jpg)](http://www.flickr.com/photos/david_jones/3761739848/ "Partial hierarchy of science.cqu.edu.au pages - 1997 by David T Jones, on Flickr")
 
 _Figure 4.3 – A partial hierarchy of the Faculty of Applied Science website in 1997_
 
@@ -119,7 +116,7 @@ The Webfuse access control system does not make any distinction between types of
 - all.  
     The ability to perform any and all operations on the object.
 
-[![Home page for M&C in 1997](images/3760938655_08c6993f62_m.jpg)](http://www.flickr.com/photos/david_jones/3760938655/ "Home page for M&C in 1997 by David T Jones, on Flickr")
+[![Home page for M&C in 1997](https://djon.es/assets/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/images/3760938655_08c6993f62_m.jpg)](http://www.flickr.com/photos/david_jones/3760938655/ "Home page for M&C in 1997 by David T Jones, on Flickr")
 
 _Figure 4.4 – The Units web page for M&C for Term 2, 2007_
 
@@ -143,7 +140,7 @@ A Perl script, called the page update script, included a check of the permission
 
 The notion of a style or style template was used to further separate the appearance of a page from the content. This enabled the appearance of the same page, containing the same content to evolve over time for whatever reason (this feature was added before the concept of cascading style sheets – CSS – was widely used). Figure 4.5 is the same web page as shown in Figure 4.1, however, it is using a 1998 style for the Faculty of Informatics and Communication. This was done by editing the page, changing the style template and updating the page.
 
-[![Content Index page example](images/3761740280_c2d19dd685_m.jpg)](http://www.flickr.com/photos/david_jones/3761740280/ "Content Index page example by David T Jones, on Flickr")
+[![Content Index page example](https://djon.es/assets/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/images/3761740280_c2d19dd685_m.jpg)](http://www.flickr.com/photos/david_jones/3761740280/ "Content Index page example by David T Jones, on Flickr")
 
 _Figure 4.5 – Guides web page (Figure 4.1) with a different style_
 

@@ -1,28 +1,25 @@
----
-date: 2008-10-27 14:01:44+10:00
+﻿---
+comments: []
+date: 2008-10-27 04:01:44
+pingbacks:
+- approved: '1'
+  author: The importance of diversity to improving learning and teaching &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.143
+  author_url: https://djon.es/blog/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/
+  content: '[...] course I believe this, over the last 5 years I&#8217;ve occasionally
+    attempt to get the REACT process off the ground as an approach to improving learning
+    and teaching. A key aim of that project [...]'
+  date: '2008-10-29 11:27:33'
+  date_gmt: '2008-10-29 01:27:33'
+  id: '1856'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: Reflection, Evaluation, and Collaboration in Teaching
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The importance of diversity to improving learning and teaching &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.143
-      author_url: https://djon.es/blog/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/
-      content: '[...] course I believe this, over the last 5 years I&#8217;ve occasionally
-        attempt to get the REACT process off the ground as an approach to improving learning
-        and teaching. A key aim of that project [...]'
-      date: '2008-10-29 11:27:33'
-      date_gmt: '2008-10-29 01:27:33'
-      id: '1856'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Back in 2006 or so, I kicked off a process called REACT - Reflection, Evaluation and Collaboration in Teaching - which was aimed to improving the quantity and quality of the [scholarship of teaching and learning](http://en.wikipedia.org/wiki/Scholarship_of_Teaching_and_Learning) practiced at my university.
 

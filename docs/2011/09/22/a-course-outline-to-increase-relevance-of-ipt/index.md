@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - ipt
 - teaching
-date: 2011-09-22 11:47:12+10:00
+date: 2011-09-22 01:47:12
 next:
   text: Can e-learning tools be more like Plants vs Zombies?
   url: /blog/2011/09/23/can-e-learning-tools-be-more-like-plants-vs-zombies/
 previous:
   text: BIM and BIM2 - Who needs it? What do you need?
   url: /blog/2011/09/22/bim-and-bim2-who-needs-it-what-do-you-need/
+template: blog-post.html
 title: A course outline to increase relevance of IPT
 type: post
-template: blog-post.html
 ---
 A few weeks ago I posted about some apparent trends in the number of enrolments within the Queensland High School subject Information and Processing Technology (IPT). All things being equal, I'll be qualified to teach that course in Queensland High Schools next year.
 
@@ -23,11 +23,11 @@ The Queensland Authority subject Information Processing and Technology (IPT), an
 
 These trends are visible in IPT enrolments in Queensland schools. Figure 1 shows the percentage of all Queensland OP students enrolled in IPT (1992-2010) split by gender. Male enrolment has dropped from a peak of just over 35% in 2002 to under 20% in 2010. The female participation rate has never exceeded 10% and currently sits at under 3%.
 
-[![Percentage of gender enrolments](images/6085062264_3d2065e8ac_m.jpg)](http://www.flickr.com/photos/david_jones/6085062264/ "Percentage of gender enrolments by David T Jones, on Flickr") Figure 1. The percentage of male and female OP students enrolled in IPT (1992-2010)
+[![Percentage of gender enrolments](https://djon.es/assets/blog/2011/09/22/a-course-outline-to-increase-relevance-of-ipt/images/6085062264_3d2065e8ac_m.jpg)](http://www.flickr.com/photos/david_jones/6085062264/ "Percentage of gender enrolments by David T Jones, on Flickr") Figure 1. The percentage of male and female OP students enrolled in IPT (1992-2010)
 
 Figure 2 shows the same trends using the average number of students per school that is offering IPT. On average, an IPT class in 2010 has less than 10 students with less than 2 of those students being female. Addressing these trends is seen as a major aim of the changes being made to this work program.
 
-[![# of IPT students per school](images/6084808406_504863b8c4_m.jpg)](http://www.flickr.com/photos/david_jones/6084808406/ "# of IPT students per school by David T Jones, on Flickr") Figure 2. Average number of students enrolled in an IPT course.
+[![# of IPT students per school](https://djon.es/assets/blog/2011/09/22/a-course-outline-to-increase-relevance-of-ipt/images/6084808406_504863b8c4_m.jpg)](http://www.flickr.com/photos/david_jones/6084808406/ "# of IPT students per school by David T Jones, on Flickr") Figure 2. Average number of students enrolled in an IPT course.
 
 The aim of IPT is to provide students with knowledge and skills to create, manipulate, store, retrieve and communicate information with a range of technological devices (QSA, 2010, p. 1). While intended to be useful to all students, IPT is known to be “closely associated contingently with transition to University computing degree programs” (Anderson et al., 2008, p. 1305). This tendency contradicts the IPT syllabus’ perspective that IPT touches many aspects of human life and is applied to diverse fields of study (QSA, 2010). In an extension of this argument, Rushkoff (2010, p. 130) suggests the ability to understand IPT people will be left to conform to the needs of the technology, rather than the other way around.
 

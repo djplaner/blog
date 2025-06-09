@@ -1,40 +1,37 @@
----
-date: 2010-06-21 14:10:13+10:00
+﻿---
+comments: []
+date: 2010-06-21 04:10:13
+pingbacks:
+- approved: '1'
+  author: Web 2.0 no meu Diigo (weekly) &laquo; Web 2.0 PT
+  author_email: null
+  author_ip: 74.200.247.111
+  author_url: http://web20pt.wordpress.com/2010/08/01/web-2-0-no-meu-diigo-weekly-41/
+  content: "[...] Limits in developing innovative pedagogy with Moodle: The story\
+    \ of BIM \xAB The Weblog of (a) David Jo... [...]"
+  date: '2010-11-23 22:35:12'
+  date_gmt: '2010-11-23 12:35:12'
+  id: '3106'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: All models are wrong, but some are useful and its application to e-learning
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.57
+  author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+  content: '[&#8230;] Limits in developing innovative pedagogy with Moodle: The story
+    of&nbsp;BIM [&#8230;]'
+  date: '2015-08-28 09:04:49'
+  date_gmt: '2015-08-27 23:04:49'
+  id: '3107'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Limits in developing innovative pedagogy with Moodle: The story of BIM"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Web 2.0 no meu Diigo (weekly) &laquo; Web 2.0 PT
-      author_email: null
-      author_ip: 74.200.247.111
-      author_url: http://web20pt.wordpress.com/2010/08/01/web-2-0-no-meu-diigo-weekly-41/
-      content: "[...] Limits in developing innovative pedagogy with Moodle: The story\
-        \ of BIM \xAB The Weblog of (a) David Jo... [...]"
-      date: '2010-11-23 22:35:12'
-      date_gmt: '2010-11-23 12:35:12'
-      id: '3106'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: All models are wrong, but some are useful and its application to e-learning
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.57
-      author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
-      content: '[&#8230;] Limits in developing innovative pedagogy with Moodle: The story
-        of&nbsp;BIM [&#8230;]'
-      date: '2015-08-28 09:04:49'
-      date_gmt: '2015-08-27 23:04:49'
-      id: '3107'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is being/was presented at [the 2010 MoodleMoot'AU](http://moodlemoot.org.au/).
 

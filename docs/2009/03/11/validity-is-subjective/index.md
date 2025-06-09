@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - quotes
-date: 2009-03-11 15:16:42+10:00
+comments: []
+date: 2009-03-11 05:16:42
 next:
   text: Messiness of information systems - another reason institutional e-learning
     struggles
   url: /blog/2009/03/12/messiness-of-information-systems-another-reason-institutional-e-learning-struggles/
+pingbacks:
+- approved: '1'
+  author: Measuring the design process - implications for learning design, e-learning
+    and university teaching &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.206
+  author_url: https://djon.es/blog/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
+  content: '[...] talk as the management culture and back this up with reams of data
+    (regardless of validity) and can always resort of techno-babble to confuse [...]'
+  date: '2009-04-05 13:17:55'
+  date_gmt: '2009-04-05 03:17:55'
+  id: '2241'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Initial steps toward an education aggregation taxonomy - community versus
     individual?
   url: /blog/2009/03/11/an-alternate-bam-related-idea/
+template: blog-post.html
 title: Validity is subjective
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Measuring the design process - implications for learning design, e-learning
-        and university teaching &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.206
-      author_url: https://djon.es/blog/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
-      content: '[...] talk as the management culture and back this up with reams of data
-        (regardless of validity) and can always resort of techno-babble to confuse [...]'
-      date: '2009-04-05 13:17:55'
-      date_gmt: '2009-04-05 03:17:55'
-      id: '2241'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Just another quote, but a good one. And one that connects with [a recent post](/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/) about the difficulty of getting agreement around learning and teaching and the difficulty this creates within universities when you want to try and improve the quality of that learning and teaching.
 

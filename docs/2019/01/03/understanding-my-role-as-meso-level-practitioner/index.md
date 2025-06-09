@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eei
-coverImage: 3311829635_0080586412_o-scaled-e1601494373689.jpg
-date: 2019-01-03 10:02:28+10:00
+coverImage: https://djon.es/assets/blog/2019/01/03/understanding-my-role-as-meso-level-practitioner/images/3311829635_0080586412_o-scaled-e1601494373689.jpg
+date: 2019-01-03 00:02:28
 next:
   text: '"Trying out" needs agency and control'
   url: /blog/2019/01/18/trying-out-needs-agency-and-control/
 previous:
   text: Testing h5p
   url: /blog/2018/12/11/testing-h5p/
+template: blog-post.html
 title: Meso-level practitioners and generative technologies?
 type: post
-template: blog-post.html
 ---
 Happy to see the end of 2018. Time to figure out what 2019 holds. This is a first step.
 
@@ -31,12 +31,12 @@ Zittrain (2008) defines a generative system as having the “capacity to produce
 
 A significant part of Blackboard Learn's generativity arises from it's reliance on web technologies. Meaning it is possible to embed HTML, Javascript and CSS into Blackboard course sites. This makes it possible to modify the appearance of a page in Blackboard from the following.
 
-[![Blackboard 9.1 Card Tweak - Before](images/46279789112_f6fde6f4f6_c.jpg)](https://www.flickr.com/photos/david_jones/46279789112/ "Blackboard 9.1 Card Tweak - Before")
+[![Blackboard 9.1 Card Tweak - Before](https://djon.es/assets/blog/2019/01/03/understanding-my-role-as-meso-level-practitioner/images/46279789112_f6fde6f4f6_c.jpg)](https://www.flickr.com/photos/david_jones/46279789112/ "Blackboard 9.1 Card Tweak - Before")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Into something a little more contemporary.
 
-[![view](images/46280738772_4f7a9ee623_c.jpg)](https://www.flickr.com/photos/david_jones/46280738772/in/photostream/ "view")
+[![view](https://djon.es/assets/blog/2019/01/03/understanding-my-role-as-meso-level-practitioner/images/46280738772_4f7a9ee623_c.jpg)](https://www.flickr.com/photos/david_jones/46280738772/in/photostream/ "view")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The above just happens to be one of my tasks over recent weeks. You can find [the code here](https://github.com/djplaner/Card-Interface-Tweak).

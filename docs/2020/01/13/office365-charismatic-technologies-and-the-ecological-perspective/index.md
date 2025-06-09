@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - casa
-coverImage: verandahSunset.jpg
-date: 2020-01-13 13:41:52+10:00
+coverImage: https://djon.es/assets/blog/2020/01/13/office365-charismatic-technologies-and-the-ecological-perspective/images/verandahSunset.jpg
+date: 2020-01-13 03:41:52
 next:
   text: Three mashup types for digital learning and teaching
   url: /blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/
 previous:
   text: Is training the barrier to quality online learning in higher ed?
   url: /blog/2019/12/23/is-training-the-barrier-to-quality-online-learning-in-higher-ed/
+template: blog-post.html
 title: Office365, charismatic technologies, and the ecological perspective
 type: post
-template: blog-post.html
 ---
 The following began as a summary of
 
@@ -41,7 +41,7 @@ The term _charismatic technologies_ comes from the book - [The Charisma Machine:
 
 Ames (2015) argues that charisma is useful because it “can provide direction and conviction, smoothing away uncertainties and helping us handle contradictions and adversities” (p. 111). It does this by confirming existing views, stereotypes, institutions and power relations. By providing an ideology/worldview that explains what is happening in way that appears natural, universal and familar. The familiarity (confirmation bias) and the promised benefits make the idelogy attra ctive.
 
-![](images/2Q==)[“uruguay: students in artigas”](http://one.laptop.org/sites/default/files/Brazil-full_1.jpg) by [OLCP](http://one.laptop.org/) is licensed under [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/).
+![](https://djon.es/assets/blog/2020/01/13/office365-charismatic-technologies-and-the-ecological-perspective/images/2Q==)[“uruguay: students in artigas”](http://one.laptop.org/sites/default/files/Brazil-full_1.jpg) by [OLCP](http://one.laptop.org/) is licensed under [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/).
 
 Ames illustrates this with a focus on the [One Laptop per Child Project (OLCP)](http://one.laptop.org/). A project that Ames attributes to the vision of Symour Papert – as “the project’s intellectual father” - and Nicholas Negroponte - “the public face”. The OLCP was charismatic due to the ideology it embodied, its physical design, and often over-the-top promotion. Underpinning the OLCP was the notion of children as inherently curious and with the smallest of nudgest fully able to tinker and learn – labelled the _charisma of childhood_ by Ames. It was also underpinned by the notion of school “as a stullifying rote experience that has not changed in over a century” (Ames, 2015, p. 111) – the _anti-charisma of school_. And, the _charisma of computers_ e.g. Papert’s identification of the computer as “the Proteus of machines”. All leading to the _charisma of the self-taught hacker_. In combination these ideologies resonated with a cross section of technologists who could see how it embodied their own experience/beliefs and also promoted an ideal that placed people like them at the top. Imagine how such people would react to the picture above showing children sitting in the street apparently engaged – obviously coding up a storm - with such a device. Ko [gives a personal description](https://medium.com/bits-and-behavior/a-autobiographical-synopsis-of-morgan-ames-the-charisma-machine-68792c7987fa) of these type of people and positions herself as an example of someone who did not fit in that group. Experience with the OLCP would appear to suggest that Ko’s group has a larger population that the “self-taught hacker” technologists.
 
@@ -75,7 +75,7 @@ Macgilchrist, Allert & Bruch (2019) provide a somewhat related example, though n
 
 ### What does Office365 divert attention from?
 
-![](images/Nx+6ODmmajAAAAAASUVORK5CYII=)
+![](https://djon.es/assets/blog/2020/01/13/office365-charismatic-technologies-and-the-ecological-perspective/images/Nx+6ODmmajAAAAAASUVORK5CYII=)
 
 If Office365 is the latest charismatic technology that has blinded decision makers, then what are the “complicated, expensive, or politically charged reforms” that are being ignored?
 

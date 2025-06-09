@@ -1,54 +1,51 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - missingps
 - thesis
-date: 2009-01-16 11:47:41+10:00
+comments: []
+date: 2009-01-16 01:47:41
 next:
   text: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
   url: /blog/2009/01/18/is-all-diversity-goodbad-a-taxonomy-of-diversity-in-the-is-discipline/
+pingbacks:
+- approved: '1'
+  author: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/01/18/is-all-diversity-goodbad-a-taxonomy-of-diversity-in-the-is-discipline/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Using metaphor to examine diversity (or lack thereof) in&nbsp;research [...]'
+  date: '2009-01-18 16:18:38'
+  date_gmt: '2009-01-18 06:18:38'
+  id: '2070'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/01/18/is-all-diversity-goodbad-a-taxonomy-of-diversity-in-the-is-discipline/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Using metaphor to examine diversity (or lack thereof) in&nbsp;research [...]'
+  date: '2009-01-18 16:18:38'
+  date_gmt: '2009-01-18 06:18:38'
+  id: '2071'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Seven principles of knowledge management and applications to e-learning, curriculum
     design and L&#038;T in universities
   url: /blog/2009/01/09/seven-principles-of-knowledge-management-and-applications-to-e-learning-curriculum-design-and-lt-in-universities/
+template: blog-post.html
 title: Using metaphor to examine diversity (or lack thereof) in research
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/01/18/is-all-diversity-goodbad-a-taxonomy-of-diversity-in-the-is-discipline/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Using metaphor to examine diversity (or lack thereof) in&nbsp;research [...]'
-      date: '2009-01-18 16:18:38'
-      date_gmt: '2009-01-18 06:18:38'
-      id: '2070'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/01/18/is-all-diversity-goodbad-a-taxonomy-of-diversity-in-the-is-discipline/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Using metaphor to examine diversity (or lack thereof) in&nbsp;research [...]'
-      date: '2009-01-18 16:18:38'
-      date_gmt: '2009-01-18 06:18:38'
-      id: '2071'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [This post](http://emergentresearchers.wordpress.com/2009/01/16/metaphor-meaning-and-myth-exploring-diversity-in-information-systems-research/) contains a link to a PDF working paper that uses metaphor analysis on a collection of journal papers to examine just how diverse research within the Information Systems field actually is. It finds that the IS field is actually not very diverse at all from this perspective, which is somewhat contradictory to what is accepted by most IS folk.
 

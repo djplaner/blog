@@ -1,25 +1,21 @@
----
+﻿---
 categories:
 - addie
 - c2d2
 - coursesites
 - elearning
-date: 2008-07-12 22:53:34+10:00
+comments: []
+date: 2008-07-12 12:53:34
 next:
   text: '"Taxonomies" for understanding applications of educational technology'
   url: /blog/2008/07/14/taxonomies-for-understanding-applications-of-educational-technology/
+pingbacks: []
 previous:
   text: Creating quality course websites - the pragmatic approach
   url: /blog/2008/07/12/creating-quality-course-websites-the-pragmatic-approach/
+template: blog-post.html
 title: What do students find useful?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 In a growing [category of blog posts](http://cq-pan.cqu.edu.au/david-jones/blog/?cat=43) I'm expanding and attempting to apply my interest in diffusion theory and related theories to increase the use of course websites. A major requirement, as outlined in the [previous post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=185), in achieving this requires and understanding of what students find useful?
 

@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - moodleopenbook
 - oep
 - site2016
-date: 2016-03-26 03:23:14+10:00
+comments: []
+date: 2016-03-25 17:23:14
 next:
   text: Setting up the analysis of student submissions
   url: /blog/2016/03/29/setting-up-the-analysis-of-student-submissions/
+pingbacks:
+- approved: '1'
+  author: First steps in integrating LATs OER into Moodle open book &#8211; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.44
+  author_url: https://davidtjones.wordpress.com/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/
+  content: '[&#8230;] been released as Open Educational Resources (OERs) by Hofer
+    and Harris (2016). As outlined in a prior post my plan is to use these OERs as
+    a test case for the Moodle open book project. The aim being [&#8230;]'
+  date: '2016-04-02 11:48:09'
+  date_gmt: '2016-04-02 01:48:09'
+  id: '3331'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'SITE&#039;2016: LATs, OER, and SPLOTs?'
   url: /blog/2016/03/26/site2016-lats-oer-and-splots/
+template: blog-post.html
 title: LATs, OER, TPACK, and GitHub
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: First steps in integrating LATs OER into Moodle open book &#8211; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.44
-      author_url: https://davidtjones.wordpress.com/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/
-      content: '[&#8230;] been released as Open Educational Resources (OERs) by Hofer
-        and Harris (2016). As outlined in a prior post my plan is to use these OERs as
-        a test case for the Moodle open book project. The aim being [&#8230;]'
-      date: '2016-04-02 11:48:09'
-      date_gmt: '2016-04-02 01:48:09'
-      id: '3331'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an attempt to think about the inter-connections between [the paper "Open Educational Resources (OERs) for TPACK Development"](https://www.academicexperts.org/conf/site/2016/papers/49080/) presented by Mark Hofer and Judi Harris at SITE'2016 and [the Moodle OpenBook project](/blog/the-moodle-open-book-module-project/) and my own teaching.
 

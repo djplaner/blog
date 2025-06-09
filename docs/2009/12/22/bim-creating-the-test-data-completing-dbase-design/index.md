@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bim
-date: 2009-12-22 11:29:59+10:00
+comments: []
+date: 2009-12-22 01:29:59
 next:
   text: BIM - cron and view student details screen
   url: /blog/2009/12/22/bim-cron-and-view-student-details-screen/
+pingbacks:
+- approved: '1'
+  author: BIM &#8211; cron and view student details screen &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.244.88
+  author_url: https://djon.es/blog/2009/12/22/bim-cron-and-view-student-details-screen/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BIM &#8211; Creating the test data, completing dbase&nbsp;design [...]'
+  date: '2009-12-22 15:42:12'
+  date_gmt: '2009-12-22 05:42:12'
+  id: '2898'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Supporting curriculum mapping?
   url: /blog/2009/12/21/supporting-curriculum-mapping/
+template: blog-post.html
 title: BIM - Creating the test data, completing dbase design
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM &#8211; cron and view student details screen &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.244.88
-      author_url: https://djon.es/blog/2009/12/22/bim-cron-and-view-student-details-screen/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BIM &#8211; Creating the test data, completing dbase&nbsp;design [...]'
-      date: '2009-12-22 15:42:12'
-      date_gmt: '2009-12-22 05:42:12'
-      id: '2898'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [last bit of BIM work](/blog/2009/12/20/bim-savingmanipulating-rss-files/) resulted in getting the show student details screen up and going, mostly. Any more of these screens will draw on, at least in part, other data from other tables. Time to get those populated. This will be done using data from BAM currently being used.
 

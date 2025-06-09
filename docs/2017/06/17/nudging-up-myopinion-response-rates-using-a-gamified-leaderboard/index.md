@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - bad
 - bricolage
 - casa
-date: 2017-06-17 13:55:04+10:00
+date: 2017-06-17 03:55:04
 next:
   text: Learning analytics, quality indicators and meso-level practitioners
   url: /blog/2017/07/07/learning-analytics-quality-indicators-and-meso-level-practitioners/
 previous:
   text: Emedding plotly graphs in Wordpress posts
   url: /blog/2017/06/17/emedding-plotly-graphs-in-wordpress-posts/
+template: blog-post.html
 title: Nudging up MyOpinion response rates using a gamified leaderboard
 type: post
-template: blog-post.html
 ---
 The following information is taken from and adds to the contents of [a poster](http://djon.es/Leaderboard/June2017Poster.pdf) by [Alice Brown](https://staffprofile.usq.edu.au/Profile/Alice-Brown) and I for a USQ L&T Celebration Event. It describes the need for a Student Evaluation of Teaching leaderboard, how it works, and the results of some early applications (12 to 15% increases in response rates in individual courses, resulting in response rates that are double the institutional average - around 50%, rather than 25%).
 
@@ -36,7 +36,7 @@ Initially trialled in 2015 in the course EDC3100, and then extended into several
 
 The following image (click on it to see a bigger version) illustrates how the leaderboard works. See below for more explanation.
 
-[![How a MyOpinion leaderboard works](images/35314111366_4a463eabd7_z.jpg)](https://www.flickr.com/photos/david_jones/35314111366/in/dateposted-public/ "How a MyOpinion leaderboard works")
+[![How a MyOpinion leaderboard works](https://djon.es/assets/blog/2017/06/17/nudging-up-myopinion-response-rates-using-a-gamified-leaderboard/images/35314111366_4a463eabd7_z.jpg)](https://www.flickr.com/photos/david_jones/35314111366/in/dateposted-public/ "How a MyOpinion leaderboard works")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The MyOpinion leaderboard works like this:

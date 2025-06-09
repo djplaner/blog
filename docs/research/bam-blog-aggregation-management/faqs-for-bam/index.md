@@ -1,78 +1,75 @@
----
-date: 2009-03-16 07:58:06+10:00
+﻿---
+comments:
+- approved: '1'
+  author: Mark Pearson
+  author_email: markp@earlham.edu
+  author_ip: 159.28.7.95
+  author_url: http://markpea.wordpress.com/
+  content: "David,\nI don't know whether this is the right place to leave a couple\
+    \ of bug reports, but here goes.\n1. I am running a modified moodle 1.9.7 (by\
+    \ http://clamp-it.org) which uses the Simplepie RSS system. This is apparently\
+    \ much less bug ridden than Magpie (or so I am told). The BIM RSS system severely\
+    \ conflicts with this. Here's the error message upon running admin/cron.php:\n\
+    [code]\nProcessing cron function for rss_client....&lt;br /&gt;\n&lt;b&gt;Fatal\
+    \ error&lt;/b&gt;:  Cannot redeclare class SimplePie_Cache_MySQL in &lt;b&gt;/usr/home/markp/public_html/clamp-LAE/lib/simplepie_1.2/simplepie.inc&lt;/b&gt;\
+    \ on line &lt;b&gt;9069&lt;/b&gt;&lt;br /&gt;\n[/code]\n\n2. Most if not all of\
+    \ our system run with https. So any students blog will be served from a secure\
+    \ server. This does give an error from within BIM:\n\nBlog that I know generates\
+    \ a valid RSS feed : https://els.earlham.edu/markpea/weblog/rss/\nGet this error:\n\
+    \n    Could not access the URL\n    Unable to access the URL you provided\n\n\
+    \        https://els.earlham.edu/markpea/weblog/rss/\n\n    The error created\
+    \ was\n    cURL error 60: SSL certificate problem, verify that the CA cert is\
+    \ OK. Details: error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate\
+    \ verify failed\n    Please try to change the student blog again.\n\nMore details\
+    \ at http://www.earlham.edu/markp/millmiss/#%5b%5bBIM%20problems%5d%5d\n\nCheers\n\
+    Mark Pearson"
+  date: '2010-05-01 02:58:19'
+  date_gmt: '2010-04-30 16:58:19'
+  id: '2254'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Mark,
+
+
+    It looks like you''ve found the github site for bim, and in particular it''s issues
+    list.
+
+    http://github.com/djplaner/BIM/issues/
+
+
+    I''m still working out exactly how to best support a bim community, I do think
+    github looks good for problems, but we''ll see.
+
+    I''m open to suggestions.
+
+
+    I''ll answer your questions on github, but I think the short answers are
+
+    1. BIM comes with its own copy of Simplepie which it uses by default.  That''s
+    the source of the conflict, solution will be to get BIM using your sites version
+    of Simplepie
+
+    2. More complex, my understanding is that this should work.  Need to investigate.
+
+
+    David.'
+  date: '2010-05-01 08:30:05'
+  date_gmt: '2010-04-30 22:30:05'
+  id: '2255'
+  parent: '2254'
+  type: comment
+  user_id: '1'
+date: 2009-03-15 21:58:06
+pingbacks: []
+template: blog-post.html
 title: FAQs for BAM
 type: page
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Mark Pearson
-      author_email: markp@earlham.edu
-      author_ip: 159.28.7.95
-      author_url: http://markpea.wordpress.com/
-      content: "David,\nI don't know whether this is the right place to leave a couple\
-        \ of bug reports, but here goes.\n1. I am running a modified moodle 1.9.7 (by\
-        \ http://clamp-it.org) which uses the Simplepie RSS system. This is apparently\
-        \ much less bug ridden than Magpie (or so I am told). The BIM RSS system severely\
-        \ conflicts with this. Here's the error message upon running admin/cron.php:\n\
-        [code]\nProcessing cron function for rss_client....&lt;br /&gt;\n&lt;b&gt;Fatal\
-        \ error&lt;/b&gt;:  Cannot redeclare class SimplePie_Cache_MySQL in &lt;b&gt;/usr/home/markp/public_html/clamp-LAE/lib/simplepie_1.2/simplepie.inc&lt;/b&gt;\
-        \ on line &lt;b&gt;9069&lt;/b&gt;&lt;br /&gt;\n[/code]\n\n2. Most if not all of\
-        \ our system run with https. So any students blog will be served from a secure\
-        \ server. This does give an error from within BIM:\n\nBlog that I know generates\
-        \ a valid RSS feed : https://els.earlham.edu/markpea/weblog/rss/\nGet this error:\n\
-        \n    Could not access the URL\n    Unable to access the URL you provided\n\n\
-        \        https://els.earlham.edu/markpea/weblog/rss/\n\n    The error created\
-        \ was\n    cURL error 60: SSL certificate problem, verify that the CA cert is\
-        \ OK. Details: error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate\
-        \ verify failed\n    Please try to change the student blog again.\n\nMore details\
-        \ at http://www.earlham.edu/markp/millmiss/#%5b%5bBIM%20problems%5d%5d\n\nCheers\n\
-        Mark Pearson"
-      date: '2010-05-01 02:58:19'
-      date_gmt: '2010-04-30 16:58:19'
-      id: '2254'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Mark,
-    
-    
-        It looks like you''ve found the github site for bim, and in particular it''s issues
-        list.
-    
-        http://github.com/djplaner/BIM/issues/
-    
-    
-        I''m still working out exactly how to best support a bim community, I do think
-        github looks good for problems, but we''ll see.
-    
-        I''m open to suggestions.
-    
-    
-        I''ll answer your questions on github, but I think the short answers are
-    
-        1. BIM comes with its own copy of Simplepie which it uses by default.  That''s
-        the source of the conflict, solution will be to get BIM using your sites version
-        of Simplepie
-    
-        2. More complex, my understanding is that this should work.  Need to investigate.
-    
-    
-        David.'
-      date: '2010-05-01 08:30:05'
-      date_gmt: '2010-04-30 22:30:05'
-      id: '2255'
-      parent: '2254'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 This page acts as a repository for frequently asked questions for the [Blog Aggregation Management (BAM) project](/blog/research/bam-blog-aggregation-management/).
 

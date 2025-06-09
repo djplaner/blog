@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - quotes
 - react
 - react2008
 - reflectivealignment
-date: 2009-03-02 08:29:11+10:00
+date: 2009-03-01 22:29:11
 next:
   text: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
   url: /blog/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
 previous:
   text: Another spectrum for using indicators to place course websites
   url: /blog/2009/03/01/another-spectrum-for-using-indicators-to-place-course-websites/
+template: blog-post.html
 title: Reflective problematisation - description of reflection in "reflective alignment"?
 type: post
-template: blog-post.html
 ---
 Thinking about [reflective alignment](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/), I came across the following quote in Booth and Anderberg (2005). Thought it might be useful so am saving it here.
 

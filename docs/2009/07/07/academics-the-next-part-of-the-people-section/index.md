@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,63 +6,60 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-07-07 23:41:54+10:00
+comments: []
+date: 2009-07-07 13:41:54
 next:
   text: Integrating BAM into Moodle - Can it be done?
   url: /blog/2009/07/09/integrating-bam-into-moodle-can-it-be-done/
+pingbacks:
+- approved: '1'
+  author: Leaders and managers &#8211; the next bit of People &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.75
+  author_url: https://djon.es/blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/
+  content: '[...] the recent work on the People component of the Ps Framework. So
+    far, I&#8217;ve done students and teaching/academic staff. This post looks at
+    leaders and managers (badly). I&#8217;m working on a section or two on [...]'
+  date: '2009-07-17 14:42:42'
+  date_gmt: '2009-07-17 04:42:42'
+  id: '2636'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD update #17 &#8211; You know you&#8217;re losing your way when&#8230;.
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/
+  content: '[...] Academics, and [...]'
+  date: '2009-07-19 14:32:58'
+  date_gmt: '2009-07-19 04:32:58'
+  id: '2637'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons for e-learning from people &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.201
+  author_url: https://djon.es/blog/2009/08/17/lessons-for-e-learning-from-people/
+  content: '[...] with e-learning. This has included descriptions of the characteristics
+    of the people (Students, Academic Staff, Leaders and Managers and Support Staff)
+    involved with e-learning (Section 2.1.1); the chasm [...]'
+  date: '2009-12-22 21:58:45'
+  date_gmt: '2009-12-22 11:58:45'
+  id: '2638'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #16 - return from a break'
   url: /blog/2009/07/05/phd-update-16-return-from-a-break/
+template: blog-post.html
 title: Academics - the next part of the People section
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Leaders and managers &#8211; the next bit of People &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.75
-      author_url: https://djon.es/blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/
-      content: '[...] the recent work on the People component of the Ps Framework. So
-        far, I&#8217;ve done students and teaching/academic staff. This post looks at
-        leaders and managers (badly). I&#8217;m working on a section or two on [...]'
-      date: '2009-07-17 14:42:42'
-      date_gmt: '2009-07-17 04:42:42'
-      id: '2636'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD update #17 &#8211; You know you&#8217;re losing your way when&#8230;.
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/
-      content: '[...] Academics, and [...]'
-      date: '2009-07-19 14:32:58'
-      date_gmt: '2009-07-19 04:32:58'
-      id: '2637'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons for e-learning from people &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.201
-      author_url: https://djon.es/blog/2009/08/17/lessons-for-e-learning-from-people/
-      content: '[...] with e-learning. This has included descriptions of the characteristics
-        of the people (Students, Academic Staff, Leaders and Managers and Support Staff)
-        involved with e-learning (Section 2.1.1); the chasm [...]'
-      date: '2009-12-22 21:58:45'
-      date_gmt: '2009-12-22 11:58:45'
-      id: '2638'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the next part of the People section for chapter 2 of my [thesis](/blog/research/phd-thesis/). The People section was started a week ago with [this post](/blog/2009/06/29/students-and-e-learning-a-start-to-the-people-section/). This one takes up the task of saying something about academic staff, subsequent and soon to be completed sections will look at management, academic staff developers and technology staff.
 
@@ -90,7 +87,7 @@ Technology is restructuring the fabric of higher education and influencing the w
 
 As mentioned in the Past Experience section (insert cross reference) research into teaching within higher education has developed a rich body of knowledge that links the quality of student learning outcomes with the conceptions of learning and a link between the conceptions of teaching held by academics and their approaches to teaching (Kember and Kwan 2000; Norton, Richardson et al. 2005; Eley 2006; Gonzalez 2009). A relationship captured in Figure 2.1 adapted from Trigwell (2001). The conception of learning held by teachers has a major influence on the planning of courses, the development of teaching strategies and ultimately on the what and how students learn (Alexander 2001). In order to change the way teaching staff approach teaching, it is necessary, and very difficult, to change their conceptions of teaching and learning (Trigwell and Prosser 1996).
 
-[![Trigwell's model of teaching](images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
+[![Trigwell's model of teaching](https://djon.es/assets/blog/2009/07/07/academics-the-next-part-of-the-people-section/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
 
 The predominant form of learning within universities remain the teacher-centred, classroom education (Piccoli, Ahmad et al. 2000). The majority of existing academics have not studied using a Learning Management System (LMS) nor have they seen how e-learning can be used in a range of teaching situations (Newland, Jenkins et al. 2006). Consequently, their experiences and values are predominantly those of the face-to-face paradigm (Newland, Jenkins et al. 2006). Universities are replete with resources in the form of intelligent individual who are rarely appropriately directed to pedagogical innovation nor are self-motivated to radically transform their teaching (Salmon 2005).
 

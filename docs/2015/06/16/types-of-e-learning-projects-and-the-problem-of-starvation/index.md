@@ -1,169 +1,167 @@
----
+﻿---
 categories:
 - 4paths
 - bad
 - elearning
-date: 2015-06-16 10:55:59+10:00
+comments:
+- approved: '1'
+  author: u1011625
+  author_email: U1011625@umail.usq.edu.au
+  author_ip: 101.162.51.164
+  author_url: http://u1011625.wordpress.com
+  content: 'Hi David -
+
+
+    Have just read your post (after thismornings exam haha). I am one of the non-submitters
+    - unfortunately exam prep got on top of me, and these things happen. That being
+    said, you are indeed the first lecturer in five years worth of study to send any
+    sort of enquiry about late submittal of assessments. As while I did suppose it
+    was an automated email, it''s still touching to know that you''ve taken the time
+    and put yourself out there to a) acknowledge that we''re late (like a tacit behaviour
+    management for adults, its a gentle WTF are you doing?) and b) offer assistance
+    if required.
+
+    I have enjoyed this course from an ICT point of view, as the content was indeed
+    useful. However I believe that I have enjoyed this course now as a model of positive
+    teacher behaviour. You;ve been inspiring the whole way through about keeping contact,
+    actually reading student blogs, responding personally to queries (and sometimes
+    rants), and I applaud you sir - it''s a big class, with a huge taskload, so cheers
+    for the effort. thanks for showing us how it''s done.'
+  date: '2015-06-16 11:27:15'
+  date_gmt: '2015-06-16 01:27:15'
+  id: '1326'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2015-06-16 00:55:59
 next:
   text: Exploring BIM + sentiment analysis - what might it say about student blog
     posts
   url: /blog/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/
+pingbacks:
+- approved: '1'
+  author: 'Import and the Book module: a case of knowledge loss? | The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 192.0.86.68
+  author_url: https://davidtjones.wordpress.com/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/
+  content: '[&#8230;] Leading to questions of prioritisation, which inevitably leads
+    to the problem of stavation. [&#8230;]'
+  date: '2015-07-18 15:54:08'
+  date_gmt: '2015-07-18 05:54:08'
+  id: '1327'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The role of &#8220;coding&#8221; in learning and teaching | The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.74
+  author_url: https://davidtjones.wordpress.com/2015/08/18/the-role-of-coding-in-learning-and-teaching/
+  content: '[&#8230;] reasons for learning how to code touch on what I&#8217;ve called
+    the starvation problem with e-learning projects. Alex&#8217;s description was
+    our developers work with the code. This is [&#8230;]'
+  date: '2015-08-18 15:54:25'
+  date_gmt: '2015-08-18 05:54:25'
+  id: '1328'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'University e-learning: Removing the context and adding the sediment | The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.81.171
+  author_url: https://davidtjones.wordpress.com/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
+  content: '[&#8230;] not everyone can code. University e-learning systems currently
+    have a starvation problem. That is, a range of projects that should get implemented
+    can&#8217;t because there aren&#8217;t [&#8230;]'
+  date: '2015-10-01 12:50:33'
+  date_gmt: '2015-10-01 02:50:33'
+  id: '1329'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Exploring &#8220;post adoptive usage&#8221; of the #moodle Book module
+    &#8211; a draft proposal | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.99.237
+  author_url: https://davidtjones.wordpress.com/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/
+  content: '[&#8230;] starved of attention.Since these are complex systems. Changing
+    them is expensive. Thus only strategic changes can be [&#8230;]'
+  date: '2015-11-06 15:39:48'
+  date_gmt: '2015-11-06 05:39:48'
+  id: '1330'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Extending a little thought experiment | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.213
+  author_url: https://davidtjones.wordpress.com/2016/02/05/extending-a-little-thought-experiment/
+  content: "[&#8230;] is the purpose for\_ which I&#8217;ve recently developed and\
+    \ used an option similar to Wiley&#8217;s option [&#8230;]"
+  date: '2016-02-05 12:41:59'
+  date_gmt: '2016-02-05 02:41:59'
+  id: '1331'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The nature of digital technology? Part 2 &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.100.241
+  author_url: https://davidtjones.wordpress.com/2016/06/28/the-nature-of-digital-technology-part-2/
+  content: "[&#8230;] who are in turn constrained by a hierarchical governance process.\
+    \ A situation that might lead a problem of starvation where the priority is given\
+    \ to\_ large-scale, institutional level changes, rather than changes [&#8230;]"
+  date: '2016-06-28 11:38:31'
+  date_gmt: '2016-06-28 01:38:31'
+  id: '1332'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Design of a BAD approach to developing TPACK &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.118.74
+  author_url: https://davidtjones.wordpress.com/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
+  content: '[&#8230;] A key vine that I&#8217;m interested in is the idea of &#8220;helper
+    applications&#8221;. i.e. small scripts/applications that add value to the functionality
+    of the current page/service. This idea is linked to the idea of the Reusability
+    Paradox and the Starvation Problem of e-learning. [&#8230;]'
+  date: '2016-07-01 08:24:24'
+  date_gmt: '2016-06-30 22:24:24'
+  id: '1333'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'University digital technology: problems, causes, and suggested solutions
+    &#8211; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.116.169
+  author_url: https://davidtjones.wordpress.com/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
+  content: '[&#8230;] across the whole organisation (i.e. a digital technology that
+    actually provides value) suffers from starvation. The resources to develop/approve
+    a digital technology within an organisation are limited. [&#8230;]'
+  date: '2016-09-07 13:08:46'
+  date_gmt: '2016-09-07 03:08:46'
+  id: '1334'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Import/export ePubs into the Moodle book module
   url: /blog/2015/06/15/importexport-epubs-into-the-moodle-book-module/
+template: blog-post.html
 title: Types of e-learning projects and the problem of starvation
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: u1011625
-      author_email: U1011625@umail.usq.edu.au
-      author_ip: 101.162.51.164
-      author_url: http://u1011625.wordpress.com
-      content: 'Hi David -
-    
-    
-        Have just read your post (after thismornings exam haha). I am one of the non-submitters
-        - unfortunately exam prep got on top of me, and these things happen. That being
-        said, you are indeed the first lecturer in five years worth of study to send any
-        sort of enquiry about late submittal of assessments. As while I did suppose it
-        was an automated email, it''s still touching to know that you''ve taken the time
-        and put yourself out there to a) acknowledge that we''re late (like a tacit behaviour
-        management for adults, its a gentle WTF are you doing?) and b) offer assistance
-        if required.
-    
-        I have enjoyed this course from an ICT point of view, as the content was indeed
-        useful. However I believe that I have enjoyed this course now as a model of positive
-        teacher behaviour. You;ve been inspiring the whole way through about keeping contact,
-        actually reading student blogs, responding personally to queries (and sometimes
-        rants), and I applaud you sir - it''s a big class, with a huge taskload, so cheers
-        for the effort. thanks for showing us how it''s done.'
-      date: '2015-06-16 11:27:15'
-      date_gmt: '2015-06-16 01:27:15'
-      id: '1326'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Import and the Book module: a case of knowledge loss? | The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 192.0.86.68
-      author_url: https://davidtjones.wordpress.com/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/
-      content: '[&#8230;] Leading to questions of prioritisation, which inevitably leads
-        to the problem of stavation. [&#8230;]'
-      date: '2015-07-18 15:54:08'
-      date_gmt: '2015-07-18 05:54:08'
-      id: '1327'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The role of &#8220;coding&#8221; in learning and teaching | The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.74
-      author_url: https://davidtjones.wordpress.com/2015/08/18/the-role-of-coding-in-learning-and-teaching/
-      content: '[&#8230;] reasons for learning how to code touch on what I&#8217;ve called
-        the starvation problem with e-learning projects. Alex&#8217;s description was
-        our developers work with the code. This is [&#8230;]'
-      date: '2015-08-18 15:54:25'
-      date_gmt: '2015-08-18 05:54:25'
-      id: '1328'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'University e-learning: Removing the context and adding the sediment | The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.81.171
-      author_url: https://davidtjones.wordpress.com/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
-      content: '[&#8230;] not everyone can code. University e-learning systems currently
-        have a starvation problem. That is, a range of projects that should get implemented
-        can&#8217;t because there aren&#8217;t [&#8230;]'
-      date: '2015-10-01 12:50:33'
-      date_gmt: '2015-10-01 02:50:33'
-      id: '1329'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Exploring &#8220;post adoptive usage&#8221; of the #moodle Book module
-        &#8211; a draft proposal | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.99.237
-      author_url: https://davidtjones.wordpress.com/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/
-      content: '[&#8230;] starved of attention.Since these are complex systems. Changing
-        them is expensive. Thus only strategic changes can be [&#8230;]'
-      date: '2015-11-06 15:39:48'
-      date_gmt: '2015-11-06 05:39:48'
-      id: '1330'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Extending a little thought experiment | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.213
-      author_url: https://davidtjones.wordpress.com/2016/02/05/extending-a-little-thought-experiment/
-      content: "[&#8230;] is the purpose for\_ which I&#8217;ve recently developed and\
-        \ used an option similar to Wiley&#8217;s option [&#8230;]"
-      date: '2016-02-05 12:41:59'
-      date_gmt: '2016-02-05 02:41:59'
-      id: '1331'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The nature of digital technology? Part 2 &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.100.241
-      author_url: https://davidtjones.wordpress.com/2016/06/28/the-nature-of-digital-technology-part-2/
-      content: "[&#8230;] who are in turn constrained by a hierarchical governance process.\
-        \ A situation that might lead a problem of starvation where the priority is given\
-        \ to\_ large-scale, institutional level changes, rather than changes [&#8230;]"
-      date: '2016-06-28 11:38:31'
-      date_gmt: '2016-06-28 01:38:31'
-      id: '1332'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Design of a BAD approach to developing TPACK &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.118.74
-      author_url: https://davidtjones.wordpress.com/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
-      content: '[&#8230;] A key vine that I&#8217;m interested in is the idea of &#8220;helper
-        applications&#8221;. i.e. small scripts/applications that add value to the functionality
-        of the current page/service. This idea is linked to the idea of the Reusability
-        Paradox and the Starvation Problem of e-learning. [&#8230;]'
-      date: '2016-07-01 08:24:24'
-      date_gmt: '2016-06-30 22:24:24'
-      id: '1333'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'University digital technology: problems, causes, and suggested solutions
-        &#8211; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.116.169
-      author_url: https://davidtjones.wordpress.com/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
-      content: '[&#8230;] across the whole organisation (i.e. a digital technology that
-        actually provides value) suffers from starvation. The resources to develop/approve
-        a digital technology within an organisation are limited. [&#8230;]'
-      date: '2016-09-07 13:08:46'
-      date_gmt: '2016-09-07 03:08:46'
-      id: '1334'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The last assignment for the course [EDC3100, ICT and Pedagogy](http://www.usq.edu.au/course/specification/2015/EDC3100-S1-2015-ONC-TWMBA.html) was due to be submitted yesterday. Right now the Moodle assignment activity (a version somewhat modified by my institution) is showing that 193 of 318 enrolled students have submitted assignments.
 
@@ -171,7 +169,7 @@ This is a story of the steps I have to take to respond to the story these figure
 
 It's also a story about the different types of development projects that are required when it comes to institutional e-learning and how the institutional approach to implementing e-learning means that certain types of these projects are inevitably starved of attention.
 
-[![Assignment overview](images/18846380361_c9ed310517_n.jpg)](https://www.flickr.com/photos/david_jones/18846380361 "Assignment overview by David Jones, on Flickr")
+[![Assignment overview](https://djon.es/assets/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/images/18846380361_c9ed310517_n.jpg)](https://www.flickr.com/photos/david_jones/18846380361 "Assignment overview by David Jones, on Flickr")
 
 ### Don't forget the extensions
 
@@ -189,7 +187,7 @@ I like to get in contact with these students to see if there's any problem. If y
 
 > 1\. Encourages Contact Between Students and Faculty Frequent student-faculty contact in and out of classes is the most important factor in student motivation and involvement. Faculty concern helps students get through rough times and keep on working.
 
-[![Weather from my bedroom window](images/17217349786_0587e21fd9_n.jpg)](https://www.flickr.com/photos/ictspedagogy/17217349786 "Weather from my bedroom window by technology in learning, on Flickr")
+[![Weather from my bedroom window](https://djon.es/assets/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/images/17217349786_0587e21fd9_n.jpg)](https://www.flickr.com/photos/ictspedagogy/17217349786 "Weather from my bedroom window by technology in learning, on Flickr")
 
 Since my students are spread across the world (see the image to the right) and the semester ended last week, a face-to-face chat isn't going to happen. With 48 students to contact I'm not feeling up to playing phone tag with that number of students. I don't have easy access to the mobile phone numbers of these students, nor do I have access to any way to send text messages to these students that doesn't involve the use of my personal phone. An announcement on the course news forum doesn't provide the type of individual contact I'd prefer and there's a question about how many students would actually see such an announcement (semester ended last week).
 
@@ -225,7 +223,7 @@ Of the staff who don't do this, is that because
 2. They've never thought of doing it?
 3. It's too difficult to do?
 
-[![Norman on affordances](images/18656913650_b2a17f2513_n.jpg)](https://www.flickr.com/photos/david_jones/18656913650 "Norman on affordances by David Jones, on Flickr")
+[![Norman on affordances](https://djon.es/assets/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/images/18656913650_b2a17f2513_n.jpg)](https://www.flickr.com/photos/david_jones/18656913650 "Norman on affordances by David Jones, on Flickr")
 
 And, if it were easier, would they do it? What impact might this have?
 
@@ -264,7 +262,7 @@ In some discussions with @beerc and @damoclarky we've identified five separate t
     I'm willing to bet large amounts of money that my course is currently the only course that uses this particular combination. This specific version of the tool is unlikely to be valuable to other people. It won't scale (though the principles behind it might). There's no point in trying to scale this tool, but it provides real benefit to me and the students in my course.
     
 
-[![MoreStudentDetails](images/18657245938_225d364f57.jpg)](https://www.flickr.com/photos/david_jones/18657245938 "MoreStudentDetails by David Jones, on Flickr")
+[![MoreStudentDetails](https://djon.es/assets/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/images/18657245938_225d364f57.jpg)](https://www.flickr.com/photos/david_jones/18657245938 "MoreStudentDetails by David Jones, on Flickr")
 
 ### The problem of starvation
 

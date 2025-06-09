@@ -1,44 +1,41 @@
----
-date: 2008-10-22 13:54:44+10:00
+﻿---
+comments: []
+date: 2008-10-22 03:54:44
+pingbacks:
+- approved: '1'
+  author: A Paradigmatic Analysis of Information Systems As a Design Science &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.232.131.31
+  author_url: https://djon.es/blog/2008/10/25/a-paradigmatic-analysis-of-information-systems-as-a-design-science/
+  content: '[...] It&#8217;s not difficult to see in that statement a connection with
+    diffusion theory and TAM. Descriptive knowledge that has informed later iterations
+    of this work and diffusion theory certainly gets a specific inclusion as a kernel
+    theory in the final ISDT. [...]'
+  date: '2008-10-25 22:44:57'
+  date_gmt: '2008-10-25 12:44:57'
+  id: '1845'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: An information systems design theory for e-learning &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.141
+  author_url: https://djon.es/blog/2009/02/21/an-information-systems-design-theory-for-e-learning/
+  content: '[...] of the presentation. Such descriptions have been given in other
+    papers (Jones and Gregor, 2002; Jones and Gregor, 2004). Instead the emphasis
+    of the presentation is on the other components of the thesis that are in [...]'
+  date: '2009-02-21 03:58:30'
+  date_gmt: '2009-02-20 17:58:30'
+  id: '1846'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: The formulation of an ISDT for e-learning,
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: A Paradigmatic Analysis of Information Systems As a Design Science &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.232.131.31
-      author_url: https://djon.es/blog/2008/10/25/a-paradigmatic-analysis-of-information-systems-as-a-design-science/
-      content: '[...] It&#8217;s not difficult to see in that statement a connection with
-        diffusion theory and TAM. Descriptive knowledge that has informed later iterations
-        of this work and diffusion theory certainly gets a specific inclusion as a kernel
-        theory in the final ISDT. [...]'
-      date: '2008-10-25 22:44:57'
-      date_gmt: '2008-10-25 12:44:57'
-      id: '1845'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: An information systems design theory for e-learning &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.141
-      author_url: https://djon.es/blog/2009/02/21/an-information-systems-design-theory-for-e-learning/
-      content: '[...] of the presentation. Such descriptions have been given in other
-        papers (Jones and Gregor, 2002; Jones and Gregor, 2004). Instead the emphasis
-        of the presentation is on the other components of the thesis that are in [...]'
-      date: '2009-02-21 03:58:30'
-      date_gmt: '2009-02-20 17:58:30'
-      id: '1846'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Shirley Gregor, The formulation of an ISDT for e-learning, Paper presented at the 1st International Conference on Design Science Research in Information Systems and Technology
 
@@ -94,7 +91,7 @@ Table 2 summarises the components of an ISDT identified by Walls et al (2004; , 
 
 Table 2 – Components of an Information Systems Design Theory (ISDT)
 
-[![ISDT Cycle 1](images/2999310386_b180fedb5b_m.jpg)](http://www.flickr.com/photos/david_jones/2999310386/ "ISDT Cycle 1 by David T Jones, on Flickr")
+[![ISDT Cycle 1](https://djon.es/assets/blog/publications/the-formulation-of-an-isdt-for-e-learning/images/2999310386_b180fedb5b_m.jpg)](http://www.flickr.com/photos/david_jones/2999310386/ "ISDT Cycle 1 by David T Jones, on Flickr")
 
 Figure 1 – 1st generation of ISDT
 
@@ -124,7 +121,7 @@ To address this problem a more adopter-based approach was implemented, where the
 
 This process led to the second generation of the ISDT shown in Figure 2. This generation added diffusion theory and design pattern related components to the first generation. The design method becomes much more adopter-focused and includes the use of pattern mining to identify potential new hypermedia templates by observing system usage by innovators. It is hypothesised that this change in the design method will result in an instantiation that is more acceptable to staff and students and consequently will achieve higher levels of adoption.
 
-[![ISDT Cycle 2](images/2999310392_2ac1db526d_m.jpg)](http://www.flickr.com/photos/david_jones/2999310392/ "ISDT Cycle 2 by David T Jones, on Flickr")
+[![ISDT Cycle 2](https://djon.es/assets/blog/publications/the-formulation-of-an-isdt-for-e-learning/images/2999310392_2ac1db526d_m.jpg)](http://www.flickr.com/photos/david_jones/2999310392/ "ISDT Cycle 2 by David T Jones, on Flickr")
 
 Figure 2 – 2nd generation of ISDT
 
@@ -168,7 +165,7 @@ It was obvious that the traditional SDLC-based development methodologies were no
 
 Figure 3 illustrates the components of the third generation of this ISDT and the changes from the second generation. Due to the changes in design method and meta-design a new hypothesis was proposed. Since the development process focuses on responding to very contextual requirements it is suggested that over time any instantiation, based on this ISDT, would become less generic and more specific to the host organisation and consequently potentially provide a point of differentiation and advantage to that host organisation.
 
-[![ISDT Cycle 3](images/2999310396_faf576781e_m.jpg)](http://www.flickr.com/photos/david_jones/2999310396/ "ISDT Cycle 3 by David T Jones, on Flickr")
+[![ISDT Cycle 3](https://djon.es/assets/blog/publications/the-formulation-of-an-isdt-for-e-learning/images/2999310396_faf576781e_m.jpg)](http://www.flickr.com/photos/david_jones/2999310396/ "ISDT Cycle 3 by David T Jones, on Flickr")
 
 Figure 3 – The third generation of the ISDT
 
@@ -184,7 +181,7 @@ Jones and Gregor (2004) describe how the instantiation of this ISDT in the Webfu
 
 The application of the second and third generation ISDTs within the Webfuse instantiation has generated a significant increase in system use as shown in Figure 4. It is suggested that the dip in the number of staff users in 2004 is largely due to on-going uncertainty about the long term future of Webfuse.
 
-[![Staff users of Webfuse](images/2999310398_030aec37ee_m.jpg)](http://www.flickr.com/photos/david_jones/2999310398/ "Staff users of Webfuse by David T Jones, on Flickr")
+[![Staff users of Webfuse](https://djon.es/assets/blog/publications/the-formulation-of-an-isdt-for-e-learning/images/2999310398_030aec37ee_m.jpg)](http://www.flickr.com/photos/david_jones/2999310398/ "Staff users of Webfuse by David T Jones, on Flickr")
 
 Figure 4 -Growth in number of individual staff using Webfuse, 1997-2005.
 

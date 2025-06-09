@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2013-01-04 20:09:44+10:00
+comments: []
+date: 2013-01-04 10:09:44
 next:
   text: BIM 2.0 - cleaning up part 3
   url: /blog/2013/01/06/bim-2-0-cleaning-up-part-3/
+pingbacks:
+- approved: '1'
+  author: BIM 2.0 &ndash; Cleaning up issues &ndash; Part 2 | A New Society, a new
+    education! | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/a-new-society-a-new-education/p/3964977647/bim-2-0-cleaning-up-issues-part-2
+  content: '[...] Building on that last bit of issue cleanup this aims to reduce the
+    list of open BIM issues a bit more. The focus in this part will be #53 issue with
+    question management message. #35 add support for...&nbsp; [...]'
+  date: '2013-01-04 20:20:23'
+  date_gmt: '2013-01-04 10:20:23'
+  id: '556'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: When will we no longer teach ICTs to pre-service teachers?
   url: /blog/2013/01/02/when-will-we-no-longer-teach-icts-to-pre-service-teachers/
+template: blog-post.html
 title: BIM 2.0 - Cleaning up issues - Part 2
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM 2.0 &ndash; Cleaning up issues &ndash; Part 2 | A New Society, a new
-        education! | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/a-new-society-a-new-education/p/3964977647/bim-2-0-cleaning-up-issues-part-2
-      content: '[...] Building on that last bit of issue cleanup this aims to reduce the
-        list of open BIM issues a bit more. The focus in this part will be #53 issue with
-        question management message. #35 add support for...&nbsp; [...]'
-      date: '2013-01-04 20:20:23'
-      date_gmt: '2013-01-04 10:20:23'
-      id: '556'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Building on [that last bit of issue cleanup](/blog/2013/01/01/bim-2-0-cleaning-up-issues-part-1/) this aims to reduce the [list of open BIM issues](https://github.com/djplaner/BIM/issues) a bit more. The focus in this part will be
 

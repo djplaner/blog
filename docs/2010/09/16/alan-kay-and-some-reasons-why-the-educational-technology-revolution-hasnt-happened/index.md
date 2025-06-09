@@ -1,64 +1,62 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
-date: 2010-09-16 12:15:28+10:00
+comments:
+- approved: '1'
+  author: dveness
+  author_email: deborah.veness@anu.edu.au
+  author_ip: 150.203.146.155
+  author_url: null
+  content: 'What a fantastic metaphor. I''m using this one.
+
+
+    ... the LMS as musical instrument ...'
+  date: '2010-09-16 14:51:44'
+  date_gmt: '2010-09-16 04:51:44'
+  id: '3160'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.154.42.225
+  author_url: https://djon.es/blog/
+  content: My thoughts exactly.  When you get around to using it, would be interested
+    in hearing how and how it went.
+  date: '2010-09-16 15:03:25'
+  date_gmt: '2010-09-16 05:03:25'
+  id: '3161'
+  parent: '3160'
+  type: comment
+  user_id: '1'
+date: 2010-09-16 02:15:28
 next:
   text: Principles of implementation
   url: /blog/2010/09/17/principles-of-implementation/
+pingbacks:
+- approved: '1'
+  author: Ghost in the Machine | New Media Seminar
+  author_email: null
+  author_ip: 67.226.65.48
+  author_url: http://commons.nwc.hccs.edu/newmedia/2010/09/ghost-in-the-machine/
+  content: '[...] questions bring me to some of my blog surfing. I ran across a post
+    by David Jones where he quotes an interview with Alan Kay (who we will read later
+    in the seminar, [...]'
+  date: '2010-11-05 14:28:47'
+  date_gmt: '2010-11-05 04:28:47'
+  id: '3162'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Principles of form and function
   url: /blog/2010/09/15/principles-of-form-and-function/
+template: blog-post.html
 title: Alan Kay and some reasons why the educational technology revolution hasn't
   happened
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: dveness
-      author_email: deborah.veness@anu.edu.au
-      author_ip: 150.203.146.155
-      author_url: null
-      content: 'What a fantastic metaphor. I''m using this one.
-    
-    
-        ... the LMS as musical instrument ...'
-      date: '2010-09-16 14:51:44'
-      date_gmt: '2010-09-16 04:51:44'
-      id: '3160'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.154.42.225
-      author_url: https://djon.es/blog/
-      content: My thoughts exactly.  When you get around to using it, would be interested
-        in hearing how and how it went.
-      date: '2010-09-16 15:03:25'
-      date_gmt: '2010-09-16 05:03:25'
-      id: '3161'
-      parent: '3160'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Ghost in the Machine | New Media Seminar
-      author_email: null
-      author_ip: 67.226.65.48
-      author_url: http://commons.nwc.hccs.edu/newmedia/2010/09/ghost-in-the-machine/
-      content: '[...] questions bring me to some of my blog surfing. I ran across a post
-        by David Jones where he quotes an interview with Alan Kay (who we will read later
-        in the seminar, [...]'
-      date: '2010-11-05 14:28:47'
-      date_gmt: '2010-11-05 04:28:47'
-      id: '3162'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 While reading a recent [post from Gardner Campbell](http://www.gardnercampbell.net/blog1/?p=1405) I was taken by a quote from Alan Kay
 

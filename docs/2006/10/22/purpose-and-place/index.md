@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - elearning
 - information-systems
 - missingps
-date: 2006-10-22 22:13:23+10:00
+comments: []
+date: 2006-10-22 12:13:23
 next:
   text: Moving beyond functional evaluation - scenario-based evaluation
   url: /blog/2006/10/22/moving-beyond-functional-evaluation-scenario-based-evaluation/
+pingbacks:
+- approved: '1'
+  author: Moving beyond functional evaluation - scenario-based evaluation at David&#8217;s
+    WebLog
+  author_email: null
+  author_ip: 138.77.94.11
+  author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=60
+  content: '[...]        &laquo; The missing Ps - Purpose and place  The missing Ps
+    - Past Experience [...]'
+  date: '2007-08-06 14:51:19'
+  date_gmt: '2007-08-06 04:51:19'
+  id: '1518'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Teleological approach to organisational reviews and change projects
   url: /blog/2006/10/22/teleological-approach-to-organisational-reviews-and-change-projects/
+template: blog-post.html
 title: The missing Ps - Purpose and place
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Moving beyond functional evaluation - scenario-based evaluation at David&#8217;s
-        WebLog
-      author_email: null
-      author_ip: 138.77.94.11
-      author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=60
-      content: '[...]        &laquo; The missing Ps - Purpose and place  The missing Ps
-        - Past Experience [...]'
-      date: '2007-08-06 14:51:19'
-      date_gmt: '2007-08-06 04:51:19'
-      id: '1518'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A continuation of the elements of the ["missing Ps"](http://cq-pan.cqu.edu.au/david-jones/blog/?p=52).
 

@@ -1,110 +1,108 @@
----
+﻿---
 categories:
 - edc3100
-date: 2014-05-05 13:38:56+10:00
+comments:
+- approved: '1'
+  author: fionabudd2014
+  author_email: fiona.budd@yahoo.com
+  author_ip: 110.146.133.154
+  author_url: http://fionabudd2014.wordpress.com
+  content: 'Reblogged this on <a href="http://fionabudd2014.wordpress.com/2014/05/06/how-much-reblogging-is-bad/"
+    rel="nofollow">fionabudd2014</a> and commented:
+
+    I thought that reblogging was completely normal and valid way of transferring
+    information and content via wordpress. 100% of my links are re-blogs. I have never
+    considered this corruption either. Maybe I should re think what I have been doing!'
+  date: '2014-05-06 20:37:36'
+  date_gmt: '2014-05-06 10:37:36'
+  id: '981'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: rachhaney
+  author_email: rachi_68@hotmail.com
+  author_ip: 101.162.176.237
+  author_url: http://rachhaney.wordpress.com
+  content: 'I confess....I have re-blogged ALOT lately and really my only excuse is
+    that my email showed that I had 5/5 for my learning journal so I wasn''t worried
+    about adding anything for assignment 2 (was focusing more on getting my assignments
+    done) I hope the 5/5 is correct and I haven''t jeopardised my result. '
+  date: '2014-05-07 07:42:58'
+  date_gmt: '2014-05-06 21:42:58'
+  id: '983'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.186.216.30
+  author_url: https://djon.es/blog/
+  content: Your results isn't under any threat.  However, this might be a good time
+    to reflect the balance between the amount of your personal reflection and thinking
+    is including in your blog posts, versus the amount of content reblogged from elsewhere.  I
+    don't think reblogging is bad. It's more a question of getting the balance right
+    between your own reflections and connecting with the work of others.
+  date: '2014-05-07 09:21:58'
+  date_gmt: '2014-05-06 23:21:58'
+  id: '984'
+  parent: '983'
+  type: comment
+  user_id: '1'
+date: 2014-05-05 03:38:56
 next:
   text: '"From thinking to tinkering: The grassroots of strategic information systems"'
   url: /blog/2014/05/08/from-thinking-to-tinkering-the-grassroots-of-strategic-information-systems/
+pingbacks:
+- approved: '1'
+  author: Reblogging | becpeacock
+  author_email: null
+  author_ip: 66.135.48.159
+  author_url: http://becpeacock.wordpress.com/2014/05/06/reblogging/
+  content: "[&#8230;] some interesting things to blog about. \_As I was scrolling\
+    \ through the recent posts I came across\_David&#8217;s blog\_post about reblogging\
+    \ and had a read. \_Firstly can I say, I love the way David addresses issues [&#8230;]"
+  date: '2014-05-06 23:16:08'
+  date_gmt: '2014-05-06 13:16:08'
+  id: '982'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Re-blogging | bronwyncraig
+  author_email: null
+  author_ip: 66.155.8.85
+  author_url: http://bronwyncraig.wordpress.com/2014/05/08/re-blogging/
+  content: '[&#8230;] component of the assessment by re-blogging other students blogs.
+    He shared his thoughts on his own blog. Is this taking the easy way out or not?
+    My fellow student Fiona (see above) decided to share her [&#8230;]'
+  date: '2014-05-08 19:36:01'
+  date_gmt: '2014-05-08 09:36:01'
+  id: '985'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Staying Connect.ed | Maggies Journey
+  author_email: null
+  author_ip: 76.74.254.51
+  author_url: http://w0067707.wordpress.com/2014/05/09/staying-connect-ed/
+  content: "[&#8230;] issues with one being the ethical nature of reblogging. I actually\
+    \ never thought to do this, yet \_David&#8217;s post on &#8220;How much reblogging\
+    \ is bad?&#8221; brings to the fore how students cope with the [&#8230;]"
+  date: '2014-05-10 09:49:50'
+  date_gmt: '2014-05-09 23:49:50'
+  id: '986'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Designing for situation awareness in a complex system
   url: /blog/2014/04/18/designing-for-situation-awareness-in-a-complex-system/
+template: blog-post.html
 title: How much reblogging is "bad"?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: fionabudd2014
-      author_email: fiona.budd@yahoo.com
-      author_ip: 110.146.133.154
-      author_url: http://fionabudd2014.wordpress.com
-      content: 'Reblogged this on <a href="http://fionabudd2014.wordpress.com/2014/05/06/how-much-reblogging-is-bad/"
-        rel="nofollow">fionabudd2014</a> and commented:
-    
-        I thought that reblogging was completely normal and valid way of transferring
-        information and content via wordpress. 100% of my links are re-blogs. I have never
-        considered this corruption either. Maybe I should re think what I have been doing!'
-      date: '2014-05-06 20:37:36'
-      date_gmt: '2014-05-06 10:37:36'
-      id: '981'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: rachhaney
-      author_email: rachi_68@hotmail.com
-      author_ip: 101.162.176.237
-      author_url: http://rachhaney.wordpress.com
-      content: 'I confess....I have re-blogged ALOT lately and really my only excuse is
-        that my email showed that I had 5/5 for my learning journal so I wasn''t worried
-        about adding anything for assignment 2 (was focusing more on getting my assignments
-        done) I hope the 5/5 is correct and I haven''t jeopardised my result. '
-      date: '2014-05-07 07:42:58'
-      date_gmt: '2014-05-06 21:42:58'
-      id: '983'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.186.216.30
-      author_url: https://djon.es/blog/
-      content: Your results isn't under any threat.  However, this might be a good time
-        to reflect the balance between the amount of your personal reflection and thinking
-        is including in your blog posts, versus the amount of content reblogged from elsewhere.  I
-        don't think reblogging is bad. It's more a question of getting the balance right
-        between your own reflections and connecting with the work of others.
-      date: '2014-05-07 09:21:58'
-      date_gmt: '2014-05-06 23:21:58'
-      id: '984'
-      parent: '983'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Reblogging | becpeacock
-      author_email: null
-      author_ip: 66.135.48.159
-      author_url: http://becpeacock.wordpress.com/2014/05/06/reblogging/
-      content: "[&#8230;] some interesting things to blog about. \_As I was scrolling\
-        \ through the recent posts I came across\_David&#8217;s blog\_post about reblogging\
-        \ and had a read. \_Firstly can I say, I love the way David addresses issues [&#8230;]"
-      date: '2014-05-06 23:16:08'
-      date_gmt: '2014-05-06 13:16:08'
-      id: '982'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Re-blogging | bronwyncraig
-      author_email: null
-      author_ip: 66.155.8.85
-      author_url: http://bronwyncraig.wordpress.com/2014/05/08/re-blogging/
-      content: '[&#8230;] component of the assessment by re-blogging other students blogs.
-        He shared his thoughts on his own blog. Is this taking the easy way out or not?
-        My fellow student Fiona (see above) decided to share her [&#8230;]'
-      date: '2014-05-08 19:36:01'
-      date_gmt: '2014-05-08 09:36:01'
-      id: '985'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Staying Connect.ed | Maggies Journey
-      author_email: null
-      author_ip: 76.74.254.51
-      author_url: http://w0067707.wordpress.com/2014/05/09/staying-connect-ed/
-      content: "[&#8230;] issues with one being the ethical nature of reblogging. I actually\
-        \ never thought to do this, yet \_David&#8217;s post on &#8220;How much reblogging\
-        \ is bad?&#8221; brings to the fore how students cope with the [&#8230;]"
-      date: '2014-05-10 09:49:50'
-      date_gmt: '2014-05-09 23:49:50'
-      id: '986'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Pragmatic students have always made judgements about exactly how they are going to engage with the activities teachers set them. I know I made decisions not to attend lectures (especially those at 8am on cold winter mornings). At times I've focused on just the assignments without engaging completely in the various intended learning activities. I made those decisions in a context nowhere near as constrained as many of my current students find themselves in terms of trying to balance work (often full-time), family (often very complex), and study.
 

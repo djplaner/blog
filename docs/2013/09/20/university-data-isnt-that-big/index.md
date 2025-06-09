@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - elearning
 - learninganalytics-elearning
-date: 2013-09-20 12:28:23+10:00
+comments: []
+date: 2013-09-20 02:28:23
 next:
   text: Getting started with Weka
   url: /blog/2013/09/21/getting-started-with-weka/
+pingbacks:
+- approved: '1'
+  author: University data isn't that &quot;big&quot;, wha...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/learn-big-data/p/4007977000/university-data-isn-t-that-big-what-are-the-implications
+  content: '[&#8230;] Learning analytics is being enabled/driven/sparked by the concept
+    of &quot;big data&quot;, but for a while I&#039;ve wondered just how big is the
+    data being gathered by Universities. Preparations for a workshop e...&nbsp; [&#8230;]'
+  date: '2013-09-21 12:24:40'
+  date_gmt: '2013-09-21 02:24:40'
+  id: '852'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Is institutional e-learning a bit like teenage sex?
   url: /blog/2013/09/16/is-institutional-e-learning-like-teenage-sex/
+template: blog-post.html
 title: University data isn't that "big", what are the implications?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: University data isn't that &quot;big&quot;, wha...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/learn-big-data/p/4007977000/university-data-isn-t-that-big-what-are-the-implications
-      content: '[&#8230;] Learning analytics is being enabled/driven/sparked by the concept
-        of &quot;big data&quot;, but for a while I&#039;ve wondered just how big is the
-        data being gathered by Universities. Preparations for a workshop e...&nbsp; [&#8230;]'
-      date: '2013-09-21 12:24:40'
-      date_gmt: '2013-09-21 02:24:40'
-      id: '852'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Learning analytics is being enabled/driven/sparked by the concept of "big data", but for a while I've wondered just how big is the data being gathered by Universities. Preparations for [a workshop](http://indicatorsproject.wordpress.com/2013/09/18/moving-beyond-a-fashion-blended-learning-2013/#workshop) earlier in the week provided an opportunity to find out.
 

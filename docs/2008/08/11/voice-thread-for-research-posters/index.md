@@ -1,48 +1,45 @@
----
+﻿---
 categories:
 - voicethreadresearchposters
-date: 2008-08-11 13:37:07+10:00
+comments: []
+date: 2008-08-11 03:37:07
 next:
   text: Creating a voice thread presentation
   url: /blog/2008/08/11/creating-a-voice-thread-presentation/
+pingbacks:
+- approved: '1'
+  author: Creating a voice thread presentation at David&#8217;s WebLog
+  author_email: null
+  author_ip: 138.77.94.11
+  author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=199
+  content: '[...] About        &laquo; Voice Thread for Research Posters [...]'
+  date: '2008-08-11 22:07:08'
+  date_gmt: '2008-08-11 12:07:08'
+  id: '1590'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: VoiceThread as a mechanism for feedback to students &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 72.233.94.35
+  author_url: https://djon.es/blog/2009/02/08/voicethread-as-a-mechanism-for-feedback-to-students/
+  content: '[...] In the second half of last year I worked with Markus Themessl-Huber
+    in a 3rd year special topic course for undergraduate psychology students. Our
+    plans to use VoiceThread are sketchily detailed in this post. [...]'
+  date: '2009-02-08 22:25:29'
+  date_gmt: '2009-02-08 12:25:29'
+  id: '1591'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Gathering principles for Web 2.0 - PLEs
   url: /blog/2008/08/11/gathering-principles-for-web-20-ples/
+template: blog-post.html
 title: Voice Thread for Research Posters
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Creating a voice thread presentation at David&#8217;s WebLog
-      author_email: null
-      author_ip: 138.77.94.11
-      author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=199
-      content: '[...] About        &laquo; Voice Thread for Research Posters [...]'
-      date: '2008-08-11 22:07:08'
-      date_gmt: '2008-08-11 12:07:08'
-      id: '1590'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: VoiceThread as a mechanism for feedback to students &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 72.233.94.35
-      author_url: https://djon.es/blog/2009/02/08/voicethread-as-a-mechanism-for-feedback-to-students/
-      content: '[...] In the second half of last year I worked with Markus Themessl-Huber
-        in a 3rd year special topic course for undergraduate psychology students. Our
-        plans to use VoiceThread are sketchily detailed in this post. [...]'
-      date: '2009-02-08 22:25:29'
-      date_gmt: '2009-02-08 12:25:29'
-      id: '1591'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This post describes some very early thinking about a trial that forms part of the [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni). The trial seeks to support the use of [Voice Thread](http://voicethread.com) to allow students to share research posters they prepare as part of the [CQUni](http://www.cquni.edu.au/) course PSYC13021, Special Topic in Psychology. The aim here is to summarise the project and describe the first steps.
 

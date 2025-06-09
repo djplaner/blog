@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - ple
-date: 2008-06-01 20:32:06+10:00
+date: 2008-06-01 10:32:06
 next:
   text: The place of free social software in institutional e-learning
   url: /blog/2008/06/28/the-place-of-free-social-software-in-institutional-e-learning/
 previous:
   text: Understanding approaches to improving a course
   url: /blog/2008/05/18/understanding-approaches-to-improving-a-course/
+template: blog-post.html
 title: We're looking for good people for a PLE project
 type: post
-template: blog-post.html
 ---
 It is official. The advertising has [gone out/up](http://www.seek.com.au/users/apply/index.ascx?Sequence=48&PageNumber=1&jobid=12886345) for two positions for the CQU [PLE project](http://cddu.cqu.edu.au/index.php/Personal_Learning_Environments_%40_CQU). The initial [proposal for the project](http://cddu.cqu.edu.au/index.php/PLE_Proposal) provides some ideas of the origins of the project which seeks to build on some of the baby steps we've already taken down this route.
 

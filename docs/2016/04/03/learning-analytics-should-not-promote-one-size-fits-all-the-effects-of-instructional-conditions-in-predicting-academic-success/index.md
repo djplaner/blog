@@ -1,59 +1,56 @@
----
+﻿---
 categories:
 - irac
 - pirac
-date: 2016-04-03 12:48:24+10:00
+comments: []
+date: 2016-04-03 02:48:24
 next:
   text: Playing with D3
   url: /blog/2016/04/09/playing-with-d3/
+pingbacks:
+- approved: '1'
+  author: Learning analytics should not promote one size ...
+  author_email: null
+  author_ip: 185.82.148.10
+  author_url: http://www.scoop.it/t/analyse-this/p/4062088379/2016/04/03/learning-analytics-should-not-promote-one-size-fits-all-the-effects-of-instructional-conditions-in-predicting-academic-success
+  content: '[&#8230;] What follows is a summary of Ga&scaron;evi&#263;, D., Dawson,
+    S., Rogers, T., &amp; Gasevic, D. (2015). Learning analytics should not promote
+    one size fits all: The effects of instructional conditions in predicating learning
+    success. The Internet and Higher Education, 28, 68&ndash;84. doi:doi:10.1016/j.iheduc.2015.10.002
+    I&#039;ve skimmed it before, but renewed interest is being driven by a local&hellip;&nbsp;
+    [&#8230;]'
+  date: '2016-04-03 18:29:21'
+  date_gmt: '2016-04-03 08:29:21'
+  id: '3336'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Designing a collection of analytics to explore &#8220;engagement&#8221;
+    &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.63
+  author_url: https://davidtjones.wordpress.com/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/
+  content: "[&#8230;] I&#8217;m working with a group of fellow teacher educators here\
+    \ at USQ to explore what is happening around student engagement with our online\
+    \ courses. It&#8217;s driven by the apparent less than stellar responses on the\
+    \ QILT site from our prior students. It&#8217;s also driven by some disquiet from\
+    \ the limitations of aggregated and de-contextualised data like that reported\
+    \ on the QILT site and also that arising from most learning analytics (e.g. as\
+    \ found by Ga\u0161evi\u0107 et. al. (2015). [&#8230;]"
+  date: '2016-04-14 07:45:35'
+  date_gmt: '2016-04-13 21:45:35'
+  id: '3337'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: First steps in integrating LATs OER into Moodle open book
   url: /blog/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/
+template: blog-post.html
 title: '"Learning analytics should not promote one size fits all: The effects of instructional
   conditions in predicting academic success"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Learning analytics should not promote one size ...
-      author_email: null
-      author_ip: 185.82.148.10
-      author_url: http://www.scoop.it/t/analyse-this/p/4062088379/2016/04/03/learning-analytics-should-not-promote-one-size-fits-all-the-effects-of-instructional-conditions-in-predicting-academic-success
-      content: '[&#8230;] What follows is a summary of Ga&scaron;evi&#263;, D., Dawson,
-        S., Rogers, T., &amp; Gasevic, D. (2015). Learning analytics should not promote
-        one size fits all: The effects of instructional conditions in predicating learning
-        success. The Internet and Higher Education, 28, 68&ndash;84. doi:doi:10.1016/j.iheduc.2015.10.002
-        I&#039;ve skimmed it before, but renewed interest is being driven by a local&hellip;&nbsp;
-        [&#8230;]'
-      date: '2016-04-03 18:29:21'
-      date_gmt: '2016-04-03 08:29:21'
-      id: '3336'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Designing a collection of analytics to explore &#8220;engagement&#8221;
-        &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.63
-      author_url: https://davidtjones.wordpress.com/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/
-      content: "[&#8230;] I&#8217;m working with a group of fellow teacher educators here\
-        \ at USQ to explore what is happening around student engagement with our online\
-        \ courses. It&#8217;s driven by the apparent less than stellar responses on the\
-        \ QILT site from our prior students. It&#8217;s also driven by some disquiet from\
-        \ the limitations of aggregated and de-contextualised data like that reported\
-        \ on the QILT site and also that arising from most learning analytics (e.g. as\
-        \ found by Ga\u0161evi\u0107 et. al. (2015). [&#8230;]"
-      date: '2016-04-14 07:45:35'
-      date_gmt: '2016-04-13 21:45:35'
-      id: '3337'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 What follows is a summary of
 

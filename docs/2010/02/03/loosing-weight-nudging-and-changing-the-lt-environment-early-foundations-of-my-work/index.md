@@ -1,202 +1,200 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - reflectivealignment
-date: 2010-02-03 11:45:56+10:00
+comments:
+- approved: '1'
+  author: Lindsay
+  author_email: lindsay.jordan@arts.ac.uk
+  author_ip: 195.195.82.58
+  author_url: http://ualpgcert.wordpress.com
+  content: 'David, I hope you don''t think I''m being facetious here. I really enjoyed
+    your post; it resonated with a lot of my own thoughts. But I must confess it has
+    left me curious about how you would tackle the chocolate factory problem.
+
+
+    I think the weight loss issue has the potential to be a good analogy, but following
+    the analogy through and applying the above principles to resolve it would, for
+    me, really strengthen the argument.
+
+
+    What do you think? :-)'
+  date: '2010-02-17 20:38:04'
+  date_gmt: '2010-02-17 10:38:04'
+  id: '2919'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: "G'day Lindsay,\n\nYou have asked the $64,000 question.  How to do it.\
+    \  That's been an interest of mine for a while and you'll find various theories,\
+    \ insights and vague ideas littered through out the posts on my blog.\n\nFirst,\
+    \ I don't think there's any universal silver bullet.  i.e. everyone having a teaching\
+    \ qualification, product X or fad Z will work everywhere. The specifics of any\
+    \ answer to that question is contextual.\n\nBut there are some general principles\
+    \ which I think apply, at least at the moment.  A quick summary (and first time\
+    \ I've tried to formulate them)\n<ol>\n  <li> Improvement only comes if the individual\
+    \ teachers change. </li>\n  <li> The system within which they work has to not\
+    \ only be conducive but actively encouraging and enabling of them wanting and\
+    \ being able to change.<br />The NUDGE acronym in this post is part of this. \
+    \ <a href=\"http://journals.lww.com/acsm-healthfitness/Fulltext/2010/01000/LEADING_A_PHYSICALLY_ACTIVE_LIFESTYLE__Effective.6.aspx\"\
+    \ rel=\"nofollow\">This article</a> offers some details from a weight loss perspective\
+    \ which might be useful to apply in L&amp;T.</li>\n  <li> What the individual\
+    \ teachers do from day-to-day, the processes built into the system, have to be\
+    \ designed to encourage and enable change. </li>\n  <li> The interactions they\
+    \ have with all other actors (people, policies and systems) have to encourage\
+    \ and support the effective engagement with and response to diverse meanings,\
+    \ skills and aims.  </li>\n</ol>\n\nSorry, fairly abstract and I don't think complete.\
+    \  But time is getting away.   I did give a talk last year which used this analogy\
+    \ a bit more.  There might be some useful stuff in it.  The  <a href=\"http://www.vimeo.com/8160473\"\
+    \ rel=\"nofollow\">video is here</a>.\n\nThanks for the comment.\n\nDavid."
+  date: '2010-02-18 11:25:45'
+  date_gmt: '2010-02-18 01:25:45'
+  id: '2920'
+  parent: '2919'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Lindsay
+  author_email: lindsay.jordan@arts.ac.uk
+  author_ip: 195.195.82.58
+  author_url: http://ualpgcert.wordpress.com
+  content: 'Hi David,
+
+
+    Thanks so much for the link to the Heath &amp; Fitness article on effecting individual
+    behaviour change strategies - it really brought home how the same principles can
+    apply to, well, all kinds of behavioural change.
+
+
+    I''m particularly interested in this link because I started off as a teacher,
+    then trained as a personal fitness instructor, and now I''m an educational developer.
+    I''ve come across a lot of people who don''t like to equate learning and behavioural
+    change; I don''t know if you''ve had similar experiences in talking to colleagues;
+    I''ve encountered a common perception that aiming to change people''s behaviour
+    is a rather sinister goal. But what, really, is the point of learning if it doesn''t
+    impact on what we do?
+
+
+    I used to think that helping people to lose weight was very different to helping
+    them to improve the teaching &amp; learning experience. For a start, I used to
+    believe that you didn''t have a hope in hell getting someone to lose weight unless
+    they really wanted to, whereas I could always see ways of leading teachers to
+    try something new. Now, however, I see ways in which I can use my knowledge of
+    both contexts to enhance my practice. Thank you!'
+  date: '2010-02-18 19:08:26'
+  date_gmt: '2010-02-18 09:08:26'
+  id: '2921'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Lindsay,
+
+
+    I haven''t heard anyone state the "sinister perception", but I expect it''s only
+    a matter of time.  In terms of a response, I recommend the "Nudge book" I link
+    to in the post, they address this question.
+
+
+    Part of their response would be something like...
+
+
+    In a modern university the organisation is doing all sorts of things to require/force
+    people to change.  My institution is talking about graduate attributes, grad certs
+    in L&amp;T for all academic staff, rewards for good teaching etc.  Universities
+    are already doing this, but they are doing it badly.
+
+
+    The "Nudge" approach is to do it in such a way as not to require people to do
+    it, but to design the "choice architecture" so that it is more likely that they
+    will.  People can always opt out.
+
+
+    The second response might be "Don''t you want to improve your teaching?".  I''d
+    suggest most academics would say yes I do.  I just don''t want to be told how
+    to do it or what I should change to.    As you said, you could always see ways
+    of leading to teachers to try something new.
+
+
+    David.'
+  date: '2010-02-19 14:28:44'
+  date_gmt: '2010-02-19 04:28:44'
+  id: '2922'
+  parent: '2921'
+  type: comment
+  user_id: '1'
+date: 2010-02-03 01:45:56
 next:
   text: '"BIM - Tidy up #4 - Security checks"'
   url: /blog/2010/02/03/bim-tidy-up-4-security-checks/
+pingbacks:
+- approved: '1'
+  author: 'Ashleigh&#8217;s AR proposal: Summary &amp; feedback &laquo; Teach Arts'
+  author_email: null
+  author_ip: 66.135.48.206
+  author_url: http://ualpgcert.wordpress.com/2010/03/03/ashleighs-ar-proposal-summary-feedback/
+  content: "[...] Theoretical justification: Ashleigh has been focusing on Communities\
+    \ of Practice theory as a theoretical justification for the intervention. My suggestion\
+    \ would be to look particularly at Communities of Inquiry theory, which has a\
+    \ slightly different emphasis and takes into greater account the \u2018shepherding\u2019\
+    \ role played by the teacher or other individual. Regarding the importance and\
+    \ nature of this shepherding role, I would also recommend looking at Behavioural\
+    \ Change theory. David Jones\u2019 recent blog post on \u2018nudging\u2019 is\
+    \ a nice start and might inspire you to look into this area further\u2026 https://djon.es/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-e...\
+    \ [...]"
+  date: '2010-03-03 19:41:52'
+  date_gmt: '2010-03-03 09:41:52'
+  id: '2923'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'From theory to intervention: Mapping theoretically derived behavioural
+    determinants to behaviour change techniques &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.104.11
+  author_url: https://djon.es/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
+  content: '[...] is where my current interest in &#8220;nudging&#8221; &#8211; the
+    design of good choice architecture and behaviour modification is coming from.
+    The basic aim is to redesign the environment within [...]'
+  date: '2010-03-25 14:19:47'
+  date_gmt: '2010-03-25 04:19:47'
+  id: '2924'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Learning Group 18 June &laquo; Teach Arts
+  author_email: null
+  author_ip: 72.233.44.23
+  author_url: http://ualpgcert.wordpress.com/2010/06/18/learning-group-18-june/
+  content: '[...] we view assessment, and affected the kind of feedback we give students,
+    and we also talked about &#8216;nudging&#8217; and &#8216;choice architecture&#8217;
+    (link to David Jones&#8217; blog post) &#8211; ways in which we might be able
+    to influence the [...]'
+  date: '2010-06-19 01:44:28'
+  date_gmt: '2010-06-18 15:44:28'
+  id: '2925'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BIM - Tidy up #3'
   url: /blog/2010/02/01/bim-tidy-up-3/
+template: blog-post.html
 title: '"Loosing weight, nudging and changing the L&#038;T environment - early foundations
   of my work"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Lindsay
-      author_email: lindsay.jordan@arts.ac.uk
-      author_ip: 195.195.82.58
-      author_url: http://ualpgcert.wordpress.com
-      content: 'David, I hope you don''t think I''m being facetious here. I really enjoyed
-        your post; it resonated with a lot of my own thoughts. But I must confess it has
-        left me curious about how you would tackle the chocolate factory problem.
-    
-    
-        I think the weight loss issue has the potential to be a good analogy, but following
-        the analogy through and applying the above principles to resolve it would, for
-        me, really strengthen the argument.
-    
-    
-        What do you think? :-)'
-      date: '2010-02-17 20:38:04'
-      date_gmt: '2010-02-17 10:38:04'
-      id: '2919'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: "G'day Lindsay,\n\nYou have asked the $64,000 question.  How to do it.\
-        \  That's been an interest of mine for a while and you'll find various theories,\
-        \ insights and vague ideas littered through out the posts on my blog.\n\nFirst,\
-        \ I don't think there's any universal silver bullet.  i.e. everyone having a teaching\
-        \ qualification, product X or fad Z will work everywhere. The specifics of any\
-        \ answer to that question is contextual.\n\nBut there are some general principles\
-        \ which I think apply, at least at the moment.  A quick summary (and first time\
-        \ I've tried to formulate them)\n<ol>\n  <li> Improvement only comes if the individual\
-        \ teachers change. </li>\n  <li> The system within which they work has to not\
-        \ only be conducive but actively encouraging and enabling of them wanting and\
-        \ being able to change.<br />The NUDGE acronym in this post is part of this. \
-        \ <a href=\"http://journals.lww.com/acsm-healthfitness/Fulltext/2010/01000/LEADING_A_PHYSICALLY_ACTIVE_LIFESTYLE__Effective.6.aspx\"\
-        \ rel=\"nofollow\">This article</a> offers some details from a weight loss perspective\
-        \ which might be useful to apply in L&amp;T.</li>\n  <li> What the individual\
-        \ teachers do from day-to-day, the processes built into the system, have to be\
-        \ designed to encourage and enable change. </li>\n  <li> The interactions they\
-        \ have with all other actors (people, policies and systems) have to encourage\
-        \ and support the effective engagement with and response to diverse meanings,\
-        \ skills and aims.  </li>\n</ol>\n\nSorry, fairly abstract and I don't think complete.\
-        \  But time is getting away.   I did give a talk last year which used this analogy\
-        \ a bit more.  There might be some useful stuff in it.  The  <a href=\"http://www.vimeo.com/8160473\"\
-        \ rel=\"nofollow\">video is here</a>.\n\nThanks for the comment.\n\nDavid."
-      date: '2010-02-18 11:25:45'
-      date_gmt: '2010-02-18 01:25:45'
-      id: '2920'
-      parent: '2919'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Lindsay
-      author_email: lindsay.jordan@arts.ac.uk
-      author_ip: 195.195.82.58
-      author_url: http://ualpgcert.wordpress.com
-      content: 'Hi David,
-    
-    
-        Thanks so much for the link to the Heath &amp; Fitness article on effecting individual
-        behaviour change strategies - it really brought home how the same principles can
-        apply to, well, all kinds of behavioural change.
-    
-    
-        I''m particularly interested in this link because I started off as a teacher,
-        then trained as a personal fitness instructor, and now I''m an educational developer.
-        I''ve come across a lot of people who don''t like to equate learning and behavioural
-        change; I don''t know if you''ve had similar experiences in talking to colleagues;
-        I''ve encountered a common perception that aiming to change people''s behaviour
-        is a rather sinister goal. But what, really, is the point of learning if it doesn''t
-        impact on what we do?
-    
-    
-        I used to think that helping people to lose weight was very different to helping
-        them to improve the teaching &amp; learning experience. For a start, I used to
-        believe that you didn''t have a hope in hell getting someone to lose weight unless
-        they really wanted to, whereas I could always see ways of leading teachers to
-        try something new. Now, however, I see ways in which I can use my knowledge of
-        both contexts to enhance my practice. Thank you!'
-      date: '2010-02-18 19:08:26'
-      date_gmt: '2010-02-18 09:08:26'
-      id: '2921'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Lindsay,
-    
-    
-        I haven''t heard anyone state the "sinister perception", but I expect it''s only
-        a matter of time.  In terms of a response, I recommend the "Nudge book" I link
-        to in the post, they address this question.
-    
-    
-        Part of their response would be something like...
-    
-    
-        In a modern university the organisation is doing all sorts of things to require/force
-        people to change.  My institution is talking about graduate attributes, grad certs
-        in L&amp;T for all academic staff, rewards for good teaching etc.  Universities
-        are already doing this, but they are doing it badly.
-    
-    
-        The "Nudge" approach is to do it in such a way as not to require people to do
-        it, but to design the "choice architecture" so that it is more likely that they
-        will.  People can always opt out.
-    
-    
-        The second response might be "Don''t you want to improve your teaching?".  I''d
-        suggest most academics would say yes I do.  I just don''t want to be told how
-        to do it or what I should change to.    As you said, you could always see ways
-        of leading to teachers to try something new.
-    
-    
-        David.'
-      date: '2010-02-19 14:28:44'
-      date_gmt: '2010-02-19 04:28:44'
-      id: '2922'
-      parent: '2921'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Ashleigh&#8217;s AR proposal: Summary &amp; feedback &laquo; Teach Arts'
-      author_email: null
-      author_ip: 66.135.48.206
-      author_url: http://ualpgcert.wordpress.com/2010/03/03/ashleighs-ar-proposal-summary-feedback/
-      content: "[...] Theoretical justification: Ashleigh has been focusing on Communities\
-        \ of Practice theory as a theoretical justification for the intervention. My suggestion\
-        \ would be to look particularly at Communities of Inquiry theory, which has a\
-        \ slightly different emphasis and takes into greater account the \u2018shepherding\u2019\
-        \ role played by the teacher or other individual. Regarding the importance and\
-        \ nature of this shepherding role, I would also recommend looking at Behavioural\
-        \ Change theory. David Jones\u2019 recent blog post on \u2018nudging\u2019 is\
-        \ a nice start and might inspire you to look into this area further\u2026 https://djon.es/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-e...\
-        \ [...]"
-      date: '2010-03-03 19:41:52'
-      date_gmt: '2010-03-03 09:41:52'
-      id: '2923'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'From theory to intervention: Mapping theoretically derived behavioural
-        determinants to behaviour change techniques &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.104.11
-      author_url: https://djon.es/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
-      content: '[...] is where my current interest in &#8220;nudging&#8221; &#8211; the
-        design of good choice architecture and behaviour modification is coming from.
-        The basic aim is to redesign the environment within [...]'
-      date: '2010-03-25 14:19:47'
-      date_gmt: '2010-03-25 04:19:47'
-      id: '2924'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Learning Group 18 June &laquo; Teach Arts
-      author_email: null
-      author_ip: 72.233.44.23
-      author_url: http://ualpgcert.wordpress.com/2010/06/18/learning-group-18-june/
-      content: '[...] we view assessment, and affected the kind of feedback we give students,
-        and we also talked about &#8216;nudging&#8217; and &#8216;choice architecture&#8217;
-        (link to David Jones&#8217; blog post) &#8211; ways in which we might be able
-        to influence the [...]'
-      date: '2010-06-19 01:44:28'
-      date_gmt: '2010-06-18 15:44:28'
-      id: '2925'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 What follows is an attempt to develop some of the foundations of what is driving the work I do [in my current position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
 

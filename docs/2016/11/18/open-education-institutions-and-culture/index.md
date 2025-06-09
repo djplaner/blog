@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - open
-date: 2016-11-18 14:06:01+10:00
+date: 2016-11-18 04:06:01
 next:
   text: Farewell wordpress.com, hello Reclaim Hosting
   url: /blog/2016/12/19/farewell-wordpress-com-hello-reclaim-hosting/
 previous:
   text: Some MAV tasters
   url: /blog/2016/10/28/some-mav-tasters/
+template: blog-post.html
 title: Open, education, institutions and culture
 type: post
-template: blog-post.html
 ---
 Today the good folk at my institution's library (and others I assume) are [running a symposium](http://www.usq.edu.au/connect-create-curate) "exploring current practice and future potential for open educational practice and libraries".
 
@@ -28,7 +28,7 @@ Main questions arising from the following are:
 
 ### Culture
 
-[![Culture eats strategy by jjfbbennett, on Flickr](images/8256143475_d864e5f011_m.jpg "Culture eats strategy by jjfbbennett, on Flickr")](https://www.flickr.com/photos/jjfbbennett/8256143475/) "[Culture eats strategy](https://www.flickr.com/photos/jjfbbennett/8256143475/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by [jjfbbennett](https://www.flickr.com/people/jjfbbennett/)
+[![Culture eats strategy by jjfbbennett, on Flickr](https://djon.es/assets/blog/2016/11/18/open-education-institutions-and-culture/images/8256143475_d864e5f011_m.jpg "Culture eats strategy by jjfbbennett, on Flickr")](https://www.flickr.com/photos/jjfbbennett/8256143475/) "[Culture eats strategy](https://www.flickr.com/photos/jjfbbennett/8256143475/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by [jjfbbennett](https://www.flickr.com/people/jjfbbennett/)
 
 So what is culture? The literature is replete with reams of responses to that particular question. The one that the pragmatist in me prefers is the one offered by [Martin (2006)](http://southernlibrarianship.icaap.org/content/v07n01/martin_m01.htm) (and many others)
 

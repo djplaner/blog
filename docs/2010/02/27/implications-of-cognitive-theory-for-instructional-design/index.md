@@ -1,80 +1,77 @@
----
+﻿---
 categories:
 - c2d2
 - curriculumdesign
 - elearning
 - reflectivealignment
-date: 2010-02-27 11:14:58+10:00
+comments: []
+date: 2010-02-27 01:14:58
 next:
   text: Design processes for teaching
   url: /blog/2010/03/05/design-processes-for-teaching/
+pingbacks:
+- approved: '1'
+  author: Reservations about instructional design &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.244.76
+  author_url: https://djon.es/blog/2010/02/27/reservations-about-instructional-design/
+  content: '[...] Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Fixes to&nbsp;BIM  Implications of cognitive theory for instructional&nbsp;design
+    [...]'
+  date: '2010-03-02 09:12:06'
+  date_gmt: '2010-03-01 23:12:06'
+  id: '2950'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Implications of Cognitive Theory for Instructional Design &laquo; Amy&#039;s
+    Blog
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: http://amysnews.wordpress.com/2010/03/02/implications-of-cognitive-theory-for-instructional-design/
+  content: '[...] March 2, 2010 tinkisamy  https://djon.es/blog/2010/02/27/implications-of-cognitive-theory-for-instructional-desig...
+    [...]'
+  date: '2010-03-02 14:47:01'
+  date_gmt: '2010-03-02 04:47:01'
+  id: '2951'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What does an Instructional designer do? &laquo; Amy&#039;s Blog
+  author_email: null
+  author_ip: 74.200.245.251
+  author_url: http://amysnews.wordpress.com/2010/03/02/7/
+  content: '[...] https://djon.es/blog/2010/02/27/implications-of-cognitive-theory-for-instructional-desig...
+    [...]'
+  date: '2010-03-07 13:45:40'
+  date_gmt: '2010-03-07 03:45:40'
+  id: '2952'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Implications of cognitive theory for instructio...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/general-instructional-design/p/4013539720/2014/01/02/implications-of-cognitive-theory-for-instructional-design
+  content: '[&#8230;] The following is a summary/reflection of Winn (1990), the abstract
+    followsThis article examines some of the implications of recent developments in
+    cognitive theory for instuctional design. It is ar...&nbsp; [&#8230;]'
+  date: '2014-01-03 03:27:54'
+  date_gmt: '2014-01-02 17:27:54'
+  id: '2953'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Reservations about instructional design
   url: /blog/2010/02/27/reservations-about-instructional-design/
+template: blog-post.html
 title: Implications of cognitive theory for instructional design
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Reservations about instructional design &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.244.76
-      author_url: https://djon.es/blog/2010/02/27/reservations-about-instructional-design/
-      content: '[...] Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Fixes to&nbsp;BIM  Implications of cognitive theory for instructional&nbsp;design
-        [...]'
-      date: '2010-03-02 09:12:06'
-      date_gmt: '2010-03-01 23:12:06'
-      id: '2950'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Implications of Cognitive Theory for Instructional Design &laquo; Amy&#039;s
-        Blog
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: http://amysnews.wordpress.com/2010/03/02/implications-of-cognitive-theory-for-instructional-design/
-      content: '[...] March 2, 2010 tinkisamy  https://djon.es/blog/2010/02/27/implications-of-cognitive-theory-for-instructional-desig...
-        [...]'
-      date: '2010-03-02 14:47:01'
-      date_gmt: '2010-03-02 04:47:01'
-      id: '2951'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What does an Instructional designer do? &laquo; Amy&#039;s Blog
-      author_email: null
-      author_ip: 74.200.245.251
-      author_url: http://amysnews.wordpress.com/2010/03/02/7/
-      content: '[...] https://djon.es/blog/2010/02/27/implications-of-cognitive-theory-for-instructional-desig...
-        [...]'
-      date: '2010-03-07 13:45:40'
-      date_gmt: '2010-03-07 03:45:40'
-      id: '2952'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Implications of cognitive theory for instructio...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/general-instructional-design/p/4013539720/2014/01/02/implications-of-cognitive-theory-for-instructional-design
-      content: '[&#8230;] The following is a summary/reflection of Winn (1990), the abstract
-        followsThis article examines some of the implications of recent developments in
-        cognitive theory for instuctional design. It is ar...&nbsp; [&#8230;]'
-      date: '2014-01-03 03:27:54'
-      date_gmt: '2014-01-02 17:27:54'
-      id: '2953'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary/reflection of Winn (1990), the abstract follows
 

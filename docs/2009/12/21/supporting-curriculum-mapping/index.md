@@ -1,8 +1,37 @@
----
-date: 2009-12-21 13:38:15+10:00
+﻿---
+comments:
+- approved: '1'
+  author: ruppyrog
+  author_email: l.e.delgaty@ncl.ac.uk
+  author_ip: 128.240.229.66
+  author_url: null
+  content: i have used curriculum mapping to compare programmes at the university
+    i work. they hve been sone by staff and students.
+  date: '2009-12-22 00:01:12'
+  date_gmt: '2009-12-21 14:01:12'
+  id: '2899'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-12-21 03:38:15
 next:
   text: BIM - Creating the test data, completing dbase design
   url: /blog/2009/12/22/bim-creating-the-test-data-completing-dbase-design/
+pingbacks:
+- approved: '1'
+  author: Questions about alternatives to curriculum mapping &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.248.141
+  author_url: https://djon.es/blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
+  content: '[...] report/blog post giving one perspective on curriculum mapping and
+    its [...]'
+  date: '2010-01-19 13:19:41'
+  date_gmt: '2010-01-19 03:19:41'
+  id: '2900'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - Saving/manipulating RSS files
   url: /blog/2009/12/20/bim-savingmanipulating-rss-files/
@@ -10,40 +39,9 @@ tags:
 - curriculummapping
 - ga
 - graduateattributes
+template: blog-post.html
 title: Supporting curriculum mapping?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: ruppyrog
-      author_email: l.e.delgaty@ncl.ac.uk
-      author_ip: 128.240.229.66
-      author_url: null
-      content: i have used curriculum mapping to compare programmes at the university
-        i work. they hve been sone by staff and students.
-      date: '2009-12-22 00:01:12'
-      date_gmt: '2009-12-21 14:01:12'
-      id: '2899'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Questions about alternatives to curriculum mapping &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.248.141
-      author_url: https://djon.es/blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
-      content: '[...] report/blog post giving one perspective on curriculum mapping and
-        its [...]'
-      date: '2010-01-19 13:19:41'
-      date_gmt: '2010-01-19 03:19:41'
-      id: '2900'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following was initially written as a report for my current institution. I've removed the name of the institution here. It is my perception that most universities suffer from the problems described below.
 

@@ -1,111 +1,108 @@
----
+﻿---
 categories:
 - bim2
 - design-theory
 - elearning
 - psframework
-date: 2013-03-22 10:15:06+10:00
+comments: []
+date: 2013-03-22 00:15:06
 next:
   text: Meaningless freedom and auto-marking the learning journals
   url: /blog/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/
+pingbacks:
+- approved: '1'
+  author: TPACK and INSTITUTIONAL E-LEARNING | jactwidale
+  author_email: null
+  author_ip: 66.155.9.55
+  author_url: http://jactwidale.wordpress.com/2013/03/22/tpack-and-institutional-e-learning/
+  content: '[...] was reading an article posted by my lecturer on TPACK and I&#8217;m
+    about confused about the argument the write is trying [...]'
+  date: '2013-03-22 18:14:35'
+  date_gmt: '2013-03-22 08:14:35'
+  id: '717'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Learning analytics and TPACK | Col&#039;s Weblog
+  author_email: null
+  author_ip: 72.232.114.10
+  author_url: http://beerc.wordpress.com/2013/03/23/learning-analytics-and-tpack/
+  content: "[...] analytics in any meaningful way, not the least of which is the problem\
+    \ of organisational silos. David\u2019s post hints at this when he says that technological\
+    \ knowledge is typically housed within the [...]"
+  date: '2013-03-23 11:38:34'
+  date_gmt: '2013-03-23 01:38:34'
+  id: '718'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Does institutional e-learning have a TPACK problem? | Educaci&oacute;n Expandida
+    y Aumentada | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educacion-expandida-aumentada/p/3998875931/does-institutional-e-learning-have-a-tpack-problem
+  content: '[...] The following is the first attempt to expand upon an idea that&#039;s
+    been bubbling along for the last few weeks. It arises from a combination of recent
+    experiences, including Working through the instit...&nbsp; [...]'
+  date: '2013-03-25 23:21:47'
+  date_gmt: '2013-03-25 13:21:47'
+  id: '719'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Does institutional e-learning have a TPACK problem? | Personal [e-]Learning
+    Environments | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educational-landscapes/p/3998910362/does-institutional-e-learning-have-a-tpack-problem
+  content: '[...] The following is the first attempt to expand upon an idea that&#039;s
+    been bubbling along for the last few weeks. It arises from a combination of recent
+    experiences, including Working through the instit...&nbsp; [...]'
+  date: '2013-03-26 17:21:55'
+  date_gmt: '2013-03-26 07:21:55'
+  id: '720'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Making e-learning tools that are more supportive &#8211; BIM, TPACK and
+    truncated feeds | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.9.144
+  author_url: https://djon.es/blog/2013/04/19/making-e-learning-tools-that-are-more-supportive-bim-tpack-and-truncated-feeds/
+  content: '[...] problems in a pro-active way. It continues some more thinking about
+    an earlier question I asked, Does institutional e-learning have a TPACK problem?&#8221;
+    and hopefully will inform the on-going research and development around BIM (now
+    officially released [...]'
+  date: '2013-04-19 10:45:20'
+  date_gmt: '2013-04-19 00:45:20'
+  id: '721'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How Knowledge Workers like to learn and implications for BIM and LMS design
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.232.112.14
+  author_url: https://djon.es/blog/2013/04/28/how-knowledge-workers-like-to-learn-and-implications-for-bim-and-lms-design/
+  content: '[...] an earlier post I gave an initial idea of the &#8220;knowledge&#8221;
+    problem that is one area with potential for [...]'
+  date: '2013-04-28 09:45:26'
+  date_gmt: '2013-04-27 23:45:26'
+  id: '722'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Professional development is created, not provided
   url: /blog/2013/03/20/professional-development-is-created-not-provided/
+template: blog-post.html
 title: Does institutional e-learning have a TPACK problem?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: TPACK and INSTITUTIONAL E-LEARNING | jactwidale
-      author_email: null
-      author_ip: 66.155.9.55
-      author_url: http://jactwidale.wordpress.com/2013/03/22/tpack-and-institutional-e-learning/
-      content: '[...] was reading an article posted by my lecturer on TPACK and I&#8217;m
-        about confused about the argument the write is trying [...]'
-      date: '2013-03-22 18:14:35'
-      date_gmt: '2013-03-22 08:14:35'
-      id: '717'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Learning analytics and TPACK | Col&#039;s Weblog
-      author_email: null
-      author_ip: 72.232.114.10
-      author_url: http://beerc.wordpress.com/2013/03/23/learning-analytics-and-tpack/
-      content: "[...] analytics in any meaningful way, not the least of which is the problem\
-        \ of organisational silos. David\u2019s post hints at this when he says that technological\
-        \ knowledge is typically housed within the [...]"
-      date: '2013-03-23 11:38:34'
-      date_gmt: '2013-03-23 01:38:34'
-      id: '718'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Does institutional e-learning have a TPACK problem? | Educaci&oacute;n Expandida
-        y Aumentada | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educacion-expandida-aumentada/p/3998875931/does-institutional-e-learning-have-a-tpack-problem
-      content: '[...] The following is the first attempt to expand upon an idea that&#039;s
-        been bubbling along for the last few weeks. It arises from a combination of recent
-        experiences, including Working through the instit...&nbsp; [...]'
-      date: '2013-03-25 23:21:47'
-      date_gmt: '2013-03-25 13:21:47'
-      id: '719'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Does institutional e-learning have a TPACK problem? | Personal [e-]Learning
-        Environments | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educational-landscapes/p/3998910362/does-institutional-e-learning-have-a-tpack-problem
-      content: '[...] The following is the first attempt to expand upon an idea that&#039;s
-        been bubbling along for the last few weeks. It arises from a combination of recent
-        experiences, including Working through the instit...&nbsp; [...]'
-      date: '2013-03-26 17:21:55'
-      date_gmt: '2013-03-26 07:21:55'
-      id: '720'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Making e-learning tools that are more supportive &#8211; BIM, TPACK and
-        truncated feeds | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.9.144
-      author_url: https://djon.es/blog/2013/04/19/making-e-learning-tools-that-are-more-supportive-bim-tpack-and-truncated-feeds/
-      content: '[...] problems in a pro-active way. It continues some more thinking about
-        an earlier question I asked, Does institutional e-learning have a TPACK problem?&#8221;
-        and hopefully will inform the on-going research and development around BIM (now
-        officially released [...]'
-      date: '2013-04-19 10:45:20'
-      date_gmt: '2013-04-19 00:45:20'
-      id: '721'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How Knowledge Workers like to learn and implications for BIM and LMS design
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.232.112.14
-      author_url: https://djon.es/blog/2013/04/28/how-knowledge-workers-like-to-learn-and-implications-for-bim-and-lms-design/
-      content: '[...] an earlier post I gave an initial idea of the &#8220;knowledge&#8221;
-        problem that is one area with potential for [...]'
-      date: '2013-04-28 09:45:26'
-      date_gmt: '2013-04-27 23:45:26'
-      id: '722'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the first attempt to expand upon an idea that's been bubbling along for the last few weeks. It arises from a combination of recent experiences, including
 

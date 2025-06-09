@@ -1,9 +1,9 @@
----
+﻿---
 categories:
 - alignment
 - elearning
 - quotes
-date: 2010-05-03 12:48:50+10:00
+date: 2010-05-03 02:48:50
 next:
   text: Blurb for the alignment project
   url: /blog/2010/05/07/blurb-for-the-alignment-project/
@@ -12,9 +12,9 @@ previous:
   url: /blog/2010/05/02/can-bim-support-the-use-of-moodle-blogs/
 tags:
 - leadership
+template: blog-post.html
 title: Leadership as appreciating resistance
 type: post
-template: blog-post.html
 ---
 Am busy reading and trying to do up a grant application, when I should be working on the PhD. However, I couldn't bypass this quote from FUllan (2001: 65)
 

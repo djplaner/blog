@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - elearning
 - lmsevaluation
 - lmsreview
-date: 2008-11-19 08:42:31+10:00
+comments: []
+date: 2008-11-18 22:42:31
 next:
   text: Tool users, research, hammers and the law of instrument
   url: /blog/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/
+pingbacks:
+- approved: '1'
+  author: Exporting a Blackboard 6.3 course to Moodle &laquo; Col&#8217;s Weblog
+  author_email: null
+  author_ip: 74.200.243.195
+  author_url: http://beerc.wordpress.com/2008/11/19/exporting-a-blackboard-63-course-to-moodle/
+  content: '[...] Jones is doing some important work which looks at the Blackboard
+    model in greater depth with a view to understanding the overarching models of
+    the two LMS under evaluation in comparison [...]'
+  date: '2008-11-19 13:25:35'
+  date_gmt: '2008-11-19 03:25:35'
+  id: '1891'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Evaluating an LMS by understanding the underpinning &quot;model&quot;
   url: /blog/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/
+template: blog-post.html
 title: The model underpinning blackboard and how ACCT19064 uses it
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Exporting a Blackboard 6.3 course to Moodle &laquo; Col&#8217;s Weblog
-      author_email: null
-      author_ip: 74.200.243.195
-      author_url: http://beerc.wordpress.com/2008/11/19/exporting-a-blackboard-63-course-to-moodle/
-      content: '[...] Jones is doing some important work which looks at the Blackboard
-        model in greater depth with a view to understanding the overarching models of
-        the two LMS under evaluation in comparison [...]'
-      date: '2008-11-19 13:25:35'
-      date_gmt: '2008-11-19 03:25:35'
-      id: '1891'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As [proposed earlier](/blog/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/) this post is the first step in attempting to evaluate the differences between three learning management systems. This post attempts to understand and describe the model underpinning Blackboard version 6.3.
 
@@ -62,7 +59,7 @@ Normally in a hierarchical structure there is one root document or node that is 
 
 Let's get to an example, the image is the home page for the ACCT19064 course.
 
-[![ACCT19064 home page](images/3039002667_ed55623456_m.jpg)](http://www.flickr.com/photos/david_jones/3039002667/ "ACCT19064 home page by David T Jones, on Flickr")
+[![ACCT19064 home page](https://djon.es/assets/blog/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/images/3039002667_ed55623456_m.jpg)](http://www.flickr.com/photos/david_jones/3039002667/ "ACCT19064 home page by David T Jones, on Flickr")
 
 **Note:** I currently have "admin" access on this installation of Blackboard. Some of what appears in the interface is based on that access and is not normally seen by student or other staff users.
 
@@ -109,7 +106,7 @@ The links to these tools are not part of the hierarchical structure of the cours
 
 To really reinforce the hierarchical nature of a Blackboard course site, Blackboard provides a course map feature which provides a very familiar "Windows explorer" link representation of the structure of a course website. The following image is of a part of the course map for the ACCT19064 course site.
 
-[![Blackboard course map for the ACCT19064 site](images/3039280293_a3a521ea81_m.jpg)](http://www.flickr.com/photos/david_jones/3039280293/ "Blackboard course map for the ACCT19064 site by David T Jones, on Flickr")
+[![Blackboard course map for the ACCT19064 site](https://djon.es/assets/blog/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/images/3039280293_a3a521ea81_m.jpg)](http://www.flickr.com/photos/david_jones/3039280293/ "Blackboard course map for the ACCT19064 site by David T Jones, on Flickr")
 
 ### What's do the course menu links point to?
 
@@ -146,7 +143,7 @@ The number of elements I mention in each content area might be wrong. Blackboard
 
 A content area consists of a number of items. The items are displayed one under the other. The following image is of the Assessment Room in the ACCT19064 course site. It has 6 items. Not the alternating background colour to identify different items.
 
-[![ACCT19064 assessment room](images/3040032380_052d6a9150_m.jpg)](http://www.flickr.com/photos/david_jones/3040032380/ "ACCT19064 assessment room by David T Jones, on Flickr")
+[![ACCT19064 assessment room](https://djon.es/assets/blog/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/images/3040032380_052d6a9150_m.jpg)](http://www.flickr.com/photos/david_jones/3040032380/ "ACCT19064 assessment room by David T Jones, on Flickr")
 
 The edit view link in the top right hand corner appears when the user has permission to edit the content area. This is how you add, modify or remove an item from the content area.
 
@@ -175,11 +172,11 @@ Blackboard provides a facility to limit who can see and access items within a co
 
 The following image is of the "Instructor Resources" content area of the ACCT19064 course site. It is being viewed as a user who is not a member of the staff for this course. Actually not a member of the blackboard group "Teaching Staff".
 
-[![ACCT19064 - Instructor Resources - not staff](images/3039233695_99621fd35b_m.jpg)](http://www.flickr.com/photos/david_jones/3039233695/ "ACCT19064 - Instructor Resources - not staff by David T Jones, on Flickr")
+[![ACCT19064 - Instructor Resources - not staff](https://djon.es/assets/blog/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/images/3039233695_99621fd35b_m.jpg)](http://www.flickr.com/photos/david_jones/3039233695/ "ACCT19064 - Instructor Resources - not staff by David T Jones, on Flickr")
 
 What follows is the same page with the same content area. However, it is now viewed as a user who is a member of the "Teaching staff" group.
 
-[![ACCT19064 Instructors Resources - as staff](images/3039246103_368aa6a769_m.jpg)](http://www.flickr.com/photos/david_jones/3039246103/ "ACCT19064 Instructors Resources - as staff by David T Jones, on Flickr")
+[![ACCT19064 Instructors Resources - as staff](https://djon.es/assets/blog/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/images/3039246103_368aa6a769_m.jpg)](http://www.flickr.com/photos/david_jones/3039246103/ "ACCT19064 Instructors Resources - as staff by David T Jones, on Flickr")
 
 Access to items can be restricted in the following ways
 
@@ -217,7 +214,7 @@ The following describes in more detail the content within each of the course men
     
     The machinima pages, with the video playing, look like the following image
     
-    [![ACCT19064 machinima page](images/3040141988_d4fe96a66f_m.jpg)](http://www.flickr.com/photos/david_jones/3040141988/ "ACCT19064 machinima page by David T Jones, on Flickr")
+    [![ACCT19064 machinima page](https://djon.es/assets/blog/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/images/3040141988_d4fe96a66f_m.jpg)](http://www.flickr.com/photos/david_jones/3040141988/ "ACCT19064 machinima page by David T Jones, on Flickr")
 - Hird & Co - content area with 3 elements. No adaptive release This is meant to represent the imaginary audit company used throughout the course
     - External link to a "intranet" site for an imaginary audit company.
     - External link to an external discussion forum used by AIC campuses for discussion about questions prior to face-to-face classes.

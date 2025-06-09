@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-02-25 10:20:48+10:00
+date: 2010-02-25 00:20:48
 next:
   text: Reservations about instructional design
   url: /blog/2010/02/27/reservations-about-instructional-design/
 previous:
   text: The current state of curriculum mapping in/with Moodle
   url: /blog/2010/02/20/the-current-state-of-curriculum-mapping-inwith-moodle/
+template: blog-post.html
 title: Fixes to BIM
 type: post
-template: blog-post.html
 ---
 Prior to [BIM](/blog/research/bam-blog-aggregation-management/) being installed and used at my current institution it had to be checked by folk at NetSpot. The following details what I've had to do in response to that.
 

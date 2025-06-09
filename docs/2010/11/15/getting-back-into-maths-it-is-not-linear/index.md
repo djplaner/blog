@@ -1,55 +1,52 @@
----
+﻿---
 categories:
 - math
 - teaching
-date: 2010-11-15 17:46:51+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: 'I''ve just gone through Dan Meyer''s stuff yesterday as part of a linkhole
+    from the <a href="http://www.globaleducationconference.com/" rel="nofollow">Global
+    Education Conference</a> as well as <a href="http://www.ted.com/talks/lang/eng/conrad_wolfram_teaching_kids_real_math_with_computers.html"
+    rel="nofollow">Wolfram''s talk</a> about more or less the same thing from a different
+    angle.
+
+
+    There was a session from the <a href="http://mathfuture.wikispaces.com/" rel="nofollow">Math
+    2.0 interest group</a> that provided many links and people to connect to ...'
+  date: '2010-11-19 11:22:40'
+  date_gmt: '2010-11-19 01:22:40'
+  id: '3204'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.168.165.133
+  author_url: https://djon.es/blog/
+  content: Tony, thanks for the link to the Math 2.0 group.  Must watch Wolfram's
+    talk.
+  date: '2010-11-19 14:47:33'
+  date_gmt: '2010-11-19 04:47:33'
+  id: '3205'
+  parent: '3204'
+  type: comment
+  user_id: '1'
+date: 2010-11-15 07:46:51
 next:
   text: EduFeedr is live. BIM for open blog courses
   url: /blog/2010/11/16/edufeedr-is-live-bim-for-open-blog-courses/
+pingbacks: []
 previous:
   text: Delving into institutional information systems
   url: /blog/2010/11/12/delving-into-institutional-information-systems/
+template: blog-post.html
 title: Getting back into maths - it is not linear
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: 'I''ve just gone through Dan Meyer''s stuff yesterday as part of a linkhole
-        from the <a href="http://www.globaleducationconference.com/" rel="nofollow">Global
-        Education Conference</a> as well as <a href="http://www.ted.com/talks/lang/eng/conrad_wolfram_teaching_kids_real_math_with_computers.html"
-        rel="nofollow">Wolfram''s talk</a> about more or less the same thing from a different
-        angle.
-    
-    
-        There was a session from the <a href="http://mathfuture.wikispaces.com/" rel="nofollow">Math
-        2.0 interest group</a> that provided many links and people to connect to ...'
-      date: '2010-11-19 11:22:40'
-      date_gmt: '2010-11-19 01:22:40'
-      id: '3204'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.168.165.133
-      author_url: https://djon.es/blog/
-      content: Tony, thanks for the link to the Math 2.0 group.  Must watch Wolfram's
-        talk.
-      date: '2010-11-19 14:47:33'
-      date_gmt: '2010-11-19 04:47:33'
-      id: '3205'
-      parent: '3204'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 As mentioned [last week](/blog/2010/11/12/a-turning-point/#toward), I'm slowly commencing the process of becoming a high school teacher in information technology and mathematics. As part of that process I'm trying to get back into maths - its almost 25 years since I did my undergrad math courses - and build up a network of folk and ideas.
 

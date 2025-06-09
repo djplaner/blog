@@ -1,91 +1,88 @@
----
+﻿---
 categories:
 - edc3100
-date: 2014-02-25 13:59:27+10:00
+comments: []
+date: 2014-02-25 03:59:27
 next:
   text: A story about the failure of institutional eportfolios
   url: /blog/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/
+pingbacks:
+- approved: '1'
+  author: 'Evernote as a &ldquo;solution&rdquo; to a #mood...'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-by-vaikunthan-rajaratnam/p/4016676312/2014/02/27/evernote-as-a-solution-to-a-moodle-problem-the-weblog-of-a
+  content: '[&#8230;] One of the problems I have with the way Moodle has been implemented
+    at this institution (and probably not unique to this institution) is the absence
+    of a search engine. Mostly because the students &quot;inability to find anything&quot;
+    is ...&nbsp; [&#8230;]'
+  date: '2014-02-27 10:07:05'
+  date_gmt: '2014-02-27 00:07:05'
+  id: '962'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Me as a teacher | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 209.15.21.75
+  author_url: https://djon.es/blog/2014/07/27/me-as-a-teacher/
+  content: '[&#8230;] How can NGL be used to address limitations of institutional
+    systems? e.g. the fact that you can&#8217;t search the EDC3100 Moodle site and
+    I&#8217;ve had to resort to a kludge using Evernote. [&#8230;]'
+  date: '2014-07-27 11:41:36'
+  date_gmt: '2014-07-27 01:41:36'
+  id: '963'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 1 &#8211; TEST Framework | EDC3100 ICT and Pedagogy
+  author_email: null
+  author_ip: 192.0.82.101
+  author_url: http://asjacobs1.wordpress.com/2014/07/28/week-1-test-framework/
+  content: '[&#8230;] Use the TEST framework to solve one of the problems listed below.
+    [&#8230;]'
+  date: '2014-07-28 13:11:43'
+  date_gmt: '2014-07-28 03:11:43'
+  id: '964'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What might the 3 levels of organisational culture reveal about university
+    e-learning | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.18
+  author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+  content: '[&#8230;] would be nice not to have to implement this kludge again to
+    enable the [&#8230;]'
+  date: '2015-01-20 10:54:32'
+  date_gmt: '2015-01-20 00:54:32'
+  id: '965'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Concrete lounge #1 &#8211; Helping learners find correct, up-to-date course
+    information | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.99.86
+  author_url: https://davidtjones.wordpress.com/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
+  content: '[&#8230;] the past &#8211; as explained in this post &#8211; I have manually
+    imported most of the course content into Evernote and made it open to the [&#8230;]'
+  date: '2015-02-03 12:27:08'
+  date_gmt: '2015-02-03 02:27:08'
+  id: '966'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: An ateleological quote
   url: /blog/2014/02/22/an-ateleological-quote/
+template: blog-post.html
 title: '"Evernote as a "solution" to a #moodle "problem""'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Evernote as a &ldquo;solution&rdquo; to a #mood...'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-by-vaikunthan-rajaratnam/p/4016676312/2014/02/27/evernote-as-a-solution-to-a-moodle-problem-the-weblog-of-a
-      content: '[&#8230;] One of the problems I have with the way Moodle has been implemented
-        at this institution (and probably not unique to this institution) is the absence
-        of a search engine. Mostly because the students &quot;inability to find anything&quot;
-        is ...&nbsp; [&#8230;]'
-      date: '2014-02-27 10:07:05'
-      date_gmt: '2014-02-27 00:07:05'
-      id: '962'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Me as a teacher | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 209.15.21.75
-      author_url: https://djon.es/blog/2014/07/27/me-as-a-teacher/
-      content: '[&#8230;] How can NGL be used to address limitations of institutional
-        systems? e.g. the fact that you can&#8217;t search the EDC3100 Moodle site and
-        I&#8217;ve had to resort to a kludge using Evernote. [&#8230;]'
-      date: '2014-07-27 11:41:36'
-      date_gmt: '2014-07-27 01:41:36'
-      id: '963'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 1 &#8211; TEST Framework | EDC3100 ICT and Pedagogy
-      author_email: null
-      author_ip: 192.0.82.101
-      author_url: http://asjacobs1.wordpress.com/2014/07/28/week-1-test-framework/
-      content: '[&#8230;] Use the TEST framework to solve one of the problems listed below.
-        [&#8230;]'
-      date: '2014-07-28 13:11:43'
-      date_gmt: '2014-07-28 03:11:43'
-      id: '964'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What might the 3 levels of organisational culture reveal about university
-        e-learning | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.18
-      author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
-      content: '[&#8230;] would be nice not to have to implement this kludge again to
-        enable the [&#8230;]'
-      date: '2015-01-20 10:54:32'
-      date_gmt: '2015-01-20 00:54:32'
-      id: '965'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Concrete lounge #1 &#8211; Helping learners find correct, up-to-date course
-        information | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.99.86
-      author_url: https://davidtjones.wordpress.com/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
-      content: '[&#8230;] the past &#8211; as explained in this post &#8211; I have manually
-        imported most of the course content into Evernote and made it open to the [&#8230;]'
-      date: '2015-02-03 12:27:08'
-      date_gmt: '2015-02-03 02:27:08'
-      id: '966'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 One of the problems I have with the way Moodle has been implemented at this institution (and probably not unique to this institution) is the [absence of a search engine](/blog/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/). Mostly because the students "inability to find anything" is being blamed on poor course design and being solved by an institutional push for consistency.
 

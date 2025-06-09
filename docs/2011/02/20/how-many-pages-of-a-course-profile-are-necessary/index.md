@@ -1,46 +1,43 @@
----
+﻿---
 categories:
 - journey
 - teaching
-date: 2011-02-20 21:40:51+10:00
+comments:
+- approved: '1'
+  author: wfass1
+  author_email: fasswe@aapt.net.au
+  author_ip: 59.100.108.97
+  author_url: http://wfass1.wordpress.com
+  content: This is probably an issue that is going to stay with you in your teaching
+    career. You will be faced with work programs, curriculum plans, unit plans in
+    which abbreviation is unheard of, explicit and detailed is the norm, and a lot
+    of paper is wasted! Particularly in senior subjects, the paper trail is huge,
+    generally for accountability purposes. So again, shall we contextualise this into
+    a secondary school? How do you approach balancing the need for accountability
+    and consistency with the need of a fifteen year old for simplicity and explicitness?
+    It is always good practice, particularly with a senior class, to make them fully
+    aware and conversant with your own unit plan - this ensures transparency and supports
+    global thinkers. But is it possible to reconcile your institutional needs with
+    those of your learners? And do all fifteen year olds require the same level of
+    scaffolding?
+  date: '2011-02-25 21:01:52'
+  date_gmt: '2011-02-25 11:01:52'
+  id: '3266'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-02-20 11:40:51
 next:
   text: Learning styles, teaching and digital pedagogy
   url: /blog/2011/02/25/learning-styles-teaching-and-digital-pedagogy/
+pingbacks: []
 previous:
   text: A proposed link between academic involvement and student evaluation response
     rate
   url: /blog/2011/02/19/a-proposed-link-between-academic-involvement-and-student-evaluation-response-rate/
+template: blog-post.html
 title: How many pages of a course profile are necessary?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: wfass1
-      author_email: fasswe@aapt.net.au
-      author_ip: 59.100.108.97
-      author_url: http://wfass1.wordpress.com
-      content: This is probably an issue that is going to stay with you in your teaching
-        career. You will be faced with work programs, curriculum plans, unit plans in
-        which abbreviation is unheard of, explicit and detailed is the norm, and a lot
-        of paper is wasted! Particularly in senior subjects, the paper trail is huge,
-        generally for accountability purposes. So again, shall we contextualise this into
-        a secondary school? How do you approach balancing the need for accountability
-        and consistency with the need of a fifteen year old for simplicity and explicitness?
-        It is always good practice, particularly with a senior class, to make them fully
-        aware and conversant with your own unit plan - this ensures transparency and supports
-        global thinkers. But is it possible to reconcile your institutional needs with
-        those of your learners? And do all fifteen year olds require the same level of
-        scaffolding?
-      date: '2011-02-25 21:01:52'
-      date_gmt: '2011-02-25 11:01:52'
-      id: '3266'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 This week brings the first formal tasks of my new phase as a teacher in training. We, the students enrolled in the Graduate Diploma in Learning and Teaching, are required to attend four days of a residential school. These four days coincide with Orientiation Week and we'll be attending bits of standard O-Week, but mostly focusing on the res school.
 

@@ -1,143 +1,141 @@
----
+﻿---
 categories:
 - elearning
-date: 2012-03-21 16:35:59+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 124.189.212.253
+  author_url: http://elketeaches.wordpress.com
+  content: I agree.  After using Wordpress for a while now and seeing other sites
+    and how they are set up, I find Mahara to be limited.  I think Mahara looks really
+    boring and doesn't enable the user to show a lot of creativity (maybe there's
+    more to it that I haven't seen) but right now I'm already thinking about how I
+    can embed or link to other better tools.
+  date: '2012-03-21 17:11:16'
+  date_gmt: '2012-03-21 07:11:16'
+  id: '270'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: P!erre
+  author_email: bourgoinpierre.tutor@gmail.com
+  author_ip: 189.181.82.218
+  author_url: http://bourgoinpierre.wordpress.com
+  content: 'That''s an interesting post. I''ve always wondered myself what an e-Portfolio
+    would actually consist of... I mean, isn''t it just a blog with other affordances
+    for uploading assignments and what not?
+
+
+    The idea of building a PLN, I believe, is good but the tools are so distributed
+    across the net that it makes it a difficult practice to assess. I agree regarding
+    the resistance from students who are already using effective tools to "copy" what
+    they would already be doing in some custom yet less effective platform - I would
+    be resistant.
+
+
+    The sunk cost bias of educational programs to make good of their technological
+    investments can sometimes get in the way of what is already a whole lot of hard
+    work! I do think, however, that "the nature of most, students, academic staff
+    and academic programs" (as you mention), is kind of sad and not really reflective
+    of what education should be...
+
+
+    Pierre'
+  date: '2012-03-22 01:13:03'
+  date_gmt: '2012-03-21 15:13:03'
+  id: '272'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.165.86.4
+  author_url: https://djon.es/blog/
+  content: 'I agree Pierre that it is sad that the nature of many/most is not reflective
+    of what education should be. But it is the reality, which is the pessimist (or
+    realist depending on your perspective) in me. But the optimist in me suggests
+    that most of the students and academics could be otherwise.
+
+
+    It''s the nature of the system and the inconsistencies in their lived experience
+    created by projects such as institutional e-portfolio systems that encourage that
+    perspective.  At least, that''s a proposition I''d like to test.'
+  date: '2012-03-22 22:08:11'
+  date_gmt: '2012-03-22 12:08:11'
+  id: '273'
+  parent: '272'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: P!erre
+  author_email: bourgoinpierre.tutor@gmail.com
+  author_ip: 189.181.253.185
+  author_url: http://bourgoinpierre.wordpress.com
+  content: Right on with shaking the institutional norm. You will be undertaking research
+    re this?
+  date: '2012-03-23 00:58:12'
+  date_gmt: '2012-03-22 14:58:12'
+  id: '274'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.165.86.4
+  author_url: https://djon.es/blog/
+  content: That's the plan. Writing up some old work soon and seeing what comes of
+    some current possibilities.
+  date: '2012-03-23 08:23:13'
+  date_gmt: '2012-03-22 22:23:13'
+  id: '275'
+  parent: '274'
+  type: comment
+  user_id: '1'
+date: 2012-03-21 06:35:59
 next:
   text: '"Learning analytics and study behaviour: A pilot study"'
   url: /blog/2012/03/27/learning-analytics-and-study-behaviour-a-pilot-study/
+pingbacks:
+- approved: '1'
+  author: Why I don&rsquo;t like institutional e-portfolios | Mark Smithers
+  author_email: null
+  author_ip: 66.147.242.157
+  author_url: http://www.masmithers.com/2012/07/17/why-i-dont-like-institutional-e-portfolios/
+  content: "[...] As this is a blog I have no requirement for impartiality so I\u2019\
+    ll provide links to two other posts critical of e-portfolios; here is Donald Clark\u2019\
+    s take \u2018E-portfolios \u2013 7 reasons why I don\u2019t want my life in a\
+    \ shoebox\u2019 and here is David Jones \u2018My on-going concerns with ePortfolios\u2019\
+    \ [...]"
+  date: '2012-07-17 16:30:15'
+  date_gmt: '2012-07-17 06:30:15'
+  id: '276'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: back to the future &#8211; ePortfolios Australia Forum | creative becoming
+  author_email: null
+  author_ip: 74.200.247.112
+  author_url: http://creativebecoming.wordpress.com/2012/09/30/back-to-the-future-eportfolios-australia-forum/
+  content: '[...] Jones has also made some very good points regarding the shortcomings
+    of eportfolios in education on his blog. Share this:ShareLinkedInTwitterLike this:LikeBe
+    the first to like this.   This entry [...]'
+  date: '2012-09-30 19:01:14'
+  date_gmt: '2012-09-30 09:01:14'
+  id: '277'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Eduhacking - a better use for (part of) academic conferences?
   url: /blog/2012/03/16/eduhacking-a-better-use-for-part-of-academic-conferences/
+template: blog-post.html
 title: My on-going concerns with ePortfolios
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 124.189.212.253
-      author_url: http://elketeaches.wordpress.com
-      content: I agree.  After using Wordpress for a while now and seeing other sites
-        and how they are set up, I find Mahara to be limited.  I think Mahara looks really
-        boring and doesn't enable the user to show a lot of creativity (maybe there's
-        more to it that I haven't seen) but right now I'm already thinking about how I
-        can embed or link to other better tools.
-      date: '2012-03-21 17:11:16'
-      date_gmt: '2012-03-21 07:11:16'
-      id: '270'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: P!erre
-      author_email: bourgoinpierre.tutor@gmail.com
-      author_ip: 189.181.82.218
-      author_url: http://bourgoinpierre.wordpress.com
-      content: 'That''s an interesting post. I''ve always wondered myself what an e-Portfolio
-        would actually consist of... I mean, isn''t it just a blog with other affordances
-        for uploading assignments and what not?
-    
-    
-        The idea of building a PLN, I believe, is good but the tools are so distributed
-        across the net that it makes it a difficult practice to assess. I agree regarding
-        the resistance from students who are already using effective tools to "copy" what
-        they would already be doing in some custom yet less effective platform - I would
-        be resistant.
-    
-    
-        The sunk cost bias of educational programs to make good of their technological
-        investments can sometimes get in the way of what is already a whole lot of hard
-        work! I do think, however, that "the nature of most, students, academic staff
-        and academic programs" (as you mention), is kind of sad and not really reflective
-        of what education should be...
-    
-    
-        Pierre'
-      date: '2012-03-22 01:13:03'
-      date_gmt: '2012-03-21 15:13:03'
-      id: '272'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.165.86.4
-      author_url: https://djon.es/blog/
-      content: 'I agree Pierre that it is sad that the nature of many/most is not reflective
-        of what education should be. But it is the reality, which is the pessimist (or
-        realist depending on your perspective) in me. But the optimist in me suggests
-        that most of the students and academics could be otherwise.
-    
-    
-        It''s the nature of the system and the inconsistencies in their lived experience
-        created by projects such as institutional e-portfolio systems that encourage that
-        perspective.  At least, that''s a proposition I''d like to test.'
-      date: '2012-03-22 22:08:11'
-      date_gmt: '2012-03-22 12:08:11'
-      id: '273'
-      parent: '272'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: P!erre
-      author_email: bourgoinpierre.tutor@gmail.com
-      author_ip: 189.181.253.185
-      author_url: http://bourgoinpierre.wordpress.com
-      content: Right on with shaking the institutional norm. You will be undertaking research
-        re this?
-      date: '2012-03-23 00:58:12'
-      date_gmt: '2012-03-22 14:58:12'
-      id: '274'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.165.86.4
-      author_url: https://djon.es/blog/
-      content: That's the plan. Writing up some old work soon and seeing what comes of
-        some current possibilities.
-      date: '2012-03-23 08:23:13'
-      date_gmt: '2012-03-22 22:23:13'
-      id: '275'
-      parent: '274'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Why I don&rsquo;t like institutional e-portfolios | Mark Smithers
-      author_email: null
-      author_ip: 66.147.242.157
-      author_url: http://www.masmithers.com/2012/07/17/why-i-dont-like-institutional-e-portfolios/
-      content: "[...] As this is a blog I have no requirement for impartiality so I\u2019\
-        ll provide links to two other posts critical of e-portfolios; here is Donald Clark\u2019\
-        s take \u2018E-portfolios \u2013 7 reasons why I don\u2019t want my life in a\
-        \ shoebox\u2019 and here is David Jones \u2018My on-going concerns with ePortfolios\u2019\
-        \ [...]"
-      date: '2012-07-17 16:30:15'
-      date_gmt: '2012-07-17 06:30:15'
-      id: '276'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: back to the future &#8211; ePortfolios Australia Forum | creative becoming
-      author_email: null
-      author_ip: 74.200.247.112
-      author_url: http://creativebecoming.wordpress.com/2012/09/30/back-to-the-future-eportfolios-australia-forum/
-      content: '[...] Jones has also made some very good points regarding the shortcomings
-        of eportfolios in education on his blog. Share this:ShareLinkedInTwitterLike this:LikeBe
-        the first to like this.   This entry [...]'
-      date: '2012-09-30 19:01:14'
-      date_gmt: '2012-09-30 09:01:14'
-      id: '277'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I was asked to respond to a set of questions around ePortfolios. The questions arose from some earlier posts: [Why am I an ePortfolio skeptic](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/) and [Portfolios often implemented badly](/blog/2010/09/14/portfolios-often-implemented-poorly/). What follows are my responses.
 

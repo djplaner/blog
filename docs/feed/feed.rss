@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-AU</language>
-    <lastBuildDate>Fri, 04 Jun 2021 15:57:46 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jun 2021 05:57:46 +1000</lastBuildDate>
     <item>
       <title>A new day</title>
       <link>https://djon.es/blog/2025/05/23/a-new-day/</link>
@@ -159,7 +159,7 @@ Some links, images and other content (e.g Slideshare presentations, Google video
 &lt;p&gt;{{ blogStats(['all'])}}&lt;/p&gt;</description>
       <author>davidthomjones@gmail.com (David Jones)</author>
       <guid isPermaLink="false">https://djon.es/blog/about.md</guid>
-      <pubDate>Tue, 01 Apr 2025 15:37:51 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2025 05:37:51 +0000</pubDate>
     </item>
     <item>
       <title>What now?</title>
@@ -183,7 +183,7 @@ Some links, images and other content (e.g Slideshare presentations, Google video
 &lt;p&gt;Since my last blog post a bit has changed. I "lost" a parent. Ended my ~30 year career in tertiary education. Reached a joint decision with any prospective employers that full-time employment was not the direction for me. This and other events encouraged some reflection on what brings me joy.&lt;/p&gt;
 &lt;p&gt;A lot of people who have looked at my work in higher education probably (e.g. my wife) will assume playing with digital technology was what brought me joy. I've always been labelled as the "technology guy". Sure there was a lot of playing with digital technologies and I enjoyed much of it but technologies were just the tools for building &lt;a href="/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/#casa-context-appropriate-scaffolding-assemblages"&gt;contextually-appropriate scaffolding assemblages (CASA)&lt;/a&gt;. Tools for engaging in &lt;a href="/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#what-work-gets-done-bricolage-or-strategic"&gt;bricolage&lt;/a&gt; with available services and technologies to &lt;a href="/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/"&gt;gather, weave, and augment&lt;/a&gt; the current environment and what was possible with learning and teaching.&lt;/p&gt;
 &lt;p&gt;Throughout my work in higher education the focus understanding the local environment and out how to sustainably make real improvements to it. A big part of what's changed for me is the local environment. No longer will it be learning and teaching in higher education. It's been replaced with living within &lt;a href="https://en.wikipedia.org/wiki/Postmans_Ridge,_Queensland"&gt;Postmans Ridge&lt;/a&gt; and surrounds. In particular, our &lt;a href="https://djplaner.github.io/memex/sense/landscape-garden/wood-duck-meadows.html"&gt;10 acre home block&lt;/a&gt;. How do I &lt;em&gt;gather&lt;/em&gt; and &lt;em&gt;weave&lt;/em&gt; in order to &lt;em&gt;augument&lt;/em&gt; this new local environment?&lt;/p&gt;
-&lt;p&gt;The need is obvious. Since colonisation at least &lt;a href="https://theconversation.com/in-2025-lets-make-it-game-on-not-game-over-for-our-precious-natural-world-245761"&gt;40% of Australia's forests&lt;/a&gt; have been cleared. Since 2001, &lt;a href="https://www.hlw.org.au/region/about/natural-assets/nature#gsc.tab=0"&gt;losses in South-East Queensland&lt;/a&gt; include: 7,384 hectares of remnant vegetation, 54,983 hectares of woody vegetation, and 1,220 hectares of natural wetlands. &lt;a href="https://djplaner.github.io/memex/sense/landscape-garden/wood-duck-meadows.html"&gt;Our block&lt;/a&gt; has evidence of brigalow scrub and other ecosystems but falls within an area that is &lt;a href="https://www.qld.gov.au/environment/plants-animals/biodiversity/glossary"&gt;classified as "non-remnant"&lt;/a&gt;. i.e. it has been heavily thinned, has significant disturbed vegetation, or cleared. Which in our case includes some significant infestation by nasty weeds. For example, the &lt;a href="https://weeds.brisbane.qld.gov.au/weeds/climbing-asparagus-fern"&gt;climbing asparagus fern&lt;/a&gt; in the following image (in the left photo, not the right) which shows off some of my early work.&lt;img alt="Early clearing. Two images of the same location. The earlier &amp;quot;how it started&amp;quot; image shows significiant asparagus fern overgrowing numerous trees, including a Bunya Pine. The latter &amp;quot;How it's going&amp;quot; shows the same trees with the asparagus fern removed." src="images/early-clearing.jpg" /&gt;There are a lot of people and groups (e.g. &lt;a href="https://fep.org.au/our-parks/redwood-park/"&gt;this local group&lt;/a&gt; I've joined) doing this work. Not surprisingly the purpose, approach and terminology used by these groups varies significantly. As novices our purpose and approach will evolve, but the term "sustainable restoration" resonates currently. It's a term &lt;a href="https://sown.com.au/wp-content/uploads/2020/05/Creek_in_our_backyard_revised_2013.pdf"&gt;attributed to John Lahey&lt;/a&gt; describing "restoration efforts where human input is minimal". Which speaks to me of bricolage. Sustainable restoration is not a widely used/known term meaning there isn't multiple meanings (often with associated "thought camps") as with other terms. That said related terms and movements like restoration, rewilding, and permaculture are of interest. Especially if rewilding is seeking to restore ecosystems so they can look after themselves (Macgilchrist, 2021). But even that sentiment has some difference to ponder.&lt;/p&gt;
+&lt;p&gt;The need is obvious. Since colonisation at least &lt;a href="https://theconversation.com/in-2025-lets-make-it-game-on-not-game-over-for-our-precious-natural-world-245761"&gt;40% of Australia's forests&lt;/a&gt; have been cleared. Since 2001, &lt;a href="https://www.hlw.org.au/region/about/natural-assets/nature#gsc.tab=0"&gt;losses in South-East Queensland&lt;/a&gt; include: 7,384 hectares of remnant vegetation, 54,983 hectares of woody vegetation, and 1,220 hectares of natural wetlands. &lt;a href="https://djplaner.github.io/memex/sense/landscape-garden/wood-duck-meadows.html"&gt;Our block&lt;/a&gt; has evidence of brigalow scrub and other ecosystems but falls within an area that is &lt;a href="https://www.qld.gov.au/environment/plants-animals/biodiversity/glossary"&gt;classified as "non-remnant"&lt;/a&gt;. i.e. it has been heavily thinned, has significant disturbed vegetation, or cleared. Which in our case includes some significant infestation by nasty weeds. For example, the &lt;a href="https://weeds.brisbane.qld.gov.au/weeds/climbing-asparagus-fern"&gt;climbing asparagus fern&lt;/a&gt; in the following image (in the left photo, not the right) which shows off some of my early work.&lt;img alt="Early clearing. Two images of the same location. The earlier &amp;quot;how it started&amp;quot; image shows significiant asparagus fern overgrowing numerous trees, including a Bunya Pine. The latter &amp;quot;How it's going&amp;quot; shows the same trees with the asparagus fern removed." src="https://djon.es/assets/blog/2025/01/12/what-now/images/early-clearing.jpg" /&gt;There are a lot of people and groups (e.g. &lt;a href="https://fep.org.au/our-parks/redwood-park/"&gt;this local group&lt;/a&gt; I've joined) doing this work. Not surprisingly the purpose, approach and terminology used by these groups varies significantly. As novices our purpose and approach will evolve, but the term "sustainable restoration" resonates currently. It's a term &lt;a href="https://sown.com.au/wp-content/uploads/2020/05/Creek_in_our_backyard_revised_2013.pdf"&gt;attributed to John Lahey&lt;/a&gt; describing "restoration efforts where human input is minimal". Which speaks to me of bricolage. Sustainable restoration is not a widely used/known term meaning there isn't multiple meanings (often with associated "thought camps") as with other terms. That said related terms and movements like restoration, rewilding, and permaculture are of interest. Especially if rewilding is seeking to restore ecosystems so they can look after themselves (Macgilchrist, 2021). But even that sentiment has some difference to ponder.&lt;/p&gt;
 &lt;h2&gt;Limitations of my current digital practices&lt;/h2&gt;
 &lt;p&gt;The digital practices I use in everyday life and to maintain my online presence suffer from a number of limitations. Aside from the more common limitations (e.g. a over-reliance on passively scrolling through information feeds managed by commercial interests) these include:&lt;/p&gt;
 &lt;ol&gt;
@@ -215,7 +215,7 @@ Some links, images and other content (e.g Slideshare presentations, Google video
       <author>davidthomjones@gmail.com (David Jones)</author>
       <guid isPermaLink="false">https://djon.es/blog/2025/01/12/what-now/</guid>
       <category>colophon</category>
-      <pubDate>Sun, 12 Jan 2025 15:19:03 +0000</pubDate>
+      <pubDate>Sun, 12 Jan 2025 05:19:03 +0000</pubDate>
     </item>
     <item>
       <title>Announcing (finally) Canvas Collections</title>
@@ -231,7 +231,7 @@ Some links, images and other content (e.g Slideshare presentations, Google video
 &lt;h2&gt;What can you do with it?&lt;/h2&gt;
 &lt;h3&gt;Start with vanilla Canvas modules&lt;/h3&gt;
 &lt;p&gt;The following image is an example (vanilla) Canvas modules index page. Showing the standard linear structure with a visually limited interface and little contextual information visible.&lt;/p&gt;
-&lt;p&gt;From what you see here, can you identify the three driving questions behind the design of this course?&lt;a href="https://github.com/djplaner/canvas-collections/raw/main/docs/assets/vanillaModules.gif"&gt;&lt;img alt="Scrolling through a Canvas modules index page. Showing 13 modules and all their items in one long linear scroll. Each module visualised with a 'windows-95' like folder with a list of items." src="images/vanillaModules.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;From what you see here, can you identify the three driving questions behind the design of this course?&lt;a href="https://github.com/djplaner/canvas-collections/raw/main/docs/assets/vanillaModules.gif"&gt;&lt;img alt="Scrolling through a Canvas modules index page. Showing 13 modules and all their items in one long linear scroll. Each module visualised with a 'windows-95' like folder with a list of items." src="https://djon.es/assets/blog/2023/08/18/announcing-finally-canvas-collections/images/vanillaModules.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Add live (dynamic) Canvas Collections&lt;/h3&gt;
 &lt;p&gt;The following image is the same course. However, the Canvas Collections code is live and is dynamically modifying the Canvas modules index page to add&lt;/p&gt;
 &lt;ul&gt;
@@ -239,12 +239,12 @@ Some links, images and other content (e.g Slideshare presentations, Google video
 &lt;li&gt;Visuals - each collection is using a different &lt;em&gt;representation&lt;/em&gt; (and also including content from a Canvas page) which allows direct navigation to a module.&lt;/li&gt;
 &lt;li&gt;Context - additional contextual data (e.g. description, banner image/iframe, date etc.) is visible for each module. (What isn't shown is that this data can include &lt;a href="https://djplaner.github.io/canvas-collections/reference/conceptual-model/representations/griffith-cards/#progress-ring"&gt;requirements completion&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Can you identify the three driving questions behind the design of this course from this view?&lt;a href="https://github.com/djplaner/canvas-collections/blob/main/docs/assets/withCanvasCollections.gif"&gt;&lt;img alt="Canvas modules page configured with four collections (why, what, how, and questions &amp;amp; suggestions). Changing between different collections, showing only that collection's modules at any one time. Navigating directly to a module by clicking on its specific representation. Showing off the representations which include cards for each module. Cards with images/iframes, descriptions, dates, labels and other contextual data" src="images/withCanvasCollections.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Can you identify the three driving questions behind the design of this course from this view?&lt;a href="https://github.com/djplaner/canvas-collections/blob/main/docs/assets/withCanvasCollections.gif"&gt;&lt;img alt="Canvas modules page configured with four collections (why, what, how, and questions &amp;amp; suggestions). Changing between different collections, showing only that collection's modules at any one time. Navigating directly to a module by clicking on its specific representation. Showing off the representations which include cards for each module. Cards with images/iframes, descriptions, dates, labels and other contextual data" src="https://djon.es/assets/blog/2023/08/18/announcing-finally-canvas-collections/images/withCanvasCollections.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Create a Claytons (static) Canvas Collections page&lt;/h3&gt;
 &lt;p&gt;Live Collections requires installing the Canvas Collections code (institutionally or individually). If installed individually, then you probably can't use live Collections with students (each student would have to install Collections individually).&lt;/p&gt;
 &lt;p&gt;As an alternative, you can use your individual installation of Collections to create a Canvas page that contains a static (&lt;a href="https://australianfoodtimeline.com.au/claytons-enters-australian-vernacular/"&gt;Claytons&lt;/a&gt;) version of Canvas Collections. Echoing the common Canvas community practice of creating a visual home page for a Canvas course. The difference being that Collections does the design work for you.&lt;/p&gt;
 &lt;p&gt;The following demonstrates a Claytons Collections version of the live Collections above. Same (similar) collections, representations, and contextual data. However, all saved onto a Canvas page that is being used as the course home page.&lt;/p&gt;
-&lt;p&gt;(NOTE: Due to &lt;a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-HTML-Editor-Allowlist/ta-p/387066"&gt;limitations of the Canvas RCE&lt;/a&gt; at least one of the current representations shown does require external CSS to work.)&lt;a href="https://github.com/djplaner/canvas-collections/blob/main/docs/assets/claytonsCollections.gif"&gt;&lt;img alt="Animation showing how a Canvas page has been updated to contain a sequence of tabs for each collection. Allowing the visitor to see different representations of Canvas modules (but not the modules themselves). Representations that are basically the same as live Canvas Collections. Clicking on the representation for a module will take you directly to that module." src="images/claytonsCollections.gif" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;(NOTE: Due to &lt;a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-HTML-Editor-Allowlist/ta-p/387066"&gt;limitations of the Canvas RCE&lt;/a&gt; at least one of the current representations shown does require external CSS to work.)&lt;a href="https://github.com/djplaner/canvas-collections/blob/main/docs/assets/claytonsCollections.gif"&gt;&lt;img alt="Animation showing how a Canvas page has been updated to contain a sequence of tabs for each collection. Allowing the visitor to see different representations of Canvas modules (but not the modules themselves). Representations that are basically the same as live Canvas Collections. Clicking on the representation for a module will take you directly to that module." src="https://djon.es/assets/blog/2023/08/18/announcing-finally-canvas-collections/images/claytonsCollections.gif" /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;h3&gt;Modify Canvas Collections&lt;/h3&gt;
 &lt;p&gt;Canvas Collections is explicitly designed to be &lt;a href="https://djplaner.github.io/canvas-collections/#generativity"&gt;generative&lt;/a&gt;. That is, to improve the capacity of the community &lt;a href="https://en.wikipedia.org/wiki/Generative_systems"&gt;"to produce unprompted change driven by large, varied, and uncoordinated audiences"&lt;/a&gt;. By making it simpler (though perhaps not simple) for others to make changes. &lt;a href="https://djplaner.github.io/canvas-collections/about/rationale/"&gt;The rationale&lt;/a&gt; behind Canvas Collections is that generativity is a key enabler for providing &lt;a href="https://djplaner.github.io/canvas-collections/about/rationale/#usable-short-arc-design-tools-that-scale"&gt;usable short arc design tools that scale&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Some of the means used to achieve this, includes:&lt;/p&gt;
@@ -256,7 +256,7 @@ Some links, images and other content (e.g Slideshare presentations, Google video
       <author>davidthomjones@gmail.com (David Jones)</author>
       <guid isPermaLink="false">https://djon.es/blog/2023/08/18/announcing-finally-canvas-collections/</guid>
       <category>casa</category>
-      <pubDate>Fri, 18 Aug 2023 12:19:47 +0000</pubDate>
+      <pubDate>Fri, 18 Aug 2023 02:19:47 +0000</pubDate>
     </item>
     <item>
       <title>Higher ed L&amp;T's scale problem?</title>
@@ -309,7 +309,7 @@ Some links, images and other content (e.g Slideshare presentations, Google video
       <guid isPermaLink="false">https://djon.es/blog/2023/02/23/higher-ed-lts-scale-problem/</guid>
       <category>bad</category>
       <category>casa</category>
-      <pubDate>Thu, 23 Feb 2023 07:32:37 +0000</pubDate>
+      <pubDate>Wed, 22 Feb 2023 21:32:37 +0000</pubDate>
     </item>
     <item>
       <title>"Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable delivery of quality learning and teaching"</title>
@@ -386,7 +386,7 @@ Some links, images and other content (e.g Slideshare presentations, Google video
       <category>bad</category>
       <category>casa</category>
       <category>highereducation</category>
-      <pubDate>Thu, 09 Feb 2023 10:13:12 +0000</pubDate>
+      <pubDate>Thu, 09 Feb 2023 00:13:12 +0000</pubDate>
     </item>
     <item>
       <title>"Orchestrating entangled relations to stretch the iron triangle: Observations from an LMS migration"</title>
@@ -449,7 +449,7 @@ Some links, images and other content (e.g Slideshare presentations, Google video
 &lt;li&gt;A pickle file. Contains a copy of all the course site details and content in a machine readable format.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;While the CAR code is not currently publicly available we are happy to share.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Copy of slide showing a CAR folder structure. With pointers to the contentCollection and coursePages folders and a Word doc (CAR doc) and pickle file" src="images/echo360migration.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Copy of slide showing a CAR folder structure. With pointers to the contentCollection and coursePages folders and a Word doc (CAR doc) and pickle file" src="https://djon.es/assets/blog/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/images/echo360migration.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;Word2Canvas&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://djplaner.github.io/word-to-canvas-module/"&gt;Word2Canvas&lt;/a&gt; is Javascript which modifies the modules page on a Canvas course site. It provides a button that allows you to convert a specially formatted Word document into Canvas module.&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;coursePages&lt;/em&gt; folder produced by the CAR process generates these specially formatted Word documents. Enabling migration to consist largely of minor edits of a Word document and using word2canvas to create a Canvas module.&lt;/p&gt;
@@ -489,7 +489,7 @@ Some links, images and other content (e.g Slideshare presentations, Google video
       <guid isPermaLink="false">https://djon.es/blog/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/</guid>
       <category>bad</category>
       <category>casa</category>
-      <pubDate>Mon, 10 Oct 2022 09:08:08 +0000</pubDate>
+      <pubDate>Sun, 09 Oct 2022 23:08:08 +0000</pubDate>
     </item>
     <item>
       <title>"Orchestrating entangled relations to break the iron triangle: examples from a LMS migration"</title>
@@ -500,7 +500,7 @@ Some links, images and other content (e.g Slideshare presentations, Google video
 &lt;caption&gt;
 Figure 1: Illustrating the iron triangle (adapted from Mulder, 2013, p. 100)
 &lt;/caption&gt;
-![Illustration of the iron triangle](images/mulder-iron-triangle.png)
+![Illustration of the iron triangle](https://djon.es/assets/blog/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/images/mulder-iron-triangle.png)
 &lt;/figure&gt;
 
 &lt;p&gt;Much of the iron triangle literature identifies different strategies that promise to break the iron triangle. Mulder (2013) suggests open educational resources (OER). Daniel et al (2009) suggest open and distance eLearning. Ryan et al (2021) suggest high-quality large group teaching and learning; alternative curriculum structures; and automation of assessment and feedback.&lt;/p&gt;
@@ -589,7 +589,7 @@ Figure 1: Illustrating the iron triangle (adapted from Mulder, 2013, p. 100)
 &lt;caption&gt;
 Figure 2: Source LMS
 &lt;/caption&gt;
-![Student view of a simple Blackboard course](images/bb_course.png)
+![Student view of a simple Blackboard course](https://djon.es/assets/blog/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/images/bb_course.png)
 &lt;/figure&gt;
 
 &lt;figure markdown&gt;
@@ -600,7 +600,7 @@ Figure 3: Destination LMS
 
 &lt;/caption&gt;
 
-![Student view of Canvas course created by importing a Common Cartridge export of the Blackboard course](images/canvas_export_version.png)
+![Student view of Canvas course created by importing a Common Cartridge export of the Blackboard course](https://djon.es/assets/blog/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/images/canvas_export_version.png)
 
 &lt;/figure&gt;
 
@@ -613,7 +613,7 @@ Figure 4: Canvas files area - common cartridge import
 
 &lt;/caption&gt;
 
-![Canvas files area after Common Cartridge import](images/files_cc_import.png)
+![Canvas files area after Common Cartridge import](https://djon.es/assets/blog/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/images/files_cc_import.png)
 
 &lt;/figure&gt;
 
@@ -656,7 +656,7 @@ Figure 5: Canvas site via CAR
 
 &lt;/caption&gt;
 
-| ![Canvas course site created by migrating via CAR](images/canvas-via-car.png)
+| ![Canvas course site created by migrating via CAR](https://djon.es/assets/blog/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/images/canvas-via-car.png)
 
 &lt;/figure&gt;
 
@@ -668,7 +668,7 @@ Figure 6: Canvas files via CAR
 
 &lt;/caption&gt;
 
-![Canvas files migrated via CAR](images/files-car.png)
+![Canvas files migrated via CAR](https://djon.es/assets/blog/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/images/files-car.png)
 
 &lt;/figure&gt;
 
@@ -706,7 +706,7 @@ Figure 7: Canvas Collections - content collection
 
 &lt;/caption&gt;
 
-![](images/canvas-collections-content.png)
+![](https://djon.es/assets/blog/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/images/canvas-collections-content.png)
 
 &lt;/figure&gt;
 
@@ -718,7 +718,7 @@ Figure 8: Canvas Collections - assessment collection
 
 &lt;/caption&gt;
 
-![](images/canvas-collections-assessment.png)
+![](https://djon.es/assets/blog/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/images/canvas-collections-assessment.png)
 
 &lt;/figure&gt;
 
@@ -742,7 +742,7 @@ Figure 8: Canvas Collections - assessment collection
       <guid isPermaLink="false">https://djon.es/blog/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/</guid>
       <category>bad</category>
       <category>casa</category>
-      <pubDate>Tue, 05 Jul 2022 06:28:32 +0000</pubDate>
+      <pubDate>Mon, 04 Jul 2022 20:28:32 +0000</pubDate>
     </item>
     <item>
       <title>Representing problems to make the solution transparent</title>
@@ -751,7 +751,7 @@ Figure 8: Canvas Collections - assessment collection
 &lt;h2&gt;Number Scrabble&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Number Scrabble&lt;/em&gt; is a game I first saw described in Simon's (1996) book &lt;em&gt;Sciences of the Artificial&lt;/em&gt;. I used it in &lt;a href="https://web.archive.org/web/20060830061405/http://cq-pan.cqu.edu.au/david-jones/Publications/Presentations/2004/Conceptualisation/5/index.html"&gt;a presentation from 2004&lt;/a&gt; (the source of the following images).&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Number Scrabble&lt;/em&gt; is a game played between two players. The players are presented with nine cards. The players take turns selecting one card at a time. The aim being to get three cards which add up to 15 (aka a "book"). The first player to obtain a book wins. If no player gets a book, the game is a draw.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Basic number scrabble" src="images/2021-10-23-15-53-29.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Basic number scrabble" src="https://djon.es/assets/blog/2021/10/23/representing-problems-to-make-the-solution-transparent/images/2021-10-23-15-53-29.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;Making the solution transparent&lt;/h2&gt;
 &lt;p&gt;Simon (1996) argues that problem representation is an important part of problem solving and design. He identifies the extreme (perhaps not always possible) version of this view as&lt;/p&gt;
 &lt;blockquote&gt;
@@ -760,7 +760,7 @@ Figure 8: Canvas Collections - assessment collection
 &lt;p&gt;He uses the example of &lt;em&gt;Number Scrabble&lt;/em&gt; to illustrate the point.&lt;/p&gt;
 &lt;p&gt;How much easier would you find it to pay &lt;em&gt;Number Scrabble&lt;/em&gt; if the cards were organised in the following magic square?&lt;/p&gt;
 &lt;p&gt;Would it help any if I mentioned another game, tic-tac-toe?&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Number scrabble's magic square" src="images/2021-10-23-16-01-20.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Number scrabble's magic square" src="https://djon.es/assets/blog/2021/10/23/representing-problems-to-make-the-solution-transparent/images/2021-10-23-16-01-20.png" /&gt;&lt;/p&gt;
 &lt;p&gt;With this new representation &lt;em&gt;Number Scrabble&lt;/em&gt; becomes a game of tic-tac-toe. No arithmetic required and tactics and strategies most are familiar with become applicable.&lt;/p&gt;
 &lt;h2&gt;My Problem: Course Migration - Understand what needs migrating&lt;/h2&gt;
 &lt;p&gt;Over the next two years my colleagues and I will be engaged in the process of migrating University courses from the Blackboard Learn (aka Blackboard Original) LMS to another LMS. Our immediate problem is to understand what needs migrating and identifying if and how that should/can be migrated to the new LMS.&lt;/p&gt;
@@ -791,13 +791,13 @@ Figure 8: Canvas Collections - assessment collection
       <guid isPermaLink="false">https://djon.es/blog/2021/10/23/representing-problems-to-make-the-solution-transparent/</guid>
       <category>bricolage</category>
       <category>casa</category>
-      <pubDate>Sat, 23 Oct 2021 17:04:59 +0000</pubDate>
+      <pubDate>Sat, 23 Oct 2021 07:04:59 +0000</pubDate>
     </item>
     <item>
       <title>Exploring Dron's definition of educational technology</title>
       <link>https://djon.es/blog/2021/06/04/exploring-drons-definition-of-educational-technology/</link>
       <description>&lt;p&gt;Pre-COVID the role of technology in learning and teaching in higher education was important. However, in 2020 it became core as part of the COVID response. Given the circumstances it is no surprise that chunks of that response were not that great. There was some good work. There was a lot of a "good enough for the situation" work. There was quite a bit that really sucked. For example,&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Drake Hotline Bling Meme" src="images/privacy_proctoring.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Drake Hotline Bling Meme" src="https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/privacy_proctoring.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Arugably, I'm not sure there's much difference from pre-COVID practice. Yes, COVID meant that the importance and spread of digital technology use was much, much higher. But, rapid adoption whilst responding to a pandemic was unlikely to be better (or as good?) qualitatively than previous practice. There just wasn't time for many to engage in the work required to question prior assumptions and redesign prior practices to suit the very different context and needs. Let alone harness technology transformatively.&lt;/p&gt;
 &lt;p&gt;It is even less likely if - as I believe - most pre-COVID individual and organisational assumptions and practices around learning, teaching and technology were built on fairly limited conceptual foundations. Building a COVID response on that sandy foundation was never going to end well. As individuals, institutions, and &lt;a href="https://edublog.microsoft.com/en-au/2021/02/higher-ed-reimagined-navigating-the-three-rs-to-build-agility-and-resilience/"&gt;vendors&lt;/a&gt; (thanks Microsoft?) begin to (re-)imagine what's next for learning and teaching in higher education, it is probably a good time to improve those limited conceptual foundations.&lt;/p&gt;
 &lt;p&gt;That's where this post comes in. It is an attempt to explore in more detail &lt;a href="https://jondron.ca/my-latest-paper-educational-technology-what-it-is-and-how-it-works/"&gt;Dron's (2021)&lt;/a&gt; definition of educational technology and how it works. There are other conceptual/theoretical framings that could be used. For example, postdigital (&lt;a href="https://doi.org/10.1007/s42438-018-0021-8"&gt;Fawns, 2019&lt;/a&gt;). That's for other posts. The intent here it to consider Dron's definition of educational technology and if/how it might help improve the conceptual foundations of institutional practices with educational technology.&lt;/p&gt;
@@ -813,7 +813,7 @@ Figure 8: Canvas Collections - assessment collection
 &lt;p&gt;Imagine you're responsible for running a tutorial at some educational institution. You've rocked up to the tutorial room for the first time and you're looking at one of the following room layouts: computer lab, or classroom. How does Dron's definition of educational technology help understand the learning and teaching activity and experience you and your students are about to embark upon? How might it help students, teachers, and the people from facilities management and your institution's learning and teaching centre?&lt;/p&gt;
 &lt;p&gt;| Computer lab | Classroom |
 | --- | --- |
-| &lt;img alt="" src="images/640px-Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg" /&gt; | &lt;img alt="" src="images/2021-05-01-07-25-50.png" /&gt; |
+| &lt;img alt="" src="https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/640px-Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg" /&gt; | &lt;img alt="" src="https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/2021-05-01-07-25-50.png" /&gt; |
 | &lt;a href="https://commons.wikimedia.org/wiki/File:Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg"&gt;Czeva&lt;/a&gt; , &lt;a href="https://creativecommons.org/licenses/by-sa/4.0"&gt;CC BY-SA 4.0&lt;/a&gt; via Wikimedia Commons | &lt;a href="https://commons.wikimedia.org/wiki/File:SWW-classroom1.jpg"&gt;Thedofc&lt;/a&gt;, Public domain, via Wikimedia Commons |&lt;/p&gt;
 &lt;p&gt;Ask yourself these questions&lt;/p&gt;
 &lt;ol&gt;
@@ -838,7 +838,7 @@ Figure 8: Canvas Collections - assessment collection
 &lt;p&gt;When the tutorial participants enter the room they start the next stage of orchestration for different, more learning and teaching specific purposes. Both students and teachers will have their own individual purposes in mind. Purposes that may change in respone to what happens in the tutorial. Those diverse purposes will drive them to orchestrate different phenomena in different ways. To achieve a particular learning outcome, a teacher will orchestrate different phenomena and technology. They will combine the technologies in the room with certain pedagogies (other technologies) to create specific learning tasks. The students then orchestrate how the learning tasks - purposeful orchestrations of phenomena - are adapted to serve their individual purposes.&lt;/p&gt;
 &lt;p&gt;Some assemblies of technologies are easier to orchestrate than others (e.g. the computers in a computer lab can be used to play computer games, rather than "learning"). Collaborative small group pedagogies would probably be easier in the classroom, than the computer lab. The design of the furniture technology in the classroom has been orchestrated with the purpose of enabling this type of flexibility. Not so the computer lab.&lt;/p&gt;
 &lt;p&gt;For Dron, &lt;strong&gt;pedagogies are a technology&lt;/strong&gt; and &lt;strong&gt;education is a technology&lt;/strong&gt;. For some,&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Them's fighting words" src="images/2021-05-01-13-18-26.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Them's fighting words" src="https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/2021-05-01-13-18-26.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;What is educational technology?&lt;/h3&gt;
 &lt;p&gt;Dron (2021) answers&lt;/p&gt;
 &lt;blockquote&gt;
@@ -859,7 +859,7 @@ Figure 8: Canvas Collections - assessment collection
 &lt;p&gt;For Dron (2021) students and teachers are "not just &lt;em&gt;users&lt;/em&gt; but &lt;em&gt;participants&lt;/em&gt; in the orchestration of technologies" (p. 3).&lt;/p&gt;
 &lt;p&gt;The technology that is the tutorial you are running, requires participation from &lt;strong&gt;both&lt;/strong&gt; you and the students. For example, to help organise the room for particular activities, use the whiteboard/projector to show relevant task information, use language to share a particular message, and use digital or physical notebooks etc. Individuals perform these tasks in different ways, with lesser or greater success, with different definitions of what is required, and with different preferences. They don't just use the technology, the participate in the orchestration.&lt;/p&gt;
 &lt;p&gt;Some technologies heavily pre-deterimine and restrict what form that participation takes. For example, the rigidity of the seating arrangements in the computer lab image above. There is very limited capacity to creatively orchestrate the seating arrangement in the computer lab. The students participation is largely (but not entirely) limited to sitting in rows. The constraints this type of technology places on our behaviour leads Dron to label them as &lt;strong&gt;hard&lt;/strong&gt; technologies. But even hard technologies can orchestrated in different ways by coparticipants. Which in turn lead to different orchestrations.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="images/computerLabRules.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/computerLabRules.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Other technologies allow and may require more active and creative orchestration. As mentioned above, the classroom image includes seating that can be creatively arranged in different ways. It is a &lt;strong&gt;soft&lt;/strong&gt; technology. The additional orchestration that soft technologies require, requires from us additional knowledge, skills, and activities (i.e additional technology) to be useful. Dron (2021) identifies "teaching methods, musical instruments and computers" as further examples of soft technologies. Technologies that require more from us in terms of orchestration. Soft technologies are harder to use.&lt;/p&gt;
 &lt;h3&gt;Hard is easy, soft is hard&lt;/h3&gt;
 &lt;p&gt;Hard technologies typically don't require additional knowledge, processes and techniques to achieve their intended purpose. What participation hard technologies require is constrained and (hopefully) fairly obvious. Hard technologies are typically easy to use (but perhaps not a great fit). However, the intended purpose baked into the hard technology may not align with your purpose.&lt;/p&gt;
@@ -867,7 +867,7 @@ Figure 8: Canvas Collections - assessment collection
 &lt;p&gt;For example, let's assume you want to paint a picture. The following images show two technologies that could help you achieve that purpose. One is hard and one is soft.&lt;/p&gt;
 &lt;p&gt;| Hard is easy | Soft is hard |
 | --- | --- |
-| &lt;img alt="" src="images/paintByNumbers.png" /&gt; | &lt;img alt="" src="images/blankCanvas.png" /&gt; |
+| &lt;img alt="" src="https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/paintByNumbers.png" /&gt; | &lt;img alt="" src="https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/blankCanvas.png" /&gt; |
 | &lt;a href="https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8B_%D0%BF%D0%BE_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC.jpg"&gt;Aleksander Fedyanin&lt;/a&gt; &lt;a href="http://creativecommons.org/publicdomain/zero/1.0/"&gt;CC0&lt;/a&gt;, via Wikimedia Commons | &lt;a href="https://www.publicdomainpictures.net/en/view-image.php?image=62975&amp;amp;picture=small-easel-with-a-blank-canvas"&gt;Small easel with a blank canvas&lt;/a&gt; &lt;a href="http://creativecommons.org/publicdomain/zero/1.0/"&gt;CC0&lt;/a&gt; |&lt;/p&gt;
 &lt;p&gt;Softness is not universally available. It can only be used if you have the awareness, permission, knowledge, and self-efficacy necessary to make use of it. Since I "know" I "can't paint", I'd almost certainly never even think of using of a blank canvas. But then if I'm painting by numbers, then I'm stuck with producing whatever painting has been embedded in this hard technology. At least as long as I expect the hardness. Nor is hard versus soft a categorisation, it's a spectrum.&lt;/p&gt;
 &lt;p&gt;As a brand new tutor entering the classroom shown above, you may not feel confident enough to re-arrange the chairs. You may also not be aware of certain beneficial learning activites that require moving the chairs. If you've never taught a particular tutorial or topic with a particular collection of students, you may not be aware that different orchestrations of technologies may work better.&lt;/p&gt;
@@ -905,7 +905,7 @@ Figure 8: Canvas Collections - assessment collection
       <category>bad</category>
       <category>casa</category>
       <category>digitalignorance</category>
-      <pubDate>Fri, 04 Jun 2021 15:57:46 +0000</pubDate>
+      <pubDate>Fri, 04 Jun 2021 05:57:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

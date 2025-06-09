@@ -1,70 +1,68 @@
----
+﻿---
 categories:
 - indicators
-date: 2012-03-28 14:02:22+10:00
+comments:
+- approved: '1'
+  author: Sheila MacNeill (@sheilmcn)
+  author_email: sheilmcn@twitter.example.com
+  author_ip: 130.159.138.165
+  author_url: http://twitter.com/sheilmcn
+  content: 'Hi David
+
+
+    Thanks for reading and quoting my post.  I''m going to explore your Indicators
+    project now, and will be interested to follow it''s progress as it starts up again.
+
+
+    Sheila'
+  date: '2012-03-28 18:03:00'
+  date_gmt: '2012-03-28 08:03:00'
+  id: '279'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 60.231.64.154
+  author_url: https://djon.es/blog/
+  content: Thanks for posting it Shelia.  Has helped a lot. Keen to follow what's
+    happening in the UK as well.  Seems to be a bit going on around analytics all
+    over the place.
+  date: '2012-03-28 21:51:33'
+  date_gmt: '2012-03-28 11:51:33'
+  id: '281'
+  parent: '279'
+  type: comment
+  user_id: '1'
+date: 2012-03-28 04:02:22
 next:
   text: Explorations of narrative research
   url: /blog/2012/03/29/explorations-of-narrative-research/
+pingbacks:
+- approved: '1'
+  author: LAK11 | Pearltrees
+  author_email: null
+  author_ip: 93.184.35.43
+  author_url: http://www.pearltrees.com/sheilmcn/lak11/id2311759#pearl39161593&show=reveal,6
+  content: "[...] \u201CHere I stand\u201D \u2013 Campbell\u2019s concerns on analytics\
+    \ and other stuff \xAB The Weblog of (a) David...  Gardner talks about four strong\
+    \ cautions for analytics He connects this view of analytics with the LMS approach\
+    \ to e-learning and the traditional nature of curriculum that are all in the simple\
+    \ domain. Learning analytics just continues this. Lots of imagery with school\
+    \ as a feedlot or a Skinner box . Four strong cautions [...]"
+  date: '2012-03-28 18:07:20'
+  date_gmt: '2012-03-28 08:07:20'
+  id: '280'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Learning analytics and study behaviour: A pilot study'
   url: /blog/2012/03/27/learning-analytics-and-study-behaviour-a-pilot-study/
+template: blog-post.html
 title: '"Here I stand" - Campbell''s concerns on analytics and other stuff'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Sheila MacNeill (@sheilmcn)
-      author_email: sheilmcn@twitter.example.com
-      author_ip: 130.159.138.165
-      author_url: http://twitter.com/sheilmcn
-      content: 'Hi David
-    
-    
-        Thanks for reading and quoting my post.  I''m going to explore your Indicators
-        project now, and will be interested to follow it''s progress as it starts up again.
-    
-    
-        Sheila'
-      date: '2012-03-28 18:03:00'
-      date_gmt: '2012-03-28 08:03:00'
-      id: '279'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 60.231.64.154
-      author_url: https://djon.es/blog/
-      content: Thanks for posting it Shelia.  Has helped a lot. Keen to follow what's
-        happening in the UK as well.  Seems to be a bit going on around analytics all
-        over the place.
-      date: '2012-03-28 21:51:33'
-      date_gmt: '2012-03-28 11:51:33'
-      id: '281'
-      parent: '279'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: LAK11 | Pearltrees
-      author_email: null
-      author_ip: 93.184.35.43
-      author_url: http://www.pearltrees.com/sheilmcn/lak11/id2311759#pearl39161593&show=reveal,6
-      content: "[...] \u201CHere I stand\u201D \u2013 Campbell\u2019s concerns on analytics\
-        \ and other stuff \xAB The Weblog of (a) David...  Gardner talks about four strong\
-        \ cautions for analytics He connects this view of analytics with the LMS approach\
-        \ to e-learning and the traditional nature of curriculum that are all in the simple\
-        \ domain. Learning analytics just continues this. Lots of imagery with school\
-        \ as a feedlot or a Skinner box . Four strong cautions [...]"
-      date: '2012-03-28 18:07:20'
-      date_gmt: '2012-03-28 08:07:20'
-      id: '280'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Continuing a [re-engagement with analytics](/blog/2012/03/27/learning-analytics-and-study-behaviour-a-pilot-study/) I spent some time listening to [Gardner Campbell's](http://www.gardnercampbell.net/) talk to the LAK'12 MOOC - [Here I Stand](http://lak12.wikispaces.com/Recordings) and from there followed various links.
 
@@ -74,7 +72,7 @@ The end result is that it simplifies learning and how we treat to an extent that
 
 He connects this view of analytics with the LMS approach to e-learning and the traditional nature of curriculum that are all in the simple domain. Learning analytics just continues this. Lots of imagery with school as a feedlot or a [Skinner box](http://en.wikipedia.org/wiki/Operant_conditioning_chamber).
 
-![Wikipedia image of Skinner box](images/300px-Skinner_box_scheme_01.png)
+![Wikipedia image of Skinner box](https://djon.es/assets/blog/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/images/300px-Skinner_box_scheme_01.png)
 
 Gardner talks about four strong cautions for analytics Four strong cautions
 

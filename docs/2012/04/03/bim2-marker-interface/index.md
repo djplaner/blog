@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim2
-date: 2012-04-03 22:51:35+10:00
+date: 2012-04-03 12:51:35
 next:
   text: bim2 - What's working for coordinator
   url: /blog/2012/04/05/bim2-whats-working-for-coordinator/
 previous:
   text: 'Learning analytics: Starvation and telling us what we already know?'
   url: /blog/2012/04/01/learning-analytics-starvation-and-telling-us-what-we-already-know/
+template: blog-post.html
 title: bim2 - Marker interface
 type: post
-template: blog-post.html
 ---
 In case you're wondering, BIM is a Moodle activity module that helps teaching staff manage individual student blogs. This post is one of a number of posts documenting the development of a version of BIM that will work with Moodle 2.x. More detail on BIM [here](/blog/research/bam-blog-aggregation-management/)
 

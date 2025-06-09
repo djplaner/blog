@@ -1,8 +1,8 @@
----
-date: 2008-10-16 21:57:29+10:00
+﻿---
+date: 2008-10-16 11:57:29
+template: blog-post.html
 title: Teaching
 type: page
-template: blog-post.html
 ---
 A number of the web links below are broken because of changes within organisations and the technology they use for e-learning.
 

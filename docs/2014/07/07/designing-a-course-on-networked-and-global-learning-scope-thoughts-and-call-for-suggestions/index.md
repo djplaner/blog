@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-07-07 15:42:54+10:00
+comments: []
+date: 2014-07-07 05:42:54
 next:
   text: Next step for NGL
   url: /blog/2014/07/19/next-step-for-ngl/
+pingbacks:
+- approved: '1'
+  author: Next step for NGL | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.200
+  author_url: https://djon.es/blog/2014/07/19/next-step-for-ngl/
+  content: '[&#8230;] initial call for input into the re-design of the Networked and
+    Global Learning (NGL) course was more successful than I [&#8230;]'
+  date: '2014-07-19 08:49:28'
+  date_gmt: '2014-07-18 22:49:28'
+  id: '991'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Tracking task corruption with Moodle activity completion
   url: /blog/2014/06/14/tracking-task-corruption-with-moodle-activity-completion/
+template: blog-post.html
 title: Designing a course on "Networked and Global Learning" - scope, thoughts and
   call for suggestions
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Next step for NGL | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.200
-      author_url: https://djon.es/blog/2014/07/19/next-step-for-ngl/
-      content: '[&#8230;] initial call for input into the re-design of the Networked and
-        Global Learning (NGL) course was more successful than I [&#8230;]'
-      date: '2014-07-19 08:49:28'
-      date_gmt: '2014-07-18 22:49:28'
-      id: '991'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The machinations of University decision making are always (more than) a bit obscure, opaque and uncertain. Especially when the institution has just been through a restructure. Late last week I found out that the [Networked and Global Learning" Masters course](http://www.usq.edu.au/course/specification/2014/EDU8117-S2-2014-WEB-TWMBA.html) I was allocated to would actually run. Since the course was last re-developed sometime ago, I've also pushed for the opportunity to bring it into the modern network age. Hence this this post.
 

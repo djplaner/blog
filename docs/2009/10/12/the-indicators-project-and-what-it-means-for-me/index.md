@@ -1,81 +1,79 @@
----
+﻿---
 categories:
 - elearning
 - indicators
-date: 2009-10-12 14:52:30+10:00
+comments:
+- approved: '1'
+  author: dwarlick
+  author_email: david.warlick@gmail.com
+  author_ip: 24.136.171.121
+  author_url: http://2cents.davidwarlick.com/
+  content: "David,\n\nThanks for the loyal inclusion of all us Davids.  I would second\
+    \ Stephen Downes' point.  At the end of my post I said that a richly networked,\
+    \ digital, and information abundant learning experience would result in...\"an\
+    \ enormously dense, rich, and seductively meaningful mass of data that could be\
+    \ analyzed and visualized in a wild variety of ways.  I\u2019d be happy with that\
+    \ \u2014 especially if students became partners with us as self-analyzers and\
+    \ self-assessors, mastering their own skills as information artisans.\""
+  date: '2009-10-12 17:51:08'
+  date_gmt: '2009-10-12 07:51:08'
+  id: '2848'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'G''day David,
+
+
+    I am hoping that one of the end results of the indicators project will be some
+    sort of investigation/application of the findings to engage with students.  Don''t
+    know what form that might take.
+
+
+    Though I do wonder that if by the time we get to that stage, will the students
+    have moved onto other techs beyond the LMS that will require a different approach.
+
+
+    Time will tell.  Thanks for sharing your thoughts on your blog.  The helped improve
+    some of the my thinking
+
+
+    David.'
+  date: '2009-10-13 10:07:39'
+  date_gmt: '2009-10-13 00:07:39'
+  id: '2849'
+  parent: '2848'
+  type: comment
+  user_id: '1'
+date: 2009-10-12 04:52:30
 next:
   text: Thoughts about the next steps for the indicators project
   url: /blog/2009/10/15/thoughts-about-the-next-steps-for-the-indicators-project/
+pingbacks:
+- approved: '1'
+  author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  content: '[...] also saw the start of the Indicators project our little foray into
+    &#8220;learning [...]'
+  date: '2013-01-24 15:06:42'
+  date_gmt: '2013-01-24 05:06:42'
+  id: '2850'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'The learning pyramid: true, false, hoax or myth?'
   url: /blog/2009/10/11/the-learning-pyramid-true-false-hoax-or-myth/
+template: blog-post.html
 title: The indicators project and what it means for me
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: dwarlick
-      author_email: david.warlick@gmail.com
-      author_ip: 24.136.171.121
-      author_url: http://2cents.davidwarlick.com/
-      content: "David,\n\nThanks for the loyal inclusion of all us Davids.  I would second\
-        \ Stephen Downes' point.  At the end of my post I said that a richly networked,\
-        \ digital, and information abundant learning experience would result in...\"an\
-        \ enormously dense, rich, and seductively meaningful mass of data that could be\
-        \ analyzed and visualized in a wild variety of ways.  I\u2019d be happy with that\
-        \ \u2014 especially if students became partners with us as self-analyzers and\
-        \ self-assessors, mastering their own skills as information artisans.\""
-      date: '2009-10-12 17:51:08'
-      date_gmt: '2009-10-12 07:51:08'
-      id: '2848'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'G''day David,
-    
-    
-        I am hoping that one of the end results of the indicators project will be some
-        sort of investigation/application of the findings to engage with students.  Don''t
-        know what form that might take.
-    
-    
-        Though I do wonder that if by the time we get to that stage, will the students
-        have moved onto other techs beyond the LMS that will require a different approach.
-    
-    
-        Time will tell.  Thanks for sharing your thoughts on your blog.  The helped improve
-        some of the my thinking
-    
-    
-        David.'
-      date: '2009-10-13 10:07:39'
-      date_gmt: '2009-10-13 00:07:39'
-      id: '2849'
-      parent: '2848'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
-      content: '[...] also saw the start of the Indicators project our little foray into
-        &#8220;learning [...]'
-      date: '2013-01-24 15:06:42'
-      date_gmt: '2013-01-24 05:06:42'
-      id: '2850'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 After at least a decade of "wouldn't it be a good idea if" and at least [one aborted attempt](http://cddu.cqu.edu.au/index.php/Blackboard_Indicators) (hint: an organisational restructure in which you are a loser, is not a great context for a new project with intra-organisational implications), the [Indicators Project](http://indicatorsproject.wordpress.com/) is getting started. This post is my attempt to define what the project means for me. What I hope to get out of the project, and what I hope others might get out of the project.
 
@@ -139,7 +137,7 @@ Importantly, we're aiming to/hoping for the project to identify, encourage and e
 
 In an attempt to understand what we have to do and where the interesting work might be we developed the following graphical representation of the project.
 
-\[caption id="" align="aligncenter" width="424" caption="Figure 1. Project Overview"\][![Project Overview](images/3973651740_a069cd611d.jpg "Project Overview")](http://farm4.static.flickr.com/3440/3973651740_1cc3c62d6b_o_d.png)\[/caption\]
+\[caption id="" align="aligncenter" width="424" caption="Figure 1. Project Overview"\][![Project Overview](https://djon.es/assets/blog/2009/10/12/the-indicators-project-and-what-it-means-for-me/images/3973651740_a069cd611d.jpg "Project Overview")](http://farm4.static.flickr.com/3440/3973651740_1cc3c62d6b_o_d.png)\[/caption\]
 
 Working from the bottom up, the figure includes:
 

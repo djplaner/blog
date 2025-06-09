@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - bim
-date: 2012-08-07 09:23:47+10:00
+date: 2012-08-06 23:23:47
 next:
   text: Lessons for the meta-level of networked learning?
   url: /blog/2012/08/13/lessons-for-the-meta-level-of-networked-learning/
@@ -9,9 +9,9 @@ previous:
   text: 'Enabling academics to apply learning analytics to individual pedagogical
     practice: how and with what impacts?'
   url: /blog/2012/07/25/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts/
+template: blog-post.html
 title: Using the NetSpot Innovation fund to enhance bim
 type: post
-template: blog-post.html
 ---
 So the [2013 NetSpot Innovation Fund](http://netspot.com.au/innovationfund.html#Register12interest) has been announced. You can read more on that prior link but my summary is that NetSpot will contribute their human resources (with significant expertise around Moodle development, QA etc.) to improving an existing innovation with the aim of making it more sustainable. In the words of the [guidelines](http://netspot.com.au/NetSpot%20Innovation%20Fund%20Guidelines%202013.pdf)
 

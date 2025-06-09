@@ -1,102 +1,99 @@
----
-date: 2008-12-29 21:38:09+10:00
+﻿---
+comments: []
+date: 2008-12-29 11:38:09
+pingbacks:
+- approved: '1'
+  author: One reason people don&#8217;t take to new e-learning technology &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/
+  content: '[...] Sort of sounds a bit like the insights from TAM and Diffusion of
+    Innovations. [...]'
+  date: '2009-02-11 14:45:39'
+  date_gmt: '2009-02-11 04:45:39'
+  id: '2010'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
+  content: '[...] this paper (Jones, Jamieson and Clark, 2003) we drew on Rogers&#8217;
+    diffusion theory (Rogers, 1995) to [...]'
+  date: '2009-03-09 23:01:58'
+  date_gmt: '2009-03-09 13:01:58'
+  id: '2011'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Virtual learning environments: three implementation perspectives &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
+  content: '[...] drawing on Rogers diffusion of innovation work - we gave a summary
+    of this in this paper. Though I did like this quote, particularly the last part
+    Innovation research indicates that there [...]'
+  date: '2009-03-13 21:34:57'
+  date_gmt: '2009-03-13 11:34:57'
+  id: '2012'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Moodle, curriculum mapping, task fit and task corruption &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.196
+  author_url: https://djon.es/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/
+  content: '[...] proposed a model, drawing heavily on Rogers (1995), for evaluating
+    potential web-based innovations (Jones, Jamieson and Clark, 2003). The claim was
+    innovations are largely promoted on the basis of a collection of supposedly [...]'
+  date: '2009-08-17 10:50:13'
+  date_gmt: '2009-08-17 00:50:13'
+  id: '2013'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: rWorld2 &raquo; Blog Archive &raquo; via @dlplaner A Model for Evaluating
+    Potential Web-Based Education Innovations
+  author_email: null
+  author_ip: 217.112.82.152
+  author_url: http://rworld2.brookesblogs.net/2011/04/04/via-dlplaner-a-model-for-evaluating-potential-web-based-education-innovations/
+  content: '[...] Posted by george on April 4th, 2011    Due to the constantly evolving
+    nature of Web-based Education (WBE) it is often difficult for educators to understand
+    the issues, challenges, impact, and effort required to introduce WBE innovations.
+    This lack of knowledge can contribute to the limited adoption and less than successful
+    implementation of WBE innovations. via davidtjones.wordpress.com [...]'
+  date: '2011-04-04 15:53:52'
+  date_gmt: '2011-04-04 05:53:52'
+  id: '2014'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Examining diffusion and sustainability of e-learning strategies thorugh
+    weblog data | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.71
+  author_url: https://djon.es/blog/2013/11/19/examining-diffusion-and-sustainability-of-e-learning-strategies-thorugh-weblog-data/
+  content: '[&#8230;] A Model for Evaluating Potential Web-Based Education&nbsp;Innovations
+    [&#8230;]'
+  date: '2013-11-19 14:01:24'
+  date_gmt: '2013-11-19 04:01:24'
+  id: '2015'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: A Model for Evaluating Potential Web-Based Education Innovations
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: One reason people don&#8217;t take to new e-learning technology &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/
-      content: '[...] Sort of sounds a bit like the insights from TAM and Diffusion of
-        Innovations. [...]'
-      date: '2009-02-11 14:45:39'
-      date_gmt: '2009-02-11 04:45:39'
-      id: '2010'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
-      content: '[...] this paper (Jones, Jamieson and Clark, 2003) we drew on Rogers&#8217;
-        diffusion theory (Rogers, 1995) to [...]'
-      date: '2009-03-09 23:01:58'
-      date_gmt: '2009-03-09 13:01:58'
-      id: '2011'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Virtual learning environments: three implementation perspectives &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
-      content: '[...] drawing on Rogers diffusion of innovation work - we gave a summary
-        of this in this paper. Though I did like this quote, particularly the last part
-        Innovation research indicates that there [...]'
-      date: '2009-03-13 21:34:57'
-      date_gmt: '2009-03-13 11:34:57'
-      id: '2012'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Moodle, curriculum mapping, task fit and task corruption &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.196
-      author_url: https://djon.es/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/
-      content: '[...] proposed a model, drawing heavily on Rogers (1995), for evaluating
-        potential web-based innovations (Jones, Jamieson and Clark, 2003). The claim was
-        innovations are largely promoted on the basis of a collection of supposedly [...]'
-      date: '2009-08-17 10:50:13'
-      date_gmt: '2009-08-17 00:50:13'
-      id: '2013'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: rWorld2 &raquo; Blog Archive &raquo; via @dlplaner A Model for Evaluating
-        Potential Web-Based Education Innovations
-      author_email: null
-      author_ip: 217.112.82.152
-      author_url: http://rworld2.brookesblogs.net/2011/04/04/via-dlplaner-a-model-for-evaluating-potential-web-based-education-innovations/
-      content: '[...] Posted by george on April 4th, 2011    Due to the constantly evolving
-        nature of Web-based Education (WBE) it is often difficult for educators to understand
-        the issues, challenges, impact, and effort required to introduce WBE innovations.
-        This lack of knowledge can contribute to the limited adoption and less than successful
-        implementation of WBE innovations. via davidtjones.wordpress.com [...]'
-      date: '2011-04-04 15:53:52'
-      date_gmt: '2011-04-04 05:53:52'
-      id: '2014'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Examining diffusion and sustainability of e-learning strategies thorugh
-        weblog data | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.71
-      author_url: https://djon.es/blog/2013/11/19/examining-diffusion-and-sustainability-of-e-learning-strategies-thorugh-weblog-data/
-      content: '[&#8230;] A Model for Evaluating Potential Web-Based Education&nbsp;Innovations
-        [&#8230;]'
-      date: '2013-11-19 14:01:24'
-      date_gmt: '2013-11-19 04:01:24'
-      id: '2015'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Kieren Jamieson, Damien Clark, ["A Model for Evaluating Potential WBE Innovations,"](/blog/publications/a-model-for-evaluating-potential-web-based-education-innovations/) Hawaii International Conference on System Sciences, vol. 5, no. 5, pp. 154a, 36th Annual Hawaii International Conference on System Sciences (HICSS'03) - Track 5, 2003.
 
@@ -138,7 +135,7 @@ Many authors (Jacobsen, 1998; Ferrarini and Poindexter, 1999; Ferrarini and Poin
 
 The intent of this paper is to develop a model which can help faculty increase their awareness of potential implementation issues, estimate the likelihood of reinvention, and predict the amount and type of effort required to achieve successful implementation of specific WBE innovations. The model being proposed is based on diagram 1 taken from Rogers (1995, p 207). This diagram proposes that there are five variables that determine the rate of adoption of an innovation.
 
-[![Variables influencing rate of adoption](images/3147336988_0dd909be0d_m.jpg)](http://www.flickr.com/photos/david_jones/3147336988/ "Variables influencing rate of adoption by David T Jones, on Flickr")
+[![Variables influencing rate of adoption](https://djon.es/assets/blog/publications/a-model-for-evaluating-potential-web-based-education-innovations/images/3147336988_0dd909be0d_m.jpg)](http://www.flickr.com/photos/david_jones/3147336988/ "Variables influencing rate of adoption by David T Jones, on Flickr")
 
 _Diagram 1  
 Variables influencing rate of adoption_

@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,50 +6,47 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-06-05 13:56:20+10:00
+comments: []
+date: 2010-06-05 03:56:20
 next:
   text: Object orientation and design patterns
   url: /blog/2010/06/07/object-orientation-and-design-patterns/
+pingbacks:
+- approved: '1'
+  author: Course websites and &#8220;libertarian paternalism&#8221; &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.144
+  author_url: https://djon.es/blog/2010/06/08/course-websites-and-libertarian-paternalism/
+  content: '[...] theory was/is that an appropriately skilled group, taking an adopter-focused
+    and emergent development approach could develop a default course site that could
+    effectively be used by a group [...]'
+  date: '2010-06-08 09:28:39'
+  date_gmt: '2010-06-07 23:28:39'
+  id: '3081'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Workarounds &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.38
+  author_url: https://djon.es/blog/2010/06/13/workarounds/
+  content: '[...] section of chapter 5 of my thesis. The aim here is to try and illustrate
+    how the combination of the agile and adopted-focused development process of Webfuse,
+    when combined with the design of Webfuse [...]'
+  date: '2010-06-13 09:21:56'
+  date_gmt: '2010-06-12 23:21:56'
+  id: '3082'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The road not taken
   url: /blog/2010/06/05/the-road-not-taken/
+template: blog-post.html
 title: Emergent and agile development
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Course websites and &#8220;libertarian paternalism&#8221; &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.144
-      author_url: https://djon.es/blog/2010/06/08/course-websites-and-libertarian-paternalism/
-      content: '[...] theory was/is that an appropriately skilled group, taking an adopter-focused
-        and emergent development approach could develop a default course site that could
-        effectively be used by a group [...]'
-      date: '2010-06-08 09:28:39'
-      date_gmt: '2010-06-07 23:28:39'
-      id: '3081'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Workarounds &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.38
-      author_url: https://djon.es/blog/2010/06/13/workarounds/
-      content: '[...] section of chapter 5 of my thesis. The aim here is to try and illustrate
-        how the combination of the agile and adopted-focused development process of Webfuse,
-        when combined with the design of Webfuse [...]'
-      date: '2010-06-13 09:21:56'
-      date_gmt: '2010-06-12 23:21:56'
-      id: '3082'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the second of the sections from my [thesis](/blog/research/phd-thesis/) that describe the various changes made to Webfuse and how it was implemented during the years 2000-2004 (and a bit beyond). It's a rough first draft. The [first section](/blog/2010/06/04/adopter-focused-development-and-diffusion-theory/) describes how the Webfuse development process came to be very focused on the potential adopters of Webfuse. This section describes why and how the Webfuse development process became more emergent/agile.
 

@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - reflectivealignment
-date: 2010-04-15 11:03:58+10:00
+comments: []
+date: 2010-04-15 01:03:58
 next:
   text: Framing a body of research and innovation
   url: /blog/2010/04/15/framing-a-body-of-research-and-innovation/
+pingbacks:
+- approved: '1'
+  author: Salutogenesis &laquo; Mathehu&#039;s Weblog
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: http://mathehu.wordpress.com/2010/04/15/salutogenesis/
+  content: '[...] As a first and quick response to David&#8217;s blog, I uploaded
+    a Powerpoint presentation on Salutogenesis. This should help to get a rough [...]'
+  date: '2010-04-15 15:00:37'
+  date_gmt: '2010-04-15 05:00:37'
+  id: '3008'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Identifying and designing interventions to improve L&#038;T - a behaviour
     change framework?
   url: /blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
+template: blog-post.html
 title: '"Further thinking - behaviour change and improving L&#038;T"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Salutogenesis &laquo; Mathehu&#039;s Weblog
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: http://mathehu.wordpress.com/2010/04/15/salutogenesis/
-      content: '[...] As a first and quick response to David&#8217;s blog, I uploaded
-        a Powerpoint presentation on Salutogenesis. This should help to get a rough [...]'
-      date: '2010-04-15 15:00:37'
-      date_gmt: '2010-04-15 05:00:37'
-      id: '3008'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This post is an attempt to synthesize and reflect more upon two posts from yesterday. [One from me](/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/) trying to explain an early form of a framework for improving L&T based on findings from psychology behavior change research. [The second](http://mathehu.wordpress.com/2010/04/14/is-behaviour-change-the-best-approach-to-improve-learning-and-teaching-at-universities/) from Markus that expands on the potential psychological foundations for this thinking by mentioning:
 

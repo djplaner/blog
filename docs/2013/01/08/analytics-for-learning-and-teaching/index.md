@@ -1,80 +1,77 @@
----
+﻿---
 categories:
 - indicators
 - learninganalytics-elearning
-date: 2013-01-08 15:05:10+10:00
+comments: []
+date: 2013-01-08 05:05:10
 next:
   text: '"Translating Learning into Numbers: A Generic Framework for Learning Analytics"'
   url: /blog/2013/01/09/translating-learning-into-numbers-a-generic-framework-for-learning-analytics/
+pingbacks:
+- approved: '1'
+  author: Analytics for Learning and Teaching | Educaci&oacute;n Expandida y Aumentada
+    | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educacion-expandida-aumentada/p/3994274742/analytics-for-learning-and-teaching
+  content: '[...] The following is a summary and some reflection upon a CETIS report
+    (Harmelen and Workman, 2012) titled Analytics for Learning and Teaching. One of
+    the reasons for reading this is the current consid...&nbsp; [...]'
+  date: '2013-01-08 22:31:51'
+  date_gmt: '2013-01-08 12:31:51'
+  id: '566'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Analytics for Learning and Teaching &laquo; Mi Blog
+  author_email: null
+  author_ip: 66.155.9.48
+  author_url: http://ravsirius.wordpress.com/2013/01/08/analytics-for-learning-and-teaching/
+  content: '[...] See on davidtjones.wordpress.com [...]'
+  date: '2013-01-08 22:32:21'
+  date_gmt: '2013-01-08 12:32:21'
+  id: '567'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Analytics for Learning and Teaching | Personal e-Learning Environments |
+    Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educational-landscapes/p/3994737910/analytics-for-learning-and-teaching
+  content: '[...] The following is a summary and some reflection upon a CETIS report
+    (Harmelen and Workman, 2012) titled Analytics for Learning and Teaching. One of
+    the reasons for reading this is the current consid...&nbsp; [...]'
+  date: '2013-01-09 07:26:18'
+  date_gmt: '2013-01-08 21:26:18'
+  id: '568'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Translating Learning into Numbers: A Generic Framework for Learning Analytics
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.232.113.11
+  author_url: https://djon.es/blog/2013/01/09/translating-learning-into-numbers-a-generic-framework-for-learning-analytics/
+  content: '[...] The following is a summary of and commentary on Greller and Drachsler
+    (2012). I come to this via the JISC/CETIS report I summarised yesterday [...]'
+  date: '2013-01-09 14:38:32'
+  date_gmt: '2013-01-09 04:38:32'
+  id: '569'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM 2.0 - cleaning up part 3
   url: /blog/2013/01/06/bim-2-0-cleaning-up-part-3/
 tags:
 - analytics
+template: blog-post.html
 title: Analytics for Learning and Teaching
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Analytics for Learning and Teaching | Educaci&oacute;n Expandida y Aumentada
-        | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educacion-expandida-aumentada/p/3994274742/analytics-for-learning-and-teaching
-      content: '[...] The following is a summary and some reflection upon a CETIS report
-        (Harmelen and Workman, 2012) titled Analytics for Learning and Teaching. One of
-        the reasons for reading this is the current consid...&nbsp; [...]'
-      date: '2013-01-08 22:31:51'
-      date_gmt: '2013-01-08 12:31:51'
-      id: '566'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Analytics for Learning and Teaching &laquo; Mi Blog
-      author_email: null
-      author_ip: 66.155.9.48
-      author_url: http://ravsirius.wordpress.com/2013/01/08/analytics-for-learning-and-teaching/
-      content: '[...] See on davidtjones.wordpress.com [...]'
-      date: '2013-01-08 22:32:21'
-      date_gmt: '2013-01-08 12:32:21'
-      id: '567'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Analytics for Learning and Teaching | Personal e-Learning Environments |
-        Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educational-landscapes/p/3994737910/analytics-for-learning-and-teaching
-      content: '[...] The following is a summary and some reflection upon a CETIS report
-        (Harmelen and Workman, 2012) titled Analytics for Learning and Teaching. One of
-        the reasons for reading this is the current consid...&nbsp; [...]'
-      date: '2013-01-09 07:26:18'
-      date_gmt: '2013-01-08 21:26:18'
-      id: '568'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Translating Learning into Numbers: A Generic Framework for Learning Analytics
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.232.113.11
-      author_url: https://djon.es/blog/2013/01/09/translating-learning-into-numbers-a-generic-framework-for-learning-analytics/
-      content: '[...] The following is a summary of and commentary on Greller and Drachsler
-        (2012). I come to this via the JISC/CETIS report I summarised yesterday [...]'
-      date: '2013-01-09 14:38:32'
-      date_gmt: '2013-01-09 04:38:32'
-      id: '569'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary and some reflection upon a CETIS report (Harmelen and Workman, 2012) titled [Analytics for Learning and Teaching](http://publications.cetis.ac.uk/2012/516). One of the reasons for reading this is the current considerations around reworking and resubmitting a [unsuccessful OLT application](/blog/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/) around learning analytics.
 

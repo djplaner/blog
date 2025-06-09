@@ -1,45 +1,42 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-08-28 16:57:23+10:00
+comments:
+- approved: '1'
+  author: astrethewey
+  author_email: astrethewey@hotmail.com
+  author_ip: 58.7.244.164
+  author_url: http://astrethewey.wordpress.com
+  content: David, you have made reference to my post, but I think you mean Tracey!
+  date: '2014-08-28 17:00:43'
+  date_gmt: '2014-08-28 07:00:43'
+  id: '1061'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: Yep, fixed.  Thanks.
+  date: '2014-08-28 17:07:54'
+  date_gmt: '2014-08-28 07:07:54'
+  id: '1062'
+  parent: '1061'
+  type: comment
+  user_id: '1'
+date: 2014-08-28 06:57:23
 next:
   text: Counting the uncountable - NGL participation
   url: /blog/2014/09/01/counting-the-uncountable-ngl-participation/
+pingbacks: []
 previous:
   text: On trying to be optimistic in a stupid world
   url: /blog/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/
+template: blog-post.html
 title: Personality and other factors in education
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: astrethewey
-      author_email: astrethewey@hotmail.com
-      author_ip: 58.7.244.164
-      author_url: http://astrethewey.wordpress.com
-      content: David, you have made reference to my post, but I think you mean Tracey!
-      date: '2014-08-28 17:00:43'
-      date_gmt: '2014-08-28 07:00:43'
-      id: '1061'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: Yep, fixed.  Thanks.
-      date: '2014-08-28 17:07:54'
-      date_gmt: '2014-08-28 07:07:54'
-      id: '1062'
-      parent: '1061'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Tracey's found her blogging mojo with a raft of posts (new since I last looked) including [this one](http://learningforinsight.wordpress.com/2014/08/25/conscientiousness-creativity-and-an-online-educational-future/) linking to work that identifies conscientiousness as the main secret to success in much of life. The focus on personality is in common the connections to Myers-Briggs and related ideas that [Brendon](http://willocksb.wordpress.com/2014/08/25/gathering-some-data/) and [Anne](http://astrethewey.wordpress.com/2014/08/28/more-than-you-might-think/) have touched on.
 

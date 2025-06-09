@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - bim
-date: 2010-02-07 21:35:58+10:00
+comments: []
+date: 2010-02-07 11:35:58
 next:
   text: BIM - Allowing staff to change student registrations
   url: /blog/2010/02/09/bim-allowing-staff-to-change-student-registrations/
+pingbacks:
+- approved: '1'
+  author: 'BIM &#8211; Tidy up #4 &#8211; Getting ready for user testing &laquo; The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.104.49
+  author_url: https://djon.es/blog/2010/02/04/bim-tidy-up-4-getting-ready-for-user-testing/
+  content: '[...] Gradebook stuff. &#8211; moving to another post [...]'
+  date: '2010-02-07 21:39:06'
+  date_gmt: '2010-02-07 11:39:06'
+  id: '2926'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - backup and restore
   url: /blog/2010/02/07/bim-backup-and-restore/
+template: blog-post.html
 title: BIM - talking to the gradebook
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'BIM &#8211; Tidy up #4 &#8211; Getting ready for user testing &laquo; The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.104.49
-      author_url: https://djon.es/blog/2010/02/04/bim-tidy-up-4-getting-ready-for-user-testing/
-      content: '[...] Gradebook stuff. &#8211; moving to another post [...]'
-      date: '2010-02-07 21:39:06'
-      date_gmt: '2010-02-07 11:39:06'
-      id: '2926'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 One of the bigger tasks left to do is to integrate BIM with the gradebook. Some [initial exploration](/blog/2010/01/26/bim-sending-results-to-the-gradebook/) has been done, this post seeks to document the initial implementation.
 

@@ -1,52 +1,49 @@
----
+﻿---
 categories:
 - bim2
 - edc3100
-date: 2013-07-07 12:32:50+10:00
+comments:
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://users.on.net/~iancreid/
+  content: I was really sad when Reader was killed off. I tried feedly for a while
+    but found the interface cumbersome and difficult to navigate. I now use netvibes
+    and like it very much - especially its two alternative views of the feeds - each
+    is useful for different types of tasks.
+  date: '2013-07-26 10:54:04'
+  date_gmt: '2013-07-26 00:54:04'
+  id: '806'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.80.65
+  author_url: https://djon.es/blog/
+  content: Know a few people who had a similar experience with Feedly. I'm adapting
+    to it.  Not finding it that bad.  But then I never used Google Reader in anger.
+    So perhaps I'm coming with a lower level of expectation.  The absence of search
+    is perhaps the biggest problem.
+  date: '2013-07-26 14:18:48'
+  date_gmt: '2013-07-26 04:18:48'
+  id: '807'
+  parent: '806'
+  type: comment
+  user_id: '1'
+date: 2013-07-07 02:32:50
 next:
   text: IRAC - Four questions for learning analytics interventions
   url: /blog/2013/07/14/irac-four-questions-for-learning-analytics-interventions/
+pingbacks: []
 previous:
   text: When is learning analytics not about the students?
   url: /blog/2013/07/02/when-is-learning-analytics-not-about-the-students/
+template: blog-post.html
 title: A quick search for a Google reader alternative
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://users.on.net/~iancreid/
-      content: I was really sad when Reader was killed off. I tried feedly for a while
-        but found the interface cumbersome and difficult to navigate. I now use netvibes
-        and like it very much - especially its two alternative views of the feeds - each
-        is useful for different types of tasks.
-      date: '2013-07-26 10:54:04'
-      date_gmt: '2013-07-26 00:54:04'
-      id: '806'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.80.65
-      author_url: https://djon.es/blog/
-      content: Know a few people who had a similar experience with Feedly. I'm adapting
-        to it.  Not finding it that bad.  But then I never used Google Reader in anger.
-        So perhaps I'm coming with a lower level of expectation.  The absence of search
-        is perhaps the biggest problem.
-      date: '2013-07-26 14:18:48'
-      date_gmt: '2013-07-26 04:18:48'
-      id: '807'
-      parent: '806'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 **Update:** A student from last semester has shared her experiences from last semester using Feedly. The big limitation with Feedly is the absence of a search facility. But then it appears that this is a limitation of [all the competitors](http://www.fastcolabs.com/3007556/tracking/lessons-google-reader-reaction) as well (for now).
 

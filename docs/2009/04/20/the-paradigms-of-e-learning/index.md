@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,289 +6,287 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-04-20 22:04:41+10:00
+comments:
+- approved: '1'
+  author: jonmott
+  author_email: jonmott@byu.edu
+  author_ip: 75.169.83.224
+  author_url: null
+  content: 'David,
+
+
+    I love the notion of the LMS as but another "collection of paradigms," bound to
+    be replaced by the next, better, evolved collection of paradigms. While momentum
+    is building around the PLE, I''m convinced that the next iteration of the online
+    learning infrastructure will be something more like an "open learning network"
+    that''s a hybrid between the LMS and the PLE. By bringing together the best of
+    the LMS (SIS integration for course rosters and grade posting) and the PLE (dynamic
+    flexibility, social networking) we could create something pretty remarkable. If
+    you''re interested in reading more of my thoughts on this direction, I blog about
+    it at http:/jonmott.com.
+
+
+    And thanks for sharing this great literature review!
+
+
+    Jon'
+  date: '2009-09-17 23:23:06'
+  date_gmt: '2009-09-17 13:23:06'
+  id: '2414'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Jon,
+
+
+    Thanks for the comment.
+
+
+    I actually have your blog in my RSS feed - though as I near the end of writing
+    up the thesis I have to admit to ignoring feeds in the interest of preventing
+    procrastination when it comes to writing (a major problem of mine).
+
+
+    I added your feed because of your work around loosely-coupled assessment and how
+    it connects with some work I''m doing on a project called BAM/BIM https://djon.es/blog/research/bam-blog-aggregation-management/
+
+
+    Following up on the connection is on the list of post-thesis tasks.  I look forward
+    to it.
+
+
+    David.'
+  date: '2009-09-17 23:40:06'
+  date_gmt: '2009-09-17 13:40:06'
+  id: '2415'
+  parent: '2414'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: drkelvinthompson
+  author_email: kthompso@mail.ucf.edu
+  author_ip: 132.170.113.26
+  author_url: null
+  content: 'David:
+
+
+    I think this is interesting work that you''re doing, and I hope to read the whole
+    thing after you defend.
+
+
+    This is a rather piddly observation given the scope of the ideas you''re dealing
+    with, but, in my mind at least, it bears attention.
+
+
+    It seems to me that all the paradigms but one are categorized by how "production"
+    occurs. However, arguably, the first paradigm is not about production at all.
+    Computer-mediated communications is more about a pedagogical approach (or instructional
+    model). Now, you may have operationally defined your use of CMC in the noted previous
+    chapter and therefore rendered my observation moot, but I thought I''d point it
+    out.
+
+
+    It seems to me that CMC as an approach persists in the mental models of "online
+    courses" *across* all the other production paradigms you''ve noted. (It is not
+    the only one, but in my experience, it certainly seems to be the *dominant* one
+    in higher education.)
+
+
+    I''d love to see you address this somehow!
+
+
+    All the best,
+
+
+    Kelvin'
+  date: '2009-09-18 00:12:52'
+  date_gmt: '2009-09-17 14:12:52'
+  id: '2416'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Kelvin,
+
+
+    Thanks for the comment. I see what you mean, but I need to reflect a bit more.  I
+    hope to blog about this in the coming weeks.  I have a nascent idea or two but
+    need to consider.
+
+
+    If you really want to read the finished thesis, my plan is to stick it on the
+    blog once done.  Hopefully before the year is out.....
+
+
+    David.'
+  date: '2009-09-18 08:34:28'
+  date_gmt: '2009-09-17 22:34:28'
+  id: '2417'
+  parent: '2416'
+  type: comment
+  user_id: '1'
+date: 2009-04-20 12:04:41
 next:
   text: Pedagogy of the impressed - how teachers become victims of technology vision
   url: /blog/2009/04/22/pedagogy-of-the-impressed-how-teachers-become-victims-of-technology-vision/
+pingbacks:
+- approved: '1'
+  author: Pedagogy of the impressed - how teachers become victims of technology vision
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.206
+  author_url: https://djon.es/blog/2009/04/22/pedagogy-of-the-impressed-how-teachers-become-victims-of-technology-vision/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    The paradigms of&nbsp;e-learning [...]'
+  date: '2009-04-22 11:14:27'
+  date_gmt: '2009-04-22 01:14:27'
+  id: '2407'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: E-learning usage - quality &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.211
+  author_url: https://djon.es/blog/2009/04/22/e-learning-usage-quality/
+  content: '[...] E-learning usage -&nbsp;quality  The following post is a continuation
+    of posts from the &#8220;Past Experience&#8221; section of chapter 2 of my thesis.
+    It follows on from previous posts including: Ps Framework, History of technology-mediated
+    learning, and the paradigms of e-learning. [...]'
+  date: '2009-04-22 12:37:04'
+  date_gmt: '2009-04-22 02:37:04'
+  id: '2408'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.85
+  author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
+  content: '[...] paradigms of e-learning. DONE! [...]'
+  date: '2009-04-24 15:01:29'
+  date_gmt: '2009-04-24 05:01:29'
+  id: '2409'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons for e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/04/25/lessons-for-e-learning/
+  content: '[...] for this section is already on the blog, including: History of technology-mediated
+    learning, Paradigms of e-learning, e-learning usage - quality, and e-learning
+    usage - [...]'
+  date: '2009-04-25 16:10:16'
+  date_gmt: '2009-04-25 06:10:16'
+  id: '2410'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Integration with professional lives of academics - why industrial e-learning
+    fails and why post-industrial might work &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/04/29/integration-with-professional-lives-of-academics-why-industrial-e-learning-fails-and-why-post-industrial-might-work/
+  content: '[...] an earlier post I suggested that there have been, so far, 6 different
+    paradigms of e-learning within universities. [...]'
+  date: '2009-04-29 14:08:16'
+  date_gmt: '2009-04-29 04:08:16'
+  id: '2411'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Institutional e-learning strategies &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/06/17/institutional-e-learning-strategies/
+  content: '[...] to add e-learning to mission statements and strategic plans. In
+    large part because the rise of the industrial e-learning paradigm is creating
+    a growing perception of the need for institutional strategies to guide the [...]'
+  date: '2009-06-17 11:41:27'
+  date_gmt: '2009-06-17 01:41:27'
+  id: '2412'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What can history tell us about e-learning and its future? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+  content: '[...] section will draw on the paradigms of e-learning. It may also draw
+    on some of the ideas contained in this TED talk by Chris Anderson around the four
+    [...]'
+  date: '2009-06-18 10:50:52'
+  date_gmt: '2009-06-18 00:50:52'
+  id: '2413'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Col&#039;s Weblog
+  author_email: null
+  author_ip: 74.200.247.246
+  author_url: http://beerc.wordpress.com/2011/04/03/490/
+  content: '[...] is twofold. Firstly it adds to the entrenchment of the learning
+    management system (LMS) as the dominant paradigm further removing flexibility
+    from the system in the overall sense. Secondly, it seems to ignore the [...]'
+  date: '2011-04-03 11:08:18'
+  date_gmt: '2011-04-03 01:08:18'
+  id: '2418'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Starting the re-design of EDC3100 &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.25
+  author_url: https://djon.es/blog/2012/07/20/starting-the-re-design-of-edc3100/
+  content: '[...] some perspectives, the institution and its perspective of e-learning
+    seems somewhat stuck in the &#8220;industrial e-learning&#8221; paradigm. The
+    LMS and the institutional policies seem to want to keep online learning constrained
+    to the [...]'
+  date: '2012-07-20 11:29:45'
+  date_gmt: '2012-07-20 01:29:45'
+  id: '2419'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: One example of industrial e-learning as &#8220;on the web&#8221; not &#8220;of
+    the web&#8221; &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 69.170.134.165
+  author_url: https://djon.es/blog/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/
+  content: '[...] of the shortcomings of industrial e-learning. Industrial e-learning
+    is the label I&#8217;ve applied to the current common paradigm of e-learning adopted
+    by most universities. It&#8217;s techno-rational in its foundations and [...]'
+  date: '2012-09-07 09:35:32'
+  date_gmt: '2012-09-06 23:35:32'
+  id: '2420'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Performance degradation - impact of new LMS implementation
   url: /blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
+template: blog-post.html
 title: The paradigms of e-learning
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: jonmott
-      author_email: jonmott@byu.edu
-      author_ip: 75.169.83.224
-      author_url: null
-      content: 'David,
-    
-    
-        I love the notion of the LMS as but another "collection of paradigms," bound to
-        be replaced by the next, better, evolved collection of paradigms. While momentum
-        is building around the PLE, I''m convinced that the next iteration of the online
-        learning infrastructure will be something more like an "open learning network"
-        that''s a hybrid between the LMS and the PLE. By bringing together the best of
-        the LMS (SIS integration for course rosters and grade posting) and the PLE (dynamic
-        flexibility, social networking) we could create something pretty remarkable. If
-        you''re interested in reading more of my thoughts on this direction, I blog about
-        it at http:/jonmott.com.
-    
-    
-        And thanks for sharing this great literature review!
-    
-    
-        Jon'
-      date: '2009-09-17 23:23:06'
-      date_gmt: '2009-09-17 13:23:06'
-      id: '2414'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Jon,
-    
-    
-        Thanks for the comment.
-    
-    
-        I actually have your blog in my RSS feed - though as I near the end of writing
-        up the thesis I have to admit to ignoring feeds in the interest of preventing
-        procrastination when it comes to writing (a major problem of mine).
-    
-    
-        I added your feed because of your work around loosely-coupled assessment and how
-        it connects with some work I''m doing on a project called BAM/BIM https://djon.es/blog/research/bam-blog-aggregation-management/
-    
-    
-        Following up on the connection is on the list of post-thesis tasks.  I look forward
-        to it.
-    
-    
-        David.'
-      date: '2009-09-17 23:40:06'
-      date_gmt: '2009-09-17 13:40:06'
-      id: '2415'
-      parent: '2414'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: drkelvinthompson
-      author_email: kthompso@mail.ucf.edu
-      author_ip: 132.170.113.26
-      author_url: null
-      content: 'David:
-    
-    
-        I think this is interesting work that you''re doing, and I hope to read the whole
-        thing after you defend.
-    
-    
-        This is a rather piddly observation given the scope of the ideas you''re dealing
-        with, but, in my mind at least, it bears attention.
-    
-    
-        It seems to me that all the paradigms but one are categorized by how "production"
-        occurs. However, arguably, the first paradigm is not about production at all.
-        Computer-mediated communications is more about a pedagogical approach (or instructional
-        model). Now, you may have operationally defined your use of CMC in the noted previous
-        chapter and therefore rendered my observation moot, but I thought I''d point it
-        out.
-    
-    
-        It seems to me that CMC as an approach persists in the mental models of "online
-        courses" *across* all the other production paradigms you''ve noted. (It is not
-        the only one, but in my experience, it certainly seems to be the *dominant* one
-        in higher education.)
-    
-    
-        I''d love to see you address this somehow!
-    
-    
-        All the best,
-    
-    
-        Kelvin'
-      date: '2009-09-18 00:12:52'
-      date_gmt: '2009-09-17 14:12:52'
-      id: '2416'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Kelvin,
-    
-    
-        Thanks for the comment. I see what you mean, but I need to reflect a bit more.  I
-        hope to blog about this in the coming weeks.  I have a nascent idea or two but
-        need to consider.
-    
-    
-        If you really want to read the finished thesis, my plan is to stick it on the
-        blog once done.  Hopefully before the year is out.....
-    
-    
-        David.'
-      date: '2009-09-18 08:34:28'
-      date_gmt: '2009-09-17 22:34:28'
-      id: '2417'
-      parent: '2416'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Pedagogy of the impressed - how teachers become victims of technology vision
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.206
-      author_url: https://djon.es/blog/2009/04/22/pedagogy-of-the-impressed-how-teachers-become-victims-of-technology-vision/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        The paradigms of&nbsp;e-learning [...]'
-      date: '2009-04-22 11:14:27'
-      date_gmt: '2009-04-22 01:14:27'
-      id: '2407'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: E-learning usage - quality &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.211
-      author_url: https://djon.es/blog/2009/04/22/e-learning-usage-quality/
-      content: '[...] E-learning usage -&nbsp;quality  The following post is a continuation
-        of posts from the &#8220;Past Experience&#8221; section of chapter 2 of my thesis.
-        It follows on from previous posts including: Ps Framework, History of technology-mediated
-        learning, and the paradigms of e-learning. [...]'
-      date: '2009-04-22 12:37:04'
-      date_gmt: '2009-04-22 02:37:04'
-      id: '2408'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.85
-      author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
-      content: '[...] paradigms of e-learning. DONE! [...]'
-      date: '2009-04-24 15:01:29'
-      date_gmt: '2009-04-24 05:01:29'
-      id: '2409'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons for e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/04/25/lessons-for-e-learning/
-      content: '[...] for this section is already on the blog, including: History of technology-mediated
-        learning, Paradigms of e-learning, e-learning usage - quality, and e-learning
-        usage - [...]'
-      date: '2009-04-25 16:10:16'
-      date_gmt: '2009-04-25 06:10:16'
-      id: '2410'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Integration with professional lives of academics - why industrial e-learning
-        fails and why post-industrial might work &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/04/29/integration-with-professional-lives-of-academics-why-industrial-e-learning-fails-and-why-post-industrial-might-work/
-      content: '[...] an earlier post I suggested that there have been, so far, 6 different
-        paradigms of e-learning within universities. [...]'
-      date: '2009-04-29 14:08:16'
-      date_gmt: '2009-04-29 04:08:16'
-      id: '2411'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Institutional e-learning strategies &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/06/17/institutional-e-learning-strategies/
-      content: '[...] to add e-learning to mission statements and strategic plans. In
-        large part because the rise of the industrial e-learning paradigm is creating
-        a growing perception of the need for institutional strategies to guide the [...]'
-      date: '2009-06-17 11:41:27'
-      date_gmt: '2009-06-17 01:41:27'
-      id: '2412'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What can history tell us about e-learning and its future? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
-      content: '[...] section will draw on the paradigms of e-learning. It may also draw
-        on some of the ideas contained in this TED talk by Chris Anderson around the four
-        [...]'
-      date: '2009-06-18 10:50:52'
-      date_gmt: '2009-06-18 00:50:52'
-      id: '2413'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Col&#039;s Weblog
-      author_email: null
-      author_ip: 74.200.247.246
-      author_url: http://beerc.wordpress.com/2011/04/03/490/
-      content: '[...] is twofold. Firstly it adds to the entrenchment of the learning
-        management system (LMS) as the dominant paradigm further removing flexibility
-        from the system in the overall sense. Secondly, it seems to ignore the [...]'
-      date: '2011-04-03 11:08:18'
-      date_gmt: '2011-04-03 01:08:18'
-      id: '2418'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Starting the re-design of EDC3100 &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.25
-      author_url: https://djon.es/blog/2012/07/20/starting-the-re-design-of-edc3100/
-      content: '[...] some perspectives, the institution and its perspective of e-learning
-        seems somewhat stuck in the &#8220;industrial e-learning&#8221; paradigm. The
-        LMS and the institutional policies seem to want to keep online learning constrained
-        to the [...]'
-      date: '2012-07-20 11:29:45'
-      date_gmt: '2012-07-20 01:29:45'
-      id: '2419'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: One example of industrial e-learning as &#8220;on the web&#8221; not &#8220;of
-        the web&#8221; &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 69.170.134.165
-      author_url: https://djon.es/blog/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/
-      content: '[...] of the shortcomings of industrial e-learning. Industrial e-learning
-        is the label I&#8217;ve applied to the current common paradigm of e-learning adopted
-        by most universities. It&#8217;s techno-rational in its foundations and [...]'
-      date: '2012-09-07 09:35:32'
-      date_gmt: '2012-09-06 23:35:32'
-      id: '2420'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm currently working on chapter 2 of my [thesis](/blog/research/phd-thesis/) - the literature review. Mine is using the [Ps Framework](/blog/2009/03/18/the-ps-framework/) as the organising structure and also as part of the contribution of the thesis. I'm currently working on the "Past Experience" component of the Ps Framework. Recently, I posted the [History of technology mediated learning](/blog/2009/04/17/a-history-of-technology-mediated-learning/) section. It provides a brief overview of technology-mediated learning prior to e-learning - defined as using the Internet.
 

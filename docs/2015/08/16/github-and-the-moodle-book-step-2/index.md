@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - moodleopenbook
-date: 2015-08-16 17:27:55+10:00
+comments: []
+date: 2015-08-16 07:27:55
 next:
   text: There's more to it than the Internet and social software
   url: /blog/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/
+pingbacks:
+- approved: '1'
+  author: github and the Moodle &#8211; Step 3 | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.160
+  author_url: https://davidtjones.wordpress.com/2015/08/20/github-and-the-moodle-step-3/
+  content: '[&#8230;] to follow up step 2 in connecting github and the Moodle book
+    [&#8230;]'
+  date: '2015-08-22 16:04:30'
+  date_gmt: '2015-08-22 06:04:30'
+  id: '1376'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Bringing github and the Moodle book module together - step 1
   url: /blog/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/
+template: blog-post.html
 title: github and the Moodle book - Step 2
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: github and the Moodle &#8211; Step 3 | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.160
-      author_url: https://davidtjones.wordpress.com/2015/08/20/github-and-the-moodle-step-3/
-      content: '[&#8230;] to follow up step 2 in connecting github and the Moodle book
-        [&#8230;]'
-      date: '2015-08-22 16:04:30'
-      date_gmt: '2015-08-22 06:04:30'
-      id: '1376'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The continuing story of linking github and the Moodle book module. Following on from [step 1](/blog/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/) the main aim here is to grok [the PHP client](https://github.com/tan-tan-kanarek/github-php-client) for the github api I'm currently chosen.
 

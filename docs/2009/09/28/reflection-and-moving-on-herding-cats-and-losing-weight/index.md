@@ -1,33 +1,30 @@
----
+﻿---
 categories:
 - cck09
-date: 2009-09-28 15:01:58+10:00
+comments:
+- approved: '1'
+  author: durff01
+  author_email: mrsdurff@gmail.com
+  author_ip: 68.83.148.178
+  author_url: null
+  content: What a great title! Herding cats indeed!!
+  date: '2009-09-29 11:59:39'
+  date_gmt: '2009-09-29 01:59:39'
+  id: '2769'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-09-28 05:01:58
 next:
   text: Small changes in "Lectures" - ustream, votapedia
   url: /blog/2009/09/28/small-changes-in-lectures-ustream-votapedia/
+pingbacks: []
 previous:
   text: 'e&#038;i report #3 - 1st-15th September'
   url: /blog/2009/09/15/ei-report-3-1st-15th-september/
+template: blog-post.html
 title: Reflection and moving on - herding cats and losing weight
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: durff01
-      author_email: mrsdurff@gmail.com
-      author_ip: 68.83.148.178
-      author_url: null
-      content: What a great title! Herding cats indeed!!
-      date: '2009-09-29 11:59:39'
-      date_gmt: '2009-09-29 01:59:39'
-      id: '2769'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 For the last couple of weeks I have been focused on developing and giving a presentation titled [Herding cats and losing weight: How to improve learning and teaching.](/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/) The abstract, slides and video of the talk are all available on [the presentation page](/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/). The following is an attempt to reflect on the talk, how it went and some recent readings/events which may influence how it goes moving forward.
 

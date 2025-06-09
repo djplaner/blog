@@ -1,21 +1,21 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - innovation
 - phd
 - psframework
-date: 2009-05-25 14:51:39+10:00
+date: 2009-05-25 04:51:39
 next:
   text: A night at Ezard
   url: /blog/2009/05/27/a-night-at-ezard/
 previous:
   text: Teleological and ateleological processes
   url: /blog/2009/05/25/teleological-and-ateleological-processes/
+template: blog-post.html
 title: What are the conditions that are conducive to the creation of a variety of
   new ideas?
 type: post
-template: blog-post.html
 ---
 I'm currently working on the [Process](/blog/2009/05/25/teleological-and-ateleological-processes/) section of my [thesis](/blog/research/phd-thesis/). As part of that I'm referring back to a book chapter (that was a conference paper) by [Bo Carlsson](http://weatherhead.case.edu/research/faculty/profile.cfm?id=5252) (2004) titled "Public policy as a form of design". This post is an attempt to summarise some of the points made in that chapter as they are connected to [my new job](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
 

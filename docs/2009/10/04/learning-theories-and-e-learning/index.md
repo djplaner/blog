@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,64 +6,61 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-10-04 13:46:49+10:00
+comments: []
+date: 2009-10-04 03:46:49
 next:
   text: Lessons from Pedagogy for e-learning
   url: /blog/2009/10/04/lessons-from-pedagogy-for-e-learning/
+pingbacks:
+- approved: '1'
+  author: New Learning Theories for a New Educational Approach? | Learning Outside
+    The Classroom
+  author_email: null
+  author_ip: 74.200.244.22
+  author_url: http://uoitonlinetech.wordpress.com/2012/05/28/new-learning-theories-for-a-new-educational-approach/
+  content: '[...] Jones, David. (2009). The Weblog of (a) David Jones. Retrieved from
+    https://djon.es/blog/2009/10/04/learning-theories-and-e-learning/ [...]'
+  date: '2012-05-29 08:13:36'
+  date_gmt: '2012-05-28 22:13:36'
+  id: '2776'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Learning theories and e-learning | Bridging the Gap in Higher Ed | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/bridging-the-gap/p/3997177389/learning-theories-and-e-learning
+  content: '[...] It&#039;s almost a month since the last post from the first draft
+    of my thesis. So, after much time away here&#039;s the next installment. It&#039;s
+    probably rougher than previous versions - which says something ...&nbsp; [...]'
+  date: '2013-02-19 18:32:31'
+  date_gmt: '2013-02-19 08:32:31'
+  id: '2777'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Learning theories and e-learning | Learning the...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/learning-theories-and-e-learning/p/4005623972/learning-theories-and-e-learning
+  content: '[&#8230;] It&#039;s almost a month since the last post from the first
+    draft of my thesis. So, after much time away here&#039;s the next installment.
+    It&#039;s probably rougher than previous versions - which says something ...&nbsp;
+    [&#8230;]'
+  date: '2013-08-04 16:11:46'
+  date_gmt: '2013-08-04 06:11:46'
+  id: '2778'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Online learning better than blended learning?
   url: /blog/2009/10/04/online-learning-better-than-blended-learning/
+template: blog-post.html
 title: Learning theories and e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: New Learning Theories for a New Educational Approach? | Learning Outside
-        The Classroom
-      author_email: null
-      author_ip: 74.200.244.22
-      author_url: http://uoitonlinetech.wordpress.com/2012/05/28/new-learning-theories-for-a-new-educational-approach/
-      content: '[...] Jones, David. (2009). The Weblog of (a) David Jones. Retrieved from
-        https://djon.es/blog/2009/10/04/learning-theories-and-e-learning/ [...]'
-      date: '2012-05-29 08:13:36'
-      date_gmt: '2012-05-28 22:13:36'
-      id: '2776'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Learning theories and e-learning | Bridging the Gap in Higher Ed | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/bridging-the-gap/p/3997177389/learning-theories-and-e-learning
-      content: '[...] It&#039;s almost a month since the last post from the first draft
-        of my thesis. So, after much time away here&#039;s the next installment. It&#039;s
-        probably rougher than previous versions - which says something ...&nbsp; [...]'
-      date: '2013-02-19 18:32:31'
-      date_gmt: '2013-02-19 08:32:31'
-      id: '2777'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Learning theories and e-learning | Learning the...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/learning-theories-and-e-learning/p/4005623972/learning-theories-and-e-learning
-      content: '[&#8230;] It&#039;s almost a month since the last post from the first
-        draft of my thesis. So, after much time away here&#039;s the next installment.
-        It&#039;s probably rougher than previous versions - which says something ...&nbsp;
-        [&#8230;]'
-      date: '2013-08-04 16:11:46'
-      date_gmt: '2013-08-04 06:11:46'
-      id: '2778'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 It's almost a month since [the last post](/blog/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/) from the first draft of my thesis. So, after much time away here's the next installment. It's probably rougher than previous versions - which says something - I'm still getting back into the swing of things.
 

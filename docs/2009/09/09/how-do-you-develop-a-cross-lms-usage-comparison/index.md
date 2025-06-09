@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -8,16 +8,16 @@ categories:
 - lmsevaluation
 - phd
 - thesis
-date: 2009-09-09 15:59:10+10:00
+date: 2009-09-09 05:59:10
 next:
   text: '"PhD Update #24: off to the crocodile form"'
   url: /blog/2009/09/11/phd-update-24-off-to-the-crocodile-form/
 previous:
   text: BIM#7 - Getting the prototype up
   url: /blog/2009/09/08/bim7-getting-the-prototype-up/
+template: blog-post.html
 title: How do you develop a cross-LMS usage comparison?
 type: post
-template: blog-post.html
 ---
 I [recently posted](/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/) about the need to develop an approach that allows for the simple and consistent comparison of usage and feature adoption between different Learning Management Systems (aka LMS, Virtual Learning Environments - VLEs - see [What is an LMS?](/blog/2009/08/21/what-is-an-lms/)). That [last post on the need](/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/) didn't really establish the need. The aim of this post is to explain the need and make some first steps in identifying how you might go about enabling this sort of comparison.
 

@@ -1,153 +1,151 @@
----
+﻿---
 categories:
 - elearning
 - ilecture
 - phd
 - thesis
-date: 2009-10-05 10:28:49+10:00
+comments:
+- approved: '1'
+  author: Thomas
+  author_email: thomas.duggan@gmail.com
+  author_ip: 138.77.2.133
+  author_url: null
+  content: Looking forward to it, thanks for the heads up.
+  date: '2009-10-20 10:09:41'
+  date_gmt: '2009-10-20 00:09:41'
+  id: '2782'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-10-05 00:28:49
 next:
   text: Thoughts on "Insidious pedagogy"
   url: /blog/2009/10/06/thoughts-on-insidiuous-pedagogy/
+pingbacks:
+- approved: '1'
+  author: Thoughts on &#8220;Insidiuous pedagogy&#8221; &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/10/06/thoughts-on-insidiuous-pedagogy/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Lectures and the LMS: Alternatives and&nbsp;experiments [...]'
+  date: '2009-10-06 11:05:44'
+  date_gmt: '2009-10-06 01:05:44'
+  id: '2780'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Using Votapedia &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/10/06/using-votapedia/
+  content: '[...]  In the next couple of weeks I&#8217;m going to be giving a presentation
+    that will also serve as an experiment in alternate technologies for presentations.
+    One of those [...]'
+  date: '2009-10-06 15:40:52'
+  date_gmt: '2009-10-06 05:40:52'
+  id: '2781'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lectures, alternatives, poll everywhere and unexpected events &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.211
+  author_url: https://djon.es/blog/2009/10/26/lectures-alternatives-poll-everywhere-and-unexpected-events/
+  content: '[...] alternatives, poll everywhere and unexpected&nbsp;events  This Wednesday
+    I&#8217;m involved with an experiment and presentation that is seeking to test
+    out some alternatives for lectures/presentations. As it happens, the last [...]'
+  date: '2009-10-26 14:15:30'
+  date_gmt: '2009-10-26 04:15:30'
+  id: '2783'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Future of universities &#8211; an age old problem &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/11/09/future-of-universities-an-age-old-problem/
+  content: '[...] &#8211; an age old&nbsp;problem  I&#8217;m in the midst of preparing
+    some additional slides for a presentation/experiment tomorrow around alternatives
+    for the LMS and the lecture. In part, this presentation connects with [...]'
+  date: '2009-11-09 10:04:39'
+  date_gmt: '2009-11-09 00:04:39'
+  id: '2784'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Reflection on alternatives and experiments &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/11/11/reflection-on-alternatives-and-experiments/
+  content: '[...] on alternatives and&nbsp;experiments  I&#8217;ve just completed
+    a presentation which included an experiment with some different technologies for
+    lectures and a talk I gave at [...]'
+  date: '2009-11-11 09:34:47'
+  date_gmt: '2009-11-10 23:34:47'
+  id: '2785'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Twitter back channels, conferences, sessions and engaging the audience &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/11/13/twitter-back-channels-conferences-sessions-and-engaging-the-audience/
+  content: '[...] back channels, conferences, sessions and engaging the&nbsp;audience  A
+    couple of days ago we did an experiment around presentations that included the
+    use of a twitter back channel (hashtag: #eair). The [...]'
+  date: '2009-11-13 11:57:08'
+  date_gmt: '2009-11-13 01:57:08'
+  id: '2786'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The Ps Framework and the mismatch created by the product and process of
+    industrial e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.16
+  author_url: https://djon.es/blog/2010/03/09/the-ps-framework-and-the-mismatch-created-by-the-product-and-process-of-industrial-e-learning/
+  content: '[...] the mismatch created by the product and process of industrial&nbsp;e-learning  Last
+    year I gave a a couple of presentations titled &#8220;Alternatives for the institutional
+    implementation of e-learning&#8221;. In those [...]'
+  date: '2010-03-09 09:59:30'
+  date_gmt: '2010-03-08 23:59:30'
+  id: '2787'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A vision for enhancement of learning and teaching at CQUniversity &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.104.70
+  author_url: https://djon.es/blog/2010/07/24/a-vision-for-enhancement-of-learning-and-teaching-at-cquniversity/
+  content: '[...] The talk will essentially draw on the propositions and ideas I&#8217;ve
+    developed within this blog and in prior presentations such as the herding cats/losing
+    weight talk and the Alternatives and experiments talk. [...]'
+  date: '2010-07-24 09:03:09'
+  date_gmt: '2010-07-23 23:03:09'
+  id: '2789'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Lessons from Pedagogy for e-learning
   url: /blog/2009/10/04/lessons-from-pedagogy-for-e-learning/
+template: blog-post.html
 title: '"Lectures and the LMS: Alternatives and experiments"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Thomas
-      author_email: thomas.duggan@gmail.com
-      author_ip: 138.77.2.133
-      author_url: null
-      content: Looking forward to it, thanks for the heads up.
-      date: '2009-10-20 10:09:41'
-      date_gmt: '2009-10-20 00:09:41'
-      id: '2782'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Thoughts on &#8220;Insidiuous pedagogy&#8221; &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/10/06/thoughts-on-insidiuous-pedagogy/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Lectures and the LMS: Alternatives and&nbsp;experiments [...]'
-      date: '2009-10-06 11:05:44'
-      date_gmt: '2009-10-06 01:05:44'
-      id: '2780'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Using Votapedia &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/10/06/using-votapedia/
-      content: '[...]  In the next couple of weeks I&#8217;m going to be giving a presentation
-        that will also serve as an experiment in alternate technologies for presentations.
-        One of those [...]'
-      date: '2009-10-06 15:40:52'
-      date_gmt: '2009-10-06 05:40:52'
-      id: '2781'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lectures, alternatives, poll everywhere and unexpected events &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.211
-      author_url: https://djon.es/blog/2009/10/26/lectures-alternatives-poll-everywhere-and-unexpected-events/
-      content: '[...] alternatives, poll everywhere and unexpected&nbsp;events  This Wednesday
-        I&#8217;m involved with an experiment and presentation that is seeking to test
-        out some alternatives for lectures/presentations. As it happens, the last [...]'
-      date: '2009-10-26 14:15:30'
-      date_gmt: '2009-10-26 04:15:30'
-      id: '2783'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Future of universities &#8211; an age old problem &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/11/09/future-of-universities-an-age-old-problem/
-      content: '[...] &#8211; an age old&nbsp;problem  I&#8217;m in the midst of preparing
-        some additional slides for a presentation/experiment tomorrow around alternatives
-        for the LMS and the lecture. In part, this presentation connects with [...]'
-      date: '2009-11-09 10:04:39'
-      date_gmt: '2009-11-09 00:04:39'
-      id: '2784'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Reflection on alternatives and experiments &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/11/11/reflection-on-alternatives-and-experiments/
-      content: '[...] on alternatives and&nbsp;experiments  I&#8217;ve just completed
-        a presentation which included an experiment with some different technologies for
-        lectures and a talk I gave at [...]'
-      date: '2009-11-11 09:34:47'
-      date_gmt: '2009-11-10 23:34:47'
-      id: '2785'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Twitter back channels, conferences, sessions and engaging the audience &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/11/13/twitter-back-channels-conferences-sessions-and-engaging-the-audience/
-      content: '[...] back channels, conferences, sessions and engaging the&nbsp;audience  A
-        couple of days ago we did an experiment around presentations that included the
-        use of a twitter back channel (hashtag: #eair). The [...]'
-      date: '2009-11-13 11:57:08'
-      date_gmt: '2009-11-13 01:57:08'
-      id: '2786'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The Ps Framework and the mismatch created by the product and process of
-        industrial e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.16
-      author_url: https://djon.es/blog/2010/03/09/the-ps-framework-and-the-mismatch-created-by-the-product-and-process-of-industrial-e-learning/
-      content: '[...] the mismatch created by the product and process of industrial&nbsp;e-learning  Last
-        year I gave a a couple of presentations titled &#8220;Alternatives for the institutional
-        implementation of e-learning&#8221;. In those [...]'
-      date: '2010-03-09 09:59:30'
-      date_gmt: '2010-03-08 23:59:30'
-      id: '2787'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A vision for enhancement of learning and teaching at CQUniversity &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.104.70
-      author_url: https://djon.es/blog/2010/07/24/a-vision-for-enhancement-of-learning-and-teaching-at-cquniversity/
-      content: '[...] The talk will essentially draw on the propositions and ideas I&#8217;ve
-        developed within this blog and in prior presentations such as the herding cats/losing
-        weight talk and the Alternatives and experiments talk. [...]'
-      date: '2010-07-24 09:03:09'
-      date_gmt: '2010-07-23 23:03:09'
-      id: '2789'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This post stores information about an experiment/presentation seeking to examine alternatives for both the lecture and the LMS. Information available below includes:
 

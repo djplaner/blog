@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-01-26 21:26:14+10:00
+date: 2010-01-26 11:26:14
 next:
   text: Some reasons why business intelligence tools aren't the right fit
   url: /blog/2010/01/27/some-reasons-why-business-intelligence-tools-arent-the-right-fit/
 previous:
   text: BIM - sending results to the gradebook
   url: /blog/2010/01/26/bim-sending-results-to-the-gradebook/
+template: blog-post.html
 title: BIM - Tidying up - Part 1
 type: post
-template: blog-post.html
 ---
 Apart from some playing around with the gradebook, the new development for BIM is complete. What is left to do is the various cleaning up, double checking, documentation and other tasks necessary to turn BIM from essentially functional to something reasonably okay to install. This is the first post describing that process. It and the following ones will essentially be working through the [to do list](/blog/research/bam-blog-aggregation-management/bim-to-do-list/).
 

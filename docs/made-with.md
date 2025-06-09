@@ -1,8 +1,7 @@
----
-title: "Made with 'Some assemblage'"
+﻿---
+title: Made with 'Some assemblage'
 type: note
 ---
-
 See also: [[about]]
 
 It's fairly common to see websites and other digital artefacts badged with simple "Made with X" statements. This site's initial template came with the statement: "Made with Material for MkDocs". The idea that any sizeable website is made with a single tool woefully undersells what is required and significantly oversells the enabling power of that single tool. Not surprisingly, such statements are more marketing than reality.

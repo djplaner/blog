@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - bim
 - bim2
 - bimerrors
-date: 2010-12-10 20:12:18+10:00
+date: 2010-12-10 10:12:18
 next:
   text: First coding steps for bim2
   url: /blog/2010/12/19/first-coding-steps-for-bim2/
 previous:
   text: Becoming aware of the existence of different perceptions
   url: /blog/2010/12/06/becoming-aware-of-the-existence-of-different-perceptions/
+template: blog-post.html
 title: A solution for BIM and special characters?
 type: post
-template: blog-post.html
 ---
 The main long term issue in the use of BIM has been student's creating blog posts that contain ["special" characters](/blog/2010/09/05/more-problems-with-bim-and-special-characters/). This is typically done when they create their post in Word and then copy and paste it into their blog. The interaction between BIM, [SimplePie](http://simplie.org) and database engines has not been a good one. It results in blog posts either not being stored in the Moodle database or being cut off at the special character.
 
@@ -26,15 +26,15 @@ In the end, this evolved into a solution for BIM v1 that has been put into the g
 
 Some evidence of the problem. First, what the problem post looks like on the student's blog. Note the little square.
 
-[![The problem post](images/5245275498_f3d0808d50.jpg)](http://www.flickr.com/photos/david_jones/5245275498/ "The problem post by David T Jones, on Flickr")
+[![The problem post](https://djon.es/assets/blog/2010/12/10/a-solution-for-bim-and-special-characters/images/5245275498_f3d0808d50.jpg)](http://www.flickr.com/photos/david_jones/5245275498/ "The problem post by David T Jones, on Flickr")
 
 This causes the a problem in BIM, once the special character is reached, nothing else is stored. The same post above in BIM. (Click on the image to see a larger version).
 
-[![The problem post in BIM](images/5244675363_414fe609fd_m.jpg)](http://www.flickr.com/photos/david_jones/5244675363/ "The problem post in BIM by David T Jones, on Flickr")
+[![The problem post in BIM](https://djon.es/assets/blog/2010/12/10/a-solution-for-bim-and-special-characters/images/5244675363_414fe609fd_m.jpg)](http://www.flickr.com/photos/david_jones/5244675363/ "The problem post in BIM by David T Jones, on Flickr")
 
 And evidence that it is working in Moodle 2. Note: Moodle 2 only stores a sub-set of the post, not the complete content. But you can see that it does include the square and some of what follows.
 
-[![Problem post in Moodle 2](images/5245275614_c40672500d_m.jpg)](http://www.flickr.com/photos/david_jones/5245275614/ "Problem post in Moodle 2 by David T Jones, on Flickr")
+[![Problem post in Moodle 2](https://djon.es/assets/blog/2010/12/10/a-solution-for-bim-and-special-characters/images/5245275614_c40672500d_m.jpg)](http://www.flickr.com/photos/david_jones/5245275614/ "Problem post in Moodle 2 by David T Jones, on Flickr")
 
 ### Is Postgres making the difference?
 

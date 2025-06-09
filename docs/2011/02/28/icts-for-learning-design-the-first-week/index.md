@@ -1,108 +1,105 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-02-28 10:40:22+10:00
+comments:
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: null
+  content: 'Ref: Learning Styles
+
+
+    I recently came across an article you should like.  I got it at http://psi.sagepub.com/content/9/3/105.full.pdf+html
+
+
+    Pashler, H., McDaniel, M., Roher, D., and Bjork, R. (2008). Learning styles: Concepts
+    and evidence. Psychological science in the public interest, 9(3), 105-119.
+
+
+    I quote a part of their conclusion:
+
+
+    "The contrast between the enormous popularity of the learning-styles approach
+    within education and the lack of credible evidence for its utility is, in our
+    opinion, striking and disturbing."
+
+
+    Kevin'
+  date: '2011-03-01 03:09:55'
+  date_gmt: '2011-02-28 17:09:55'
+  id: '3267'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.165.183.0
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the link Kevin. It looks like that''s another copy of an article
+    that I linked to in another post.  The link I used <a href="http://www.psychologicalscience.org/journals/pspi/PSPI_9_3.pdf"
+    rel="nofollow">is here</a> and appears to be freely available. Four Professors
+    of Psychology are in some agreement.
+
+
+    Of course, they used a very specific, correct and strict definition of learning
+    styles and their application. One that assumes you are going to cater instruction
+    specifically for each learners style and that will generate positive outcomes.
+    One that assumes this is supported by appropriate experimental evidence, of which
+    they found none and some that suggested otherwise.
+
+
+    At the moment, the only use I think I''ll be putting learning styles to is as
+    a way to encourage students to recognise the diversity within the class, the diversity
+    of ways of learning and that different approaches are more appropriate in different
+    situations. From the teaching perspective there isn''t the time/resources to customise
+    different pedagogies for different styles, it''s just a case of not necessarily
+    always using the same one and perhaps highlighting to the students the type being
+    used now.
+
+
+    Of course, I doubt that there''s experimental evidence to support that efficacy
+    of that approach. The article, however, does suggest that there is "plentiful
+    evidence arguing that people differ in the degree to which they have some fairly
+    specific aptitudes for different kinds of thinking and for processing different
+    types of information".'
+  date: '2011-03-01 08:05:21'
+  date_gmt: '2011-02-28 22:05:21'
+  id: '3268'
+  parent: '3267'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.106.224
+  author_url: http://www.vrbones.com
+  content: "<blockquote>I\u2019m still feeling somewhat overwhelmed. In particular,\
+    \ I have this feeling that there are activities or tasks that I need to complete\
+    \ that I\u2019m not aware of. I feel I\u2019m missing something.</blockquote>\n\
+    Sounds like the first step of the <a href=\"http://www.vrbones.com/2009/09/intern-rollercoaster.html\"\
+    \ rel=\"nofollow\">rollercoaster</a>. (1/2 year creative piece on what is an intern.\
+    \ Something to look forward to)"
+  date: '2011-03-07 03:50:02'
+  date_gmt: '2011-03-06 17:50:02'
+  id: '3269'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-02-28 00:40:22
 next:
   text: The dissonance between the constructivist paradigm and the implementation
     of institutional e-learning
   url: /blog/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
+pingbacks: []
 previous:
   text: Thoughts and applications of connectivism
   url: /blog/2011/02/28/thoughts-and-applications-of-connectivism/
+template: blog-post.html
 title: ICTs for learning design - the first week
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: null
-      content: 'Ref: Learning Styles
-    
-    
-        I recently came across an article you should like.  I got it at http://psi.sagepub.com/content/9/3/105.full.pdf+html
-    
-    
-        Pashler, H., McDaniel, M., Roher, D., and Bjork, R. (2008). Learning styles: Concepts
-        and evidence. Psychological science in the public interest, 9(3), 105-119.
-    
-    
-        I quote a part of their conclusion:
-    
-    
-        "The contrast between the enormous popularity of the learning-styles approach
-        within education and the lack of credible evidence for its utility is, in our
-        opinion, striking and disturbing."
-    
-    
-        Kevin'
-      date: '2011-03-01 03:09:55'
-      date_gmt: '2011-02-28 17:09:55'
-      id: '3267'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.165.183.0
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the link Kevin. It looks like that''s another copy of an article
-        that I linked to in another post.  The link I used <a href="http://www.psychologicalscience.org/journals/pspi/PSPI_9_3.pdf"
-        rel="nofollow">is here</a> and appears to be freely available. Four Professors
-        of Psychology are in some agreement.
-    
-    
-        Of course, they used a very specific, correct and strict definition of learning
-        styles and their application. One that assumes you are going to cater instruction
-        specifically for each learners style and that will generate positive outcomes.
-        One that assumes this is supported by appropriate experimental evidence, of which
-        they found none and some that suggested otherwise.
-    
-    
-        At the moment, the only use I think I''ll be putting learning styles to is as
-        a way to encourage students to recognise the diversity within the class, the diversity
-        of ways of learning and that different approaches are more appropriate in different
-        situations. From the teaching perspective there isn''t the time/resources to customise
-        different pedagogies for different styles, it''s just a case of not necessarily
-        always using the same one and perhaps highlighting to the students the type being
-        used now.
-    
-    
-        Of course, I doubt that there''s experimental evidence to support that efficacy
-        of that approach. The article, however, does suggest that there is "plentiful
-        evidence arguing that people differ in the degree to which they have some fairly
-        specific aptitudes for different kinds of thinking and for processing different
-        types of information".'
-      date: '2011-03-01 08:05:21'
-      date_gmt: '2011-02-28 22:05:21'
-      id: '3268'
-      parent: '3267'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.106.224
-      author_url: http://www.vrbones.com
-      content: "<blockquote>I\u2019m still feeling somewhat overwhelmed. In particular,\
-        \ I have this feeling that there are activities or tasks that I need to complete\
-        \ that I\u2019m not aware of. I feel I\u2019m missing something.</blockquote>\n\
-        Sounds like the first step of the <a href=\"http://www.vrbones.com/2009/09/intern-rollercoaster.html\"\
-        \ rel=\"nofollow\">rollercoaster</a>. (1/2 year creative piece on what is an intern.\
-        \ Something to look forward to)"
-      date: '2011-03-07 03:50:02'
-      date_gmt: '2011-03-06 17:50:02'
-      id: '3269'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 So, it's the end of O-Week and a four day residential school for Graduate Diploma of Learning and Teaching Students - a post-graduate, pre-service, teaching qualification. About 100 students got a lot thrown at us for four days, now it's time to get into some work. The following is an attempt to get some idea of and reflect upon the work I need to do with the "e-learning" course. Others will probably follow.
 
@@ -165,7 +162,7 @@ Seems I have to [post another entry](/blog/2011/02/25/learning-styles-teaching-a
 
 So, we're meant to take [this test](http://www.bgfl.org/bgfl/custom/resources_ftp/client_ftp/ks1/ict/multiple_int/what.cfm) based on Gardner's multiple intelligences. Here are my results.
 
-[![My "multiple intelligences"](images/5477663562_45ab9fc9ac_m.jpg)](http://www.flickr.com/photos/david_jones/5477663562/ "My \"multiple intelligences\" by David T Jones, on Flickr")
+[![My "multiple intelligences"](https://djon.es/assets/blog/2011/02/28/icts-for-learning-design-the-first-week/images/5477663562_45ab9fc9ac_m.jpg)](http://www.flickr.com/photos/david_jones/5477663562/ "My \"multiple intelligences\" by David T Jones, on Flickr")
 
 As with most of these tests, it meets my basic expectations, but there continues to be a uncertainty at the back of my mind about this work. I need to read and reflect a bit more. Trying to balance the desire to dig deeper with the desire to complete the study is interesting.
 

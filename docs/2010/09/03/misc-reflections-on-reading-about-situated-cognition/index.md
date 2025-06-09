@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
 - distributedcognition
 - thesis
-date: 2010-09-03 15:23:14+10:00
+date: 2010-09-03 05:23:14
 next:
   text: Light-weight analytics tools as part of scaffolding, context-sensitive conglomerations
   url: /blog/2010/09/04/light-weight-analytics-tools-as-part-of-scaffolding-context-sensitive-conglomerations/
 previous:
   text: Scaffolding, context-sensitive conglomerations in e-learning systems
   url: /blog/2010/09/03/scaffolding-context-sensitive-conglomerations-in-e-learning-systems/
+template: blog-post.html
 title: Misc. reflections on reading about situated cognition
 type: post
-template: blog-post.html
 ---
 For various reasons, mostly PhD related (and somewhat related to procrastination), I'm taking the time to read a bit more about situated cognition. Not sure how far it will go. The following are some ad hoc reflections and essentially a diary of what I'm reading. Not aiming for this post to fulfil any purpose beyond being a place to dump observations.
 

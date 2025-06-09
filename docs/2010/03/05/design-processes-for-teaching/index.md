@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - psframework
 - thesis
-date: 2010-03-05 16:03:11+10:00
+comments: []
+date: 2010-03-05 06:03:11
 next:
   text: Some thinking on analysing Webfuse usage
   url: /blog/2010/03/07/some-thinking-on-analysing-webfuse-usage/
+pingbacks:
+- approved: '1'
+  author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.72
+  author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
+  content: '[...] actually cites literature that shows academics are mostly making
+    minor changes to existing courses. This post expands on this literature. When
+    I&#8217;ve seen constructive alignment in action, it&#8217;s [...]'
+  date: '2010-05-14 14:14:26'
+  date_gmt: '2010-05-14 04:14:26'
+  id: '2954'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Implications of cognitive theory for instructional design
   url: /blog/2010/02/27/implications-of-cognitive-theory-for-instructional-design/
+template: blog-post.html
 title: Design processes for teaching
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.72
-      author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
-      content: '[...] actually cites literature that shows academics are mostly making
-        minor changes to existing courses. This post expands on this literature. When
-        I&#8217;ve seen constructive alignment in action, it&#8217;s [...]'
-      date: '2010-05-14 14:14:26'
-      date_gmt: '2010-05-14 04:14:26'
-      id: '2954'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a first draft of a section from my thesis. It will form part of the newly cut down section on Process within chapter 2 (170 pages down to 50). The following tries to say something about the design processes used for teaching within universities. It starts with a characterisation of instructional design, looks at the limitations (referring to some earlier work about teleological and ateleological processes) and seeks to describe what the literature has to say about how teaching academics actually design/plan their courses.
 
@@ -69,7 +66,7 @@ As stated earlier, the instructional design process can be seen as drawing on th
 
 In seeking to describe what is known about the approaches to teaching used by academics, Richardson (2005) developed the integrated model shown in Figure 2.1. While useful, Entwistle (Entwistle 2003) suggests that the simply analytic models are too simple to capture the full complexity of the decision making that occurs when choosing teaching approaches. Stark (2000) suggests that instructional design is not only a science, but also a creative act, linked to teacher thinking that must be examined contextually, meaning that it is not amenable to a single formula or prescription. Or perhaps to a teleological process.
 
-\[caption id="" align="aligncenter" width="240" caption="Figure 2.2 - An integrated model of teachers' approaches to teaching, conceptions of teaching and perceptions of the teaching environment (Richardson 2005)"\][![](images/4407496847_0e08f8fe8c_m.jpg)](http://www.flickr.com/photos/david_jones/4407496847/)\[/caption\]
+\[caption id="" align="aligncenter" width="240" caption="Figure 2.2 - An integrated model of teachers' approaches to teaching, conceptions of teaching and perceptions of the teaching environment (Richardson 2005)"\][![](https://djon.es/assets/blog/2010/03/05/design-processes-for-teaching/images/4407496847_0e08f8fe8c_m.jpg)](http://www.flickr.com/photos/david_jones/4407496847/)\[/caption\]
 
 ### References
 

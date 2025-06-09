@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bim
-date: 2009-12-24 12:00:46+10:00
+comments: []
+date: 2009-12-24 02:00:46
 next:
   text: BIM - the show student posts screen
   url: /blog/2009/12/26/bim-the-show-student-posts-screen/
+pingbacks:
+- approved: '1'
+  author: BIM &#8211; the show student posts screen &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: https://djon.es/blog/2009/12/26/bim-the-show-student-posts-screen/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BIM &#8211; Staff show details&nbsp;screen [...]'
+  date: '2009-12-26 13:08:10'
+  date_gmt: '2009-12-26 03:08:10'
+  id: '2907'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - minor fixes to show student details
   url: /blog/2009/12/24/bim-minor-fixes-to-show-student-details/
+template: blog-post.html
 title: BIM - Staff show details screen
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM &#8211; the show student posts screen &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: https://djon.es/blog/2009/12/26/bim-the-show-student-posts-screen/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BIM &#8211; Staff show details&nbsp;screen [...]'
-      date: '2009-12-26 13:08:10'
-      date_gmt: '2009-12-26 03:08:10'
-      id: '2907'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This post documents the creation/completion of the BIM show details screen. This is used by staff to get a summary of their student details, whether they have registered their feed, made posts etc.
 

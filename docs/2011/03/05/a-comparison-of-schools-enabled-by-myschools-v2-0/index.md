@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - teaching
-date: 2011-03-05 18:01:49+10:00
+date: 2011-03-05 08:01:49
 next:
   text: '"Supportive Learning Environments: Week 1"'
   url: /blog/2011/03/06/supportive-learning-environments-week-1/
@@ -9,9 +9,9 @@ previous:
   text: A question (or two) on the similarity of &quot;neuronal&quot; and &quot;networked&quot;
     knowledge
   url: /blog/2011/03/05/a-question-or-two-on-the-similarity-of-neuronal-and-networked-knowledge/
+template: blog-post.html
 title: A comparison of schools - enabled by MySchools v2.0
 type: post
-template: blog-post.html
 ---
 The Australian government has launched version 2 of its [MySchool website](http://www.myschool.edu.au). The sites is meant to hold a profile of all Australian schools and enable people to perform comparisons. There has been some significant criticism of the data included in the profiles and find the site to be technically quite flawed (e.g. its been down and when you do get access the method you use to examine and compare data is poor). There has also been the first round of media stories using the availability of the data to draw conclusions (e.g. [Elite schools don't excel](http://www.theaustralian.com.au/national-affairs/elite-school-students-dont-excel/story-fn59niix-1226016177993)).
 

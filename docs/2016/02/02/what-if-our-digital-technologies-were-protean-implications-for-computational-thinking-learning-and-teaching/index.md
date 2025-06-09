@@ -1,170 +1,168 @@
----
+﻿---
 categories:
 - bad
 - elearning
 - thesis
-date: 2016-02-02 08:49:13+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 101.183.211.67
+  author_url: http://elketeaches.wordpress.com
+  content: Reblogged this on <a href="https://elketeaches.wordpress.com/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/"
+    rel="nofollow">elketeaches</a>.
+  date: '2016-02-02 19:03:46'
+  date_gmt: '2016-02-02 09:03:46'
+  id: '1470'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2016-02-01 22:49:13
 next:
   text: Blog for learning. Why? What? How?
   url: /blog/2016/02/02/blog-for-learning-why-what-how/
+pingbacks:
+- approved: '1'
+  author: A Journey to discover what is Indie Ed-tech | Heart | Soul | Machine
+  author_email: null
+  author_ip: 192.0.80.44
+  author_url: https://timklapdor.wordpress.com/2016/03/22/a-journey-to-discover-what-is-indie-ed-tech/
+  content: "[&#8230;] getting together. It\u2019s a topic area that is very much in\
+    \ the realm of the Not-Yetness and the protean. Over the course of the weekend\
+    \ it was something that started to take shape and form, emerging from [&#8230;]"
+  date: '2016-03-22 10:44:29'
+  date_gmt: '2016-03-22 00:44:29'
+  id: '1471'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Competence with digital technology: Do they see the point &#8211; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.100.25
+  author_url: https://davidtjones.wordpress.com/2016/03/31/competence-with-digital-technology-do-they-see-the-point/
+  content: "[&#8230;] group \u2013 we are optimizing humans for machinery&#8221; (p.\
+    \ 15). More recently I worked on a paper (Jones and Schneider, in review) with\
+    \ a high school teacher that identified the same problem in [&#8230;]"
+  date: '2016-03-31 09:46:36'
+  date_gmt: '2016-03-30 23:46:36'
+  id: '1472'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The need for technopedagogues and will it ever go away? &#8211; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.191
+  author_url: https://davidtjones.wordpress.com/2016/04/25/the-need-for-technopedagogues-and-will-it-ever-go-away/
+  content: '[&#8230;] The &#8220;techno&#8221; mindset is so strong we end up with
+    organisational approaches to digital technologies that no longer understand the
+    fundamental nature of digital technologies. Rather than benefiting from Kay&#8217;s
+    protean, meta-medium we get the situation Rushkoff identified where human beings
+    are optimized for the digital technologies. A situation we talk a bit about in
+    this paper. [&#8230;]'
+  date: '2016-04-25 16:46:02'
+  date_gmt: '2016-04-25 06:46:02'
+  id: '1473'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The nature of digital technology? Part 2 &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.100.241
+  author_url: https://davidtjones.wordpress.com/2016/06/28/the-nature-of-digital-technology-part-2/
+  content: "[&#8230;] This is the characteristic that I&#8217;ve written the most\
+    \ about.\_ The following two paragraphs are from the first version of Jones and\
+    \ Schneider (2016). [&#8230;]"
+  date: '2016-06-28 11:38:26'
+  date_gmt: '2016-06-28 01:38:26'
+  id: '1474'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Introducing Elke Schneider, this week&#8217;s EduTweetOz host | Edutweetoz
+  author_email: null
+  author_ip: 192.0.100.205
+  author_url: http://edutweetoz.org/2016/07/11/introducing-elke-schneider-this-weeks-edutweetoz-host/
+  content: '[&#8230;] https://davidtjones.wordpress.com/2016/02/02/what-if-our-digital-technologies-were-protean-implicati&#8230;
+    [&#8230;]'
+  date: '2016-07-11 18:28:02'
+  date_gmt: '2016-07-11 08:28:02'
+  id: '1475'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: From AI To IA | Heart | Soul | Machine
+  author_email: null
+  author_ip: 192.0.118.3
+  author_url: https://timklapdor.wordpress.com/2016/08/04/from-ai-to-ia/
+  content: '[&#8230;] applications and manipulate data would be welcoming back to
+    the idea of digital being a kind of protean entity. If the digital became malleable
+    we could reform it into what we need it to be, we could take our [&#8230;]'
+  date: '2016-08-04 12:09:05'
+  date_gmt: '2016-08-04 02:09:05'
+  id: '1476'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Your experience of institutional digital technology? &#8211; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.32
+  author_url: https://davidtjones.wordpress.com/2016/09/20/your-experience-of-institutional-digital-technology/
+  content: '[&#8230;] organisational digital technologies. The idea (and the text
+    from the two poll options) comes from this conference paper. The presentation
+    will be on Friday 30th September with additional presentation resources coming
+    to [&#8230;]'
+  date: '2016-09-20 10:20:01'
+  date_gmt: '2016-09-20 00:20:01'
+  id: '1477'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What if our digital technologies were protean? &#8211; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.118.105
+  author_url: https://davidtjones.wordpress.com/2016/09/21/what-if-our-digital-technologies-were-protean/
+  content: '[&#8230;] Friday the 30th September 2016 I will present the paper &#8211;
+    What if our digital technologies were protean? Implications for computational
+    thinking, learning, an&#8230; &#8211; co-written by Elke Schneider and I at the
+    ACCE&#8217;2016 [&#8230;]'
+  date: '2016-09-21 12:12:50'
+  date_gmt: '2016-09-21 02:12:50'
+  id: '1478'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What if Our Technologies were Protean? | EdTech Hot Technologies
+  author_email: null
+  author_ip: 192.0.118.41
+  author_url: https://edtechhottechnologies.wordpress.com/2016/09/21/what-if-our-technologies-were-protean/
+  content: '[&#8230;] Follow me [&#8230;]'
+  date: '2016-09-22 00:44:51'
+  date_gmt: '2016-09-21 14:44:51'
+  id: '1479'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Mapping the digital practices of teacher educators: Implications for teacher
     education in changing digital landscapes'
   url: /blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/
+template: blog-post.html
 title: What if our digital technologies were protean? Implications for computational
   thinking, learning, and teaching
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 101.183.211.67
-      author_url: http://elketeaches.wordpress.com
-      content: Reblogged this on <a href="https://elketeaches.wordpress.com/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/"
-        rel="nofollow">elketeaches</a>.
-      date: '2016-02-02 19:03:46'
-      date_gmt: '2016-02-02 09:03:46'
-      id: '1470'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: A Journey to discover what is Indie Ed-tech | Heart | Soul | Machine
-      author_email: null
-      author_ip: 192.0.80.44
-      author_url: https://timklapdor.wordpress.com/2016/03/22/a-journey-to-discover-what-is-indie-ed-tech/
-      content: "[&#8230;] getting together. It\u2019s a topic area that is very much in\
-        \ the realm of the Not-Yetness and the protean. Over the course of the weekend\
-        \ it was something that started to take shape and form, emerging from [&#8230;]"
-      date: '2016-03-22 10:44:29'
-      date_gmt: '2016-03-22 00:44:29'
-      id: '1471'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Competence with digital technology: Do they see the point &#8211; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.100.25
-      author_url: https://davidtjones.wordpress.com/2016/03/31/competence-with-digital-technology-do-they-see-the-point/
-      content: "[&#8230;] group \u2013 we are optimizing humans for machinery&#8221; (p.\
-        \ 15). More recently I worked on a paper (Jones and Schneider, in review) with\
-        \ a high school teacher that identified the same problem in [&#8230;]"
-      date: '2016-03-31 09:46:36'
-      date_gmt: '2016-03-30 23:46:36'
-      id: '1472'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The need for technopedagogues and will it ever go away? &#8211; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.191
-      author_url: https://davidtjones.wordpress.com/2016/04/25/the-need-for-technopedagogues-and-will-it-ever-go-away/
-      content: '[&#8230;] The &#8220;techno&#8221; mindset is so strong we end up with
-        organisational approaches to digital technologies that no longer understand the
-        fundamental nature of digital technologies. Rather than benefiting from Kay&#8217;s
-        protean, meta-medium we get the situation Rushkoff identified where human beings
-        are optimized for the digital technologies. A situation we talk a bit about in
-        this paper. [&#8230;]'
-      date: '2016-04-25 16:46:02'
-      date_gmt: '2016-04-25 06:46:02'
-      id: '1473'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The nature of digital technology? Part 2 &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.100.241
-      author_url: https://davidtjones.wordpress.com/2016/06/28/the-nature-of-digital-technology-part-2/
-      content: "[&#8230;] This is the characteristic that I&#8217;ve written the most\
-        \ about.\_ The following two paragraphs are from the first version of Jones and\
-        \ Schneider (2016). [&#8230;]"
-      date: '2016-06-28 11:38:26'
-      date_gmt: '2016-06-28 01:38:26'
-      id: '1474'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Introducing Elke Schneider, this week&#8217;s EduTweetOz host | Edutweetoz
-      author_email: null
-      author_ip: 192.0.100.205
-      author_url: http://edutweetoz.org/2016/07/11/introducing-elke-schneider-this-weeks-edutweetoz-host/
-      content: '[&#8230;] https://davidtjones.wordpress.com/2016/02/02/what-if-our-digital-technologies-were-protean-implicati&#8230;
-        [&#8230;]'
-      date: '2016-07-11 18:28:02'
-      date_gmt: '2016-07-11 08:28:02'
-      id: '1475'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: From AI To IA | Heart | Soul | Machine
-      author_email: null
-      author_ip: 192.0.118.3
-      author_url: https://timklapdor.wordpress.com/2016/08/04/from-ai-to-ia/
-      content: '[&#8230;] applications and manipulate data would be welcoming back to
-        the idea of digital being a kind of protean entity. If the digital became malleable
-        we could reform it into what we need it to be, we could take our [&#8230;]'
-      date: '2016-08-04 12:09:05'
-      date_gmt: '2016-08-04 02:09:05'
-      id: '1476'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Your experience of institutional digital technology? &#8211; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.32
-      author_url: https://davidtjones.wordpress.com/2016/09/20/your-experience-of-institutional-digital-technology/
-      content: '[&#8230;] organisational digital technologies. The idea (and the text
-        from the two poll options) comes from this conference paper. The presentation
-        will be on Friday 30th September with additional presentation resources coming
-        to [&#8230;]'
-      date: '2016-09-20 10:20:01'
-      date_gmt: '2016-09-20 00:20:01'
-      id: '1477'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What if our digital technologies were protean? &#8211; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.118.105
-      author_url: https://davidtjones.wordpress.com/2016/09/21/what-if-our-digital-technologies-were-protean/
-      content: '[&#8230;] Friday the 30th September 2016 I will present the paper &#8211;
-        What if our digital technologies were protean? Implications for computational
-        thinking, learning, an&#8230; &#8211; co-written by Elke Schneider and I at the
-        ACCE&#8217;2016 [&#8230;]'
-      date: '2016-09-21 12:12:50'
-      date_gmt: '2016-09-21 02:12:50'
-      id: '1478'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What if Our Technologies were Protean? | EdTech Hot Technologies
-      author_email: null
-      author_ip: 192.0.118.41
-      author_url: https://edtechhottechnologies.wordpress.com/2016/09/21/what-if-our-technologies-were-protean/
-      content: '[&#8230;] Follow me [&#8230;]'
-      date: '2016-09-22 00:44:51'
-      date_gmt: '2016-09-21 14:44:51'
-      id: '1479'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Elke Schneider
 
@@ -227,7 +225,7 @@ Upon reading each other’s stories, both authors were immediately struck by the
 
 In terms of _coding_, eventually none of Schneider’s ten stories involved the use of coding. Two of her stories did initially involve coding (Yahoo Pipes and Java), but she subsequently implemented other modifications that did not require coding. Seven of Jones’ sixteen stories involved coding using Perl, PHP, or jQuery/Javascript. This suggests the digital technologies can be modified without necessarily being able to code. However, it does raise questions about the reasons between the greater prevalence of coding in Jones’ stories. Is it due to the greater reliance on digital technologies within the specific context? Is it his longer work history within higher education? Was Jones less fearful of getting in trouble for wandering away from officially mandated practices? Is it his longer engagement with modifying digital technologies for learning and teaching? Or, are there other factors at play?
 
-Figure 1 describes the level of digital technology modification (as per Table 1) evidence in the stories from each author (some stories involved more than one level of modification). All but one of Schneider’s stories involved supplementing or replacing digital technologies provided by the school. This suggests some significant perceived limitations with the school digital technology environment. Jones’ stories were almost evenly balanced between configuring provided digital technologies, or supplementing/replacing them with different digital technologies.![Story Modification.png](images/story-modification.png)
+Figure 1 describes the level of digital technology modification (as per Table 1) evidence in the stories from each author (some stories involved more than one level of modification). All but one of Schneider’s stories involved supplementing or replacing digital technologies provided by the school. This suggests some significant perceived limitations with the school digital technology environment. Jones’ stories were almost evenly balanced between configuring provided digital technologies, or supplementing/replacing them with different digital technologies.![Story Modification.png](https://djon.es/assets/blog/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/images/story-modification.png)
 
 **Figure 1: Number of stories per author for each level of digital technology modification**
 

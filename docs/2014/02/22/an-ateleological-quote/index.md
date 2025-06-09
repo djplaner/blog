@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - quotes
-date: 2014-02-22 08:28:59+10:00
+comments: []
+date: 2014-02-21 22:28:59
 next:
   text: '"Evernote as a "solution" to a #moodle "problem""'
   url: /blog/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/
+pingbacks:
+- approved: '1'
+  author: An ateleological quote | ePortfolio - K-12 | Sc...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/eptfolio-teacher-educationor/p/4016599274/2014/02/25/an-ateleological-quote
+  content: '[&#8230;] Came across this presentation, &ldquo;Learning how to learn&rdquo;
+    (a bit ra-ra, but covers many of the bases for changes in the world and implications
+    for learning). It includes this quote If you focus on results, you will never
+    change.&nbsp; [&#8230;]'
+  date: '2014-02-26 04:08:12'
+  date_gmt: '2014-02-25 18:08:12'
+  id: '961'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Does GPA make any difference to #moodle course usage?'
   url: /blog/2014/02/20/does-gpa-make-any-difference-to-moodle-course-usage/
+template: blog-post.html
 title: An ateleological quote
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: An ateleological quote | ePortfolio - K-12 | Sc...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/eptfolio-teacher-educationor/p/4016599274/2014/02/25/an-ateleological-quote
-      content: '[&#8230;] Came across this presentation, &ldquo;Learning how to learn&rdquo;
-        (a bit ra-ra, but covers many of the bases for changes in the world and implications
-        for learning). It includes this quote If you focus on results, you will never
-        change.&nbsp; [&#8230;]'
-      date: '2014-02-26 04:08:12'
-      date_gmt: '2014-02-25 18:08:12'
-      id: '961'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Came across [this presentation, "Learning how to learn"](http://www.slideshare.net/langwitches/learning-how2learn-change-rethinkamplify) (a bit ra-ra, but covers many of the bases for changes in the world and implications for learning). It includes this quote
 

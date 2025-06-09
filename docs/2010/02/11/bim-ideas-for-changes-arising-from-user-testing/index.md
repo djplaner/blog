@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-02-11 13:33:50+10:00
+date: 2010-02-11 03:33:50
 next:
   text: BIM - Final Tidy up
   url: /blog/2010/02/15/bim-final-tidy-up/
 previous:
   text: Implications arising from the absence of the &quot;sameness of meaning&quot;
   url: /blog/2010/02/11/implications-arising-from-the-absence-of-the-sameness-of-meaning/
+template: blog-post.html
 title: BIM - Ideas for changes arising from user testing
 type: post
-template: blog-post.html
 ---
 Today BIM was tested by an intelligent, but when it comes to BIM a clueless, user. I sat back and watched the assumptions and mistakes that were made because the system design was not well thought out enough or was missing some functionality. The following is a list of the ideas that arose from that session.
 

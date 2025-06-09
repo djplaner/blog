@@ -1,9 +1,9 @@
----
+﻿---
 categories:
 - elearning
 - secondlife
 - web3dx
-date: 2008-01-10 08:50:22+10:00
+date: 2008-01-09 22:50:22
 next:
   text: Traditional buildings in Second Life - hassle to navigate
   url: /blog/2008/01/10/traditional-buildings-in-second-life-hassle-to-navigate/
@@ -12,9 +12,9 @@ previous:
   url: /blog/2007/12/13/why-is-one-not-necessarily-cheaper-than-two/
 tags:
 - secondlife-cddu-web3dx-muve-elearning
+template: blog-post.html
 title: Getting started in Second Life
 type: post
-template: blog-post.html
 ---
 It's almost official. CQU has an [island in Second Life](http://slurl.com/secondlife/CQU%20Learning/68/179//?title=CQU%20Learning%20and%20Teaching). Going under the name "CQU Learning" the purchase of the island is for the express purpose of examining what can be done in the environment to improve learning and teaching at CQU. The purchase is being funded by [Curriculum Design and Development Unit](http://cddu.cqu.edu.au/) and is connected with the [Carrick Web3D project](http://cddu.cqu.edu.au/index.php/Web3D_Exchange_Project) the unit is involved with.
 

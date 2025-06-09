@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2006-09-20 20:15:32+10:00
+date: 2006-09-20 10:15:32
 next:
   text: Conversation, not content, is king
   url: /blog/2006/09/22/conversation-not-content-is-king/
 previous:
   text: Enterprise Web 2.0
   url: /blog/2006/09/19/enterprise-web-20/
+template: blog-post.html
 title: UnAPI as a basis for Web 2.0 course sites
 type: post
-template: blog-post.html
 ---
 **Background Problem**
 

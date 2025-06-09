@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-11-18 17:12:25+10:00
+date: 2010-11-18 07:12:25
 next:
   text: Interesting times ahead
   url: /blog/2010/11/20/interesting-times-ahead/
 previous:
   text: Understanding EduFeedr and contrast with BIM
   url: /blog/2010/11/17/understanding-edufeedr-and-contrast-with-bim/
+template: blog-post.html
 title: Installing and starting with Moodle 2.0
 type: post
-template: blog-post.html
 ---
 As a first step to [BIM v2.0](/blog/2010/11/09/initial-plans-for-bim-2-0/) I'm installing and starting to play with Moodle 2.0 (RC2). The following is a summary/reflection of the experience. One of the aims of this is to investigate how Moodle 2.0 handles its integration with external blogs and see what lessons/insights I can learn for BIM v2.0.
 
@@ -25,7 +25,7 @@ Okay, this is a surprise. To register an external blog (see image below, click o
 - it's not needed.  
     Simplepie, which I believe is the PHP library used to retrieve the blog feeds, can do auto-detect.
 
-[![register external blog - Moodle 2](images/5186250586_c9d1f1ceb0_m.jpg)](http://www.flickr.com/photos/david_jones/5186250586/ "register external blog - Moodle 2 by David T Jones, on Flickr")
+[![register external blog - Moodle 2](https://djon.es/assets/blog/2010/11/18/installing-and-starting-with-moodle-2-0/images/5186250586_c9d1f1ceb0_m.jpg)](http://www.flickr.com/photos/david_jones/5186250586/ "register external blog - Moodle 2 by David T Jones, on Flickr")
 
 For BIM, the presence of auto-detect in [Simplepie](http://simplepie.org/) meant it was possible to make it easier for the students/staff. The initial use of BIM was focused on getting the students to reflect etc, it was felt requiring them to grasp what a feed was and figuring out how to find their feed was not central to the outcome.
 
@@ -86,7 +86,7 @@ The biggest problem I've faced with BIM has been dealing with the "funny" charac
 
 So, I have a known problem feed. Time to register it as an external blog and see what happens. Ok, it registered fine. Do the special characters appear? Will only work if the special characters are at the start of the post, due to Moodle only storying the description, not the whole content. Yep, the problem feed does have the special characters in the description. And yes, they do appear in Moodle. See the image below, see the black diamonds containing question marks? Those are the special characters.
 
-[![Special character problem](images/5188457653_4e56f75a96_m.jpg)](http://www.flickr.com/photos/david_jones/5188457653/ "Special character problem by David T Jones, on Flickr")
+[![Special character problem](https://djon.es/assets/blog/2010/11/18/installing-and-starting-with-moodle-2-0/images/5188457653_4e56f75a96_m.jpg)](http://www.flickr.com/photos/david_jones/5188457653/ "Special character problem by David T Jones, on Flickr")
 
 I haven't had a problem with special characters in this situation on MySQL. The problem has arisen when using Postgres, at least at one institution.
 

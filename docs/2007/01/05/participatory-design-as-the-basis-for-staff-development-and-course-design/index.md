@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - react
-date: 2007-01-05 08:41:25+10:00
+comments: []
+date: 2007-01-04 22:41:25
 next:
   text: Process and product are inextricably linked
   url: /blog/2007/01/10/process-and-product-are-inextricably-linked/
+pingbacks:
+- approved: '1'
+  author: Process and product are inextricably linked at David&#8217;s WebLog
+  author_email: null
+  author_ip: 138.77.94.11
+  author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=88
+  content: '[...]        &laquo; Participatory design as the basis for staff development
+    and course design  Issues around staff development for e-learning [...]'
+  date: '2007-08-06 15:09:28'
+  date_gmt: '2007-08-06 05:09:28'
+  id: '1525'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: LMS usage data and value
   url: /blog/2006/12/31/lms-usage-data-and-value/
+template: blog-post.html
 title: Participatory design as the basis for staff development and course design
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Process and product are inextricably linked at David&#8217;s WebLog
-      author_email: null
-      author_ip: 138.77.94.11
-      author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=88
-      content: '[...]        &laquo; Participatory design as the basis for staff development
-        and course design  Issues around staff development for e-learning [...]'
-      date: '2007-08-06 15:09:28'
-      date_gmt: '2007-08-06 05:09:28'
-      id: '1525'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 ### Origins
 

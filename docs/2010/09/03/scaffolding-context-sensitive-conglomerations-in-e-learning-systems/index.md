@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-09-03 12:48:16+10:00
+date: 2010-09-03 02:48:16
 next:
   text: Misc. reflections on reading about situated cognition
   url: /blog/2010/09/03/misc-reflections-on-reading-about-situated-cognition/
 previous:
   text: Situated shared practice, curriculum design and academic development
   url: /blog/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/
+template: blog-post.html
 title: Scaffolding, context-sensitive conglomerations in e-learning systems
 type: post
-template: blog-post.html
 ---
 For the last week or so I've been attempting to bring together the principles that underpin the design theory for e-learning that will be the main contribution of my thesis. This post summarises one of the principles of form and function that is emerging from the last week or so. I using this blog post to escape the confines of PhD-ese and see if writing about it can generate some further refinement.
 

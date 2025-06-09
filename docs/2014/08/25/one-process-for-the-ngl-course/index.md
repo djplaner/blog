@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-08-25 11:41:15+10:00
+date: 2014-08-25 01:41:15
 next:
   text: The cost of being flexible and pushing the boundaries
   url: /blog/2014/08/25/the-cost-of-being-flexible-and-pushing-the-boundaries/
 previous:
   text: Ahh Mendeley and freemium tools
   url: /blog/2014/08/23/ahh-mendeley-and-freemium-tools/
+template: blog-post.html
 title: One process for the NGL course
 type: post
-template: blog-post.html
 ---
 One of the other participants shared her current position with [NGL](http://netgl.wordpress.com/)
 

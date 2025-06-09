@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - sdo
-date: 2006-09-18 08:10:07+10:00
+date: 2006-09-17 22:10:07
 next:
   text: Google video as a host for streaming/lectures
   url: /blog/2006/09/18/google-video-as-a-host-for-streaminglectures/
 previous:
   text: Web 2.0 Course Sites
   url: /blog/2006/09/17/web-20-course-sites/
+template: blog-post.html
 title: Helpdesk and training - first step in SDO
 type: post
-template: blog-post.html
 ---
 **Overall Aim**
 

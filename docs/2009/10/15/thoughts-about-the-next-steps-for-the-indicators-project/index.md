@@ -1,109 +1,106 @@
----
+﻿---
 categories:
 - indicators
-date: 2009-10-15 09:50:30+10:00
+comments:
+- approved: '1'
+  author: nursenetwork
+  author_email: mvgillespie@hotmail.com
+  author_ip: 138.25.106.71
+  author_url: null
+  content: 'Hi David, There''s a symposium on Personal Learning Environments (PLNEs)
+    and Personal Learning Networks (PLNs) underway this week online (13-16th October,
+    2009) - it''s associated with the Connectivism and Connective Knowledge (CCK09)
+    opensource e-Learning course facilitated by George Siemens and Stephen Downes
+    - University of Manitoba, Canada - refer to Siemen''s discussion of LMS systems
+    - URL: [http://ltc.umanitoba.ca/blogs/ples/] I''m really enjoying this course.
+    I''ve written about it at my blog at URL: [http://maija30.edublogs.org/. Yep...CQ...I
+    mentioned that location last post to you.
+
+    Maijann'
+  date: '2009-10-15 19:29:23'
+  date_gmt: '2009-10-15 09:29:23'
+  id: '2851'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Maijann,   Thanks for the point to the PLE/PLN conference.  You''re
+    the second person today to recommend it to me. I actually am aware of it, just
+    haven''t had (or made) the time to engage.  The same applies to CCK09 - I see
+    you''ve been keeping up with it.  I started out with great intentions but was
+    then overwhelmed with what I have to do.
+
+
+    About all I can do at the moment is listen to mp3s while doing some exercise.  I''ve
+    been meaning to look to see if there are mp3s of the PLE/PLN talks. Your comment
+    has motivated me to follow through on this.  It seems there are mp3s being <a
+    href="http://ltc.umanitoba.ca/wiki/CCK09_Recordings" rel="nofollow">made available
+    here</a>.
+
+
+    Personally, I''m hoping that the indicators project will help encourage people
+    to question further the role of the LMS and consider what role PLEs/PLNs can play.  Time
+    will tell.
+
+
+    David.'
+  date: '2009-10-15 21:21:22'
+  date_gmt: '2009-10-15 11:21:22'
+  id: '2852'
+  parent: '2851'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Thomas
+  author_email: thomas.duggan@gmail.com
+  author_ip: 138.77.2.133
+  author_url: null
+  content: I am really interested in the data that you guys are getting from this,
+    I think it could really help in my division as we have only just started making
+    use of the LMS in all courses this year. It would be a great feedback (and research)
+    tool.
+  date: '2009-10-21 13:16:12'
+  date_gmt: '2009-10-21 03:16:12'
+  id: '2853'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'G''day Tom,
+
+
+    We''re going to do a dry run of the ASCILITE presentation in late Nov.  After
+    20 minutes of presentation we''re aiming to talk and show examples of how people
+    might use the data.  We''re particularly interested in encouraging other research
+    projects/questions.
+
+
+    David.'
+  date: '2009-10-21 13:25:50'
+  date_gmt: '2009-10-21 03:25:50'
+  id: '2854'
+  parent: '2853'
+  type: comment
+  user_id: '1'
+date: 2009-10-14 23:50:30
 next:
   text: '"Podcast for presentations at the PLEs &#038; PLNs symposium"'
   url: /blog/2009/10/16/podcast-for-presentations-at-the-ples-plns-symposium/
+pingbacks: []
 previous:
   text: The indicators project and what it means for me
   url: /blog/2009/10/12/the-indicators-project-and-what-it-means-for-me/
+template: blog-post.html
 title: Thoughts about the next steps for the indicators project
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: nursenetwork
-      author_email: mvgillespie@hotmail.com
-      author_ip: 138.25.106.71
-      author_url: null
-      content: 'Hi David, There''s a symposium on Personal Learning Environments (PLNEs)
-        and Personal Learning Networks (PLNs) underway this week online (13-16th October,
-        2009) - it''s associated with the Connectivism and Connective Knowledge (CCK09)
-        opensource e-Learning course facilitated by George Siemens and Stephen Downes
-        - University of Manitoba, Canada - refer to Siemen''s discussion of LMS systems
-        - URL: [http://ltc.umanitoba.ca/blogs/ples/] I''m really enjoying this course.
-        I''ve written about it at my blog at URL: [http://maija30.edublogs.org/. Yep...CQ...I
-        mentioned that location last post to you.
-    
-        Maijann'
-      date: '2009-10-15 19:29:23'
-      date_gmt: '2009-10-15 09:29:23'
-      id: '2851'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Maijann,   Thanks for the point to the PLE/PLN conference.  You''re
-        the second person today to recommend it to me. I actually am aware of it, just
-        haven''t had (or made) the time to engage.  The same applies to CCK09 - I see
-        you''ve been keeping up with it.  I started out with great intentions but was
-        then overwhelmed with what I have to do.
-    
-    
-        About all I can do at the moment is listen to mp3s while doing some exercise.  I''ve
-        been meaning to look to see if there are mp3s of the PLE/PLN talks. Your comment
-        has motivated me to follow through on this.  It seems there are mp3s being <a
-        href="http://ltc.umanitoba.ca/wiki/CCK09_Recordings" rel="nofollow">made available
-        here</a>.
-    
-    
-        Personally, I''m hoping that the indicators project will help encourage people
-        to question further the role of the LMS and consider what role PLEs/PLNs can play.  Time
-        will tell.
-    
-    
-        David.'
-      date: '2009-10-15 21:21:22'
-      date_gmt: '2009-10-15 11:21:22'
-      id: '2852'
-      parent: '2851'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Thomas
-      author_email: thomas.duggan@gmail.com
-      author_ip: 138.77.2.133
-      author_url: null
-      content: I am really interested in the data that you guys are getting from this,
-        I think it could really help in my division as we have only just started making
-        use of the LMS in all courses this year. It would be a great feedback (and research)
-        tool.
-      date: '2009-10-21 13:16:12'
-      date_gmt: '2009-10-21 03:16:12'
-      id: '2853'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'G''day Tom,
-    
-    
-        We''re going to do a dry run of the ASCILITE presentation in late Nov.  After
-        20 minutes of presentation we''re aiming to talk and show examples of how people
-        might use the data.  We''re particularly interested in encouraging other research
-        projects/questions.
-    
-    
-        David.'
-      date: '2009-10-21 13:25:50'
-      date_gmt: '2009-10-21 03:25:50'
-      id: '2854'
-      parent: '2853'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 This post is an attempt to capture some adhoc, over night thoughts about how the [indicators project](http://indicatorsproject.wordpress.com/) might move forward.
 
@@ -155,7 +152,7 @@ There have been two main approaches we've taken in the first paper:
 
 An example is the impact of an instructional designer. The following graph compares the level of student participation mapped against final result between course designed with an instructional designer and all other courses.
 
-\[caption id="" align="aligncenter" width="358" caption="Instuctional Designer Designed Courses vs Overall Average"\]![Instuctional Designer Designed Courses vs Overall Average](images/3991460746_129f762fc0.jpg "Instuctional Designer Designed Courses vs Overall Average")\[/caption\]
+\[caption id="" align="aligncenter" width="358" caption="Instuctional Designer Designed Courses vs Overall Average"\]![Instuctional Designer Designed Courses vs Overall Average](https://djon.es/assets/blog/2009/10/15/thoughts-about-the-next-steps-for-the-indicators-project/images/3991460746_129f762fc0.jpg "Instuctional Designer Designed Courses vs Overall Average")\[/caption\]
 
 In this type of example, we've tended to use three main components:
 
@@ -177,7 +174,7 @@ Are there other theoretical insights which could guide this work?
 
 We've used the LMS independent framework for LMS features developed by Malikowski et al (2007) to examine to what level different features are used within courses. We've looked at this over time and between different LMS. The following shows the evolution of feature adoption over time within the Blackboard LMS used at CQU.
 
-\[caption id="" align="aligncenter" width="399" caption="Blackboard Feature Adoption"\]![](images/3991438874_601da564c8_o.jpg "Blackboard Feature Adoption")\[/caption\]
+\[caption id="" align="aligncenter" width="399" caption="Blackboard Feature Adoption"\]![](https://djon.es/assets/blog/2009/10/15/thoughts-about-the-next-steps-for-the-indicators-project/images/3991438874_601da564c8_o.jpg "Blackboard Feature Adoption")\[/caption\]
 
 Under this model, the components could be described as:
 

@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - eei
-date: 2017-09-23 14:30:28+10:00
+date: 2017-09-23 04:30:28
 next:
   text: '"Learning, learning analytics and multiple levels: The problem of starvation"'
   url: /blog/2017/09/25/learning-learning-analytics-and-multiple-levels-the-problem-of-starvation/
@@ -11,9 +11,9 @@ previous:
 tags:
 - research
 - workflow
+template: blog-post.html
 title: Further developing research workflow
 type: post
-template: blog-post.html
 ---
 An attempt to briefly document an exploration into possibilities for enhancing my digital workflow.
 

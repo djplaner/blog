@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - bad
 - elearning
 - thesis
-date: 2015-08-14 09:57:05+10:00
+date: 2015-08-13 23:57:05
 next:
   text: Bringing github and the Moodle book module together - step 1
   url: /blog/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/
 previous:
   text: How might github and the Moodle book module work together
   url: /blog/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/
+template: blog-post.html
 title: '"Homogeneity: the inevitable result of a strategic approach?"'
 type: post
-template: blog-post.html
 ---
 [![Showing up in the exact same dress... by HA! Designs - Artbyheather, on Flickr](https://farm4.static.flickr.com/3131/3353909126_52ff6ee4c7_m.jpg "Showing up in the exact same dress... by HA! Designs - Artbyheather, on Flickr")](https://www.flickr.com/photos/hadesigns/3353909126/)  
 [![Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License](http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-nd/2.0/)   by  [](https://www.flickr.com/people/hadesigns/)[HA! Designs - Artbyheather](https://www.flickr.com/people/hadesigns/) [](http://www.imagecodr.org/)

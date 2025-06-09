@@ -1,130 +1,127 @@
----
-date: 2008-10-18 21:32:20+10:00
+﻿---
+comments: []
+date: 2008-10-18 11:32:20
+pingbacks:
+- approved: '1'
+  author: 'Extending the classroom: Open content and open teaching: Summary and reflection
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.104.54
+  author_url: https://djon.es/blog/2008/11/11/extending-the-classroom-open-content-and-open-teaching-summary-and-reflection/
+  content: '[...] resonated strongly with me as it&#8217;s a foundation of my practice.
+    In the Ps Framework stuff &#8220;place&#8221; is an important, if not the most
+    important consideration when looking at the [...]'
+  date: '2008-11-11 08:57:31'
+  date_gmt: '2008-11-10 22:57:31'
+  id: '1631'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio skeptic? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.21
+  author_url: https://djon.es/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/
+  content: "[...] looking at them. At the time I said  This is one example of how\
+    \ the \u201Cproduct\u201D (in terms of the Ps Framework) overwhelms consideration\
+    \ of \u201Cplace\u201D, of context. This is exactly how fads and fashions arise\
+    \ [...]"
+  date: '2009-01-21 09:23:57'
+  date_gmt: '2009-01-20 23:23:57'
+  id: '1632'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The Ps Framework - avoiding perceptual blindness? &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.24
+  author_url: https://djon.es/blog/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/
+  content: '[...] The Ps Framework: Mapping the educational technology landscape for
+    the PLEs@CQUni project Presentation (including video) and paper. [...]'
+  date: '2009-01-21 22:35:52'
+  date_gmt: '2009-01-21 12:35:52'
+  id: '1633'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The protean nature of modern technology - another limitation of most views
+    of e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.143
+  author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
+  content: '[...] technology - another limitation of most views of&nbsp;e-learning  A
+    part of my thinking around the Ps Framework I suggest that there are a number
+    of dominant assumptions that underpin the current implementation [...]'
+  date: '2009-02-09 15:38:36'
+  date_gmt: '2009-02-09 05:38:36'
+  id: '1634'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Alternatives for the institutional implementation of e-learning: Lessons
+    from 12 years of Webfuse &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/
+  content: '[...] Ps framework (Jones, Vallack and Fitzgerald-Hood, 2008);The Ps Framework
+    is a descriptive theory that helps [...]'
+  date: '2009-02-16 10:25:51'
+  date_gmt: '2009-02-16 00:25:51'
+  id: '1635'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Comparing VLEs/LMS to the past: flaws and implications for development
+    models &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
+  content: '[...] 2 of the thesis and, in particular, on the &#8220;Past Experience&#8221;
+    section. As part of the Ps Framework, &#8220;Past Experience&#8221; is meant to
+    What has gone on before with e-learning, both within and [...]'
+  date: '2009-03-15 23:20:30'
+  date_gmt: '2009-03-15 13:20:30'
+  id: '1636'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The suffocating straightjackets of liberating ideas &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.31
+  author_url: https://djon.es/blog/2010/03/24/the-suffocating-straightjackets-of-liberating-ideas/
+  content: '[...] I think I need to figure out how to effectively engage more in this
+    two stage process. I think the Ps Framework provides one small part of a tool
+    to help this process, need to figure out what needs to be wrapped [...]'
+  date: '2010-03-24 10:28:25'
+  date_gmt: '2010-03-24 00:28:25'
+  id: '1637'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How to handle the marriage of PLEs and institutions &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.113
+  author_url: https://djon.es/blog/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/
+  content: '[...] following is informed by a paper some colleagues and I wrote back
+    in 2009 around this topic. That paper, aimed to map the landscape [...]'
+  date: '2010-07-22 11:03:19'
+  date_gmt: '2010-07-22 01:03:19'
+  id: '1638'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"The Ps Framework: Mapping the landscape for the PLEs@CQUni project"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Extending the classroom: Open content and open teaching: Summary and reflection
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.104.54
-      author_url: https://djon.es/blog/2008/11/11/extending-the-classroom-open-content-and-open-teaching-summary-and-reflection/
-      content: '[...] resonated strongly with me as it&#8217;s a foundation of my practice.
-        In the Ps Framework stuff &#8220;place&#8221; is an important, if not the most
-        important consideration when looking at the [...]'
-      date: '2008-11-11 08:57:31'
-      date_gmt: '2008-11-10 22:57:31'
-      id: '1631'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio skeptic? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.21
-      author_url: https://djon.es/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/
-      content: "[...] looking at them. At the time I said  This is one example of how\
-        \ the \u201Cproduct\u201D (in terms of the Ps Framework) overwhelms consideration\
-        \ of \u201Cplace\u201D, of context. This is exactly how fads and fashions arise\
-        \ [...]"
-      date: '2009-01-21 09:23:57'
-      date_gmt: '2009-01-20 23:23:57'
-      id: '1632'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The Ps Framework - avoiding perceptual blindness? &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.24
-      author_url: https://djon.es/blog/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/
-      content: '[...] The Ps Framework: Mapping the educational technology landscape for
-        the PLEs@CQUni project Presentation (including video) and paper. [...]'
-      date: '2009-01-21 22:35:52'
-      date_gmt: '2009-01-21 12:35:52'
-      id: '1633'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The protean nature of modern technology - another limitation of most views
-        of e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.143
-      author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
-      content: '[...] technology - another limitation of most views of&nbsp;e-learning  A
-        part of my thinking around the Ps Framework I suggest that there are a number
-        of dominant assumptions that underpin the current implementation [...]'
-      date: '2009-02-09 15:38:36'
-      date_gmt: '2009-02-09 05:38:36'
-      id: '1634'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Alternatives for the institutional implementation of e-learning: Lessons
-        from 12 years of Webfuse &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/
-      content: '[...] Ps framework (Jones, Vallack and Fitzgerald-Hood, 2008);The Ps Framework
-        is a descriptive theory that helps [...]'
-      date: '2009-02-16 10:25:51'
-      date_gmt: '2009-02-16 00:25:51'
-      id: '1635'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Comparing VLEs/LMS to the past: flaws and implications for development
-        models &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
-      content: '[...] 2 of the thesis and, in particular, on the &#8220;Past Experience&#8221;
-        section. As part of the Ps Framework, &#8220;Past Experience&#8221; is meant to
-        What has gone on before with e-learning, both within and [...]'
-      date: '2009-03-15 23:20:30'
-      date_gmt: '2009-03-15 13:20:30'
-      id: '1636'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The suffocating straightjackets of liberating ideas &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.31
-      author_url: https://djon.es/blog/2010/03/24/the-suffocating-straightjackets-of-liberating-ideas/
-      content: '[...] I think I need to figure out how to effectively engage more in this
-        two stage process. I think the Ps Framework provides one small part of a tool
-        to help this process, need to figure out what needs to be wrapped [...]'
-      date: '2010-03-24 10:28:25'
-      date_gmt: '2010-03-24 00:28:25'
-      id: '1637'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How to handle the marriage of PLEs and institutions &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.113
-      author_url: https://djon.es/blog/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/
-      content: '[...] following is informed by a paper some colleagues and I wrote back
-        in 2009 around this topic. That paper, aimed to map the landscape [...]'
-      date: '2010-07-22 11:03:19'
-      date_gmt: '2010-07-22 01:03:19'
-      id: '1638'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Jocene Vallack, Nathaniel Fitzgerald-Hood, The Ps Framework: Mapping the landscape for the PLEs@CQUni project, [Proceedings of ASCILITE’2008](http://www.ascilite.org.au/conferences/melbourne08/)
 

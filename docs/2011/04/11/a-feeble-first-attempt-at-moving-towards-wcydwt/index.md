@@ -1,24 +1,20 @@
----
+﻿---
 categories:
 - mathematics
 - teaching
 - wcydwt
-date: 2011-04-11 09:07:26+10:00
+comments: []
+date: 2011-04-10 23:07:26
 next:
   text: What shapes how we think?
   url: /blog/2011/04/12/what-shapes-how-we-think/
+pingbacks: []
 previous:
   text: Group 3 Technologies - The activities
   url: /blog/2011/04/09/group-3-technologies-the-activities/
+template: blog-post.html
 title: A feeble first attempt at moving towards WCYDWT
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 Late last week I was thinking about how I could develop something approaching a [WCYDWT lesson](http://blog.mrmeyer.com/?category_name=what-can-you-do-with-this) for mathematics. It is something I am going to have to do very soon now. As it happens, in looking for the WCYDWT link, I came across [this Diigo group](http://groups.diigo.com/group/wcydwt) that I am going to have to return to.
 

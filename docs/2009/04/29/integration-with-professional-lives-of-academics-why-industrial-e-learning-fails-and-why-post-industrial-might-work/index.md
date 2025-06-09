@@ -1,74 +1,72 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - thesis
-date: 2009-04-29 14:08:02+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 115.64.241.18
+  author_url: http://www.vrbones.com
+  content: I've had a similar experience recently with a <a href="http://www.vrbones.com/2009/04/follow-smart-people.html"
+    rel="nofollow">simple RSS reader</a> jumping up and surprising me while I was
+    off trying to piece together what a PLE would look like.
+  date: '2009-05-03 13:57:49'
+  date_gmt: '2009-05-03 03:57:49'
+  id: '2454'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-04-29 04:08:02
 next:
   text: First official BAM paper done
   url: /blog/2009/04/30/first-official-bam-paper-done/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #9 - spluttering out of steam &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/05/01/phd-update-9-spluttering-out-of-steam/
+  content: '[...] Integration with professional lives of academicsThis arose out of
+    a reference I collected and read as part of working on the &#8220;Place&#8221;
+    component. It connected a few dots in my thinking about e-learning in general
+    and some of the reasons why I believe Webfuse and its approach may have been more
+    successful. It&#8217;s a question of how integrated the academic perceives the
+    e-learning system to be to their everyday professional and personal life. Webfuse
+    worked, to the extent it did, because it integrated with a lot of the administrative
+    tasks as well as learning. LMSs work less well because, by their very nature they
+    are limited to how well they can integrate with other aspects of an academics
+    life. [...]'
+  date: '2009-05-01 16:08:45'
+  date_gmt: '2009-05-01 06:08:45'
+  id: '2453'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The teaching/research nexus &#8211; an example? &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 72.233.104.47
+  author_url: https://djon.es/blog/2009/06/05/the-teachingresearch-nexus-an-example/
+  content: '[...] a previous post I connected with some ancient literature (early
+    90s) and Stephen Downes to talk about the [...]'
+  date: '2009-06-05 09:48:32'
+  date_gmt: '2009-06-04 23:48:32'
+  id: '2455'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Lessons for from past experience
   url: /blog/2009/04/25/lessons-for-e-learning/
+template: blog-post.html
 title: Integration with professional lives of academics - why industrial e-learning
   fails and why post-industrial might work
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 115.64.241.18
-      author_url: http://www.vrbones.com
-      content: I've had a similar experience recently with a <a href="http://www.vrbones.com/2009/04/follow-smart-people.html"
-        rel="nofollow">simple RSS reader</a> jumping up and surprising me while I was
-        off trying to piece together what a PLE would look like.
-      date: '2009-05-03 13:57:49'
-      date_gmt: '2009-05-03 03:57:49'
-      id: '2454'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #9 - spluttering out of steam &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/05/01/phd-update-9-spluttering-out-of-steam/
-      content: '[...] Integration with professional lives of academicsThis arose out of
-        a reference I collected and read as part of working on the &#8220;Place&#8221;
-        component. It connected a few dots in my thinking about e-learning in general
-        and some of the reasons why I believe Webfuse and its approach may have been more
-        successful. It&#8217;s a question of how integrated the academic perceives the
-        e-learning system to be to their everyday professional and personal life. Webfuse
-        worked, to the extent it did, because it integrated with a lot of the administrative
-        tasks as well as learning. LMSs work less well because, by their very nature they
-        are limited to how well they can integrate with other aspects of an academics
-        life. [...]'
-      date: '2009-05-01 16:08:45'
-      date_gmt: '2009-05-01 06:08:45'
-      id: '2453'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The teaching/research nexus &#8211; an example? &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 72.233.104.47
-      author_url: https://djon.es/blog/2009/06/05/the-teachingresearch-nexus-an-example/
-      content: '[...] a previous post I connected with some ancient literature (early
-        90s) and Stephen Downes to talk about the [...]'
-      date: '2009-06-05 09:48:32'
-      date_gmt: '2009-06-04 23:48:32'
-      id: '2455'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm currently struggling with writing the "Place" component of the [Ps framework](/blog/2009/03/18/the-ps-framework/) as part chapter 2 of my [thesis](/blog/research/phd-thesis/). In wondering the literature, as I tend to do while writing, I've come across an article (Gilbert and Geoghegan, 1995) that has some interest for me. Gilbert's description of the paper is
 

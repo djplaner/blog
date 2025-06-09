@@ -1,95 +1,93 @@
----
+﻿---
 categories:
 - elearning
 - innovation
-date: 2009-05-07 10:21:41+10:00
+comments:
+- approved: '1'
+  author: jocene
+  author_email: j.vallack@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: null
+  content: null
+  date: '2009-05-07 13:00:34'
+  date_gmt: '2009-05-07 03:00:34'
+  id: '2479'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: jocene
+  author_email: j.vallack@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: null
+  content: http://www.dvolver.com/live/movies-267688
+  date: '2009-05-07 13:04:05'
+  date_gmt: '2009-05-07 03:04:05'
+  id: '2480'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Jocene,
+
+
+    The movie does illustrate perhaps the biggest problem.  It''s the sort of thing
+    talked about in Findlow (2008).  How can you be accountable for innovation?  When
+    accountable means identifying up-front what will happen and also at the same time
+    minimise any risk.
+
+
+    Findlow makes the point that, from one perspective, that innovation is about being
+    problematic, taking risk.  In her experience the result of "task corruption".  People
+    felt pressure to "talk the accountability talk" while still "walking the innovation
+    walk".
+
+
+    I feel this will almost certainly be one of the strategies that will have to be
+    used.  The question is how far will this type of thing corrupt the underlying
+    innovation through being demonstrably unauthentic.
+
+
+    The need for this sort of corruption is one of the main reservations I have about
+    the position.
+
+
+    David.'
+  date: '2009-05-07 21:59:34'
+  date_gmt: '2009-05-07 11:59:34'
+  id: '2481'
+  parent: '2480'
+  type: comment
+  user_id: '1'
+date: 2009-05-07 00:21:41
 next:
   text: Society - an aspect of Place impacting on e-learning
   url: /blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #10 &#8211; Dragging on &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/05/08/phd-update-10-dragging-on/
+  content: '[...] been a slow one, or at least felt like it. The public holiday didn&#8217;t
+    help, nor the day off to ponder the new position. Progress has been made, but
+    it just seems slow, especially when compared to what I said I&#8217;d [...]'
+  date: '2009-05-08 15:59:29'
+  date_gmt: '2009-05-08 05:59:29'
+  id: '2482'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'University - change or die: and another problem with the LMS model'
   url: /blog/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/
+template: blog-post.html
 title: Pondering a new position - request for help
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: jocene
-      author_email: j.vallack@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: null
-      content: null
-      date: '2009-05-07 13:00:34'
-      date_gmt: '2009-05-07 03:00:34'
-      id: '2479'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: jocene
-      author_email: j.vallack@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: null
-      content: http://www.dvolver.com/live/movies-267688
-      date: '2009-05-07 13:04:05'
-      date_gmt: '2009-05-07 03:04:05'
-      id: '2480'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Jocene,
-    
-    
-        The movie does illustrate perhaps the biggest problem.  It''s the sort of thing
-        talked about in Findlow (2008).  How can you be accountable for innovation?  When
-        accountable means identifying up-front what will happen and also at the same time
-        minimise any risk.
-    
-    
-        Findlow makes the point that, from one perspective, that innovation is about being
-        problematic, taking risk.  In her experience the result of "task corruption".  People
-        felt pressure to "talk the accountability talk" while still "walking the innovation
-        walk".
-    
-    
-        I feel this will almost certainly be one of the strategies that will have to be
-        used.  The question is how far will this type of thing corrupt the underlying
-        innovation through being demonstrably unauthentic.
-    
-    
-        The need for this sort of corruption is one of the main reservations I have about
-        the position.
-    
-    
-        David.'
-      date: '2009-05-07 21:59:34'
-      date_gmt: '2009-05-07 11:59:34'
-      id: '2481'
-      parent: '2480'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #10 &#8211; Dragging on &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/05/08/phd-update-10-dragging-on/
-      content: '[...] been a slow one, or at least felt like it. The public holiday didn&#8217;t
-        help, nor the day off to ponder the new position. Progress has been made, but
-        it just seems slow, especially when compared to what I said I&#8217;d [...]'
-      date: '2009-05-08 15:59:29'
-      date_gmt: '2009-05-08 05:59:29'
-      id: '2482'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 After a period of uncertainty, it appears likely that at some stage during May 2009 I may be starting a new position at [my current institution](http://www.cqu.edu.au/). The position goes under the title - "eLearning and Innovation Specialist". It is a academic position, I will retain my current appointment as a Level C Academic but rather than teaching will have to achieve the following position purpose
 

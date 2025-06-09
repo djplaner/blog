@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2008-11-17 16:15:16+10:00
+date: 2008-11-17 06:15:16
 next:
   text: Evaluating an LMS by understanding the underpinning "model"
   url: /blog/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/
 previous:
   text: The dissonance gap in systems and LMS evaluations
   url: /blog/2008/11/17/the-dissonance-gap-in-systems-and-lms-evaluations/
+template: blog-post.html
 title: '"PLEs@CQUni: Origins, rationale and outcomes so far"'
 type: post
-template: blog-post.html
 ---
 The video and slides from the talk last Friday giving an overview of the [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni) are now up and available.
 

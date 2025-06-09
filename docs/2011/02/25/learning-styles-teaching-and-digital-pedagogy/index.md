@@ -1,242 +1,240 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-02-25 15:29:23+10:00
+comments:
+- approved: '1'
+  author: wfass1
+  author_email: fasswe@aapt.net.au
+  author_ip: 59.100.108.97
+  author_url: http://wfass1.wordpress.com
+  content: There is enormous value in supporting your students' understanding of their
+    own learning preferences, whether through conversational means or analytical tool.  In
+    my experience very few of them tend to falsify results, rather their level of
+    self-interest is well served by asking them to become reflective about themselves
+    as learner. I certainly agree that the tool is not necessarily the best for the
+    purpose - difficult in a course with limited scope and a novice entry level. But
+    I would love for you to take your ideas and contextualise them into, for instance
+    a group of 30 14-year olds. How will this knowledge, together with the capacity
+    of ICT to transform, support the way you approach teaching in a contemporary classroom?
+  date: '2011-02-25 20:54:33'
+  date_gmt: '2011-02-25 10:54:33'
+  id: '3271'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 138.130.74.37
+  author_url: https://djon.es/blog/
+  content: 'Spent a bit of time after posting this searching out the information I
+    remember that questioned learning styles. I need to take the time, at some stage,
+    to read/re-read, reflect on these, and post again at a latter stage.
+
+
+    Some of the more interesting resources
+
+    http://www.uwlax.edu/catl/studentlearning/Presentations/5_Ill_Conceived_Ideas_about_Learning.pdf
+
+
+    The discussion (http://www.blogger.com/comment.g?blogID=14184878&amp;postID=2571850319040161924)
+    arising from this blog post http://www.willatworklearning.com/2010/02/learning-styles-reviewed-by-association-for-psychological-science-and-found-wanting.html
+
+
+    All of which seem to arise from this journal issue http://www.psychologicalscience.org/journals/pspi/PSPI_9_3.pdf'
+  date: '2011-02-26 08:32:28'
+  date_gmt: '2011-02-25 22:32:28'
+  id: '3272'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 138.130.74.37
+  author_url: https://djon.es/blog/
+  content: And how could I forget this important article from The Onion - http://www.theonion.com/articles/parents-of-nasal-learners-demand-odorbased-curricu,396/
+  date: '2011-02-26 08:35:14'
+  date_gmt: '2011-02-25 22:35:14'
+  id: '3273'
+  parent: '3272'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.106.224
+  author_url: http://www.vrbones.com
+  content: "Learning styles:\nThe big takeaway I had from analysing learning styles\
+    \ was that my learning style may vary from my students. This means that things\
+    \ that may seem easy / natural for me to understand may not suit the class.  Once\
+    \ you're aware of this, it's pretty easy to keep checking what's working for different\
+    \ students and be ready to change modes at the drop of a hat. Unfortunately I\
+    \ still have a problem letting go: I know there are still kids that haven't cottened\
+    \ on, but I have to move on because of time or the rest of the class is bored.\n\
+    \n<blockquote>Again, I\u2019d make the distinction that it is not the technology\
+    \ that supports the differences, but the capabilities for effects that it makes\
+    \ available. (This has me thinking about whether this is to fine/academic a distinction\
+    \ to make, for now I\u2019ll stick with it.)\nI'd encourage you to stick with\
+    \ it. It's far too easy for the course to take you into \"ICT is the saviour for\
+    \ everything\" territory when, in fact, learning gains are paramount regardless\
+    \ of how they are achieved. For me it was counterbalanced largely by the ignorance\
+    \ of possibilities made available for technology by most teachers in the field.\
+    \ I know you know this because I got most of my technophile skepticism from you\
+    \ ;)"
+  date: '2011-02-27 09:01:22'
+  date_gmt: '2011-02-26 23:01:22'
+  id: '3274'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 123.211.109.101
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the comments Tony.
+
+
+    My thoughts on learning styles/multiple intelligences etc are a work in progress.
+    At the moment, I''m questioning some of the very specific specifications of the
+    differences. However, the basic point that there are differences and that you
+    need to be aware or/cater for those differences while teaching is the point.
+
+
+    There''s the question of diversity of content knowledge which I''m currently thinking
+    about and perhaps may post about soon.  In short, there''s a suggestion that the
+    most important diversity amongst learners is the level of knowledge they have
+    about a particular area.
+
+
+    Which seems to pick up your thoughts about the ignorance of the possibilities
+    of technology amongst teachers. I think that''s likely to be another question
+    I think about more.'
+  date: '2011-02-27 15:11:17'
+  date_gmt: '2011-02-27 05:11:17'
+  id: '3275'
+  parent: '3274'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: wfass1
+  author_email: fasswe@aapt.net.au
+  author_ip: 59.100.11.131
+  author_url: http://wfass1.wordpress.com
+  content: "\"Once you\u2019re aware of this, it\u2019s pretty easy to keep checking\
+    \ what\u2019s working for different students and be ready to change modes at the\
+    \ drop of a hat. Unfortunately I still have a problem letting go: I know there\
+    \ are still kids that haven\u2019t cottened on, but I have to move on because\
+    \ of time or the rest of the class is bored.\" Is this not the value of ICT? That\
+    \ these diferent modes can be maintained concurrently? It is not necessarily a\
+    \ delivery strategy, rather a strategy that allows students choice in their modes\
+    \ of learning. Although I am a visual learner, I elect not to use visual inputs\
+    \ for certaint tasks - this could be said for all learners. And although I am\
+    \ not a collaborative learner, I have been made aware through experience (which\
+    \ is your task as a teacher) that it is best to learn collaboratively in certain\
+    \ contexts. Therefore it is the task of the teacher to weave different learning\
+    \ modalities through each learning experience to scaffold learning that is pedagogically\
+    \ sound. As Mishra and Koehler (2007) stated: \"teaching with technology is a\
+    \ wicked problem.\" There is no greater understatement.\n\nAnd then, just when\
+    \ we think we have the ICT element under control, the decision may be made that\
+    \ technology is not the best mediator of learning, and in fact for many topics\
+    \ and pedagogies, face to face learning is preferable. It is clear that manipulation\
+    \ of algebraic problems is far more effective with old technology - pencil and\
+    \ paper.\n\nThere are as many teachers in the field who are quiet achievers with\
+    \ ICT. Whilst they do not use fancy footwork and applications, their pedagogy\
+    \ with simple devices like digital images is extraordinary. In general, a teacher\
+    \ with contemporary ideas about pedagogy will look to ICT for its greater learning\
+    \ purpose and use it in excellent ways, whilst perhaps teachers who are less reliant\
+    \ on contemporary pedagogy do not. I am very reluctant to brand any teachers as\
+    \ being ignorant. Every teacher has a set of pedagogies, strengths and gifts,\
+    \ and it is the combination of teachers in a child's life that provides a rich\
+    \ learning experience. A child who feels valued, and who values learning, independent\
+    \ of the type of technologies used, will be a child who becomes learned."
+  date: '2011-02-27 15:30:14'
+  date_gmt: '2011-02-27 05:30:14'
+  id: '3276'
+  parent: '3274'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: wfass1
+  author_email: fasswe@aapt.net.au
+  author_ip: 59.100.11.131
+  author_url: http://wfass1.wordpress.com
+  content: "In response to David's comment \"There\u2019s the question of diversity\
+    \ of content knowledge which I\u2019m currently thinking about and perhaps may\
+    \ post about soon. In short, there\u2019s a suggestion that the most important\
+    \ diversity amongst learners is the level of knowledge they have about a particular\
+    \ area. \":\n\nThis needs to be very clearly defined. If you are talking about\
+    \ levels of complex thinking, then it is clearly identified in the Essential Learnings\
+    \ that ALL students are expected to think in complex ways. Certainly the descriptors\
+    \ of complexity may differ from one ability level to the next. So if you are talking\
+    \ about complex reasoning process, I would like to have clarified what you mean\
+    \ about \"level\". For instance, it is reasonable to expect, if using Bloom's\
+    \ taxonomy, that all students work in the realm of analysis, evaluation and synthesis,\
+    \ regardless of their ability level.\n\nBut your comment raises some very interesting\
+    \ ideas about connectivism. Because if you support your learners in working collaboratively,\
+    \ the specific knowledge set of one person will be complemented by that of the\
+    \ others in their group, and thus lift the collective learning far beyond the\
+    \ sum of individual knowledge.\nAs a fatuous example, I know all about circuits,\
+    \ can explain to my partner why the light bulb ceases to work. But I am unable\
+    \ to climb the ladder to change it. Betweem the two of us, we are able to shed\
+    \ light on the situation!!\n\nNow, the question is, how does this fit into traditional\
+    \ ideas about schooling? We value ranking and individual achievement in schools,\
+    \ whilst the workplace generally values collaborative outcomes as teams. Is a\
+    \ person's value to the team any less because they know how to find the person\
+    \ (or source) that \"knows\"? And even more fatuous, is the contribution of the\
+    \ student who \"brings the TimTams\" and the \"Kleenex\" to group meetings any\
+    \ less valuable to the contribution of the group than the intellectual high flyers?\n\
+    \nWhat we are talking about is capacity rather than knowledge, an interesting\
+    \ concept."
+  date: '2011-02-27 15:41:55'
+  date_gmt: '2011-02-27 05:41:55'
+  id: '3277'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-02-25 05:29:23
 next:
   text: Prensky, immigrants and old problems in new bottles
   url: /blog/2011/02/27/prensky-immigrants-and-old-problems-in-new-bottles/
+pingbacks:
+- approved: '1'
+  author: "Tweets that mention Learning styles, teaching and digital pedagogy \xAB\
+    \ The Weblog of (a) David Jones -- Topsy.com"
+  author_email: null
+  author_ip: 208.74.66.43
+  author_url: http://topsy.com/davidtjones.wordpress.com/2011/02/25/learning-styles-teaching-and-digital-pedagogy/?utm_source=pingback&utm_campaign=L2
+  content: "[...] This post was mentioned on Twitter by Paulo Sim\xF5es, Juanjo Morales.\
+    \ Juanjo Morales said: RT @pgsimoes: Learning styles, teaching and digital pedagogy\
+    \ http://dlvr.it/HXW2d #elearning [...]"
+  date: '2011-02-25 15:56:12'
+  date_gmt: '2011-02-25 05:56:12'
+  id: '3270'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: ICTs for learning design &#8211; the first week &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 72.233.61.16
+  author_url: https://djon.es/blog/2011/02/28/icts-for-learning-design-the-first-week/
+  content: '[...] I have to post another entry on this [...]'
+  date: '2011-02-28 10:40:43'
+  date_gmt: '2011-02-28 00:40:43'
+  id: '3278'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: How many pages of a course profile are necessary?
   url: /blog/2011/02/20/how-many-pages-of-a-course-profile-are-necessary/
+template: blog-post.html
 title: Learning styles, teaching and digital pedagogy
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: wfass1
-      author_email: fasswe@aapt.net.au
-      author_ip: 59.100.108.97
-      author_url: http://wfass1.wordpress.com
-      content: There is enormous value in supporting your students' understanding of their
-        own learning preferences, whether through conversational means or analytical tool.  In
-        my experience very few of them tend to falsify results, rather their level of
-        self-interest is well served by asking them to become reflective about themselves
-        as learner. I certainly agree that the tool is not necessarily the best for the
-        purpose - difficult in a course with limited scope and a novice entry level. But
-        I would love for you to take your ideas and contextualise them into, for instance
-        a group of 30 14-year olds. How will this knowledge, together with the capacity
-        of ICT to transform, support the way you approach teaching in a contemporary classroom?
-      date: '2011-02-25 20:54:33'
-      date_gmt: '2011-02-25 10:54:33'
-      id: '3271'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 138.130.74.37
-      author_url: https://djon.es/blog/
-      content: 'Spent a bit of time after posting this searching out the information I
-        remember that questioned learning styles. I need to take the time, at some stage,
-        to read/re-read, reflect on these, and post again at a latter stage.
-    
-    
-        Some of the more interesting resources
-    
-        http://www.uwlax.edu/catl/studentlearning/Presentations/5_Ill_Conceived_Ideas_about_Learning.pdf
-    
-    
-        The discussion (http://www.blogger.com/comment.g?blogID=14184878&amp;postID=2571850319040161924)
-        arising from this blog post http://www.willatworklearning.com/2010/02/learning-styles-reviewed-by-association-for-psychological-science-and-found-wanting.html
-    
-    
-        All of which seem to arise from this journal issue http://www.psychologicalscience.org/journals/pspi/PSPI_9_3.pdf'
-      date: '2011-02-26 08:32:28'
-      date_gmt: '2011-02-25 22:32:28'
-      id: '3272'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 138.130.74.37
-      author_url: https://djon.es/blog/
-      content: And how could I forget this important article from The Onion - http://www.theonion.com/articles/parents-of-nasal-learners-demand-odorbased-curricu,396/
-      date: '2011-02-26 08:35:14'
-      date_gmt: '2011-02-25 22:35:14'
-      id: '3273'
-      parent: '3272'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.106.224
-      author_url: http://www.vrbones.com
-      content: "Learning styles:\nThe big takeaway I had from analysing learning styles\
-        \ was that my learning style may vary from my students. This means that things\
-        \ that may seem easy / natural for me to understand may not suit the class.  Once\
-        \ you're aware of this, it's pretty easy to keep checking what's working for different\
-        \ students and be ready to change modes at the drop of a hat. Unfortunately I\
-        \ still have a problem letting go: I know there are still kids that haven't cottened\
-        \ on, but I have to move on because of time or the rest of the class is bored.\n\
-        \n<blockquote>Again, I\u2019d make the distinction that it is not the technology\
-        \ that supports the differences, but the capabilities for effects that it makes\
-        \ available. (This has me thinking about whether this is to fine/academic a distinction\
-        \ to make, for now I\u2019ll stick with it.)\nI'd encourage you to stick with\
-        \ it. It's far too easy for the course to take you into \"ICT is the saviour for\
-        \ everything\" territory when, in fact, learning gains are paramount regardless\
-        \ of how they are achieved. For me it was counterbalanced largely by the ignorance\
-        \ of possibilities made available for technology by most teachers in the field.\
-        \ I know you know this because I got most of my technophile skepticism from you\
-        \ ;)"
-      date: '2011-02-27 09:01:22'
-      date_gmt: '2011-02-26 23:01:22'
-      id: '3274'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 123.211.109.101
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the comments Tony.
-    
-    
-        My thoughts on learning styles/multiple intelligences etc are a work in progress.
-        At the moment, I''m questioning some of the very specific specifications of the
-        differences. However, the basic point that there are differences and that you
-        need to be aware or/cater for those differences while teaching is the point.
-    
-    
-        There''s the question of diversity of content knowledge which I''m currently thinking
-        about and perhaps may post about soon.  In short, there''s a suggestion that the
-        most important diversity amongst learners is the level of knowledge they have
-        about a particular area.
-    
-    
-        Which seems to pick up your thoughts about the ignorance of the possibilities
-        of technology amongst teachers. I think that''s likely to be another question
-        I think about more.'
-      date: '2011-02-27 15:11:17'
-      date_gmt: '2011-02-27 05:11:17'
-      id: '3275'
-      parent: '3274'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: wfass1
-      author_email: fasswe@aapt.net.au
-      author_ip: 59.100.11.131
-      author_url: http://wfass1.wordpress.com
-      content: "\"Once you\u2019re aware of this, it\u2019s pretty easy to keep checking\
-        \ what\u2019s working for different students and be ready to change modes at the\
-        \ drop of a hat. Unfortunately I still have a problem letting go: I know there\
-        \ are still kids that haven\u2019t cottened on, but I have to move on because\
-        \ of time or the rest of the class is bored.\" Is this not the value of ICT? That\
-        \ these diferent modes can be maintained concurrently? It is not necessarily a\
-        \ delivery strategy, rather a strategy that allows students choice in their modes\
-        \ of learning. Although I am a visual learner, I elect not to use visual inputs\
-        \ for certaint tasks - this could be said for all learners. And although I am\
-        \ not a collaborative learner, I have been made aware through experience (which\
-        \ is your task as a teacher) that it is best to learn collaboratively in certain\
-        \ contexts. Therefore it is the task of the teacher to weave different learning\
-        \ modalities through each learning experience to scaffold learning that is pedagogically\
-        \ sound. As Mishra and Koehler (2007) stated: \"teaching with technology is a\
-        \ wicked problem.\" There is no greater understatement.\n\nAnd then, just when\
-        \ we think we have the ICT element under control, the decision may be made that\
-        \ technology is not the best mediator of learning, and in fact for many topics\
-        \ and pedagogies, face to face learning is preferable. It is clear that manipulation\
-        \ of algebraic problems is far more effective with old technology - pencil and\
-        \ paper.\n\nThere are as many teachers in the field who are quiet achievers with\
-        \ ICT. Whilst they do not use fancy footwork and applications, their pedagogy\
-        \ with simple devices like digital images is extraordinary. In general, a teacher\
-        \ with contemporary ideas about pedagogy will look to ICT for its greater learning\
-        \ purpose and use it in excellent ways, whilst perhaps teachers who are less reliant\
-        \ on contemporary pedagogy do not. I am very reluctant to brand any teachers as\
-        \ being ignorant. Every teacher has a set of pedagogies, strengths and gifts,\
-        \ and it is the combination of teachers in a child's life that provides a rich\
-        \ learning experience. A child who feels valued, and who values learning, independent\
-        \ of the type of technologies used, will be a child who becomes learned."
-      date: '2011-02-27 15:30:14'
-      date_gmt: '2011-02-27 05:30:14'
-      id: '3276'
-      parent: '3274'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: wfass1
-      author_email: fasswe@aapt.net.au
-      author_ip: 59.100.11.131
-      author_url: http://wfass1.wordpress.com
-      content: "In response to David's comment \"There\u2019s the question of diversity\
-        \ of content knowledge which I\u2019m currently thinking about and perhaps may\
-        \ post about soon. In short, there\u2019s a suggestion that the most important\
-        \ diversity amongst learners is the level of knowledge they have about a particular\
-        \ area. \":\n\nThis needs to be very clearly defined. If you are talking about\
-        \ levels of complex thinking, then it is clearly identified in the Essential Learnings\
-        \ that ALL students are expected to think in complex ways. Certainly the descriptors\
-        \ of complexity may differ from one ability level to the next. So if you are talking\
-        \ about complex reasoning process, I would like to have clarified what you mean\
-        \ about \"level\". For instance, it is reasonable to expect, if using Bloom's\
-        \ taxonomy, that all students work in the realm of analysis, evaluation and synthesis,\
-        \ regardless of their ability level.\n\nBut your comment raises some very interesting\
-        \ ideas about connectivism. Because if you support your learners in working collaboratively,\
-        \ the specific knowledge set of one person will be complemented by that of the\
-        \ others in their group, and thus lift the collective learning far beyond the\
-        \ sum of individual knowledge.\nAs a fatuous example, I know all about circuits,\
-        \ can explain to my partner why the light bulb ceases to work. But I am unable\
-        \ to climb the ladder to change it. Betweem the two of us, we are able to shed\
-        \ light on the situation!!\n\nNow, the question is, how does this fit into traditional\
-        \ ideas about schooling? We value ranking and individual achievement in schools,\
-        \ whilst the workplace generally values collaborative outcomes as teams. Is a\
-        \ person's value to the team any less because they know how to find the person\
-        \ (or source) that \"knows\"? And even more fatuous, is the contribution of the\
-        \ student who \"brings the TimTams\" and the \"Kleenex\" to group meetings any\
-        \ less valuable to the contribution of the group than the intellectual high flyers?\n\
-        \nWhat we are talking about is capacity rather than knowledge, an interesting\
-        \ concept."
-      date: '2011-02-27 15:41:55'
-      date_gmt: '2011-02-27 05:41:55'
-      id: '3277'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: "Tweets that mention Learning styles, teaching and digital pedagogy \xAB\
-        \ The Weblog of (a) David Jones -- Topsy.com"
-      author_email: null
-      author_ip: 208.74.66.43
-      author_url: http://topsy.com/davidtjones.wordpress.com/2011/02/25/learning-styles-teaching-and-digital-pedagogy/?utm_source=pingback&utm_campaign=L2
-      content: "[...] This post was mentioned on Twitter by Paulo Sim\xF5es, Juanjo Morales.\
-        \ Juanjo Morales said: RT @pgsimoes: Learning styles, teaching and digital pedagogy\
-        \ http://dlvr.it/HXW2d #elearning [...]"
-      date: '2011-02-25 15:56:12'
-      date_gmt: '2011-02-25 05:56:12'
-      id: '3270'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: ICTs for learning design &#8211; the first week &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 72.233.61.16
-      author_url: https://djon.es/blog/2011/02/28/icts-for-learning-design-the-first-week/
-      content: '[...] I have to post another entry on this [...]'
-      date: '2011-02-28 10:40:43'
-      date_gmt: '2011-02-28 00:40:43'
-      id: '3278'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following post if for the course EDED20491 and is in response to the following activity
 
@@ -253,7 +251,7 @@ The following post if for the course EDED20491 and is in response to the followi
 
 The following image - click on it to see it in a larger form - summarises my results for the questionnaire.
 
-[![Learning Styles](images/5475094209_6e34838f6a_m.jpg)](http://www.flickr.com/photos/david_jones/5475094209/ "Learning Styles by David T Jones, on Flickr")
+[![Learning Styles](https://djon.es/assets/blog/2011/02/25/learning-styles-teaching-and-digital-pedagogy/images/5475094209_6e34838f6a_m.jpg)](http://www.flickr.com/photos/david_jones/5475094209/ "Learning Styles by David T Jones, on Flickr")
 
 What that represents is that I am (supposedly)
 

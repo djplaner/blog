@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2015-07-15 10:30:36+10:00
+date: 2015-07-15 00:30:36
 next:
   text: '"Me as learner: 2015 and learning analytics"'
   url: /blog/2015/07/16/me-as-learner-2015-and-learning-analytics/
 previous:
   text: "Digital learning: It&#039;s d\xE9j\xE0 vu all over again"
   url: /blog/2015/07/12/digital-learning-its-like-deja-vu-all-over-again/
+template: blog-post.html
 title: Revising week 1 of EDU8117 - Networked and Global Learning
 type: post
-template: blog-post.html
 ---
 The following is a description of how I've gone about revising the [Week 1 material](https://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/) for EDU8117, Networked and Global Learning. The intent is to demonstrate how a tool can be used for something a little different.
 
@@ -28,11 +28,11 @@ Luckily, I do use [Diigo](http://www.diigo.com/) which will allow me to annotate
 
 Here's what part of the web page looks like with the annotations.
 
-[![Original NGL Week 1](images/19494989689_0f0df0b761.jpg)](https://www.flickr.com/photos/david_jones/19494989689/in/dateposted-public/ "Original NGL Week 1")
+[![Original NGL Week 1](https://djon.es/assets/blog/2015/07/15/revising-week-1-of-edu8117-networked-and-global-learning/images/19494989689_0f0df0b761.jpg)](https://www.flickr.com/photos/david_jones/19494989689/in/dateposted-public/ "Original NGL Week 1")
 
 And the corresponding information in Diigo. You'll be able to see that yourself if you visit [my Diigo library](https://www.diigo.com/user/djplaner/annotate). That link is actually to Diigo's list of all links I've tagged with "annotate". I'll try to keep this the only one.
 
-[![Diigo annotations on NGL Week 1](images/19060709633_f38b869e20.jpg)](https://www.flickr.com/photos/david_jones/19060709633/in/dateposted-public/ "Diigo annotations on NGL Week 1")
+[![Diigo annotations on NGL Week 1](https://djon.es/assets/blog/2015/07/15/revising-week-1-of-edu8117-networked-and-global-learning/images/19060709633_f38b869e20.jpg)](https://www.flickr.com/photos/david_jones/19060709633/in/dateposted-public/ "Diigo annotations on NGL Week 1")
 
 It has the advantage of leaving a visible record of the changes I've made. Even after I've changed the original web page, Diigo has done a reasonable job of keeping the highlights and annotations in place.
 

@@ -1,95 +1,92 @@
----
+﻿---
 categories:
 - elearning
 - thesis
-date: 2014-02-02 12:01:49+10:00
+comments: []
+date: 2014-02-02 02:01:49
 next:
   text: '"MAV, #moodle, process analytics and how I''m an idiot"'
   url: /blog/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/
+pingbacks:
+- approved: '1'
+  author: 'MAV, #moodle, process analytics and I&#8217;m an idiot | The Weblog of
+    (a) David Jones'
+  author_email: null
+  author_ip: 192.0.83.120
+  author_url: https://djon.es/blog/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/
+  content: '[&#8230;] currently analysing the structure of a course I teach and have
+    been using @damoclarky&#8217;s Moodle Activity Viewer to help with that. In the
+    process, I&#8217;ve discovered that I&#8217;m an idiot in having missed [&#8230;]'
+  date: '2014-02-03 13:24:46'
+  date_gmt: '2014-02-03 03:24:46'
+  id: '939'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Analysing EDC3100 using MAV | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.170
+  author_url: https://djon.es/blog/2014/02/03/analysing-edc3100-using-mav/
+  content: '[&#8230;] that I have the Moodle Activity Viewer (MAV) working, I can
+    continue the analysis of the course I teach, EDC3100, ICTs and Pedagogy. This
+    post [&#8230;]'
+  date: '2014-02-03 15:22:39'
+  date_gmt: '2014-02-03 05:22:39'
+  id: '940'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Does GPA make any difference to #moodle course usage? | The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 66.155.8.72
+  author_url: https://djon.es/blog/2014/02/20/does-gpa-make-any-difference-to-moodle-course-usage/
+  content: '[&#8230;] the Moodle Activity Viewer installed, I have one way to explore
+    the usage question for a past course site. To be [&#8230;]'
+  date: '2014-02-20 13:50:06'
+  date_gmt: '2014-02-20 03:50:06'
+  id: '941'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Does my course suffer from semester droop? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.198
+  author_url: https://djon.es/blog/2014/05/09/does-my-course-suffer-from-semester-droop/
+  content: '[&#8230;] Created two views of the S2, 2013 EDC3100 course site using
+    MAV [&#8230;]'
+  date: '2014-05-09 10:09:36'
+  date_gmt: '2014-05-09 00:09:36'
+  id: '942'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A perspective on why institutional e-learning is so bad | The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.5
+  author_url: https://djon.es/blog/2014/09/22/a-perspective-on-why-institutional-e-learning-is-so-bad/
+  content: '[&#8230;] via a web browser running on my laptop. It&#8217;s a personal
+    solution. It is based on a particular set of technologies developed by and currently
+    being used at CQUni for a strategic project around [&#8230;]'
+  date: '2014-09-22 15:26:25'
+  date_gmt: '2014-09-22 05:26:25'
+  id: '943'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What should be covered in EDC3100?
   url: /blog/2014/01/22/what-should-be-covered-in-edc3100/
 tags:
 - mav
+template: blog-post.html
 title: '"#moodle Activity Viewer (MAV) and the promise for bricolage"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'MAV, #moodle, process analytics and I&#8217;m an idiot | The Weblog of
-        (a) David Jones'
-      author_email: null
-      author_ip: 192.0.83.120
-      author_url: https://djon.es/blog/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/
-      content: '[&#8230;] currently analysing the structure of a course I teach and have
-        been using @damoclarky&#8217;s Moodle Activity Viewer to help with that. In the
-        process, I&#8217;ve discovered that I&#8217;m an idiot in having missed [&#8230;]'
-      date: '2014-02-03 13:24:46'
-      date_gmt: '2014-02-03 03:24:46'
-      id: '939'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Analysing EDC3100 using MAV | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.170
-      author_url: https://djon.es/blog/2014/02/03/analysing-edc3100-using-mav/
-      content: '[&#8230;] that I have the Moodle Activity Viewer (MAV) working, I can
-        continue the analysis of the course I teach, EDC3100, ICTs and Pedagogy. This
-        post [&#8230;]'
-      date: '2014-02-03 15:22:39'
-      date_gmt: '2014-02-03 05:22:39'
-      id: '940'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Does GPA make any difference to #moodle course usage? | The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 66.155.8.72
-      author_url: https://djon.es/blog/2014/02/20/does-gpa-make-any-difference-to-moodle-course-usage/
-      content: '[&#8230;] the Moodle Activity Viewer installed, I have one way to explore
-        the usage question for a past course site. To be [&#8230;]'
-      date: '2014-02-20 13:50:06'
-      date_gmt: '2014-02-20 03:50:06'
-      id: '941'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Does my course suffer from semester droop? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.198
-      author_url: https://djon.es/blog/2014/05/09/does-my-course-suffer-from-semester-droop/
-      content: '[&#8230;] Created two views of the S2, 2013 EDC3100 course site using
-        MAV [&#8230;]'
-      date: '2014-05-09 10:09:36'
-      date_gmt: '2014-05-09 00:09:36'
-      id: '942'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A perspective on why institutional e-learning is so bad | The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.5
-      author_url: https://djon.es/blog/2014/09/22/a-perspective-on-why-institutional-e-learning-is-so-bad/
-      content: '[&#8230;] via a web browser running on my laptop. It&#8217;s a personal
-        solution. It is based on a particular set of technologies developed by and currently
-        being used at CQUni for a strategic project around [&#8230;]'
-      date: '2014-09-22 15:26:25'
-      date_gmt: '2014-09-22 05:26:25'
-      id: '943'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I've spent the last few days - on and off - getting [the Moodle Activity Viewer](http://damosworld.wordpress.com/2013/08/30/the-moodle-activity-viewer-mav-heatmaps-of-student-activity/) installed on my local Moodle instance. There were two main reasons for doing this
 

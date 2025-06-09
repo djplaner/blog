@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-4
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2009-07-29 23:53:00+10:00
+date: 2009-07-29 13:53:00
 next:
   text: '"BAM into Moodle #8 - finishing the eStudyGuide building block"'
   url: /blog/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/
 previous:
   text: The design and implementation of Webfuse - Part 2
   url: /blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/
+template: blog-post.html
 title: The design and implementation of Webfuse - Part 3
 type: post
-template: blog-post.html
 ---
 The following is the last of, what is now, a three part series of blog posts outlining the design and implementation of the Webfuse system. These are part of chapter four of [my thesis](/blog/research/phd-thesis/). The previous two parts are [here](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/) and [here](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/).
 
@@ -33,7 +33,7 @@ The aims which flexibility and support for diversity, as outlined in Section 4.3
 
 **Provide the tools not the rules.** The main support for this guideline was the absence of any specification of how an online course might be structured. An academic was free to choose the structure and the page types used in the design of the online course. Including simply using the Content page type that would allow them to provide any HTML content. With the development resources available and the widespread novelty of the Web, it was not possible to develop functionality that would enable academics to modify the available styles or write their own page types. However, the design of Webfuse did initially attempt to provide enough flexibility in the presentation of the pages managed by Webfuse to enable students and staff to adapt use of the system to their personal situation. At the time of the development of Webfuse, Internet access for the majority of students was through fairly slow modem access, which was charged on a time basis and made it important to minimise time spent connected (Jones & Buchanan, 1996). To support this goal Webfuse automatically produced three different versions of every page: a text only version, a graphical version and a version using frames. Figure 4.4 shows a graphical version of a page from the original science.cqu.edu.au site and near the top of the page it is possible to see navigation links to the three versions of the page. Figure 4.6 is the text only version of the page shown in Figure 4.4.
 
-[![The Units web page (text version) for M&C for Term 2, 2007](images/3768353673_9db434c31a_m.jpg)](http://www.flickr.com/photos/david_jones/3768353673/ "The Units web page (text version) for M&C for Term 2, 2007 by David T Jones, on Flickr")
+[![The Units web page (text version) for M&C for Term 2, 2007](https://djon.es/assets/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-3/images/3768353673_9db434c31a_m.jpg)](http://www.flickr.com/photos/david_jones/3768353673/ "The Units web page (text version) for M&C for Term 2, 2007 by David T Jones, on Flickr")
 
 _Figure 4.6 - The Units web page (text version) for M&C for Term 2, 2007_
 

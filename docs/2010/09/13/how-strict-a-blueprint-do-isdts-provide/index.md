@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
 - information-systems
 - thesis
-date: 2010-09-13 14:35:04+10:00
+date: 2010-09-13 04:35:04
 next:
   text: Portfolios often implemented poorly
   url: /blog/2010/09/14/portfolios-often-implemented-poorly/
 previous:
   text: Back into the thesis
   url: /blog/2010/09/13/back-into-the-thesis/
+template: blog-post.html
 title: How strict a blueprint do ISDTs provide?
 type: post
-template: blog-post.html
 ---
 Am working on the final ISDT for the thesis. An Information Systems Design Theory (ISDT) is a theory for design and action. It is meant to aim to provide general principles that help practitioners design information systems. Design theory provides guidance about how to build an artifact (process) and what the artifact should look like when built (product/design principles) (Walls, Widmeyer et al. 1992; Gregor 2002). Walls et al (1992) see an ISDT as an integrated set of prescriptions consisting of a particular class of user requirements (meta-requirements), a type of system solution with distinctive features (meta-design) and a set of effective development practices (meta-design). Each of these components of an ISDT can be informed by kernel theories, either academic or practitioner theory-in-use (Sarker and Lee 2002), that enable the formulation of empirically testable predictions relating the design theory to outcomes (Markus, Majchrzak et al. 2002).
 

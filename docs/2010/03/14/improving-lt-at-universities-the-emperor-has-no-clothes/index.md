@@ -1,8 +1,164 @@
----
-date: 2010-03-14 07:53:21+10:00
+﻿---
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 118.208.12.16
+  author_url: http://
+  content: 'I wonder if the fundamental assumption here is flawed. We are assuming
+    that teaching and learning is important to upper management of universities. Perhaps
+    that''s not fair. I''m sure that T&amp;L is important to university upper management
+    but their day-to-day context is more aligned with that of a business where income
+    and expense override other considerations. The problem here is that the models
+    used by businesses are arguably based on manufacturing where the approach to improvement
+    is relatively simple cause and effect. T&amp;L is incredibly complex, enormously
+    diverse and almost impossible to measure which means that a pragmatic senior manager
+    would try and avoid "rocking that boat".  Additionally, and like the business
+    world, senior management are usually appointed on relatively short (5 years),
+    fixed terms. This means that, from their perspective, the horizon for strategic
+    decisions is capped at 5 years or so. While I agree with you that in order to
+    improve T&amp;L, the environment that the teachers are operating in needs to change,
+    the point here is that perhaps the environment that senior management are operating
+    in also has to change so as to assist in the facilitation of change at the lower
+    levels.
+
+
+    I have a disturbing tendency to over-generalize and over-simplify but, based on
+    my experience, measurement around T&amp;L is key to overcoming the problem. Generally,
+    management folk wont change something when the change cannot be meaningfully measured
+    and the same applies to T&amp;L. Why would a senior manager make a small change
+    around T&amp;L that probably can''t be measured or used in their resume, when
+    they can make a big change that also can''t be measured but can be put in a resume.
+    Anyway, if change was simple then the change management consultants (charlatans
+    is perhaps a better word) wouldn''t be making so much money from it.
+
+
+    Col.'
+  date: '2010-03-14 11:57:10'
+  date_gmt: '2010-03-14 01:57:10'
+  id: '2964'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'G''day Col,
+
+
+    Obviously there is some similarity in our opinions.  I agree with much of what
+    you said. I also think you''ve been trying to make this point in various other
+    media and I''m not sure I''ve ever engaged effectively with your point.  Much
+    of the following is tentative, even though it may sound more certain.
+
+
+    I agree that measurement of learning and teaching that is more effective (or even
+    present) is a good thing.  I even think <a href="http://www.youtube.com/watch?v=lY0OHNo9TX8"
+    rel="nofollow">Dave Snowden</a> (and <a href="http://www.cognitive-edge.com/blogs/dave/2009/05/the_occult_insignificance_of_m.php"
+    rel="nofollow">here</a>) is onto something with his emphasis on impact, rather
+    than outcomes (and its negative impacts).
+
+
+    However, I don''t think it can be the first thing.  Which sounds like an absurdly
+    simplistic and linear thing to say in the context of such a complex issue.  So,
+    what do I mean?
+
+
+    I don''t think measuring L&amp;T is a good way to change the mind of senior management.  For
+    one thing, it''s too hard to do without really engaging with senior management
+    so they can help you change the system so you can measure L&amp;T.  You''re in
+    a Catch-22.  You need the management to "get it" before you can improve the measurement
+    and you can''t improve the measurement until management "get it".
+
+
+    The approach I''m taking in these posts is somewhat related.  I''m trying to build
+    the case that the current approaches to improve L&amp;T don''t work.  This is
+    somewhat easier because there is already a body of literature that reports on
+    theoretical and empirical research that shows that it doesn''t work.
+
+
+    Eventually, these posts should turn into something more formal to be passed up
+    the hierarchy. To some extent, this is measuring the processes they are currently
+    using to improve L&amp;T and showing that they aren''t working.
+
+
+    This is much simpler than measuring L&amp;T, because the current approaches to
+    improve L&amp;T are so simple and involve far fewer people than actual L&amp;T.
+
+
+    The trouble is that we return to the question of getting folk to take notice of
+    these sorts of things.  There are at least two ways to do this: a) internally,
+    and b) externally.
+
+
+    Internally you have to politic and get traction with decision makers who are busy
+    making do.  I don''t think it''s possible, or that easy.  Too hard to measure
+    the quality of internal work.
+
+
+    Externally, you hit important external benchmarks (qualifications, journal articles
+    and grants) to show your valuable so they might take notice of you.  Much easier
+    for managers to measure the quality of external work.  It also raises your profile
+    in the sector and can/maybe make it more likely for you to get work elsewhere.
+
+
+    Starting to ramble, an important point to make, however, is that this isn''t about
+    a single approach.  It''s not about focusing solely on internal and external means.  Or
+    solely on trashing current approaches and not measuring L&amp;T.
+
+
+    It is about getting the right balance to achieve what you want.  It''s just that
+    at the moment I see too many good L&amp;T folk spending way too much time on the
+    internal. Work for which they will get no reward and will make little or no impact.
+    The same folk are spending too little time on external methods.
+
+
+    It''s also about trying to develop alternatives. Trying to develop insights into
+    how you can change the environment so that it will encourage and enable improvement
+    in L&amp;T that move beyond the simplistic and wrong-headed current assumptions.
+
+
+    To those of you who think I''m solely being negative.  I''m not.  I''m trying
+    to do all of those things. Including providing honest critiques of current practice,
+    something which seems to be missing.
+
+
+    In the end, you have to rock the boat.  The methods I outline above are so endemic
+    to the entire sector within Australia, that you will have to rock the boat.
+
+    e.g. the "formal qualification" myth is so accepted that the federal government
+    has made it a key component of the process to reward universities for good teaching.
+
+
+    david.'
+  date: '2010-03-14 12:58:01'
+  date_gmt: '2010-03-14 02:58:01'
+  id: '2965'
+  parent: '2964'
+  type: comment
+  user_id: '1'
+date: 2010-03-13 21:53:21
 next:
   text: The story of BIM - Origins - blogs and minute papers
   url: /blog/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/
+pingbacks:
+- approved: '1'
+  author: Identifying and designing interventions to improve L&amp;T &#8211; a behaviour
+    change framework? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.32
+  author_url: https://djon.es/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
+  content: '[...] behaviour change amongst a significant percentage of university
+    teaching staff. I&#8217;ve argued before that they don&#8217;t work and that there
+    is evidence to support [...]'
+  date: '2010-04-14 13:02:46'
+  date_gmt: '2010-04-14 03:02:46'
+  id: '2967'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The conditions for Anna&#039;s phone
   url: /blog/2010/03/13/the-conditions-for-annas-phone/
@@ -11,167 +167,9 @@ tags:
 - staffdevelopment
 - teaching
 - university
+template: blog-post.html
 title: '"Improving L&#038;T at Universities - The emperor has no clothes"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 118.208.12.16
-      author_url: http://
-      content: 'I wonder if the fundamental assumption here is flawed. We are assuming
-        that teaching and learning is important to upper management of universities. Perhaps
-        that''s not fair. I''m sure that T&amp;L is important to university upper management
-        but their day-to-day context is more aligned with that of a business where income
-        and expense override other considerations. The problem here is that the models
-        used by businesses are arguably based on manufacturing where the approach to improvement
-        is relatively simple cause and effect. T&amp;L is incredibly complex, enormously
-        diverse and almost impossible to measure which means that a pragmatic senior manager
-        would try and avoid "rocking that boat".  Additionally, and like the business
-        world, senior management are usually appointed on relatively short (5 years),
-        fixed terms. This means that, from their perspective, the horizon for strategic
-        decisions is capped at 5 years or so. While I agree with you that in order to
-        improve T&amp;L, the environment that the teachers are operating in needs to change,
-        the point here is that perhaps the environment that senior management are operating
-        in also has to change so as to assist in the facilitation of change at the lower
-        levels.
-    
-    
-        I have a disturbing tendency to over-generalize and over-simplify but, based on
-        my experience, measurement around T&amp;L is key to overcoming the problem. Generally,
-        management folk wont change something when the change cannot be meaningfully measured
-        and the same applies to T&amp;L. Why would a senior manager make a small change
-        around T&amp;L that probably can''t be measured or used in their resume, when
-        they can make a big change that also can''t be measured but can be put in a resume.
-        Anyway, if change was simple then the change management consultants (charlatans
-        is perhaps a better word) wouldn''t be making so much money from it.
-    
-    
-        Col.'
-      date: '2010-03-14 11:57:10'
-      date_gmt: '2010-03-14 01:57:10'
-      id: '2964'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'G''day Col,
-    
-    
-        Obviously there is some similarity in our opinions.  I agree with much of what
-        you said. I also think you''ve been trying to make this point in various other
-        media and I''m not sure I''ve ever engaged effectively with your point.  Much
-        of the following is tentative, even though it may sound more certain.
-    
-    
-        I agree that measurement of learning and teaching that is more effective (or even
-        present) is a good thing.  I even think <a href="http://www.youtube.com/watch?v=lY0OHNo9TX8"
-        rel="nofollow">Dave Snowden</a> (and <a href="http://www.cognitive-edge.com/blogs/dave/2009/05/the_occult_insignificance_of_m.php"
-        rel="nofollow">here</a>) is onto something with his emphasis on impact, rather
-        than outcomes (and its negative impacts).
-    
-    
-        However, I don''t think it can be the first thing.  Which sounds like an absurdly
-        simplistic and linear thing to say in the context of such a complex issue.  So,
-        what do I mean?
-    
-    
-        I don''t think measuring L&amp;T is a good way to change the mind of senior management.  For
-        one thing, it''s too hard to do without really engaging with senior management
-        so they can help you change the system so you can measure L&amp;T.  You''re in
-        a Catch-22.  You need the management to "get it" before you can improve the measurement
-        and you can''t improve the measurement until management "get it".
-    
-    
-        The approach I''m taking in these posts is somewhat related.  I''m trying to build
-        the case that the current approaches to improve L&amp;T don''t work.  This is
-        somewhat easier because there is already a body of literature that reports on
-        theoretical and empirical research that shows that it doesn''t work.
-    
-    
-        Eventually, these posts should turn into something more formal to be passed up
-        the hierarchy. To some extent, this is measuring the processes they are currently
-        using to improve L&amp;T and showing that they aren''t working.
-    
-    
-        This is much simpler than measuring L&amp;T, because the current approaches to
-        improve L&amp;T are so simple and involve far fewer people than actual L&amp;T.
-    
-    
-        The trouble is that we return to the question of getting folk to take notice of
-        these sorts of things.  There are at least two ways to do this: a) internally,
-        and b) externally.
-    
-    
-        Internally you have to politic and get traction with decision makers who are busy
-        making do.  I don''t think it''s possible, or that easy.  Too hard to measure
-        the quality of internal work.
-    
-    
-        Externally, you hit important external benchmarks (qualifications, journal articles
-        and grants) to show your valuable so they might take notice of you.  Much easier
-        for managers to measure the quality of external work.  It also raises your profile
-        in the sector and can/maybe make it more likely for you to get work elsewhere.
-    
-    
-        Starting to ramble, an important point to make, however, is that this isn''t about
-        a single approach.  It''s not about focusing solely on internal and external means.  Or
-        solely on trashing current approaches and not measuring L&amp;T.
-    
-    
-        It is about getting the right balance to achieve what you want.  It''s just that
-        at the moment I see too many good L&amp;T folk spending way too much time on the
-        internal. Work for which they will get no reward and will make little or no impact.
-        The same folk are spending too little time on external methods.
-    
-    
-        It''s also about trying to develop alternatives. Trying to develop insights into
-        how you can change the environment so that it will encourage and enable improvement
-        in L&amp;T that move beyond the simplistic and wrong-headed current assumptions.
-    
-    
-        To those of you who think I''m solely being negative.  I''m not.  I''m trying
-        to do all of those things. Including providing honest critiques of current practice,
-        something which seems to be missing.
-    
-    
-        In the end, you have to rock the boat.  The methods I outline above are so endemic
-        to the entire sector within Australia, that you will have to rock the boat.
-    
-        e.g. the "formal qualification" myth is so accepted that the federal government
-        has made it a key component of the process to reward universities for good teaching.
-    
-    
-        david.'
-      date: '2010-03-14 12:58:01'
-      date_gmt: '2010-03-14 02:58:01'
-      id: '2965'
-      parent: '2964'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Identifying and designing interventions to improve L&amp;T &#8211; a behaviour
-        change framework? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.32
-      author_url: https://djon.es/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
-      content: '[...] behaviour change amongst a significant percentage of university
-        teaching staff. I&#8217;ve argued before that they don&#8217;t work and that there
-        is evidence to support [...]'
-      date: '2010-04-14 13:02:46'
-      date_gmt: '2010-04-14 03:02:46'
-      id: '2967'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following comes from a place of frustration. The approaches universities are using to improve learning and teaching don't work. But they continue to be held in reverence because they have become a purpose proxy. The people within universities charged with improving learning and teaching are no longer focused on or measured by improving learning and teaching. They are focused on and measured by the purpose proxy. i.e. how many L&T seminars they have run, how many teaching awards they've given out etc.
 

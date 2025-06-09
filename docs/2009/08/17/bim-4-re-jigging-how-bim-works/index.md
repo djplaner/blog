@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - bam
-date: 2009-08-17 09:07:45+10:00
+comments: []
+date: 2009-08-16 23:07:45
 next:
   text: Moodle, curriculum mapping, task fit and task corruption
   url: /blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/
+pingbacks:
+- approved: '1'
+  author: 'BIM#5: Getting a prototype BIM going &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/08/20/bim5-getting-a-prototype-bim-going/
+  content: '[...] Getting a prototype BIM&nbsp;going  In the last bit of work I did
+    on BIM, I got to the stage of having some initial working code for BIM module
+    that allow [...]'
+  date: '2009-08-20 11:43:18'
+  date_gmt: '2009-08-20 01:43:18'
+  id: '2712'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Moodle, curriculum mapping, task fit and task corruption &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.113
+  author_url: https://djon.es/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/
+  content: '[...] Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BIM #4: Re-jigging how BIM&nbsp;works  Lessons for e-learning from&nbsp;people
+    [...]'
+  date: '2010-01-19 12:55:45'
+  date_gmt: '2010-01-19 02:55:45'
+  id: '2713'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: People, cognition, rationality and e-learning
   url: /blog/2009/08/16/people-cognition-rationality-and-e-learning/
+template: blog-post.html
 title: '"BIM #4: Re-jigging how BIM works"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'BIM#5: Getting a prototype BIM going &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/08/20/bim5-getting-a-prototype-bim-going/
-      content: '[...] Getting a prototype BIM&nbsp;going  In the last bit of work I did
-        on BIM, I got to the stage of having some initial working code for BIM module
-        that allow [...]'
-      date: '2009-08-20 11:43:18'
-      date_gmt: '2009-08-20 01:43:18'
-      id: '2712'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Moodle, curriculum mapping, task fit and task corruption &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.113
-      author_url: https://djon.es/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/
-      content: '[...] Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BIM #4: Re-jigging how BIM&nbsp;works  Lessons for e-learning from&nbsp;people
-        [...]'
-      date: '2010-01-19 12:55:45'
-      date_gmt: '2010-01-19 02:55:45'
-      id: '2713'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [last post in this series](/blog/2009/08/13/bim-3-getting-the-module-work-making-some-progress/) saw me struggling - the long way around - to the realisation that the implementation model I had in my head wasn't going to work. At least not with the constraints of the model adopted by Moodle.
 

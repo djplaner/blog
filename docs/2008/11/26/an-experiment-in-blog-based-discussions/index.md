@@ -1,68 +1,65 @@
----
+﻿---
 categories:
 - ple
 - plescquni
-date: 2008-11-26 09:11:45+10:00
+comments: []
+date: 2008-11-25 23:11:45
 next:
   text: Some resources for around blogs and discussion forums
   url: /blog/2008/11/26/some-resources-for-around-blogs-and-discussion-forums/
+pingbacks:
+- approved: '1'
+  author: More on blogs and discussion &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.30
+  author_url: https://djon.es/blog/2008/11/26/more-on-blogs-and-discussion/
+  content: '[...] on blogs and&nbsp;discussion   In some previous posts (the original
+    post and the followup post) I&#8217;ve been playing around using blogs for multiple
+    discussion forums. [...]'
+  date: '2008-11-26 22:23:50'
+  date_gmt: '2008-11-26 12:23:50'
+  id: '1901'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Indications of limitations - blog based discussions &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.21
+  author_url: https://djon.es/blog/2008/11/27/indications-of-limitations-blog-based-discussions/
+  content: '[...] of limitations - blog based&nbsp;discussions   I&#8217;m trying
+    to run an experiment in blog-based discussions. Trying to understand, from experience,
+    the realities of using individual blogs for a multi-person [...]'
+  date: '2008-11-27 16:10:54'
+  date_gmt: '2008-11-27 06:10:54'
+  id: '1902'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Trackbacks? &laquo; Bowes Clan
+  author_email: null
+  author_ip: 72.233.44.27
+  author_url: http://bowesclan.wordpress.com/2008/11/28/trackbacks/
+  content: '[...]    David Jones started up a conversation via trackbacks, however
+    my initial attempt and subsequent fiddlings still haven&#8217;t made my [...]'
+  date: '2008-11-28 14:22:26'
+  date_gmt: '2008-11-28 04:22:26'
+  id: '1903'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Information Systems Epistemology: An Historical Perspective'
   url: /blog/2008/11/23/information-systems-epistemology-an-historical-perspective/
+template: blog-post.html
 title: An experiment in blog-based discussions
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: More on blogs and discussion &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.30
-      author_url: https://djon.es/blog/2008/11/26/more-on-blogs-and-discussion/
-      content: '[...] on blogs and&nbsp;discussion   In some previous posts (the original
-        post and the followup post) I&#8217;ve been playing around using blogs for multiple
-        discussion forums. [...]'
-      date: '2008-11-26 22:23:50'
-      date_gmt: '2008-11-26 12:23:50'
-      id: '1901'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Indications of limitations - blog based discussions &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.21
-      author_url: https://djon.es/blog/2008/11/27/indications-of-limitations-blog-based-discussions/
-      content: '[...] of limitations - blog based&nbsp;discussions   I&#8217;m trying
-        to run an experiment in blog-based discussions. Trying to understand, from experience,
-        the realities of using individual blogs for a multi-person [...]'
-      date: '2008-11-27 16:10:54'
-      date_gmt: '2008-11-27 06:10:54'
-      id: '1902'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Trackbacks? &laquo; Bowes Clan
-      author_email: null
-      author_ip: 72.233.44.27
-      author_url: http://bowesclan.wordpress.com/2008/11/28/trackbacks/
-      content: '[...]    David Jones started up a conversation via trackbacks, however
-        my initial attempt and subsequent fiddlings still haven&#8217;t made my [...]'
-      date: '2008-11-28 14:22:26'
-      date_gmt: '2008-11-28 04:22:26'
-      id: '1903'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 One of the major tools used (and mis-used) in most university-based e-learning is the discussion forum, or mailing list, or some other form of software for managing/creating multi-person dialogue. The [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni) is attempting to figure out and experiment with social media tools as a way to improve existing practice. An obvious need is to identify if, how and with what limitations these tools can be used to manage/create multi-person dialogues of the sort most academic staff associate with discussion forums.
 
-[![](images/93840305_b6ebb22c57_m.jpg)](http://flickr.com/photos/sumit/93840305/)
+[![](https://djon.es/assets/blog/2008/11/26/an-experiment-in-blog-based-discussions/images/93840305_b6ebb22c57_m.jpg)](http://flickr.com/photos/sumit/93840305/)
 
 The perceived need for this type of identification is mostly pragmatic. It is based on the observation that the decisions and actions people take are mostly based on patterns formed by previous experience. This is why most e-learning continues to be of the "horseless carriage" type. Being able to show academic staff that a new technology can re-create aspects of previous practice is an important step in getting them to move. This is the first step in the journey. We have to help get them out the door.
 

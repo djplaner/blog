@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bad
-date: 2016-05-16 10:04:04+10:00
+date: 2016-05-16 00:04:04
 next:
   text: Building a CASA for student evaluation of teaching results
   url: /blog/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/
 previous:
   text: 'Testing out the Heatmap #moodle block'
   url: /blog/2016/05/13/testing-out-the-heatmap-moodle-block/
+template: blog-post.html
 title: Organizing for Innovation in the Digitized world
 type: post
-template: blog-post.html
 ---
 The following is a summary and some reflection upon
 

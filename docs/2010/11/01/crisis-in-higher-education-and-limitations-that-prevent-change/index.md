@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-11-01 10:58:06+10:00
+comments: []
+date: 2010-11-01 00:58:06
 next:
   text: A story of the power of intrinsic motivation
   url: /blog/2010/11/07/a-story-of-the-power-of-intrinsic-motivation/
+pingbacks:
+- approved: '1'
+  author: 'links for 2010-11-02 : DrAlb'
+  author_email: null
+  author_ip: 117.55.226.121
+  author_url: http://www.pama.net.au/dralb/?p=226
+  content: "[...] Crisis in higher education and limitations that prevent change \xAB\
+    \ The Weblog of (a) David Jones The distinction between complicated and complex\
+    \ systems is important. Merely complicated systems can be driven by plans and\
+    \ management processes. Complex systems respond poorly to top-down planning and\
+    \ need scope for new forms of order to emerge. Too much of what we are doing to\
+    \ improve education is designed to deal with complication rather than complexity.\
+    \ (tags: ee4l usqict) [...]"
+  date: '2010-11-03 10:14:09'
+  date_gmt: '2010-11-03 00:14:09'
+  id: '3184'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Thesis abstract v1.0b
   url: /blog/2010/10/28/thesis-abstract-v1-0/
+template: blog-post.html
 title: Crisis in higher education and limitations that prevent change
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'links for 2010-11-02 : DrAlb'
-      author_email: null
-      author_ip: 117.55.226.121
-      author_url: http://www.pama.net.au/dralb/?p=226
-      content: "[...] Crisis in higher education and limitations that prevent change \xAB\
-        \ The Weblog of (a) David Jones The distinction between complicated and complex\
-        \ systems is important. Merely complicated systems can be driven by plans and\
-        \ management processes. Complex systems respond poorly to top-down planning and\
-        \ need scope for new forms of order to emerge. Too much of what we are doing to\
-        \ improve education is designed to deal with complication rather than complexity.\
-        \ (tags: ee4l usqict) [...]"
-      date: '2010-11-03 10:14:09'
-      date_gmt: '2010-11-03 00:14:09'
-      id: '3184'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Over the last few days I've been catching up on some writing (first last week [Leigh Blackall](http://leighblackall.blogspot.com/2010/10/crisis-for-institutions-opportunities.html) and this morning from [Richard Hall](http://www.learnex.dmu.ac.uk/2010/10/26/open-education-cracks-and-the-crisis-of-higher-education/)) that, at least for me, seems to be trying to find ways that the current crisis in higher ed can be used as a spring board for something better. I certainly think there is an opportunity there. Dave Snowden has [argued](http://www.cognitive-edge.com/blogs/dave/2006/12/natural_numbers_networks_commu.php)
 
@@ -65,7 +62,7 @@ But that's an aside. The point here is that the focus on product also underpinne
 
 The same pressures that created the [neo-liberal university](http://www.eliss.org.uk/PreviousEditions/Volume1Issue2/ViewArticle/tabid/72/itemid/43/pubtabid/73/repmodid/411/Default.aspx) Richard talks about also encourages, perhaps even requires, the adoption of [techno-rational, plan-driven processes](/blog/2009/05/25/teleological-and-ateleological-processes/). That is, senior, knowledgable people identify the solution and then employ project boards and other folk to ensure that the entire organisation implements that solution. Senior people aren't able to say, "We don't know what the best solution is, we're going to explore". That would be seen as ignorant (the leader must have the answer) and inefficient. If you decide you don't want to adopt the solution, you are seen as inefficient or not a team player. And eventually when the inevitable problems arise (because they really didn't know what would be needed now, let alone in a couple of years) it's not the senior management folk or the process that gets the blame. No, it was poor implementation. If only we had better people doing the implementation...
 
-[![Humphrey Appleby](images/oth_humphrey.jpg)](http://en.wikipedia.org/wiki/File:SirHumphrey.jpg)
+[![Humphrey Appleby](https://djon.es/assets/blog/2010/11/01/crisis-in-higher-education-and-limitations-that-prevent-change/images/oth_humphrey.jpg)](http://en.wikipedia.org/wiki/File:SirHumphrey.jpg)
 
 It is in this environment that a project like the PLEs@CQUni project was always going to fail. The PLE idea was, and still is very new, for most senior managers. It also sounds inefficient, "You mean each student gets to choose their own set of tools and we have to support them? Won't that be expensive?". In the words of [Humphrey Appleby](http://en.wikipedia.org/wiki/Humphrey_Appleby), any senior manager pushing PLEs would be making a "brave decision". Especially when the project was described as an exploration into what can be done, you can't waste resources on exploration. This is particularly troubling for the teleological, techno-rational, clueless senior manager when everyone knows that an LMS, preferably an open-source LMS, is what every university needs.
 

@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - indicators
-date: 2017-03-08 07:57:16+10:00
+date: 2017-03-07 21:57:16
 next:
   text: Communication and professional learning for teaching at Universities
   url: /blog/2017/03/09/communication-and-professional-learning-for-teaching-at-universities/
@@ -9,9 +9,9 @@ previous:
   text: The teleological reason why ICTs limit choice for university learners and
     learning
   url: /blog/2017/03/01/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/
+template: blog-post.html
 title: Thinking about (more) reproducible research and learning analytics
 type: post
-template: blog-post.html
 ---
 There are moves afoot to revisit some of the earlier research arising from [Indicators project](http://indicatorsproject.wordpress.com/) and hopefully move beyond. To do that well we need to give some thought to updating the methods we use to analyse, share and report what we're doing. In particular, because we're now a cross-institutional project. The following captures some early exploration of this problem.
 
@@ -50,7 +50,7 @@ The _Reproducibility spectrum_ provided by [Peng (2011)](https://www.ncbi.nlm.ni
 
 These components could be thought of being circular, especially if learner and/or teacher action in response to interpretations is added. Learners and teachers may take action in response to interpretations, which in turn generates more data to be analysed by code... Researcher action also plays a part, through going back to re-analyse the data with a different lens, or designing experiments to generate new data. Echoes of the Siemens (2013, p. 13) data loop, but with a slightly different focus.
 
-[![Siemens (2013) Learning Analytics Model](images/9662456144_51b12d6057.jpg)](https://www.flickr.com/photos/david_jones/9662456144/ "Siemens (2013) Learning Analytics Model")
+[![Siemens (2013) Learning Analytics Model](https://djon.es/assets/blog/2017/03/08/thinking-about-more-reproducible-research-and-learning-analytics/images/9662456144_51b12d6057.jpg)](https://www.flickr.com/photos/david_jones/9662456144/ "Siemens (2013) Learning Analytics Model")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Making this cycle more reproducible would be useful.
@@ -74,12 +74,12 @@ For example, the following graph has the following components
     One interpretation is that students get better grades by being more dilligent/expending more effort. Hence they click more. Of course this is a hypothesis.
     
 
-[![Average student hits on course site/discussion forum for high staff participation courses](images/4037668845_dab85a9db1.jpg)](https://www.flickr.com/photos/david_jones/4037668845/in/album-72157608613577424/ "Average student hits on course site/discussion forum for high staff participation courses")
+[![Average student hits on course site/discussion forum for high staff participation courses](https://djon.es/assets/blog/2017/03/08/thinking-about-more-reproducible-research-and-learning-analytics/images/4037668845_dab85a9db1.jpg)](https://www.flickr.com/photos/david_jones/4037668845/in/album-72157608613577424/ "Average student hits on course site/discussion forum for high staff participation courses")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### To whom?
 
-[![Indicators architecture](images/33125653321_191ba4e6f8.jpg)](https://www.flickr.com/photos/david_jones/33125653321/in/dateposted-public/ "Indicators architecture")
+[![Indicators architecture](https://djon.es/assets/blog/2017/03/08/thinking-about-more-reproducible-research-and-learning-analytics/images/33125653321_191ba4e6f8.jpg)](https://www.flickr.com/photos/david_jones/33125653321/in/dateposted-public/ "Indicators architecture")
 
 Way back in 2009, [the presentation](https://www.slideshare.net/davidj/introducing-the-indicators-project) for the [first indicators project paper](https://indicatorsproject.wordpress.com/2009/10/09/the-indicators-project-identifying-effective-learning-adoption-activity-grades-and-external-factors/) included the following image to the right as an early explanation of what we were doing.
 

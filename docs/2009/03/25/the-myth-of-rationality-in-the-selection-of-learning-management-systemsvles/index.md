@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,165 +6,163 @@ categories:
 - lmsevaluation
 - phd
 - thesis
-date: 2009-03-25 15:06:14+10:00
+comments:
+- approved: '1'
+  author: bradmarshall
+  author_email: brad@humbug.org.au
+  author_ip: 138.77.43.56
+  author_url: null
+  content: 'Hi David,
+
+
+    As part of the project team working on this complex issue, thanks for the clarification.  It
+    is a very tough issue that we are trying to get our heads around, and there is
+    no intention to not include anyone, or to run over anyone.
+
+
+    Personally I am always glad of feedback and ideas to show a new way of doing things
+    or if we are doing things wrong.  I''d like to think someone would tell me if
+    I was doing something wrong.  I''m quite aware that we don''t know the whole answer,
+    and this will take representation from the whole uni to get it done.
+
+
+    With respect to the roles issues, I''ve been quite aware of this issue from the
+    start.  We are trying to get a good idea on what roles are needed for the university,
+    and will hopefully have this fairly automated when things are locked down.
+
+
+    If you have any specific ideas about this, please, let me know.
+
+    This is an area I''m quite interested in, I want the administration side of things
+    to be as seamless and trouble free as possible for academics so they can work
+    on the side of things that they''re good at and waste as little time as possible
+    on the others.
+
+
+    Personally, I have no issues with you bringing up the hard issues that perhaps
+    nobody else has done before, but a little less adversarial would be nice.  We''re
+    all on the same side here (I think?) working towards a solution.
+
+
+    Thanks,
+
+    Brad Marshall.'
+  date: '2009-03-27 10:41:11'
+  date_gmt: '2009-03-27 00:41:11'
+  id: '2331'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Brad,
+
+
+    First, I should apologise for being loose with terminology.  I''m not formally
+    involved with the project at all, part of the reason for my ignorance.  When I
+    used "project team" I did not intend for that to be limited to just the techos
+    doing the implementation, but the broader collection of managers and folk associated
+    with the entire project.
+
+
+    Also, it wasn''t meant to reflect specifically on any of the individuals, or to
+    a large extent on the specific groups. In my experience, as is borne out in the
+    literature I''ve been reading and posting about, such teams are prone to avoid
+    dealing with difficult issues and/or often given the appearance of irrationality.
+    The apparent irrationality is often due to the very different perspectives of
+    the individuals involved.
+
+
+    It''s also due to the fact that a number of players in those teams not fully appreciating
+    the complexity of the others experiences.
+
+
+    As a historical precedent take the issue of online assignment submission (OASM).
+    I''ve known, because of my heavy involvement in OASM, since before Blackboard
+    was implemented that its OASM faciltiies were poorly suited to CQU and would cause
+    a lot of wasted effort on the part of academics trying to manage the system.
+
+    This belief has been borne about by the experiences of a number of CQU staff.
+
+
+    However, I know of some technical folk, who still seem to think that OASM can
+    be a simple extension of document management. i.e. a quick extension to a content
+    management system and you have an OASM.
+
+
+    It''s not.
+
+
+    However, from their perspective, or at least my version of it, developer resources
+    are limited, there''s other requirements for a content management system, some
+    existing systems that might provide that functionality, so it seems rational to
+    leverage that solution to "kill two birds with one stone".
+
+
+    Obviously, I have an opinion which perspective is correct.  However, the point
+    I''m trying to make here is that there are always (at least) two sides to every
+    argument, both sides think they are right and the context and processes used in
+    these sorts of projects are usually not conducive to building bridges and a consensus.
+
+
+    These projects tend to become about "implementing the system" within the time
+    frame allowed and anything that makes this too difficult is sidelines.
+
+
+    You can trace the origins of "Staff MyCQU" back to this type of decision in the
+    original Peoplesoft implementation.
+
+
+    One of the many reasons that I''m fundamentally against this type of process as
+    a vehicle for e-learning.  As my many blog posts attest.
+
+
+    Seeing the same mistakes again and again and again, can be frustrating and lead
+    to at tendency to sounding arrogant and dogmatic.  And I tend not to need too
+    much help in those areas.
+
+
+    Sorry, this reply is getting ridicuously long.  Time to stop.
+
+
+    David.'
+  date: '2009-03-27 15:33:06'
+  date_gmt: '2009-03-27 05:33:06'
+  id: '2333'
+  parent: '2331'
+  type: comment
+  user_id: '1'
+date: 2009-03-25 05:06:14
 next:
   text: '""One ring to rule them all": Limitations and implications of the LMS/VLE
     product model"'
   url: /blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #5 - a new low &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: https://djon.es/blog/2009/03/27/phd-update-5-a-new-low/
+  content: '[...] Myth of rationality; Some good components of what will go into the
+    &#8220;Process&#8221; part of the Ps Framework. Including some literature to suggest
+    that the supposedly rational process is far from it. [...]'
+  date: '2009-03-27 13:23:50'
+  date_gmt: '2009-03-27 03:23:50'
+  id: '2332'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: '&quot;Blame the teacher&quot; isn&#039;t new to technology-mediated learning'
   url: /blog/2009/03/24/blame-the-teacher-isnt-new-to-technology-mediated-learning/
+template: blog-post.html
 title: The myth of rationality in the selection of learning management systems/VLEs
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: bradmarshall
-      author_email: brad@humbug.org.au
-      author_ip: 138.77.43.56
-      author_url: null
-      content: 'Hi David,
-    
-    
-        As part of the project team working on this complex issue, thanks for the clarification.  It
-        is a very tough issue that we are trying to get our heads around, and there is
-        no intention to not include anyone, or to run over anyone.
-    
-    
-        Personally I am always glad of feedback and ideas to show a new way of doing things
-        or if we are doing things wrong.  I''d like to think someone would tell me if
-        I was doing something wrong.  I''m quite aware that we don''t know the whole answer,
-        and this will take representation from the whole uni to get it done.
-    
-    
-        With respect to the roles issues, I''ve been quite aware of this issue from the
-        start.  We are trying to get a good idea on what roles are needed for the university,
-        and will hopefully have this fairly automated when things are locked down.
-    
-    
-        If you have any specific ideas about this, please, let me know.
-    
-        This is an area I''m quite interested in, I want the administration side of things
-        to be as seamless and trouble free as possible for academics so they can work
-        on the side of things that they''re good at and waste as little time as possible
-        on the others.
-    
-    
-        Personally, I have no issues with you bringing up the hard issues that perhaps
-        nobody else has done before, but a little less adversarial would be nice.  We''re
-        all on the same side here (I think?) working towards a solution.
-    
-    
-        Thanks,
-    
-        Brad Marshall.'
-      date: '2009-03-27 10:41:11'
-      date_gmt: '2009-03-27 00:41:11'
-      id: '2331'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Brad,
-    
-    
-        First, I should apologise for being loose with terminology.  I''m not formally
-        involved with the project at all, part of the reason for my ignorance.  When I
-        used "project team" I did not intend for that to be limited to just the techos
-        doing the implementation, but the broader collection of managers and folk associated
-        with the entire project.
-    
-    
-        Also, it wasn''t meant to reflect specifically on any of the individuals, or to
-        a large extent on the specific groups. In my experience, as is borne out in the
-        literature I''ve been reading and posting about, such teams are prone to avoid
-        dealing with difficult issues and/or often given the appearance of irrationality.
-        The apparent irrationality is often due to the very different perspectives of
-        the individuals involved.
-    
-    
-        It''s also due to the fact that a number of players in those teams not fully appreciating
-        the complexity of the others experiences.
-    
-    
-        As a historical precedent take the issue of online assignment submission (OASM).
-        I''ve known, because of my heavy involvement in OASM, since before Blackboard
-        was implemented that its OASM faciltiies were poorly suited to CQU and would cause
-        a lot of wasted effort on the part of academics trying to manage the system.
-    
-        This belief has been borne about by the experiences of a number of CQU staff.
-    
-    
-        However, I know of some technical folk, who still seem to think that OASM can
-        be a simple extension of document management. i.e. a quick extension to a content
-        management system and you have an OASM.
-    
-    
-        It''s not.
-    
-    
-        However, from their perspective, or at least my version of it, developer resources
-        are limited, there''s other requirements for a content management system, some
-        existing systems that might provide that functionality, so it seems rational to
-        leverage that solution to "kill two birds with one stone".
-    
-    
-        Obviously, I have an opinion which perspective is correct.  However, the point
-        I''m trying to make here is that there are always (at least) two sides to every
-        argument, both sides think they are right and the context and processes used in
-        these sorts of projects are usually not conducive to building bridges and a consensus.
-    
-    
-        These projects tend to become about "implementing the system" within the time
-        frame allowed and anything that makes this too difficult is sidelines.
-    
-    
-        You can trace the origins of "Staff MyCQU" back to this type of decision in the
-        original Peoplesoft implementation.
-    
-    
-        One of the many reasons that I''m fundamentally against this type of process as
-        a vehicle for e-learning.  As my many blog posts attest.
-    
-    
-        Seeing the same mistakes again and again and again, can be frustrating and lead
-        to at tendency to sounding arrogant and dogmatic.  And I tend not to need too
-        much help in those areas.
-    
-    
-        Sorry, this reply is getting ridicuously long.  Time to stop.
-    
-    
-        David.'
-      date: '2009-03-27 15:33:06'
-      date_gmt: '2009-03-27 05:33:06'
-      id: '2333'
-      parent: '2331'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #5 - a new low &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: https://djon.es/blog/2009/03/27/phd-update-5-a-new-low/
-      content: '[...] Myth of rationality; Some good components of what will go into the
-        &#8220;Process&#8221; part of the Ps Framework. Including some literature to suggest
-        that the supposedly rational process is far from it. [...]'
-      date: '2009-03-27 13:23:50'
-      date_gmt: '2009-03-27 03:23:50'
-      id: '2332'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
-[![Choices](images/114430223_2eed0218b4_m_d.jpg)](http://www.flickr.com/photos/orinrobertjohn/114430223/)
+[![Choices](https://djon.es/assets/blog/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/images/114430223_2eed0218b4_m_d.jpg)](http://www.flickr.com/photos/orinrobertjohn/114430223/)
 
 Over the last 10 to 15 years I've been able to observe at reasonably close quarters at least 3 processes to select a learning management system/virtual learning environment (LMS/VLE) for a university. During the same time I've had the opportunity to sit through presentations and read papers provided by people who had led their organisation through the same process.
 

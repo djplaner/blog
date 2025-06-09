@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-04-09 12:34:43+10:00
+date: 2011-04-09 02:34:43
 next:
   text: A feeble first attempt at moving towards WCYDWT
   url: /blog/2011/04/11/a-feeble-first-attempt-at-moving-towards-wcydwt/
 previous:
   text: Mathematics and the net generation - not in textbook exercises
   url: /blog/2011/04/08/mathematics-and-the-net-generation-not-in-textbook-exercises/
+template: blog-post.html
 title: Group 3 Technologies - The activities
 type: post
-template: blog-post.html
 ---
 Following on from the [last post](/blog/2011/04/08/group-3-technologies-the-readings/) this one reports a bit more on activities associated with the Group 3 technologies, tools that "present learning or information". The point is mostly to document that I've done this stuff (for assessment purposes) and also to implement the necessary analysis of one of the tools.
 

@@ -1,52 +1,49 @@
----
+﻿---
 categories:
 - elearning
 - missingps
 - plescquni
 - thesis
-date: 2008-12-05 09:58:24+10:00
+comments: []
+date: 2008-12-04 23:58:24
 next:
   text: Struck Oil to Singapore
   url: /blog/2008/12/11/struck-oil-to-singapore/
+pingbacks:
+- approved: '1'
+  author: Volunteering to work | Jocene - cck08
+  author_email: null
+  author_ip: 64.225.152.18
+  author_url: http://jocene.edublogs.org/2008/12/08/volunteering-to-work/
+  content: '[...] https://djon.es/blog/2008/12/05/accept-the-fact-that-we-have-to-treat-almost-anybody-as-...
+    [...]'
+  date: '2008-12-09 12:59:58'
+  date_gmt: '2008-12-09 02:59:58'
+  id: '1906'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Patterns for e-learning - a lost opportunity or destined to fail &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
+  content: '[...] share complex knowledge, unless they know and trust you. Even then,
+    if their busy&#8230;. This has been known about for a [...]'
+  date: '2009-02-22 21:50:36'
+  date_gmt: '2009-02-22 11:50:36'
+  id: '1907'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A time to rethink enterprise helpdesk systems and management
   url: /blog/2008/12/03/a-time-to-rethink-enterprise-helpdesk-systems-and-management/
+template: blog-post.html
 title: Accept the fact that we have to treat almost anybody as a volunteer - implications
   for learning and teaching
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Volunteering to work | Jocene - cck08
-      author_email: null
-      author_ip: 64.225.152.18
-      author_url: http://jocene.edublogs.org/2008/12/08/volunteering-to-work/
-      content: '[...] https://djon.es/blog/2008/12/05/accept-the-fact-that-we-have-to-treat-almost-anybody-as-...
-        [...]'
-      date: '2008-12-09 12:59:58'
-      date_gmt: '2008-12-09 02:59:58'
-      id: '1906'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Patterns for e-learning - a lost opportunity or destined to fail &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
-      content: '[...] share complex knowledge, unless they know and trust you. Even then,
-        if their busy&#8230;. This has been known about for a [...]'
-      date: '2009-02-22 21:50:36'
-      date_gmt: '2009-02-22 11:50:36'
-      id: '1907'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 !!! warning "Broken image link"
 

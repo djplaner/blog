@@ -1,42 +1,39 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - lmsevaluation
 - lmsreview
 - thesis
-date: 2008-11-17 11:29:28+10:00
+comments: []
+date: 2008-11-17 01:29:28
 next:
   text: '"PLEs@CQUni: Origins, rationale and outcomes so far"'
   url: /blog/2008/11/17/plescquni-origins-rationale-and-outcomes-so-far-2/
+pingbacks:
+- approved: '1'
+  author: Evaluating an LMS by understanding the underpinning &#8220;model&#8221;
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.76
+  author_url: https://djon.es/blog/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/
+  content: '[...] approach is based somewhat on some previous ramblings and is based
+    on the assumption that an LMS is a piece of information technology. Consequently,
+    it [...]'
+  date: '2008-11-18 10:32:32'
+  date_gmt: '2008-11-18 00:32:32'
+  id: '1885'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: '&quot;Big&quot; systems - another assumption &quot;PLEs&quot; overthrow'
   url: /blog/2008/11/16/big-systems-another-assumption-ples-overthrow/
 tags:
 - lms
+template: blog-post.html
 title: The dissonance gap in systems and LMS evaluations
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Evaluating an LMS by understanding the underpinning &#8220;model&#8221;
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.76
-      author_url: https://djon.es/blog/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/
-      content: '[...] approach is based somewhat on some previous ramblings and is based
-        on the assumption that an LMS is a piece of information technology. Consequently,
-        it [...]'
-      date: '2008-11-18 10:32:32'
-      date_gmt: '2008-11-18 00:32:32'
-      id: '1885'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Ania Lian writes in the paper [Knowledge transfer and technology in education: toward a complete learning environment](http://www.ifets.info/journals/3_3/lian.html)
 

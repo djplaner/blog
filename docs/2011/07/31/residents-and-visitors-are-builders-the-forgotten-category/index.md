@@ -1,230 +1,228 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-07-31 15:50:03+10:00
+comments:
+- approved: '1'
+  author: Peter Albion
+  author_email: palbion@twitter.example.com
+  author_ip: 124.186.167.151
+  author_url: http://twitter.com/palbion
+  content: 'I was aware of the natives/immigrants metaphor pre-Prensky - from Barlow
+    via Willams &amp; McKeown http://acce.edu.au/journal/11/2/definitions-net-teachers-experience
+    but had not seen the residents/visitors metaphor previously. I agree that may
+    work better than the natives/immigrants comparison.
+
+
+    The question of whether users need to be programmers at any level is an interesting
+    one. As one of your former students in a GradDipComp course I have some sympathy
+    for the notion that understanding something of algorithms and programs is useful,
+    even for using standard software, from the perspective of understanding the logic
+    of operation.
+
+
+    I wonder if the relevant comparison there for many people might not be a builder/developer
+    but rather a renovator/handyman/DIY enthusiast?'
+  date: '2011-07-31 22:34:21'
+  date_gmt: '2011-07-31 12:34:21'
+  id: '100'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.185.169.23
+  author_url: https://djon.es/blog/
+  content: 'G''day Peter,
+
+
+    I''ve been wondering about this myself.
+
+
+    From what I''ve been observing in IPT classes at high schools and from what I''ve
+    seen around programming instruction at universities, I hesitate to suggest people
+    need to learn programming.
+
+
+    It seems to big a stretch for many people. But I also wonder whether that says
+    something about how programming is most often taught. Certainly some of the practices
+    I''ve seen are far from great. So, there remains a side question about what are
+    effective ways of teaching programming? Do Scratch, Alice, or perhaps the Media
+    Computation approaches offer something better? At some stage I must follow up
+    with the Rushkoff stuff and see if anyone has taken this further.
+
+
+    The point you make about understanding algorithms etc also resonates with some
+    of my experience. When helping academics use technology it was always obvious
+    which academics understood the models inherent in the technology. They rarely
+    needed help, they understood why things happened or didn''t.  Those who didn''t
+    have some internalised notion of how the technology worked struggled.
+
+
+    The lack of knowledge prevented them from being effective residents, let alone
+    renovator.
+
+
+    Renovator sounds like a better alternative to builder. It also captures a bit
+    of the zeitgeist, at least in terms of TV shows. It does capture the idea of not
+    necessarily being a full-time professional software engineer, but still retaining
+    enough expertise to make some changes.
+
+
+    David.'
+  date: '2011-08-01 08:28:21'
+  date_gmt: '2011-07-31 22:28:21'
+  id: '101'
+  parent: '100'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.185.169.23
+  author_url: https://djon.es/blog/
+  content: In terms of the native/immigrant metaphor, I became aware of it through
+    Chris Bigum when he was at CQU. He was talking about it in the mid-1990s. My vague
+    recollection is that Chris worked a bit with Michelle Williams at that time. I
+    even remember her visiting CQU around about then.
+  date: '2011-08-01 08:30:49'
+  date_gmt: '2011-07-31 22:30:49'
+  id: '102'
+  parent: '100'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Peter Albion
+  author_email: palbion@twitter.example.com
+  author_ip: 124.186.167.151
+  author_url: http://twitter.com/palbion
+  content: I like the renovator notion. It's apt for my efforts which are sometimes
+    not pretty but have the functionality that I need. Some of the AppleScript I've
+    written to drive Safari and Excel to automate processes in Moodle are probably
+    ugly code but they do what I need and can be readily enough adapted when something
+    in the environment changes. It's a case of constant renovation.
+  date: '2011-08-01 17:33:55'
+  date_gmt: '2011-08-01 07:33:55'
+  id: '103'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.185.169.23
+  author_url: https://djon.es/blog/
+  content: 'Peter, wasn''t it also you who did something with Excel to make life with
+    Peoplesoft (or results uploading of some sort) vaguely usable for folk? I actually
+    thought of that when talking about the renovator idea.
+
+
+    Then, not long after my initial reply, I was pointed to <a href="http://adifference.blogspot.com/2011/07/building-learning-communities-2011.html"
+    rel="nofollow">this post</a> and discussion of bricolage and bricoleurs.
+
+
+    The idea of bricolage resonates strongly with me. It''s something I discussed
+    in my thesis within information systems (Ciborra, 1992) and it also appears it
+    has connections with Papert. I do have to read a bit more what Papert has talked
+    about with bricolage, but I''m pretty certain there would be some resonance with
+    the idea of a renovator.
+
+
+    Ciborra, C. (1992). From thinking to tinkering: The grassroots of strategic information
+    systems. The Information Society, 8(4), 297-309.'
+  date: '2011-08-01 17:57:57'
+  date_gmt: '2011-08-01 07:57:57'
+  id: '104'
+  parent: '103'
+  type: comment
+  user_id: '1'
+date: 2011-07-31 05:50:03
 next:
   text: One analysis of the Digital Education Revolution
   url: /blog/2011/08/01/one-analysis-of-the-digital-education-revolution/
+pingbacks:
+- approved: '1'
+  author: 'links for 2011-08-01 : DrAlb'
+  author_email: null
+  author_ip: 117.55.226.121
+  author_url: http://www.pama.net.au/dralb/?p=447
+  content: "[...] Residents and visitors, are builders the forgotten category? \xAB\
+    \ The Weblog of (a) David Jones Prensky&#039;s natives/immigrants metaphor is\
+    \ all over the place. Even he does not claim the idea as original (John Perry\
+    \ Barlow had a similar idea some years prior) but he appears to be the first to\
+    \ have used those terms. The alternative of residents/visitors is one I had not\
+    \ seen previously but it seems to be a useful comparison, probably more so than\
+    \ Prensky&#039;s. (tags: usqict ttf) [...]"
+  date: '2011-08-01 21:30:58'
+  date_gmt: '2011-08-01 11:30:58'
+  id: '105'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: From Natives &amp; Immigrants to Visitors &amp; Residents | Tim Klapdor
+  author_email: null
+  author_ip: 66.155.8.47
+  author_url: http://timklapdor.wordpress.com/2013/10/21/from-natives-immigrants-to-visitors-residents/
+  content: "[&#8230;] to create a continuum. However it seems to lack depth and is\
+    \ just too narrow a focus. I then found a post from David Jones from 2011 which\
+    \ asked whether we needed a third option of \u201Cbuilder/creator\u201D. I agree\
+    \ completely [&#8230;]"
+  date: '2013-10-21 12:11:24'
+  date_gmt: '2013-10-21 02:11:24'
+  id: '106'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'The second coming of coding: Will it bring rapture or rejection? | DrAlb'
+  author_email: null
+  author_ip: 117.55.235.21
+  author_url: http://dralb.albion.id.au/?p=4494
+  content: "[&#8230;] Jones, D. T. (2011). Residents and visitors, are builders the\
+    \ forgotten category? \_Retrieved from https://davidtjones.wordpress.com/2011/07/31/residents-and-visitors-are-builders-the-forgotten-categ&#8230;\
+    \ [&#8230;]"
+  date: '2015-07-01 23:20:22'
+  date_gmt: '2015-07-01 13:20:22'
+  id: '107'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What type of &#8220;digital knowledge&#8221; does a teacher need? | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.134
+  author_url: https://davidtjones.wordpress.com/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
+  content: '[&#8230;] in 2011 I asked &#8220;Residents and visitors, are builders
+    the forgotten category?&#8221;. A question sparked by thinking about the Visitors
+    and Residents typology proposed by White &amp; [&#8230;]'
+  date: '2015-09-10 13:26:12'
+  date_gmt: '2015-09-10 03:26:12'
+  id: '108'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Coding &#038; photos &#8211; vacation rumination &#8211; DrAlb
+  author_email: null
+  author_ip: 117.55.235.21
+  author_url: http://dralb.albion.id.au/?p=4619
+  content: "[&#8230;] but is more likely to involve the sort of activity that we have\
+    \ described previously as digital renovation,\_which, despite my having some formal\
+    \ education in programming, is where I sit by reason of [&#8230;]"
+  date: '2016-01-02 21:09:18'
+  date_gmt: '2016-01-02 11:09:18'
+  id: '109'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What story do the numbers tell?
   url: /blog/2011/07/24/what-story-do-the-numbers-tell/
+template: blog-post.html
 title: Residents and visitors, are builders the forgotten category?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Peter Albion
-      author_email: palbion@twitter.example.com
-      author_ip: 124.186.167.151
-      author_url: http://twitter.com/palbion
-      content: 'I was aware of the natives/immigrants metaphor pre-Prensky - from Barlow
-        via Willams &amp; McKeown http://acce.edu.au/journal/11/2/definitions-net-teachers-experience
-        but had not seen the residents/visitors metaphor previously. I agree that may
-        work better than the natives/immigrants comparison.
-    
-    
-        The question of whether users need to be programmers at any level is an interesting
-        one. As one of your former students in a GradDipComp course I have some sympathy
-        for the notion that understanding something of algorithms and programs is useful,
-        even for using standard software, from the perspective of understanding the logic
-        of operation.
-    
-    
-        I wonder if the relevant comparison there for many people might not be a builder/developer
-        but rather a renovator/handyman/DIY enthusiast?'
-      date: '2011-07-31 22:34:21'
-      date_gmt: '2011-07-31 12:34:21'
-      id: '100'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.185.169.23
-      author_url: https://djon.es/blog/
-      content: 'G''day Peter,
-    
-    
-        I''ve been wondering about this myself.
-    
-    
-        From what I''ve been observing in IPT classes at high schools and from what I''ve
-        seen around programming instruction at universities, I hesitate to suggest people
-        need to learn programming.
-    
-    
-        It seems to big a stretch for many people. But I also wonder whether that says
-        something about how programming is most often taught. Certainly some of the practices
-        I''ve seen are far from great. So, there remains a side question about what are
-        effective ways of teaching programming? Do Scratch, Alice, or perhaps the Media
-        Computation approaches offer something better? At some stage I must follow up
-        with the Rushkoff stuff and see if anyone has taken this further.
-    
-    
-        The point you make about understanding algorithms etc also resonates with some
-        of my experience. When helping academics use technology it was always obvious
-        which academics understood the models inherent in the technology. They rarely
-        needed help, they understood why things happened or didn''t.  Those who didn''t
-        have some internalised notion of how the technology worked struggled.
-    
-    
-        The lack of knowledge prevented them from being effective residents, let alone
-        renovator.
-    
-    
-        Renovator sounds like a better alternative to builder. It also captures a bit
-        of the zeitgeist, at least in terms of TV shows. It does capture the idea of not
-        necessarily being a full-time professional software engineer, but still retaining
-        enough expertise to make some changes.
-    
-    
-        David.'
-      date: '2011-08-01 08:28:21'
-      date_gmt: '2011-07-31 22:28:21'
-      id: '101'
-      parent: '100'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.185.169.23
-      author_url: https://djon.es/blog/
-      content: In terms of the native/immigrant metaphor, I became aware of it through
-        Chris Bigum when he was at CQU. He was talking about it in the mid-1990s. My vague
-        recollection is that Chris worked a bit with Michelle Williams at that time. I
-        even remember her visiting CQU around about then.
-      date: '2011-08-01 08:30:49'
-      date_gmt: '2011-07-31 22:30:49'
-      id: '102'
-      parent: '100'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Peter Albion
-      author_email: palbion@twitter.example.com
-      author_ip: 124.186.167.151
-      author_url: http://twitter.com/palbion
-      content: I like the renovator notion. It's apt for my efforts which are sometimes
-        not pretty but have the functionality that I need. Some of the AppleScript I've
-        written to drive Safari and Excel to automate processes in Moodle are probably
-        ugly code but they do what I need and can be readily enough adapted when something
-        in the environment changes. It's a case of constant renovation.
-      date: '2011-08-01 17:33:55'
-      date_gmt: '2011-08-01 07:33:55'
-      id: '103'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.185.169.23
-      author_url: https://djon.es/blog/
-      content: 'Peter, wasn''t it also you who did something with Excel to make life with
-        Peoplesoft (or results uploading of some sort) vaguely usable for folk? I actually
-        thought of that when talking about the renovator idea.
-    
-    
-        Then, not long after my initial reply, I was pointed to <a href="http://adifference.blogspot.com/2011/07/building-learning-communities-2011.html"
-        rel="nofollow">this post</a> and discussion of bricolage and bricoleurs.
-    
-    
-        The idea of bricolage resonates strongly with me. It''s something I discussed
-        in my thesis within information systems (Ciborra, 1992) and it also appears it
-        has connections with Papert. I do have to read a bit more what Papert has talked
-        about with bricolage, but I''m pretty certain there would be some resonance with
-        the idea of a renovator.
-    
-    
-        Ciborra, C. (1992). From thinking to tinkering: The grassroots of strategic information
-        systems. The Information Society, 8(4), 297-309.'
-      date: '2011-08-01 17:57:57'
-      date_gmt: '2011-08-01 07:57:57'
-      id: '104'
-      parent: '103'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'links for 2011-08-01 : DrAlb'
-      author_email: null
-      author_ip: 117.55.226.121
-      author_url: http://www.pama.net.au/dralb/?p=447
-      content: "[...] Residents and visitors, are builders the forgotten category? \xAB\
-        \ The Weblog of (a) David Jones Prensky&#039;s natives/immigrants metaphor is\
-        \ all over the place. Even he does not claim the idea as original (John Perry\
-        \ Barlow had a similar idea some years prior) but he appears to be the first to\
-        \ have used those terms. The alternative of residents/visitors is one I had not\
-        \ seen previously but it seems to be a useful comparison, probably more so than\
-        \ Prensky&#039;s. (tags: usqict ttf) [...]"
-      date: '2011-08-01 21:30:58'
-      date_gmt: '2011-08-01 11:30:58'
-      id: '105'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: From Natives &amp; Immigrants to Visitors &amp; Residents | Tim Klapdor
-      author_email: null
-      author_ip: 66.155.8.47
-      author_url: http://timklapdor.wordpress.com/2013/10/21/from-natives-immigrants-to-visitors-residents/
-      content: "[&#8230;] to create a continuum. However it seems to lack depth and is\
-        \ just too narrow a focus. I then found a post from David Jones from 2011 which\
-        \ asked whether we needed a third option of \u201Cbuilder/creator\u201D. I agree\
-        \ completely [&#8230;]"
-      date: '2013-10-21 12:11:24'
-      date_gmt: '2013-10-21 02:11:24'
-      id: '106'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'The second coming of coding: Will it bring rapture or rejection? | DrAlb'
-      author_email: null
-      author_ip: 117.55.235.21
-      author_url: http://dralb.albion.id.au/?p=4494
-      content: "[&#8230;] Jones, D. T. (2011). Residents and visitors, are builders the\
-        \ forgotten category? \_Retrieved from https://davidtjones.wordpress.com/2011/07/31/residents-and-visitors-are-builders-the-forgotten-categ&#8230;\
-        \ [&#8230;]"
-      date: '2015-07-01 23:20:22'
-      date_gmt: '2015-07-01 13:20:22'
-      id: '107'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What type of &#8220;digital knowledge&#8221; does a teacher need? | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.134
-      author_url: https://davidtjones.wordpress.com/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
-      content: '[&#8230;] in 2011 I asked &#8220;Residents and visitors, are builders
-        the forgotten category?&#8221;. A question sparked by thinking about the Visitors
-        and Residents typology proposed by White &amp; [&#8230;]'
-      date: '2015-09-10 13:26:12'
-      date_gmt: '2015-09-10 03:26:12'
-      id: '108'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Coding &#038; photos &#8211; vacation rumination &#8211; DrAlb
-      author_email: null
-      author_ip: 117.55.235.21
-      author_url: http://dralb.albion.id.au/?p=4619
-      content: "[&#8230;] but is more likely to involve the sort of activity that we have\
-        \ described previously as digital renovation,\_which, despite my having some formal\
-        \ education in programming, is where I sit by reason of [&#8230;]"
-      date: '2016-01-02 21:09:18'
-      date_gmt: '2016-01-02 11:09:18'
-      id: '109'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Over the last few weeks I've been thinking about the Australian Federal Government's [Digital Education Revolution](http://www.digitaleducationrevolution.gov.au) (DER). The presentation arising from that thinking will be given later this week and am hoping the slides will be up soon. I'm currently thinking about the People aspect of the DER. In particular, I'm wondering if the [digital visitors and residents idea](http://tallblog.conted.ox.ac.uk/index.php/2009/10/14/visitors-residents-the-video/#) might need to be modified a bit in light of the protean nature of Information and Communication Technologies (ICTs) and ideas like [Douglas Rushkoff's Program or be Programmed](http://www.huffingtonpost.com/douglas-rushkoff/programming-literacy_b_745126.html).
 

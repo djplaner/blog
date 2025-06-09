@@ -1,45 +1,42 @@
----
+﻿---
 categories:
 - cqulearninghistory
 - elearning
 - secondlife
 - web3dx
-date: 2008-01-13 16:16:53+10:00
+comments:
+- approved: '1'
+  author: David's WebLog
+  author_email: null
+  author_ip: 138.77.94.11
+  author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=165
+  content: '<strong>Ideas for &#8220;spaces&#8221; in Second Life...</strong>
+
+
+    CQU has recently invested in an island in Second Life for the purposes of finding
+    out how it might be used within learning and teaching. One of the problems we
+    have to face is how and what spaces do we build on the island.
+
+    In this post I wonder if ther...'
+  date: '2008-01-18 16:57:52'
+  date_gmt: '2008-01-18 06:57:52'
+  id: '1575'
+  parent: '0'
+  type: trackback
+  user_id: '0'
+date: 2008-01-13 06:16:53
 next:
   text: Dealing with "users", freedom and shadow systems
   url: /blog/2008/01/14/dealing-with-users-freedom-and-shadow-systems/
+pingbacks: []
 previous:
   text: Traditional buildings in Second Life - hassle to navigate
   url: /blog/2008/01/10/traditional-buildings-in-second-life-hassle-to-navigate/
 tags:
 - cddu-web3dx-secondlife
+template: blog-post.html
 title: '"CQU Learning" - early days of a Second Life island'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: David's WebLog
-      author_email: null
-      author_ip: 138.77.94.11
-      author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=165
-      content: '<strong>Ideas for &#8220;spaces&#8221; in Second Life...</strong>
-    
-    
-        CQU has recently invested in an island in Second Life for the purposes of finding
-        out how it might be used within learning and teaching. One of the problems we
-        have to face is how and what spaces do we build on the island.
-    
-        In this post I wonder if ther...'
-      date: '2008-01-18 16:57:52'
-      date_gmt: '2008-01-18 06:57:52'
-      id: '1575'
-      parent: '0'
-      type: trackback
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 The purpose of these posts is to provide a bit of a history of the origins and development of the CQU Learning Second Life island and the initial steps into 3D MUVE's for learning and teaching. It's also to encourage a bit of reflection on why and what is happening as well as to make open the ideas, discussions and experiences we're having for the wider CQU community (and others) if at all interested.
 

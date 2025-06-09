@@ -1,68 +1,66 @@
----
+﻿---
 categories:
 - moodle
-date: 2010-06-02 17:01:06+10:00
+comments:
+- approved: '1'
+  author: Andrew Chambers (@atsc)
+  author_email: atsc@twitter.example.com
+  author_ip: 129.94.149.160
+  author_url: http://twitter.com/atsc
+  content: Thanks for this blog post. I am in the process of doing the same thing
+    for a post grad masters course in business. This helps me think through the process
+    and gives me some resources. You have almost convinced me to write up my own blog
+    post on the process!
+  date: '2011-10-26 14:29:37'
+  date_gmt: '2011-10-26 04:29:37'
+  id: '3075'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.187.169.111
+  author_url: https://djon.es/blog/
+  content: 'Glad it was of some use Andrew.  WIthin the next 6-12 months I should
+    be revisiting this post/process in more detail as I''ll be starting a new job
+    in which I''ll probably be creating more Moodle sites.
+
+
+    Would be useful to hear about your ideas and experiences.....does that encourage
+    a blog post?'
+  date: '2011-10-26 20:53:30'
+  date_gmt: '2011-10-26 10:53:30'
+  id: '3076'
+  parent: '3075'
+  type: comment
+  user_id: '1'
+date: 2010-06-02 07:01:06
 next:
   text: Adopter focused development and diffusion theory
   url: /blog/2010/06/04/adopter-focused-development-and-diffusion-theory/
+pingbacks:
+- approved: '1'
+  author: Should academics manually create course websites? &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.107
+  author_url: https://djon.es/blog/2010/06/07/should-academics-manually-create-course-websites/
+  content: '[...] was more broadly applicable was, &#8220;if you do something more
+    than once, automate it&#8221;. I recently had to create a Moodle course site from
+    scratch. It was a simple (some might argue simplistic) site, by no [...]'
+  date: '2010-06-07 20:36:40'
+  date_gmt: '2010-06-07 10:36:40'
+  id: '3074'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The role of experience
   url: /blog/2010/06/02/the-role-of-experience/
+template: blog-post.html
 title: The design of a Moodle course site
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Andrew Chambers (@atsc)
-      author_email: atsc@twitter.example.com
-      author_ip: 129.94.149.160
-      author_url: http://twitter.com/atsc
-      content: Thanks for this blog post. I am in the process of doing the same thing
-        for a post grad masters course in business. This helps me think through the process
-        and gives me some resources. You have almost convinced me to write up my own blog
-        post on the process!
-      date: '2011-10-26 14:29:37'
-      date_gmt: '2011-10-26 04:29:37'
-      id: '3075'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.187.169.111
-      author_url: https://djon.es/blog/
-      content: 'Glad it was of some use Andrew.  WIthin the next 6-12 months I should
-        be revisiting this post/process in more detail as I''ll be starting a new job
-        in which I''ll probably be creating more Moodle sites.
-    
-    
-        Would be useful to hear about your ideas and experiences.....does that encourage
-        a blog post?'
-      date: '2011-10-26 20:53:30'
-      date_gmt: '2011-10-26 10:53:30'
-      id: '3076'
-      parent: '3075'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Should academics manually create course websites? &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.107
-      author_url: https://djon.es/blog/2010/06/07/should-academics-manually-create-course-websites/
-      content: '[...] was more broadly applicable was, &#8220;if you do something more
-        than once, automate it&#8221;. I recently had to create a Moodle course site from
-        scratch. It was a simple (some might argue simplistic) site, by no [...]'
-      date: '2010-06-07 20:36:40'
-      date_gmt: '2010-06-07 10:36:40'
-      id: '3074'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 For a couple of different reasons I am helping someone with the design and implementation of a Moodle course site. I've developed an activity module for Moodle but have never created an entire course site. Have thought about how it might be done, but never done it. The following is a description and some reflections on the experience.
 

@@ -1,62 +1,59 @@
----
+﻿---
 categories:
 - chapter-2
 - phd
 - thesis
-date: 2009-05-08 15:59:06+10:00
+comments: []
+date: 2009-05-08 05:59:06
 next:
   text: Why don't we (e-)learn - over emphasis on rationality and defensive routines
   url: /blog/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/
+pingbacks:
+- approved: '1'
+  author: Why don&#8217;t we (e-)learn &#8211; over emphasis on rationality and defensive
+    routines &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    PhD Update #10 &#8211; Dragging&nbsp;on [...]'
+  date: '2009-05-08 22:41:22'
+  date_gmt: '2009-05-08 12:41:22'
+  id: '2490'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Phd Update #11 &#8211; very short week &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/05/15/phd-update-11-very-short-week/
+  content: '[...] Last week I suggested I would aim to: [...]'
+  date: '2009-05-15 15:38:39'
+  date_gmt: '2009-05-15 05:38:39'
+  id: '2491'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Blog de tesis, por David Jones &laquo; Estelaripa&#039;s Blog
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: http://estelaripa.wordpress.com/2010/03/31/blog-de-tesis-por-david-jones/
+  content: '[...] informes semanales de tarea cumplida vs [...]'
+  date: '2010-04-01 02:16:18'
+  date_gmt: '2010-03-31 16:16:18'
+  id: '2492'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Sector - another part of Place
   url: /blog/2009/05/08/sector-another-part-of-place/
+template: blog-post.html
 title: '"PhD Update #10 - Dragging on"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Why don&#8217;t we (e-)learn &#8211; over emphasis on rationality and defensive
-        routines &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        PhD Update #10 &#8211; Dragging&nbsp;on [...]'
-      date: '2009-05-08 22:41:22'
-      date_gmt: '2009-05-08 12:41:22'
-      id: '2490'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Phd Update #11 &#8211; very short week &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/05/15/phd-update-11-very-short-week/
-      content: '[...] Last week I suggested I would aim to: [...]'
-      date: '2009-05-15 15:38:39'
-      date_gmt: '2009-05-15 05:38:39'
-      id: '2491'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Blog de tesis, por David Jones &laquo; Estelaripa&#039;s Blog
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: http://estelaripa.wordpress.com/2010/03/31/blog-de-tesis-por-david-jones/
-      content: '[...] informes semanales de tarea cumplida vs [...]'
-      date: '2010-04-01 02:16:18'
-      date_gmt: '2010-03-31 16:16:18'
-      id: '2492'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Well, I've reached double figures for these updates. The last week has been a slow one, or at least felt like it. The public holiday didn't help, nor the day off to [ponder the new position](/blog/2009/05/07/pondering-a-new-position/). Progress has been made, but it just seems slow, especially when compared to what I said I'd do. I'm becoming more used to accepting some progress, be it slow or otherwise, as long as it's moving forward.
 

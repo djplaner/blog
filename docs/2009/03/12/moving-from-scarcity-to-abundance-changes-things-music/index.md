@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - chapter-1
 - design-theory
 - elearning
 - thesis
-date: 2009-03-12 16:24:50+10:00
+comments: []
+date: 2009-03-12 06:24:50
 next:
   text: '"PhD update - week #3"'
   url: /blog/2009/03/13/phd-update-week-3/
+pingbacks:
+- approved: '1'
+  author: 'PhD update - week #3 &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/03/13/phd-update-week-3/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Moving from scarcity to abundance changes things -&nbsp;music [...]'
+  date: '2009-03-13 14:36:01'
+  date_gmt: '2009-03-13 04:36:01'
+  id: '2246'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Another perspective for the indicators project
   url: /blog/2009/03/12/another-perspective-for-the-indicators-project/
+template: blog-post.html
 title: Moving from scarcity to abundance changes things - music
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD update - week #3 &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/03/13/phd-update-week-3/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Moving from scarcity to abundance changes things -&nbsp;music [...]'
-      date: '2009-03-13 14:36:01'
-      date_gmt: '2009-03-13 04:36:01'
-      id: '2246'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Growing up in [Rockhampton](http://www.rockhamptoninfo.com/) in the 70s and 80s, access to music that wasn't pop or C&W just didn't happen. Different types of music were scarce. In these days of iTunes, peer-to-peer etc. it has radically changed. There is an abundance.
 

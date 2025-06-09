@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - teaching
-date: 2011-03-07 09:26:07+10:00
+comments:
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.220.149.27
+  author_url: https://djon.es/blog/
+  content: 'What follows is a summary of the article I posted in another forum. I
+    hope it shows my very limited acceptance of the article''s argument.
+
+
+    Why are weak students doing education? Because education programs are easy.
+
+
+    Why are they easy? Because they require students to read and write less than other
+    programs.
+
+
+    How do we know they are weak students and reading/writing less is bad? Because
+    their performance on a essay only test is worse than other courses where they
+    read and write more.
+
+
+    How do we improve the rigor of education programs? Give them more reading and
+    writing to do.'
+  date: '2011-03-07 09:49:19'
+  date_gmt: '2011-03-06 23:49:19'
+  id: '19'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2011-03-06 23:26:07
 next:
   text: '"End of week 1: reflections and what''s next"'
   url: /blog/2011/03/07/end-of-week-1-reflections-and-whats-next/
+pingbacks: []
 previous:
   text: 'Literacy and Numeracy: Week 1'
   url: /blog/2011/03/06/literacy-and-numeracy-week-1/
+template: blog-post.html
 title: Multiliteracies and why weak students become teachers
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.220.149.27
-      author_url: https://djon.es/blog/
-      content: 'What follows is a summary of the article I posted in another forum. I
-        hope it shows my very limited acceptance of the article''s argument.
-    
-    
-        Why are weak students doing education? Because education programs are easy.
-    
-    
-        Why are they easy? Because they require students to read and write less than other
-        programs.
-    
-    
-        How do we know they are weak students and reading/writing less is bad? Because
-        their performance on a essay only test is worse than other courses where they
-        read and write more.
-    
-    
-        How do we improve the rigor of education programs? Give them more reading and
-        writing to do.'
-      date: '2011-03-07 09:49:19'
-      date_gmt: '2011-03-06 23:49:19'
-      id: '19'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 A tweet from [@rgesthuizen](http://twitter.com/#!/rgesthuizen) pointed me to [this article](http://www.csmonitor.com/Commentary/Opinion/2011/0302/Why-the-weak-students-end-up-as-teachers-Education-programs-lack-intellect/\(page\)/2) which argues that only weak students are ending up as teachers because education programs lack intellect. This is of interest to me for two reasons. First, I'm currently enrolled in an education program and I'm not sure my experiences match 100% what is claimed in the article (perhaps an interesting US/Australian difference). Second, because the fatal indicator of a lack of intellect within education programs seems to be in direct opposition to the positions I've seen in my first week of study.
 

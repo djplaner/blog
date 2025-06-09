@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - website
-date: 2008-12-28 15:50:08+10:00
+comments: []
+date: 2008-12-28 05:50:08
 next:
   text: Operating Systems animations and other resources
   url: /blog/2008/12/30/operating-systems-animations-and-other-resources/
+pingbacks:
+- approved: '1'
+  author: Implementing the rotating banner image &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/01/06/implementing-the-rotating-banner-image/
+  content: '[...] the rotating banner&nbsp;image  I&#8217;ve mentioned some plans
+    to implement a rotating banner image on this blog. As you may have picked up from
+    this post, if [...]'
+  date: '2009-01-06 09:34:53'
+  date_gmt: '2009-01-05 23:34:53'
+  id: '1931'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Rotating banner images in Wordpress - the last missing puzzle piece
   url: /blog/2008/12/28/rotating-banner-images-in-wordpress-the-last-missing-puzzle-piece/
+template: blog-post.html
 title: Plans for implementing rotating banner image
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Implementing the rotating banner image &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/01/06/implementing-the-rotating-banner-image/
-      content: '[...] the rotating banner&nbsp;image  I&#8217;ve mentioned some plans
-        to implement a rotating banner image on this blog. As you may have picked up from
-        this post, if [...]'
-      date: '2009-01-06 09:34:53'
-      date_gmt: '2009-01-05 23:34:53'
-      id: '1931'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 **Problem:** Implement a [rotating banner image](/blog/2008/12/28/rotating-banner-images-in-wordpress-the-last-missing-puzzle-piece/) on this blog which is hosted by [Wordpress.com](http://wordpress.com/). This means I cannot install any Wordpress themes that automatically support bnner rotation (e.g. the [Mandigo](http://www.onehertz.com/portfolio/wordpress/) theme suggested by [Will Taylor](http://wt.similibus.org/).
 

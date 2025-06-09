@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-03-07 14:44:37+10:00
+comments: []
+date: 2011-03-07 04:44:37
 next:
   text: '"ICTs for Learning Design: Week 2"'
   url: /blog/2011/03/08/icts-for-learning-design-week-2/
+pingbacks:
+- approved: '1'
+  author: 'Reflection and conclusions: Learning brief &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 72.233.61.84
+  author_url: https://djon.es/blog/2011/03/15/reflection-and-conclusions-learning-brief/
+  content: '[...] Learning theories wiki [...]'
+  date: '2011-03-15 17:24:34'
+  date_gmt: '2011-03-15 07:24:34'
+  id: '23'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Reflection on the profile Wiki: ICTs for Learning Design'
   url: /blog/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/
+template: blog-post.html
 title: Reflection on the learning theories wiki
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Reflection and conclusions: Learning brief &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 72.233.61.84
-      author_url: https://djon.es/blog/2011/03/15/reflection-and-conclusions-learning-brief/
-      content: '[...] Learning theories wiki [...]'
-      date: '2011-03-15 17:24:34'
-      date_gmt: '2011-03-15 07:24:34'
-      id: '23'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is the second of two reflective blog posts associated with the ICTs for Learning Design course for week 1. Each of these will follow much the same format as [the first](/blog/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/).
 

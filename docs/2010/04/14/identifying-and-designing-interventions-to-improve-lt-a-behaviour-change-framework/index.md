@@ -1,67 +1,64 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - indicators
 - reflectivealignment
-date: 2010-04-14 13:02:32+10:00
+comments: []
+date: 2010-04-14 03:02:32
 next:
   text: '"Further thinking - behaviour change and improving L&#038;T"'
   url: /blog/2010/04/15/further-thinking-behaviour-change-and-improving-lt/
+pingbacks:
+- approved: '1'
+  author: Is behaviour change the best approach to improve learning and teaching at
+    Universities? &laquo; Mathehu&#039;s Weblog
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: http://mathehu.wordpress.com/2010/04/14/is-behaviour-change-the-best-approach-to-improve-learning-and-teaching-at-universities/
+  content: '[...] This blog is based on discussions with a colleague on a range of
+    topics surrounding behaviour change, (psycho)education and engaging [...]'
+  date: '2010-04-14 22:01:34'
+  date_gmt: '2010-04-14 12:01:34'
+  id: '3000'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Further thinking &#8211; behaviour change and improving L&amp;T &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.193
+  author_url: https://djon.es/blog/2010/04/15/further-thinking-behaviour-change-and-improving-lt/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Identifying and designing interventions to improve L&amp;T &#8211; a behaviour
+    change&nbsp;framework... [...]'
+  date: '2010-04-15 11:04:01'
+  date_gmt: '2010-04-15 01:04:01'
+  id: '3001'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Inside out, Outside in or both? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.106
+  author_url: https://djon.es/blog/2010/04/25/inside-out-outside-in-or-both/
+  content: '[...] it&#8217;s a sign that the principles of current approaches are
+    just plain wrong. This is what my current work is looking [...]'
+  date: '2010-04-25 12:41:23'
+  date_gmt: '2010-04-25 02:41:23'
+  id: '3002'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Two types of process and what university e-learning continues to get wrong
   url: /blog/2010/04/12/two-types-of-process-and-what-university-e-learning-continues-to-get-wrong/
+template: blog-post.html
 title: '"Identifying and designing interventions to improve L&#038;T - a behaviour
   change framework?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Is behaviour change the best approach to improve learning and teaching at
-        Universities? &laquo; Mathehu&#039;s Weblog
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: http://mathehu.wordpress.com/2010/04/14/is-behaviour-change-the-best-approach-to-improve-learning-and-teaching-at-universities/
-      content: '[...] This blog is based on discussions with a colleague on a range of
-        topics surrounding behaviour change, (psycho)education and engaging [...]'
-      date: '2010-04-14 22:01:34'
-      date_gmt: '2010-04-14 12:01:34'
-      id: '3000'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Further thinking &#8211; behaviour change and improving L&amp;T &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.193
-      author_url: https://djon.es/blog/2010/04/15/further-thinking-behaviour-change-and-improving-lt/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Identifying and designing interventions to improve L&amp;T &#8211; a behaviour
-        change&nbsp;framework... [...]'
-      date: '2010-04-15 11:04:01'
-      date_gmt: '2010-04-15 01:04:01'
-      id: '3001'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Inside out, Outside in or both? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.106
-      author_url: https://djon.es/blog/2010/04/25/inside-out-outside-in-or-both/
-      content: '[...] it&#8217;s a sign that the principles of current approaches are
-        just plain wrong. This is what my current work is looking [...]'
-      date: '2010-04-25 12:41:23'
-      date_gmt: '2010-04-25 02:41:23'
-      id: '3002'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an attempt to describe early attempts at developing a framework for evaluating existing and developing new interventions aimed at improving learning and teaching within universities. It builds on some ideas from an [earlier post](/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/).
 
@@ -95,7 +92,7 @@ The institutions are already at it. My current institution is currently introduc
 
 At best, a formal teaching qualification will change the conceptions of teaching held by an academic. The "teacher's thinking" layer in the following diagram. There is significant research (e.g. Trigwell, 2001; Richardson, 2005) that suggests that unless all of the layers in the diagram are in alignment, you won't get improvement in teaching.
 
-[![Trigwell's model of teaching](images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
+[![Trigwell's model of teaching](https://djon.es/assets/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
 
 That is, even with a formal teaching qualification, if the context, disciplinary expectations and many other factors aren't right, then there will be no behaviour change. The teacher will continue to employ the same strategies as always.
 

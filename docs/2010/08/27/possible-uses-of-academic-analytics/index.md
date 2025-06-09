@@ -1,89 +1,87 @@
----
+﻿---
 categories:
 - academicdevelopment
 - elearning
 - indicators
-date: 2010-08-27 16:12:14+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: Not sure if it's in the same ballpark, but I'd be interested to see if
+    learning analytics would cover tracking AIs. If not, it could certainly be used
+    to support tracking AIs to give an automated indication as to whether the student
+    has reached a sufficient level of understanding to continue to the next topic.
+  date: '2010-09-06 14:16:11'
+  date_gmt: '2010-09-06 04:16:11'
+  id: '3155'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.154.42.225
+  author_url: https://djon.es/blog/
+  content: 'G''day Tony,
+
+
+    AI seems to be the almost automatic assumption of many folk involved with analytics.  I
+    have to say that I''m not convinced, but not entirely skeptical.
+
+
+    The work that I may do, would almost certainly be without AIs. Aimed more at providing
+    scaffolding for human beings to make judgements.  In some cases, this might eventually
+    be aided by AIs.
+
+
+    One of the reasons, is that I''m not sure most academics can specific what is
+    a sufficient level of understanding in any meaningful way.  Given the diversity
+    of people/learners, I''m also not sure that there is an objective way to do this.
+
+
+    Basically, I think AIs or similar "intelligent" technologies (e.g. the semantic
+    web) are very limited in what they can do and the folk pushing them often over
+    state what can be achieved in real situations (i.e. outside the "lab").
+
+
+    However, I''m not certain enough to rule it out completely.
+
+
+    David.'
+  date: '2010-09-13 13:10:37'
+  date_gmt: '2010-09-13 03:10:37'
+  id: '3156'
+  parent: '3155'
+  type: comment
+  user_id: '1'
+date: 2010-08-27 06:12:14
 next:
   text: The rider, elephant, and shaping the path
   url: /blog/2010/08/30/rider-elephant-path/
+pingbacks:
+- approved: '1'
+  author: The growth potential and ethics of academic analytics. &laquo; Col&#039;s
+    Weblog
+  author_email: null
+  author_ip: 74.200.247.113
+  author_url: http://beerc.wordpress.com/2010/08/29/the-growth-potential-and-ethics-of-academic-analytics/
+  content: "[...] growth potential and ethics of academic&nbsp;analytics. As David\
+    \ says in his blog about our Indicators project, we have been taking a what, why\
+    \ and how approach. The \u2018what\u2019 is [...]"
+  date: '2010-08-29 18:45:37'
+  date_gmt: '2010-08-29 08:45:37'
+  id: '3154'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM, blog posts and special characters
   url: /blog/2010/08/26/bim-blog-posts-and-special-characters/
+template: blog-post.html
 title: Possible uses of academic analytics
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: Not sure if it's in the same ballpark, but I'd be interested to see if
-        learning analytics would cover tracking AIs. If not, it could certainly be used
-        to support tracking AIs to give an automated indication as to whether the student
-        has reached a sufficient level of understanding to continue to the next topic.
-      date: '2010-09-06 14:16:11'
-      date_gmt: '2010-09-06 04:16:11'
-      id: '3155'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.154.42.225
-      author_url: https://djon.es/blog/
-      content: 'G''day Tony,
-    
-    
-        AI seems to be the almost automatic assumption of many folk involved with analytics.  I
-        have to say that I''m not convinced, but not entirely skeptical.
-    
-    
-        The work that I may do, would almost certainly be without AIs. Aimed more at providing
-        scaffolding for human beings to make judgements.  In some cases, this might eventually
-        be aided by AIs.
-    
-    
-        One of the reasons, is that I''m not sure most academics can specific what is
-        a sufficient level of understanding in any meaningful way.  Given the diversity
-        of people/learners, I''m also not sure that there is an objective way to do this.
-    
-    
-        Basically, I think AIs or similar "intelligent" technologies (e.g. the semantic
-        web) are very limited in what they can do and the folk pushing them often over
-        state what can be achieved in real situations (i.e. outside the "lab").
-    
-    
-        However, I''m not certain enough to rule it out completely.
-    
-    
-        David.'
-      date: '2010-09-13 13:10:37'
-      date_gmt: '2010-09-13 03:10:37'
-      id: '3156'
-      parent: '3155'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: The growth potential and ethics of academic analytics. &laquo; Col&#039;s
-        Weblog
-      author_email: null
-      author_ip: 74.200.247.113
-      author_url: http://beerc.wordpress.com/2010/08/29/the-growth-potential-and-ethics-of-academic-analytics/
-      content: "[...] growth potential and ethics of academic&nbsp;analytics. As David\
-        \ says in his blog about our Indicators project, we have been taking a what, why\
-        \ and how approach. The \u2018what\u2019 is [...]"
-      date: '2010-08-29 18:45:37'
-      date_gmt: '2010-08-29 08:45:37'
-      id: '3154'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a slightly edited copy of a message I've just sent off to the Learning Analytics GoogleGroup set up by [George Siemens](http://www.elearnspace.org/blog/2010/08/17/learning-analytics-2011/). I'm into reuse. Essentially it tries to highlight a small subset of the uses of learning analytics that I see as most interesting.
 

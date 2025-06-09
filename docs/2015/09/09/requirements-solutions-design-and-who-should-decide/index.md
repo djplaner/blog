@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - bad
 - elearning
 - uxdesign
-date: 2015-09-09 18:06:31+10:00
+comments: []
+date: 2015-09-09 08:06:31
 next:
   text: What type of "digital knowledge" does a teacher need?
   url: /blog/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
+pingbacks:
+- approved: '1'
+  author: What might a project combining LX Design and Analaytics look like? | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.190
+  author_url: https://davidtjones.wordpress.com/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
+  content: '[&#8230;] I wrote last week I&#8217;m not convinced that the &#8220;needs
+    and wants of users&#8221; is always the best [&#8230;]'
+  date: '2015-09-14 11:40:35'
+  date_gmt: '2015-09-14 01:40:35'
+  id: '1423'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: How NGL can inform my role as teacher
   url: /blog/2015/09/07/how-ngl-can-inform-my-role-as-teacher/
+template: blog-post.html
 title: Requirements, solutions, design, and who should decide
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: What might a project combining LX Design and Analaytics look like? | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.190
-      author_url: https://davidtjones.wordpress.com/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
-      content: '[&#8230;] I wrote last week I&#8217;m not convinced that the &#8220;needs
-        and wants of users&#8221; is always the best [&#8230;]'
-      date: '2015-09-14 11:40:35'
-      date_gmt: '2015-09-14 01:40:35'
-      id: '1423'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 22 years ago I helped a group of undergraduate Information Technology students set up [CQ-PAN - Central Queensland - Public Access Network](http://web.archive.org/web/19961223053531/http://cq-pan.cqu.edu.au/). An early attempt to allow CQ residents get on the Internet. [CQ-PAN got used](/blog/1000-users-on-a-486/) by a range of people for a range of tasks. In 1994 CQ-PAN started [hosting mailing lists](/blog/1000-users-on-a-486/#lists) for a range of purposes, including for courses being taught by my then employer, the Department of Mathematics and Computing (who were funding the hardware).
 

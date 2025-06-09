@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - cognitiveedge
@@ -6,52 +6,49 @@ categories:
 - elearning
 - missingps
 - thesis
-date: 2009-02-09 11:18:54+10:00
+comments: []
+date: 2009-02-09 01:18:54
 next:
   text: The protean nature of modern technology - another limitation of most views
     of e-learning
   url: /blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
+pingbacks:
+- approved: '1'
+  author: 'Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
+    systems might go away &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 76.74.248.177
+  author_url: https://djon.es/blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
+  content: '[...] leads to the adoption of fads and fashions as logical decision making
+    (see some related posts: the silliness of best practice, open source LMS - the
+    latest fad, and alternatives for [...]'
+  date: '2009-02-25 08:45:51'
+  date_gmt: '2009-02-24 22:45:51'
+  id: '2114'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why minimium standards (probably) won&#8217;t work and will probably become
+    maximum standards &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.152
+  author_url: https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
+  content: '[...] complained before about the silliness of best practices. As Cavallo
+    (2004) suggests such &#8220;grafting&#8221; on is [...]'
+  date: '2009-06-19 13:30:19'
+  date_gmt: '2009-06-19 03:30:19'
+  id: '2115'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Plato on the problems that writing will create for student learning
   url: /blog/2009/02/09/plato-on-the-problems-that-writing-will-create-for-student-learning/
+template: blog-post.html
 title: On the silliness of "best practice" - or why you shouldn't (just) copy successful
   organisations
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
-        systems might go away &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 76.74.248.177
-      author_url: https://djon.es/blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
-      content: '[...] leads to the adoption of fads and fashions as logical decision making
-        (see some related posts: the silliness of best practice, open source LMS - the
-        latest fad, and alternatives for [...]'
-      date: '2009-02-25 08:45:51'
-      date_gmt: '2009-02-24 22:45:51'
-      id: '2114'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why minimium standards (probably) won&#8217;t work and will probably become
-        maximum standards &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.152
-      author_url: https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
-      content: '[...] complained before about the silliness of best practices. As Cavallo
-        (2004) suggests such &#8220;grafting&#8221; on is [...]'
-      date: '2009-06-19 13:30:19'
-      date_gmt: '2009-06-19 03:30:19'
-      id: '2115'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The very idea of "best practice" is silly. In any meaningful complex activity the idea of simply copying what someone else did is destined to fail because it doesn't seek to understand the reasons why that best practice worked for them and what are the differences between "them" and "us".
 

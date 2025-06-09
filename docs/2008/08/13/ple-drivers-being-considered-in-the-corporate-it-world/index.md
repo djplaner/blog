@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - plescquni
-date: 2008-08-13 22:29:56+10:00
+date: 2008-08-13 12:29:56
 next:
   text: A new "all-in-one" introduction to OASIS
   url: /blog/2008/08/15/a-new-all-in-one-introduction-to-oasis/
 previous:
   text: Creating a voice thread presentation
   url: /blog/2008/08/11/creating-a-voice-thread-presentation/
+template: blog-post.html
 title: PLE drivers being considered in the corporate IT world?
 type: post
-template: blog-post.html
 ---
 The [PLEs@CQUni](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni) is being driven, in part, by a range of external factors around the practices, availability and affordances of information technology, especially those associated with Web 2.0 and social software. We'll be looking at this means for the use of educational technology within universities, not to mention the practice of learning and teaching.
 

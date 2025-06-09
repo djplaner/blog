@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20455
 - teaching
-date: 2011-03-30 13:21:11+10:00
+date: 2011-03-30 03:21:11
 next:
   text: The next step for the LMS?
   url: /blog/2011/03/31/the-next-step-for-the-lms/
 previous:
   text: Problems for teaching scholars
   url: /blog/2011/03/30/problems-for-teaching-scholars/
+template: blog-post.html
 title: '"Supportive Learning Environments: Week 3, 4, 5 and 6"'
 type: post
-template: blog-post.html
 ---
 And now begins a couple of weeks catch up, and hopefully getting up. The following is reflection on weeks 3, 4, 5, and 6 of the course on Supportive Learning Environments I'm studying.
 

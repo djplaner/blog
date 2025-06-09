@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2014-02-05 15:35:29+10:00
+comments: []
+date: 2014-02-05 05:35:29
 next:
   text: BIM testing and fixes
   url: /blog/2014/02/07/bim-testing-and-fixes/
+pingbacks:
+- approved: '1'
+  author: BIM testing and fixes | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.9.119
+  author_url: https://djon.es/blog/2014/02/07/bim-testing-and-fixes/
+  content: '[&#8230;] Moodle instance thereby providing a minimum working version
+    for installation. As per yesterday&#8217;s planning the hope is to make further
+    changes based on this [&#8230;]'
+  date: '2014-02-07 13:53:44'
+  date_gmt: '2014-02-07 03:53:44'
+  id: '948'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Analysing EDC3100 using MAV
   url: /blog/2014/02/03/analysing-edc3100-using-mav/
+template: blog-post.html
 title: Identifying some immediate changes to BIM
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM testing and fixes | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.9.119
-      author_url: https://djon.es/blog/2014/02/07/bim-testing-and-fixes/
-      content: '[&#8230;] Moodle instance thereby providing a minimum working version
-        for installation. As per yesterday&#8217;s planning the hope is to make further
-        changes based on this [&#8230;]'
-      date: '2014-02-07 13:53:44'
-      date_gmt: '2014-02-07 03:53:44'
-      id: '948'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I have until the 21st of February to get [BIM](/blog/research/bam-blog-aggregation-management/) tested and ready for installation into the institutional Moodle instance. The following is some initial planning of what I'd like to get done in that time frame. A list that will then need to be further whittled away to what I can get done in that time frame. There are three categories of changes
 

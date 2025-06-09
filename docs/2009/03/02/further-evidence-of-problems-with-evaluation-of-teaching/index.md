@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - quotes
-date: 2009-03-02 20:36:37+10:00
+comments: []
+date: 2009-03-02 10:36:37
 next:
   text: Task corruption in teaching @ university - negative impact of Place?
   url: /blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/
+pingbacks:
+- approved: '1'
+  author: Task corruption in teaching @ university - negative impact of Place? &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Further evidence of problems with evaluation of&nbsp;teaching [...]'
+  date: '2009-03-04 08:08:41'
+  date_gmt: '2009-03-03 22:08:41'
+  id: '2198'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
   url: /blog/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
+template: blog-post.html
 title: Further evidence of problems with evaluation of teaching
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Task corruption in teaching @ university - negative impact of Place? &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Further evidence of problems with evaluation of&nbsp;teaching [...]'
-      date: '2009-03-04 08:08:41'
-      date_gmt: '2009-03-03 22:08:41'
-      id: '2198'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In a couple of [recent posts](/blog/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/) (and [this one](/blog/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/)) I've essentially been arguing that most evaluation of teaching at universities is actually worse the useless. The following quote from White (2006) provides some additional ammunition.
 

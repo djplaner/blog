@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - edc3100
 - edu8117
-date: 2016-08-12 14:17:12+10:00
+comments: []
+date: 2016-08-12 04:17:12
 next:
   text: Exploring Moodle Book Module usage - part 1 - background and planning
   url: /blog/2016/08/13/exploring-moodle-book-module-usage-part-1/
+pingbacks:
+- approved: '1'
+  author: On the value or otherwise of SAMR, RAT etc. &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.101.32
+  author_url: https://davidtjones.wordpress.com/2016/08/23/on-the-value-or-otherwise-of-samr-rat-etc/
+  content: '[&#8230;] the growing prevalence of digital technologies, at what stage
+    does it make sense to think of a learning activity as not involving some form
+    of [&#8230;]'
+  date: '2016-08-23 15:22:48'
+  date_gmt: '2016-08-23 05:22:48'
+  id: '3390'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Teacher presence in network learning
   url: /blog/2016/08/07/teacher-presence-in-network-learning/
+template: blog-post.html
 title: How many digital devices do you have?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: On the value or otherwise of SAMR, RAT etc. &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.101.32
-      author_url: https://davidtjones.wordpress.com/2016/08/23/on-the-value-or-otherwise-of-samr-rat-etc/
-      content: '[&#8230;] the growing prevalence of digital technologies, at what stage
-        does it make sense to think of a learning activity as not involving some form
-        of [&#8230;]'
-      date: '2016-08-23 15:22:48'
-      date_gmt: '2016-08-23 05:22:48'
-      id: '3390'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In a couple of the courses I teach I ask students (for slightly different purposes) the question from the title of this post, "How many digital devices do you have?".  In one of the courses that question takes the form of a quiz and looks something like the following.
 
@@ -57,7 +54,7 @@ Count them up folks. What answer would you give. I'll give you some space to thi
 
  
 
-[![DEC PDP-1 by Peter Dreisiger, on Flickr](images/2201861464_7ddf586ac8.jpg "DEC PDP-1 by Peter Dreisiger, on Flickr")](https://www.flickr.com/photos/dreisiger/2201861464/) "[DEC PDP-1](https://www.flickr.com/photos/dreisiger/2201861464/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/dreisiger/)[Peter Dreisiger](https://www.flickr.com/people/dreisiger/) [](http://www.imagecodr.org/)
+[![DEC PDP-1 by Peter Dreisiger, on Flickr](https://djon.es/assets/blog/2016/08/12/how-many-digital-devices-do-you-have/images/2201861464_7ddf586ac8.jpg "DEC PDP-1 by Peter Dreisiger, on Flickr")](https://www.flickr.com/photos/dreisiger/2201861464/) "[DEC PDP-1](https://www.flickr.com/photos/dreisiger/2201861464/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/dreisiger/)[Peter Dreisiger](https://www.flickr.com/people/dreisiger/) [](http://www.imagecodr.org/)
 
  
 
@@ -71,7 +68,7 @@ Thinking a bit further afield than that I can probably count quite a few more th
 
  
 
-[![1956 ... wagon a-da- future! by x-ray delta one, on Flickr](images/16689390882_d4b6d7c152.jpg "1956 ... wagon a-da- future! by x-ray delta one, on Flickr")](https://www.flickr.com/photos/x-ray_delta_one/16689390882/) "[1956 ... wagon a-da- future!](https://www.flickr.com/photos/x-ray_delta_one/16689390882/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/x-ray_delta_one/)[x-ray delta one](https://www.flickr.com/people/x-ray_delta_one/) [](http://www.imagecodr.org/)
+[![1956 ... wagon a-da- future! by x-ray delta one, on Flickr](https://djon.es/assets/blog/2016/08/12/how-many-digital-devices-do-you-have/images/16689390882_d4b6d7c152.jpg "1956 ... wagon a-da- future! by x-ray delta one, on Flickr")](https://www.flickr.com/photos/x-ray_delta_one/16689390882/) "[1956 ... wagon a-da- future!](https://www.flickr.com/photos/x-ray_delta_one/16689390882/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/x-ray_delta_one/)[x-ray delta one](https://www.flickr.com/people/x-ray_delta_one/) [](http://www.imagecodr.org/)
 
  
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - casa
-date: 2019-12-10 07:44:28+10:00
+date: 2019-12-09 21:44:28
 next:
   text: '"The conceptualisation of e-learning: Lessons and implications"'
   url: /blog/2019/12/19/the-conceptualisation-of-e-learning-lessons-and-implications/
 previous:
   text: How to share design knowledge in design for digital learning?
   url: /blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/
+template: blog-post.html
 title: It's more than how you use the technology - authoring online content
 type: post
-template: blog-post.html
 ---
 At the recent [ASCILITE’2019](https://2019conference.ascilite.org/) there was a common refrain throughout the conference, which started with the original keynote as captured in the following tweet
 

@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,34 +6,31 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-09-17 11:16:08+10:00
+comments: []
+date: 2010-09-17 01:16:08
 next:
   text: The office and more procrastination
   url: /blog/2010/09/17/the-office-and-more-procrastination/
+pingbacks:
+- approved: '1'
+  author: Why am I a ePortfolio skeptic? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.113
+  author_url: https://djon.es/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/
+  content: '[...] this original post and this post &#8220;Justificatory knowledge&#8221;
+    use Swanson and Ramiller (2004) on innovating mindfully with technology. The [...]'
+  date: '2012-09-16 22:37:21'
+  date_gmt: '2012-09-16 12:37:21'
+  id: '3163'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Principles of implementation
   url: /blog/2010/09/17/principles-of-implementation/
+template: blog-post.html
 title: Justificatory knowledge
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Why am I a ePortfolio skeptic? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.113
-      author_url: https://djon.es/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/
-      content: '[...] this original post and this post &#8220;Justificatory knowledge&#8221;
-        use Swanson and Ramiller (2004) on innovating mindfully with technology. The [...]'
-      date: '2012-09-16 22:37:21'
-      date_gmt: '2012-09-16 12:37:21'
-      id: '3163'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a first version of the justificatory knowledge section of my ISDT for emergent university e-learning systems. Still fairly uncertain just how information is meant to go in here and also just how far I should go with the reference to other theories (there are lots) and how much time should be spent looking at the interactions between them.
 

@@ -1,51 +1,49 @@
----
+﻿---
 categories:
 - bad
 - bambimbad
 - research
-date: 2015-01-16 14:51:07+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 58.110.55.167
+  author_url: http://cj13.wordpress.com/
+  content: 'You will likely find: Becker, H. S. (2014). What about Mozart? What about
+    murder? : reasoning from cases (Kindle ed.). Chicago ; London: The University
+    of Chicago Press.  pretty handy.'
+  date: '2015-01-17 11:49:06'
+  date_gmt: '2015-01-17 01:49:06'
+  id: '1201'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2015-01-16 04:51:07
 next:
   text: What might the 3 levels of organisational culture reveal about university
     e-learning
   url: /blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+pingbacks:
+- approved: '1'
+  author: Trying out a new writing process | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.147
+  author_url: https://davidtjones.wordpress.com/2015/01/21/trying-out-a-new-writing-process/
+  content: '[&#8230;] Wednesday, that means writing day. Time to continue work on
+    a paper that&#8217;s been mentioned previously. In this process I&#8217;m exploring
+    being open about the writing process and attempting to create [&#8230;]'
+  date: '2015-01-21 16:28:21'
+  date_gmt: '2015-01-21 06:28:21'
+  id: '1202'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Choosing a research publication outlet: Part II'
   url: /blog/2015/01/14/choosing-a-research-publication-outlet-part-ii/
+template: blog-post.html
 title: Learning about case study methodology to research higher education
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 58.110.55.167
-      author_url: http://cj13.wordpress.com/
-      content: 'You will likely find: Becker, H. S. (2014). What about Mozart? What about
-        murder? : reasoning from cases (Kindle ed.). Chicago ; London: The University
-        of Chicago Press.  pretty handy.'
-      date: '2015-01-17 11:49:06'
-      date_gmt: '2015-01-17 01:49:06'
-      id: '1201'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Trying out a new writing process | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.147
-      author_url: https://davidtjones.wordpress.com/2015/01/21/trying-out-a-new-writing-process/
-      content: '[&#8230;] Wednesday, that means writing day. Time to continue work on
-        a paper that&#8217;s been mentioned previously. In this process I&#8217;m exploring
-        being open about the writing process and attempting to create [&#8230;]'
-      date: '2015-01-21 16:28:21'
-      date_gmt: '2015-01-21 06:28:21'
-      id: '1202'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary and some thoughts on Harland (2014). The abstract for the paper is
 

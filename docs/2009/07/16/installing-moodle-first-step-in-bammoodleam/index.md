@@ -1,51 +1,49 @@
----
+﻿---
 categories:
 - bam
-date: 2009-07-16 12:10:56+10:00
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 118.208.40.242
+  author_url: http://
+  content: '"At least some of the Moodle folk are real men!"
+
+
+    They would be the 40 year old virgins sitting in the corner surrounded by dilbert
+    clippings ;)'
+  date: '2009-07-23 17:29:28'
+  date_gmt: '2009-07-23 07:29:28'
+  id: '2645'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-07-16 02:10:56
 next:
   text: When senior management lose the plot
   url: /blog/2009/07/17/when-senior-management-lose-the-plot/
+pingbacks:
+- approved: '1'
+  author: 'BAM into Moodle &#8211; Step #2: configuration and questions &laquo; The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/07/21/bam-into-moodle-step-2-configuration-and-questions/
+  content: '[...]  It&#8217;s Tuesday, so must be time to take the next step in getting
+    BAM into Moodle. Last time I got up to having Moodle checked out from CVS and
+    PHP/Apache and MySQL all working nicely [...]'
+  date: '2009-07-21 11:28:19'
+  date_gmt: '2009-07-21 01:28:19'
+  id: '2644'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BAM into Moodle approved - starting the process
   url: /blog/2009/07/16/bam-into-moodle-approved-starting-the-process/
+template: blog-post.html
 title: Installing Moodle - first step in BAM/MoodleAM
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 118.208.40.242
-      author_url: http://
-      content: '"At least some of the Moodle folk are real men!"
-    
-    
-        They would be the 40 year old virgins sitting in the corner surrounded by dilbert
-        clippings ;)'
-      date: '2009-07-23 17:29:28'
-      date_gmt: '2009-07-23 07:29:28'
-      id: '2645'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: 'BAM into Moodle &#8211; Step #2: configuration and questions &laquo; The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/07/21/bam-into-moodle-step-2-configuration-and-questions/
-      content: '[...]  It&#8217;s Tuesday, so must be time to take the next step in getting
-        BAM into Moodle. Last time I got up to having Moodle checked out from CVS and
-        PHP/Apache and MySQL all working nicely [...]'
-      date: '2009-07-21 11:28:19'
-      date_gmt: '2009-07-21 01:28:19'
-      id: '2644'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Having received [approval](/blog/2009/07/16/bam-into-moodle-approved-starting-the-process/) to port BAM into Moodle, the first step is to get a Moodle development environment installed on my laptop. I'm meant to be getting a new one this week, however, local IT hasn't been forthcoming in when this is going to be available. Can't wait, I only have two days a week to work on this, and today is the last one this week.
 

@@ -1,22 +1,18 @@
----
+﻿---
 categories:
 - indicators
-date: 2017-03-12 15:37:22+10:00
+comments: []
+date: 2017-03-12 05:37:22
 next:
   text: '"Jupyter notebook indicators platform: Baby step #1 - Finding an ORM"'
   url: /blog/2017/03/12/jupyter-notebook-indicators-platform-baby-step-1-finding-an-orm/
+pingbacks: []
 previous:
   text: Reflecting on playing with learning analytics
   url: /blog/2017/03/10/reflecting-on-playing-with-analytics/
+template: blog-post.html
 title: Playing with Python and Jupyter notebooks for analytics
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 This is the third in a series of posts documenting "thinking" and progress around the next step of some bricolage with learning analytics and attempts to make some progress with the [Indicators project](http://indicatorsproject.wordpress.com/).
 
@@ -155,7 +151,7 @@ A jupyter notebook can be thought of as a lab/field diary.
     - _Notebook server_ \- communication between the kernal and the web browser
     - _Kernel_ responsible for executing the code, different kernels support different languages.
 
-![Jupyter architecture](images/notebook_components.png)
+![Jupyter architecture](https://djon.es/assets/blog/2017/03/12/playing-with-python-and-jupyter-notebooks-for-analytics/images/notebook_components.png)
 
 ### [Espoused benefits](https://reproducible-science-curriculum.github.io/introduction-RR-Jupyter/slides/Jupyter_Intro_Background.slides.html#/3): Jupyter notebooks for reproducible research
 
@@ -280,4 +276,4 @@ That's working. A screen shot of the Jupyter notebook is shown below (data blurr
 
 There remain a couple of problems with this in terms of abstraction, but I can see how it might work.
 
-[![](images/new-300x179.png)](http://djon.es/blog/wp-content/uploads/2017/03/new.png)
+[![](https://djon.es/assets/blog/2017/03/12/playing-with-python-and-jupyter-notebooks-for-analytics/images/new-300x179.png)](http://djon.es/blog/wp-content/uploads/2017/03/new.png)

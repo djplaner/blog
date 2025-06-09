@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-02-15 11:31:36+10:00
+date: 2010-02-15 01:31:36
 next:
   text: BIM 1.0alpha is released
   url: /blog/2010/02/15/bim-1-0alpha-is-released/
 previous:
   text: BIM - Ideas for changes arising from user testing
   url: /blog/2010/02/11/bim-ideas-for-changes-arising-from-user-testing/
+template: blog-post.html
 title: BIM - Final Tidy up
 type: post
-template: blog-post.html
 ---
 Today is the day that BIM get's handed off to the folk of my institution's central IT division and from there onto [Netspot](http://netspot.com.au/) who will be ensuring that it is "safe" for IT to install it on the institution's live Moodle instantiation. In preparation for the hand over, I've done one last test and identified some issues to fix. This post documents that work.
 

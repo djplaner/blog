@@ -1,8 +1,8 @@
----
-date: 2009-01-02 02:04:52+10:00
+﻿---
+date: 2009-01-01 16:04:52
+template: blog-post.html
 title: Teaching Systems Administration II
 type: page
-template: blog-post.html
 ---
 David Jones, Teaching Systems Administration II, SAGE-AU’95, Wollongong.
 

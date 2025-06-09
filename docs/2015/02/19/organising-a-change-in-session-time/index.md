@@ -1,59 +1,56 @@
----
+﻿---
 categories:
 - edc3100
-date: 2015-02-19 07:19:03+10:00
+comments:
+- approved: '1'
+  author: Peter
+  author_email: palbion@me.com
+  author_ip: 139.86.2.15
+  author_url: http://pamatravel.wordpress.com
+  content: 'Your post reminded me that a Moodle message I sent to my Toowoomba group
+    on Monday may not have reached them. That message was about arranging a meeting
+    during O-Week because I''ll be absent during the first week of classes. I set
+    up a schedule of possible times in whenisgood.net to capture student responses
+    about availability.
+
+
+    I''ve just extracted the text of my message from the message record of one of
+    the relevant students in the Moodle participants list and sent that by email using
+    the facility in the Faculty Centre of PeopleSoft. That allows me to select all
+    or some of the students in a class group (Toowoomba on-campus in this case) and
+    send them a group email message.'
+  date: '2015-02-19 08:34:23'
+  date_gmt: '2015-02-18 22:34:23'
+  id: '1228'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 60.231.80.148
+  author_url: https://djon.es/blog/
+  content: I'd forgotten about the Peoplesoft email feature, I'd just settle for it
+    being configured to do its actual job properly. Thanks for sharing your approach,
+    a good example of there being more than one way to do any task.
+  date: '2015-02-19 10:59:54'
+  date_gmt: '2015-02-19 00:59:54'
+  id: '1229'
+  parent: '1228'
+  type: comment
+  user_id: '1'
+date: 2015-02-18 21:19:03
 next:
   text: '"Contradictions in adjectives: You can''t be consistent and optimal"'
   url: /blog/2015/02/25/contradictions-in-adjectives-you-cant-be-consistent-and-optimal/
+pingbacks: []
 previous:
   text: Initial rationale and ideas for &quot;continuous improvement&quot; of learning
     and teaching
   url: /blog/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/
+template: blog-post.html
 title: Organising a change in session time
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Peter
-      author_email: palbion@me.com
-      author_ip: 139.86.2.15
-      author_url: http://pamatravel.wordpress.com
-      content: 'Your post reminded me that a Moodle message I sent to my Toowoomba group
-        on Monday may not have reached them. That message was about arranging a meeting
-        during O-Week because I''ll be absent during the first week of classes. I set
-        up a schedule of possible times in whenisgood.net to capture student responses
-        about availability.
-    
-    
-        I''ve just extracted the text of my message from the message record of one of
-        the relevant students in the Moodle participants list and sent that by email using
-        the facility in the Faculty Centre of PeopleSoft. That allows me to select all
-        or some of the students in a class group (Toowoomba on-campus in this case) and
-        send them a group email message.'
-      date: '2015-02-19 08:34:23'
-      date_gmt: '2015-02-18 22:34:23'
-      id: '1228'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 60.231.80.148
-      author_url: https://djon.es/blog/
-      content: I'd forgotten about the Peoplesoft email feature, I'd just settle for it
-        being configured to do its actual job properly. Thanks for sharing your approach,
-        a good example of there being more than one way to do any task.
-      date: '2015-02-19 10:59:54'
-      date_gmt: '2015-02-19 00:59:54'
-      id: '1229'
-      parent: '1228'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The next iteration of the ICT and Pedagogy course I teach is about to start. We've struck a small problem with one of the campuses, the person being employed to run sessions on that campus can't make the scheduled time. I need to ask the students when would be the best time to reschedule the session. The following summarises how I'll do this with [Doodle](http://doodle.com/) and various other tools.
 

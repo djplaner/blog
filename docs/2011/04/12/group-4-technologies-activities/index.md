@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-04-12 15:16:56+10:00
+date: 2011-04-12 05:16:56
 next:
   text: Exploring minecraft
   url: /blog/2011/04/12/exploring-minecraft/
 previous:
   text: What shapes how we think?
   url: /blog/2011/04/12/what-shapes-how-we-think/
+template: blog-post.html
 title: Group 4 Technologies - Activities
 type: post
-template: blog-post.html
 ---
 And so the final group of technologies to play with prior to the assignment. This is an open-ended group and includes: animations and simulations; Google earth; Google Maps; and Google docs. The "historical" recap of what I've done associated with these technologies is part of the assessment - showing that I've "played" with the technologies.
 
@@ -21,11 +21,11 @@ I have a bit of experience with using and helping create (usually in a fairly mi
 
 The following images show the same basic view. First in RCOS, the MS-DOS version of from the early 1990s.
 
-[![RCOS CPU Scheduling screen](images/3155575043_734881cd22_m.jpg)](http://www.flickr.com/photos/david_jones/3155575043/)
+[![RCOS CPU Scheduling screen](https://djon.es/assets/blog/2011/04/12/group-4-technologies-activities/images/3155575043_734881cd22_m.jpg)](http://www.flickr.com/photos/david_jones/3155575043/)
 
 Second from RCOS.java, the Java version from the late 1990s.
 
-[![RCOS.java CPU Scheduler](images/3146568725_ff959b8f27_m.jpg)](http://www.flickr.com/photos/david_jones/3146568725/)
+[![RCOS.java CPU Scheduler](https://djon.es/assets/blog/2011/04/12/group-4-technologies-activities/images/3146568725_ff959b8f27_m.jpg)](http://www.flickr.com/photos/david_jones/3146568725/)
 
 Interest in RCOS arose because I was given the task of teaching a course on operating systems, which was described as (Chernich and Jones, 1994)
 
@@ -65,7 +65,7 @@ From my experience (not entirely bias free) I've used more "learning objects" th
 
 How's this for a learning object that just came across my PLN (click on it to see a bigger version). It shows a series of dance moves based on arranging arms to match the results of graphing various formula. How's this for an activity for kinesthetic learners? Given a piece of music, create a dance limited only to these dance moves. Which has me wondering how games like Dance Central and the Kinnect could be harnessed as part of this.
 
-[![](images/tumblr_lj8jwrKCuO1qfh1tao1_500.jpg)](http://27.media.tumblr.com/tumblr_lj8jwrKCuO1qfh1tao1_500.jpg)
+[![](https://djon.es/assets/blog/2011/04/12/group-4-technologies-activities/images/tumblr_lj8jwrKCuO1qfh1tao1_500.jpg)](http://27.media.tumblr.com/tumblr_lj8jwrKCuO1qfh1tao1_500.jpg)
 
 The [article](http://technologysource.org/article/preparing_teachers_to_use_learning_objects/) offers the following advice about how to "motivate teachers to use learning objects"
 
@@ -114,7 +114,7 @@ I haven't had the experience to use Google docs in learning and teaching but I h
 
 We're pointed to [bubbl.us](http://bubbl.us) and [Text2Mindmap](http://www.text2mindmap.com/) as examples of online concept mapping. As it happens I came across [this presentation](https://docs.google.com/present/edit?id=0AclS3lrlFkCIZGhuMnZjdjVfMjM4ZGp4bWJmaGQ&hl=en_GB) on Google Docs (via my PLN) which outlines "15 Interesting ways to use Prezi in the Classroom" (It is interesting that it is a presentation about using Prezi, that isn't done in Prezi). #7 is "Use Prezi as a mind map". It in turn points to the following video of a Prezi mindmap
 
-http://www.youtube.com/watch?v=TENwsD0h9Rw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TENwsD0h9Rw?si=aCMPGTBRZY66Tgva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I think I'm tempted to use Prezi for mind/concept mapping, more so than other tools. I must admit that I have rarely used concept mapping myself. The other challenge is being able to achieve the task
 
@@ -126,7 +126,7 @@ The stated topic title was "Digital tools and pedagogies 3". The overview basica
 
 And [here it is](http://prezi.com/avzy-vyjwpnl/concept-map-of-effective-and-efficient-digital-pedagogies-to-enhance-student-learning/) with an image of it below. It is still very incomplete. Mainly because the affordances of the Prezi authoring functionality isn't that well matched to concept mapping. i.e. the authoring functionality is more low level and doesn't know anything about concept maps. Which means the author has to combine the lower level Prezi functionality to achieve the concept map effects he/she wants. On the plus side, the visualisation is, at least to me, a big plus. The zooming nature of Prezi lends itself to this sort of thing. A Prezi concept mapping overlay would work well.
 
-[![prezi concept map](images/5611627733_f85443d7bc_m.jpg)](http://www.flickr.com/photos/david_jones/5611627733/ "prezi concept map by David T Jones, on Flickr")
+[![prezi concept map](https://djon.es/assets/blog/2011/04/12/group-4-technologies-activities/images/5611627733_f85443d7bc_m.jpg)](http://www.flickr.com/photos/david_jones/5611627733/ "prezi concept map by David T Jones, on Flickr")
 
 ### Other tools
 

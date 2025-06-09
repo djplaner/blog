@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - bad
-date: 2016-02-11 11:36:32+10:00
+date: 2016-02-11 01:36:32
 next:
   text: Sentiment analysis of student blog posts
   url: /blog/2016/02/14/sentiment-analysis-of-student-blog-posts/
@@ -10,9 +10,9 @@ previous:
   url: /blog/2016/02/09/on-the-relationship-between-learning-design-and-oep/
 tags:
 - elearning
+template: blog-post.html
 title: Minimalism, constructivism and use of Moodle or any other e-learning tool
 type: post
-template: blog-post.html
 ---
 Ben-Ari (1999) reports an experiment where 10 members of a University department were asked to verbalise their understandings as they completed tasks in Word. The aim was to explore their conceptual understanding of Word and its link with their use of Word. Ben-Ari (1999) writes
 

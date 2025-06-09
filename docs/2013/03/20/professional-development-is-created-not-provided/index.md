@@ -1,105 +1,103 @@
----
+﻿---
 categories:
 - thesis
-date: 2013-03-20 15:59:07+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 124.189.216.206
+  author_url: http://elketeaches.wordpress.com
+  content: 'I agree. When I worked as an Information Analyst for EDS Canada, PD was
+    always training/research of new programming/software/processes.  If I wanted to
+    know how a person in the Texas office did his job I''d simply call him up and
+    ask him! He would definitely not be creating a presentation on it.
+
+
+    That said, I just went to the recent ACER conference at the Gold Coast and blogged
+    about it too.  I found the conference beneficial mainly because I got the opportunity
+    to hang out with teachers.'
+  date: '2013-03-20 16:26:59'
+  date_gmt: '2013-03-20 06:26:59'
+  id: '713'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 58.110.48.49
+  author_url: http://cj13.wordpress.com/
+  content: Anyone who knows anything about the L word understand the point you make.
+    Really well made btw. Pity no ed manager will read it. Always looks good the list
+    of snake oil product to show the higher ups each year. Did you have staff attend
+    the safety in coffee grinding PD? Tick. What about CPR for teachers with red hair?
+    Tick. What about the zillion versions of personality type/learning styles testing?
+    TICK. A big problem with networked knowledge, as Dave Weinberger calls it, is
+    that you do get Newton's 2nd law operating for every view/argument you can find
+    a counter.  The echo chambers for zombie education ideas are huge. Getting folk
+    to think for themselves, ask the odd ugly question about the assumptions on display
+    (yes mine included) is so so important. Everyone needs a mental spring clean once
+    a year at least? Memo to self what are my most cherished memes, ideas? Why do
+    they matter? Where did I get them from? Do they still matter? ... etc. Attending
+    to the contrarian. The stuff that has little or no echo. Noticing the black swans,
+    the elephants in the room or the person in the gorilla suit in the basketball
+    catch counting exercise is the new L now (I dislike using the L word - to me humans
+    are L machines - we don't have an off switch- or at least I have not found mine
+    yet). You can never be sure that you have found all the elephants,/black swans/gorillas
+    but pretending they are not there is one of the best indicators of stupidity.
+  date: '2013-03-20 17:40:12'
+  date_gmt: '2013-03-20 07:40:12'
+  id: '714'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Maurice A. Barry
+  author_email: maurice.a.barry@gmail.com
+  author_ip: 47.54.200.197
+  author_url: http://mauriceabarry.wordpress.com
+  content: Often overlooked is the fact that teachers participate in learning communities,
+    both formal and informal, all the time. The type of administrators who are top-down
+    (and that is by no means all of them) generally only consider the formal stuff;
+    the stuff that they 'deliver' but it can be argued that this is only the tip of
+    the iceberg. What's more, not that more powerful communications systems are now
+    becoming mainstream (consider Blackboard Collaborate or Micrsoft Lync, for example)
+    the kinds of events that generally only happened at conferences are now happening
+    right at desks in classrooms. The big question I have is whether we, as a profession,
+    will nurture and grow the type of teacher leadership that will, in its turn, encourage
+    this powerful, informal activity.
+  date: '2013-03-21 19:20:18'
+  date_gmt: '2013-03-21 09:20:18'
+  id: '715'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2013-03-20 05:59:07
 next:
   text: Does institutional e-learning have a TPACK problem?
   url: /blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
+pingbacks:
+- approved: '1'
+  author: Does institutional e-learning have a TPACK problem? | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 76.74.255.31
+  author_url: https://djon.es/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
+  content: '[...] and other forms of formal support. This arises from the previous
+    point but it also connected to a previous post titled &#8220;Professional development
+    is created, not provided&#8221;. In part, this is because [...]'
+  date: '2013-03-22 10:16:39'
+  date_gmt: '2013-03-22 00:16:39'
+  id: '716'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BIM: Why and what?'
   url: /blog/2013/03/18/bim-why-and-what/
+template: blog-post.html
 title: Professional development is created, not provided
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 124.189.216.206
-      author_url: http://elketeaches.wordpress.com
-      content: 'I agree. When I worked as an Information Analyst for EDS Canada, PD was
-        always training/research of new programming/software/processes.  If I wanted to
-        know how a person in the Texas office did his job I''d simply call him up and
-        ask him! He would definitely not be creating a presentation on it.
-    
-    
-        That said, I just went to the recent ACER conference at the Gold Coast and blogged
-        about it too.  I found the conference beneficial mainly because I got the opportunity
-        to hang out with teachers.'
-      date: '2013-03-20 16:26:59'
-      date_gmt: '2013-03-20 06:26:59'
-      id: '713'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 58.110.48.49
-      author_url: http://cj13.wordpress.com/
-      content: Anyone who knows anything about the L word understand the point you make.
-        Really well made btw. Pity no ed manager will read it. Always looks good the list
-        of snake oil product to show the higher ups each year. Did you have staff attend
-        the safety in coffee grinding PD? Tick. What about CPR for teachers with red hair?
-        Tick. What about the zillion versions of personality type/learning styles testing?
-        TICK. A big problem with networked knowledge, as Dave Weinberger calls it, is
-        that you do get Newton's 2nd law operating for every view/argument you can find
-        a counter.  The echo chambers for zombie education ideas are huge. Getting folk
-        to think for themselves, ask the odd ugly question about the assumptions on display
-        (yes mine included) is so so important. Everyone needs a mental spring clean once
-        a year at least? Memo to self what are my most cherished memes, ideas? Why do
-        they matter? Where did I get them from? Do they still matter? ... etc. Attending
-        to the contrarian. The stuff that has little or no echo. Noticing the black swans,
-        the elephants in the room or the person in the gorilla suit in the basketball
-        catch counting exercise is the new L now (I dislike using the L word - to me humans
-        are L machines - we don't have an off switch- or at least I have not found mine
-        yet). You can never be sure that you have found all the elephants,/black swans/gorillas
-        but pretending they are not there is one of the best indicators of stupidity.
-      date: '2013-03-20 17:40:12'
-      date_gmt: '2013-03-20 07:40:12'
-      id: '714'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Maurice A. Barry
-      author_email: maurice.a.barry@gmail.com
-      author_ip: 47.54.200.197
-      author_url: http://mauriceabarry.wordpress.com
-      content: Often overlooked is the fact that teachers participate in learning communities,
-        both formal and informal, all the time. The type of administrators who are top-down
-        (and that is by no means all of them) generally only consider the formal stuff;
-        the stuff that they 'deliver' but it can be argued that this is only the tip of
-        the iceberg. What's more, not that more powerful communications systems are now
-        becoming mainstream (consider Blackboard Collaborate or Micrsoft Lync, for example)
-        the kinds of events that generally only happened at conferences are now happening
-        right at desks in classrooms. The big question I have is whether we, as a profession,
-        will nurture and grow the type of teacher leadership that will, in its turn, encourage
-        this powerful, informal activity.
-      date: '2013-03-21 19:20:18'
-      date_gmt: '2013-03-21 09:20:18'
-      id: '715'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Does institutional e-learning have a TPACK problem? | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 76.74.255.31
-      author_url: https://djon.es/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
-      content: '[...] and other forms of formal support. This arises from the previous
-        point but it also connected to a previous post titled &#8220;Professional development
-        is created, not provided&#8221;. In part, this is because [...]'
-      date: '2013-03-22 10:16:39'
-      date_gmt: '2013-03-22 00:16:39'
-      id: '716'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Over recent weeks I've been so busy that I've largely ignored Twitter. To my detriment. A quick return to it this afternoon found me following two links via tweets from @palbion. The two links were
 

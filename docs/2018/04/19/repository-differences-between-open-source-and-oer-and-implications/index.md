@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - oep
 - oer
-date: 2018-04-19 10:58:52+10:00
+date: 2018-04-19 00:58:52
 next:
   text: '"Software engineering for computational science : past, present, future"'
   url: /blog/2018/05/10/software-engineering-for-computational-science-past-present-future/
 previous:
   text: Some notes on behaviour change and improving L&T
   url: /blog/2018/04/05/some-notes-on-behaviour-change-and-improving-lt/
+template: blog-post.html
 title: Repository - differences between Open Source and OER and implications
 type: post
-template: blog-post.html
 ---
 [@OpenKuroko](https://twitter.com/OpenKuroko) is lucky enough to be attending [OER18](https://twitter.com/OpenKuroko), which got off with a bang on Twitter last night. This brief bit of thinking out loud explores the differences in understanding of the word repository by two different, but related communities, open source software and Open Educational Resources. It's sparked by a combination of some recent work that has me returning to my open source software use/development origins and [this tweet](https://twitter.com/OpenKuroko/status/986605728541495297) from @OpenKuroko. The tweet reports a comment from #OER18
 

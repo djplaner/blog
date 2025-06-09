@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,7 +6,7 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-08-01 21:54:50+10:00
+date: 2010-08-01 11:54:50
 next:
   text: CQU problem with BIM and RSS feeds
   url: /blog/2010/08/02/cqu-problem-with-bim-and-rss-feeds/
@@ -14,9 +14,9 @@ previous:
   text: The grammar of school, psychological dissonance and all professors are rather
     ludditical
   url: /blog/2010/07/30/the-grammar-of-school-psychological-dissonance-and-all-professors-are-rather-ludditical/
+template: blog-post.html
 title: Usage of Webfuse course sites
 type: post
-template: blog-post.html
 ---
 As part of the PhD I have to summarise aspects of Webfuse usage, the following is a quick attempt to summarise usage of the Webfuse course sites from 1997 through 2009. The main aim is to show what I've got so far, think about what needs to be added, generate a to do list, and make an initial stab at explaining some of the movements. The hope is that writing this is essentially a rough draft/scribble of material that will end up in the thesis.
 

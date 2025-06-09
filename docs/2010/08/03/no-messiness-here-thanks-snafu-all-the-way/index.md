@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - highereducation
-date: 2010-08-03 23:17:08+10:00
+date: 2010-08-03 13:17:08
 next:
   text: Can you cancerize your research - task corruption at work
   url: /blog/2010/08/03/can-you-cancerize-your-research-task-corruption-at-work/
 previous:
   text: CQU problem with BIM and RSS feeds
   url: /blog/2010/08/02/cqu-problem-with-bim-and-rss-feeds/
+template: blog-post.html
 title: No messiness here thanks - SNAFU all the way
 type: post
-template: blog-post.html
 ---
 Dave Cormier has [presented 8 hypotheses](http://davecormier.com/edblog/2010/08/01/open-learning-what-i-have-learned/) summarising what he's learned about open learning. I've been meaning to post about it for a day or so, there is some really good stuff here. Some really important insights that formal education institutions need to think about, especially those wishing to ride the online learning revolution into the greener fields of growing student markets.
 

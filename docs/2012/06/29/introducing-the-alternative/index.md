@@ -1,20 +1,20 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
 - phd
 - thesis
 - webfuse
-date: 2012-06-29 12:03:15+10:00
+date: 2012-06-29 02:03:15
 next:
   text: People and e-learning - limitations and an alternative
   url: /blog/2012/06/29/people-and-e-learning-limitations-and-an-alternative/
 previous:
   text: The e-learning process - limitations and an alternative
   url: /blog/2012/06/28/the-e-learning-process-limitations-and-an-alternative/
+template: blog-post.html
 title: Introducing the alternative
 type: post
-template: blog-post.html
 ---
 The last couple of posts have attempted to (in the confines of an #ascilite12 paper) summarise some constraints with the dominant [product](/blog/2012/06/28/the-lms-product-limitations-and-alternative/) and [process](/blog/2012/06/28/the-e-learning-process-limitations-and-an-alternative/) models used in industrial e-learning and suggest an alternative. The following - which probably should have been posted first - describes how and where this alternative comes from.
 
@@ -75,10 +75,10 @@ Research examining the adoption of specific categories of LMS features provides 
 
 (Click on the graphs to see large versions)
 
-| [![Content Transmission](images/4813375847_cec27d5abc_m.jpg)](http://www.flickr.com/photos/david_jones/4813375847/ "Content Transmission by David T Jones, on Flickr") | [![Interactions](images/4813376223_e354bdaa00_m.jpg)](http://www.flickr.com/photos/david_jones/4813376223/ "Interactions by David T Jones, on Flickr") |
+| [![Content Transmission](https://djon.es/assets/blog/2012/06/29/introducing-the-alternative/images/4813375847_cec27d5abc_m.jpg)](http://www.flickr.com/photos/david_jones/4813375847/ "Content Transmission by David T Jones, on Flickr") | [![Interactions](https://djon.es/assets/blog/2012/06/29/introducing-the-alternative/images/4813376223_e354bdaa00_m.jpg)](http://www.flickr.com/photos/david_jones/4813376223/ "Interactions by David T Jones, on Flickr") |
 | --- | --- |
 | **Figure 1: Adoption of content transmission features: Webfuse, Blackboard and Malikowski** | **Figure 2: Adoption of class interactions features: Webfuse, Blackboard and Malikowski**   _(missing archives of most pre-2002 course mailing lists)_ |
-| [![Evaluate Students](images/4813376457_8d962a70d1_m.jpg)](http://www.flickr.com/photos/david_jones/4813376457/ "Evaluate Students by David T Jones, on Flickr") | [![Evaluate Courses](images/4813376713_2e36c64d45_m.jpg)](http://www.flickr.com/photos/david_jones/4813376713/ "Evaluate Courses by David T Jones, on Flickr") |
+| [![Evaluate Students](https://djon.es/assets/blog/2012/06/29/introducing-the-alternative/images/4813376457_8d962a70d1_m.jpg)](http://www.flickr.com/photos/david_jones/4813376457/ "Evaluate Students by David T Jones, on Flickr") | [![Evaluate Courses](https://djon.es/assets/blog/2012/06/29/introducing-the-alternative/images/4813376713_2e36c64d45_m.jpg)](http://www.flickr.com/photos/david_jones/4813376713/ "Evaluate Courses by David T Jones, on Flickr") |
 | **Figure 3: Adoption of student assessment features: Webfuse, Blackboard and Malikowski** | Figure 4: Adoption of course evaluation features: Webfuse, Blackboard and Malikowski |
 
 The Webfuse usage data included in Figures 1 through 4 only include actual feature use by academics or students. For example, from 2001 through 2005 100% of Webfuse courses contained a course evaluation feature called a course barometer, only courses where the course barometer was actually used by students are included in Figure 4. Similarly, all Webfuse default course sites contained content (either automatically added from existing data repositories or copied across from a previous term). Figure 1 only includes data for those Webfuse course sites where teaching staff modified or added content.

@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-4
 - design-theory
@@ -6,51 +6,48 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2009-07-31 23:43:21+10:00
+comments: []
+date: 2009-07-31 13:43:21
 next:
   text: '"How the LMS - as enterprise system - warps the practice of L&#038;T"'
   url: /blog/2009/08/02/how-the-lms-as-enterprise-system-warps-the-practice-of-lt/
+pingbacks:
+- approved: '1'
+  author: 'Evaluation of Webfuse course site feature usage: 2006 through 2009 &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.208
+  author_url: https://djon.es/blog/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/
+  content: '[...] of Webfuse course site feature usage: 2006 through&nbsp;2009  In
+    a recent post I messily wrote about the start of the process of evaluating the
+    use of Webfuse for my thesis. This [...]'
+  date: '2009-08-02 13:09:11'
+  date_gmt: '2009-08-02 03:09:11'
+  id: '2679'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #19 &#8211; Falling just a little short &laquo; The Weblog of
+    (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/08/02/phd-update-19-falling-just-a-little-short/
+  content: '[...] of the use of Webfuse from 1996 through 1999. Explained somewhat
+    in three posts: early thinking, some more thinking and some early results and
+    results of evaluation for [...]'
+  date: '2009-08-02 13:45:08'
+  date_gmt: '2009-08-02 03:45:08'
+  id: '2680'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Thinking about evaluating Webfuse (1996 through 1999) - evaluation of an LMS?
   url: /blog/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/
+template: blog-post.html
 title: Some early results from Webfuse evaluation
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Evaluation of Webfuse course site feature usage: 2006 through 2009 &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.208
-      author_url: https://djon.es/blog/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/
-      content: '[...] of Webfuse course site feature usage: 2006 through&nbsp;2009  In
-        a recent post I messily wrote about the start of the process of evaluating the
-        use of Webfuse for my thesis. This [...]'
-      date: '2009-08-02 13:09:11'
-      date_gmt: '2009-08-02 03:09:11'
-      id: '2679'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #19 &#8211; Falling just a little short &laquo; The Weblog of
-        (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/08/02/phd-update-19-falling-just-a-little-short/
-      content: '[...] of the use of Webfuse from 1996 through 1999. Explained somewhat
-        in three posts: early thinking, some more thinking and some early results and
-        results of evaluation for [...]'
-      date: '2009-08-02 13:45:08'
-      date_gmt: '2009-08-02 03:45:08'
-      id: '2680'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following contains some early results from the evaluation of Webfuse course sites as mentioned in the [last post](/blog/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/). The aim is to get a rough initial feel for how the course sites created for Webfuse in the late 90s and early 00s stack up using the framework produced by Malikowski et al (2007). As opposed to other PhD work, this is a case of "showing the working".
 

@@ -1,27 +1,23 @@
----
+﻿---
 categories:
 - bad
 - casa
-coverImage: entangled.jpg
-date: 2022-10-10 09:08:08+10:00
+comments: []
+coverImage: https://djon.es/assets/blog/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/images/entangled.jpg
+date: 2022-10-09 23:08:08
 next:
   text: '"Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable
     delivery of quality learning and teaching"'
   url: /blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/
+pingbacks: []
 previous:
   text: 'Orchestrating entangled relations to break the iron triangle: examples from
     a LMS migration'
   url: /blog/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/
+template: blog-post.html
 title: '"Orchestrating entangled relations to stretch the iron triangle: Observations
   from an LMS migration"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 ## About
 
@@ -97,7 +93,7 @@ The echo360 migration video offers some more detail. The following image is from
 
 While the CAR code is not currently publicly available we are happy to share.
 
-![Copy of slide showing a CAR folder structure. With pointers to the contentCollection and coursePages folders and a Word doc (CAR doc) and pickle file](images/echo360migration.jpg)
+![Copy of slide showing a CAR folder structure. With pointers to the contentCollection and coursePages folders and a Word doc (CAR doc) and pickle file](https://djon.es/assets/blog/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/images/echo360migration.jpg)
 
 ### Word2Canvas
 

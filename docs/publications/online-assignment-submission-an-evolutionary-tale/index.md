@@ -1,73 +1,71 @@
----
-date: 2008-12-29 18:03:22+10:00
+﻿---
+comments:
+- approved: '1'
+  author: manimaha
+  author_email: mohammadiyanfar@gmail.com
+  author_ip: 175.136.183.150
+  author_url: http://aryaz92.wordpress.com
+  content: hi, i was looking for some information regarding assignment submission
+    system an i found this blog. u have done a good research van u plz give me some
+    more information regarding this . i need some help to do my final year project
+    . i will be thankful if u contact me by mohammadiyanfar@gmail.com
+  date: '2011-03-25 19:54:12'
+  date_gmt: '2011-03-25 09:54:12'
+  id: '2008'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.182.115.187
+  author_url: https://djon.es/blog/
+  content: 'G''day,
+
+    I''m sorry to say that it has been many years since I did much work around online
+    assignment submission. Much of what I know is recorded in the various publications
+    and blog posts on my blog.  Not sure that I can offer much more specific help
+
+    David.'
+  date: '2011-03-26 15:29:22'
+  date_gmt: '2011-03-26 05:29:22'
+  id: '2009'
+  parent: '2008'
+  type: comment
+  user_id: '1'
+date: 2008-12-29 08:03:22
+pingbacks:
+- approved: '1'
+  author: Webfuse is dead! Long live Webfuse! &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.243.207
+  author_url: https://djon.es/blog/2010/03/10/webfuse-is-dead-long-live-webfuse/
+  content: '[...] example of the benefits this bring can be found in the Webfuse online
+    assignment submission system (Jones and Behrens, 2003). The features of this system
+    fit the local contextual needs and offer a different set of features [...]'
+  date: '2010-03-10 17:08:43'
+  date_gmt: '2010-03-10 07:08:43'
+  id: '2006'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Trip report &#8211; Moodlemoot&#8217;AU 2010 &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.245.177
+  author_url: https://djon.es/blog/2010/07/16/trip-report-moodlemootau-2010/
+  content: '[...] how the insights from OASIS can be combined with other work around
+    online assignment submission and management to develop [...]'
+  date: '2010-07-19 14:34:50'
+  date_gmt: '2010-07-19 04:34:50'
+  id: '2007'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Online Assignment Submission: An Evolutionary Tale"'
 type: page
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: manimaha
-      author_email: mohammadiyanfar@gmail.com
-      author_ip: 175.136.183.150
-      author_url: http://aryaz92.wordpress.com
-      content: hi, i was looking for some information regarding assignment submission
-        system an i found this blog. u have done a good research van u plz give me some
-        more information regarding this . i need some help to do my final year project
-        . i will be thankful if u contact me by mohammadiyanfar@gmail.com
-      date: '2011-03-25 19:54:12'
-      date_gmt: '2011-03-25 09:54:12'
-      id: '2008'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.182.115.187
-      author_url: https://djon.es/blog/
-      content: 'G''day,
-    
-        I''m sorry to say that it has been many years since I did much work around online
-        assignment submission. Much of what I know is recorded in the various publications
-        and blog posts on my blog.  Not sure that I can offer much more specific help
-    
-        David.'
-      date: '2011-03-26 15:29:22'
-      date_gmt: '2011-03-26 05:29:22'
-      id: '2009'
-      parent: '2008'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Webfuse is dead! Long live Webfuse! &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.243.207
-      author_url: https://djon.es/blog/2010/03/10/webfuse-is-dead-long-live-webfuse/
-      content: '[...] example of the benefits this bring can be found in the Webfuse online
-        assignment submission system (Jones and Behrens, 2003). The features of this system
-        fit the local contextual needs and offer a different set of features [...]'
-      date: '2010-03-10 17:08:43'
-      date_gmt: '2010-03-10 07:08:43'
-      id: '2006'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Trip report &#8211; Moodlemoot&#8217;AU 2010 &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.245.177
-      author_url: https://djon.es/blog/2010/07/16/trip-report-moodlemootau-2010/
-      content: '[...] how the insights from OASIS can be combined with other work around
-        online assignment submission and management to develop [...]'
-      date: '2010-07-19 14:34:50'
-      date_gmt: '2010-07-19 04:34:50'
-      id: '2007'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Sandy Behrens, "[Online Assignment Management: An Evolutionary Tale,](http://www2.computer.org/portal/web/csdl/doi/10.1109/HICSS.2003.1174347)" Hawaii International Conference on System Sciences, vol. 5, no. 5, pp. 156c, 36th Annual Hawaii International Conference on System Sciences (HICSS'03) - Track 5, 2003.
 
@@ -175,7 +173,7 @@ The rest of this paper describes the model which has been developed on the basis
 
 Drawing on existing publications (Jones, 1996; Jones and Jamieson, 1997; Jones, 1999), results of student surveys, interviews with staff, and system statistics a range of factors have been identified as influencing the evolution of OASM within Infocom. Those factors have been categorized and the model shown in Diagram 1 is an attempt to represent their relationship.
 
-[![Evolutionary model of OASM development](images/3146203343_039d235afb_m.jpg)](http://www.flickr.com/photos/david_jones/3146203343/ "Evolutionary model of OASM development by David T Jones, on Flickr")
+[![Evolutionary model of OASM development](https://djon.es/assets/blog/publications/online-assignment-submission-an-evolutionary-tale/images/3146203343_039d235afb_m.jpg)](http://www.flickr.com/photos/david_jones/3146203343/ "Evolutionary model of OASM development by David T Jones, on Flickr")
 
 _Diagram 1. 
 Evolutionary Model of OASM Development_

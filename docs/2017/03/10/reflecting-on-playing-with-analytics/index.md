@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - indicators
-date: 2017-03-10 15:31:23+10:00
+date: 2017-03-10 05:31:23
 next:
   text: Playing with Python and Jupyter notebooks for analytics
   url: /blog/2017/03/12/playing-with-python-and-jupyter-notebooks-for-analytics/
 previous:
   text: How we are rethinking L&T grants, awards and professional learning
   url: /blog/2017/03/09/how-we-are-rethinking-lt-grants-awards-and-professional-learning/
+template: blog-post.html
 title: Reflecting on playing with learning analytics
 type: post
-template: blog-post.html
 ---
 This is the 2nd in 3 posts thinking about learning analytics and how we might engage with it better. [The first](http://djon.es/blog/2017/03/08/thinking-about-more-reproducible-research-and-learning-analytics/) rambled on about reproducible research and hunted for what we might do.
 
@@ -26,7 +26,7 @@ The aim was to generate a range of different engagement related analytics, show 
 
 ## What was done
 
-[![Version 1 of process](images/26380443975_d89aeb5ff8_n.jpg)](https://www.flickr.com/photos/david_jones/26380443975/in/dateposted-public/ "Version 1 of process")
+[![Version 1 of process](https://djon.es/assets/blog/2017/03/10/reflecting-on-playing-with-analytics/images/26380443975_d89aeb5ff8_n.jpg)](https://www.flickr.com/photos/david_jones/26380443975/in/dateposted-public/ "Version 1 of process")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The aim was to generate and share analytics based on the diagram to the right (click on it the diagram to expand). The aim was to generate a website where those involved could see the different analytics applied to their respective courses (and each others). This was intended to drive discussion.

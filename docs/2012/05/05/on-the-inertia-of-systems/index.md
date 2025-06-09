@@ -1,59 +1,56 @@
----
+﻿---
 categories:
 - thesis
-date: 2012-05-05 09:36:33+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 58.106.137.75
+  author_url: http://cj13.wordpress.com/
+  content: 'We could begin by getting rid of the army of people who tell teachers
+    what to do. They are either professionals or they are not. At the moment they
+    are pseudo-professionals. Imagine medicos being told what to do the way teachers
+    are. They would not have a bit of it. There is just so much invested in education
+    of the past which delivers the pap that you find in the national curriculum. There
+    is a large industry built on generating nonsense curriculum. The folk in that
+    industry have way too much invested to give it up easily. If they had a peek at
+    what is coming down the pipe they should resign en masse in principal. This is
+    pantomime. It has almost no connection to the real world. If these practices operated
+    in any other industry there would be a lot of people in jail for fraud.
+
+
+    As Russell Ackoff (2004, p. 2) puts it:
+
+
+    The righter we do the wrong thing, the wronger we become.  When we make a mistake
+    doing the wrong thing and correct it, we become wronger.  When we make a mistake
+    doing the right thing and correct it, we become righter.  Therefore, it is better
+    to do the right thing wrong than the wrong thing right.  This is very significant
+    because almost every problem confronting our society is a result of the fact that
+    our public policy makers are doing the wrong things and  are trying to do them
+    righter.
+
+
+    Ackoff, R. L. (2004). Transforming the Systems Movement. The Systems Thinker,
+    15(8). Retrieved from http://www.acasa.upenn.edu/RLAConfPaper.pdf'
+  date: '2012-05-06 10:10:15'
+  date_gmt: '2012-05-06 00:10:15'
+  id: '347'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-05-04 23:36:33
 next:
   text: A CRM for the LMS?
   url: /blog/2012/05/05/a-crm-for-the-lms/
+pingbacks: []
 previous:
   text: 'Enabling and analysing cross-institutional patterns in learning analytics:
     A foundation for research and action'
   url: /blog/2012/05/04/enabling-and-analysing-cross-institutional-patterns-in-learning-analytics-a-foundation-for-research-and-action/
+template: blog-post.html
 title: On the inertia of systems
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 58.106.137.75
-      author_url: http://cj13.wordpress.com/
-      content: 'We could begin by getting rid of the army of people who tell teachers
-        what to do. They are either professionals or they are not. At the moment they
-        are pseudo-professionals. Imagine medicos being told what to do the way teachers
-        are. They would not have a bit of it. There is just so much invested in education
-        of the past which delivers the pap that you find in the national curriculum. There
-        is a large industry built on generating nonsense curriculum. The folk in that
-        industry have way too much invested to give it up easily. If they had a peek at
-        what is coming down the pipe they should resign en masse in principal. This is
-        pantomime. It has almost no connection to the real world. If these practices operated
-        in any other industry there would be a lot of people in jail for fraud.
-    
-    
-        As Russell Ackoff (2004, p. 2) puts it:
-    
-    
-        The righter we do the wrong thing, the wronger we become.  When we make a mistake
-        doing the wrong thing and correct it, we become wronger.  When we make a mistake
-        doing the right thing and correct it, we become righter.  Therefore, it is better
-        to do the right thing wrong than the wrong thing right.  This is very significant
-        because almost every problem confronting our society is a result of the fact that
-        our public policy makers are doing the wrong things and  are trying to do them
-        righter.
-    
-    
-        Ackoff, R. L. (2004). Transforming the Systems Movement. The Systems Thinker,
-        15(8). Retrieved from http://www.acasa.upenn.edu/RLAConfPaper.pdf'
-      date: '2012-05-06 10:10:15'
-      date_gmt: '2012-05-06 00:10:15'
-      id: '347'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 For various reasons I am feeling frustrated with the inertia of systems.
 

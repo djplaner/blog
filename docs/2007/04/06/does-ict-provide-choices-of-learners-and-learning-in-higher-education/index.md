@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - elearning
-date: 2007-04-06 20:36:58+10:00
+date: 2007-04-06 10:36:58
 next:
   text: Personality type - INTP
   url: /blog/2007/04/09/personality-type-intp/
@@ -9,9 +9,9 @@ previous:
   text: Descriptive (network) versus normative (community) based development of e-learning
     in organisations
   url: /blog/2007/03/15/109/
+template: blog-post.html
 title: Does ICT provide choices of learners and learning in higher education
 type: post
-template: blog-post.html
 ---
 This post contains some initial thoughts for a potential paper for [ASCILITE'2007](http://www.ascilite.org.au/conferences/singapore07/), a conference that has as its theme "ICT: Providing choices for learners and learning".
 

@@ -45,7 +45,7 @@ from mkdocs.config import Config, load_config
 DOCS_FOLDER = ""
 ## Prefix added to URLs to match MkDocs configuration
 # i.e. https://djon.es/**memex**/<URL>
-PREFIX="/memex"
+PREFIX="/blog"
 ## Array of links to exclude from the backlinks
 #  Expressed as a regex
 EXCLUDE = [
@@ -428,20 +428,24 @@ def moveImages(bubbles):
 
     for filePath in bubbles.keys():
         imgLinks = re.findall(r"!\[.*?\]\((.*?)\)", bubbles[filePath]['content'])
+        folderPath = pathlib.Path(filePath).parent
         print(f"Found {len(imgLinks)} image links in {filePath}")
-        if len(imgLinks) == 0:
-            continue
-        for imgLink in imgLinks:
-            #-- if the image link is already an absolute link, skip it
-            if imgLink.startswith("http"):
-                continue
+        #-- if there's coverImage in the yaml, update it too
+        if 'coverImage' in bubbles[filePath]['yaml']:
+            absCoverImage = f"https://djon.es/assets/blog{folderPath}/images/{bubbles[filePath]['yaml']['coverImage']}"
+            bubbles[filePath]['yaml']['coverImage'] = absCoverImage
+            print(f"    - Updating coverImage to {absCoverImage}")
 
-            folderPath = pathlib.Path(filePath).parent
-            absImgLink = f"https://djon.es/assets/memex{folderPath}/{imgLink}"
+        if len(imgLinks) > 0:
+            for imgLink in imgLinks:
+                #-- if the image link is already an absolute link, skip it
+                if imgLink.startswith("http"):
+                    continue
 
-            print(f"    - {imgLink} abs link: {absImgLink}")
-            bubbles[filePath]['content'] = bubbles[filePath]['content'].replace(
-                f"({imgLink})", f"({absImgLink})")
+                absImgLink = f"https://djon.es/assets/blog{folderPath}/{imgLink}"
+
+                print(f"    - {imgLink} abs link: {absImgLink}")
+                bubbles[filePath]['content'] = bubbles[filePath]['content'].replace(f"({imgLink})", f"({absImgLink})")
 
         #-- save the modified bubble
         saveBubble(bubbles[filePath])
@@ -457,4 +461,4 @@ bubbles = retrieveMemexBubbles()
 #backLinks = generateBackLinks(bubbles)
 #updateFrontMatterBackLinks(bubbles, backLinks)
 
-#moveImages(bubbles)
+moveImages(bubbles)

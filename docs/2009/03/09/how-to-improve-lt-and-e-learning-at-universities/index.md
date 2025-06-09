@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - cognitiveedge
 - design-theory
@@ -8,106 +8,103 @@ categories:
 - psframework
 - reflectivealignment
 - thesis
-date: 2009-03-09 23:00:44+10:00
+comments: []
+date: 2009-03-09 13:00:44
 next:
   text: Getting feeds out of BAM - the first steps
   url: /blog/2009/03/10/getting-feeds-out-of-bam-the-first-steps/
+pingbacks:
+- approved: '1'
+  author: Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators
+    projects together? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.208
+  author_url: https://djon.es/blog/2009/03/11/cooked-course-feeds-an-approach-to-bringing-the-plescquni-bam-and-indicators-projects-together/
+  content: '[...] also a part of the ideas behind reflective alignment. That post
+    also has some suggestions about how to implement this sort of [...]'
+  date: '2009-03-11 09:13:20'
+  date_gmt: '2009-03-10 23:13:20'
+  id: '2233'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD update - week #3 &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/03/13/phd-update-week-3/
+  content: '[...] How to improve L&amp;T and e-learning at universities - provides
+    one perspective on the &#8220;solutions&#8221; that have arisen from the thesis
+    work to the problem outlined in the previous post. [...]'
+  date: '2009-03-13 14:35:56'
+  date_gmt: '2009-03-13 04:35:56'
+  id: '2234'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '&#8220;Blame the teacher&#8221; and its negative impact on learning and
+    e-learning &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/
+  content: '[...] Such an environment might focus on some of the features of this
+    process. [...]'
+  date: '2009-03-18 09:43:37'
+  date_gmt: '2009-03-17 23:43:37'
+  id: '2235'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The fad cycle in learning &amp; teaching - a historical perspective &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
+  content: '[...] The solution is to work with academics to develop an approach that
+    works within the local context. Much like what I suggest here. [...]'
+  date: '2009-04-02 14:05:46'
+  date_gmt: '2009-04-02 04:05:46'
+  id: '2236'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Some initial thoughts on e-learning and innovation &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/
+  content: '[...] to plan how to do it. This spectrum draws on a distinction made
+    by Kurtz and Snowden (2007) and is one I&#8217;ve used before. The following table
+    compares the two [...]'
+  date: '2009-05-13 22:11:33'
+  date_gmt: '2009-05-13 12:11:33'
+  id: '2237'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Identifying and designing interventions to improve L&amp;T &#8211; a behaviour
+    change framework? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.32
+  author_url: https://djon.es/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
+  content: '[...] earlier work I&#8217;ve drawn on insights from Roger&#8217;s (1995)
+    diffusion theory as a guide. There are [...]'
+  date: '2010-04-14 13:02:51'
+  date_gmt: '2010-04-14 03:02:51'
+  id: '2238'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The biggest flaw in university L&#038;T/e-learning?
   url: /blog/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/
+template: blog-post.html
 title: '"How to improve L&#038;T and e-learning at universities"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators
-        projects together? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.208
-      author_url: https://djon.es/blog/2009/03/11/cooked-course-feeds-an-approach-to-bringing-the-plescquni-bam-and-indicators-projects-together/
-      content: '[...] also a part of the ideas behind reflective alignment. That post
-        also has some suggestions about how to implement this sort of [...]'
-      date: '2009-03-11 09:13:20'
-      date_gmt: '2009-03-10 23:13:20'
-      id: '2233'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD update - week #3 &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/03/13/phd-update-week-3/
-      content: '[...] How to improve L&amp;T and e-learning at universities - provides
-        one perspective on the &#8220;solutions&#8221; that have arisen from the thesis
-        work to the problem outlined in the previous post. [...]'
-      date: '2009-03-13 14:35:56'
-      date_gmt: '2009-03-13 04:35:56'
-      id: '2234'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '&#8220;Blame the teacher&#8221; and its negative impact on learning and
-        e-learning &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/
-      content: '[...] Such an environment might focus on some of the features of this
-        process. [...]'
-      date: '2009-03-18 09:43:37'
-      date_gmt: '2009-03-17 23:43:37'
-      id: '2235'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The fad cycle in learning &amp; teaching - a historical perspective &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
-      content: '[...] The solution is to work with academics to develop an approach that
-        works within the local context. Much like what I suggest here. [...]'
-      date: '2009-04-02 14:05:46'
-      date_gmt: '2009-04-02 04:05:46'
-      id: '2236'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Some initial thoughts on e-learning and innovation &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/
-      content: '[...] to plan how to do it. This spectrum draws on a distinction made
-        by Kurtz and Snowden (2007) and is one I&#8217;ve used before. The following table
-        compares the two [...]'
-      date: '2009-05-13 22:11:33'
-      date_gmt: '2009-05-13 12:11:33'
-      id: '2237'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Identifying and designing interventions to improve L&amp;T &#8211; a behaviour
-        change framework? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.32
-      author_url: https://djon.es/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
-      content: '[...] earlier work I&#8217;ve drawn on insights from Roger&#8217;s (1995)
-        diffusion theory as a guide. There are [...]'
-      date: '2010-04-14 13:02:51'
-      date_gmt: '2010-04-14 03:02:51'
-      id: '2238'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Over the last week or so I've been criticising essentially all current practice used to improve learning and teaching. There are probably two main prongs to my current cynicism:
 
@@ -155,7 +152,7 @@ In [this paper](/blog/publications/a-model-for-evaluating-potential-web-based-ed
 
 > increase their awareness of potential implementation issues, estimate the likelihood of reinvention, and predict the amount and type of effort required to achieve successful implementation of specific ... innovations.
 
-[![Variables influencing rate of adoption](images/3147336988_0dd909be0d_m.jpg)](http://www.flickr.com/photos/david_jones/3147336988/ "Variables influencing rate of adoption by David T Jones, on Flickr")
+[![Variables influencing rate of adoption](https://djon.es/assets/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/images/3147336988_0dd909be0d_m.jpg)](http://www.flickr.com/photos/david_jones/3147336988/ "Variables influencing rate of adoption by David T Jones, on Flickr")
 
 The model consists of five characteristics of an innovation diffusion process that will directly influence the rate of adoption of the innovation. These characteristics, through the work of Rogers and others, also help identify potential problems facing adoption and potential solutions.
 
@@ -193,7 +190,7 @@ That is the software has to [be protean](/blog/2009/02/09/the-protean-nature-of-
 
 #### Cynefin framework
 
-[![Cynefin framework](images/11146125_b73ba5a1d5_m_d.jpg)](http://www.flickr.com/photos/tvojta/11146125/)
+[![Cynefin framework](https://djon.es/assets/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/images/11146125_b73ba5a1d5_m_d.jpg)](http://www.flickr.com/photos/tvojta/11146125/)
 
 Which brings us to the [Cynefin framework](http://en.wikipedia.org/wiki/Cynefin). As a wicked problem, I place teaching and attempting to improve teaching into the Complex domain of the Cynefin framework. This means that the most appropriate approach is to "Probe - Sense - Respond". i.e. do something small, see how it works and then encourage the stuff that works and cease/change the stuff that doesn't.
 

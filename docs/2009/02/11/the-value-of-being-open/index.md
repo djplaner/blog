@@ -1,40 +1,37 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - plescquni
 - thesis
-date: 2009-02-11 10:49:02+10:00
+comments: []
+date: 2009-02-11 00:49:02
 next:
   text: One reason people don't take to new e-learning technology
   url: /blog/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/
+pingbacks:
+- approved: '1'
+  author: 'Barriers to innovation in organisations: teleological processes, organisational
+    structures and stepwise refinement &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 76.74.255.44
+  author_url: https://djon.es/blog/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/
+  content: '[...] across this video, provides further evidence to support an earlier
+    post I made today on the values of being open. I became aware of Punya&#8217;s
+    post because of the [...]'
+  date: '2009-02-11 16:02:46'
+  date_gmt: '2009-02-11 06:02:46'
+  id: '2129'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BAM - making e-learning technology more protean
   url: /blog/2009/02/11/bam-making-e-learning-technology-more-protean/
+template: blog-post.html
 title: The value of being open
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Barriers to innovation in organisations: teleological processes, organisational
-        structures and stepwise refinement &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 76.74.255.44
-      author_url: https://djon.es/blog/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/
-      content: '[...] across this video, provides further evidence to support an earlier
-        post I made today on the values of being open. I became aware of Punya&#8217;s
-        post because of the [...]'
-      date: '2009-02-11 16:02:46'
-      date_gmt: '2009-02-11 06:02:46'
-      id: '2129'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Moving into the "web 2.0"/social media/online world can be confronting for people. Especially the "open" part. With blogs, photo sharing, social bookmarking etc a lot of what used to be private (or closed) becomes public (or open). This can challenge people. Damien talked [about this and other problems](http://damosworld.wordpress.com/2008/12/15/do-you-eat-your-own-dogfood/) with social media in a blog post from late last year.
 

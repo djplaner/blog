@@ -1,66 +1,63 @@
----
+﻿---
 categories:
 - bim
 - moodle
-date: 2010-05-28 10:22:31+10:00
+comments: []
+date: 2010-05-28 00:22:31
 next:
   text: Focusing on integration - chapter 5
   url: /blog/2010/05/30/focusing-on-integration-chapter-5/
+pingbacks:
+- approved: '1'
+  author: The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.183
+  author_url: https://djon.es/blog/2010/05/30/2933/
+  content: '[...] an attempt to use user/messageselect.php with BIM in an attempt
+    to move towards implementing an email merge facility for [...]'
+  date: '2010-05-30 21:34:04'
+  date_gmt: '2010-05-30 11:34:04'
+  id: '3056'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: On the potential flexibility of open source LMS and its limits &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.61.94
+  author_url: https://djon.es/blog/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
+  content: '[...] to members of a group. There might even be a way to customise that
+    email to some extent (there is a bulk email facility in Moodle 1.9, but, from
+    memory, it seems somewhat limited). There is also probably a way to do a [...]'
+  date: '2011-02-13 17:25:18'
+  date_gmt: '2011-02-13 07:25:18'
+  id: '3057'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Types of e-learning projects and the problem of starvation | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.73
+  author_url: https://davidtjones.wordpress.com/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/
+  content: '[&#8230;] and perhaps other details about their participation in the course.
+    Moodle doesn&#8217;t appear to provide an email merge facility. In theory Office
+    provides some functionality this way but I use a Mac and the Office stuff never
+    [&#8230;]'
+  date: '2015-06-16 10:56:31'
+  date_gmt: '2015-06-16 00:56:31'
+  id: '3058'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Fixing BIM&#039;s back up and restore
   url: /blog/2010/05/27/fixing-bims-back-up-and-restore/
+template: blog-post.html
 title: One potential approach to provide a Moodle email merge facility
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.183
-      author_url: https://djon.es/blog/2010/05/30/2933/
-      content: '[...] an attempt to use user/messageselect.php with BIM in an attempt
-        to move towards implementing an email merge facility for [...]'
-      date: '2010-05-30 21:34:04'
-      date_gmt: '2010-05-30 11:34:04'
-      id: '3056'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: On the potential flexibility of open source LMS and its limits &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.61.94
-      author_url: https://djon.es/blog/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
-      content: '[...] to members of a group. There might even be a way to customise that
-        email to some extent (there is a bulk email facility in Moodle 1.9, but, from
-        memory, it seems somewhat limited). There is also probably a way to do a [...]'
-      date: '2011-02-13 17:25:18'
-      date_gmt: '2011-02-13 07:25:18'
-      id: '3057'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Types of e-learning projects and the problem of starvation | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.73
-      author_url: https://davidtjones.wordpress.com/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/
-      content: '[&#8230;] and perhaps other details about their participation in the course.
-        Moodle doesn&#8217;t appear to provide an email merge facility. In theory Office
-        provides some functionality this way but I use a Mac and the Office stuff never
-        [&#8230;]'
-      date: '2015-06-16 10:56:31'
-      date_gmt: '2015-06-16 00:56:31'
-      id: '3058'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 One of the issues I have to address with the [BIM Moodle module](/blog/research/bam-blog-aggregation-management/) is the provision of an [email merge facility](http://github.com/djplaner/BIM/issues#issue/4). I (and a couple of other people I know) haven't been able to find how to do this within Moodle. The following outlines one proposal for how this might be done within Moodle 1.9.
 
@@ -81,7 +78,7 @@ Essentially it is a method to send the same message to multiple recipients, howe
 
 The following is a screen shot (click on it to see a bigger version) of the manage message screen from the Webfuse email merge facility originally implemented by [Nathaniel](http://au.linkedin.com/pub/nathaniel-fitzgerald-hood/11/263/2b2) in 2002.
 
-[![Email merge](images/4646252528_4d532369bb_m.jpg)](http://www.flickr.com/photos/david_jones/4646252528/ "Email merge by David T Jones, on Flickr"). It has a simple textbox for the message and supports attachments. The "Add tag to message" component allows the user to select some "tags" from a drop box. In Webfuse the tags include parts of the students' name, email address, student id, and program they were studying.
+[![Email merge](https://djon.es/assets/blog/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/images/4646252528_4d532369bb_m.jpg)](http://www.flickr.com/photos/david_jones/4646252528/ "Email merge by David T Jones, on Flickr"). It has a simple textbox for the message and supports attachments. The "Add tag to message" component allows the user to select some "tags" from a drop box. In Webfuse the tags include parts of the students' name, email address, student id, and program they were studying.
 
 ### Why use it
 
@@ -91,11 +88,11 @@ For most teaching staff using Webfuse email merge was used to send messages to g
 
 I'm still fairly new to Moodle from a user perspective, and the only functionality I've been able to find that comes close is the "Message course users" functionality that is available under course participants. When you view the participants in a course you can select some of them and then choose to "add /send message" - see the following.
 
-[![Moodle select participants](images/4646283166_c2581b2a74_m.jpg)](http://www.flickr.com/photos/david_jones/4646283166/ "Moodle select participants by David T Jones, on Flickr")
+[![Moodle select participants](https://djon.es/assets/blog/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/images/4646283166_c2581b2a74_m.jpg)](http://www.flickr.com/photos/david_jones/4646283166/ "Moodle select participants by David T Jones, on Flickr")
 
 Then you see a typical HTML editor with some additional guidance, plus a list of selected users which you can further edit. See the following.
 
-[![Moodle send message](images/4646283576_786118a932_m.jpg)](http://www.flickr.com/photos/david_jones/4646283576/ "Moodle send message by David T Jones, on Flickr")
+[![Moodle send message](https://djon.es/assets/blog/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/images/4646283576_786118a932_m.jpg)](http://www.flickr.com/photos/david_jones/4646283576/ "Moodle send message by David T Jones, on Flickr")
 
 In terms of the main tasks for email merge there are some limitations:
 

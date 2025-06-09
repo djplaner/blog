@@ -1,43 +1,40 @@
----
+﻿---
 categories:
 - teaching
-date: 2011-09-25 10:39:44+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.79.35
+  author_url: http://www.vrbones.com
+  content: 'As far as I''m concerned, both methods are valid as long as they focus
+    on making meaningful change.
+
+    <blockquote>In later lessons the next steps would be taken. Perhaps look for solutions,
+    maybe start with underlying causes for the hassles as part of coming up with solutions.</blockquote>
+
+    Without this step, it becomes precariously close to being just a whingefest.
+
+
+    Same with Appreciative Inquiry, if you don''t immediately follow up with any meaningful
+    change, it can all get lost in wishful thinking.'
+  date: '2011-09-27 14:04:08'
+  date_gmt: '2011-09-27 04:04:08'
+  id: '134'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-09-25 00:39:44
 next:
   text: Social media in higher education - to read
   url: /blog/2011/09/26/4109/
+pingbacks: []
 previous:
   text: Can e-learning tools be more like Plants vs Zombies?
   url: /blog/2011/09/23/can-e-learning-tools-be-more-like-plants-vs-zombies/
+template: blog-post.html
 title: A hassle map for Year 10 mathematics? You can't focus on the negatives?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.79.35
-      author_url: http://www.vrbones.com
-      content: 'As far as I''m concerned, both methods are valid as long as they focus
-        on making meaningful change.
-    
-        <blockquote>In later lessons the next steps would be taken. Perhaps look for solutions,
-        maybe start with underlying causes for the hassles as part of coming up with solutions.</blockquote>
-    
-        Without this step, it becomes precariously close to being just a whingefest.
-    
-    
-        Same with Appreciative Inquiry, if you don''t immediately follow up with any meaningful
-        change, it can all get lost in wishful thinking.'
-      date: '2011-09-27 14:04:08'
-      date_gmt: '2011-09-27 04:04:08'
-      id: '134'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Came across the idea of a hassle map via the following tweet from @susangautsch retweeted by @michaelbtw. It's generated two immediate responses
 

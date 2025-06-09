@@ -1,51 +1,49 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-08-23 14:09:49+10:00
+comments:
+- approved: '1'
+  author: Tracey McGrath
+  author_email: info@traceymcgrath.com.au
+  author_ip: 165.228.209.239
+  author_url: http://learningforinsight.wordpress.com
+  content: Frustrating isn't it.  Just when you think you have a solution. I loved
+    Endnote and so didn't want to even like Mendeley.  I absolutely loved the link
+    to the Thesis Whisperer.  Thanks for that. Tracey
+  date: '2014-08-27 14:03:47'
+  date_gmt: '2014-08-27 04:03:47'
+  id: '1056'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2014-08-23 04:09:49
 next:
   text: One process for the NGL course
   url: /blog/2014/08/25/one-process-for-the-ngl-course/
+pingbacks:
+- approved: '1'
+  author: We won&#8217;t be exploring Mendeley to its fullest | An experiment in Networked
+    &amp; Global Learning
+  author_email: null
+  author_ip: 76.74.248.174
+  author_url: http://netgl.wordpress.com/2014/08/24/we-wont-be-exploring-mendeley-to-its-fullest/
+  content: "[&#8230;] Yesterday I discovered\_that sharing these amongst a group/network\
+    \ is limited to either [&#8230;]"
+  date: '2014-08-24 15:39:17'
+  date_gmt: '2014-08-24 05:39:17'
+  id: '1055'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: And more NGL catch up
   url: /blog/2014/08/22/and-more-ngl-catch-up/
+template: blog-post.html
 title: Ahh Mendeley and freemium tools
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Tracey McGrath
-      author_email: info@traceymcgrath.com.au
-      author_ip: 165.228.209.239
-      author_url: http://learningforinsight.wordpress.com
-      content: Frustrating isn't it.  Just when you think you have a solution. I loved
-        Endnote and so didn't want to even like Mendeley.  I absolutely loved the link
-        to the Thesis Whisperer.  Thanks for that. Tracey
-      date: '2014-08-27 14:03:47'
-      date_gmt: '2014-08-27 04:03:47'
-      id: '1056'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: We won&#8217;t be exploring Mendeley to its fullest | An experiment in Networked
-        &amp; Global Learning
-      author_email: null
-      author_ip: 76.74.248.174
-      author_url: http://netgl.wordpress.com/2014/08/24/we-wont-be-exploring-mendeley-to-its-fullest/
-      content: "[&#8230;] Yesterday I discovered\_that sharing these amongst a group/network\
-        \ is limited to either [&#8230;]"
-      date: '2014-08-24 15:39:17'
-      date_gmt: '2014-08-24 05:39:17'
-      id: '1055'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
-[![You don’t have to be rich to invest in i by joe.ross, on Flickr](images/6478575525_a9c0d23bdd_m.jpg "You don’t have to be rich to invest in i by joe.ross, on Flickr")](https://www.flickr.com/photos/joeybones/6478575525/)  
-[![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/joeybones/)[joe.ross](https://www.flickr.com/people/joeybones/) [](http://www.imagecodr.org/)
+[![You don’t have to be rich to invest in i by joe.ross, on Flickr](https://djon.es/assets/blog/2014/08/23/ahh-mendeley-and-freemium-tools/images/6478575525_a9c0d23bdd_m.jpg "You don’t have to be rich to invest in i by joe.ross, on Flickr")](https://www.flickr.com/photos/joeybones/6478575525/)  
+[![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2014/08/23/ahh-mendeley-and-freemium-tools/images/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/joeybones/)[joe.ross](https://www.flickr.com/people/joeybones/) [](http://www.imagecodr.org/)
 
 I've been using Mendeley for a few years now. Generally fairly happy with it. Move to it from Endnote after the bad experience of using it for the PhD thesis. Have heard that more recent versions of Endnote may not be as horrible anymore, but Mendeley has me locked in a little (better the devil you now etc).
 

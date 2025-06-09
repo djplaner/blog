@@ -1,10 +1,42 @@
----
+﻿---
 categories:
 - thesis
-date: 2012-01-11 18:02:30+10:00
+comments:
+- approved: '1'
+  author: Chris Bigum (@cj13)
+  author_email: cj13@twitter.example.com
+  author_ip: 122.111.171.202
+  author_url: http://twitter.com/cj13
+  content: There is a resource "out there" - all those groups who are supporting one
+    another in using whatever language. All it needs is a Khan-like set of resources
+    for each language. Giving students access to mature insider forms of practice
+    would be a winner. The move would call for a good deal of creativity around how
+    to manage it/assess it - no bad thing :)
+  date: '2012-01-17 18:15:20'
+  date_gmt: '2012-01-17 08:15:20'
+  id: '177'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Justin (@grubbypandas)
+  author_email: grubbypandas@twitter.example.com
+  author_ip: 110.174.29.163
+  author_url: http://twitter.com/grubbypandas
+  content: Funnily enough I was thinking about this the other day. I made my own blogpost
+    (If your interested) at www.grubbypandas.com of my thoughts on the flaws of teaching
+    computer languages at the moment.
+  date: '2012-01-18 07:25:26'
+  date_gmt: '2012-01-17 21:25:26'
+  id: '178'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-01-11 08:02:30
 next:
   text: Initial thoughts on an ICT and Pedagogy course
   url: /blog/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/
+pingbacks: []
 previous:
   text: 'Ateleological travels in a teleological world: Past and future journeys around
     ICTs in education'
@@ -12,44 +44,9 @@ previous:
 tags:
 - computer-science-education
 - high-school-computer-science
+template: blog-post.html
 title: Teaching computer science considered harmful?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Chris Bigum (@cj13)
-      author_email: cj13@twitter.example.com
-      author_ip: 122.111.171.202
-      author_url: http://twitter.com/cj13
-      content: There is a resource "out there" - all those groups who are supporting one
-        another in using whatever language. All it needs is a Khan-like set of resources
-        for each language. Giving students access to mature insider forms of practice
-        would be a winner. The move would call for a good deal of creativity around how
-        to manage it/assess it - no bad thing :)
-      date: '2012-01-17 18:15:20'
-      date_gmt: '2012-01-17 08:15:20'
-      id: '177'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Justin (@grubbypandas)
-      author_email: grubbypandas@twitter.example.com
-      author_ip: 110.174.29.163
-      author_url: http://twitter.com/grubbypandas
-      content: Funnily enough I was thinking about this the other day. I made my own blogpost
-        (If your interested) at www.grubbypandas.com of my thoughts on the flaws of teaching
-        computer languages at the moment.
-      date: '2012-01-18 07:25:26'
-      date_gmt: '2012-01-17 21:25:26'
-      id: '178'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 This is interesting (hat tip to @timbuckteeth). [English schools](http://www.bbc.co.uk/news/education-16493929) will no longer be teaching Information and Communications Technology (ICT) study - a situation where students are bored out of their minds learning Word and Excel by bored teachers - and instead will be taught "more rigorous computer science and programming".
 

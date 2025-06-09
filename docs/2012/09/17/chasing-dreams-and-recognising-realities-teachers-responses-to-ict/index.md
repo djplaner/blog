@@ -1,152 +1,150 @@
----
+﻿---
 categories:
 - edc3100
 - teaching
-date: 2012-09-17 13:53:40+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 121.91.14.9
+  author_url: http://cj13.wordpress.com/
+  content: "Valuable post as always. Thank you.\n\nI can't help but think that drawing\
+    \ on educational folk to give advice about the problem of what to do with just\
+    \ one of the defining technologies of this century is a bit like asking bank tellers\
+    \ in the 70's for advice about how to integrate and implement the new-fangled\
+    \ ATMs. I'm not sure it is possible to shift most/many teachers from the window-dressing\
+    \ protocol that has been refined over 35 years, i.e. just have it in the classroom.\
+    \ No one will ask anything about what is going on (kids were playing games as\
+    \ rewards on computers in classrooms in the 80's). It is a protocol that is firmly\
+    \ entrenched in the day-to-day routines of many teachers.\n\nWhat I find intriguing\
+    \ is that schools have been playing this game, let's integrate/enhance etc. for\
+    \ so long.  35 years of doing it again and again with the same result (recall\
+    \ Einstein's lovely quote about stupidity) points less to the technology and more\
+    \ to a system that is primarily concerned with self-preservation.\n\nWay to much\
+    \ to say here. We see idiocy after idiocy (e.g. TPCK) developed to supposedly\
+    \ wiggle its way through. Solving this problem remains a BIG business. Lots of\
+    \ folk out there mad keen to tell and sell about how to do it. It's fed by a technology\
+    \ that improves exponentially. There is always new things to tell about and sell\
+    \ how to use them.\n\nThe ways of thinking about the elements of the challenge\
+    \ are critical. Your understanding of these either implicitly or explicitly frames\
+    \ what what does in an educational setting. These elements include: how 'technology'\
+    \ is understood. How change is understood. What does it mean to 'know' something\
+    \ at this period of human history? What do developments in computing and related\
+    \ technologies have for various fields of knowledge, or, in terms for the Mums\
+    \ and Dads, \"why are you teaching my child how to do things that machines are\
+    \ good at or soon will be?\"\n\nTo me, it is more a matter of whether or not,\
+    \ as Rushkoff (Rushkoff, D. (2010). Program or be Programmed: Ten Commands for\
+    \ a Digital Age. New York: OR Books.) argues, we program or are programmed:\n\n\
+    'Digital technology is programmed. This makes it biased toward those with the\
+    \ capacity to write the code. In a digital age, we must learn how to make the\
+    \ software, or risk becoming the software. It is not too difficult or too late\
+    \ to learn the code behind the things we use\u2014or at least to understand that\
+    \ there is code behind their interfaces. Otherwise, we are at the mercy of those\
+    \ who do the programming, the people paying them, or even the technology itself.'\
+    \  (p. 128).\n\nThe other take I'd push for, one that schools have totally ignored,\
+    \ is taking a look at the forest, not just the trees. The well known readers digest\
+    \ version of this is here: http://edudemic.com/2012/09/globalization-videos/\n\
+    \nTo return to 'the how\" question. Schools for thirty odd years have continued\
+    \ to behave as if they are the sole/major source of computing and related technologies.\
+    \ This hasn't been the case for decades but we still policies and procedures that\
+    \ reflect this mindset. Any decent 'how' question would pay attention to what\
+    \ the kids had access to in the home and elsewhere. The smart thing to do would\
+    \ be to think carefully about how to work when there is such a concentration OUTSIDE\
+    \ the classroom.\n\nThe most difficult element in this task of 'integration' is\
+    \ the long-standing practices of schooling. The various ways of doing things have\
+    \ an elaborate infrastructure of material that keeps them in place. Changing these\
+    \ practices in other than a superficial way will mean dismantling all the 'stuff'\
+    \ that supports them. No simple task.\n\nTo me the question is not how to integrate\
+    \ these technologies but how to do school. Doing school as if we were living in\
+    \ the 1800s is clearly dumb. But that is precisely what we are doing. It's akin\
+    \ to running a horse-based public transport system and trying to integrate the\
+    \ automobile."
+  date: '2012-09-18 14:05:27'
+  date_gmt: '2012-09-18 04:05:27'
+  id: '469'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: 'Chris, thanks for taking the time to respond and the pointers.  It''s
+    the dissonance between the assumptions of the current system and the nature of
+    the outside world that causes my biggest problem. There is a tension between folk
+    seeing our job as "preparing pre-service teachers to teach in schools" and the
+    view that schools are exactly the wrong type of system for what we can do.
+
+
+    I do think we''re in the midst of a change over, maybe. The prevalence of ICTs
+    in everyday life is, I think, one of the factors that can address the failure
+    of the last 35 years or so. Perhaps the "grammar of school" will finally start
+    being transformed because of what people are doing at home (and at school with
+    the personal devices).  Of course Gillards "be in the top 5" aim isn''t going
+    to help that in the short term.
+
+
+    Then there is the "grammar of university". There are certain expectations and
+    ways of doing things which are also holding things back.  <a href="http://rachaelbath.wordpress.com/2012/09/14/breaking-the-mold-whos-teaching-the-teachers/"
+    rel="nofollow">this post</a> touches on this a bit.
+
+
+    To some extent I need to connect with the extant literature so that I can meet
+    that grammar and show that I''m aware of their insights.  So I will probably be
+    reading/blogging a few more of these over the coming weeks.
+
+
+    I''m hoping in the course we can tread the two lines somehow.  Prepare them for
+    working in a broken system and start seriously thinking about what the system
+    should be doing.  More to come.'
+  date: '2012-09-19 10:32:15'
+  date_gmt: '2012-09-19 00:32:15'
+  id: '470'
+  parent: '469'
+  type: comment
+  user_id: '1'
+date: 2012-09-17 03:53:40
 next:
   text: Compliance cultures and transforming the quality of e-learning
   url: /blog/2012/09/29/compliance-cultures-and-transforming-the-quality-of-e-learning/
+pingbacks:
+- approved: '1'
+  author: 'Chasing dreams and recognising realities: teachers'' responses to ICT |
+    Technology in the Curriculum | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/technology-in-the-curriculum/p/2715651927/chasing-dreams-and-recognising-realities-teachers-responses-to-ict
+  content: '[...] As preparation for the redevelopment of a 3rd year course helping
+    pre-service teachers figure out how ICTs can be integrated into/transform their
+    learning and teaching. This is a summary of ...&nbsp; [...]'
+  date: '2012-09-18 06:26:16'
+  date_gmt: '2012-09-17 20:26:16'
+  id: '468'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Exploring current institutional e-learning usage | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 207.198.101.92
+  author_url: https://djon.es/blog/2013/11/12/exploring-current-institutional-e-learning-usage/
+  content: '[&#8230;] I wonder how well this pattern applies? If it is impacted by
+    various institutional factors? Is the &#8220;technology dip&#8221; [&#8230;]'
+  date: '2013-11-12 14:26:31'
+  date_gmt: '2013-11-12 04:26:31'
+  id: '471'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The illusion we understand the past fosters overconfidence in our ability
     to predict the future
   url: /blog/2012/09/13/the-illusion-we-understand-the-past-fosters-overconfidence-in-our-ability-to-predict-the-future/
+template: blog-post.html
 title: '"Chasing dreams and recognising realities: teachers'' responses to ICT"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 121.91.14.9
-      author_url: http://cj13.wordpress.com/
-      content: "Valuable post as always. Thank you.\n\nI can't help but think that drawing\
-        \ on educational folk to give advice about the problem of what to do with just\
-        \ one of the defining technologies of this century is a bit like asking bank tellers\
-        \ in the 70's for advice about how to integrate and implement the new-fangled\
-        \ ATMs. I'm not sure it is possible to shift most/many teachers from the window-dressing\
-        \ protocol that has been refined over 35 years, i.e. just have it in the classroom.\
-        \ No one will ask anything about what is going on (kids were playing games as\
-        \ rewards on computers in classrooms in the 80's). It is a protocol that is firmly\
-        \ entrenched in the day-to-day routines of many teachers.\n\nWhat I find intriguing\
-        \ is that schools have been playing this game, let's integrate/enhance etc. for\
-        \ so long.  35 years of doing it again and again with the same result (recall\
-        \ Einstein's lovely quote about stupidity) points less to the technology and more\
-        \ to a system that is primarily concerned with self-preservation.\n\nWay to much\
-        \ to say here. We see idiocy after idiocy (e.g. TPCK) developed to supposedly\
-        \ wiggle its way through. Solving this problem remains a BIG business. Lots of\
-        \ folk out there mad keen to tell and sell about how to do it. It's fed by a technology\
-        \ that improves exponentially. There is always new things to tell about and sell\
-        \ how to use them.\n\nThe ways of thinking about the elements of the challenge\
-        \ are critical. Your understanding of these either implicitly or explicitly frames\
-        \ what what does in an educational setting. These elements include: how 'technology'\
-        \ is understood. How change is understood. What does it mean to 'know' something\
-        \ at this period of human history? What do developments in computing and related\
-        \ technologies have for various fields of knowledge, or, in terms for the Mums\
-        \ and Dads, \"why are you teaching my child how to do things that machines are\
-        \ good at or soon will be?\"\n\nTo me, it is more a matter of whether or not,\
-        \ as Rushkoff (Rushkoff, D. (2010). Program or be Programmed: Ten Commands for\
-        \ a Digital Age. New York: OR Books.) argues, we program or are programmed:\n\n\
-        'Digital technology is programmed. This makes it biased toward those with the\
-        \ capacity to write the code. In a digital age, we must learn how to make the\
-        \ software, or risk becoming the software. It is not too difficult or too late\
-        \ to learn the code behind the things we use\u2014or at least to understand that\
-        \ there is code behind their interfaces. Otherwise, we are at the mercy of those\
-        \ who do the programming, the people paying them, or even the technology itself.'\
-        \  (p. 128).\n\nThe other take I'd push for, one that schools have totally ignored,\
-        \ is taking a look at the forest, not just the trees. The well known readers digest\
-        \ version of this is here: http://edudemic.com/2012/09/globalization-videos/\n\
-        \nTo return to 'the how\" question. Schools for thirty odd years have continued\
-        \ to behave as if they are the sole/major source of computing and related technologies.\
-        \ This hasn't been the case for decades but we still policies and procedures that\
-        \ reflect this mindset. Any decent 'how' question would pay attention to what\
-        \ the kids had access to in the home and elsewhere. The smart thing to do would\
-        \ be to think carefully about how to work when there is such a concentration OUTSIDE\
-        \ the classroom.\n\nThe most difficult element in this task of 'integration' is\
-        \ the long-standing practices of schooling. The various ways of doing things have\
-        \ an elaborate infrastructure of material that keeps them in place. Changing these\
-        \ practices in other than a superficial way will mean dismantling all the 'stuff'\
-        \ that supports them. No simple task.\n\nTo me the question is not how to integrate\
-        \ these technologies but how to do school. Doing school as if we were living in\
-        \ the 1800s is clearly dumb. But that is precisely what we are doing. It's akin\
-        \ to running a horse-based public transport system and trying to integrate the\
-        \ automobile."
-      date: '2012-09-18 14:05:27'
-      date_gmt: '2012-09-18 04:05:27'
-      id: '469'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: 'Chris, thanks for taking the time to respond and the pointers.  It''s
-        the dissonance between the assumptions of the current system and the nature of
-        the outside world that causes my biggest problem. There is a tension between folk
-        seeing our job as "preparing pre-service teachers to teach in schools" and the
-        view that schools are exactly the wrong type of system for what we can do.
-    
-    
-        I do think we''re in the midst of a change over, maybe. The prevalence of ICTs
-        in everyday life is, I think, one of the factors that can address the failure
-        of the last 35 years or so. Perhaps the "grammar of school" will finally start
-        being transformed because of what people are doing at home (and at school with
-        the personal devices).  Of course Gillards "be in the top 5" aim isn''t going
-        to help that in the short term.
-    
-    
-        Then there is the "grammar of university". There are certain expectations and
-        ways of doing things which are also holding things back.  <a href="http://rachaelbath.wordpress.com/2012/09/14/breaking-the-mold-whos-teaching-the-teachers/"
-        rel="nofollow">this post</a> touches on this a bit.
-    
-    
-        To some extent I need to connect with the extant literature so that I can meet
-        that grammar and show that I''m aware of their insights.  So I will probably be
-        reading/blogging a few more of these over the coming weeks.
-    
-    
-        I''m hoping in the course we can tread the two lines somehow.  Prepare them for
-        working in a broken system and start seriously thinking about what the system
-        should be doing.  More to come.'
-      date: '2012-09-19 10:32:15'
-      date_gmt: '2012-09-19 00:32:15'
-      id: '470'
-      parent: '469'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Chasing dreams and recognising realities: teachers'' responses to ICT |
-        Technology in the Curriculum | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/technology-in-the-curriculum/p/2715651927/chasing-dreams-and-recognising-realities-teachers-responses-to-ict
-      content: '[...] As preparation for the redevelopment of a 3rd year course helping
-        pre-service teachers figure out how ICTs can be integrated into/transform their
-        learning and teaching. This is a summary of ...&nbsp; [...]'
-      date: '2012-09-18 06:26:16'
-      date_gmt: '2012-09-17 20:26:16'
-      id: '468'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Exploring current institutional e-learning usage | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 207.198.101.92
-      author_url: https://djon.es/blog/2013/11/12/exploring-current-institutional-e-learning-usage/
-      content: '[&#8230;] I wonder how well this pattern applies? If it is impacted by
-        various institutional factors? Is the &#8220;technology dip&#8221; [&#8230;]'
-      date: '2013-11-12 14:26:31'
-      date_gmt: '2013-11-12 04:26:31'
-      id: '471'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Doing a bit of reading of the literature. As preparation for the redevelopment of a 3rd year course helping pre-service teachers figure out how ICTs can be integrated into/transform their learning and teaching.
 

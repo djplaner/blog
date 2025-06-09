@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2006-09-28 08:09:45+10:00
+date: 2006-09-27 22:09:45
 next:
   text: Social computing
   url: /blog/2006/09/28/social-computering/
 previous:
   text: Adoption of Web 2.0
   url: /blog/2006/09/27/adoption-of-web-20/
+template: blog-post.html
 title: Web 2.0 - change in people and society
 type: post
-template: blog-post.html
 ---
 A [long and interesting post](http://web2.wsj2.com/all_we_got_was_web_10_when_tim_bernerslee_actually_gave_us_w.htm) from Dion Hinchcliffe about a bunch of Web 2.0 stuff.
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - quotes
 - teaching
-date: 2010-11-21 07:46:48+10:00
+date: 2010-11-20 21:46:48
 next:
   text: 8 stupidest management fads of all time
   url: /blog/2010/11/21/8-stupidest-management-fads-of-all-time/
 previous:
   text: Interesting times ahead
   url: /blog/2010/11/20/interesting-times-ahead/
+template: blog-post.html
 title: Changing times and connectivism
 type: post
-template: blog-post.html
 ---
 This is a simple holding place for some ideas and quotes from George Siemens' recent [Connectivism: Changing times](http://www.slideshare.net/gsiemens/connectivism-changing-times) talk.
 

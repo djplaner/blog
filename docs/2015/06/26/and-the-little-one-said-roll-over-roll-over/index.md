@@ -1,98 +1,96 @@
----
+﻿---
 categories:
 - edc3100
 - moodle
-date: 2015-06-26 14:12:49+10:00
+comments:
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://users.on.net/~iancreid/
+  content: Surely the simplest solution here is to do what Distance Educators have
+    always done - make sure your study materials can stand-alone (eg refer to week
+    numbers , but not dates) and use 'course information' to update that with week
+    dates, holidays, assessment due dates, etc? I realise its a bit more complicated
+    than that in the online environment, and it would be nice to have it 'auto-update',
+    but surely its the easiest way forward??
+  date: '2015-06-30 16:30:27'
+  date_gmt: '2015-06-30 06:30:27'
+  id: '1340'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 101.179.31.1
+  author_url: https://djon.es/blog/
+  content: 'I don''t think it''s any surprise that I see elements of <a href="http://cnx.org/contents/dad41956-c2b2-4e01-94b4-4a871783b021@19"
+    rel="nofollow">the reusability paradox</a> in this.  Not to mention the idea that
+    digital technologies are meant to protean/flexible/mutable. And add in the whole
+    EPSS idea of systems that provide people the information they need at the point
+    they need it. Or to borrow a sentiment from Dave Snowden - you shouldn''t have
+    to reshape your hand to use a tool.
+
+
+    As I work at an institution that has personalised learning as one of the themes
+    of <a href="http://www.usq.edu.au/about-usq/about-us/plans-reports/strategic-plan"
+    rel="nofollow">its 2022 vision</a>, it would seem logical that we''d at least
+    be able to personalise the weeks/due dates to the semester when students are studying
+    the course.  That would seem to be at the very simple end of "personalisation".
+
+
+    Of course, one of the problems at my institution is that you can''t use week numbers.  Depending
+    on when the holidays fall within a semester, the weeks change when you''d cover
+    a particular topic.  To give CQU it''s due, at least it didn''t include the holidays
+    in the official weeks.  Made <a href="http://webfuse.cqu.edu.au/Courses/2009/T1/COIS20025/Study_Schedule/"
+    rel="nofollow">creating (automated) study schedules</a> so much easier.'
+  date: '2015-06-30 17:06:17'
+  date_gmt: '2015-06-30 07:06:17'
+  id: '1341'
+  parent: '1340'
+  type: comment
+  user_id: '1'
+date: 2015-06-26 04:12:49
 next:
   text: Re-building results processing
   url: /blog/2015/07/01/re-building-results-processing/
+pingbacks:
+- approved: '1'
+  author: 'Re-using a #moodle course design | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.101.147
+  author_url: https://davidtjones.wordpress.com/2015/07/04/re-using-a-moodle-course-design/
+  content: '[&#8230;] it stands each topic does have a formal title meaning it&#8217;s
+    probably valuable to make use of the macro facility I&#8217;m using in [&#8230;]'
+  date: '2015-07-04 16:26:01'
+  date_gmt: '2015-07-04 06:26:01'
+  id: '1342'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Possible sources of an institution&#8217;s e-learning content problems |
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.151
+  author_url: https://davidtjones.wordpress.com/2015/08/13/possible-sources-of-an-institutions-e-learning-content-problems/
+  content: '[&#8230;] implemented a kludge macro system, but Moodle has a functionality
+    called filters that could be used to achieve the same end with some [&#8230;]'
+  date: '2015-08-13 10:19:08'
+  date_gmt: '2015-08-13 00:19:08'
+  id: '1343'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Dashboards suck: learning analytics&#039; broken metaphor'
   url: /blog/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/
+template: blog-post.html
 title: And the little one said, "roll over, roll over"
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://users.on.net/~iancreid/
-      content: Surely the simplest solution here is to do what Distance Educators have
-        always done - make sure your study materials can stand-alone (eg refer to week
-        numbers , but not dates) and use 'course information' to update that with week
-        dates, holidays, assessment due dates, etc? I realise its a bit more complicated
-        than that in the online environment, and it would be nice to have it 'auto-update',
-        but surely its the easiest way forward??
-      date: '2015-06-30 16:30:27'
-      date_gmt: '2015-06-30 06:30:27'
-      id: '1340'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 101.179.31.1
-      author_url: https://djon.es/blog/
-      content: 'I don''t think it''s any surprise that I see elements of <a href="http://cnx.org/contents/dad41956-c2b2-4e01-94b4-4a871783b021@19"
-        rel="nofollow">the reusability paradox</a> in this.  Not to mention the idea that
-        digital technologies are meant to protean/flexible/mutable. And add in the whole
-        EPSS idea of systems that provide people the information they need at the point
-        they need it. Or to borrow a sentiment from Dave Snowden - you shouldn''t have
-        to reshape your hand to use a tool.
-    
-    
-        As I work at an institution that has personalised learning as one of the themes
-        of <a href="http://www.usq.edu.au/about-usq/about-us/plans-reports/strategic-plan"
-        rel="nofollow">its 2022 vision</a>, it would seem logical that we''d at least
-        be able to personalise the weeks/due dates to the semester when students are studying
-        the course.  That would seem to be at the very simple end of "personalisation".
-    
-    
-        Of course, one of the problems at my institution is that you can''t use week numbers.  Depending
-        on when the holidays fall within a semester, the weeks change when you''d cover
-        a particular topic.  To give CQU it''s due, at least it didn''t include the holidays
-        in the official weeks.  Made <a href="http://webfuse.cqu.edu.au/Courses/2009/T1/COIS20025/Study_Schedule/"
-        rel="nofollow">creating (automated) study schedules</a> so much easier.'
-      date: '2015-06-30 17:06:17'
-      date_gmt: '2015-06-30 07:06:17'
-      id: '1341'
-      parent: '1340'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Re-using a #moodle course design | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.101.147
-      author_url: https://davidtjones.wordpress.com/2015/07/04/re-using-a-moodle-course-design/
-      content: '[&#8230;] it stands each topic does have a formal title meaning it&#8217;s
-        probably valuable to make use of the macro facility I&#8217;m using in [&#8230;]'
-      date: '2015-07-04 16:26:01'
-      date_gmt: '2015-07-04 06:26:01'
-      id: '1342'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Possible sources of an institution&#8217;s e-learning content problems |
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.151
-      author_url: https://davidtjones.wordpress.com/2015/08/13/possible-sources-of-an-institutions-e-learning-content-problems/
-      content: '[&#8230;] implemented a kludge macro system, but Moodle has a functionality
-        called filters that could be used to achieve the same end with some [&#8230;]'
-      date: '2015-08-13 10:19:08'
-      date_gmt: '2015-08-13 00:19:08'
-      id: '1343'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
-[![Roll over](images/8142765678_87133ae805_n.jpg)](https://www.flickr.com/photos/david_jones/8142765678 "Roll over by David Jones, on Flickr")
+[![Roll over](https://djon.es/assets/blog/2015/06/26/and-the-little-one-said-roll-over-roll-over/images/8142765678_87133ae805_n.jpg)](https://www.flickr.com/photos/david_jones/8142765678 "Roll over by David Jones, on Flickr")
 
 It's that time of year again. The time between semesters when one offering of [the main course](http://www.usq.edu.au/course/specification/2015/EDC3100-S1-2015-WEB-TWMBA.html) I teach is still drawing to a close and when I have to think about preparing for the next offering. It's time - for better or worse - to roll over. The following is a description and some thoughts on how and what I do during roll over.
 
@@ -117,7 +115,7 @@ The Moodle/institutional roll over process does a really good job of updating th
 
 But there's a problem. Can you see the problem in the following image?
 
-[![s2 2015](images/18976620828_8111df3667.jpg)](https://www.flickr.com/photos/david_jones/18976620828 "s2 2015 by David Jones, on Flickr")
+[![s2 2015](https://djon.es/assets/blog/2015/06/26/and-the-little-one-said-roll-over-roll-over/images/18976620828_8111df3667.jpg)](https://www.flickr.com/photos/david_jones/18976620828 "s2 2015 by David Jones, on Flickr")
 
 Semester 2 runs from late July through to October/November. The dates in the above image are different. They are for Semester 1. The Moodle roll over process doesn't know anything about USQ dates. This causes problems because dates are littered throughout the course site. Such as the [assessment overview page](https://www.flickr.com/photos/david_jones/18543806373/), each [individual assignment page](https://www.flickr.com/photos/david_jones/19164401855/), the [study schedule](https://www.flickr.com/photos/david_jones/18543805803/), and any of [the learning path pages](https://www.flickr.com/photos/david_jones/18976768220/) that mention dates.
 
@@ -146,7 +144,7 @@ What I need to do know is enter appropriate information for the new offering, th
 
 With the script updated viewing the S2 course site now reveals the following. Dates and weeks updated.
 
-[![S2 2015](images/19139130106_d12254d64e_n.jpg)](https://www.flickr.com/photos/david_jones/19139130106 "S2 2015 by David Jones, on Flickr")
+[![S2 2015](https://djon.es/assets/blog/2015/06/26/and-the-little-one-said-roll-over-roll-over/images/19139130106_d12254d64e_n.jpg)](https://www.flickr.com/photos/david_jones/19139130106 "S2 2015 by David Jones, on Flickr")
 
 ### Broken links
 

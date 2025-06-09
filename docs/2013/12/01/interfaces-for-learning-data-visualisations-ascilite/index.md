@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - ascilite
-date: 2013-12-01 11:00:36+10:00
+date: 2013-12-01 01:00:36
 next:
   text: '"Sensemaking  - #ascilite"'
   url: /blog/2013/12/01/sensemaking-ascilite/
 previous:
   text: 'Learning analytics is about learning - #ascilite'
   url: /blog/2013/12/01/learning-analytics-is-about-learning-ascilite/
+template: blog-post.html
 title: '"Interfaces for learning data visualisations - #ascilite."'
 type: post
-template: blog-post.html
 ---
 Live blogging workshop from [Prof Judy Kay](http://sydney.edu.au/engineering/it/~judy/). A computer scientist from the user modeling, AIED background, pervasive computing. A focus on personalisation. Putting people in control - personal data.
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-01-13 21:57:08+10:00
+date: 2010-01-13 11:57:08
 next:
   text: BIM - Manage Marking
   url: /blog/2010/01/17/bim-manage-marking/
 previous:
   text: Another idea for research project arising from the indicators project
   url: /blog/2010/01/12/another-idea-for-research-project-arising-from-the-indicators-project/
+template: blog-post.html
 title: BIM - question management/configuration
 type: post
-template: blog-post.html
 ---
 A central assumption in BIM is that student contributions to their feeds are, at least in some part, intended to respond to questions or activities that have been created to encourage reflection and other good stuff. This requires that the teaching staff using BIM have a mechanism for creating and changing the questions students will respond to. This post describes the initial implementation of this screen.
 

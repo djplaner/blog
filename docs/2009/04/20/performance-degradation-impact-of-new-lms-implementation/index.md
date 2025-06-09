@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,46 +6,43 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-04-20 15:30:37+10:00
+comments: []
+date: 2009-04-20 05:30:37
 next:
   text: The paradigms of e-learning
   url: /blog/2009/04/20/the-paradigms-of-e-learning/
+pingbacks:
+- approved: '1'
+  author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.85
+  author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
+  content: '[...] Performance degradation - impact of new LMS implementation, [...]'
+  date: '2009-04-24 15:01:49'
+  date_gmt: '2009-04-24 05:01:49'
+  id: '2405'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What can history tell us about e-learning and its future? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+  content: '[...] Performance degradation through enterprise systems [...]'
+  date: '2009-06-18 10:50:30'
+  date_gmt: '2009-06-18 00:50:30'
+  id: '2406'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #7 - a fortnight in review'
   url: /blog/2009/04/17/phd-update-7-a-fortnight-in-review/
+template: blog-post.html
 title: Performance degradation - impact of new LMS implementation
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.85
-      author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
-      content: '[...] Performance degradation - impact of new LMS implementation, [...]'
-      date: '2009-04-24 15:01:49'
-      date_gmt: '2009-04-24 05:01:49'
-      id: '2405'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What can history tell us about e-learning and its future? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
-      content: '[...] Performance degradation through enterprise systems [...]'
-      date: '2009-06-18 10:50:30'
-      date_gmt: '2009-06-18 00:50:30'
-      id: '2406'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Anyone who knows me, knows that I have a particular disdain for the perspective that e-learning within a university can be treated as an IT project and in particular as the implementation of an Enterprise Resource Planning (ERP system). i.e. the LMS is an ERP and should be implemented as one. Some previous rants can be found on this blog, including:
 

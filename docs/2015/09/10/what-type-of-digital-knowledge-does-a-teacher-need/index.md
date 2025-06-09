@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - computationalthinking
 - elearning
 - literacies
 - tpack
-date: 2015-09-10 13:25:47+10:00
+comments: []
+date: 2015-09-10 03:25:47
 next:
   text: Exploring Moodle's API
   url: /blog/2015/09/13/exploring-moodles-api/
+pingbacks:
+- approved: '1'
+  author: Teachers as digital renovators? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.49
+  author_url: https://davidtjones.wordpress.com/2015/10/06/teachers-as-digital-renovators/
+  content: '[&#8230;] colleagues and I are starting to wonder about what type of &#8220;digital
+    knowledge&#8221; teachers might need. This is occurring in the context of a re-design
+    of a Bachelor of Education. This [&#8230;]'
+  date: '2015-10-06 18:27:27'
+  date_gmt: '2015-10-06 08:27:27'
+  id: '1424'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Requirements, solutions, design, and who should decide
   url: /blog/2015/09/09/requirements-solutions-design-and-who-should-decide/
+template: blog-post.html
 title: What type of "digital knowledge" does a teacher need?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Teachers as digital renovators? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.49
-      author_url: https://davidtjones.wordpress.com/2015/10/06/teachers-as-digital-renovators/
-      content: '[&#8230;] colleagues and I are starting to wonder about what type of &#8220;digital
-        knowledge&#8221; teachers might need. This is occurring in the context of a re-design
-        of a Bachelor of Education. This [&#8230;]'
-      date: '2015-10-06 18:27:27'
-      date_gmt: '2015-10-06 08:27:27'
-      id: '1424'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Apparently teacher education has a technology knowledge problem.
 
@@ -73,7 +70,7 @@ Personally, I tend to see the influence of [Maslow's Hammer](https://en.wikipedi
 
 Beyond that you have people who may not exactly live and breath in the new digital world making pronouncements on the importance or otherwise of various aspects of digital knowledge. For example, a recent review of the Australian Curriculum contained some reservations about the proposed "digital technologies" learning area that generated [this response](https://www.linkedin.com/grp/post/3889421-5927920750416646144) from one professional association. Not to mention some [recent comments](http://www.lifehacker.com.au/2015/05/tony-abbott-thinks-teaching-coding-to-kids-means-sending-them-to-work-at-age-11/) from the Australian Prime Minister.
 
-[![Initial thoughts on coding in schools](images/21272044362_3b96c2371f.jpg)](https://www.flickr.com/photos/david_jones/21272044362/in/dateposted-public/ "Initial thoughts on coding in schools")
+[![Initial thoughts on coding in schools](https://djon.es/assets/blog/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/images/21272044362_3b96c2371f.jpg)](https://www.flickr.com/photos/david_jones/21272044362/in/dateposted-public/ "Initial thoughts on coding in schools")
 
 Of course, there are also people who are engaged with the digital world who are questioning the value of coding to school children. For example, [Bron Stuckey](http://www.aare.edu.au/blog/?p=1076) is left with two big questions around teaching coding in schools
 
@@ -134,7 +131,7 @@ The ability to decorate a space is more than simply having the knowledge to do s
 
 First, you need to have the permission and right to do this. You probably can't decorate a public space. If you're renting a space, the rental agreement probably limits what decoration you can undertake (no nails in the wall).
 
-[![Concrete Lounge](images/16047431632_455db578f4_n.jpg)](https://www.flickr.com/photos/david_jones/16047431632/in/photolist-qs4hkJ "Concrete Lounge")
+[![Concrete Lounge](https://djon.es/assets/blog/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/images/16047431632_455db578f4_n.jpg)](https://www.flickr.com/photos/david_jones/16047431632/in/photolist-qs4hkJ "Concrete Lounge")
 
 Second, the space needs to offer the affordances necessary for decoration. For example, you're probably not going to be able to re-located the concrete seating in the image to the right.
 
@@ -146,7 +143,7 @@ And that location sucks. As a space it provides far less than what I'd like to p
 
 I used jQuery to change where the "Assessment" item in the left-hand menu pointed to. It now points to a much more useful space for Assessment.
 
-[![tooltip](images/16406027186_2a4210be9a_n.jpg)](https://www.flickr.com/photos/david_jones/16406027186/in/album-72157629278697801/ "tooltip")
+[![tooltip](https://djon.es/assets/blog/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/images/16406027186_2a4210be9a_n.jpg)](https://www.flickr.com/photos/david_jones/16406027186/in/album-72157629278697801/ "tooltip")
 
 ### Renovator
 

@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - website
-date: 2009-01-07 16:38:53+10:00
+date: 2009-01-07 06:38:53
 next:
   text: '"Seven principles of knowledge management and applications to e-learning,
     curriculum design and L&#038;T in universities"'
@@ -9,9 +9,9 @@ next:
 previous:
   text: Reflections and Implications from Webfuse - Domain languages
   url: /blog/2009/01/07/reflections-and-implications-from-webfuse-domain-languages/
+template: blog-post.html
 title: Content, redirects and impact on Google ranking
 type: post
-template: blog-post.html
 ---
 Late last year I [wrote](/blog/2008/12/28/update-on-the-website-move-google-rankings/) that this blog was currently ranked #12 by Google (US-based search) for a search on "david jones".
 

@@ -1,156 +1,154 @@
----
+﻿---
 categories:
 - edc3100
 - elearning
 - ict
 - teaching
-date: 2012-03-30 14:04:21+10:00
+comments:
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: http://wilcoxonblog.wordpress.com
+  content: 'David -
+
+
+    This is why I look forward to your blogs. You are indeed a forward thinker. I
+    can see some of the objections folks will make.  "How can we assign grades when
+    students are doing their own thing?" "It would make the instructor''s job impossible."
+    "The course design would end up a great big monster."
+
+
+    What you''re proposing, then, is the destruction of an entire milieu of current
+    practices. Tough going, but I do believe it is eventually inevitable. As they
+    say about Americans, we end up doing the right thing only after we''ve tried everything
+    else.
+
+
+    Kevin'
+  date: '2012-03-31 01:53:02'
+  date_gmt: '2012-03-30 15:53:02'
+  id: '293'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 60.231.64.154
+  author_url: https://djon.es/blog/
+  content: 'G''day Kevin,
+
+
+    Thanks for the comments, though I don''t think that particular disease is limited
+    to Americans. It''s taken me long enough to see some of this, recent experience
+    has helped.
+
+
+    Translating some vague ideas into action is a whole other question, but the context
+    in which I find myself is probably as good as it gets.  So we''ll see.
+
+
+    David.'
+  date: '2012-03-31 07:58:32'
+  date_gmt: '2012-03-30 21:58:32'
+  id: '294'
+  parent: '293'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Rhett Daniel (@rhettdaniel)
+  author_email: rhettdaniel@twitter.example.com
+  author_ip: 76.73.150.164
+  author_url: http://twitter.com/rhettdaniel
+  content: What are your thoughts relative to teacher training?   We have a lot of
+    focus on the technology, however, educational tech and tech in general is becoming
+    more and more user-friendly.  The bigger challenge may be with the curriculum
+    and pedagogical changes that teachers have to adjust to.
+  date: '2012-04-03 06:40:54'
+  date_gmt: '2012-04-02 20:40:54'
+  id: '295'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.187.106.161
+  author_url: https://djon.es/blog/
+  content: 'Rhett, thanks for the question/comment.
+
+
+    Not sure what context you are talking about in terms of teacher training. The
+    teacher training that I know of hasn''t had much of a focus on the technology.
+    In fact, the course I teach has only just been brought back into the program and
+    from what I''ve seen of the students and their capabilities, it would appear to
+    be needed
+
+
+    That''s not to say the course is focused solely on the technology. Its purpose
+    is more providing a space within which the pre-service teachers can figure out
+    how and why they will start integrating technology into their teaching. The course
+    is increasingly using <a href="http://tpack.org/" rel="nofollow">the TPACK framework</a>
+    as a sense-making device for this. The focus on merging their technological, pedagogical,
+    and content knowledge, or at least starting to.'
+  date: '2012-04-03 08:15:38'
+  date_gmt: '2012-04-02 22:15:38'
+  id: '296'
+  parent: '295'
+  type: comment
+  user_id: '1'
+date: 2012-03-30 04:04:21
 next:
   text: bim2 - status check and what's next
   url: /blog/2012/03/30/bim2-status-check-and-whats-next/
+pingbacks:
+- approved: '1'
+  author: 'Curriculum innovation as an educational technology&nbsp;trend | #classroomtech
+    | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/classroomtech/p/1635207629/curriculum-innovation-as-an-educational-technology-trend
+  content: '[...] background-position: 50% 0px ; background-color:#222222; background-repeat
+    : no-repeat; }           davidtjones.wordpress.com  - Today, 4:06 [...]'
+  date: '2012-04-20 19:07:03'
+  date_gmt: '2012-04-20 09:07:03'
+  id: '297'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Curriculum innovation as an educational technology trend | One Change a
+    Day
+  author_email: null
+  author_ip: 76.74.254.60
+  author_url: http://moocblogcalendar.wordpress.com/2012/04/20/curriculum-innovation-as-an-educational-technology-trend/
+  content: '[...] In full Share this:TwitterFacebookEmailPrintLinkedInPinterestTumblrStumbleUponDiggRedditLike
+    this:LikeBe the first to like this post. [...]'
+  date: '2012-04-22 10:06:56'
+  date_gmt: '2012-04-22 00:06:56'
+  id: '298'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '#Change11 #CCK12 Technology and design in teaching | Learner Weblog'
+  author_email: null
+  author_ip: 207.198.101.72
+  author_url: http://suifaijohnmak.wordpress.com/2013/07/13/change11-cck12-technology-and-design-in-teaching/
+  content: "[&#8230;] about the reality, as\_pointed\_out by David [&#8230;]"
+  date: '2013-07-13 10:40:33'
+  date_gmt: '2013-07-13 00:40:33'
+  id: '299'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What are the really useful analytics?
   url: /blog/2012/03/29/what-are-the-really-useful-analytics/
+template: blog-post.html
 title: Curriculum innovation as an educational technology trend
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: http://wilcoxonblog.wordpress.com
-      content: 'David -
-    
-    
-        This is why I look forward to your blogs. You are indeed a forward thinker. I
-        can see some of the objections folks will make.  "How can we assign grades when
-        students are doing their own thing?" "It would make the instructor''s job impossible."
-        "The course design would end up a great big monster."
-    
-    
-        What you''re proposing, then, is the destruction of an entire milieu of current
-        practices. Tough going, but I do believe it is eventually inevitable. As they
-        say about Americans, we end up doing the right thing only after we''ve tried everything
-        else.
-    
-    
-        Kevin'
-      date: '2012-03-31 01:53:02'
-      date_gmt: '2012-03-30 15:53:02'
-      id: '293'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 60.231.64.154
-      author_url: https://djon.es/blog/
-      content: 'G''day Kevin,
-    
-    
-        Thanks for the comments, though I don''t think that particular disease is limited
-        to Americans. It''s taken me long enough to see some of this, recent experience
-        has helped.
-    
-    
-        Translating some vague ideas into action is a whole other question, but the context
-        in which I find myself is probably as good as it gets.  So we''ll see.
-    
-    
-        David.'
-      date: '2012-03-31 07:58:32'
-      date_gmt: '2012-03-30 21:58:32'
-      id: '294'
-      parent: '293'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Rhett Daniel (@rhettdaniel)
-      author_email: rhettdaniel@twitter.example.com
-      author_ip: 76.73.150.164
-      author_url: http://twitter.com/rhettdaniel
-      content: What are your thoughts relative to teacher training?   We have a lot of
-        focus on the technology, however, educational tech and tech in general is becoming
-        more and more user-friendly.  The bigger challenge may be with the curriculum
-        and pedagogical changes that teachers have to adjust to.
-      date: '2012-04-03 06:40:54'
-      date_gmt: '2012-04-02 20:40:54'
-      id: '295'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.187.106.161
-      author_url: https://djon.es/blog/
-      content: 'Rhett, thanks for the question/comment.
-    
-    
-        Not sure what context you are talking about in terms of teacher training. The
-        teacher training that I know of hasn''t had much of a focus on the technology.
-        In fact, the course I teach has only just been brought back into the program and
-        from what I''ve seen of the students and their capabilities, it would appear to
-        be needed
-    
-    
-        That''s not to say the course is focused solely on the technology. Its purpose
-        is more providing a space within which the pre-service teachers can figure out
-        how and why they will start integrating technology into their teaching. The course
-        is increasingly using <a href="http://tpack.org/" rel="nofollow">the TPACK framework</a>
-        as a sense-making device for this. The focus on merging their technological, pedagogical,
-        and content knowledge, or at least starting to.'
-      date: '2012-04-03 08:15:38'
-      date_gmt: '2012-04-02 22:15:38'
-      id: '296'
-      parent: '295'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Curriculum innovation as an educational technology&nbsp;trend | #classroomtech
-        | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/classroomtech/p/1635207629/curriculum-innovation-as-an-educational-technology-trend
-      content: '[...] background-position: 50% 0px ; background-color:#222222; background-repeat
-        : no-repeat; }           davidtjones.wordpress.com  - Today, 4:06 [...]'
-      date: '2012-04-20 19:07:03'
-      date_gmt: '2012-04-20 09:07:03'
-      id: '297'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Curriculum innovation as an educational technology trend | One Change a
-        Day
-      author_email: null
-      author_ip: 76.74.254.60
-      author_url: http://moocblogcalendar.wordpress.com/2012/04/20/curriculum-innovation-as-an-educational-technology-trend/
-      content: '[...] In full Share this:TwitterFacebookEmailPrintLinkedInPinterestTumblrStumbleUponDiggRedditLike
-        this:LikeBe the first to like this post. [...]'
-      date: '2012-04-22 10:06:56'
-      date_gmt: '2012-04-22 00:06:56'
-      id: '298'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '#Change11 #CCK12 Technology and design in teaching | Learner Weblog'
-      author_email: null
-      author_ip: 207.198.101.72
-      author_url: http://suifaijohnmak.wordpress.com/2013/07/13/change11-cck12-technology-and-design-in-teaching/
-      content: "[&#8230;] about the reality, as\_pointed\_out by David [&#8230;]"
-      date: '2013-07-13 10:40:33'
-      date_gmt: '2013-07-13 00:40:33'
-      id: '299'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Came across [this post](http://thelearninglot.blogspot.ca/2012/03/five-trends-to-watch-in-educational.html) titled "Five Trends to Watch in Education Technology" via [Stephen Downes' OLDaily](http://www.downes.ca/news/OLDaily.htm). In particular, I was really drawn to trend #1 - the Curriculum. In particular, because it connects with some ideas that have burbling away for the least week or so sparked by some questions [from a colleague](http://apps.usq.edu.au/StaffSearch/default.aspx?staffsearchaction=showdetails&staffsearchrecordid=1496).
 
@@ -174,7 +172,7 @@ These students are split across a number of teaching specialisations, including:
 
 The students come with very different backgrounds in technology - ranging from ex-IT professionals through to "it breaks if I touch it" - and a broad array of ages. See the following graph that shows the age distribution.
 
-[![age Distribution](images/6778531890_e60ddf650c_n.jpg)](http://www.flickr.com/photos/david_jones/6778531890/ "age Distribution by David T Jones, on Flickr")
+[![age Distribution](https://djon.es/assets/blog/2012/03/30/curriculum-innovation-as-an-educational-technology-trend/images/6778531890_e60ddf650c_n.jpg)](http://www.flickr.com/photos/david_jones/6778531890/ "age Distribution by David T Jones, on Flickr")
 
 In addition, the course is nominally a 3rd year course. Which suggests you can assume that the students have two years of study toward an education degree under their belt. Of course, this is not the case. With exemptions/bridging etc there are some students for whom this is their first course at University.
 

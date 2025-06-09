@@ -1,34 +1,31 @@
----
-date: 2009-09-29 13:45:03+10:00
+﻿---
+comments: []
+date: 2009-09-29 03:45:03
 next:
   text: Teaching, academic staff development, mastery and separation
   url: /blog/2009/09/30/teaching-academic-staff-development-mastery-and-separation/
+pingbacks:
+- approved: '1'
+  author: Improving My Teaching &laquo; static id
+  author_email: null
+  author_ip: 66.135.48.206
+  author_url: http://thomasduggan.wordpress.com/2009/10/01/improving-my-teaching/
+  content: "[...] best avenue) about the best route for someone who wants to improve\
+    \ their teaching to take.\_ The response and advice is here, but I thought I would\
+    \ reflect on this advice to see if I am already taking steps towards the right\
+    \ [...]"
+  date: '2009-10-01 12:53:39'
+  date_gmt: '2009-10-01 02:53:39'
+  id: '2772'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'e&#038;i report #4 - 15th to 29th September, 2009'
   url: /blog/2009/09/29/ei-report-4-15th-to-29th-september-2009/
+template: blog-post.html
 title: What's the best route for improving your teaching (post-thesis)?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Improving My Teaching &laquo; static id
-      author_email: null
-      author_ip: 66.135.48.206
-      author_url: http://thomasduggan.wordpress.com/2009/10/01/improving-my-teaching/
-      content: "[...] best avenue) about the best route for someone who wants to improve\
-        \ their teaching to take.\_ The response and advice is here, but I thought I would\
-        \ reflect on this advice to see if I am already taking steps towards the right\
-        \ [...]"
-      date: '2009-10-01 12:53:39'
-      date_gmt: '2009-10-01 02:53:39'
-      id: '2772'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I've just been asked the following question via Twitter
 

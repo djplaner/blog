@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - bim
-date: 2012-12-29 10:41:35+10:00
+comments: []
+date: 2012-12-29 00:41:35
 next:
   text: Backup for BIM 2.0
   url: /blog/2012/12/29/backup-for-bim-2-0/
+pingbacks:
+- approved: '1'
+  author: Major (Moodle) requirements for BIM 2.0 &laquo; The Weblog of (a) David
+    ... | elearning stuff | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/elearning-stuff/p/3892997068/major-moodle-requirements-for-bim-2-0-the-weblog-of-a-david
+  content: '[...] The next step in the development of BIM 2.0 is identifying the list
+    of major (Moodle) requirements that need to be implemented. BIM is a Moodle activity
+    module. Moodle has a range of expectations that such modules are meant ...&nbsp;
+    [...]'
+  date: '2012-12-30 03:56:03'
+  date_gmt: '2012-12-29 17:56:03'
+  id: '545'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Bug fix and to do for BIM
   url: /blog/2012/12/28/bug-fix-and-to-do-for-bim/
+template: blog-post.html
 title: Major (Moodle) requirements for BIM 2.0
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Major (Moodle) requirements for BIM 2.0 &laquo; The Weblog of (a) David
-        ... | elearning stuff | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/elearning-stuff/p/3892997068/major-moodle-requirements-for-bim-2-0-the-weblog-of-a-david
-      content: '[...] The next step in the development of BIM 2.0 is identifying the list
-        of major (Moodle) requirements that need to be implemented. BIM is a Moodle activity
-        module. Moodle has a range of expectations that such modules are meant ...&nbsp;
-        [...]'
-      date: '2012-12-30 03:56:03'
-      date_gmt: '2012-12-29 17:56:03'
-      id: '545'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The next step in the development of [BIM 2.0](/blog/research/bam-blog-aggregation-management/) is identifying the list of major (Moodle) requirements that need to be implemented. BIM is a Moodle [activity module](http://docs.moodle.org/dev/Activity_modules). Moodle has a range of expectations that such modules are meant to meet. The following is an attempt to identify what needs to be done.
 

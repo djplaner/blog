@@ -1,49 +1,46 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-08-12 20:45:57+10:00
+comments: []
+date: 2014-08-12 10:45:57
 next:
   text: Feeling left out of the conversation
   url: /blog/2014/08/14/feeling-left-out-of-the-conversation/
+pingbacks:
+- approved: '1'
+  author: Plans for Week 5 &#8211; a &#8220;rest&#8221; week | An experiment in Networked
+    &amp; Global Learning
+  author_email: null
+  author_ip: 192.0.83.119
+  author_url: http://netgl.wordpress.com/2014/08/13/plans-for-week-5-a-rest-week/
+  content: '[&#8230;] slowly catching up on everyone&#8217;s participation and touching
+    base with [&#8230;]'
+  date: '2014-08-13 17:58:16'
+  date_gmt: '2014-08-13 07:58:16'
+  id: '1026'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Catching up on the NGL participation &#8211; part B | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 66.155.38.24
+  author_url: https://djon.es/blog/2014/08/15/catching-up-on-the-ngl-participation-part-b/
+  content: '[&#8230;] Part B of the NGL catch up. Main focus here will be on the 11
+    participants blogs I haven&#8217;t yet caught up on and a to do [&#8230;]'
+  date: '2014-08-15 12:29:24'
+  date_gmt: '2014-08-15 02:29:24'
+  id: '1027'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Resilience and other implications of technological changes
   url: /blog/2014/08/12/resilience-and-other-implications/
+template: blog-post.html
 title: Catching up on the NGL participation
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Plans for Week 5 &#8211; a &#8220;rest&#8221; week | An experiment in Networked
-        &amp; Global Learning
-      author_email: null
-      author_ip: 192.0.83.119
-      author_url: http://netgl.wordpress.com/2014/08/13/plans-for-week-5-a-rest-week/
-      content: '[&#8230;] slowly catching up on everyone&#8217;s participation and touching
-        base with [&#8230;]'
-      date: '2014-08-13 17:58:16'
-      date_gmt: '2014-08-13 07:58:16'
-      id: '1026'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Catching up on the NGL participation &#8211; part B | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 66.155.38.24
-      author_url: https://djon.es/blog/2014/08/15/catching-up-on-the-ngl-participation-part-b/
-      content: '[&#8230;] Part B of the NGL catch up. Main focus here will be on the 11
-        participants blogs I haven&#8217;t yet caught up on and a to do [&#8230;]'
-      date: '2014-08-15 12:29:24'
-      date_gmt: '2014-08-15 02:29:24'
-      id: '1027'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The last couple of weeks have been just a bit hectic and my participation in the network forming about [the NGL course](http://netgl.wordpress.com/) has been less than I'd aimed for. The following is an attempt to document some of the interesting bits I've missed and sign-post them for further action. It's really just an attempt to experiment with what any participant might need to do in such a course if they wanted to catch up. It's a test to see how well some of the technology has been set up and whether it helps capture most of what's happened.
 

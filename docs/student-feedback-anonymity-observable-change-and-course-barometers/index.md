@@ -1,27 +1,24 @@
----
-date: 2012-03-04 23:08:58+10:00
+﻿---
+comments: []
+date: 2012-03-04 13:08:58
+pingbacks:
+- approved: '1'
+  author: Helping teachers &#8220;know thy students&#8221; | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.100.175
+  author_url: https://davidtjones.wordpress.com/2015/09/15/helping-teachers-know-thy-students/
+  content: '[&#8230;] Student feedback, anonymity, observable change and course&nbsp;barometers
+    [&#8230;]'
+  date: '2015-09-15 10:06:32'
+  date_gmt: '2015-09-15 00:06:32'
+  id: '250'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: Student feedback, anonymity, observable change and course barometers
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Helping teachers &#8220;know thy students&#8221; | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.100.175
-      author_url: https://davidtjones.wordpress.com/2015/09/15/helping-teachers-know-thy-students/
-      content: '[&#8230;] Student feedback, anonymity, observable change and course&nbsp;barometers
-        [&#8230;]'
-      date: '2015-09-15 10:06:32'
-      date_gmt: '2015-09-15 00:06:32'
-      id: '250'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Student feedback, anonymity, observable change and course barometers, World Conference on Educational Multimedia, Hypermedia and Telecommunications, Denver, Colorado, June 2002, pp. 884-889.
 

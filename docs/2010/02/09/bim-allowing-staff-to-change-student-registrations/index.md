@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-02-09 20:25:43+10:00
+date: 2010-02-09 10:25:43
 next:
   text: BIM - misc changes from moodle-train
   url: /blog/2010/02/10/bim-misc-changes-from-moodle-train/
 previous:
   text: BIM - talking to the gradebook
   url: /blog/2010/02/07/bim-talking-to-the-gradebook/
+template: blog-post.html
 title: BIM - Allowing staff to change student registrations
 type: post
-template: blog-post.html
 ---
 BIM is essentially complete and about to go into user testing, however, initial testing suggests that an ability for staff to change the blog students have registered would be a significant benefit during the first couple of weeks. This post describes the design and implementation of this feature.
 

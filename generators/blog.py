@@ -202,6 +202,13 @@ def retrieveBlogItems(blogFolder=BLOG_HOME):
                 fileContent['wikilink'] = re.sub(r"^.*?/([^/]*?)/index.md$", r"\1", str(file))
                 #-- replace any \" with " in title 
                 fileContent['yaml']['title'] = fileContent['yaml']['title'].replace("\\\"", "\"")
+                #-- if date in yaml, convert it to an offset-aware datetime
+                if 'date' in fileContent['yaml']:
+                    #-- convert date to a datetime object
+                    fileContent['yaml']['date'] = fileContent['yaml']['date'].replace(tzinfo=None)
+                    #-- convert date to a datetime object with UTC timezone
+                    fileContent['yaml']['date'] = fileContent['yaml']['date'].astimezone()
+
                 items.append(fileContent)
 
     ## order items by descending date ['yaml']['date']
@@ -529,7 +536,7 @@ def generateItemContent(item, homePage=False):
     if 'coverImage' in item['yaml']:
         coverImage = f"""
     <div class="cover-image">
-        <img src="{relPath}{path}images/{ item['yaml']['coverImage'] }" alt="{ item['yaml']['title'] }" width="100%" height="auto">
+        <img src="{ item['yaml']['coverImage'] }" alt="{ item['yaml']['title'] }" width="100%" height="auto">
     </div>
 """
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - moodleopenbook
-date: 2015-08-03 13:09:12+10:00
+date: 2015-08-03 03:09:12
 next:
   text: Does learning about teaching in formal education match this?
   url: /blog/2015/08/06/does-learning-about-teaching-in-formal-education-match-this/
 previous:
   text: What do &quot;scale&quot; and &quot;mainstreaming&quot; mean in higher education?
   url: /blog/2015/07/29/what-do-scale-and-mainstreaming-mean-in-higher-education/
+template: blog-post.html
 title: An experiment with the oerpub editor
 type: post
-template: blog-post.html
 ---
 The following is a summary of an initial experiment using [the OERPub editor](http://editor.oerpub.org/) with some actual content from a course I'm currently looking after. The aim is to explore what it's like to use this purpose built open textbook editor that relies on github.
 

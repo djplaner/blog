@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bad
 - bricolage
-date: 2014-08-03 22:46:59+10:00
+date: 2014-08-03 12:46:59
 next:
   text: Resilience and other implications of technological changes
   url: /blog/2014/08/12/resilience-and-other-implications/
 previous:
   text: Emergence, improvisation and course design
   url: /blog/2014/07/31/emergence-improvisation-and-course-design/
+template: blog-post.html
 title: '"Bringing the LMS into the network - Experiment # 1 - Activity completion"'
 type: post
-template: blog-post.html
 ---
 The following is the first step in an attempt to modify the [Moodle Activity Viewer](http://damosworld.wordpress.com/2013/08/30/the-moodle-activity-viewer-mav-heatmaps-of-student-activity/) (or at least a local instance). I'd like a modified version of MAV to allow me to
 

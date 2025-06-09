@@ -1,58 +1,55 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-08-12 10:30:05+10:00
+comments:
+- approved: '1'
+  author: Annelise Mitchell
+  author_email: annelisemitchell23@gmail.com
+  author_ip: 122.149.28.12
+  author_url: https://plus.google.com/107957743035578075753
+  content: 'Hi David,
+
+
+    I have experienced the "enterprise" centralised mindset across a number of educational
+    providers and I agree, it was very "clunky," particularly when compared with what
+    my students had access to at home. Although Blackboard, and other similar platforms,
+    are good, when you compare them to other interfaces, which is almost any modern
+    interface on the net, it is slow, cumbersome and really annoying. You mentioned
+    how you cannot reply to student posts via your university interface. What I find
+    annoying is how for about five days now I have not received any emails notifying
+    me about activity on LMS, despite having ticked the boxes asking to be sent notifications.
+    Is this normal?
+
+
+    As a teacher I did end up using platforms like Edmodo to teach as it was so user-friendly
+    and also looked like facebook, which is a plus. I also loved using youtube to
+    teach my content by creating videos and allowing students to watch them in their
+    own time, like a blended learning model. Some students loved this approach but
+    others wanted the traditional paper and pen approach. Nevertheless, I persisted
+    by providing paper copies of everything I did, and it did mean a doubling up,
+    but at least it prevented complaints.
+
+
+    Regards,
+
+    Annelise'
+  date: '2014-08-13 07:45:15'
+  date_gmt: '2014-08-12 21:45:15'
+  id: '1019'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2014-08-12 00:30:05
 next:
   text: Catching up on the NGL participation
   url: /blog/2014/08/12/catching-up-on-the-ngl-participation/
+pingbacks: []
 previous:
   text: 'Bringing the LMS into the network - Experiment # 1 - Activity completion'
   url: /blog/2014/08/03/bringing-the-lms-into-the-network-experiment-1-activity-completion/
+template: blog-post.html
 title: Resilience and other implications of technological changes
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Annelise Mitchell
-      author_email: annelisemitchell23@gmail.com
-      author_ip: 122.149.28.12
-      author_url: https://plus.google.com/107957743035578075753
-      content: 'Hi David,
-    
-    
-        I have experienced the "enterprise" centralised mindset across a number of educational
-        providers and I agree, it was very "clunky," particularly when compared with what
-        my students had access to at home. Although Blackboard, and other similar platforms,
-        are good, when you compare them to other interfaces, which is almost any modern
-        interface on the net, it is slow, cumbersome and really annoying. You mentioned
-        how you cannot reply to student posts via your university interface. What I find
-        annoying is how for about five days now I have not received any emails notifying
-        me about activity on LMS, despite having ticked the boxes asking to be sent notifications.
-        Is this normal?
-    
-    
-        As a teacher I did end up using platforms like Edmodo to teach as it was so user-friendly
-        and also looked like facebook, which is a plus. I also loved using youtube to
-        teach my content by creating videos and allowing students to watch them in their
-        own time, like a blended learning model. Some students loved this approach but
-        others wanted the traditional paper and pen approach. Nevertheless, I persisted
-        by providing paper copies of everything I did, and it did mean a doubling up,
-        but at least it prevented complaints.
-    
-    
-        Regards,
-    
-        Annelise'
-      date: '2014-08-13 07:45:15'
-      date_gmt: '2014-08-12 21:45:15'
-      id: '1019'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 [![Unavailable by David T Jones, on Flickr](https://farm4.static.flickr.com/3867/14704504949_e812261eed_m.jpg)](https://www.flickr.com/photos/david_jones/14704504949/)
 

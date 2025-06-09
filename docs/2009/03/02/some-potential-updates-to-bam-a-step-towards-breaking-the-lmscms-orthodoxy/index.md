@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - bam
 - chapter-2
@@ -9,51 +9,48 @@ categories:
 - psframework
 - thesis
 - webfuse
-date: 2009-03-02 15:39:47+10:00
+comments: []
+date: 2009-03-02 05:39:47
 next:
   text: Further evidence of problems with evaluation of teaching
   url: /blog/2009/03/02/further-evidence-of-problems-with-evaluation-of-teaching/
+pingbacks:
+- approved: '1'
+  author: Getting feeds out of BAM - the first steps &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/03/10/getting-feeds-out-of-bam-the-first-steps/
+  content: '[...] I&#8217;ve been thinking about changes to enable teaching staff
+    to use RSS readers as their primary interface. This post details [...]'
+  date: '2009-03-10 15:37:38'
+  date_gmt: '2009-03-10 05:37:38'
+  id: '2196'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  content: '[...] get finished. I also worked and thought more about BAM and BIM.
+    Must get back to the idea of cooked feeds for BIM. Other vague ideas and interests
+    from that time include: reflective alignment, task [...]'
+  date: '2013-01-24 15:06:13'
+  date_gmt: '2013-01-24 05:06:13'
+  id: '2197'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Reflective problematisation - description of reflection in &quot;reflective
     alignment&quot;?
   url: /blog/2009/03/02/reflective-problematisation-description-of-reflection-in-reflective-alignment/
+template: blog-post.html
 title: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Getting feeds out of BAM - the first steps &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/03/10/getting-feeds-out-of-bam-the-first-steps/
-      content: '[...] I&#8217;ve been thinking about changes to enable teaching staff
-        to use RSS readers as their primary interface. This post details [...]'
-      date: '2009-03-10 15:37:38'
-      date_gmt: '2009-03-10 05:37:38'
-      id: '2196'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
-      content: '[...] get finished. I also worked and thought more about BAM and BIM.
-        Must get back to the idea of cooked feeds for BIM. Other vague ideas and interests
-        from that time include: reflective alignment, task [...]'
-      date: '2013-01-24 15:06:13'
-      date_gmt: '2013-01-24 05:06:13'
-      id: '2197'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [initial design and use](/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) of the [Blog Aggregation Management (BAM) system](/blog/research/bam-blog-aggregation-management/) was, in part, designed to try out approaches that leverage the [protean nature](/blog/2009/02/11/bam-making-e-learning-technology-more-protean/) of information technology. A major part of this is a move to something different, and hopefully better, than the current, broken e-learning orthodoxy within universities that is stuck on the idea of course management systems (CMS - aka learning management systems) as the only possible solution.
 
@@ -67,7 +64,7 @@ One of the assumptions underpinning BAM was to significantly question the abilit
 
 At the moment, BAM provides a management interface for academic staff around existing blogging engines. Actually it is designed so that students can maintain a reflective journal in anything that will produce an RSS feed. The only direct interaction with BAM by students is at the start of term when they register their blog using the interface shown in the next image.
 
-[![BAM blog registration](images/3268716454_881188b8eb_o.png)](http://www.flickr.com/photos/david_jones/3268716454/ "BAM blog registration by David T Jones, on Flickr")
+[![BAM blog registration](https://djon.es/assets/blog/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/images/3268716454_881188b8eb_o.png)](http://www.flickr.com/photos/david_jones/3268716454/ "BAM blog registration by David T Jones, on Flickr")
 
 Academic staff currently use a web-based interface provided by BAM to track student blog registration and posts, view student posts and mark student posts. See the screenshots in this [paper](/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) for what they look like. That is, BAM is still stuck in the CMS orthodoxy.
 

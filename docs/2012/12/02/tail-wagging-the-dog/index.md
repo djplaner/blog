@@ -1,70 +1,68 @@
----
+﻿---
 categories:
 - elearning
 - thesis
-date: 2012-12-02 10:27:47+10:00
+comments:
+- approved: '1'
+  author: Sarah Thorneycroft
+  author_email: sarahthorneycroft@me.com
+  author_ip: 115.70.102.155
+  author_url: http://sarahthorneycroft.com
+  content: 'Conference AV requirements irk me no end. Not only for the reasons you
+    outline above, but for the assumption that everyone will be working with a Powerpoint
+    file. Not only does this restrict you to one format (and the inflexible use of
+    a ''file''), but it restricts you to the use of one proprietary piece of software.
+    Which is complete bollocks. Especially at a conference like Ascilite.
+
+
+    What happens to those who, possessing a little design nous and a Mac, want to
+    use Keynote (or Prezi, if you really have to)? What about those who want to use
+    something web/cloud-based instead? Where''s the catering for presentation from
+    mobile devices? What about those who don''t want to use a slideshow at all? The
+    ppt requirement is outdated and ridiculous.
+
+
+    One of the best AV-support experiences I''ve had was at the Moodlemoot this year
+    - plenty of options, support for BYO, and they even offered Apple TVs so one could
+    airplay their device to the screen and show whatever they wanted. I realise stuff
+    like this is somewhat venue-dependent, but to resign everyone to the use of Microsofted
+    prefab slide decks because it''s the status quo is just lazy IMHO. Edtech conferences
+    really need to pick up their game on this.'
+  date: '2012-12-02 12:02:06'
+  date_gmt: '2012-12-02 02:02:06'
+  id: '516'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-12-02 00:27:47
 next:
   text: Tertiary course design is very poor, and we solve it by "blame the teacher"
   url: /blog/2012/12/05/tertiary-course-design-is-very-poor-and-we-solve-it-by-blame-the-teacher/
+pingbacks:
+- approved: '1'
+  author: '#ascilite2012 technical support and the tail wagging the&nbsp;dog | Web2.0
+    Education | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/web2-0-education/p/3560365477/ascilite2012-technical-support-and-the-tail-wagging-the-dog
+  content: '[...] I&rsquo;m slowly recovering from a week at conferences. First, ASCILITE&rsquo;2012
+    (#ascilite2012) and second the SoLAR Southern Flare Conference (#FlareAus). I
+    was going to spend the week before p...&nbsp; [...]'
+  date: '2012-12-02 18:05:06'
+  date_gmt: '2012-12-02 08:05:06'
+  id: '517'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Enabling academics to apply learning analytics to individual pedagogical
     practice: how and with what impacts?'
   url: /blog/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/
 tags:
 - flareaus
+template: blog-post.html
 title: '"#ascilite2012 technical support and the tail wagging the dog"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Sarah Thorneycroft
-      author_email: sarahthorneycroft@me.com
-      author_ip: 115.70.102.155
-      author_url: http://sarahthorneycroft.com
-      content: 'Conference AV requirements irk me no end. Not only for the reasons you
-        outline above, but for the assumption that everyone will be working with a Powerpoint
-        file. Not only does this restrict you to one format (and the inflexible use of
-        a ''file''), but it restricts you to the use of one proprietary piece of software.
-        Which is complete bollocks. Especially at a conference like Ascilite.
-    
-    
-        What happens to those who, possessing a little design nous and a Mac, want to
-        use Keynote (or Prezi, if you really have to)? What about those who want to use
-        something web/cloud-based instead? Where''s the catering for presentation from
-        mobile devices? What about those who don''t want to use a slideshow at all? The
-        ppt requirement is outdated and ridiculous.
-    
-    
-        One of the best AV-support experiences I''ve had was at the Moodlemoot this year
-        - plenty of options, support for BYO, and they even offered Apple TVs so one could
-        airplay their device to the screen and show whatever they wanted. I realise stuff
-        like this is somewhat venue-dependent, but to resign everyone to the use of Microsofted
-        prefab slide decks because it''s the status quo is just lazy IMHO. Edtech conferences
-        really need to pick up their game on this.'
-      date: '2012-12-02 12:02:06'
-      date_gmt: '2012-12-02 02:02:06'
-      id: '516'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: '#ascilite2012 technical support and the tail wagging the&nbsp;dog | Web2.0
-        Education | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/web2-0-education/p/3560365477/ascilite2012-technical-support-and-the-tail-wagging-the-dog
-      content: '[...] I&rsquo;m slowly recovering from a week at conferences. First, ASCILITE&rsquo;2012
-        (#ascilite2012) and second the SoLAR Southern Flare Conference (#FlareAus). I
-        was going to spend the week before p...&nbsp; [...]'
-      date: '2012-12-02 18:05:06'
-      date_gmt: '2012-12-02 08:05:06'
-      id: '517'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm slowly recovering from a week at conferences. First, [ASCILITE'2012 (#ascilite2012)](http://www.ascilite2012.org/home) and second the [SoLAR Southern Flare Conference (#FlareAus)](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12). I was going to spend the week before preparing, but marking and other tasks intervened. This meant I spent much of the week preparing presentations which meant a couple of late nights and limited social collaboration. Add in a couple of early flights and I'm a little tired and frustrated. This may come through in the following.
 
@@ -86,7 +84,7 @@ Sorry, but no.
 
 To me this is a perfect example of the tail represented by technology and the technologists wagging the dog.
 
-[![Edu Doggy](images/8235400311_3b1215e44e_n.jpg)](http://www.flickr.com/photos/david_jones/8235400311/ "Edu Doggy by David T Jones, on Flickr")
+[![Edu Doggy](https://djon.es/assets/blog/2012/12/02/tail-wagging-the-dog/images/8235400311_3b1215e44e_n.jpg)](http://www.flickr.com/photos/david_jones/8235400311/ "Edu Doggy by David T Jones, on Flickr")
 
 For at least the last 10 years I've been taking laptops to conferences. For me - and many others I know - our process is to work on the presentations until the very last minute due to two main factors. First, we're busy. I didn't get a chance to work directly on my presentation for #ascilite2012 until I left home to travel to Wellington. I didn't really get into my #FlareAus presentation until the night before. Second, we like to incorporate insights, comments and events from the conference. In the hour or so before my #ascilite the conference chair introduced the idea of [FOMO](http://www.statravel.com.au/fomo-guide.htm) to describe MOOCs and other hypes and Neil Selwyn decried the absence of a focus on the present in educational technology research. Both points that resonated strongly with my presentation. I had to work these into the presentation.
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - eei
-date: 2017-03-24 03:41:05+10:00
+date: 2017-03-23 17:41:05
 next:
   text: Understanding systems conditions for sustainable uptake of learning analytics
   url: /blog/2017/04/02/understanding-systems-conditions-for-sustainable-uptake-of-learning-analytics/
 previous:
   text: Observations on university L&T portals
   url: /blog/2017/03/17/observations-on-university-lt-portals/
+template: blog-post.html
 title: WTF(udge) does EEI do?
 type: post
-template: blog-post.html
 ---
 The following a collection of resources associated with a 15 minute presentation to the other teams within USQ's Office for the Advancement of Learning and Teaching (OALT) explaining what people should know about the Educational Excellence & Innovation (EEI) team at this point in time, and what we'd like to know about the other members of OALT.
 

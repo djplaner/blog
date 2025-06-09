@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - quotes
-date: 2009-05-21 22:18:35+10:00
+comments: []
+date: 2009-05-21 12:18:35
 next:
   text: '"Phd Update #12 - some progress, but late"'
   url: /blog/2009/05/23/phd-update-12-some-progress-but-late/
+pingbacks:
+- approved: '1'
+  author: You only get this type of education in class &#8211; mythic attributes of
+    the lecture &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
+  content: '[...] Of course, I&#8217;m not entirely certain this is a quote from Johnson
+    and my assumptions about quotes have previously been proven wrong. [...]'
+  date: '2009-06-09 14:51:51'
+  date_gmt: '2009-06-09 04:51:51'
+  id: '2526'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Learning spaces: expenditure and time spent learning'
   url: /blog/2009/05/21/learning-spaces-expenditure-and-time-spent-learning/
+template: blog-post.html
 title: The perils of re-organisation - Gaius Petronius
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: You only get this type of education in class &#8211; mythic attributes of
-        the lecture &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
-      content: '[...] Of course, I&#8217;m not entirely certain this is a quote from Johnson
-        and my assumptions about quotes have previously been proven wrong. [...]'
-      date: '2009-06-09 14:51:51'
-      date_gmt: '2009-06-09 04:51:51'
-      id: '2526'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 While chasing down some work by [Fullan](http://books.google.com.au/books?hl=en&lr=&id=e4WxLQv0mmMC&oi=fnd&pg=PA245&dq=fullan+nonlinear+change&ots=kBUlGX4Lxt&sig=MNgfIW8wLAT3B8ZiCo-EMuhXYrQ#PPA245,M1) on educational change I came across the following well-known quote that happens to, based on recent experience, have a fair bit of resonance.
 

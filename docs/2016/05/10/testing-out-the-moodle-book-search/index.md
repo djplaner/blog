@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - bad
 - moodleopenbook
-date: 2016-05-10 10:08:04+10:00
+comments: []
+date: 2016-05-10 00:08:04
 next:
   text: '"Testing out the Heatmap #moodle block"'
   url: /blog/2016/05/13/testing-out-the-heatmap-moodle-block/
+pingbacks:
+- approved: '1'
+  author: 'Open Educational Practice: the boring way and more interesting ways &#8211;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.101.48
+  author_url: https://davidtjones.wordpress.com/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/
+  content: '[&#8230;] Even though a solution to this problem had been developed in
+    2009, the institution didn&#8217;t have it installed. It wasn&#8217;t until July
+    2016 that it was installed. [&#8230;]'
+  date: '2016-08-07 09:04:41'
+  date_gmt: '2016-08-06 23:04:41'
+  id: '3349'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: How does BIM allocate blog posts to prompts
   url: /blog/2016/05/09/how-does-bim-allocate-blog-posts-to-prompts/
+template: blog-post.html
 title: Testing out the Moodle search book block
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Open Educational Practice: the boring way and more interesting ways &#8211;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.101.48
-      author_url: https://davidtjones.wordpress.com/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/
-      content: '[&#8230;] Even though a solution to this problem had been developed in
-        2009, the institution didn&#8217;t have it installed. It wasn&#8217;t until July
-        2016 that it was installed. [&#8230;]'
-      date: '2016-08-07 09:04:41'
-      date_gmt: '2016-08-06 23:04:41'
-      id: '3349'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Earlier this year - as part of the [Moodle Open Book project](/blog/the-moodle-open-book-module-project/) - I [made some changes](/blog/2016/01/17/finishing-tweaks-to-moodle-book-search-block/) to [Search Book block](https://github.com/stronk7/moodle-block_search_books) for Moodle. The hope being that my institution might install this on it's Moodle installation, which in turn would allow my students and I to search the ~70 Moodle books that make up the "learning path" for my course.
 
@@ -64,13 +61,13 @@ By default the "search books" block doesn't appear in the test environment.  Ne
 
 ### Search for something certain to be there: edc3100
 
-![Screen Shot 2016-05-10 at 9.31.13 am.png](images/screen-shot-2016-05-10-at-9-31-13-am.png)
+![Screen Shot 2016-05-10 at 9.31.13 am.png](https://djon.es/assets/blog/2016/05/10/testing-out-the-moodle-book-search/images/screen-shot-2016-05-10-at-9-31-13-am.png)
 
 As expected quite a few results.  Quick test of search results reveal finding pages that actually contain the search phrase.
 
 Navigating amongst the different pages of search results appear to work.
 
-![Screen Shot 2016-05-10 at 9.33.26 am.png](images/screen-shot-2016-05-10-at-9-33-26-am.png)
+![Screen Shot 2016-05-10 at 9.33.26 am.png](https://djon.es/assets/blog/2016/05/10/testing-out-the-moodle-book-search/images/screen-shot-2016-05-10-at-9-33-26-am.png)
 
 **Observations:**
 
@@ -79,11 +76,11 @@ Navigating amongst the different pages of search results appear to work.
 
 ### Search for exactly a phrase: **"creative commons"**
 
-![Screen Shot 2016-05-10 at 9.36.43 am.png](images/screen-shot-2016-05-10-at-9-36-43-am.png)
+![Screen Shot 2016-05-10 at 9.36.43 am.png](https://djon.es/assets/blog/2016/05/10/testing-out-the-moodle-book-search/images/screen-shot-2016-05-10-at-9-36-43-am.png)
 
 Significantly more results than I initially expected, and some of the search results (e.g. the second result from the above list - shown below) doesn't actually include the search string in the visible text.
 
-![Screen Shot 2016-05-10 at 9.38.14 am.png](images/screen-shot-2016-05-10-at-9-38-14-am.png)
+![Screen Shot 2016-05-10 at 9.38.14 am.png](https://djon.es/assets/blog/2016/05/10/testing-out-the-moodle-book-search/images/screen-shot-2016-05-10-at-9-38-14-am.png)
 
 But that's because the HTML for the image includes the following HTML. The search string **"creative commons"** appears in the title tag for the image.
 
@@ -98,13 +95,13 @@ But that's because the HTML for the image includes the following HTML. The searc
 
 ### Search for a phrase: **creative commons**
 
-![Screen Shot 2016-05-10 at 9.47.47 am.png](images/screen-shot-2016-05-10-at-9-47-47-am.png)
+![Screen Shot 2016-05-10 at 9.47.47 am.png](https://djon.es/assets/blog/2016/05/10/testing-out-the-moodle-book-search/images/screen-shot-2016-05-10-at-9-47-47-am.png)
 
 As expected returns a few extra results.
 
 ### Search for phrase mixed up: **creative copyright**
 
-![Screen Shot 2016-05-10 at 9.48.53 am.png](images/screen-shot-2016-05-10-at-9-48-53-am.png)Appears to work as expected.
+![Screen Shot 2016-05-10 at 9.48.53 am.png](https://djon.es/assets/blog/2016/05/10/testing-out-the-moodle-book-search/images/screen-shot-2016-05-10-at-9-48-53-am.png)Appears to work as expected.
 
 ### Search for "must include word": **copyright +creative**
 
@@ -112,7 +109,7 @@ Doesn't make any difference to search results to the above.
 
 ### Search for content missing a word: **copyright -creative**
 
-![Screen Shot 2016-05-10 at 9.51.33 am.png](images/screen-shot-2016-05-10-at-9-51-33-am.png) As expected
+![Screen Shot 2016-05-10 at 9.51.33 am.png](https://djon.es/assets/blog/2016/05/10/testing-out-the-moodle-book-search/images/screen-shot-2016-05-10-at-9-51-33-am.png) As expected
 
 ### Exploratory search: **"assignment 3"**
 

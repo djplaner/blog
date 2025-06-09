@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-03-21 08:26:28+10:00
+date: 2011-03-20 22:26:28
 next:
   text: '"Literacy and Numeracy: Week 4"'
   url: /blog/2011/03/21/literacy-and-numeracy-week-4/
@@ -18,9 +18,9 @@ tags:
 - science
 - teaching
 - virginia-tech
+template: blog-post.html
 title: Is high school the next challenge for CS
 type: post
-template: blog-post.html
 ---
 I'm biased, for other reasons I'm in the process of becoming a high school teacher of information technology/maths. That said, it's given me the opportunity to think about a problem from a previous live as a University academic in information systems/information technology.  
   

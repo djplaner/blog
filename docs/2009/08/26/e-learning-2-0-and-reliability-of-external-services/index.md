@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bam
 - elearning
-date: 2009-08-26 09:18:10+10:00
+date: 2009-08-25 23:18:10
 next:
   text: '"PhD Update #22 - one day active, but some movement"'
   url: /blog/2009/08/28/phd-update-22-one-day-active-but-some-movement/
 previous:
   text: Learning requires willingness to suffer injury to one&#039;s self-esteem
   url: /blog/2009/08/25/learning-requires-willingness-to-suffer-injury-to-ones-self-esteem/
+template: blog-post.html
 title: E-Learning 2.0 and reliability of external services
 type: post
-template: blog-post.html
 ---
 [BAM](/blog/research/bam-blog-aggregation-management/) is a little project of mine playing at the edges of post-industrial e-learning. Since 2006 it's been relying on students creating and using blogs provided by external service provides - mostly Wordpress.com.
 

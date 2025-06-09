@@ -1,27 +1,24 @@
----
-date: 2008-10-27 14:09:09+10:00
+﻿---
+comments: []
+date: 2008-10-27 04:09:09
+pingbacks:
+- approved: '1'
+  author: Self-reporting considered harmful? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/12/08/self-reporting-considered-harmful/
+  content: '[...] solution that we played with a little bit, but which never got off
+    the ground was the REACT process. In this process, the problem, possible solutions,
+    the chosen solution and implementation plans [...]'
+  date: '2009-12-08 08:00:57'
+  date_gmt: '2009-12-07 22:00:57'
+  id: '1857'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: REACT Process
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Self-reporting considered harmful? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/12/08/self-reporting-considered-harmful/
-      content: '[...] solution that we played with a little bit, but which never got off
-        the ground was the REACT process. In this process, the problem, possible solutions,
-        the chosen solution and implementation plans [...]'
-      date: '2009-12-08 08:00:57'
-      date_gmt: '2009-12-07 22:00:57'
-      id: '1857'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 One of the features of the [REACT](/blog/research/reflection-evaluation-and-collaboration-in-teaching/) project was that there was a fairly fixed process designed to offer scaffolding to the process and ensure additional input to ideas _before_ implementation.
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - publication
-date: 2010-04-28 14:04:02+10:00
+date: 2010-04-28 04:04:02
 next:
   text: The alignment project as leadership
   url: /blog/2010/04/29/the-alignment-project-as-leadership/
 previous:
   text: Inside out, Outside in or both?
   url: /blog/2010/04/25/inside-out-outside-in-or-both/
+template: blog-post.html
 title: '"The realities of the ERA and L&#038;T support services"'
 type: post
-template: blog-post.html
 ---
 In mid-October last year I blogged about [my search for a research publication outlet](/blog/2009/10/19/choosing-a-publication-outlet/). The conclusion was that in my context, the [Australasian Journal of Education Technology (AJET)](http://ascilite.org.au/ajet/) was probably the best fit. It is an open journal and the first round of the Australian government's [Excellence in Research for Australia (ERA) initiative](http://www.arc.gov.au/era/default.htm) had ranked AJET as an A journal, second only to A\*.
 

@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - research
-date: 2017-05-20 09:05:02+10:00
+date: 2017-05-19 23:05:02
 next:
   text: Emedding plotly graphs in Wordpress posts
   url: /blog/2017/06/17/emedding-plotly-graphs-in-wordpress-posts/
@@ -9,9 +9,9 @@ previous:
   text: Early steps in developing a design system/model for Professional Learning
     Opportunities
   url: /blog/2017/04/26/early-steps-in-developing-a-design-systemmodel-for-professional-learning-opportunities/
+template: blog-post.html
 title: Bye, Bye Mendeley?
 type: post
-template: blog-post.html
 ---
 So, I have a problem. What was a wonderful open source product was bought by a big publisher. I'm an open kind of guy so this has always been a bit disquieting. It recently got a bit worse.
 
@@ -79,7 +79,7 @@ Apparently there are requests in to Google to allow a better integration.
 
 Let's see how the existing method (more [detail here](http://libguides.princeton.edu/c.php?g=84519&p=541292)) works. The following image shows the result. The first line shows the results of adding a bibliography, the second adding a citation. The citation format is not what I'd prefer. So the question is whether it can be changed.
 
-[![Google docs / Zotero usage](images/33953714643_66d3f4e932.jpg)](https://www.flickr.com/photos/david_jones/33953714643/in/dateposted-public/ "Google docs / Zotero usage")
+[![Google docs / Zotero usage](https://djon.es/assets/blog/2017/05/20/bye-bye-mendeley/images/33953714643_66d3f4e932.jpg)](https://www.flickr.com/photos/david_jones/33953714643/in/dateposted-public/ "Google docs / Zotero usage")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 There is some other advice on how to do this a bit more effectively. But it doesn't quite meet the expectations about what citation management really working with Google docs might be. But it is a step up. What about other features?
@@ -105,7 +105,7 @@ With the Zotero account comes an online library, as shown in the following image
 - 6Gb for $USD60 a year.
 - Unlimited for $USD120 a year.
 
-[![Zotero library online](images/34630618481_d995e1e94d.jpg)](https://www.flickr.com/photos/david_jones/34630618481/in/dateposted-public/ "Zotero library online")
+[![Zotero library online](https://djon.es/assets/blog/2017/05/20/bye-bye-mendeley/images/34630618481_d995e1e94d.jpg)](https://www.flickr.com/photos/david_jones/34630618481/in/dateposted-public/ "Zotero library online")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 There are options to control the privacy of the online library: public the entire library; public notes; hide from search engines. I've just changed those settings so that the library (not the notes) is public. You can see [it here](https://www.zotero.org/djplanner/items)

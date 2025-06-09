@@ -1,14 +1,14 @@
----
-date: 2009-09-15 09:27:25+10:00
+﻿---
+date: 2009-09-14 23:27:25
 next:
   text: Reflection and moving on - herding cats and losing weight
   url: /blog/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/
 previous:
   text: Herding cats, losing weight and how to improve learning and teaching
   url: /blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/
+template: blog-post.html
 title: '"e&#038;i report #3 - 1st-15th September"'
 type: post
-template: blog-post.html
 ---
 This is the third in a continuing series of reports summarising what I am doing in [my current position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/
 

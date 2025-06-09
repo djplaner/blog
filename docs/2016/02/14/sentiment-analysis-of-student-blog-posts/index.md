@@ -1,77 +1,74 @@
----
+﻿---
 categories:
 - bad
 - edc3100
 - learninganalytics-elearning
 - pirac
-date: 2016-02-14 11:17:00+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 101.183.231.25
+  author_url: http://elketeaches.wordpress.com
+  content: Hi David. How did you collect the data first?
+  date: '2016-02-17 06:58:58'
+  date_gmt: '2016-02-16 20:58:58'
+  id: '3285'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 101.183.231.25
+  author_url: http://elketeaches.wordpress.com
+  content: I mean, how did you collect the separate original post data? And then fed
+    it through the sentiment function.
+  date: '2016-02-17 07:01:07'
+  date_gmt: '2016-02-16 21:01:07'
+  id: '3286'
+  parent: '3285'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.33
+  author_url: https://djon.es/blog/
+  content: 'I use the <a href="https://davidtjones.wordpress.com/research/bam-blog-aggregation-management/"
+    rel="nofollow">BIM module</a> for Moodle. BIM is a module that I wrote. At the
+    start of semester students create their blog where ever they want and then register
+    it with BIM on the course site. The students then return to their blog and write
+    to their heart''s content.
+
+
+    BIM tracks their blog''s feed and makes a copy of their posts within Moodle. Meaning
+    all the post data is sitting in the Moodle database.
+
+
+    I can''t access the institutional Moodle database directly, I have a local copy
+    of the BIM tables. That''s what I used for the above.'
+  date: '2016-02-17 07:32:52'
+  date_gmt: '2016-02-16 21:32:52'
+  id: '3287'
+  parent: '3285'
+  type: comment
+  user_id: '1'
+date: 2016-02-14 01:17:00
 next:
   text: '"Can video be emedded in ePub exported from #moodle book?"'
   url: /blog/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/
+pingbacks: []
 previous:
   text: Minimalism, constructivism and use of Moodle or any other e-learning tool
   url: /blog/2016/02/11/minimalism-constructivism-and-use-of-moodle-or-anyother-e-learning-tool/
+template: blog-post.html
 title: Sentiment analysis of student blog posts
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 101.183.231.25
-      author_url: http://elketeaches.wordpress.com
-      content: Hi David. How did you collect the data first?
-      date: '2016-02-17 06:58:58'
-      date_gmt: '2016-02-16 20:58:58'
-      id: '3285'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 101.183.231.25
-      author_url: http://elketeaches.wordpress.com
-      content: I mean, how did you collect the separate original post data? And then fed
-        it through the sentiment function.
-      date: '2016-02-17 07:01:07'
-      date_gmt: '2016-02-16 21:01:07'
-      id: '3286'
-      parent: '3285'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.33
-      author_url: https://djon.es/blog/
-      content: 'I use the <a href="https://davidtjones.wordpress.com/research/bam-blog-aggregation-management/"
-        rel="nofollow">BIM module</a> for Moodle. BIM is a module that I wrote. At the
-        start of semester students create their blog where ever they want and then register
-        it with BIM on the course site. The students then return to their blog and write
-        to their heart''s content.
-    
-    
-        BIM tracks their blog''s feed and makes a copy of their posts within Moodle. Meaning
-        all the post data is sitting in the Moodle database.
-    
-    
-        I can''t access the institutional Moodle database directly, I have a local copy
-        of the BIM tables. That''s what I used for the above.'
-      date: '2016-02-17 07:32:52'
-      date_gmt: '2016-02-16 21:32:52'
-      id: '3287'
-      parent: '3285'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 In June last year [I started an exploration](/blog/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/) into the value of sentiment analysis of student blog posts. This morning I've actually gotten it to work. There may be some value, but further exploration is required. Here's the visible representation of what I've done.
 
-The following is a screen shot of the modified ["know thy student" kludge](/blog/2015/09/15/helping-teachers-know-thy-students/) I've implemented for my course. The window shows some details for an individual student from second semester last year (I've blurred out identifying elements). The current focus is on the blog posts the student has written. [![Sentiment analysis of blog posts](images/24713913780_28a2460275.jpg)](https://www.flickr.com/photos/david_jones/24713913780/in/dateposted-public/ "Sentiment analysis of blog posts")
+The following is a screen shot of the modified ["know thy student" kludge](/blog/2015/09/15/helping-teachers-know-thy-students/) I've implemented for my course. The window shows some details for an individual student from second semester last year (I've blurred out identifying elements). The current focus is on the blog posts the student has written. [![Sentiment analysis of blog posts](https://djon.es/assets/blog/2016/02/14/sentiment-analysis-of-student-blog-posts/images/24713913780_28a2460275.jpg)](https://www.flickr.com/photos/david_jones/24713913780/in/dateposted-public/ "Sentiment analysis of blog posts")
 
 Each row in the above corresponds to an individual blog post. It used to show how long ago the post was written, the post's title, and provide a link to the blog post. The modified version has the background colour for the cell modified to represent the sentiment of the blog post content. A red background indicates a negative post, a green background indicates a positive post, and a yellow background indicates somewhere in the middle.
 

@@ -1,140 +1,137 @@
----
+﻿---
 categories:
 - bad
 - pirac
-date: 2016-06-19 11:03:43+10:00
+comments:
+- approved: '1'
+  author: Tony Hirst
+  author_email: tony.hirst@gmail.com
+  author_ip: 86.171.50.1
+  author_url: http://blog.ouseful.info
+  content: 'Hi David
+
+    I was interested to read your comments:-) There are actually various other ways
+    of delivering Jupyter notebooks (I started to collected examples here https://blog.ouseful.info/2014/12/12/seven-ways-of-running-ipython-notebooks/
+    ) but for the FutureLearn we course we were hampered by having to take a DIY approach
+    w/ no funding that would also allow learners to persist their notebooks on a course
+    with a large number of students under further constrains of bandwidth, arbitrary
+    operating system, wide in computer capability, scant scientific computing / programming
+    computer admin skills etc!
+
+    I think the notebooks offer a really promising environment for a wide range of
+    computational science / social science / digital humanities activities. For example,  you
+    can easily use them to create interactive widgets too (though we don''t cover
+    that in the F/L course), eg https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/
+
+    I think it could be useful if s/one like FutureLearn tied up with one of the companies
+    that uses notebooks as part of their online data analytics service and got them
+    to sponsor something like a tmpnb setup, but from I can tell, I''m in a minority
+    of one!
+
+    --tony'
+  date: '2016-06-20 03:25:56'
+  date_gmt: '2016-06-19 17:25:56'
+  id: '3363'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.33
+  author_url: https://djon.es/blog/
+  content: ':) All I know about Jupyter notebooks comes from reading your blog (love
+    your work), and now the experience of the course. Hadn''t realised the course
+    was a DIY effort.  All the more impressive for that. My hat is off to you and
+    your colleagues.
+
+
+    I''m with you. There is a lot of promise here and I''m hoping to play some more.
+    Particularly interested in terms of its application to learning analytics within
+    an institutional setting. Might be sufficient for me to find the time to move
+    from Perl to Python (though I just discovered that there is an IPerl...)'
+  date: '2016-06-20 08:30:18'
+  date_gmt: '2016-06-19 22:30:18'
+  id: '3364'
+  parent: '3363'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Tony Hirst
+  author_email: tony.hirst@gmail.com
+  author_ip: 86.171.50.1
+  author_url: http://blog.ouseful.info
+  content: 'Hi David
+
+
+    The course was a DIY effort in the sense that the programming environment choice
+    was outs and it was up to us as to how to enable the learners to make use of it.
+    The course itself had an editor, media production folk for the interview/video
+    segments with Ruth, production manager, and probably others! Much of the work
+    was done by lead educator Michel Wermelinger.
+
+
+    Re: learning analytics, I did the reflexive thing and tried to use what was covered
+    in the course to analyse the data the platform gives back to us - though in the
+    end I also went passed what the course covered. An example notebook (without any
+    data in it) is linked to from here: https://blog.ouseful.info/2016/04/27/futurelearn-data-doodles-notebook-and-a-reflection-on-unlearning-analytics/
+
+
+    Re: IPerl - yes, another of the really attractive things about Jupyter is the
+    way that the programming language kernel is split from the notebook - so the notebook
+    just represents a particular sort of user interface that can then be used with
+    a variety of languages.
+
+
+    The notebooks are also starting to act like some sort of source medium for other
+    expressions of the code, such as dashboards ( https://github.com/jupyter-incubator/dashboards
+    ) and APIs ( http://blog.ibmjstart.net/2016/01/28/jupyter-notebooks-as-restful-microservices/
+    ).'
+  date: '2016-06-20 18:55:02'
+  date_gmt: '2016-06-20 08:55:02'
+  id: '3365'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.176.217.5
+  author_url: https://djon.es/blog/
+  content: Thanks Tony.  As it happens I'm working with some colleagues around analytics
+    at the moment and have started wondering about the notebooks as a method to help
+    them understand and engage with it all.  Though I have to admit I'm <a href="https://davidtjones.wordpress.com/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/"
+    rel="nofollow">biased against the concept of the dashboard</a>.  More reading,
+    thinking, and playing due.
+  date: '2016-06-22 17:04:22'
+  date_gmt: '2016-06-22 07:04:22'
+  id: '3366'
+  parent: '3365'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.176.217.5
+  author_url: https://djon.es/blog/
+  content: Mmmm, notebooks as APIs, very interesting given my espoused bias.
+  date: '2016-06-22 17:05:55'
+  date_gmt: '2016-06-22 07:05:55'
+  id: '3367'
+  parent: '3365'
+  type: comment
+  user_id: '1'
+date: 2016-06-19 01:03:43
 next:
   text: What is the nature of digital technology? Part 1
   url: /blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/
+pingbacks: []
 previous:
   text: Digital technology ignorance and its implications for learning and teaching
   url: /blog/2016/05/30/digital-technology-ignorance-and-its-implications-for-learning-and-teaching/
+template: blog-post.html
 title: Learn to code for data analyis - step 1
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Tony Hirst
-      author_email: tony.hirst@gmail.com
-      author_ip: 86.171.50.1
-      author_url: http://blog.ouseful.info
-      content: 'Hi David
-    
-        I was interested to read your comments:-) There are actually various other ways
-        of delivering Jupyter notebooks (I started to collected examples here https://blog.ouseful.info/2014/12/12/seven-ways-of-running-ipython-notebooks/
-        ) but for the FutureLearn we course we were hampered by having to take a DIY approach
-        w/ no funding that would also allow learners to persist their notebooks on a course
-        with a large number of students under further constrains of bandwidth, arbitrary
-        operating system, wide in computer capability, scant scientific computing / programming
-        computer admin skills etc!
-    
-        I think the notebooks offer a really promising environment for a wide range of
-        computational science / social science / digital humanities activities. For example,  you
-        can easily use them to create interactive widgets too (though we don''t cover
-        that in the F/L course), eg https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/
-    
-        I think it could be useful if s/one like FutureLearn tied up with one of the companies
-        that uses notebooks as part of their online data analytics service and got them
-        to sponsor something like a tmpnb setup, but from I can tell, I''m in a minority
-        of one!
-    
-        --tony'
-      date: '2016-06-20 03:25:56'
-      date_gmt: '2016-06-19 17:25:56'
-      id: '3363'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.33
-      author_url: https://djon.es/blog/
-      content: ':) All I know about Jupyter notebooks comes from reading your blog (love
-        your work), and now the experience of the course. Hadn''t realised the course
-        was a DIY effort.  All the more impressive for that. My hat is off to you and
-        your colleagues.
-    
-    
-        I''m with you. There is a lot of promise here and I''m hoping to play some more.
-        Particularly interested in terms of its application to learning analytics within
-        an institutional setting. Might be sufficient for me to find the time to move
-        from Perl to Python (though I just discovered that there is an IPerl...)'
-      date: '2016-06-20 08:30:18'
-      date_gmt: '2016-06-19 22:30:18'
-      id: '3364'
-      parent: '3363'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Tony Hirst
-      author_email: tony.hirst@gmail.com
-      author_ip: 86.171.50.1
-      author_url: http://blog.ouseful.info
-      content: 'Hi David
-    
-    
-        The course was a DIY effort in the sense that the programming environment choice
-        was outs and it was up to us as to how to enable the learners to make use of it.
-        The course itself had an editor, media production folk for the interview/video
-        segments with Ruth, production manager, and probably others! Much of the work
-        was done by lead educator Michel Wermelinger.
-    
-    
-        Re: learning analytics, I did the reflexive thing and tried to use what was covered
-        in the course to analyse the data the platform gives back to us - though in the
-        end I also went passed what the course covered. An example notebook (without any
-        data in it) is linked to from here: https://blog.ouseful.info/2016/04/27/futurelearn-data-doodles-notebook-and-a-reflection-on-unlearning-analytics/
-    
-    
-        Re: IPerl - yes, another of the really attractive things about Jupyter is the
-        way that the programming language kernel is split from the notebook - so the notebook
-        just represents a particular sort of user interface that can then be used with
-        a variety of languages.
-    
-    
-        The notebooks are also starting to act like some sort of source medium for other
-        expressions of the code, such as dashboards ( https://github.com/jupyter-incubator/dashboards
-        ) and APIs ( http://blog.ibmjstart.net/2016/01/28/jupyter-notebooks-as-restful-microservices/
-        ).'
-      date: '2016-06-20 18:55:02'
-      date_gmt: '2016-06-20 08:55:02'
-      id: '3365'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.176.217.5
-      author_url: https://djon.es/blog/
-      content: Thanks Tony.  As it happens I'm working with some colleagues around analytics
-        at the moment and have started wondering about the notebooks as a method to help
-        them understand and engage with it all.  Though I have to admit I'm <a href="https://davidtjones.wordpress.com/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/"
-        rel="nofollow">biased against the concept of the dashboard</a>.  More reading,
-        thinking, and playing due.
-      date: '2016-06-22 17:04:22'
-      date_gmt: '2016-06-22 07:04:22'
-      id: '3366'
-      parent: '3365'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.176.217.5
-      author_url: https://djon.es/blog/
-      content: Mmmm, notebooks as APIs, very interesting given my espoused bias.
-      date: '2016-06-22 17:05:55'
-      date_gmt: '2016-06-22 07:05:55'
-      id: '3367'
-      parent: '3365'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 An attempt to start another MOOC.  Learn to code for data analysis from FutureLearn/OUUK.  Interested in this one to perhaps start the migration from Perl to Python as my main vehicle for data munging; and, also to check out the use of Jupyter notebooks as a learning environment.
 

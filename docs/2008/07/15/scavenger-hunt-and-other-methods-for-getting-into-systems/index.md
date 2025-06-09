@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - c2d2
 - elearning
-date: 2008-07-15 06:16:10+10:00
+date: 2008-07-14 20:16:10
 next:
   text: Encouraging use of learning networks - and dealing with me
   url: /blog/2008/07/15/encouraging-use-of-learning-networks-and-dealing-with-me/
 previous:
   text: '&quot;Taxonomies&quot; for understanding applications of educational technology'
   url: /blog/2008/07/14/taxonomies-for-understanding-applications-of-educational-technology/
+template: blog-post.html
 title: Scavenger hunt and other methods for getting into systems
 type: post
-template: blog-post.html
 ---
 Much of what [we do](http://cddu.cqu.edu.au) involves enabling academics (and students) to become familiar with particular technologies. Sufficiently familiar to think about how they can use it in their learning and teaching. We've had to do it with [Blackboard](http://www.slideshare.net/davidj/intro-to-blackboard-for-sowk11012/) and we'll have to do it with [Second Life](http://damosworld.wordpress.com/2008/07/14/second-life-bringing-it-to-the-educators/).
 

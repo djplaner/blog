@@ -1,64 +1,61 @@
----
+﻿---
 categories:
 - indicators
-date: 2012-05-20 15:09:35+10:00
+comments: []
+date: 2012-05-20 05:09:35
 next:
   text: '"Learning Analytics: engaging with and changing learning and teaching"'
   url: /blog/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/
+pingbacks:
+- approved: '1'
+  author: Harnessing learning analytics to inform/improve learning and&nbsp;teaching
+    @djplaner via @pgsimoes | A New Society, a new education! | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/a-new-society-a-new-education/p/1812120480/harnessing-learning-analytics-to-inform-improve-learning-and-teaching-djplaner-via-pgsimoes
+  content: '[...] background-position: 50% 0px ; background-color:#6c5656; background-repeat
+    : no-repeat; }           davidtjones.wordpress.com  - Today, 5:17 [...]'
+  date: '2012-05-20 20:17:45'
+  date_gmt: '2012-05-20 10:17:45'
+  id: '355'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Harnessing learning analytics to inform/improve learning and\_teaching\
+    \ @djplaner via @pgsimoes &laquo; juandon. Innovaci\xF3n y conocimiento"
+  author_email: null
+  author_ip: 72.232.7.68
+  author_url: http://juandomingofarnos.wordpress.com/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching-djplaner-via-pgsimoes/
+  content: "[...] on davidtjones.wordpress.com Valora esto:  Me gusta:Me gustaS\xE9\
+    \ el primero en decir que te gusta esta post. [...]"
+  date: '2012-05-20 20:17:54'
+  date_gmt: '2012-05-20 10:17:54'
+  id: '356'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Learning Analytics: engaging with and changing learning and teaching &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.2.31
+  author_url: https://djon.es/blog/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/
+  content: '[...] following is an attempt to build a bit more on an earlier idea around
+    the use of learning analytics. It&#8217;s an attempt to frame a different approach
+    to the [...]'
+  date: '2012-05-31 11:39:45'
+  date_gmt: '2012-05-31 01:39:45'
+  id: '357'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'A #pstn story, so far'
   url: /blog/2012/05/17/a-pstn-story-so-far/
+template: blog-post.html
 title: Harnessing learning analytics to inform/improve learning and teaching
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Harnessing learning analytics to inform/improve learning and&nbsp;teaching
-        @djplaner via @pgsimoes | A New Society, a new education! | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/a-new-society-a-new-education/p/1812120480/harnessing-learning-analytics-to-inform-improve-learning-and-teaching-djplaner-via-pgsimoes
-      content: '[...] background-position: 50% 0px ; background-color:#6c5656; background-repeat
-        : no-repeat; }           davidtjones.wordpress.com  - Today, 5:17 [...]'
-      date: '2012-05-20 20:17:45'
-      date_gmt: '2012-05-20 10:17:45'
-      id: '355'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Harnessing learning analytics to inform/improve learning and\_teaching\
-        \ @djplaner via @pgsimoes &laquo; juandon. Innovaci\xF3n y conocimiento"
-      author_email: null
-      author_ip: 72.232.7.68
-      author_url: http://juandomingofarnos.wordpress.com/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching-djplaner-via-pgsimoes/
-      content: "[...] on davidtjones.wordpress.com Valora esto:  Me gusta:Me gustaS\xE9\
-        \ el primero en decir que te gusta esta post. [...]"
-      date: '2012-05-20 20:17:54'
-      date_gmt: '2012-05-20 10:17:54'
-      id: '356'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Learning Analytics: engaging with and changing learning and teaching &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.2.31
-      author_url: https://djon.es/blog/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/
-      content: '[...] following is an attempt to build a bit more on an earlier idea around
-        the use of learning analytics. It&#8217;s an attempt to frame a different approach
-        to the [...]'
-      date: '2012-05-31 11:39:45'
-      date_gmt: '2012-05-31 01:39:45'
-      id: '357'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an early attempt to formulate a method by which learning analytics could be used [to make a "Golf GTI"](/blog/2012/05/15/can-learning-analytics-make-a-golf-gti/). The context for this is an attempt to develop a grant application for [an OLT grant](http://www.olt.gov.au/grants-and-projects/programs-and-applications).
 

@@ -1,21 +1,21 @@
----
+﻿---
 categories:
 - bad
 - casa
 - design-theory
 - highereducation
 - innovation
-date: 2019-08-08 07:43:21+10:00
+date: 2019-08-07 21:43:21
 next:
   text: How to share design knowledge in design for digital learning?
   url: /blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/
 previous:
   text: Testing out h5p interactives and tracking
   url: /blog/2019/05/30/testing-out-h5p-interactives-and-tracking/
+template: blog-post.html
 title: '"Exploring knowledge reuse in design for digital learning: tweaks, H5P, constructive
   templates and CASA"'
 type: post
-template: blog-post.html
 ---
 The following has been accepted for presentation at [ASCILITE'2019](https://2020conference.ascilite.org/). It’s based on work described in [earlier blog posts](/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/).
 
@@ -49,7 +49,7 @@ To answer this question an Action Design Research (Sein, Henfridsson, Purao, & R
 
 Figure 1 provides a representation of the ADR four-stage process and the seven principles on which ADR is based. Stages 1 through 3 represent the process through which ensemble digital artefacts are developed, used and evolved within a specific context. The next two sections of this paper describe the emergence of two artefacts developed for the BCI program as they cycled through the first three ADR stages numerous times. The fourth stage of ADR – Formalisation of Learning – aims to abstract the situated knowledge gained during the emergence of digital artefacts into design principles that provide guidance for addressing a class of field problems (Sein et al., 2011). The third section of this paper formalizes the learning gained in the form of six initial design principles structured around the concept of Contextually Appropriate Scaffolding Assemblages (CASA).
 
-[![Action Design Research Method: Stages and Pinciples](images/50829591482_8345bc729b_c.jpg)](https://www.flickr.com/photos/david_jones/50829591482/in/dateposted-public/ "Action Design Research Method: Stages and Pinciples")
+[![Action Design Research Method: Stages and Pinciples](https://djon.es/assets/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/images/50829591482_8345bc729b_c.jpg)](https://www.flickr.com/photos/david_jones/50829591482/in/dateposted-public/ "Action Design Research Method: Stages and Pinciples")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Figure 1 – ADR Method: Stages and Principles (adapted from Sein et al., 2011, p. 41)
@@ -60,7 +60,7 @@ In response to the adoption of a trimester academic calendar, Griffith Universit
 
 To overcome this challenge the Blackboard Learn user community has developed a collection of related solutions (Abhrahamson & Hillman, 2016; Plaisted & Tkachov, 2011) that use Javascript to package the necessary design knowledge into a form that can be used by teachers. Griffith University has for some time used one of these solutions, the Blackboard Tweaks building block (Plaisted & Tkachov, 2011) developed at the Queensland University of Technology. One of the tweaks offered by this building block – the Themed Course Table - has been widely used by teaching staff to generate a tabular representation of course modules (e.g. the right-hand side of Figure 2). However, experience has shown that the level of knowledge required to maintain and update the Themed Course Table can challenge some teaching staff. For example, re-ordering modules can be difficult for some, and the dates commonly used within the table must be manually added and then modified when copied from one offering to another. Finally, the inherently text-based and tabular design of the Themed Course Table is also increasingly dated. This was an important limitation for the Bachelor of Creative Industries. An alternative was required.
 
-| [![Example blackboard content area](images/50829506556_cb71c08432_n.jpg)](https://www.flickr.com/photos/david_jones/50829506556/in/dateposted-public/ "Example blackboard content area") <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   | [![Themed course table](images/50828755178_5e28b3527c_n.jpg)](https://www.flickr.com/photos/david_jones/50828755178/in/dateposted-public/ "Themed course table") <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   |
+| [![Example blackboard content area](https://djon.es/assets/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/images/50829506556_cb71c08432_n.jpg)](https://www.flickr.com/photos/david_jones/50829506556/in/dateposted-public/ "Example blackboard content area") <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   | [![Themed course table](https://djon.es/assets/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/images/50828755178_5e28b3527c_n.jpg)](https://www.flickr.com/photos/david_jones/50828755178/in/dateposted-public/ "Themed course table") <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   |
 | --- | --- |
 
 Figure 2 – Example Blackboard Learn Content Areas: Textual versus Themed Course Table
@@ -73,7 +73,7 @@ Next, a prototype was developed to test how effectively a card-based interface w
 
 Figure 3 shows just two of the six different styles of card-based interface currently supported by the Card Interface. This illustrates a key feature of the original conception of constructive templates - separation of content from presentation (Nanard et al., 1998) – allowing for different representations of the same content. The left-hand image in Figure 3 and the inclusion of dates on some cards illustrates one way the Card Interface supports a forward-oriented approach to design. Initially, the module dates are specified during the configuration of a course site. However, the dates typically only apply to the initial offering of the course and will need to be manually changed for subsequent offerings. To address this the Card Interface knows the trimester weekly dates from the university academic calendar. Dates to be included on the Card Interface can then be provided using the week number (e.g. Week 1, Week 5 etc.). The Card Interface identifies the trimester a course offering belongs to and translates all week numbers into the appropriate calendar dates.
 
-| [![view](images/46280738772_4f7a9ee623_n.jpg)](https://www.flickr.com/photos/david_jones/46280738772/in/dateposted-public/ "view") <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   | [![ANother card interface](images/50829502381_b7849dfda2_n.jpg)](https://www.flickr.com/photos/david_jones/50829502381/in/dateposted-public/ "ANother card interface") <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   |
+| [![view](https://djon.es/assets/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/images/46280738772_4f7a9ee623_n.jpg)](https://www.flickr.com/photos/david_jones/46280738772/in/dateposted-public/ "view") <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   | [![ANother card interface](https://djon.es/assets/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/images/50829502381_b7849dfda2_n.jpg)](https://www.flickr.com/photos/david_jones/50829502381/in/dateposted-public/ "ANother card interface") <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   |
 | --- | --- |
 
 Figure 3 – Two early visualisations of the Card Interface
@@ -92,7 +92,7 @@ Observation of, and experience with, the Blackboard interface identified three m
 
 For better or worse, the most common content creation tool for most University staff is Microsoft Word. Anecdotal observation suggests that many staff have adopted the practice of drafting content in Word before copying and pasting it into Blackboard. The Content Interface is designed to transform Word documents into good quality online learning activities and resources (see Figure 4). This is done by using an open source converter to semantically transform Word to HTML that is then copied and pasted into Blackboard. A collection of design knowledge embedded into Javascript then transforms the HTML in several ways. Semantic elements such as activities and readings are visually transformed. All external web links are modified to open in a new tab to avoid a common Blackboard error. The document is transformed into an accordion interface with vertical list of headings that be clicked on to display associated content. This progressive reveal: allows readers to get an overall picture of the module before focusing on the details; provides greater control over how they engage with the content; and is particularly useful on mobile platforms (Budiu, 2015; Loranger, 2014).
 
-| [![Word](images/50098693972_f0054d5904_n.jpg)](https://www.flickr.com/photos/david_jones/50098693972/in/dateposted-public/ "Word") <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   | [![Content Interface](images/50098686822_692a3634c3_n.jpg)](https://www.flickr.com/photos/david_jones/50098686822/in/dateposted-public/ "Content Interface") <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   |
+| [![Word](https://djon.es/assets/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/images/50098693972_f0054d5904_n.jpg)](https://www.flickr.com/photos/david_jones/50098693972/in/dateposted-public/ "Word") <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   | [![Content Interface](https://djon.es/assets/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/images/50098686822_692a3634c3_n.jpg)](https://www.flickr.com/photos/david_jones/50098686822/in/dateposted-public/ "Content Interface") <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   |
 | --- | --- |
 
 Figure 4 – Example Module as a Word document and in the Content Interface in Blackboard

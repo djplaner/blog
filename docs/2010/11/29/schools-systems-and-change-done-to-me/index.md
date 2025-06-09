@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - teaching
-date: 2010-11-29 11:02:25+10:00
+date: 2010-11-29 01:02:25
 next:
   text: More testing for Moodle and BIM versions 2.0
   url: /blog/2010/12/02/more-testing-for-moodle-and-bim-versions-2-0/
 previous:
   text: Charity begins at home, doesn&#039;t it?
   url: /blog/2010/11/28/charity-begins-at-home-doesnt-it/
+template: blog-post.html
 title: Schools, systems and change done to me
 type: post
-template: blog-post.html
 ---
 If you read, listen or watch to a certain sub-section of the media around schools and the education system more broadly it's not hard to come to the conclusion that schools are broken and need to be changed. A couple of recent posts from the feeds I track have got me thinking. George Siemens recently [described](http://www.elearnspace.org/blog/2010/11/26/the-urgent-need-for-educationlearning-tech-entrepreneurs/) his belief that it is so broken that it needs to be changed from the outside, probably by entrepreneurs. [George Couros](http://georgecouros.ca/), speaking from within the systems, has generated some discussion with a [post reflecting on](http://georgecouros.ca/blog/archives/1498) whether or not and why people don't like change. He summarises some of the comments [in this post](http://georgecouros.ca/blog/archives/1500).
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-04-21 12:00:27+10:00
+date: 2011-04-21 02:00:27
 next:
   text: Literacy and Numeracy - Week 6
   url: /blog/2011/04/26/literacy-and-numeracy-week-6/
 previous:
   text: iPhone tracking as a teaching tool
   url: /blog/2011/04/21/iphone-tracking-as-a-teaching-tool/
+template: blog-post.html
 title: '"ICTs for Learning Design: Week 7"'
 type: post
-template: blog-post.html
 ---
 After a couple of weeks focused on assessment, not to mention two assignments which I'm far from happy with, it's time to return to some study. First, the ICTs for Learning Design course and this week the focus is on
 

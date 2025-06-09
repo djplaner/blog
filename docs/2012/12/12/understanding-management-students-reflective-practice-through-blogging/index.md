@@ -1,94 +1,92 @@
----
+﻿---
 categories:
 - thesis
-date: 2012-12-12 09:21:45+10:00
+comments:
+- approved: '1'
+  author: suifaijohnmak
+  author_email: suifaijohnmak@yahoo.com.au
+  author_ip: 60.241.166.115
+  author_url: http://suifaijohnmak.wordpress.com
+  content: Hi David, This sounds interesting to me.  Blogging could be part of  personal
+    reflection tool and is most valuable when the blogger creates posts which helps
+    him or her to grow and develop critical thinking with a deep sense of reflection.  I
+    also think that it would be better for the blogger to suggest his/her way of blogging,
+    in terms of frequency of posting or commenting, rather than guidance through a
+    quota of posts or comments.  This allows a novice blogger to exercise his/her
+    autonomy rather than imposing certain forms of "tyranny" or authority over them.  I
+    like to read and comment of blogs, not because I have to comply with any formal
+    academic requirements, but because of my personal interests.  This is my preference,
+    and I don't think it would necessarily apply to others.  Thanks again for this
+    useful information.  John
+  date: '2012-12-12 21:41:46'
+  date_gmt: '2012-12-12 11:41:46'
+  id: '525'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: 'My interest in this article and in returning to the use of blogging by
+    students in my courses is sparked by the problems I see. The assessment in many
+    courses doesn''t encourage reflection and generally thinking in ways that makes
+    it explicit and enables feedback and discussions.  Too often the assessment is
+    summative and not surprisingly the contributions of many students suffers because
+    of shallow engagement.
+
+
+    Many of the students aren''t engaging critically or reflectively. Especially the
+    case with many pre-service teachers and the role of theory in informing and understanding
+    their practice. The best students do this almost automatically. But there is a
+    large part of the cohort that could benefit from some encouragement and scaffolding.
+
+
+    And that''s what I''m aiming to achieve. Introduce blogging into my course in
+    a way that allows all students to develop the type of practice you engage in very
+    effectively. There will have to be some scaffolding, but finding the balance between
+    being explicit and allowing the space for the really interesting practices to
+    develop is not easy
+
+
+    In fact, perhaps a research question here isn''t how effectively blogging is used
+    within the course, but how long and effectively blogging (and the other practices
+    I''m considering) continues after the course has finished. Does blogging - as
+    a form of reflection and critical thinking - become something the students continue
+    to engage in?'
+  date: '2012-12-13 08:40:02'
+  date_gmt: '2012-12-12 22:40:02'
+  id: '526'
+  parent: '525'
+  type: comment
+  user_id: '1'
+date: 2012-12-11 23:21:45
 next:
   text: Developing personal learning networks for open and social learning
   url: /blog/2012/12/14/4668/
+pingbacks:
+- approved: '1'
+  author: The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.49
+  author_url: https://djon.es/blog/2012/12/14/4668/
+  content: '[...] following is a summary and touch of reflection on Couros (2010)
+    and is the another step in thinking about the design/implementation of a course
+    I&#8217;m working [...]'
+  date: '2012-12-14 12:00:23'
+  date_gmt: '2012-12-14 02:00:23'
+  id: '527'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Can/will learning analytics challenge the current QA mentality of university
     teaching
   url: /blog/2012/12/11/canwill-learning-analytics-challenge-the-current-qa-mentality-of-university-teaching/
+template: blog-post.html
 title: Understanding management students' reflective practice through blogging
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: suifaijohnmak
-      author_email: suifaijohnmak@yahoo.com.au
-      author_ip: 60.241.166.115
-      author_url: http://suifaijohnmak.wordpress.com
-      content: Hi David, This sounds interesting to me.  Blogging could be part of  personal
-        reflection tool and is most valuable when the blogger creates posts which helps
-        him or her to grow and develop critical thinking with a deep sense of reflection.  I
-        also think that it would be better for the blogger to suggest his/her way of blogging,
-        in terms of frequency of posting or commenting, rather than guidance through a
-        quota of posts or comments.  This allows a novice blogger to exercise his/her
-        autonomy rather than imposing certain forms of "tyranny" or authority over them.  I
-        like to read and comment of blogs, not because I have to comply with any formal
-        academic requirements, but because of my personal interests.  This is my preference,
-        and I don't think it would necessarily apply to others.  Thanks again for this
-        useful information.  John
-      date: '2012-12-12 21:41:46'
-      date_gmt: '2012-12-12 11:41:46'
-      id: '525'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: 'My interest in this article and in returning to the use of blogging by
-        students in my courses is sparked by the problems I see. The assessment in many
-        courses doesn''t encourage reflection and generally thinking in ways that makes
-        it explicit and enables feedback and discussions.  Too often the assessment is
-        summative and not surprisingly the contributions of many students suffers because
-        of shallow engagement.
-    
-    
-        Many of the students aren''t engaging critically or reflectively. Especially the
-        case with many pre-service teachers and the role of theory in informing and understanding
-        their practice. The best students do this almost automatically. But there is a
-        large part of the cohort that could benefit from some encouragement and scaffolding.
-    
-    
-        And that''s what I''m aiming to achieve. Introduce blogging into my course in
-        a way that allows all students to develop the type of practice you engage in very
-        effectively. There will have to be some scaffolding, but finding the balance between
-        being explicit and allowing the space for the really interesting practices to
-        develop is not easy
-    
-    
-        In fact, perhaps a research question here isn''t how effectively blogging is used
-        within the course, but how long and effectively blogging (and the other practices
-        I''m considering) continues after the course has finished. Does blogging - as
-        a form of reflection and critical thinking - become something the students continue
-        to engage in?'
-      date: '2012-12-13 08:40:02'
-      date_gmt: '2012-12-12 22:40:02'
-      id: '526'
-      parent: '525'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.49
-      author_url: https://djon.es/blog/2012/12/14/4668/
-      content: '[...] following is a summary and touch of reflection on Couros (2010)
-        and is the another step in thinking about the design/implementation of a course
-        I&#8217;m working [...]'
-      date: '2012-12-14 12:00:23'
-      date_gmt: '2012-12-14 02:00:23'
-      id: '527'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary and perhaps some reflection upon Osman and Koh (2013). It's part of the thinking and reading behind the re-design of the [ICTs and pedagogy course](http://www.usq.edu.au/course/synopses/2013/EDC3100.html) I help teach to pre-service teachers.
 

@@ -1,49 +1,46 @@
----
+﻿---
 categories:
 - bim2
-date: 2012-04-05 15:46:28+10:00
+comments: []
+date: 2012-04-05 05:46:28
 next:
   text: Why learning management systems will probably go away
   url: /blog/2012/04/06/why-learning-management-systems-will-probably-go-away/
+pingbacks:
+- approved: '1'
+  author: bim2 &#8211; working on coordinator &#8211; part 1 &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 72.232.7.18
+  author_url: https://djon.es/blog/2012/04/11/bim2-working-on-coordinator-part-1/
+  content: '[...] More work on bim2, this one starting work on the previously identified
+    tasks. [...]'
+  date: '2012-04-11 21:23:39'
+  date_gmt: '2012-04-11 11:23:39'
+  id: '311'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Bug fix and to do for BIM &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.110
+  author_url: https://djon.es/blog/2012/12/28/bug-fix-and-to-do-for-bim/
+  content: '[...] This post has a list of what was working and not with the coordinator
+    interface and a later post updates some of this. Need to revisit these and start
+    a list in basecamp. [...]'
+  date: '2012-12-28 11:22:10'
+  date_gmt: '2012-12-28 01:22:10'
+  id: '312'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: bim2 - Marker interface
   url: /blog/2012/04/03/bim2-marker-interface/
+template: blog-post.html
 title: bim2 - What's working for coordinator
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: bim2 &#8211; working on coordinator &#8211; part 1 &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 72.232.7.18
-      author_url: https://djon.es/blog/2012/04/11/bim2-working-on-coordinator-part-1/
-      content: '[...] More work on bim2, this one starting work on the previously identified
-        tasks. [...]'
-      date: '2012-04-11 21:23:39'
-      date_gmt: '2012-04-11 11:23:39'
-      id: '311'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Bug fix and to do for BIM &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.110
-      author_url: https://djon.es/blog/2012/12/28/bug-fix-and-to-do-for-bim/
-      content: '[...] This post has a list of what was working and not with the coordinator
-        interface and a later post updates some of this. Need to revisit these and start
-        a list in basecamp. [...]'
-      date: '2012-12-28 11:22:10'
-      date_gmt: '2012-12-28 01:22:10'
-      id: '312'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 More detail on what BIM is [can be found here](/blog/research/bam-blog-aggregation-management/)
 

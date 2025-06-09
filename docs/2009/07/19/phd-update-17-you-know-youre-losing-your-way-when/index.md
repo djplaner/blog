@@ -1,52 +1,49 @@
----
+﻿---
 categories:
 - design-theory
 - phd
 - thesis
-date: 2009-07-19 14:32:50+10:00
+comments: []
+date: 2009-07-19 04:32:50
 next:
   text: '"BAM into Moodle - Step #2: configuration and questions"'
   url: /blog/2009/07/21/bam-into-moodle-step-2-configuration-and-questions/
+pingbacks:
+- approved: '1'
+  author: Build it and they will come &#8211; starting with the institution &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/
+  content: '[...] it and they will come &#8211; starting with the&nbsp;institution  In
+    the last PhD update I outlined a change to tack. I&#8217;ve moved from working
+    on chapter 2 (the lit review) to working [...]'
+  date: '2009-07-26 14:26:22'
+  date_gmt: '2009-07-26 04:26:22'
+  id: '2649'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD update #18 &#8211; moving along &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/07/26/phd-update-18-moving-along/
+  content: '[...] update #18 &#8211; moving&nbsp;along  Last week&#8217;s update reported
+    on a bit of a brick wall that had been struck. Thankfully, the strategies outlined
+    in that [...]'
+  date: '2009-07-26 14:38:08'
+  date_gmt: '2009-07-26 04:38:08'
+  id: '2650'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Leaders and managers - the next bit of People
   url: /blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/
+template: blog-post.html
 title: '"PhD update #17 - You know you''re losing your way when...."'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Build it and they will come &#8211; starting with the institution &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/
-      content: '[...] it and they will come &#8211; starting with the&nbsp;institution  In
-        the last PhD update I outlined a change to tack. I&#8217;ve moved from working
-        on chapter 2 (the lit review) to working [...]'
-      date: '2009-07-26 14:26:22'
-      date_gmt: '2009-07-26 04:26:22'
-      id: '2649'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD update #18 &#8211; moving along &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/07/26/phd-update-18-moving-along/
-      content: '[...] update #18 &#8211; moving&nbsp;along  Last week&#8217;s update reported
-        on a bit of a brick wall that had been struck. Thankfully, the strategies outlined
-        in that [...]'
-      date: '2009-07-26 14:38:08'
-      date_gmt: '2009-07-26 04:38:08'
-      id: '2650'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 It's been a fortnight since the last PhD update due to last weekend's personal, celebratory trip to Adelaide. The time away was useful and has resulted in an insight that's going to change focus for a bit.
 

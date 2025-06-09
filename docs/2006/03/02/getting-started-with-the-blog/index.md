@@ -1,20 +1,16 @@
----
-date: 2006-03-02 10:46:27+10:00
+﻿---
+comments: []
+date: 2006-03-02 00:46:27
 next:
   text: Writing and sending the email to students - using blogs
   url: /blog/2006/03/02/writing-and-sending-the-email-to-students-using-blogs/
+pingbacks: []
 previous:
   text: Home
   url: /blog/index.html
+template: blog-post.html
 title: Getting started with the blog
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 I've just created the new sample student blog for COIT11134.  This is the first post.  I've changed the look for the blog and removed the test post that Wordpress adds automatically.
 

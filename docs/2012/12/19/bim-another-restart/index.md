@@ -1,60 +1,58 @@
----
+﻿---
 categories:
 - bim
-date: 2012-12-19 08:09:46+10:00
+comments:
+- approved: '1'
+  author: Stephen Downes
+  author_email: stephen@downes.ca
+  author_ip: 156.34.62.205
+  author_url: http://downess.wordpress.com
+  content: Do you really think you need 14 (I counted) separate CC licenses for your
+    own images on your own post? Licenses run amok!
+  date: '2012-12-21 11:53:30'
+  date_gmt: '2012-12-21 01:53:30'
+  id: '542'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 118.208.64.188
+  author_url: https://djon.es/blog/
+  content: Probably not. Started using imagecodr on another post with someone else's
+    photo.  Found it easier than the standard flickr process and a bad habit formed.
+  date: '2012-12-23 06:43:17'
+  date_gmt: '2012-12-22 20:43:17'
+  id: '543'
+  parent: '542'
+  type: comment
+  user_id: '1'
+date: 2012-12-18 22:09:46
 next:
   text: Bug fix and to do for BIM
   url: /blog/2012/12/28/bug-fix-and-to-do-for-bim/
+pingbacks:
+- approved: '1'
+  author: Bug fix and to do for BIM &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.110
+  author_url: https://djon.es/blog/2012/12/28/bug-fix-and-to-do-for-bim/
+  content: '[...] work on getting BIM 2.0 up and going. In this post I&#8217;m trying
+    to continue the work from a week or so ago. The main aim is to fix a bug with
+    the manage marking [...]'
+  date: '2012-12-28 11:22:02'
+  date_gmt: '2012-12-28 01:22:02'
+  id: '544'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Why Moneyball is the wrong analogy for learning analytics
   url: /blog/2012/12/17/why-moneyball-is-the-wrong-analogy-for-learning-analytics/
+template: blog-post.html
 title: '"BIM: another restart?"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Stephen Downes
-      author_email: stephen@downes.ca
-      author_ip: 156.34.62.205
-      author_url: http://downess.wordpress.com
-      content: Do you really think you need 14 (I counted) separate CC licenses for your
-        own images on your own post? Licenses run amok!
-      date: '2012-12-21 11:53:30'
-      date_gmt: '2012-12-21 01:53:30'
-      id: '542'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 118.208.64.188
-      author_url: https://djon.es/blog/
-      content: Probably not. Started using imagecodr on another post with someone else's
-        photo.  Found it easier than the standard flickr process and a bad habit formed.
-      date: '2012-12-23 06:43:17'
-      date_gmt: '2012-12-22 20:43:17'
-      id: '543'
-      parent: '542'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Bug fix and to do for BIM &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.110
-      author_url: https://djon.es/blog/2012/12/28/bug-fix-and-to-do-for-bim/
-      content: '[...] work on getting BIM 2.0 up and going. In this post I&#8217;m trying
-        to continue the work from a week or so ago. The main aim is to fix a bug with
-        the manage marking [...]'
-      date: '2012-12-28 11:22:02'
-      date_gmt: '2012-12-28 01:22:02'
-      id: '544'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is essentially an activity log/diary or the first steps of getting back into work on [BIM](/blog/research/bam-blog-aggregation-management/). I'm hoping to have it ready to work with some [course redesign](/blog/2012/12/14/4668/) I'm working on, but timelines may make that difficult.
 

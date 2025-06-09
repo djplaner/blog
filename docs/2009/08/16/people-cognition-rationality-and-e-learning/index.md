@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,78 +6,75 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-08-16 15:11:32+10:00
+comments: []
+date: 2009-08-16 05:11:32
 next:
   text: '"BIM #4: Re-jigging how BIM works"'
   url: /blog/2009/08/17/bim-4-re-jigging-how-bim-works/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #21 &#8211; End in sight for chapter 2 &laquo; The Weblog of
+    (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.206
+  author_url: https://djon.es/blog/2009/08/21/phd-update-21-end-in-sight-for-chapter-2/
+  content: '[...] the People, cognition, rationality and e-learning section of the
+    People [...]'
+  date: '2009-08-21 09:43:21'
+  date_gmt: '2009-08-20 23:43:21'
+  id: '2714'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons for e-learning from people &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.201
+  author_url: https://djon.es/blog/2009/08/17/lessons-for-e-learning-from-people/
+  content: '[...] 2.1.1); the chasm (Section 2.1.2) that exists between the visionaries
+    and the pragmatists; and some notions of rationality (Section 2.1.3). This section
+    draws on those descriptions to identify some potential lessons for [...]'
+  date: '2009-12-22 21:59:02'
+  date_gmt: '2009-12-22 11:59:02'
+  id: '2715'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The dissonance between the constructivist paradigm and the implementation
+    of institutional e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.61.93
+  author_url: https://djon.es/blog/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
+  content: '[...] of management dominantes. Here&#8217;s a quick summary of &#8220;techno-rational&#8221;
+    from part of my thesis A techno-rational discourse seeks the use of quantitative
+    data and measurement to ensure [...]'
+  date: '2011-03-02 22:15:40'
+  date_gmt: '2011-03-02 12:15:40'
+  id: '2716'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'The life and death of Webfuse: lessons for learning and leading into the
+    future &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.2.43
+  author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+  content: '[...] situation &#8211; people are assumed to be rational and the application
+    of logical decomposition that splits people up into sub-groups. Also an [...]'
+  date: '2012-06-22 14:06:36'
+  date_gmt: '2012-06-22 04:06:36'
+  id: '2717'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #20 - Progress, slowness and techno-rationality'
   url: /blog/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/
+template: blog-post.html
 title: People, cognition, rationality and e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #21 &#8211; End in sight for chapter 2 &laquo; The Weblog of
-        (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.206
-      author_url: https://djon.es/blog/2009/08/21/phd-update-21-end-in-sight-for-chapter-2/
-      content: '[...] the People, cognition, rationality and e-learning section of the
-        People [...]'
-      date: '2009-08-21 09:43:21'
-      date_gmt: '2009-08-20 23:43:21'
-      id: '2714'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons for e-learning from people &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.201
-      author_url: https://djon.es/blog/2009/08/17/lessons-for-e-learning-from-people/
-      content: '[...] 2.1.1); the chasm (Section 2.1.2) that exists between the visionaries
-        and the pragmatists; and some notions of rationality (Section 2.1.3). This section
-        draws on those descriptions to identify some potential lessons for [...]'
-      date: '2009-12-22 21:59:02'
-      date_gmt: '2009-12-22 11:59:02'
-      id: '2715'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The dissonance between the constructivist paradigm and the implementation
-        of institutional e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.61.93
-      author_url: https://djon.es/blog/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
-      content: '[...] of management dominantes. Here&#8217;s a quick summary of &#8220;techno-rational&#8221;
-        from part of my thesis A techno-rational discourse seeks the use of quantitative
-        data and measurement to ensure [...]'
-      date: '2011-03-02 22:15:40'
-      date_gmt: '2011-03-02 12:15:40'
-      id: '2716'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'The life and death of Webfuse: lessons for learning and leading into the
-        future &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.2.43
-      author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
-      content: '[...] situation &#8211; people are assumed to be rational and the application
-        of logical decomposition that splits people up into sub-groups. Also an [...]'
-      date: '2012-06-22 14:06:36'
-      date_gmt: '2012-06-22 04:06:36'
-      id: '2717'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the second to last section for the People component of chapter 2 of [my thesis](/blog/research/phd-thesis/). The basic aim of this section is to establish that people are generally not rational and methods that assume that they are, are destined to fail. It's my proposition that most of the organisational approaches to e-learning and, more generally, learning and teaching at universities suffer this flaw.
 

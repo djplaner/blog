@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - elearning
-date: 2011-09-23 10:10:31+10:00
+comments: []
+date: 2011-09-23 00:10:31
 next:
   text: A hassle map for Year 10 mathematics? You can't focus on the negatives?
   url: /blog/2011/09/25/a-hassle-map-for-year-10-mathematics-you-cant-focus-on-the-negatives/
+pingbacks:
+- approved: '1'
+  author: Using the NetSpot Innovation fund to enhance bim &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 216.151.210.18
+  author_url: https://djon.es/blog/2012/08/07/using-the-netspot-innovation-fund-to-enhance-bim/
+  content: '[...] interface. Not gamification itself (that will get a mention later)
+    but rather something more like I talked about here. Designing a good BIM activity
+    is hard. The current interface doesn&#8217;t really help. [...]'
+  date: '2012-08-07 09:24:07'
+  date_gmt: '2012-08-06 23:24:07'
+  id: '133'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A course outline to increase relevance of IPT
   url: /blog/2011/09/22/a-course-outline-to-increase-relevance-of-ipt/
+template: blog-post.html
 title: Can e-learning tools be more like Plants vs Zombies?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Using the NetSpot Innovation fund to enhance bim &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 216.151.210.18
-      author_url: https://djon.es/blog/2012/08/07/using-the-netspot-innovation-fund-to-enhance-bim/
-      content: '[...] interface. Not gamification itself (that will get a mention later)
-        but rather something more like I talked about here. Designing a good BIM activity
-        is hard. The current interface doesn&#8217;t really help. [...]'
-      date: '2012-08-07 09:24:07'
-      date_gmt: '2012-08-06 23:24:07'
-      id: '133'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I've just had a visit from my 6 year-old son. He was jumping out of his skin with excitement and a sense of achievement. Apparently he's just won a "chilli that blows up a whole row of zombies" in [Plants vs Zombies](http://www.popcap.com/games/pvz/web). A game he's been playing on and off for a couple of days without any instruction or reading any documentation. Plants vs Zombies, like most good games, is designed to help a new player learn about the game by playing the game.
 
@@ -46,7 +43,7 @@ Then at a residential school this week at [CQU](http://www.cqu.edu.au/) I heard 
 
 That story arose when I took the following photo of how someone at CQU has taken to prevent this sort of misunderstanding.
 
-[![Alternative to tech identification field guide](images/6167292283_71f5b7b1d3_m.jpg)](http://www.flickr.com/photos/david_jones/6167292283/)
+[![Alternative to tech identification field guide](https://djon.es/assets/blog/2011/09/23/can-e-learning-tools-be-more-like-plants-vs-zombies/images/6167292283_71f5b7b1d3_m.jpg)](http://www.flickr.com/photos/david_jones/6167292283/)
 
 I can like this approach, it's a fairly simple modification of the environment to help novices understand the tool. It is an approach that is somewhat approximate to the approach taken by games designers. Don't expect people to understand how to achieve something with the tool, provide hints/scaffolding into the tool that guides them.
 

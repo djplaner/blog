@@ -1,14 +1,10 @@
----
-date: 2009-01-01 14:10:16+10:00
+﻿---
+comments: []
+date: 2009-01-01 04:10:16
+pingbacks: []
+template: blog-post.html
 title: Providing alternatives for distance education students
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 David Cardnell, David Jones, Sharonn Stewart, Scot Aldred, Providing alternatives for distance education students, in Where is IT&T at? Proceedings of the Australian Computers in Education Conference, Wing Au, Ruth Geer, Bruce White (eds)
 

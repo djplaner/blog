@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - elearning
 - irac
 - learninganalytics-elearning
 - lxdesign
-date: 2015-09-14 11:40:19+10:00
+comments: []
+date: 2015-09-14 01:40:19
 next:
   text: Helping teachers "know thy students"
   url: /blog/2015/09/15/helping-teachers-know-thy-students/
+pingbacks:
+- approved: '1'
+  author: Helping teachers &#8220;know thy students&#8221; | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.100.175
+  author_url: https://davidtjones.wordpress.com/2015/09/15/helping-teachers-know-thy-students/
+  content: '[&#8230;] with the orchestration of learning in the form of process analytics
+    (Lockyer et al, 2013). A link I was thinking about before our [&#8230;]'
+  date: '2015-09-15 10:06:29'
+  date_gmt: '2015-09-15 00:06:29'
+  id: '1426'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Exploring Moodle&#039;s API
   url: /blog/2015/09/13/exploring-moodles-api/
+template: blog-post.html
 title: What might a project combining LX Design and Analaytics look like?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Helping teachers &#8220;know thy students&#8221; | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.100.175
-      author_url: https://davidtjones.wordpress.com/2015/09/15/helping-teachers-know-thy-students/
-      content: '[&#8230;] with the orchestration of learning in the form of process analytics
-        (Lockyer et al, 2013). A link I was thinking about before our [&#8230;]'
-      date: '2015-09-15 10:06:29'
-      date_gmt: '2015-09-15 00:06:29'
-      id: '1426'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In a bit more than an hour I'll be talking to @catspyjamasnz trying to nut out some ideas for a project around LX Design and Learning Analytics. The following is me thinking out loud and working through "my issues".
 

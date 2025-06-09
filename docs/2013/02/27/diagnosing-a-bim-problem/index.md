@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bim2
-date: 2013-02-27 18:11:24+10:00
+comments: []
+date: 2013-02-27 08:11:24
 next:
   text: BIM2 and disable_form_change_checker
   url: /blog/2013/03/03/bim2-and-disable_form_change_checker/
+pingbacks:
+- approved: '1'
+  author: BIM2 and disable_form_change_checker | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.69.24
+  author_url: https://djon.es/blog/2013/03/03/bim2-and-disable_form_change_checker/
+  content: '[...] if they give you a clear and concise explanation you can use. That&#8217;s
+    what happened with the BIM2 problem I blogged about recently. It appears I was
+    using Moodle 2.3.4 the problem was found on Moodle [...]'
+  date: '2013-03-03 18:09:14'
+  date_gmt: '2013-03-03 08:09:14'
+  id: '640'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: And it starts again, edc3100 in 2013
   url: /blog/2013/02/26/and-it-starts-again-edc3100-in-2013/
+template: blog-post.html
 title: Diagnosing a BIM problem
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM2 and disable_form_change_checker | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.69.24
-      author_url: https://djon.es/blog/2013/03/03/bim2-and-disable_form_change_checker/
-      content: '[...] if they give you a clear and concise explanation you can use. That&#8217;s
-        what happened with the BIM2 problem I blogged about recently. It appears I was
-        using Moodle 2.3.4 the problem was found on Moodle [...]'
-      date: '2013-03-03 18:09:14'
-      date_gmt: '2013-03-03 08:09:14'
-      id: '640'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following problem with using BIM has [been reported](/blog/research/bam-blog-aggregation-management/#comment-6088) the following is a record of my attempt to recreate and fix the problem. The problem
 

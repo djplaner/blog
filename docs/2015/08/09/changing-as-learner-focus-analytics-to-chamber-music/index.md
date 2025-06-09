@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - music
 - netgl
-date: 2015-08-09 17:24:45+10:00
+comments: []
+date: 2015-08-09 07:24:45
 next:
   text: Possible sources of an institution's e-learning content problems
   url: /blog/2015/08/13/possible-sources-of-an-institutions-e-learning-content-problems/
+pingbacks:
+- approved: '1'
+  author: As a learner, participation in NGL was useful for me. | charmedlearning
+  author_email: null
+  author_ip: 192.0.80.199
+  author_url: https://charmedlearning.wordpress.com/2015/09/20/as-a-learner-participation-in-ngl-was-useful-for-me/
+  content: '[&#8230;] kraut; how Angela looked at a MOOC on learning how to learn
+    and changed to lucky bamboo; and how David also started with a MOOC and moved
+    to learning a musical piece with his son. Whilst distracted by [&#8230;]'
+  date: '2015-09-20 17:45:27'
+  date_gmt: '2015-09-20 07:45:27'
+  id: '1369'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Does learning about teaching in formal education match this?
   url: /blog/2015/08/06/does-learning-about-teaching-in-formal-education-match-this/
+template: blog-post.html
 title: Changing "as learner" focus - analytics to "chamber music"
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: As a learner, participation in NGL was useful for me. | charmedlearning
-      author_email: null
-      author_ip: 192.0.80.199
-      author_url: https://charmedlearning.wordpress.com/2015/09/20/as-a-learner-participation-in-ngl-was-useful-for-me/
-      content: '[&#8230;] kraut; how Angela looked at a MOOC on learning how to learn
-        and changed to lucky bamboo; and how David also started with a MOOC and moved
-        to learning a musical piece with his son. Whilst distracted by [&#8230;]'
-      date: '2015-09-20 17:45:27'
-      date_gmt: '2015-09-20 07:45:27'
-      id: '1369'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A much delayed blog post that I'm getting out in a hurry now.
 

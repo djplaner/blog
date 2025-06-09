@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - herding-cats
-date: 2010-07-04 12:24:56+10:00
+comments: []
+date: 2010-07-04 02:24:56
 next:
   text: '"Integrating alignment into Moodle and academic practice: A proposal and
     a RFI"'
   url: /blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
+pingbacks:
+- approved: '1'
+  author: 'Integrating alignment into Moodle and academic practice: A proposal and
+    a RFI &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.146
+  author_url: https://djon.es/blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    McGuffins, learning, teaching and&nbsp;universities [...]'
+  date: '2010-07-09 09:26:47'
+  date_gmt: '2010-07-08 23:26:47'
+  id: '3113'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The VLE model and the wrong level of abstraction
   url: /blog/2010/07/04/the-vle-model-and-the-wrong-level-of-abstraction/
+template: blog-post.html
 title: McGuffins, learning, teaching and universities
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Integrating alignment into Moodle and academic practice: A proposal and
-        a RFI &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.146
-      author_url: https://djon.es/blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        McGuffins, learning, teaching and&nbsp;universities [...]'
-      date: '2010-07-09 09:26:47'
-      date_gmt: '2010-07-08 23:26:47'
-      id: '3113'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 D'Arcy Norman suggests that [Edupunk is a McGuffin](http://www.darcynorman.net/2010/07/02/edupunk-is-a-mcguffin/). I like the metaphor. But I think it breaks down a bit, at least in the context I'm interested in.
 

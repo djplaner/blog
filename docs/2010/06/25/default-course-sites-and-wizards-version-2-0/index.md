@@ -1,53 +1,50 @@
----
+﻿---
 categories:
 - chapter-5
 - elearning
 - phd
 - thesis
 - webfuse
-date: 2010-06-25 11:06:29+10:00
+comments: []
+date: 2010-06-25 01:06:29
 next:
   text: An integrated OLE
   url: /blog/2010/06/26/an-integrated-ole/
+pingbacks:
+- approved: '1'
+  author: Default course sites and wizards &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.13.152
+  author_url: https://djon.es/blog/2010/06/07/default-course-sites-and-wizards/
+  content: '[...] course sites and&nbsp;wizards  There is now a version 2.0 of this
+    [...]'
+  date: '2010-06-25 14:28:11'
+  date_gmt: '2010-06-25 04:28:11'
+  id: '3108'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The VLE model and the wrong level of abstraction &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.247.239
+  author_url: https://djon.es/blog/2010/07/04/the-vle-model-and-the-wrong-level-of-abstraction/
+  content: '[...] VLE is almost certainly going to be a component of my ISDT, of my
+    model. This is exactly what the default course site approach attempted to do.
+    Provide a much higher level of abstraction on top of the [...]'
+  date: '2010-07-04 10:24:51'
+  date_gmt: '2010-07-04 00:24:51'
+  id: '3109'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Webfuse as a web publishing tool - 2000 through 2004
   url: /blog/2010/06/22/webfuse-as-a-web-publishing-tool-2000-through-2004/
+template: blog-post.html
 title: Default course sites and wizards - version 2.0
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Default course sites and wizards &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.13.152
-      author_url: https://djon.es/blog/2010/06/07/default-course-sites-and-wizards/
-      content: '[...] course sites and&nbsp;wizards  There is now a version 2.0 of this
-        [...]'
-      date: '2010-06-25 14:28:11'
-      date_gmt: '2010-06-25 04:28:11'
-      id: '3108'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The VLE model and the wrong level of abstraction &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.247.239
-      author_url: https://djon.es/blog/2010/07/04/the-vle-model-and-the-wrong-level-of-abstraction/
-      content: '[...] VLE is almost certainly going to be a component of my ISDT, of my
-        model. This is exactly what the default course site approach attempted to do.
-        Provide a much higher level of abstraction on top of the [...]'
-      date: '2010-07-04 10:24:51'
-      date_gmt: '2010-07-04 00:24:51'
-      id: '3109'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is the second version of an [earlier post](/blog/2010/06/07/default-course-sites-and-wizards/). As I wrote more of the chapter I felt the need to revisit and expand the idea (though the following is still at a rough draft stage). The following describes the rationale and implementation behind the implementation of the default course sites approach within Webfuse. This approach was used at [CQU](http://www.cqu.edu.au/) from 2001 through 2009. It has similarities with what Mark Smithers [calls a minimium online presence policy (MOPP)](http://www.masmithers.com/2010/05/16/the-problem-with-mopps/), though (I think) my take on the value of MOPP differs a little from Mark's. Not surprising given the following.
 
@@ -93,7 +90,7 @@ The next attempt to address this problem was the creation of an automated and ex
 
 The starting point was the design of a common default course site that would be used for all courses. The default course site would use the same structure and look, however, the course site page types would insert information and services relevant to the specific course. The initial default site used a simple hierarchical structure represented in Figure 5.1. A course home page formed the top of the hierarchy with five sub-sections and the hierarchical structure could continue under each of these sub-sections.
 
-[![Webfuse default course site structure](images/4731898674_b6dbba983d_m.jpg)](http://www.flickr.com/photos/david_jones/4731898674/ "Webfuse default course site structure by David T Jones, on Flickr")
+[![Webfuse default course site structure](https://djon.es/assets/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/images/4731898674_b6dbba983d_m.jpg)](http://www.flickr.com/photos/david_jones/4731898674/ "Webfuse default course site structure by David T Jones, on Flickr")
 
 The five sub-sections were:
 
@@ -117,7 +114,7 @@ The initial look and feel for the default course sites is shown in Figure 5.2, w
 3. footer.  
     A small area for various administrative information such as the Webfuse page update link, details of when and how last updated the page, various disclaimers, and generic contact details.
 
-[![Webfuse default course site home page](images/4677807498_7720a2a08d_m.jpg)](http://www.flickr.com/photos/david_jones/4677807498/ "Webfuse default course site home page by David T Jones, on Flickr")
+[![Webfuse default course site home page](https://djon.es/assets/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/images/4677807498_7720a2a08d_m.jpg)](http://www.flickr.com/photos/david_jones/4677807498/ "Webfuse default course site home page by David T Jones, on Flickr")
 
 #### Course page types
 
@@ -160,7 +157,7 @@ The default course site process did create some initial and on-going disquiet ar
 
 This raised an interesting and difficult question of how to balance the faculty's needs to ensure a minimum standard of online presence, with the individual academics' disciplinary and identity needs. The solution adopted by Webfuse was to add the notion of a real course site to the default course site. The CourseHome page type was modified to include a check box, which when selected would create a real course site. The real course site was essentially an empty directory under the home page of the default course site. The academic could then upload whatever they wished into this directory as the real course site. The default course site would then provide an additional link to the real course site in its header. Staff using the real course site facility would often supplement this link with additional pointers. Figure 5.3 shows the home pages for both the default course site and the real course site for a single course from 2002.
 
-| [![Default course site home page](images/4731899882_99e4eb42b9_t.jpg)](http://www.flickr.com/photos/david_jones/4731899882/ "Default course site home page by David T Jones, on Flickr") | [![Real course site home page](images/4731255497_d46117b271_t.jpg)](http://www.flickr.com/photos/david_jones/4731255497/ "Real course site home page by David T Jones, on Flickr") |
+| [![Default course site home page](https://djon.es/assets/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/images/4731899882_99e4eb42b9_t.jpg)](http://www.flickr.com/photos/david_jones/4731899882/ "Default course site home page by David T Jones, on Flickr") | [![Real course site home page](https://djon.es/assets/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/images/4731255497_d46117b271_t.jpg)](http://www.flickr.com/photos/david_jones/4731255497/ "Real course site home page by David T Jones, on Flickr") |
 | --- | --- |
 
 #### Support for on-going change
@@ -182,7 +179,7 @@ From the initial development of the default course site approach in 2001, throug
 
 While the "Web 2.0" course site was implemented as a default site using Webfuse page types, none of the functionality – i.e. discussion, wiki, blog, portfolio and resource sharing - were implemented by Webfuse. Instead, freely available and externally hosted Web 2.0 tools and services provided all of the functionality. For example, each student had a portfolio and a weblog provided by the site http://redbubble.com. The content of the default course site was populated by using BAM (discussed in section 5.3.6) to aggregate RSS feeds (generated by the external tools) which were then parsed and displayed by Javascript functions within the course site pages. Typically students and staff did not visit the default course site, as they could access all content by using a personal news reader to view the RSS feeds.
 
-[![Home page for Web 2.0 course site](images/4677968716_99cc6a2cd0_m.jpg)](http://www.flickr.com/photos/david_jones/4677968716/ "Home page for Web 2.0 course site by David T Jones, on Flickr")
+[![Home page for Web 2.0 course site](https://djon.es/assets/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/images/4677968716_99cc6a2cd0_m.jpg)](http://www.flickr.com/photos/david_jones/4677968716/ "Home page for Web 2.0 course site by David T Jones, on Flickr")
 
 ### References
 

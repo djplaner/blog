@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - bad
 - edc3100
 - elearning
 - learninganalytics-elearning
-date: 2016-03-04 13:33:34+10:00
+comments: []
+date: 2016-03-04 03:33:34
 next:
   text: Producing OPML files for EDC3100 student blogs
   url: /blog/2016/03/06/producing-opml-files-for-edc3100-student-blogs/
+pingbacks:
+- approved: '1'
+  author: Producing OPML files for EDC3100 student blogs &#8211; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.114.98
+  author_url: https://davidtjones.wordpress.com/2016/03/06/producing-opml-files-for-edc3100-student-blogs/
+  content: '[&#8230;] By default the institutional learning environment doesn&#8217;t
+    provide this. That&#8217;s why I had to spend Friday doing this. [&#8230;]'
+  date: '2016-03-06 10:32:30'
+  date_gmt: '2016-03-06 00:32:30'
+  id: '3307'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: PEBKAC, mental model mismatch and ICT
   url: /blog/2016/03/02/pebkac-mental-model-mismatch-and-ict/
+template: blog-post.html
 title: Preparing my digital "learning space"
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Producing OPML files for EDC3100 student blogs &#8211; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.114.98
-      author_url: https://davidtjones.wordpress.com/2016/03/06/producing-opml-files-for-edc3100-student-blogs/
-      content: '[&#8230;] By default the institutional learning environment doesn&#8217;t
-        provide this. That&#8217;s why I had to spend Friday doing this. [&#8230;]'
-      date: '2016-03-06 10:32:30'
-      date_gmt: '2016-03-06 00:32:30'
-      id: '3307'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following documents the (hopefully) last bit of extra work I have to undertake to prepare the digital "learning space" for [EDC3100, ICT and Pedagogy](http://www.usq.edu.au/course/synopses/2016/EDC3100.html). It's work that has taken most of my working day. At a time when I can't really afford it.  But it's time I have to spend if I want to engage effectively in one of the most fundamental activities in teaching - know thy student.
 
@@ -42,25 +39,25 @@ The work I've done today allows me to easily access from within the main digital
 
 It's also an example of how the [BAD mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) is able to work around the significant constraints caused by the SET mindset and in the process create [shadow systems](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/), which in turn illustrates the presence of a gap (i.e. yawning chasm) between what is provided and what is required.
 
-[![The shadow system gap](images/27862605330_e4a688894d.jpg)](https://www.flickr.com/photos/david_jones/27862605330/in/dateposted-public/ "The shadow system gap")Adapted from Behrens and Sedera (2004)
+[![The shadow system gap](https://djon.es/assets/blog/2016/03/04/preparing-my-digital-learning-space/images/27862605330_e4a688894d.jpg)](https://www.flickr.com/photos/david_jones/27862605330/in/dateposted-public/ "The shadow system gap")Adapted from Behrens and Sedera (2004)
 
 ### What are they studying? What have they done before?
 
 This student is studying Early Childhood education. They've completed 21 prior courses, but 5 of those were exemptions. I can see their GPA (blurred out below). They are studying via the online mode and is located in Queensland.
 
-[![Screen Shot 2016-03-04 at 1.17.07 pm](images/24861279613_c6d102a548.jpg)](https://www.flickr.com/photos/david_jones/24861279613/in/dateposted-public/ "Screen Shot 2016-03-04 at 1.17.07 pm")
+[![Screen Shot 2016-03-04 at 1.17.07 pm](https://djon.es/assets/blog/2016/03/04/preparing-my-digital-learning-space/images/24861279613_c6d102a548.jpg)](https://www.flickr.com/photos/david_jones/24861279613/in/dateposted-public/ "Screen Shot 2016-03-04 at 1.17.07 pm")
 
 ### How much of the course activities they've completed and when
 
 This particular student is about half way through the first week's material. They made that progress about 5 days ago. Looks like the "sharing, reflecting and connecting" resource took a while for them to complete. More so than the others - almost two hours
 
-[![Screen Shot 2016-03-04 at 1.17.15 pm](images/25369540732_9d3ebf4562.jpg)](https://www.flickr.com/photos/david_jones/25369540732/in/dateposted-public/ "Screen Shot 2016-03-04 at 1.17.15 pm")
+[![Screen Shot 2016-03-04 at 1.17.15 pm](https://djon.es/assets/blog/2016/03/04/preparing-my-digital-learning-space/images/25369540732_9d3ebf4562.jpg)](https://www.flickr.com/photos/david_jones/25369540732/in/dateposted-public/ "Screen Shot 2016-03-04 at 1.17.15 pm")
 
 ### What they've written on their blog and how they are "feeling"?
 
 This student has written two blog posts. Both are fairly positive in the sentiment they express. Through the second is a little less positive in outlook.
 
-[![Screen Shot 2016-03-04 at 1.26.04 pm](images/25461869196_3cbc672d6b.jpg)](https://www.flickr.com/photos/david_jones/25461869196/in/dateposted-public/ "Screen Shot 2016-03-04 at 1.26.04 pm")
+[![Screen Shot 2016-03-04 at 1.26.04 pm](https://djon.es/assets/blog/2016/03/04/preparing-my-digital-learning-space/images/25461869196_3cbc672d6b.jpg)](https://www.flickr.com/photos/david_jones/25461869196/in/dateposted-public/ "Screen Shot 2016-03-04 at 1.26.04 pm")
 
 ## Reasons for the post
 

@@ -1,10 +1,9 @@
----
-title: "About this blog - and its limitations"
-type: page
-date: 2025-04-01 15:37:51+10:00
+﻿---
+date: 2025-04-01 05:37:51
 template: blog-post.html
+title: About this blog - and its limitations
+type: page
 ---
-
 ## Welcome
 
 To my blog (the stream). See the [home page](./index.md) for the latest posts and my [memex site](https://djon.es/memex/) (the garden) for a more iterative and interconnected collection of what I'm think about and doing. 

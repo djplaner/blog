@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20458
 - teaching
-date: 2011-03-10 15:08:44+10:00
+date: 2011-03-10 05:08:44
 next:
   text: '"Week 3: ICTs for Learning Design"'
   url: /blog/2011/03/13/week-3-icts-for-learning-design/
 previous:
   text: 'Week 2: Supportive Learning Environments'
   url: /blog/2011/03/09/week-2-supportive-learning-environments/
+template: blog-post.html
 title: '"Week 2: Literacy and Numeracy"'
 type: post
-template: blog-post.html
 ---
 And lucky last. This is the course I haven't gotten into as much yet, hopefully that can start to change. And today's topic is "A Workplace Focus".
 

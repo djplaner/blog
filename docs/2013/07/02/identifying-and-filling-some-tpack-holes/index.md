@@ -1,253 +1,251 @@
----
+﻿---
 categories:
 - bim
 - design-theory
 - elearning
-date: 2013-07-02 15:00:40+10:00
+comments:
+- approved: '1'
+  author: tjhunt
+  author_email: t.j.hunt@open.ac.uk
+  author_ip: 212.159.111.211
+  author_url: null
+  content: 'How you you prepare next semester''s course from this semester''s?
+
+
+    If you use the same course, then the course reset feature (should be in the Settings/Admin
+    block) as the option to shift all the dates in the course to be relative to a
+    new start date.
+
+
+    If you do it by creating a copy of the old course, using backup and restore, then
+    there is an option to apply a similar date shift as part of the restore.'
+  date: '2013-07-02 16:19:02'
+  date_gmt: '2013-07-02 06:19:02'
+  id: '795'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: 'G''day Tim,
+
+
+    The "study schedule" I mention is a HTML file added as a page to the site.  Don''t
+    believe Moodle will help me there.
+
+
+    Central IT copies prior course sites into new ones - on request.
+
+
+    This weeks with the weeks associated with blocks, but it doesn''t help with dates
+    in pages/books and also doesn''t help with the institutional vacation weeks which
+    occur at different times.
+
+
+    The purpose of the above is not to suggest that all individual little holes can
+    be fixed. Happy to suggest that''s an impossibility. But the trend I''m seeing
+    is towards vanilla implementation, no attempt to fix these holes and an assumption
+    that the gaps which exist will get filled manually.
+
+
+    David.'
+  date: '2013-07-02 17:09:22'
+  date_gmt: '2013-07-02 07:09:22'
+  id: '796'
+  parent: '795'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: roibam
+  author_email: mirmidon3215@yahoo.com.mx
+  author_ip: 148.204.154.7
+  author_url: http://virtualikan.wordpress.com
+  content: "No se a ciencia cierta si la experiencia del Profr. Jones se refiera a\
+    \ ver las limitaciones de la plataforma Moodle, o en la forma como \xE9l concibe\
+    \ y supone tendr\xEDa que implementarse el modelo TPACK con los estudiantes, \
+    \ de acuerdo a las condiciones del entorno inmediato de aprendizaje en el aula,\
+    \ que de acuerdo a lo que recaba en dicha experiencia, se\xF1ala que existen posibles\
+    \ huecos en el modelo. En mi opini\xF3n un modelo no puede ser tan perfecto o\
+    \ perfectible, porque m\xE1s bien tiene que adecuarse y contextualizarse a las\
+    \ necesidades curriculares, organizacionales, de gesti\xF3n y administraci\xF3\
+    n del aprendizaje, del enfoque did\xE1ctico a ser implementado, o en todo caso,\
+    \ es que dicho modelo simplemente no se pudo adecuar a las necesidades reales\
+    \ de ense\xF1anza y aprendizaje que quer\xEDa realizar, creo que el modelo es\
+    \ solo un referente tecno pedag\xF3gico que tiene que enriquecerse y complementarse\
+    \ con otros elementos y aspectos de tipo socio cultural."
+  date: '2013-07-05 02:45:08'
+  date_gmt: '2013-07-04 16:45:08'
+  id: '802'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: 'G''day,  Thanks for leaving the first Spanish comment on my blog. My reply
+    is based on Google Translate''s version of your post.  So apologies if something
+    gets lost in the translation.
+
+
+    The aim of the post connects with your point about having to adapt to the context.  This
+    is a key point of my use of TPACK.  The quote I have used from the TPACK authors
+    makes this point.  Here it is with my emphasis added<blockquote>Quality teaching
+    requires developing a <strong>nuanced</strong> understanding of the <strong>complex
+    relationships</strong> between technology, content, and pedagogy, and using this
+    understanding to develop appropriate, <strong>context-specific strategies</strong>
+    and representations. Productive technology integration in teaching needs to consider
+    all three issues not in isolation, but rather within the complex relationships
+    in the system defined by the three key elements.</blockquote>
+
+
+    It''s this idea that good quality learning/teaching occurs when nuanced understanding
+    of the complex relationships between technical, pedagogical and content knowledge
+    is applied to develop context-specific strategies that I draw from TPACK.
+
+
+    The point of the above post is that the practices and tools being used in institutional
+    e-learning are not helping to produce nuanced understandings. The reliance on
+    top-down, analytical approaches fail to enable exploration of the complex relationships
+    between the types of knowledge and also prevent the development of context-specific
+    strategies. The proposition is that if institutional e-learning approaches are
+    failing to do this, then there is no surprise that the quality of institutional
+    e-learning is uneven.
+
+
+    The experiences described above are meant to be illustrative of this problem'
+  date: '2013-07-05 11:01:42'
+  date_gmt: '2013-07-05 01:01:42'
+  id: '803'
+  parent: '802'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: roibam
+  author_email: mirmidon3215@yahoo.com.mx
+  author_ip: 189.137.104.226
+  author_url: http://virtualikan.wordpress.com
+  content: "Al volver a leer tu r\xE9plica y respuesta con argumentos, entiendo que\
+    \ el modelo TPACK tiene carencias en cuanto que no logra especificar c\xF3mo se\
+    \ puede dar la integraci\xF3n de los conocimientos (disciplinarios, pedagogicos\
+    \ y tecnol\xF3gicos), sobre tod si esto se lleva a una pr\xE1ctica \"e-learning\"\
+    \ con la plataforma Moodle, de por si dicha plataforma es muy limitada en cuanto\
+    \ a la administraci\xF3n y gesti\xF3n del aprendizaje, aun en la versi\xF3n 2.5\
+    \ tiene sus l\xEDmites, por eso la necesidad de plantear estrategias que se adec\xFA\
+    en a las necesidades b\xE1sicas de los estudiantes (competencias y experiencias),\
+    \ TPACK no pude ser considerado como un \"enfoque a la medida\", repito tiene\
+    \ que adecuarsen y ajustarse, pero no limitarse aun solo entorno virrtual de aprendizaje\
+    \ (PLN), habr\xEDa que pensar si esto puede relolverese mediante la utilizaci\xF3\
+    n organizada de entornos personales de aprendizaje (PLE), o a trav\xE9s de un\
+    \ modelo de sistemas multi-agente, es decir un \"elearning inteligente\", porque\
+    \ de lo contrario el TPACK se quedar\xEDa en un nivel meramente instrumental,\
+    \ adecuado a sistemas presenciales o mixtos de aprendizaje.\n"
+  date: '2013-07-09 09:30:55'
+  date_gmt: '2013-07-08 23:30:55'
+  id: '805'
+  parent: '803'
+  type: comment
+  user_id: '0'
+date: 2013-07-02 05:00:40
 next:
   text: When is learning analytics not about the students?
   url: /blog/2013/07/02/when-is-learning-analytics-not-about-the-students/
+pingbacks:
+- approved: '1'
+  author: Identifying and filling some TPACK holes | Apre...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/aprendiendo-a-distancia/p/4004081325/identifying-and-filling-some-tpack-holes
+  content: '[&#8230;] The following post started over the weekend. I&#039;m adding
+    this little preface as a result of the wasted hours I spent yesterday battling
+    badly designed systems and the subsequent stories I&#039;ve heard f...&nbsp; [&#8230;]'
+  date: '2013-07-02 20:30:39'
+  date_gmt: '2013-07-02 10:30:39'
+  id: '797'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Identifying and filling some TPACK holes | Educ...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educacion-expandida-aumentada/p/4004071945/identifying-and-filling-some-tpack-holes
+  content: '[&#8230;] The following post started over the weekend. I&#039;m adding
+    this little preface as a result of the wasted hours I spent yesterday battling
+    badly designed systems and the subsequent stories I&#039;ve heard f...&nbsp; [&#8230;]'
+  date: '2013-07-03 00:56:38'
+  date_gmt: '2013-07-02 14:56:38'
+  id: '798'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Identifying and filling some TPACK holes | E-Le...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-inclusivo/p/4004104033/identifying-and-filling-some-tpack-holes
+  content: '[&#8230;] The following post started over the weekend. I&#039;m adding
+    this little preface as a result of the wasted hours I spent yesterday battling
+    badly designed systems and the subsequent stories I&#039;ve heard f...&nbsp; [&#8230;]'
+  date: '2013-07-03 05:29:28'
+  date_gmt: '2013-07-02 19:29:28'
+  id: '799'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The Weblog of David Jones | Identifying and fil...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/flexible-abierta/p/4004107056/the-weblog-of-david-jones-identifying-and-filling-some-tpack-holes
+  content: '[&#8230;] The following post started over the weekend. I&#039;m adding
+    this little preface as a result of the wasted hours I spent yesterday battling
+    badly designed systems and the subsequent stories I&#039;ve heard f...&nbsp; [&#8230;]'
+  date: '2013-07-03 06:50:08'
+  date_gmt: '2013-07-02 20:50:08'
+  id: '800'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Identifying and filling some TPACK holes | Form...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/stem-educacion/p/4004135079/identifying-and-filling-some-tpack-holes
+  content: '[&#8230;] The following post started over the weekend. I&#039;m adding
+    this little preface as a result of the wasted hours I spent yesterday battling
+    badly designed systems and the subsequent stories I&#039;ve heard f...&nbsp; [&#8230;]'
+  date: '2013-07-03 20:05:56'
+  date_gmt: '2013-07-03 10:05:56'
+  id: '801'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Identifying and filling some TPACK holes | miau...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/miaula/p/4004297954/identifying-and-filling-some-tpack-holes
+  content: '[&#8230;] The following post started over the weekend. I&#039;m adding
+    this little preface as a result of the wasted hours I spent yesterday battling
+    badly designed systems and the subsequent stories I&#039;ve heard f...&nbsp; [&#8230;]'
+  date: '2013-07-07 10:06:54'
+  date_gmt: '2013-07-07 00:06:54'
+  id: '804'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Documenting the gap between &quot;start of art&quot; and &quot;state of the
     actual&quot;
   url: /blog/2013/06/20/documenting-the-gap-between-start-of-art-and-state-of-the-actual/
+template: blog-post.html
 title: Identifying and filling some TPACK holes
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: tjhunt
-      author_email: t.j.hunt@open.ac.uk
-      author_ip: 212.159.111.211
-      author_url: null
-      content: 'How you you prepare next semester''s course from this semester''s?
-    
-    
-        If you use the same course, then the course reset feature (should be in the Settings/Admin
-        block) as the option to shift all the dates in the course to be relative to a
-        new start date.
-    
-    
-        If you do it by creating a copy of the old course, using backup and restore, then
-        there is an option to apply a similar date shift as part of the restore.'
-      date: '2013-07-02 16:19:02'
-      date_gmt: '2013-07-02 06:19:02'
-      id: '795'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: 'G''day Tim,
-    
-    
-        The "study schedule" I mention is a HTML file added as a page to the site.  Don''t
-        believe Moodle will help me there.
-    
-    
-        Central IT copies prior course sites into new ones - on request.
-    
-    
-        This weeks with the weeks associated with blocks, but it doesn''t help with dates
-        in pages/books and also doesn''t help with the institutional vacation weeks which
-        occur at different times.
-    
-    
-        The purpose of the above is not to suggest that all individual little holes can
-        be fixed. Happy to suggest that''s an impossibility. But the trend I''m seeing
-        is towards vanilla implementation, no attempt to fix these holes and an assumption
-        that the gaps which exist will get filled manually.
-    
-    
-        David.'
-      date: '2013-07-02 17:09:22'
-      date_gmt: '2013-07-02 07:09:22'
-      id: '796'
-      parent: '795'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: roibam
-      author_email: mirmidon3215@yahoo.com.mx
-      author_ip: 148.204.154.7
-      author_url: http://virtualikan.wordpress.com
-      content: "No se a ciencia cierta si la experiencia del Profr. Jones se refiera a\
-        \ ver las limitaciones de la plataforma Moodle, o en la forma como \xE9l concibe\
-        \ y supone tendr\xEDa que implementarse el modelo TPACK con los estudiantes, \
-        \ de acuerdo a las condiciones del entorno inmediato de aprendizaje en el aula,\
-        \ que de acuerdo a lo que recaba en dicha experiencia, se\xF1ala que existen posibles\
-        \ huecos en el modelo. En mi opini\xF3n un modelo no puede ser tan perfecto o\
-        \ perfectible, porque m\xE1s bien tiene que adecuarse y contextualizarse a las\
-        \ necesidades curriculares, organizacionales, de gesti\xF3n y administraci\xF3\
-        n del aprendizaje, del enfoque did\xE1ctico a ser implementado, o en todo caso,\
-        \ es que dicho modelo simplemente no se pudo adecuar a las necesidades reales\
-        \ de ense\xF1anza y aprendizaje que quer\xEDa realizar, creo que el modelo es\
-        \ solo un referente tecno pedag\xF3gico que tiene que enriquecerse y complementarse\
-        \ con otros elementos y aspectos de tipo socio cultural."
-      date: '2013-07-05 02:45:08'
-      date_gmt: '2013-07-04 16:45:08'
-      id: '802'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: 'G''day,  Thanks for leaving the first Spanish comment on my blog. My reply
-        is based on Google Translate''s version of your post.  So apologies if something
-        gets lost in the translation.
-    
-    
-        The aim of the post connects with your point about having to adapt to the context.  This
-        is a key point of my use of TPACK.  The quote I have used from the TPACK authors
-        makes this point.  Here it is with my emphasis added<blockquote>Quality teaching
-        requires developing a <strong>nuanced</strong> understanding of the <strong>complex
-        relationships</strong> between technology, content, and pedagogy, and using this
-        understanding to develop appropriate, <strong>context-specific strategies</strong>
-        and representations. Productive technology integration in teaching needs to consider
-        all three issues not in isolation, but rather within the complex relationships
-        in the system defined by the three key elements.</blockquote>
-    
-    
-        It''s this idea that good quality learning/teaching occurs when nuanced understanding
-        of the complex relationships between technical, pedagogical and content knowledge
-        is applied to develop context-specific strategies that I draw from TPACK.
-    
-    
-        The point of the above post is that the practices and tools being used in institutional
-        e-learning are not helping to produce nuanced understandings. The reliance on
-        top-down, analytical approaches fail to enable exploration of the complex relationships
-        between the types of knowledge and also prevent the development of context-specific
-        strategies. The proposition is that if institutional e-learning approaches are
-        failing to do this, then there is no surprise that the quality of institutional
-        e-learning is uneven.
-    
-    
-        The experiences described above are meant to be illustrative of this problem'
-      date: '2013-07-05 11:01:42'
-      date_gmt: '2013-07-05 01:01:42'
-      id: '803'
-      parent: '802'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: roibam
-      author_email: mirmidon3215@yahoo.com.mx
-      author_ip: 189.137.104.226
-      author_url: http://virtualikan.wordpress.com
-      content: "Al volver a leer tu r\xE9plica y respuesta con argumentos, entiendo que\
-        \ el modelo TPACK tiene carencias en cuanto que no logra especificar c\xF3mo se\
-        \ puede dar la integraci\xF3n de los conocimientos (disciplinarios, pedagogicos\
-        \ y tecnol\xF3gicos), sobre tod si esto se lleva a una pr\xE1ctica \"e-learning\"\
-        \ con la plataforma Moodle, de por si dicha plataforma es muy limitada en cuanto\
-        \ a la administraci\xF3n y gesti\xF3n del aprendizaje, aun en la versi\xF3n 2.5\
-        \ tiene sus l\xEDmites, por eso la necesidad de plantear estrategias que se adec\xFA\
-        en a las necesidades b\xE1sicas de los estudiantes (competencias y experiencias),\
-        \ TPACK no pude ser considerado como un \"enfoque a la medida\", repito tiene\
-        \ que adecuarsen y ajustarse, pero no limitarse aun solo entorno virrtual de aprendizaje\
-        \ (PLN), habr\xEDa que pensar si esto puede relolverese mediante la utilizaci\xF3\
-        n organizada de entornos personales de aprendizaje (PLE), o a trav\xE9s de un\
-        \ modelo de sistemas multi-agente, es decir un \"elearning inteligente\", porque\
-        \ de lo contrario el TPACK se quedar\xEDa en un nivel meramente instrumental,\
-        \ adecuado a sistemas presenciales o mixtos de aprendizaje.\n"
-      date: '2013-07-09 09:30:55'
-      date_gmt: '2013-07-08 23:30:55'
-      id: '805'
-      parent: '803'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Identifying and filling some TPACK holes | Apre...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/aprendiendo-a-distancia/p/4004081325/identifying-and-filling-some-tpack-holes
-      content: '[&#8230;] The following post started over the weekend. I&#039;m adding
-        this little preface as a result of the wasted hours I spent yesterday battling
-        badly designed systems and the subsequent stories I&#039;ve heard f...&nbsp; [&#8230;]'
-      date: '2013-07-02 20:30:39'
-      date_gmt: '2013-07-02 10:30:39'
-      id: '797'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Identifying and filling some TPACK holes | Educ...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educacion-expandida-aumentada/p/4004071945/identifying-and-filling-some-tpack-holes
-      content: '[&#8230;] The following post started over the weekend. I&#039;m adding
-        this little preface as a result of the wasted hours I spent yesterday battling
-        badly designed systems and the subsequent stories I&#039;ve heard f...&nbsp; [&#8230;]'
-      date: '2013-07-03 00:56:38'
-      date_gmt: '2013-07-02 14:56:38'
-      id: '798'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Identifying and filling some TPACK holes | E-Le...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-inclusivo/p/4004104033/identifying-and-filling-some-tpack-holes
-      content: '[&#8230;] The following post started over the weekend. I&#039;m adding
-        this little preface as a result of the wasted hours I spent yesterday battling
-        badly designed systems and the subsequent stories I&#039;ve heard f...&nbsp; [&#8230;]'
-      date: '2013-07-03 05:29:28'
-      date_gmt: '2013-07-02 19:29:28'
-      id: '799'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The Weblog of David Jones | Identifying and fil...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/flexible-abierta/p/4004107056/the-weblog-of-david-jones-identifying-and-filling-some-tpack-holes
-      content: '[&#8230;] The following post started over the weekend. I&#039;m adding
-        this little preface as a result of the wasted hours I spent yesterday battling
-        badly designed systems and the subsequent stories I&#039;ve heard f...&nbsp; [&#8230;]'
-      date: '2013-07-03 06:50:08'
-      date_gmt: '2013-07-02 20:50:08'
-      id: '800'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Identifying and filling some TPACK holes | Form...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/stem-educacion/p/4004135079/identifying-and-filling-some-tpack-holes
-      content: '[&#8230;] The following post started over the weekend. I&#039;m adding
-        this little preface as a result of the wasted hours I spent yesterday battling
-        badly designed systems and the subsequent stories I&#039;ve heard f...&nbsp; [&#8230;]'
-      date: '2013-07-03 20:05:56'
-      date_gmt: '2013-07-03 10:05:56'
-      id: '801'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Identifying and filling some TPACK holes | miau...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/miaula/p/4004297954/identifying-and-filling-some-tpack-holes
-      content: '[&#8230;] The following post started over the weekend. I&#039;m adding
-        this little preface as a result of the wasted hours I spent yesterday battling
-        badly designed systems and the subsequent stories I&#039;ve heard f...&nbsp; [&#8230;]'
-      date: '2013-07-07 10:06:54'
-      date_gmt: '2013-07-07 00:06:54'
-      id: '804'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following post started over the weekend. I'm adding this little preface as a result of the wasted hours I spent yesterday battling badly designed systems and the subsequent stories I've heard from others today. One of those stories revolved around how the shortening available time and the poorly designed systems is driving one academic to make a change to her course that she knows is pedagogically inappropriate, but which is necessary due to the constraints of these systems.
 
@@ -276,7 +274,7 @@ Cuban's post finishes with three suggested reasons why he thinks doctors and tea
 
 Back from Moodlemoot'AU 2013 and time to finalise results and prepare course sites for next semester. Both are due by Monday. The argument from [my presentation at the Moot](/blog/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/) was that the presence of "TPACK holes" (or misalignment) causes problems. The following is a slide from the talk which illustrates the point.
 
-[![Slide14](images/9161044703_21bc88978f_n.jpg)](http://www.flickr.com/photos/david_jones/9161044703/ "Slide14 by David T Jones, on Flickr")
+[![Slide14](https://djon.es/assets/blog/2013/07/02/identifying-and-filling-some-tpack-holes/images/9161044703_21bc88978f_n.jpg)](http://www.flickr.com/photos/david_jones/9161044703/ "Slide14 by David T Jones, on Flickr")
 
 I'd be surprised if anyone thought this was an earth breaking insight. It's kind of obvious. If this was the case then I wouldn't expect institutional e-learning to be replete with examples of this. The following is an attempt to document some of the TPACK holes I'm experiencing in the tasks I have to complete this weekend. It's also an example of recording the gap outlined [in this post](/blog/2013/06/20/documenting-the-gap-between-start-of-art-and-state-of-the-actual/).
 

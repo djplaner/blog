@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - herding-cats
-date: 2018-04-05 10:23:32+10:00
+date: 2018-04-05 00:23:32
 next:
   text: Repository - differences between Open Source and OER and implications
   url: /blog/2018/04/19/repository-differences-between-open-source-and-oer-and-implications/
@@ -9,9 +9,9 @@ previous:
   text: 'Context-Appropriate Scaffolding Assemblages: A generative learning analytics
     platform for end-user development and participatory design'
   url: /blog/2018/02/02/context-appropriate-scaffolding-assemblages-a-generative-learning-analytics-platform-for-end-user-development-and-participatory-design/
+template: blog-post.html
 title: Some notes on behaviour change and improving L&T
 type: post
-template: blog-post.html
 ---
 The following is really just taking some notes for future use. Related to the idea that attempts to improve learning and teaching within Universities needs to think about more than just workshops, manuals etc. The idea being that the aim isn't to improve the knowledge of learning and teaching of University teachers, it's to help change and improve what they do. Something I've vaguely written [about ages ago](http://djon.es/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/) (though I don't necessarily agree with all of that).
 

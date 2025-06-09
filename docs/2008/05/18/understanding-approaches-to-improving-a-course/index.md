@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - addie
 - c2d2
 - elearning
 - paperideas
-date: 2008-05-18 00:01:03+10:00
+date: 2008-05-17 14:01:03
 next:
   text: We're looking for good people for a PLE project
   url: /blog/2008/06/01/were-looking-for-good-people-for-a-ple-project/
 previous:
   text: Initial thoughts from CogEdge accreditation course
   url: /blog/2008/03/16/initial-thoughts-from-cogedge-accreditation-course/
+template: blog-post.html
 title: Understanding approaches to improving a course
 type: post
-template: blog-post.html
 ---
 Theoretically [the group](http://cddu.cqu.edu.au/) I work with is charged with helping staff at [CQU](http://www.cqu.edu.au/) improve the quality of their learning and teaching. To improve the courses they teach. A task that is not particularly easy for any number of reasons. Including the one identifed by [Farhad Saba](http://edweb.sdsu.edu/people/FSaba/FSaba.html) in this [post](http://www.distance-educator.com/blog/saba/?p=7). i.e. that academics by nature are a fairly solitary bunch and aren't used to, or particularly like, work with other people to help improve a course. I know this from two perspectives, working where I am now and because I was just such an academic.
 
@@ -27,7 +27,7 @@ The following post attempts to formulate a framework to understand the full spec
 
 Within the information systems discipline (and others) two by two frameworks are all rage for this type of thing. So why should I buck the trend. Here's a first stab.
 
-[![framework_nothing-300x195](images/3091789534_297c815bd3_o.png)](http://www.flickr.com/photos/david_jones/3091789534/ "framework_nothing-300x195 by David T Jones, on Flickr")
+[![framework_nothing-300x195](https://djon.es/assets/blog/2008/05/18/understanding-approaches-to-improving-a-course/images/3091789534_297c815bd3_o.png)](http://www.flickr.com/photos/david_jones/3091789534/ "framework_nothing-300x195 by David T Jones, on Flickr")
 
 This framework concentrates on two particular dimensions:
 
@@ -54,7 +54,7 @@ Constructive alignment seeks to change the fundamental design of a course. It ge
 
 The outcomes are pre-determined to some extent. The constructive part of alignment assumes that learning is best achieved when the student is actively constructing meaning. That "pre-determination" still allows for emergent design, as long as it tends to stay within the constraints of the constructive perspective. The alignment component also provides a bit of pre-determination.
 
-[![constructivealignment-300x194](images/3091789704_ec29249e6b_o.png)](http://www.flickr.com/photos/david_jones/3091789704/ "constructivealignment-300x194 by David T Jones, on Flickr")
+[![constructivealignment-300x194](https://djon.es/assets/blog/2008/05/18/understanding-approaches-to-improving-a-course/images/3091789704_ec29249e6b_o.png)](http://www.flickr.com/photos/david_jones/3091789704/ "constructivealignment-300x194 by David T Jones, on Flickr")
 
 ### NCAT Program in Course Re-design
 
@@ -62,7 +62,7 @@ The [NCAT Program in Course Re-design](http://center.rpi.edu/PCR.htm) is also hi
 
 However, a number of the other listed characteristics (e.g. active learning, mastery learning, computer-based learning resources) also act to increase the pre-determination.
 
-[![ncat-300x195](images/3090948551_09e99303d2_o.png)](http://www.flickr.com/photos/david_jones/3090948551/ "ncat-300x195 by David T Jones, on Flickr")
+[![ncat-300x195](https://djon.es/assets/blog/2008/05/18/understanding-approaches-to-improving-a-course/images/3090948551_09e99303d2_o.png)](http://www.flickr.com/photos/david_jones/3090948551/ "ncat-300x195 by David T Jones, on Flickr")
 
 ### ADDIE Model
 
@@ -70,7 +70,7 @@ The [ADDIE Model](http://en.wikipedia.org/wiki/ADDIE_Model) is a generic design 
 
 However, ADDIE doesn't necessarily have to produce a complete re-design. It might just result in a simple and small modification of one aspect. It can range over a broad area of the type of design process dimension.
 
-[![addie-300x196](images/3091790154_99d4e2c111_o.png)](http://www.flickr.com/photos/david_jones/3091790154/ "addie-300x196 by David T Jones, on Flickr")
+[![addie-300x196](https://djon.es/assets/blog/2008/05/18/understanding-approaches-to-improving-a-course/images/3091790154_99d4e2c111_o.png)](http://www.flickr.com/photos/david_jones/3091790154/ "addie-300x196 by David T Jones, on Flickr")
 
 ### Problem-based learning
 
@@ -78,7 +78,7 @@ Using [problem-based learning](http://en.wikipedia.org/wiki/Problem-based_learni
 
 The outcome is, to some extent, pre-determined as use of PBL limits the possible improvements to those which are consistent with the beliefs/assumptions of PBL. Though, as with constructive alignment, this area of pre-determination is not exactly narrow.
 
-[![pbl-300x196](images/3090949047_6be8016a00_o.png)](http://www.flickr.com/photos/david_jones/3090949047/ "pbl-300x196 by David T Jones, on Flickr")
+[![pbl-300x196](https://djon.es/assets/blog/2008/05/18/understanding-approaches-to-improving-a-course/images/3090949047_6be8016a00_o.png)](http://www.flickr.com/photos/david_jones/3090949047/ "pbl-300x196 by David T Jones, on Flickr")
 
 ### Choosing a new textbook
 
@@ -96,7 +96,7 @@ Such an approach is generally pre-determined for all courses offered by the unit
 
 These type of approaches can run the full spectrum from pragmatic to re-design depending on the nature of the type of improvement (from brand new pedagogical foundation through to adoption of a particular web site template).
 
-[![strategic-300x195](images/3091790592_8d142f6ea7_o.png)](http://www.flickr.com/photos/david_jones/3091790592/ "strategic-300x195 by David T Jones, on Flickr")
+[![strategic-300x195](https://djon.es/assets/blog/2008/05/18/understanding-approaches-to-improving-a-course/images/3091790592_8d142f6ea7_o.png)](http://www.flickr.com/photos/david_jones/3091790592/ "strategic-300x195 by David T Jones, on Flickr")
 
 ### Solution driven approaches
 
@@ -118,7 +118,7 @@ Such an approach is to somewhat pre-determined, it has to maximise at least one 
 
 It's also likely to be a fairly pragmatic approach. It's likely that entire courses wouldn't be re-designed, but instead small, evolutionary changes. That said, it might be possible to re-design a course (just a bit unlikely).
 
-[![extreme-300x194](images/3090949563_1b090326b2_o.png)](http://www.flickr.com/photos/david_jones/3090949563/ "extreme-300x194 by David T Jones, on Flickr")
+[![extreme-300x194](https://djon.es/assets/blog/2008/05/18/understanding-approaches-to-improving-a-course/images/3090949563_1b090326b2_o.png)](http://www.flickr.com/photos/david_jones/3090949563/ "extreme-300x194 by David T Jones, on Flickr")
 
 ### Futher thoughts
 

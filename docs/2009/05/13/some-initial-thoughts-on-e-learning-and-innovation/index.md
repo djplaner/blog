@@ -1,92 +1,89 @@
----
+﻿---
 categories:
 - elearning
 - innovation
-date: 2009-05-13 22:11:16+10:00
+comments:
+- approved: '1'
+  author: rmbell
+  author_email: rmbell@teleport.com
+  author_ip: 70.58.156.59
+  author_url: null
+  content: 'David,
+
+    I want to say how much I appreciate your blog.
+
+    I was in a position very much like yours. The local Community College received
+    a grant to do almost all the things you listed. The grant allowed for my position
+    to exist outside of the normal silos of administrative control. I was able to
+    talk to the instructors andd others that were actully ding the work that led to
+    accomplishing goals - retention, scholarship, training, seletion of methods of
+    instruction. A heady time! After the grant, the administration started reducing
+    my reach and saying no to things that seemed to be working - i.e.,  insisted on
+    replacing Moodle with Angel - a "real" LMS.
+
+
+    Model 1 behavior reigned supreme - I retired.
+
+    I''m now running for the college''s Board of Trustees.  The vote is in 6 days.
+
+
+    My blog for the election is here if your interested.
+
+    ucc5.wordpress.com
+
+    Again,
+
+    Thank you for your questions and resources.
+
+    A loyal fan,
+
+    Bob'
+  date: '2009-05-14 10:15:29'
+  date_gmt: '2009-05-14 00:15:29'
+  id: '2500'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: https://djon.es/blog/
+  content: 'G''day Bob,
+
+
+    Thanks for the note of appreciation.
+
+
+    Good luck on the election. Interesting to see another aspect to the US education
+    system - somewhat different to the Australian system. I must say, however, reading
+    about "About UCC" page on the college website makes the locale sound very attractive
+    - four seasons is not something we know here in Central Queensland.
+
+
+    However, it''s also interesting to see that some things may be more universal
+    - e.g. Model 1 behaviour. It seems the next few months will be interesting for
+    both of us.
+
+
+    David.'
+  date: '2009-05-14 10:26:10'
+  date_gmt: '2009-05-14 00:26:10'
+  id: '2501'
+  parent: '2500'
+  type: comment
+  user_id: '1'
+date: 2009-05-13 12:11:16
 next:
   text: Institution - another part of place
   url: /blog/2009/05/15/institution-another-part-of-place/
+pingbacks: []
 previous:
   text: Quotes about innovation and creativity
   url: /blog/2009/05/13/quotes-about-innovation-and-creativity/
+template: blog-post.html
 title: Some initial thoughts on e-learning and innovation
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: rmbell
-      author_email: rmbell@teleport.com
-      author_ip: 70.58.156.59
-      author_url: null
-      content: 'David,
-    
-        I want to say how much I appreciate your blog.
-    
-        I was in a position very much like yours. The local Community College received
-        a grant to do almost all the things you listed. The grant allowed for my position
-        to exist outside of the normal silos of administrative control. I was able to
-        talk to the instructors andd others that were actully ding the work that led to
-        accomplishing goals - retention, scholarship, training, seletion of methods of
-        instruction. A heady time! After the grant, the administration started reducing
-        my reach and saying no to things that seemed to be working - i.e.,  insisted on
-        replacing Moodle with Angel - a "real" LMS.
-    
-    
-        Model 1 behavior reigned supreme - I retired.
-    
-        I''m now running for the college''s Board of Trustees.  The vote is in 6 days.
-    
-    
-        My blog for the election is here if your interested.
-    
-        ucc5.wordpress.com
-    
-        Again,
-    
-        Thank you for your questions and resources.
-    
-        A loyal fan,
-    
-        Bob'
-      date: '2009-05-14 10:15:29'
-      date_gmt: '2009-05-14 00:15:29'
-      id: '2500'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: https://djon.es/blog/
-      content: 'G''day Bob,
-    
-    
-        Thanks for the note of appreciation.
-    
-    
-        Good luck on the election. Interesting to see another aspect to the US education
-        system - somewhat different to the Australian system. I must say, however, reading
-        about "About UCC" page on the college website makes the locale sound very attractive
-        - four seasons is not something we know here in Central Queensland.
-    
-    
-        However, it''s also interesting to see that some things may be more universal
-        - e.g. Model 1 behaviour. It seems the next few months will be interesting for
-        both of us.
-    
-    
-        David.'
-      date: '2009-05-14 10:26:10'
-      date_gmt: '2009-05-14 00:26:10'
-      id: '2501'
-      parent: '2500'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Theoretically, I'm in the process of starting [a new job](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ that is focused on encouraging e-learning and innovation within a university context. The following post is an early attempt to try and make sense of this job, what it might do and how it might do it. It's probably of little value to others, but I'm trying to be open about this.
 
@@ -103,7 +100,7 @@ The following started out as a 2x2 framework but has evolved as I've been writin
 
 I've purposely not included numbers in the above list. Cycles can start in any of these stages and there isn't always a cycle. In fact, some might argue a significant flaw in many organisations is a failure to draw knowledge from how things were done in order to inform the next spark. Alternatively, it may not always be possible to connect the causal cycle until after the fact.
 
-[![A Change Cycle](images/3526475317_cb9dca2ebb_m.jpg)](http://www.flickr.com/photos/david_jones/3526475317/ "A Change Cycle by David T Jones, on Flickr")
+[![A Change Cycle](https://djon.es/assets/blog/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/images/3526475317_cb9dca2ebb_m.jpg)](http://www.flickr.com/photos/david_jones/3526475317/ "A Change Cycle by David T Jones, on Flickr")
 
 #### The spark
 
@@ -139,7 +136,7 @@ Having decided what to do, it is now necessary to plan how to do it. This spectr
 
 Snowden's point - and I agree - is that idealistic approaches only work in contexts in which there is a clear connection between cause and effect. i.e. you can predict that if you do X, then Y will happen. Snowden points out in his Cynefin framework and associated writing that there are other contexts, that require different approaches.
 
-[![Cynefin domains](images/3524377954_4f5c93c710_m.jpg)](http://www.flickr.com/photos/david_jones/3524377954/ "Cynefin domains by David T Jones, on Flickr")
+[![Cynefin domains](https://djon.es/assets/blog/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/images/3524377954_4f5c93c710_m.jpg)](http://www.flickr.com/photos/david_jones/3524377954/ "Cynefin domains by David T Jones, on Flickr")
 
 ### Putting the model in context
 
@@ -315,4 +312,4 @@ An early version of the model in this post was a traditional 2x2 model (with sli
 | Naturalistic-fads | A common approach - often seen in lone rangers | No point, ability or benefit in stopping these. Better to help inform their implementation and learn their lessons. How to do this effectively is another question. There are some connections here or perhaps in the next sector with [incremental, cumulative improvement](http://tlt-swg.blogspot.com/2008/02/fostering-incremental-cumulative.html) arising out of the work of the [Teaching, Learning, Technology group](http://www.tltgroup.org/). |
 | Naturalistic-knowledge | Rarely used and the sector I feel most appropriate for innovation around learning and teaching. | Have talked previously about the idea of reflective alignment. Something I'd like to try. Perhaps there are others. |
 
-[![Innovation in Corporate America](images/63787005_b34a97a5fe_m_d.jpg)](http://www.flickr.com/photos/ross/63787005/sizes/o/)
+[![Innovation in Corporate America](https://djon.es/assets/blog/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/images/63787005_b34a97a5fe_m_d.jpg)](http://www.flickr.com/photos/ross/63787005/sizes/o/)

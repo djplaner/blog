@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - lak11
-date: 2011-01-26 10:19:42+10:00
+comments: []
+date: 2011-01-26 00:19:42
 next:
   text: The demise of ALTC and why I'm not sad
   url: /blog/2011/01/28/the-demise-of-altc/
+pingbacks:
+- approved: '1'
+  author: "Tweets that mention Analytics, semantic web and cognitive science \xAB\
+    \ The Weblog of (a) David Jones -- Topsy.com"
+  author_email: null
+  author_ip: 208.74.66.43
+  author_url: http://topsy.com/davidtjones.wordpress.com/2011/01/26/analytics-semantic-web-and-cognitive-science/?utm_source=pingback&utm_campaign=L2
+  content: "[...] This post was mentioned on Twitter by Paulo Sim\xF5es, catbe3. catbe3\
+    \ said: Analytics, semantic web and cognitive science \xAB The Weblog of (a ...\
+    \ http://bit.ly/h6YYtW [...]"
+  date: '2011-01-28 05:26:21'
+  date_gmt: '2011-01-27 19:26:21'
+  id: '3230'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The power of organisational structure
   url: /blog/2011/01/25/the-power-of-organisational-structure/
 tags:
 - cck11
 - lak11
+template: blog-post.html
 title: Analytics, semantic web and cognitive science
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: "Tweets that mention Analytics, semantic web and cognitive science \xAB\
-        \ The Weblog of (a) David Jones -- Topsy.com"
-      author_email: null
-      author_ip: 208.74.66.43
-      author_url: http://topsy.com/davidtjones.wordpress.com/2011/01/26/analytics-semantic-web-and-cognitive-science/?utm_source=pingback&utm_campaign=L2
-      content: "[...] This post was mentioned on Twitter by Paulo Sim\xF5es, catbe3. catbe3\
-        \ said: Analytics, semantic web and cognitive science \xAB The Weblog of (a ...\
-        \ http://bit.ly/h6YYtW [...]"
-      date: '2011-01-28 05:26:21'
-      date_gmt: '2011-01-27 19:26:21'
-      id: '3230'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm currently reading a draft of my wife's PhD thesis. The thesis uses metaphor to examine the concepts that underpin research within the Information Systems discipline. It finds that research within the discipline appears to have a very heavy emphasis on techno-rational type conceptions of organisations, individuals and artifacts. There are various connections between this work and that of learning analytics and some of the assumptions behind the semantic web. This is an initial attempt to make some of these connections. Given limited time (I have to get back to commenting on the thesis), this has become more a place-holder of thoughts and ideas I need to explore more fully.
 

@@ -1,70 +1,67 @@
----
+﻿---
 categories:
 - indicators
-date: 2010-03-12 17:08:15+10:00
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 118.208.12.16
+  author_url: http://
+  content: 'With regard to the Indicators, there is a correlation between the number
+    of discussion forum reads and student results. Additionally, there is an increase
+    in discussion forum engagement by students when teachers are actively participating
+    in the forums. Based on these and other observations, I suspect that the value
+    of LMS discussion forums to students is twofold. Firstly it is a place where they
+    can request and receive information. Secondly, it appears to provide some sort
+    of link to student motivation and engagement even when the informational value
+    of the forum is low.
+
+
+    http://beerc.wordpress.com/2009/11/24/who-thinks-staff-particpation-in-lms-discussion-forums-is-important/
+
+
+    http://beerc.wordpress.com/2010/03/09/online-student-engagement/'
+  date: '2010-03-13 10:10:56'
+  date_gmt: '2010-03-13 00:10:56'
+  id: '2961'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: "G'day Col,\n\nI know about the both those correlations.  The question\
+    \ is whether there is more to it.\n\nNot everyone wants to, or even can, get a\
+    \ HD.  Some students are happy with a D, C or even a P.  In some cases a student\
+    \ may also be happy with a F as there may be some contextual reason why they failed,\
+    \ but they might be happy with the course.\n\nThat staff participation in the\
+    \ forums increases participation is seems evident and good.\n\nBut there's more.\
+    \  For example\n<ul>\n  <li> A course that has content regularly updated during\
+    \ the term might given the impression of greater interaction/responsiveness on\
+    \ the part of staff and hence make students happier. </li>\n  <li> The students\
+    \ that don't participate in a forum where there is lots of staff engagement may\
+    \ be happier because of the greater interaction, even if they don't get a HD.\
+    \  They might also get a better grade where there is more interaction. </li>\n\
+    </ul>\n\nThere's a few more, but you get the idea.\n\nDavid."
+  date: '2010-03-13 15:50:20'
+  date_gmt: '2010-03-13 05:50:20'
+  id: '2962'
+  parent: '2961'
+  type: comment
+  user_id: '1'
+date: 2010-03-12 07:08:15
 next:
   text: The conditions for Anna's phone
   url: /blog/2010/03/13/the-conditions-for-annas-phone/
+pingbacks: []
 previous:
   text: Different perspectives on the purpose of the LMS
   url: /blog/2010/03/12/different-perspectives-on-the-purpose-of-the-lms/
+template: blog-post.html
 title: The value of lurking - another research idea for the indicators project
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 118.208.12.16
-      author_url: http://
-      content: 'With regard to the Indicators, there is a correlation between the number
-        of discussion forum reads and student results. Additionally, there is an increase
-        in discussion forum engagement by students when teachers are actively participating
-        in the forums. Based on these and other observations, I suspect that the value
-        of LMS discussion forums to students is twofold. Firstly it is a place where they
-        can request and receive information. Secondly, it appears to provide some sort
-        of link to student motivation and engagement even when the informational value
-        of the forum is low.
-    
-    
-        http://beerc.wordpress.com/2009/11/24/who-thinks-staff-particpation-in-lms-discussion-forums-is-important/
-    
-    
-        http://beerc.wordpress.com/2010/03/09/online-student-engagement/'
-      date: '2010-03-13 10:10:56'
-      date_gmt: '2010-03-13 00:10:56'
-      id: '2961'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: "G'day Col,\n\nI know about the both those correlations.  The question\
-        \ is whether there is more to it.\n\nNot everyone wants to, or even can, get a\
-        \ HD.  Some students are happy with a D, C or even a P.  In some cases a student\
-        \ may also be happy with a F as there may be some contextual reason why they failed,\
-        \ but they might be happy with the course.\n\nThat staff participation in the\
-        \ forums increases participation is seems evident and good.\n\nBut there's more.\
-        \  For example\n<ul>\n  <li> A course that has content regularly updated during\
-        \ the term might given the impression of greater interaction/responsiveness on\
-        \ the part of staff and hence make students happier. </li>\n  <li> The students\
-        \ that don't participate in a forum where there is lots of staff engagement may\
-        \ be happier because of the greater interaction, even if they don't get a HD.\
-        \  They might also get a better grade where there is more interaction. </li>\n\
-        </ul>\n\nThere's a few more, but you get the idea.\n\nDavid."
-      date: '2010-03-13 15:50:20'
-      date_gmt: '2010-03-13 05:50:20'
-      id: '2962'
-      parent: '2961'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The question of the value of lurking is a common one for learning and teaching. Is it okay for students to simply sit quietly and listen, especially in an online forum? Should we "force" them to participate?
 

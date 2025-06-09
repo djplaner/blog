@@ -1,50 +1,48 @@
----
+﻿---
 categories:
 - ilecture
-date: 2009-09-28 15:48:28+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 115.64.241.18
+  author_url: http://www.vrbones.com
+  content: What about utilizing the ustream chat features? It works quite effectively
+    for vidcasts such as djwheat.tv (<a href="http://www.ustream.tv/channel/djwheat"
+    rel="nofollow">ustream</a>). This is for the backchannel, not the formal voting
+    / reflection sections.
+  date: '2009-10-01 22:29:55'
+  date_gmt: '2009-10-01 12:29:55'
+  id: '2771'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-09-28 05:48:28
 next:
   text: '"e&#038;i report #4 - 15th to 29th September, 2009"'
   url: /blog/2009/09/29/ei-report-4-15th-to-29th-september-2009/
+pingbacks:
+- approved: '1'
+  author: Alternative audience response systems &#8211; web, twitter and mobile phone
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/10/01/alternative-audience-response-systems-web-twitter-and-mobile-phone/
+  content: '[...] audience response systems &#8211; web, twitter and mobile&nbsp;phone  As
+    part of this project I&#8217;m looking at playing with &#8220;clickers&#8221;
+    that work via the web, twitter, mobile [...]'
+  date: '2009-10-01 16:06:07'
+  date_gmt: '2009-10-01 06:06:07'
+  id: '2770'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Reflection and moving on - herding cats and losing weight
   url: /blog/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/
+template: blog-post.html
 title: Small changes in "Lectures" - ustream, votapedia
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 115.64.241.18
-      author_url: http://www.vrbones.com
-      content: What about utilizing the ustream chat features? It works quite effectively
-        for vidcasts such as djwheat.tv (<a href="http://www.ustream.tv/channel/djwheat"
-        rel="nofollow">ustream</a>). This is for the backchannel, not the formal voting
-        / reflection sections.
-      date: '2009-10-01 22:29:55'
-      date_gmt: '2009-10-01 12:29:55'
-      id: '2771'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Alternative audience response systems &#8211; web, twitter and mobile phone
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/10/01/alternative-audience-response-systems-web-twitter-and-mobile-phone/
-      content: '[...] audience response systems &#8211; web, twitter and mobile&nbsp;phone  As
-        part of this project I&#8217;m looking at playing with &#8220;clickers&#8221;
-        that work via the web, twitter, mobile [...]'
-      date: '2009-10-01 16:06:07'
-      date_gmt: '2009-10-01 06:06:07'
-      id: '2770'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Sometime in the next month I have to develop the [presentation](http://www.educause.edu/E09+Hybrid/EDUCAUSE2009FacetoFaceConferen/ELearningImplementationAlterna/176134) I'll be giving at [EDUCAUSE'09](http://www.educause.edu/E2009). The plan is to give this presentation at my host institution before EDUCAUSE and also to try some new technologies to make the spread of the presentation greater in terms of breadth and interaction. This is the start of some reflection and planning for that event.
 

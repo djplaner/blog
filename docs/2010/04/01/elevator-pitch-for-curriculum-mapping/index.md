@@ -1,48 +1,45 @@
----
+﻿---
 categories:
 - curriculummapping-cddu
-date: 2010-04-01 10:49:00+10:00
+comments: []
+date: 2010-04-01 00:49:00
 next:
   text: Moodle curriculum mapping - Step 3
   url: /blog/2010/04/02/moodle-curriculum-mapping-step-3/
+pingbacks:
+- approved: '1'
+  author: Moodle curriculum mapping &#8211; Step 3 &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.96.177
+  author_url: https://djon.es/blog/2010/04/02/moodle-curriculum-mapping-step-3/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Elevator pitch for &#8220;Moodle curriculum&nbsp;mapping&#8221; [...]'
+  date: '2010-04-02 10:32:07'
+  date_gmt: '2010-04-02 00:32:07'
+  id: '2996'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Clarification of the alignment project &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.181
+  author_url: https://djon.es/blog/2010/04/22/clarification-of-the-alignment-project/
+  content: '[...] the elevator pitch for this project I identified some of the following
+    as [...]'
+  date: '2010-04-22 13:56:05'
+  date_gmt: '2010-04-22 03:56:05'
+  id: '2997'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Moodle curriculum mapping - Step 2
   url: /blog/2010/03/30/moodle-curriculum-mapping-step-2/
+template: blog-post.html
 title: Elevator pitch for "Moodle curriculum mapping"
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Moodle curriculum mapping &#8211; Step 3 &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.96.177
-      author_url: https://djon.es/blog/2010/04/02/moodle-curriculum-mapping-step-3/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Elevator pitch for &#8220;Moodle curriculum&nbsp;mapping&#8221; [...]'
-      date: '2010-04-02 10:32:07'
-      date_gmt: '2010-04-02 00:32:07'
-      id: '2996'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Clarification of the alignment project &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.181
-      author_url: https://djon.es/blog/2010/04/22/clarification-of-the-alignment-project/
-      content: '[...] the elevator pitch for this project I identified some of the following
-        as [...]'
-      date: '2010-04-22 13:56:05'
-      date_gmt: '2010-04-22 03:56:05'
-      id: '2997'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Over the next few weeks I am going to have a few meetings in which I'll need to explain and justify the [curriculum mapping project](/blog/research/curriculum-mapping/). This post is an attempt to further develop and share some of the perspectives and to develop an elevator pitch for the project.
 

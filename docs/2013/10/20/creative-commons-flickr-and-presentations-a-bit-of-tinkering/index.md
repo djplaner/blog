@@ -1,62 +1,60 @@
----
+﻿---
 categories:
 - thesis
-date: 2013-10-20 18:25:43+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 124.189.216.206
+  author_url: http://elketeaches.wordpress.com
+  content: that's a nice bit of code there!  Just wanted to mention that I really
+    liked your presentation example; you can't teach well without the odd cat photo.  :-)
+  date: '2013-10-21 06:03:46'
+  date_gmt: '2013-10-20 20:03:46'
+  id: '884'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: One of my many flaws is I don't use enough cats in my presentations :)
+  date: '2013-10-21 08:51:50'
+  date_gmt: '2013-10-20 22:51:50'
+  id: '885'
+  parent: '884'
+  type: comment
+  user_id: '1'
+date: 2013-10-20 08:25:43
 next:
   text: Processing and Visualizing Data in Complex Learning Environments
   url: /blog/2013/10/20/processing-and-visualizing-data-in-complex-learning-environments/
+pingbacks:
+- approved: '1'
+  author: Needed updates to cc_attrib.pl | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.121
+  author_url: https://djon.es/blog/2014/02/15/needed-updates-to-cc_attrib-pl/
+  content: '[&#8230;] following is a list of updates I need to make to a perl script
+    I wrote last year that helps me properly attribute the Creative Commons licenced
+    Flickr photos I use in [&#8230;]'
+  date: '2014-02-15 08:23:05'
+  date_gmt: '2014-02-14 22:23:05'
+  id: '886'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Supporting Action Research with Learning Analytics
   url: /blog/2013/10/13/supporting-action-research-with-learning-analytics/
 tags:
 - creative-commons
 - creative-commons-licence
+template: blog-post.html
 title: '"Creative Commons, Flickr and presentations: A bit of tinkering"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 124.189.216.206
-      author_url: http://elketeaches.wordpress.com
-      content: that's a nice bit of code there!  Just wanted to mention that I really
-        liked your presentation example; you can't teach well without the odd cat photo.  :-)
-      date: '2013-10-21 06:03:46'
-      date_gmt: '2013-10-20 20:03:46'
-      id: '884'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: One of my many flaws is I don't use enough cats in my presentations :)
-      date: '2013-10-21 08:51:50'
-      date_gmt: '2013-10-20 22:51:50'
-      id: '885'
-      parent: '884'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Needed updates to cc_attrib.pl | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.121
-      author_url: https://djon.es/blog/2014/02/15/needed-updates-to-cc_attrib-pl/
-      content: '[&#8230;] following is a list of updates I need to make to a perl script
-        I wrote last year that helps me properly attribute the Creative Commons licenced
-        Flickr photos I use in [&#8230;]'
-      date: '2014-02-15 08:23:05'
-      date_gmt: '2014-02-14 22:23:05'
-      id: '886'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary of some tinkering to develop a script that will help me appropriately attribute use of Creative Commons licensed images in presentations. Beyond addressing a long-standing problem of mine, this bit of tinkering is an attempt to feel a bit productive.
 

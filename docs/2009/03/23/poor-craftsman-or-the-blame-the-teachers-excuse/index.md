@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -7,62 +7,59 @@ categories:
 - psframework
 - reflectivealignment
 - thesis
-date: 2009-03-23 17:07:33+10:00
+comments: []
+date: 2009-03-23 07:07:33
 next:
   text: '"Blame the teacher" isn''t new to technology-mediated learning'
   url: /blog/2009/03/24/blame-the-teacher-isnt-new-to-technology-mediated-learning/
+pingbacks:
+- approved: '1'
+  author: '&#8220;Blame the teacher&#8221; isn&#8217;t new to technology-mediated
+    learning &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/03/24/blame-the-teacher-isnt-new-to-technology-mediated-learning/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Poor craftsman - or the &#8220;blame the teachers&#8221;&nbsp;excuse [...]'
+  date: '2009-03-24 22:28:02'
+  date_gmt: '2009-03-24 12:28:02'
+  id: '2327'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #5 - a new low &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: https://djon.es/blog/2009/03/27/phd-update-5-a-new-low/
+  content: '[...] Poor crafstman; More related to &#8220;Past experience&#8221; and
+    &#8220;People&#8221; to do with the technology not improving L&amp;T. [...]'
+  date: '2009-03-27 13:23:53'
+  date_gmt: '2009-03-27 03:23:53'
+  id: '2328'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Edupunk rules: Technology I, II and 3 - understanding and improving the
+    practice of instructional technology &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/
+  content: '[...] technology here will save the world.I&#8217;ve written about this
+    one before. The new technology will save [...]'
+  date: '2009-04-09 13:15:00'
+  date_gmt: '2009-04-09 03:15:00'
+  id: '2329'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Making the LMS/VLE &quot;mythic&quot;
   url: /blog/2009/03/23/making-the-lmsvle-mythic/
+template: blog-post.html
 title: Poor craftsman - or the "blame the teachers" excuse
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: '&#8220;Blame the teacher&#8221; isn&#8217;t new to technology-mediated
-        learning &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/03/24/blame-the-teacher-isnt-new-to-technology-mediated-learning/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Poor craftsman - or the &#8220;blame the teachers&#8221;&nbsp;excuse [...]'
-      date: '2009-03-24 22:28:02'
-      date_gmt: '2009-03-24 12:28:02'
-      id: '2327'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #5 - a new low &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: https://djon.es/blog/2009/03/27/phd-update-5-a-new-low/
-      content: '[...] Poor crafstman; More related to &#8220;Past experience&#8221; and
-        &#8220;People&#8221; to do with the technology not improving L&amp;T. [...]'
-      date: '2009-03-27 13:23:53'
-      date_gmt: '2009-03-27 03:23:53'
-      id: '2328'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Edupunk rules: Technology I, II and 3 - understanding and improving the
-        practice of instructional technology &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/
-      content: '[...] technology here will save the world.I&#8217;ve written about this
-        one before. The new technology will save [...]'
-      date: '2009-04-09 13:15:00'
-      date_gmt: '2009-04-09 03:15:00'
-      id: '2329'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 ### Disclaimer
 

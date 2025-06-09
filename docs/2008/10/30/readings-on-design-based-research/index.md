@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
 - thesis
-date: 2008-10-30 08:50:25+10:00
+date: 2008-10-29 22:50:25
 next:
   text: Between the idea and the reality,.... falls the shadow
   url: /blog/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/
 previous:
   text: How do we transform institutions? Learning 2.0 and PLEs@CQUni
   url: /blog/2008/10/30/how-do-we-transform-institutions-learning-20-and-plescquni/
+template: blog-post.html
 title: Readings on Design-based research
 type: post
-template: blog-post.html
 ---
 My [thesis](/blog/research/phd-thesis/) is an example [information systems design research](http://ais.affiniscape.com/displaycommon.cfm?an=1&subarticlenbr=279). However, since the aim of the thesis is to develop a design theory for the implementation of e-learning within a university I do have some interest in the design-based research (DBR) literature from the education discipline.
 

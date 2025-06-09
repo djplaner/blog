@@ -1,59 +1,57 @@
----
+﻿---
 categories:
 - research
-date: 2012-02-19 22:31:04+10:00
+comments:
+- approved: '1'
+  author: Vikrama Dhiman (@vikramadhiman)
+  author_email: vikramadhiman@twitter.example.com
+  author_ip: 202.164.39.34
+  author_url: http://twitter.com/vikramadhiman
+  content: 'Interesting post.
+
+
+    And something we have been actively considering at <a href="http://www.wiziq.com/courses/"
+    rel="nofollow">online courses on WizIQ</a>. There are teachers who are more experienced
+    than others. Teachers starting out look forward to them for not only course material
+    but also review. Also, in some cases, there are many courses where multiple teachers
+    teach one course.
+
+
+    The course development also goes a step forward with students giving feedback
+    and providing some references via Web Quests for the future course development
+    too. So, yes interesting times for us and peer reviewed online course development
+    methods.'
+  date: '2012-02-21 00:13:51'
+  date_gmt: '2012-02-20 14:13:51'
+  id: '230'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-02-19 12:31:04
 next:
   text: '"One Moodle course design: approach and trade-offs"'
   url: /blog/2012/02/22/one-moodle-course-design-approach-ad-trade-offs/
+pingbacks:
+- approved: '1'
+  author: Harnessing learning analytics to inform/improve learning and teaching &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.18
+  author_url: https://djon.es/blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
+  content: '[...] Faculty centered, peer reviews online course development models
+    [...]'
+  date: '2012-05-20 15:10:04'
+  date_gmt: '2012-05-20 05:10:04'
+  id: '231'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Designing the weekly ramble
   url: /blog/2012/02/19/designing-the-weekly-ramble/
+template: blog-post.html
 title: Faculty-centered, peer-reviewed online course development models
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Vikrama Dhiman (@vikramadhiman)
-      author_email: vikramadhiman@twitter.example.com
-      author_ip: 202.164.39.34
-      author_url: http://twitter.com/vikramadhiman
-      content: 'Interesting post.
-    
-    
-        And something we have been actively considering at <a href="http://www.wiziq.com/courses/"
-        rel="nofollow">online courses on WizIQ</a>. There are teachers who are more experienced
-        than others. Teachers starting out look forward to them for not only course material
-        but also review. Also, in some cases, there are many courses where multiple teachers
-        teach one course.
-    
-    
-        The course development also goes a step forward with students giving feedback
-        and providing some references via Web Quests for the future course development
-        too. So, yes interesting times for us and peer reviewed online course development
-        methods.'
-      date: '2012-02-21 00:13:51'
-      date_gmt: '2012-02-20 14:13:51'
-      id: '230'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Harnessing learning analytics to inform/improve learning and teaching &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.18
-      author_url: https://djon.es/blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
-      content: '[...] Faculty centered, peer reviews online course development models
-        [...]'
-      date: '2012-05-20 15:10:04'
-      date_gmt: '2012-05-20 05:10:04'
-      id: '231'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 So after three weeks at the new institution and busy thinking about how I'm going to do something interesting with my course design I find out that EOIs for a fairly large and beneficial set of research grants is due in a week or so. Bugger. No way I'm going to get my head around the new field, teaching and meet that deadline.
 

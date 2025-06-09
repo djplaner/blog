@@ -1,51 +1,48 @@
----
+﻿---
 categories:
 - bad
 - bricolage
 - connectedcourses
-date: 2014-09-05 14:51:13+10:00
+comments: []
+date: 2014-09-05 04:51:13
 next:
   text: '"Three paths for learning analytics and beyond: Moving from rhetoric to reality"'
   url: /blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/
+pingbacks:
+- approved: '1'
+  author: Breaking BAD to bridge the e-learning reality/r...
+  author_email: null
+  author_ip: 89.30.118.151
+  author_url: http://www.scoop.it/t/web-2-0-education/p/4027480679/2014/09/04/breaking-bad-to-bridge-the-e-learning-reality-rhetoric-chasm
+  content: '[&#8230;] @damoclarky and I got a bit lucky. Our ASCILITE paper has been
+    accepted with revisions. Apparently the first reviewer hated the &ldquo;theoretical
+    construct&rdquo; we were using to make our argument.&nbsp; [&#8230;]'
+  date: '2014-09-05 16:35:00'
+  date_gmt: '2014-09-05 06:35:00'
+  id: '1074'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Being BAD at task management | Damo&#039;s World
+  author_email: null
+  author_ip: 192.0.81.71
+  author_url: http://damos.world/2015/07/24/being-bad-at-task-management/
+  content: "[&#8230;] have co-authored a paper with a colleague, David Jones which\
+    \ was published at the ASCILITE2014 conference being held in Dunedin New Zealand.\_\
+    \ The paper [&#8230;]"
+  date: '2015-07-24 12:12:16'
+  date_gmt: '2015-07-24 02:12:16'
+  id: '1075'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The balkanisation threat to network learning
   url: /blog/2014/09/04/the-balkanisation-threat-to-network-learning/
+template: blog-post.html
 title: Breaking BAD to bridge the e-learning reality/rhetoric chasm
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Breaking BAD to bridge the e-learning reality/r...
-      author_email: null
-      author_ip: 89.30.118.151
-      author_url: http://www.scoop.it/t/web-2-0-education/p/4027480679/2014/09/04/breaking-bad-to-bridge-the-e-learning-reality-rhetoric-chasm
-      content: '[&#8230;] @damoclarky and I got a bit lucky. Our ASCILITE paper has been
-        accepted with revisions. Apparently the first reviewer hated the &ldquo;theoretical
-        construct&rdquo; we were using to make our argument.&nbsp; [&#8230;]'
-      date: '2014-09-05 16:35:00'
-      date_gmt: '2014-09-05 06:35:00'
-      id: '1074'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Being BAD at task management | Damo&#039;s World
-      author_email: null
-      author_ip: 192.0.81.71
-      author_url: http://damos.world/2015/07/24/being-bad-at-task-management/
-      content: "[&#8230;] have co-authored a paper with a colleague, David Jones which\
-        \ was published at the ASCILITE2014 conference being held in Dunedin New Zealand.\_\
-        \ The paper [&#8230;]"
-      date: '2015-07-24 12:12:16'
-      date_gmt: '2015-07-24 02:12:16'
-      id: '1075'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 @damoclarky and I got a bit lucky. Our ASCILITE paper has been accepted with revisions. Apparently the first reviewer hated the "theoretical construct" we were using to make our argument. The following is what we originally wrote, sharing it here to hopefully spark some critique and improvement (and also not to entirely waste the writing when I gut it and start again).
 

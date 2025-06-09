@@ -1,54 +1,51 @@
----
+﻿---
 categories:
 - c2d2
 - foult
-date: 2009-01-28 13:37:29+10:00
+comments: []
+date: 2009-01-28 03:37:29
 next:
   text: Good teaching is not innate, it can be "learned" - and what's wrong with academic
     staff development
   url: /blog/2009/01/29/good-teaching-is-not-innate-it-can-be-learned-and-whats-wrong-with-academic-staff-development/
+pingbacks:
+- approved: '1'
+  author: Good teaching is not innate, it can be &#8220;learned&#8221; - and what&#8217;s
+    wrong with academic staff development &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.45
+  author_url: https://djon.es/blog/2009/01/29/good-teaching-is-not-innate-it-can-be-learned-and-whats-wrong-with-academic-staff-development/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    The design of a 6 hour orientation to course analysis and&nbsp;design [...]'
+  date: '2009-01-29 14:47:38'
+  date_gmt: '2009-01-29 04:47:38'
+  id: '2092'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Using a blog for course design foult sessions &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 72.233.96.152
+  author_url: https://djon.es/blog/2009/01/30/using-a-blog-for-course-design-foult-sessions/
+  content: '[...]  I&#8217;ve bitten the bullet and have decided to use WordPress
+    blog to support the 6 hour orientation to course analysis and design I&#8217;m
+    supposed to run next [...]'
+  date: '2009-01-30 13:50:32'
+  date_gmt: '2009-01-30 03:50:32'
+  id: '2093'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Some possible reasons why comparison of information systems are broken
   url: /blog/2009/01/27/some-possible-reasons-why-comparison-of-information-systems-are-broken/
 tags:
 - staffdevelopment-learning-teaching-university-highereducation-academicstaffdevelopment
+template: blog-post.html
 title: The design of a 6 hour orientation to course analysis and design
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Good teaching is not innate, it can be &#8220;learned&#8221; - and what&#8217;s
-        wrong with academic staff development &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.45
-      author_url: https://djon.es/blog/2009/01/29/good-teaching-is-not-innate-it-can-be-learned-and-whats-wrong-with-academic-staff-development/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        The design of a 6 hour orientation to course analysis and&nbsp;design [...]'
-      date: '2009-01-29 14:47:38'
-      date_gmt: '2009-01-29 04:47:38'
-      id: '2092'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Using a blog for course design foult sessions &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 72.233.96.152
-      author_url: https://djon.es/blog/2009/01/30/using-a-blog-for-course-design-foult-sessions/
-      content: '[...]  I&#8217;ve bitten the bullet and have decided to use WordPress
-        blog to support the 6 hour orientation to course analysis and design I&#8217;m
-        supposed to run next [...]'
-      date: '2009-01-30 13:50:32'
-      date_gmt: '2009-01-30 03:50:32'
-      id: '2093'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 It's that time of year again, next week I get to run a session with 20 or so new [CQU](http://www.cqu.edu.au/) academics looking at course analysis and design. The session is part of a [four day program](http://learning.cqu.edu.au/orientation/program.htm) entitled [Foundations of University Learning and Teaching](http://learning.cqu.edu.au/orientation/index.htm) (FoULT). The session is run twice a year.
 
@@ -105,7 +102,7 @@ The plan is that the first two would be on the afternoon of the first day with t
 
 The Trigwell (2001) model of teaching is shown in the following image and is briefly described on the [flickr page](http://www.flickr.com/photos/david_jones/3232493287/) for the image. You should see the connection between the names of the sessions and the model
 
-[![Trigwell's model of teaching](images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
+[![Trigwell's model of teaching](https://djon.es/assets/blog/2009/01/28/the-design-of-a-6-hour-orientation-to-course-analysis-and-design/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
 
 Actually, after posting this I've made some changes to expand the use of the Trigwell (2001) model including teachers' strategies and in particular gathering some of their strategies.
 

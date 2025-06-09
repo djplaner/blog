@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - ple
 - web-20-course-sites
-date: 2007-11-09 00:03:41+10:00
+date: 2007-11-08 14:03:41
 next:
   text: Simplicity, e-learning and shadow systems
   url: /blog/2007/11/16/simplicity-e-learning-and-shadow-systems/
 previous:
   text: PLEs (&quot;social media&quot;) and measuring/ensuring success
   url: /blog/2007/11/05/ples-social-media-and-measuringensuring-success/
+template: blog-post.html
 title: Integrated VLEs/LMSs - benefits and fixes
 type: post
-template: blog-post.html
 ---
 Niall Sclater is the Director of the Open University's (UK) VLE (UK acronym for LMS) Programme which is implementing Moodle ([some FAQs](http://conclave.open.ac.uk/ouvlefaq/)). Over the last few days he has made a couple of interesting posts:
 

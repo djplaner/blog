@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - innovation
 - quotes
-date: 2009-02-13 14:48:33+10:00
+date: 2009-02-13 04:48:33
 next:
   text: '"Alternatives for the institutional implementation of e-learning: Lessons
     from 12 years of  Webfuse"'
@@ -11,9 +11,9 @@ previous:
   text: The emperor has no clothes - why is the learning and teaching peformance fund
     naked
   url: /blog/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/
+template: blog-post.html
 title: Innovation - rendering the hitherto non-existent blindingly obvious
 type: post
-template: blog-post.html
 ---
 A lot of what I do could be seen as [innovation](http://en.wikipedia.org/wiki/Innovation). In the past I was a "faculty teaching and learning innovation officer" and I may well take on such a role in the future. Today, I came across the following quote from [Douglas Adams](http://en.wikipedia.org/wiki/Douglas_adams) which seems connected to the idea of innovation.
 

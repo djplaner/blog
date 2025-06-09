@@ -1,8 +1,8 @@
----
-date: 2009-01-02 12:45:16+10:00
+﻿---
+date: 2009-01-02 02:45:16
+template: blog-post.html
 title: Lessons learnt in connecting schools to the Internet
 type: page
-template: blog-post.html
 ---
 Rex Boggs, David Jones. Lessons Learnt in Connecting Schools to the Internet Australian Educational Computing, 9(2):29-32, Australian Council for Computers in Education.
 
@@ -49,7 +49,7 @@ To use the system the school must have an IBM PC with at least ten Megabytes of 
 
 Students and teachers read their e-mail and news at their convenience using a simple to use MS-DOS based news reader (Figure 1) that is freely available off the Internet. Most users find the interface simple and logical to use and this means they can be reading and sending e-mail and news in the minimum of time. Many of our initial difficulties were caused by unfamiliar or difficult user interfaces.
 
-[![Yarn Interface #2](images/3155804011_1866c2525c_m.jpg)](http://www.flickr.com/photos/david_jones/3155804011/ "Yarn Interface #2 by David T Jones, on Flickr")
+[![Yarn Interface #2](https://djon.es/assets/blog/publications/lessons-learnt-in-connecting-schools-to-the-internet/images/3155804011_1866c2525c_m.jpg)](http://www.flickr.com/photos/david_jones/3155804011/ "Yarn Interface #2 by David T Jones, on Flickr")
 
 Figure 1. The Yarn Newsreader.
 

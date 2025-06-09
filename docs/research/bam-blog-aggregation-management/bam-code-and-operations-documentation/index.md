@@ -1,8 +1,8 @@
----
-date: 2009-04-07 14:47:04+10:00
+﻿---
+date: 2009-04-07 04:47:04
+template: blog-post.html
 title: BAM code and operations documentation
 type: page
-template: blog-post.html
 ---
 The following page provides a summary of docs associated with the implementation of BAM
 

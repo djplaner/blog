@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-08-21 14:45:31+10:00
+date: 2010-08-21 04:45:31
 next:
   text: '"PhD Update #28 - minimal work, feedback arrived"'
   url: /blog/2010/08/22/phd-update-28-minimal-work-feedback-arrived/
@@ -14,9 +14,9 @@ tags:
 - harvard-business-review
 - individual-judgment
 - judgment-deficit
+template: blog-post.html
 title: Minimum course presence and the tension between centralisation and de-centralisation
 type: post
-template: blog-post.html
 ---
 Am finding this HBR article to have an interesting take on the centralisation verse de-centralisation argument. However, still reading through it.  
   

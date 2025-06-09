@@ -1,61 +1,58 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
 - webfuse
-date: 2012-06-30 11:11:05+10:00
+comments:
+- approved: '1'
+  author: Peter Albion (@palbion)
+  author_email: palbion@twitter.example.com
+  author_ip: 121.223.74.169
+  author_url: http://twitter.com/palbion
+  content: Early experiences (mid-1990s) of students creating webpages with images
+    missing because they were linking to a local drive and not the server moved me
+    to advise students to test websites before submission on a different computer
+    where they are just any user. That should work to avoid non-functioning submissions
+    but of course some students don't bother or cannot manage that step either.
+  date: '2015-05-07 20:42:30'
+  date_gmt: '2015-05-07 10:42:30'
+  id: '385'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.32
+  author_url: https://djon.es/blog/
+  content: 'In this case reducing meaningless freedom could have been done by having
+    the submission system run a link checker over the submitted site. If there were
+    any broken links, notify the student and reject the submission (until all the
+    links worked).
+
+
+    My problem from yesterday was that Moodle largely retains the filenames used by
+    the students on their computer.  So with an assignment where they submit three
+    files for three different parts, I can''t easily identify which file matches which
+    part. A small pain when marking manually, a huge pain when trying to do some additional
+    processing via scripts.'
+  date: '2015-05-08 08:41:36'
+  date_gmt: '2015-05-07 22:41:36'
+  id: '386'
+  parent: '385'
+  type: comment
+  user_id: '1'
+date: 2012-06-30 01:11:05
 next:
   text: '"Why do (social) networks matter in teaching &#038; learning?"'
   url: /blog/2012/07/07/why-do-social-networks-matter-in-teaching-learning/
+pingbacks: []
 previous:
   text: People and e-learning - limitations and an alternative
   url: /blog/2012/06/29/people-and-e-learning-limitations-and-an-alternative/
+template: blog-post.html
 title: Reducing meaningless freedom and a Mahara feature request
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Peter Albion (@palbion)
-      author_email: palbion@twitter.example.com
-      author_ip: 121.223.74.169
-      author_url: http://twitter.com/palbion
-      content: Early experiences (mid-1990s) of students creating webpages with images
-        missing because they were linking to a local drive and not the server moved me
-        to advise students to test websites before submission on a different computer
-        where they are just any user. That should work to avoid non-functioning submissions
-        but of course some students don't bother or cannot manage that step either.
-      date: '2015-05-07 20:42:30'
-      date_gmt: '2015-05-07 10:42:30'
-      id: '385'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.32
-      author_url: https://djon.es/blog/
-      content: 'In this case reducing meaningless freedom could have been done by having
-        the submission system run a link checker over the submitted site. If there were
-        any broken links, notify the student and reject the submission (until all the
-        links worked).
-    
-    
-        My problem from yesterday was that Moodle largely retains the filenames used by
-        the students on their computer.  So with an assignment where they submit three
-        files for three different parts, I can''t easily identify which file matches which
-        part. A small pain when marking manually, a huge pain when trying to do some additional
-        processing via scripts.'
-      date: '2015-05-08 08:41:36'
-      date_gmt: '2015-05-07 22:41:36'
-      id: '386'
-      parent: '385'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 _Note:_ An update to this post included at the end.
 

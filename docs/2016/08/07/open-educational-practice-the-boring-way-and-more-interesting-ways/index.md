@@ -1,97 +1,95 @@
----
+﻿---
 categories:
 - bad
 - moodleopenbook
-date: 2016-08-07 09:04:10+10:00
+comments:
+- approved: '1'
+  author: DrJaniceKJones (@drjanicekjones)
+  author_email: drjanicekjones@twitter.example.com
+  author_ip: 60.229.226.42
+  author_url: http://twitter.com/drjanicekjones
+  content: 'As a colleague working on EDM8006 - I think it is important to mention
+    that the course brings together two curriculum areas: the arts (which is ''covered''
+    in a mere few weeks but which has 5 distinct disciplines - drama, dance, media,
+    music and visual arts) and the technologies curriculum area which has two main
+    discipline focus areas (technologies and digital technologies.) Oh...and let''s
+    not forget cultural richness and the integration of literacy and numeracy.
+
+
+    For me as an educator who brings a focus upon natural learning/exploratory/informal
+    and non-formal learning to my teaching it is a huge challenge working within the
+    structures of a pre-formed curriculum - and within a university semester. So -
+    I have asked students to link their practice (the assessment activities for the
+    arts and project design briefs and project management for the technologies and
+    digital technologies areas - to a ''real life'' community festival.)  My hope
+    is that by doing so we can begin to move our minds out beyond the ''framing and
+    constraining'' structures of the course, the curriculum and the assessment targets
+    - to the world outside. Making what we do an adventure - realistic - slightly
+    risky and hopefully more meaningful. Sadly - I can''t take the two pre-service
+    teachers out and demand that they actually construct a float with costumes, music
+    and dances for the local Carnival of Flowers. But they can imaging the challenges.
+
+
+    Ideally - whatever they create in response to that challene - I would like to
+    see shared shared with other teachers, students and teacher -educators. But if
+    we deposit our works in a place where we ''pass through'' only for a short time
+    - then that work is lost when we leave. That is part of the limit of university
+    storage and portfolios. Only the signatory can access the account for as long
+    as s/he is a member. The content probably has a limited life-span anyway - we
+    always re-create from what is around us and from our imaginations. But - how to
+    make the networked and ''flowing'' world, more normal in the ''structured'' world
+    of formal education - and in preparing future educators for their role in formal
+    schooling?
+
+    Tricky. I like the network images...that flow. It suggests we do not work or think
+    or relate in ways consistent with the structures we have created for managing
+    complex processes and measuring ''success''/quality....ah..and that is another
+    tale...'
+  date: '2016-08-07 20:23:03'
+  date_gmt: '2016-08-07 10:23:03'
+  id: '3387'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2016-08-06 23:04:10
 next:
   text: Teacher presence in network learning
   url: /blog/2016/08/07/teacher-presence-in-network-learning/
+pingbacks:
+- approved: '1'
+  author: Teacher presence in network learning &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.61
+  author_url: https://davidtjones.wordpress.com/2016/08/07/teacher-presence-in-network-learning/
+  content: '[&#8230;] typically learn as much as the other participants. However,
+    due to the reasons/excuses outlined in the last post, I haven&#8217;t been able
+    to engage as much as I would have liked with the [&#8230;]'
+  date: '2016-08-07 15:35:47'
+  date_gmt: '2016-08-07 05:35:47'
+  id: '3386'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Editors&#8217; Choice: Teacher Presence in Network Learning'
+  author_email: null
+  author_ip: 129.174.131.130
+  author_url: http://digitalhumanitiesnow.org/2016/08/teacher-presence-in-network-learning-the-weblog-of-a-david-jones/
+  content: "[&#8230;] typically learn as much as the other participants. However,\
+    \ due to the reasons/excuses outlined in the last post, I haven\u2019t been able\
+    \ to engage as much as I would have liked with the [&#8230;]"
+  date: '2016-08-12 02:31:23'
+  date_gmt: '2016-08-11 16:31:23'
+  id: '3388'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: How and why do people use the Moodle Book module?
   url: /blog/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/
+template: blog-post.html
 title: '"Open Educational Practice: the boring way and more interesting ways"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: DrJaniceKJones (@drjanicekjones)
-      author_email: drjanicekjones@twitter.example.com
-      author_ip: 60.229.226.42
-      author_url: http://twitter.com/drjanicekjones
-      content: 'As a colleague working on EDM8006 - I think it is important to mention
-        that the course brings together two curriculum areas: the arts (which is ''covered''
-        in a mere few weeks but which has 5 distinct disciplines - drama, dance, media,
-        music and visual arts) and the technologies curriculum area which has two main
-        discipline focus areas (technologies and digital technologies.) Oh...and let''s
-        not forget cultural richness and the integration of literacy and numeracy.
-    
-    
-        For me as an educator who brings a focus upon natural learning/exploratory/informal
-        and non-formal learning to my teaching it is a huge challenge working within the
-        structures of a pre-formed curriculum - and within a university semester. So -
-        I have asked students to link their practice (the assessment activities for the
-        arts and project design briefs and project management for the technologies and
-        digital technologies areas - to a ''real life'' community festival.)  My hope
-        is that by doing so we can begin to move our minds out beyond the ''framing and
-        constraining'' structures of the course, the curriculum and the assessment targets
-        - to the world outside. Making what we do an adventure - realistic - slightly
-        risky and hopefully more meaningful. Sadly - I can''t take the two pre-service
-        teachers out and demand that they actually construct a float with costumes, music
-        and dances for the local Carnival of Flowers. But they can imaging the challenges.
-    
-    
-        Ideally - whatever they create in response to that challene - I would like to
-        see shared shared with other teachers, students and teacher -educators. But if
-        we deposit our works in a place where we ''pass through'' only for a short time
-        - then that work is lost when we leave. That is part of the limit of university
-        storage and portfolios. Only the signatory can access the account for as long
-        as s/he is a member. The content probably has a limited life-span anyway - we
-        always re-create from what is around us and from our imaginations. But - how to
-        make the networked and ''flowing'' world, more normal in the ''structured'' world
-        of formal education - and in preparing future educators for their role in formal
-        schooling?
-    
-        Tricky. I like the network images...that flow. It suggests we do not work or think
-        or relate in ways consistent with the structures we have created for managing
-        complex processes and measuring ''success''/quality....ah..and that is another
-        tale...'
-      date: '2016-08-07 20:23:03'
-      date_gmt: '2016-08-07 10:23:03'
-      id: '3387'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Teacher presence in network learning &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.61
-      author_url: https://davidtjones.wordpress.com/2016/08/07/teacher-presence-in-network-learning/
-      content: '[&#8230;] typically learn as much as the other participants. However,
-        due to the reasons/excuses outlined in the last post, I haven&#8217;t been able
-        to engage as much as I would have liked with the [&#8230;]'
-      date: '2016-08-07 15:35:47'
-      date_gmt: '2016-08-07 05:35:47'
-      id: '3386'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Editors&#8217; Choice: Teacher Presence in Network Learning'
-      author_email: null
-      author_ip: 129.174.131.130
-      author_url: http://digitalhumanitiesnow.org/2016/08/teacher-presence-in-network-learning-the-weblog-of-a-david-jones/
-      content: "[&#8230;] typically learn as much as the other participants. However,\
-        \ due to the reasons/excuses outlined in the last post, I haven\u2019t been able\
-        \ to engage as much as I would have liked with the [&#8230;]"
-      date: '2016-08-12 02:31:23'
-      date_gmt: '2016-08-11 16:31:23'
-      id: '3388'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Due to a combination of personal and institutional flaws (the information systems and enterprise processes within Universities continue to be "interesting") that last month or so has been pretty horrendous from a work perspective. Only now starting to get some space to reflect on what's been happening and engage more students and research. My apologies to the students who have been impacted.
 
@@ -101,11 +99,11 @@ That grant application was unsuccessful (largely due to me), however, another me
 
 In part, the following also draws on the nascent model of the properties and nature of digital technologies initially proposed in [this presentation](http://bit.ly/dtignorance). A version of that model (see image below) was actually [used within the content](https://htmlpreview.github.io/?https://github.com/djplaner/digtech-subject/blob/master/004%20What%20are%20digital%20technologies.html) I wrote for the EDM8006 course. It also wonders much further from what I'd originally intended to write.
 
-[![A model of digital technologies](images/28650668341_999074c31b.jpg)](https://www.flickr.com/photos/david_jones/28650668341 "A model of digital technologies")
+[![A model of digital technologies](https://djon.es/assets/blog/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/images/28650668341_999074c31b.jpg)](https://www.flickr.com/photos/david_jones/28650668341 "A model of digital technologies")
 
 ## The boring way
 
-[![Horsey, Horseless Carriage](images/1899horseyhorseless-png_918790_ver1-0.png)](https://www.google.com/patents/USD30551#v=onepage&q&f=false)
+[![Horsey, Horseless Carriage](https://djon.es/assets/blog/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/images/1899horseyhorseless-png_918790_ver1-0.png)](https://www.google.com/patents/USD30551#v=onepage&q&f=false)
 
 The [failed grant application](/blog/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/) from earlier this year included the following
 
@@ -113,7 +111,7 @@ But OEP has a horsey horseless carriage problem (Bigum, 2012). Most use of OEP i
 
 And for me this remains the boring (and perhaps even wrong) way to think of open education resources/practice. i.e. spend the time and effort to polish course materials into a book and make that book openly available to all.
 
-[![Cover of 3rd edition](images/28525315920_10062391ca_m.jpg)](https://www.flickr.com/photos/david_jones/28525315920/in/dateposted-public/ "Cover of 3rd edition")
+[![Cover of 3rd edition](https://djon.es/assets/blog/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/images/28525315920_10062391ca_m.jpg)](https://www.flickr.com/photos/david_jones/28525315920/in/dateposted-public/ "Cover of 3rd edition")
 
 Of course, it's not really a "wrong" way, if it becomes a stepping stone toward doing something more interesting. The Zone of Proximal development and a range of other perspectives explain why it is difficult for any individual to make a huge leap from something they already know (and are expert in) to practices that are completely different. I know, I've been through that. The image to the right (with the penguin) is the cover from the [open text book](/blog/2008/12/22/an-introduction-to-linux-systems-administration-4th-edition/) some colleagues and I wrote in the late 1990s. Creating an open text book might actually be a stepping stone to a less boring application of open, but I wonder if it can be for most people in most educational institutions.
 
@@ -204,7 +202,7 @@ Someone involved with teachers and teacher education might think that a good sol
 
 The last problem is related to the following quote from Norman.
 
-I think it would be really interesting to design an environment that leverages the nature of digital technologies to make it easy for teachers (of all types) to engage in activities, help them do their job effectively, and enable them to learn and break out of the persistent pattern of relations that currently exist. And by the by, have them engage in open educational practices. [![Norman on affordances](images/18656913650_b2a17f2513_z.jpg)](https://www.flickr.com/photos/david_jones/18656913650/in/photolist-uqDyr1 "Norman on affordances")
+I think it would be really interesting to design an environment that leverages the nature of digital technologies to make it easy for teachers (of all types) to engage in activities, help them do their job effectively, and enable them to learn and break out of the persistent pattern of relations that currently exist. And by the by, have them engage in open educational practices. [![Norman on affordances](https://djon.es/assets/blog/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/images/18656913650_b2a17f2513_z.jpg)](https://www.flickr.com/photos/david_jones/18656913650/in/photolist-uqDyr1 "Norman on affordances")
 
  
 

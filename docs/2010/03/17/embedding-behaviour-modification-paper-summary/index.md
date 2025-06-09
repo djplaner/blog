@@ -1,55 +1,52 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - herding-cats
 - indicators
-date: 2010-03-17 21:51:43+10:00
+comments: []
+date: 2010-03-17 11:51:43
 next:
   text: Research Method - Overview
   url: /blog/2010/03/18/research-method-overview/
+pingbacks:
+- approved: '1'
+  author: 'From theory to intervention: Mapping theoretically derived behavioural
+    determinants to behaviour change techniques &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.104.11
+  author_url: https://djon.es/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
+  content: '[...] my current interest in &#8220;nudging&#8221; &#8211; the design
+    of good choice architecture and behaviour modification is coming from. The basic
+    aim is to redesign the environment within which teaching occurs in a way [...]'
+  date: '2010-03-25 14:19:52'
+  date_gmt: '2010-03-25 04:19:52'
+  id: '2970'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 1 &#8211; Me and Networked and Global Learning (NGL) | An experiment
+    in Networked &amp; Global Learning
+  author_email: null
+  author_ip: 66.135.48.150
+  author_url: http://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/
+  content: '[&#8230;] couple of the readings below gives you some idea of the rationale
+    for this. This 2010 post from my blog gives an example (not necessarily an exemplar,
+    just an example) of one approach you [&#8230;]'
+  date: '2014-07-17 12:21:39'
+  date_gmt: '2014-07-17 02:21:39'
+  id: '2971'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The story of BIM - the slow expansion of BAM
   url: /blog/2010/03/17/the-story-of-bim-the-slow-expansion-of-bam/
+template: blog-post.html
 title: Embedding behaviour modification - paper summary
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'From theory to intervention: Mapping theoretically derived behavioural
-        determinants to behaviour change techniques &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.104.11
-      author_url: https://djon.es/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
-      content: '[...] my current interest in &#8220;nudging&#8221; &#8211; the design
-        of good choice architecture and behaviour modification is coming from. The basic
-        aim is to redesign the environment within which teaching occurs in a way [...]'
-      date: '2010-03-25 14:19:52'
-      date_gmt: '2010-03-25 04:19:52'
-      id: '2970'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 1 &#8211; Me and Networked and Global Learning (NGL) | An experiment
-        in Networked &amp; Global Learning
-      author_email: null
-      author_ip: 66.135.48.150
-      author_url: http://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/
-      content: '[&#8230;] couple of the readings below gives you some idea of the rationale
-        for this. This 2010 post from my blog gives an example (not necessarily an exemplar,
-        just an example) of one approach you [&#8230;]'
-      date: '2014-07-17 12:21:39'
-      date_gmt: '2014-07-17 02:21:39'
-      id: '2971'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A growing interest of mine is an investigation of how the design of the environment and information systems to support university learning and teaching can be improved with a greater consideration given to factors which can help encourage improvement and change. i.e. not just building systems that do a task (e.g. manage a discussion forum) but design a discussion forum that encourages and enables an academic to adopt strategies and tactics that are known to be good. If they choose to.
 

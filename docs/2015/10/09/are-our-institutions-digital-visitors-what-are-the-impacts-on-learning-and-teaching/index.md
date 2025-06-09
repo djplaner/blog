@@ -1,69 +1,67 @@
----
+﻿---
 categories:
 - bad
 - set
 - visitor
-date: 2015-10-09 12:51:08+10:00
+comments:
+- approved: '1'
+  author: VanessaVaile
+  author_email: vcrary@yahoo.com
+  author_ip: 199.47.64.49
+  author_url: http://blogueriadevanessa.wordpress.com
+  content: Reblogged this on <a href="https://adjunctiverse.wordpress.com/2015/10/14/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching/"
+    rel="nofollow">As the Adjunctiverse Turns</a>.
+  date: '2015-10-15 06:39:31'
+  date_gmt: '2015-10-14 20:39:31'
+  id: '1445'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2015-10-09 02:51:08
 next:
   text: '"Re-purposing V&#038;R mapping to explore modification of digital learning
     spaces"'
   url: /blog/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/
+pingbacks:
+- approved: '1'
+  author: Are our institutions digital visitors? What ar...
+  author_email: null
+  author_ip: 185.82.148.10
+  author_url: http://www.scoop.it/t/footprintdigital/p/4053188849/2015/10/09/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching
+  content: '[&#8230;] As it happens, we&rsquo;ve been talking and thinking about the
+    Visitor/Resident typology (White &amp; Cornu, 2011) that last couple of weeks.
+    The network gods have been kind, because over night a post titled &ldquo;The resident
+    web and its impact on the academy&rdquo; (Lanclos &amp; White, 2015) floats across
+    my Twitter stream. Much food for thought.&nbsp; [&#8230;]'
+  date: '2015-10-10 01:12:50'
+  date_gmt: '2015-10-09 15:12:50'
+  id: '1443'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Are our institutions digital visitors? What are...
+  author_email: null
+  author_ip: 185.82.148.10
+  author_url: http://www.scoop.it/t/learning-spaces-and-the-physical-environment/p/4053315890/2015/10/12/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching-the-weblog-of-a-david-jon
+  content: '[&#8230;] As it happens, we&#039;ve been talking and thinking about the
+    Visitor/Resident typology (White &amp; Cornu, 2011) that last couple of weeks.
+    The network gods have been kind, because over night a post titled &quot;The resident
+    web and its impact on the academy&quot; (Lanclos &amp; White, 2015) floats across
+    my Twitter stream. Much food for thought.&hellip;&nbsp; [&#8230;]'
+  date: '2015-10-12 12:17:06'
+  date_gmt: '2015-10-12 02:17:06'
+  id: '1444'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What is &quot;netgl&quot; and how might it apply to my problem
   url: /blog/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
+template: blog-post.html
 title: Are our institutions digital visitors?  What are the impacts on learning and
   teaching?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VanessaVaile
-      author_email: vcrary@yahoo.com
-      author_ip: 199.47.64.49
-      author_url: http://blogueriadevanessa.wordpress.com
-      content: Reblogged this on <a href="https://adjunctiverse.wordpress.com/2015/10/14/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching/"
-        rel="nofollow">As the Adjunctiverse Turns</a>.
-      date: '2015-10-15 06:39:31'
-      date_gmt: '2015-10-14 20:39:31'
-      id: '1445'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Are our institutions digital visitors? What ar...
-      author_email: null
-      author_ip: 185.82.148.10
-      author_url: http://www.scoop.it/t/footprintdigital/p/4053188849/2015/10/09/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching
-      content: '[&#8230;] As it happens, we&rsquo;ve been talking and thinking about the
-        Visitor/Resident typology (White &amp; Cornu, 2011) that last couple of weeks.
-        The network gods have been kind, because over night a post titled &ldquo;The resident
-        web and its impact on the academy&rdquo; (Lanclos &amp; White, 2015) floats across
-        my Twitter stream. Much food for thought.&nbsp; [&#8230;]'
-      date: '2015-10-10 01:12:50'
-      date_gmt: '2015-10-09 15:12:50'
-      id: '1443'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Are our institutions digital visitors? What are...
-      author_email: null
-      author_ip: 185.82.148.10
-      author_url: http://www.scoop.it/t/learning-spaces-and-the-physical-environment/p/4053315890/2015/10/12/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching-the-weblog-of-a-david-jon
-      content: '[&#8230;] As it happens, we&#039;ve been talking and thinking about the
-        Visitor/Resident typology (White &amp; Cornu, 2011) that last couple of weeks.
-        The network gods have been kind, because over night a post titled &quot;The resident
-        web and its impact on the academy&quot; (Lanclos &amp; White, 2015) floats across
-        my Twitter stream. Much food for thought.&hellip;&nbsp; [&#8230;]'
-      date: '2015-10-12 12:17:06'
-      date_gmt: '2015-10-12 02:17:06'
-      id: '1444'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As it happens, we've been talking and thinking about the Visitor/Resident typology (White & Cornu, 2011) that last couple of weeks. The network gods have been kind, because over night a post titled ["The resident web and its impact on the academy"](http://www.hybridpedagogy.com/journal/resident-web-and-impact-on-academy/) (Lanclos & White, 2015) floats across my Twitter stream. Much food for thought.
 

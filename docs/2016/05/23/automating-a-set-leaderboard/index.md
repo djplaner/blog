@@ -1,21 +1,21 @@
----
+﻿---
 categories:
 - bad
 - casa
-date: 2016-05-23 12:29:55+10:00
+date: 2016-05-23 02:29:55
 next:
   text: Early thoughts on S1, 2016 offering of EDC3100
   url: /blog/2016/05/30/early-thoughts-on-s1-2016-offering-of-edc3100/
 previous:
   text: Building a CASA for student evaluation of teaching results
   url: /blog/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/
+template: blog-post.html
 title: Automating a SET leaderboard
 type: post
-template: blog-post.html
 ---
 End of semester 1 is fast approaching. One of the end of semester tasks is encouraging students in courses to complete the institutional Student Evaluation of Teaching (SET) surveys. Last year I experimented with a "SET leaderboard" (see the following image). It's a table that lists the response rates on the SET surveys for the current and previous offerings of the course ranked according to the percentage response rate.
 
-[![SET leaderboard](images/26576187213_cfc2421145.jpg)](https://www.flickr.com/photos/david_jones/26576187213/in/dateposted-public/ "SET leaderboard")
+[![SET leaderboard](https://djon.es/assets/blog/2016/05/23/automating-a-set-leaderboard/images/26576187213_cfc2421145.jpg)](https://www.flickr.com/photos/david_jones/26576187213/in/dateposted-public/ "SET leaderboard")
 
 At my institution the SET surveys open quite a few weeks before end of semester and remain open until just before the release of final results. While the surveys are open teaching staff cannot see any of the responses. However, we can see the number of responses (**Update:** at least until this year when they introduced a new system that removed this functionality **Update on the update:** Nope, looks like the new system does support it, [PEBKAC](/blog/2016/03/02/pebkac-mental-model-mismatch-and-ict/)). This was how I was able to update the leaderboard for the current offering every couple of days. The leaderboard was visible to students whenever they visited the course website. Making the current response rate visible.
 
@@ -55,7 +55,7 @@ Time to test it in Moodle. All seems to work. Here's a version within a Book cha
 
  
 
-[![Automated leaderboard](images/27150501886_a908d521b1.jpg)](https://www.flickr.com/photos/david_jones/27150501886/in/dateposted-public/ "Automated leaderboard")
+[![Automated leaderboard](https://djon.es/assets/blog/2016/05/23/automating-a-set-leaderboard/images/27150501886_a908d521b1.jpg)](https://www.flickr.com/photos/david_jones/27150501886/in/dateposted-public/ "Automated leaderboard")
 
 ###  What's required
 

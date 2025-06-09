@@ -1,65 +1,62 @@
----
+﻿---
 categories:
 - elearning
 - ple
 - plescquni
-date: 2008-11-21 08:31:34+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: 'Thanks for the clarification, I think the problem is that there exists
+    a position in the uni that is classified as an "expert designer", whereas I have
+    been thinking purely about "experts".
+
+
+    As an example of what I was assuming, imagine the university had to re-hire all
+    its lecturers. The university would not want to hire 500 (guessing?) people all
+    alike, they would want to hire people with diverse expertise as there are many
+    courses they wish to provide in many different disciplines. The organisation as
+    a whole benefits by dividing the labour required for teaching into discrete areas
+    where only a subset of knowledge is required, therefore placing an expert of that
+    knowledge in that position regardless of their other areas of knowledge increases
+    the overall knowledge that the universtiy can leverage.
+
+
+    In the guide on the side example I would still see the "guide" as an expert, but
+    an expert at scaffolding and preparing an environment for learning. They would
+    also harness other "experts" to provide content for their specific area, be it
+    through reading their papers, querying them, discussing, or direct instruction.
+    The guide on the side would in fact utilize more experts than the sage on the
+    stage.  Same too with the WordPress analogy. The WordPress staff are experts in
+    providing an API to harness other people''s expertise.
+
+
+    For PLEs I was thinking more outside of a course and at the whole student journey
+    from childhood to worker. With PLEs they can (under guidance from personal learning
+    managers, parents, mentors, etc) undertake a targeted path toward a specific goal;
+    essentially to become and expert.  Society as a whole will benefit from this type
+    of arrangement as long as it can extract value from those individuals, which is
+    why there needs to be a strong emphasis on communication and bridging to share
+    knowledge.'
+  date: '2008-11-21 13:07:37'
+  date_gmt: '2008-11-21 03:07:37'
+  id: '1898'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-11-20 22:31:34
 next:
   text: Starting a new journey and hobby - photography
   url: /blog/2008/11/21/starting-a-new-journey-and-hobby-photography/
+pingbacks: []
 previous:
   text: Tool users, research, hammers and the law of instrument
   url: /blog/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/
+template: blog-post.html
 title: More on the expert designer - efficiency and effectiveness
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: 'Thanks for the clarification, I think the problem is that there exists
-        a position in the uni that is classified as an "expert designer", whereas I have
-        been thinking purely about "experts".
-    
-    
-        As an example of what I was assuming, imagine the university had to re-hire all
-        its lecturers. The university would not want to hire 500 (guessing?) people all
-        alike, they would want to hire people with diverse expertise as there are many
-        courses they wish to provide in many different disciplines. The organisation as
-        a whole benefits by dividing the labour required for teaching into discrete areas
-        where only a subset of knowledge is required, therefore placing an expert of that
-        knowledge in that position regardless of their other areas of knowledge increases
-        the overall knowledge that the universtiy can leverage.
-    
-    
-        In the guide on the side example I would still see the "guide" as an expert, but
-        an expert at scaffolding and preparing an environment for learning. They would
-        also harness other "experts" to provide content for their specific area, be it
-        through reading their papers, querying them, discussing, or direct instruction.
-        The guide on the side would in fact utilize more experts than the sage on the
-        stage.  Same too with the WordPress analogy. The WordPress staff are experts in
-        providing an API to harness other people''s expertise.
-    
-    
-        For PLEs I was thinking more outside of a course and at the whole student journey
-        from childhood to worker. With PLEs they can (under guidance from personal learning
-        managers, parents, mentors, etc) undertake a targeted path toward a specific goal;
-        essentially to become and expert.  Society as a whole will benefit from this type
-        of arrangement as long as it can extract value from those individuals, which is
-        why there needs to be a strong emphasis on communication and bridging to share
-        knowledge.'
-      date: '2008-11-21 13:07:37'
-      date_gmt: '2008-11-21 03:07:37'
-      id: '1898'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 A [previous post](/blog/2008/11/15/expert-designer-another-assumption-ples-question/) has gotten [a comment](/blog/2008/11/15/expert-designer-another-assumption-ples-question/#comment-1537) which I want to follow up on. The interface for writing a post gives more opportunity to be creative than that provided to add comments.
 

@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - cck09
 - elearning
 - ple
 - plescquni
-date: 2009-10-16 09:41:12+10:00
+date: 2009-10-15 23:41:12
 next:
   text: Choosing a research publication outlet
   url: /blog/2009/10/19/choosing-a-publication-outlet/
 previous:
   text: Thoughts about the next steps for the indicators project
   url: /blog/2009/10/15/thoughts-about-the-next-steps-for-the-indicators-project/
+template: blog-post.html
 title: '"Podcast for presentations at the PLEs &#038; PLNs symposium"'
 type: post
-template: blog-post.html
 ---
 The following basically tells the rationale and approach used to create a [(audio) podcast](http://feeds.feedburner.com/Delicious/davidj1/pleplnpodcast) of the presentations from the [Personal Learning Environments & Personal Learning Networks Online symposium on learning-centric technology](http://ltc.umanitoba.ca/blogs/ples/).
 

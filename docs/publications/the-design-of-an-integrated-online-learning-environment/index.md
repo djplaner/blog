@@ -1,99 +1,96 @@
----
-date: 2008-10-22 13:40:09+10:00
+﻿---
+comments: []
+date: 2008-10-22 03:40:09
+pingbacks:
+- approved: '1'
+  author: A Paradigmatic Analysis of Information Systems As a Design Science &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.65
+  author_url: https://djon.es/blog/2008/10/25/a-paradigmatic-analysis-of-information-systems-as-a-design-science/
+  content: '[...] clearly stated and understood kernel theories based on formal descriptive
+    research. However, a very early paper (Jones and Buchanan, 1996) on that work
+    included the following  It is hoped that the design [...]'
+  date: '2008-10-25 22:29:14'
+  date_gmt: '2008-10-25 12:29:14'
+  id: '1837'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
+  content: '[...] quality of support services and resources. This is an extension
+    of one of the principles behind the design of the Webfuse e-learning system (Jones
+    and Buchanan, 1996) within which BAM is currently implemented. This principle
+    is talked [...]'
+  date: '2009-03-02 15:40:35'
+  date_gmt: '2009-03-02 05:40:35'
+  id: '1838'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The protean nature of modern technology - another limitation of most views
+    of e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.24
+  author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
+  content: '[...] of the core aims behind the design of the Webfuse e-learning system
+    (Jones and Buchanan, 1996) was &#8220;flexibility and the ability to adapt to
+    change&#8221;. In [...]'
+  date: '2009-03-06 08:54:30'
+  date_gmt: '2009-03-05 22:54:30'
+  id: '1839'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: First official BAM paper done &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/04/30/first-official-bam-paper-done/
+  content: '[...] one of the initial ideas of Webfuse (&#8221;maximise adaptability
+    by concentrating on providing the infrastructure required to [...]'
+  date: '2009-04-30 09:22:31'
+  date_gmt: '2009-04-29 23:22:31'
+  id: '1840'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Webfuse is dead! Long live Webfuse! &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.243.207
+  author_url: https://djon.es/blog/2010/03/10/webfuse-is-dead-long-live-webfuse/
+  content: '[...] e-learning has found &#8220;concrete&#8221; form in a system call
+    Webfuse. First described in Jones and Buchanan (1996) Webfuse became an essential
+    part of CQU&#8217;s operations. The unkindest (and basically [...]'
+  date: '2010-03-10 17:08:31'
+  date_gmt: '2010-03-10 07:08:31'
+  id: '1841'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Constructivism and Social Learning | The Advocate
+  author_email: null
+  author_ip: 66.135.63.39
+  author_url: http://janmoore208.edublogs.org/2011/07/23/constructivism-and-social-learning/
+  content: '[...] https://djon.es/blog/publications/the-design-of-an-integrated-online-learning-environmen...
+    [...]'
+  date: '2011-07-24 11:04:03'
+  date_gmt: '2011-07-24 01:04:03'
+  id: '1843'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: The design of an integrated online learning environment
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: A Paradigmatic Analysis of Information Systems As a Design Science &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.65
-      author_url: https://djon.es/blog/2008/10/25/a-paradigmatic-analysis-of-information-systems-as-a-design-science/
-      content: '[...] clearly stated and understood kernel theories based on formal descriptive
-        research. However, a very early paper (Jones and Buchanan, 1996) on that work
-        included the following  It is hoped that the design [...]'
-      date: '2008-10-25 22:29:14'
-      date_gmt: '2008-10-25 12:29:14'
-      id: '1837'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
-      content: '[...] quality of support services and resources. This is an extension
-        of one of the principles behind the design of the Webfuse e-learning system (Jones
-        and Buchanan, 1996) within which BAM is currently implemented. This principle
-        is talked [...]'
-      date: '2009-03-02 15:40:35'
-      date_gmt: '2009-03-02 05:40:35'
-      id: '1838'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The protean nature of modern technology - another limitation of most views
-        of e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.24
-      author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
-      content: '[...] of the core aims behind the design of the Webfuse e-learning system
-        (Jones and Buchanan, 1996) was &#8220;flexibility and the ability to adapt to
-        change&#8221;. In [...]'
-      date: '2009-03-06 08:54:30'
-      date_gmt: '2009-03-05 22:54:30'
-      id: '1839'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: First official BAM paper done &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/04/30/first-official-bam-paper-done/
-      content: '[...] one of the initial ideas of Webfuse (&#8221;maximise adaptability
-        by concentrating on providing the infrastructure required to [...]'
-      date: '2009-04-30 09:22:31'
-      date_gmt: '2009-04-29 23:22:31'
-      id: '1840'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Webfuse is dead! Long live Webfuse! &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.243.207
-      author_url: https://djon.es/blog/2010/03/10/webfuse-is-dead-long-live-webfuse/
-      content: '[...] e-learning has found &#8220;concrete&#8221; form in a system call
-        Webfuse. First described in Jones and Buchanan (1996) Webfuse became an essential
-        part of CQU&#8217;s operations. The unkindest (and basically [...]'
-      date: '2010-03-10 17:08:31'
-      date_gmt: '2010-03-10 07:08:31'
-      id: '1841'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Constructivism and Social Learning | The Advocate
-      author_email: null
-      author_ip: 66.135.63.39
-      author_url: http://janmoore208.edublogs.org/2011/07/23/constructivism-and-social-learning/
-      content: '[...] https://djon.es/blog/publications/the-design-of-an-integrated-online-learning-environmen...
-        [...]'
-      date: '2011-07-24 11:04:03'
-      date_gmt: '2011-07-24 01:04:03'
-      id: '1843'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A much expanded and more recent description of the rationale and design of this system is available in three recent blog posts: [design guidelines](/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/), [design and implementation - part 1](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/) and [design and implementation - part 2](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/)
 

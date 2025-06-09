@@ -1,8 +1,8 @@
----
-date: 2008-12-31 14:45:55+10:00
+﻿---
+date: 2008-12-31 04:45:55
+template: blog-post.html
 title: '"Web Information Systems Development: Some neglected aspects"'
 type: page
-template: blog-post.html
 ---
 Shirley Gregor, David Jones, Teresa Lynch, A. Alison Plummer, Web Information Systems Development: Some neglected aspects, in Don Schwartz, Glen Earl (editors), Proceedings of the International Business Association Conference, Cancun Mexico, May 1999, pp 175-187
 

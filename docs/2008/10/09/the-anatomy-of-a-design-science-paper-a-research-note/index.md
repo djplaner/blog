@@ -1,11 +1,42 @@
----
+﻿---
 categories:
 - design-theory
 - thesis
-date: 2008-10-09 21:07:19+10:00
+comments: []
+date: 2008-10-09 11:07:19
 next:
   text: The great website move of 2008
   url: /blog/2008/10/16/the-great-website-move-of-2008/
+pingbacks:
+- approved: '1'
+  author: Why formulaic guidance annoys experts and why they ignore the needs of the
+    novice &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/
+  content: '[...] and why they ignore the needs of the&nbsp;novice  Shirley is keen
+    to do some more work on the &#8220;research note&#8221; suggesting a structure
+    for a design theory/research thesis/paper. This was the appendix that was [...]'
+  date: '2009-02-27 15:29:57'
+  date_gmt: '2009-02-27 05:29:57'
+  id: '1609'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD update #1 - the start of a tradition? &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 72.233.96.152
+  author_url: https://djon.es/blog/2009/02/27/phd-update-1-the-start-of-a-tradition/
+  content: '[...] some thought to the research note describing how to write up information
+    systems design research [...]'
+  date: '2009-02-27 15:34:06'
+  date_gmt: '2009-02-27 05:34:06'
+  id: '1610'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The emergence of design research in IS in North America
   url: /blog/2008/10/08/the-emergence-of-design-research-in-is-in-north-america/
@@ -14,43 +45,9 @@ tags:
 - designscience-hevner-walls
 - isdr
 - isdt
+template: blog-post.html
 title: '"The Anatomy of a Design Science Paper: A Research Note"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Why formulaic guidance annoys experts and why they ignore the needs of the
-        novice &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/
-      content: '[...] and why they ignore the needs of the&nbsp;novice  Shirley is keen
-        to do some more work on the &#8220;research note&#8221; suggesting a structure
-        for a design theory/research thesis/paper. This was the appendix that was [...]'
-      date: '2009-02-27 15:29:57'
-      date_gmt: '2009-02-27 05:29:57'
-      id: '1609'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD update #1 - the start of a tradition? &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 72.233.96.152
-      author_url: https://djon.es/blog/2009/02/27/phd-update-1-the-start-of-a-tradition/
-      content: '[...] some thought to the research note describing how to write up information
-        systems design research [...]'
-      date: '2009-02-27 15:34:06'
-      date_gmt: '2009-02-27 05:34:06'
-      id: '1610'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 (**A Suggested Structure for a Design Science Article or Thesis**)
 

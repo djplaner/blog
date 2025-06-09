@@ -1,124 +1,121 @@
----
+﻿---
 categories:
 - elearning
-date: 2009-11-24 08:42:42+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: '<blockquote>We focused solely on the individual student blog as a way
+    to make the learning visible to the staff member. I think encouraging (not necessarily
+    requiring) student blog posts to be visible to other students would have opened
+    up unexpected benefits. It may also have been somewhat difficult.</blockquote>
+
+    Sounds like that would tie into a karma system and make advances into establishing
+    authority from within the class rather than being teacher/tutor centric.
+
+
+    There has been some interesting discussions</a> into the development of authority
+    via simple devices such as  thumbs up/down on posts. The idea is to allow ANY
+    form of participation to be expressed; some may want to dive in and write a response,
+    some might want to sign up and follow the whole conversation, but some just want
+    to nod in confirmation of a good idea or followup. ALL of these forms add weight
+    to the conversation and help give a sense of contribution. Within group discussion
+    we have these positive affirmation cues given through subtle non-verbal means
+    that help communicate back to the speaker as well as the group about how effective
+    their contribution has been.'
+  date: '2009-11-24 17:16:31'
+  date_gmt: '2009-11-24 07:16:31'
+  id: '2874'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Colin Warren
+  author_email: colwar@deakin.edu.au
+  author_ip: 180.222.21.45
+  author_url: http://www.learnerbytes.net
+  content: 'thanks for your thoughts David, you have covered some interesting ideas
+    in this post.
+
+
+    I wanted to pick up two things. I''ve come to see that we need to find the vehicle/structure
+    that will help the early &amp; late majority of staff to ''cross the chasm''.
+    We need to employ the correct tools (be they social software/networking applications
+    or professional development activities) to bridge the gap. We need to get people
+    on the bus. The problem is giving them the reason or initiative to come on the
+    ride with us.
+
+
+    ...and that leads to my other point. If the institution isn''t providing the correct
+    policy, resources &amp; framework - this will be difficult, and things won''t
+    change. There''s too much emphasis on the management system and not enough on
+    how to improve learning.'
+  date: '2009-11-26 20:20:00'
+  date_gmt: '2009-11-26 10:20:00'
+  id: '2875'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Colin,
+
+
+    I''m not sure I can see that getting the right "tools" will provide the vehicle
+    to cross the chasm.
+
+
+    At the moment, I think the potholes in the road across the chasm arise from the
+    entire environment around learning and teaching within universities.  The over
+    emphasis on research in promotion, fear of failure, top-down edicts around L&amp;T,
+    a focus on fads (e-portfolios, LMS, Web 2.0...) and a lack of focus on contextual
+    needs..... all create the chasm.  I think you pick this up a bit with the policy/resources/framework
+    point.
+
+
+    My trouble is - apart from perhaps being overly pessimistic/realistic - that the
+    mindsets and expectations of the people creating that environment are also held
+    back by the environment within higher education.  Short-term contracts for senior
+    management which encourage them to focus on short-term gains, or at least the
+    perspective of gains, at the expense of long-term improvement.  A focus on re-arranging
+    the deck chairs, rather than removing the iceberg.
+
+
+    Need to give some more thought to all this and see if I can capture it in a post.
+
+
+    To some extent, this is the point I tried to argue in the <a href="https://djon.es/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/"
+    rel="nofollow">herding cats, loosing weight talk</a>
+
+
+    Thanks for the comment, got me thinking again.
+
+
+    David.'
+  date: '2009-11-27 09:38:48'
+  date_gmt: '2009-11-26 23:38:48'
+  id: '2876'
+  parent: '2875'
+  type: comment
+  user_id: '1'
+date: 2009-11-23 22:42:42
 next:
   text: Any one for a grant application/research project?
   url: /blog/2009/11/27/any-one-for-a-grant-applicationresearch-project/
+pingbacks: []
 previous:
   text: Web 2.0 in assessment - an opening statement?
   url: /blog/2009/11/22/web-2-0-in-assessment-an-opening-statement/
 tags:
 - asw2a
+template: blog-post.html
 title: Reflections on asw2a
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: '<blockquote>We focused solely on the individual student blog as a way
-        to make the learning visible to the staff member. I think encouraging (not necessarily
-        requiring) student blog posts to be visible to other students would have opened
-        up unexpected benefits. It may also have been somewhat difficult.</blockquote>
-    
-        Sounds like that would tie into a karma system and make advances into establishing
-        authority from within the class rather than being teacher/tutor centric.
-    
-    
-        There has been some interesting discussions</a> into the development of authority
-        via simple devices such as  thumbs up/down on posts. The idea is to allow ANY
-        form of participation to be expressed; some may want to dive in and write a response,
-        some might want to sign up and follow the whole conversation, but some just want
-        to nod in confirmation of a good idea or followup. ALL of these forms add weight
-        to the conversation and help give a sense of contribution. Within group discussion
-        we have these positive affirmation cues given through subtle non-verbal means
-        that help communicate back to the speaker as well as the group about how effective
-        their contribution has been.'
-      date: '2009-11-24 17:16:31'
-      date_gmt: '2009-11-24 07:16:31'
-      id: '2874'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Colin Warren
-      author_email: colwar@deakin.edu.au
-      author_ip: 180.222.21.45
-      author_url: http://www.learnerbytes.net
-      content: 'thanks for your thoughts David, you have covered some interesting ideas
-        in this post.
-    
-    
-        I wanted to pick up two things. I''ve come to see that we need to find the vehicle/structure
-        that will help the early &amp; late majority of staff to ''cross the chasm''.
-        We need to employ the correct tools (be they social software/networking applications
-        or professional development activities) to bridge the gap. We need to get people
-        on the bus. The problem is giving them the reason or initiative to come on the
-        ride with us.
-    
-    
-        ...and that leads to my other point. If the institution isn''t providing the correct
-        policy, resources &amp; framework - this will be difficult, and things won''t
-        change. There''s too much emphasis on the management system and not enough on
-        how to improve learning.'
-      date: '2009-11-26 20:20:00'
-      date_gmt: '2009-11-26 10:20:00'
-      id: '2875'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Colin,
-    
-    
-        I''m not sure I can see that getting the right "tools" will provide the vehicle
-        to cross the chasm.
-    
-    
-        At the moment, I think the potholes in the road across the chasm arise from the
-        entire environment around learning and teaching within universities.  The over
-        emphasis on research in promotion, fear of failure, top-down edicts around L&amp;T,
-        a focus on fads (e-portfolios, LMS, Web 2.0...) and a lack of focus on contextual
-        needs..... all create the chasm.  I think you pick this up a bit with the policy/resources/framework
-        point.
-    
-    
-        My trouble is - apart from perhaps being overly pessimistic/realistic - that the
-        mindsets and expectations of the people creating that environment are also held
-        back by the environment within higher education.  Short-term contracts for senior
-        management which encourage them to focus on short-term gains, or at least the
-        perspective of gains, at the expense of long-term improvement.  A focus on re-arranging
-        the deck chairs, rather than removing the iceberg.
-    
-    
-        Need to give some more thought to all this and see if I can capture it in a post.
-    
-    
-        To some extent, this is the point I tried to argue in the <a href="https://djon.es/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/"
-        rel="nofollow">herding cats, loosing weight talk</a>
-    
-    
-        Thanks for the comment, got me thinking again.
-    
-    
-        David.'
-      date: '2009-11-27 09:38:48'
-      date_gmt: '2009-11-26 23:38:48'
-      id: '2876'
-      parent: '2875'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The following is a collection of reflections on the [Web 2.0 Authoring Tools in Higher Education Learning and Teaching: New Directions for Assessment and Academic Integrity National Roundtable](http://web2assessmentroundtable.pbworks.com/) that I attended yesterday.
 
@@ -187,7 +184,7 @@ So, if we're still learning how to use it effectively, how can you generate prin
 
 It was my observation that all of the folk there yesterday talking about Web 2.0 were innovators or very early adopters. Folk on the left hand side of Moore's chasm shown in the following image.
 
-[![](images/Technology-Adoption-Lifecycle.png)](http://en.wikipedia.org/wiki/File:Technology-Adoption-Lifecycle.png)
+[![](https://djon.es/assets/blog/2009/11/24/reflections-on-asw2a/images/Technology-Adoption-Lifecycle.png)](http://en.wikipedia.org/wiki/File:Technology-Adoption-Lifecycle.png)
 
 The majority of academics at universities are on the right hand side of the chasm. They are significantly different from the innovators. What excites them, what encourages them to change is significantly different. Moore (2002) and Geohegan (1994) have some specific things to say about the nature of this difference and the problems it poses for technology mediated learning.
 

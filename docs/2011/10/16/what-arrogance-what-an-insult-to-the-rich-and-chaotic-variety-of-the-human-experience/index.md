@@ -1,101 +1,99 @@
----
+﻿---
 categories:
 - teaching
-date: 2011-10-16 08:05:37+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 58.106.134.77
+  author_url: http://cj13.wordpress.com/
+  content: I guess someone may but it really misses the point. We know how systems
+    respond to this kind of stuff. My heart goes out to those folk who actually care
+    about kids and do their level best to help, support, encourage, draw out their
+    very very best. If you deployed a strategic nuclear weapon to take out all of
+    EQ would anyone notice? I very much doubt it. Teaching is a profession. Would
+    doctors tolerate this mindless bovine excretory byproduct? Not on your Nellie.
+    God bless her. When "THE SYSTEM" demonstrates it actually cares about kids I might
+    begin to pay attention. But till then, trust your humanity. Take no prisoners
+    and believe in the wonderful capacity of kids to do damn near anything with the
+    right kind of support, love and encouragement.
+  date: '2011-11-03 20:57:04'
+  date_gmt: '2011-11-03 10:57:04'
+  id: '140'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: mummarosie
+  author_email: lisa@stellaandmarco.com
+  author_ip: 123.243.163.5
+  author_url: http://mummarosie.wordpress.com
+  content: 'Reblogged this on <a href="http://mummarosie.wordpress.com/2014/04/17/what-arrogance-what-an-insult-to-the-rich-and-chaotic-variety-of-the-human-experience/"
+    rel="nofollow">Lisa Rose&#039;s Blog</a> and commented:
+
+    This blog resonates with me- why?
+
+    I have worked as a teacher aide in a private school in Qld for the last 2 years.  We
+    did not have C2C, and many UoW were being created while I worked there.  I was
+    fortunate to experience the work involved in any planning to do with UoW.  These
+    need to change according to the students you teach.  Are you teaching information
+    to students or teaching students to understand information and develop skills?
+    If it is the latter, you will need to vary your teaching, the lessons, the units
+    according to the students individuality (differentiating accordingly) but ALSO
+    according to the world they are living in.  Our world changes regularly and teaching
+    needs to change with it.  Get with the program!'
+  date: '2014-04-17 19:01:14'
+  date_gmt: '2014-04-17 09:01:14'
+  id: '143'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-10-15 22:05:37
 next:
   text: Turning point 2.0
   url: /blog/2011/11/10/turning-point-2-0/
+pingbacks:
+- approved: '1'
+  author: My Smart Classroom &raquo; Blog Archive &raquo; Curriculum into the Classroom
+    and The Learning Place
+  author_email: null
+  author_ip: 66.135.62.16
+  author_url: http://classroomitcs.edublogs.org/2013/04/22/curriculum-into-the-classroom-and-the-learning-place/
+  content: "[...] something interesting, from our illustrious leader David no less.\_\
+    \ In his blog post titled &#8216;What arrogance! What an insult to the rich and\
+    \ chaotic variety of the human\_experience&#8217; David explains that this prescriptive\
+    \ resource diminishes, if not totally destroys, the ability for [...]"
+  date: '2013-04-22 12:58:01'
+  date_gmt: '2013-04-22 02:58:01'
+  id: '141'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: C2C &#8211; Helpful or destructive to the Student Teacher | Mr Cumners ICT
+    Learning Journey
+  author_email: null
+  author_ip: 66.135.42.93
+  author_url: http://mrcumnersblog.edublogs.org/2013/04/29/c2c-helpful-or-destructive-to-the-student-teacher/
+  content: "[...] which looked at the access and implementation of C2C for student\
+    \ teachers.\_ She also points out a link to a blog written by our course\_lecturer\
+    \ where he gives his thoughts and opinions of [...]"
+  date: '2013-04-29 14:19:28'
+  date_gmt: '2013-04-29 04:19:28'
+  id: '142'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: '&quot;Clickers&quot;, success, and why do I feel dirty?'
   url: /blog/2011/10/09/clickers-success-and-why-do-i-feel-dirty/
 tags:
 - acara
 - national-curriculum
+template: blog-post.html
 title: What arrogance! What an insult to the rich and chaotic variety of the human
   experience
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 58.106.134.77
-      author_url: http://cj13.wordpress.com/
-      content: I guess someone may but it really misses the point. We know how systems
-        respond to this kind of stuff. My heart goes out to those folk who actually care
-        about kids and do their level best to help, support, encourage, draw out their
-        very very best. If you deployed a strategic nuclear weapon to take out all of
-        EQ would anyone notice? I very much doubt it. Teaching is a profession. Would
-        doctors tolerate this mindless bovine excretory byproduct? Not on your Nellie.
-        God bless her. When "THE SYSTEM" demonstrates it actually cares about kids I might
-        begin to pay attention. But till then, trust your humanity. Take no prisoners
-        and believe in the wonderful capacity of kids to do damn near anything with the
-        right kind of support, love and encouragement.
-      date: '2011-11-03 20:57:04'
-      date_gmt: '2011-11-03 10:57:04'
-      id: '140'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: mummarosie
-      author_email: lisa@stellaandmarco.com
-      author_ip: 123.243.163.5
-      author_url: http://mummarosie.wordpress.com
-      content: 'Reblogged this on <a href="http://mummarosie.wordpress.com/2014/04/17/what-arrogance-what-an-insult-to-the-rich-and-chaotic-variety-of-the-human-experience/"
-        rel="nofollow">Lisa Rose&#039;s Blog</a> and commented:
-    
-        This blog resonates with me- why?
-    
-        I have worked as a teacher aide in a private school in Qld for the last 2 years.  We
-        did not have C2C, and many UoW were being created while I worked there.  I was
-        fortunate to experience the work involved in any planning to do with UoW.  These
-        need to change according to the students you teach.  Are you teaching information
-        to students or teaching students to understand information and develop skills?
-        If it is the latter, you will need to vary your teaching, the lessons, the units
-        according to the students individuality (differentiating accordingly) but ALSO
-        according to the world they are living in.  Our world changes regularly and teaching
-        needs to change with it.  Get with the program!'
-      date: '2014-04-17 19:01:14'
-      date_gmt: '2014-04-17 09:01:14'
-      id: '143'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: My Smart Classroom &raquo; Blog Archive &raquo; Curriculum into the Classroom
-        and The Learning Place
-      author_email: null
-      author_ip: 66.135.62.16
-      author_url: http://classroomitcs.edublogs.org/2013/04/22/curriculum-into-the-classroom-and-the-learning-place/
-      content: "[...] something interesting, from our illustrious leader David no less.\_\
-        \ In his blog post titled &#8216;What arrogance! What an insult to the rich and\
-        \ chaotic variety of the human\_experience&#8217; David explains that this prescriptive\
-        \ resource diminishes, if not totally destroys, the ability for [...]"
-      date: '2013-04-22 12:58:01'
-      date_gmt: '2013-04-22 02:58:01'
-      id: '141'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: C2C &#8211; Helpful or destructive to the Student Teacher | Mr Cumners ICT
-        Learning Journey
-      author_email: null
-      author_ip: 66.135.42.93
-      author_url: http://mrcumnersblog.edublogs.org/2013/04/29/c2c-helpful-or-destructive-to-the-student-teacher/
-      content: "[...] which looked at the access and implementation of C2C for student\
-        \ teachers.\_ She also points out a link to a blog written by our course\_lecturer\
-        \ where he gives his thoughts and opinions of [...]"
-      date: '2013-04-29 14:19:28'
-      date_gmt: '2013-04-29 04:19:28'
-      id: '142'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm currently engaging in a bit of light reading as an escape from the constraints of regular teaching. The title of this post comes from Terry Pratchet and [Feet of Clay](http://www.amazon.com/Feet-Clay-Terry-Pratchett/dp/0061057649/ref=sr_1_1?ie=UTF8&qid=1318714216&sr=8-1) (p 206)
 

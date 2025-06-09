@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - bim
-date: 2009-12-26 13:08:02+10:00
+comments: []
+date: 2009-12-26 03:08:02
 next:
   text: BIM - Allocate questions screen
   url: /blog/2010/01/07/bim-allocate-questions-screen/
+pingbacks:
+- approved: '1'
+  author: BIM &#8211; Allocate questions screen &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.166
+  author_url: https://djon.es/blog/2010/01/07/bim-allocate-questions-screen/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BIM &#8211; the show student posts&nbsp;screen [...]'
+  date: '2010-01-08 17:18:08'
+  date_gmt: '2010-01-08 07:18:08'
+  id: '2908'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - Staff show details screen
   url: /blog/2009/12/24/bim-staff-show-details-screen/
+template: blog-post.html
 title: BIM - the show student posts screen
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM &#8211; Allocate questions screen &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.166
-      author_url: https://djon.es/blog/2010/01/07/bim-allocate-questions-screen/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BIM &#8211; the show student posts&nbsp;screen [...]'
-      date: '2010-01-08 17:18:08'
-      date_gmt: '2010-01-08 07:18:08'
-      id: '2908'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This post describes the initial implementation of show student posts screen. IT builds on the format/process used in the [show student details screen](/blog/2009/12/24/bim-staff-show-details-screen/).
 

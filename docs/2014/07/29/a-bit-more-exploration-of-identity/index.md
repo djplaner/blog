@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2014-07-29 16:46:12+10:00
+date: 2014-07-29 06:46:12
 next:
   text: Learning journal, activity completion and nudge analytics
   url: /blog/2014/07/31/learning-journal-activity-completion-and-nudge-analytics/
 previous:
   text: Some readings on networked learning
   url: /blog/2014/07/29/some-readings-on-networked-learning/
+template: blog-post.html
 title: A bit more exploration of identity
 type: post
-template: blog-post.html
 ---
 A bit more reading/thinking about identity in the form of reading Day et al (2006) and also in light of [some conversations](http://timklapdor.wordpress.com/2014/07/27/reclaim-rethink/) going on around identity and the Reclaim Project. More on my personal Reclaim my Domain project tomorrow, hopefully. Day et al (2006) was one of the readings set in the [NGL course](https://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/#readings), meant to spark some thinking about identity and its connection with NGL.
 

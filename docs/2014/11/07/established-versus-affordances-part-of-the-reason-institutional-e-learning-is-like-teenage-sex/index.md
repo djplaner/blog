@@ -1,55 +1,52 @@
----
+﻿---
 categories:
 - bad
-date: 2014-11-07 10:29:06+10:00
+comments: []
+date: 2014-11-07 00:29:06
 next:
   text: Adding more student information to a Moodle course
   url: /blog/2014/11/13/adding-more-student-information-to-a-moodle-course/
+pingbacks:
+- approved: '1'
+  author: Adding more student information to a Moodle course | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.80.160
+  author_url: https://djon.es/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/
+  content: '[&#8230;] script uses much the same technology as the gradebook fix mentioned
+    in this post and @damoclarky&#8217;s Moodle Activity Viewer. The work on these
+    scripts is part of an on-going [&#8230;]'
+  date: '2014-11-13 16:50:53'
+  date_gmt: '2014-11-13 06:50:53'
+  id: '1147'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: This year it&#8217;s all about the connections | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.83.81
+  author_url: https://davidtjones.wordpress.com/2015/01/13/this-year-its-all-about-the-connections/
+  content: '[&#8230;] fix to the Peoplesoft gradebook implemented last year is an
+    early example of a CASA. A greasemonkey script is used to create an [&#8230;]'
+  date: '2015-01-13 10:55:35'
+  date_gmt: '2015-01-13 00:55:35'
+  id: '1148'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Some more tweaks to gradebook
   url: /blog/2014/11/05/some-more-tweaks-to-gradebook/
+template: blog-post.html
 title: '"Established versus Affordances: part of the reason institutional e-learning
   is like teenage sex"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Adding more student information to a Moodle course | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.80.160
-      author_url: https://djon.es/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/
-      content: '[&#8230;] script uses much the same technology as the gradebook fix mentioned
-        in this post and @damoclarky&#8217;s Moodle Activity Viewer. The work on these
-        scripts is part of an on-going [&#8230;]'
-      date: '2014-11-13 16:50:53'
-      date_gmt: '2014-11-13 06:50:53'
-      id: '1147'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: This year it&#8217;s all about the connections | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.83.81
-      author_url: https://davidtjones.wordpress.com/2015/01/13/this-year-its-all-about-the-connections/
-      content: '[&#8230;] fix to the Peoplesoft gradebook implemented last year is an
-        early example of a CASA. A greasemonkey script is used to create an [&#8230;]'
-      date: '2015-01-13 10:55:35'
-      date_gmt: '2015-01-13 00:55:35'
-      id: '1148'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an attempt to expand and connect some thoughts from a soon to be presented [ASCILITE'2014](http://ascilite2014.otago.ac.nz/) paper titled [Breaking BAD to bridge the the reality/rhetoric chasm"](http://bit.ly/badchasm) (this link will eventually have a range of additional resources). The expand part of this post is me trying to experiment with some approaches of explaining what we're trying to get at. Hopefully with the aim of being convincing. The "connect" part of this post aims to connect with some of the discussion about the [LMS that has gone on recently](http://abject.ca/lets-get-systematic-baby/).
 
-[![Is elearning like teenage sex?](images/9861514544_01b3c7fbca.jpg)](https://www.flickr.com/photos/david_jones/9861514544 "Is elearning like teenage sex? by David Jones, on Flickr")
+[![Is elearning like teenage sex?](https://djon.es/assets/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/images/9861514544_01b3c7fbca.jpg)](https://www.flickr.com/photos/david_jones/9861514544 "Is elearning like teenage sex? by David Jones, on Flickr")
 
 # Some context
 
@@ -76,7 +73,7 @@ My current institution (and my prior institution) had the misfortune to choose t
 
 In my situation, all of the results for students are entered into a local online assignment management system that is also used for the submission, marking etc of student assignments. Once a student's assignment is marked, moderated and returned to the student, their mark for that assignment is placed into the Peoplesoft gradebook. Once the final assignment is moderated and returned I can view the Peoplesoft gradebook and see something like the following. Listing all the students, their names/ids (blurred here), the final result and the grade awarded. (Click on the images to see larger versions)
 
-[![gradebook](images/15102385934_21d6b07a15.jpg)](https://www.flickr.com/photos/david_jones/15102385934 "gradebook by David Jones, on Flickr")
+[![gradebook](https://djon.es/assets/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/images/15102385934_21d6b07a15.jpg)](https://www.flickr.com/photos/david_jones/15102385934 "gradebook by David Jones, on Flickr")
 
 Now the Peoplesoft gradebook has been configured to do something intelligent. It will automatically calculate the students grade based on the result. And it is mostly, but NOT always, correct. You see there are special cases that have not been programmed into the gradebook, including:
 
@@ -116,7 +113,7 @@ The net effect is that it is very difficult (if not possible) to change the grad
 
 This perspective of ICT reminds me of this quote from Churchill.
 
-[![Churchill on established mindset](images/15724799071_9a15a06b6c_n.jpg)](https://www.flickr.com/photos/david_jones/15724799071 "Churchill on established mindset by David Jones, on Flickr")
+[![Churchill on established mindset](https://djon.es/assets/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/images/15724799071_9a15a06b6c_n.jpg)](https://www.flickr.com/photos/david_jones/15724799071 "Churchill on established mindset by David Jones, on Flickr")
 
 The established mindset results in us and what we can (and can't) do being shaped by our technologies.
 
@@ -124,7 +121,7 @@ The established mindset results in us and what we can (and can't) do being shape
 
 With a BAD mindset you might get a solution that generates the web page shown in the following image. In that image you can see that two of the rows (students) are now coloured differently. The change in colour represents one of the special cases mentioned above. You'll also see that the coloured rows have some additional hints to remind the course examiner either: what they need to do; or, what they've already done.
 
-[![gradebook2](images/15698699646_c16722e185.jpg)](https://www.flickr.com/photos/david_jones/15698699646 "gradebook2 by David Jones, on Flickr")
+[![gradebook2](https://djon.es/assets/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/images/15698699646_c16722e185.jpg)](https://www.flickr.com/photos/david_jones/15698699646 "gradebook2 by David Jones, on Flickr")
 
 This solution did not involve any changes to Peoplesoft. As established above, it is too hard to change and I don't have the access or knowledge to change it. However, there are other possibilities. At some stage the gradebook generates a web page and sends it to my web browser on my computer. At this stage, I can get some level of affordance for change via [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), a plugin for the Firefox browser. Greasemonkey allows you to write scripts (written in Javascript) that can manipulate the presentation and functionality of web pages.
 
@@ -147,7 +144,7 @@ The term affordance comes in many shapes, sizes and arguments. In this context, 
 
 In short, the affordance mindset not only knows that ICT can be changed, it should be changed to suit the purposes of the people using it. Or to adapt the Churchill quote above to the affordance mindset.
 
-[![Churchill modified - affordance of ICTs](images/15541523037_43d8bdf019_n.jpg)](https://www.flickr.com/photos/david_jones/15541523037 "Churchill modified - affordance of ICTs by David Jones, on Flickr")
+[![Churchill modified - affordance of ICTs](https://djon.es/assets/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/images/15541523037_43d8bdf019_n.jpg)](https://www.flickr.com/photos/david_jones/15541523037 "Churchill modified - affordance of ICTs by David Jones, on Flickr")
 
 This mindset is not new. People have always done it. There are in fact entire sections of literature devoted to talking about people doing this. For example, there's literature on ["shadow systems"](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/) in the information systems field that sees such practices as a threat/risk to organisational integrity, efficiency and apple pie. There's a similar literature - mostly in computer science and management - under terms such as work-arounds, make-work and kludges (Koopman & Hoffman, 2003).
 
@@ -161,8 +158,8 @@ However, we don't want to stop there. One of the aims of this work is to try and
 
 Changing any mindset is far from easy.
 
-[![Book: All Marketers Are Liars by John Drake Flickr, on Flickr](images/7227826626_881ef70853.jpg "Book: All Marketers Are Liars by John Drake Flickr, on Flickr")](https://www.flickr.com/photos/johndrake45/7227826626/)  
-[![Creative Commons Creative Commons Attribution-No Derivative Works 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nd/2.0/)   by  [](https://www.flickr.com/people/johndrake45/)[John Drake Flickr](https://www.flickr.com/people/johndrake45/) [](http://www.imagecodr.org/)
+[![Book: All Marketers Are Liars by John Drake Flickr, on Flickr](https://djon.es/assets/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/images/7227826626_881ef70853.jpg "Book: All Marketers Are Liars by John Drake Flickr, on Flickr")](https://www.flickr.com/photos/johndrake45/7227826626/)  
+[![Creative Commons Creative Commons Attribution-No Derivative Works 2.0 Generic License](https://djon.es/assets/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/images/80x15.png "Creative Commons Creative Commons Attribution-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nd/2.0/)   by  [](https://www.flickr.com/people/johndrake45/)[John Drake Flickr](https://www.flickr.com/people/johndrake45/) [](http://www.imagecodr.org/)
 
 ## Can "scratch my itch" become "scratch our itch"?
 
@@ -211,7 +208,7 @@ What would happen if they had the capacity to shape the ICT? Even if just a litt
 
 The Horizon Report's identification of limited digital literacy of academic staff as a significant barrier begs a range of questions. Accepting the premise and putting aside questions over what it means to digitally literate or fluent I wonder: Are universities ready for digitally fluent staff? Would digitally fluent staff be will to accept an organisation having an _Established_ view of ICT, or would they expect an _Affordances_ view of ICT?
 
-[![You want digitally fluent faculty?](images/15025763858_58eea9f20c_n.jpg)](https://www.flickr.com/photos/david_jones/15025763858 "You want digitally fluent faculty? by David Jones, on Flickr")
+[![You want digitally fluent faculty?](https://djon.es/assets/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/images/15025763858_58eea9f20c_n.jpg)](https://www.flickr.com/photos/david_jones/15025763858 "You want digitally fluent faculty? by David Jones, on Flickr")
 
 # References
 

@@ -1,54 +1,51 @@
----
+﻿---
 categories:
 - curriculumdesign
 - curriculummapping-cddu
 - elearning
 - moodle
-date: 2010-02-17 11:19:54+10:00
+comments:
+- approved: '1'
+  author: Nils Peterson
+  author_email: nils_peterson@wsu.edu
+  author_ip: 64.126.138.219
+  author_url: http://nilspeterson.com
+  content: 'David
+
+    I agree that an externally imposed goal to create a curriculum map is likely to
+    make administrative work that is rapidly disassociated from enhancing learning
+    outcomes.
+
+
+    Our office OAI.Wsu.edu has been thinking about related issues and has a bit different
+    take on curriculum mapping, see http://communitylearning.wordpress.com/2009/09/21/from-student-feedback-to-university-accreditation/
+
+
+    Midway down that post is a link to a curriculum map that is using the program''s
+    chosen learning outcomes to make a map that overlays faculty intention in specific
+    assignments with student accomplishments in those assignments.
+
+
+    Our vision is toward making a means of rolling up assignment level SoTL to course,
+    program and university levels. Truing to keep the work real for the teacher by
+    focus on questions of interest in the context of the course'
+  date: '2010-05-15 22:51:09'
+  date_gmt: '2010-05-15 12:51:09'
+  id: '2938'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-02-17 01:19:54
 next:
   text: The current state of curriculum mapping in/with Moodle
   url: /blog/2010/02/20/the-current-state-of-curriculum-mapping-inwith-moodle/
+pingbacks: []
 previous:
   text: BIM 1.0alpha is released
   url: /blog/2010/02/15/bim-1-0alpha-is-released/
+template: blog-post.html
 title: How to make curriculum mapping useful to university academics
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Nils Peterson
-      author_email: nils_peterson@wsu.edu
-      author_ip: 64.126.138.219
-      author_url: http://nilspeterson.com
-      content: 'David
-    
-        I agree that an externally imposed goal to create a curriculum map is likely to
-        make administrative work that is rapidly disassociated from enhancing learning
-        outcomes.
-    
-    
-        Our office OAI.Wsu.edu has been thinking about related issues and has a bit different
-        take on curriculum mapping, see http://communitylearning.wordpress.com/2009/09/21/from-student-feedback-to-university-accreditation/
-    
-    
-        Midway down that post is a link to a curriculum map that is using the program''s
-        chosen learning outcomes to make a map that overlays faculty intention in specific
-        assignments with student accomplishments in those assignments.
-    
-    
-        Our vision is toward making a means of rolling up assignment level SoTL to course,
-        program and university levels. Truing to keep the work real for the teacher by
-        focus on questions of interest in the context of the course'
-      date: '2010-05-15 22:51:09'
-      date_gmt: '2010-05-15 12:51:09'
-      id: '2938'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 The following is an attempt to make concrete various ideas that have been floating around about a project to take a very different approach to curriculum mapping. There's a small glimmer that these ideas may form the basis for an [ALTC grant application](http://altc.edu.au/)
 

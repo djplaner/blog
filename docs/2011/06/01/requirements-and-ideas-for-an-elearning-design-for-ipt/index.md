@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - eded20491
 - ipt
 - teaching
-date: 2011-06-01 08:22:23+10:00
+comments: []
+date: 2011-05-31 22:22:23
 next:
   text: A profile of learners in an IPT class
   url: /blog/2011/06/02/a-profile-of-learners-in-an-ipt-class/
+pingbacks:
+- approved: '1'
+  author: A profile of learners in an IPT class &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.113
+  author_url: https://djon.es/blog/2011/06/02/a-profile-of-learners-in-an-ipt-class/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Requirements and ideas for an eLearning design for&nbsp;IPT [...]'
+  date: '2011-06-02 10:01:27'
+  date_gmt: '2011-06-02 00:01:27'
+  id: '74'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: And the thesis is complete, what&#039;s next?
   url: /blog/2011/05/27/and-the-thesis-is-complete-whats-next/
+template: blog-post.html
 title: Requirements and ideas for an eLearning design for IPT
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: A profile of learners in an IPT class &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.113
-      author_url: https://djon.es/blog/2011/06/02/a-profile-of-learners-in-an-ipt-class/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Requirements and ideas for an eLearning design for&nbsp;IPT [...]'
-      date: '2011-06-02 10:01:27'
-      date_gmt: '2011-06-02 00:01:27'
-      id: '74'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This week is assignment week. One of the assignments I need to complete is for the course ICTs for Learning Design. This final assignment requires us to design a unit of work (a sequence of learning experiences) for a particular subject that makes effective use of eLearning. The following is the first step in this process.
 

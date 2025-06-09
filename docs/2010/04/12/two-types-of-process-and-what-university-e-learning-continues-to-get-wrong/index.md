@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
@@ -7,118 +7,116 @@ categories:
 - psframework
 - thesis
 - webfuse
-date: 2010-04-12 09:38:37+10:00
+comments:
+- approved: '1'
+  author: Tim
+  author_email: t.kastelle@business.uq.edu.au
+  author_ip: 130.102.196.10
+  author_url: http://
+  content: 'Thanks for mentioning my post David - you''ve done a great job of building
+    on it.  I think you''re raised some critical points.  In particular, I couldn''t
+    agree more strongly that e-learning issues need to be addressed as people issues,
+    not as technological ones.  Which in turn means that all of the empathy/people-related
+    points that you raise must be addressed thoughtfully.
+
+
+    Good luck in finishing your thesis!'
+  date: '2010-04-12 11:34:49'
+  date_gmt: '2010-04-12 01:34:49'
+  id: '3003'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: No worries Tim.  As you might guess the topic of your post resonates strongly
+    with me and my work.  Convincing management of the need and the distinction remains
+    one of the major problems I face.  Most seem to simply not get it.  Any advice
+    more than welcome, one of the reasons I follow your work.
+  date: '2010-04-12 12:17:32'
+  date_gmt: '2010-04-12 02:17:32'
+  id: '3004'
+  parent: '3003'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Tim
+  author_email: t.kastelle@business.uq.edu.au
+  author_ip: 130.102.196.10
+  author_url: http://
+  content: 'Selling innovative ideas upwards to management is a fundamental problem
+    in all kinds of organisations, though it seems to be more acute in public sector
+    ones like universities.  I''m not sure if I have much in the way of advice.  I''m
+    doing a fair bit of work with our new Centre for Educational Innovation &amp;
+    Technology, and they are running into similar issues.  One possible way forward
+    is to find small ways to experiment.
+
+
+    The other is to figure out how to sell the need for change.  I do think that higher
+    ed is heading towards turbulent times as a result of the widespread availability
+    of high quality information and teaching on the web these days - but it seems
+    to be hard to get this message across. I''m putting together a talk on this topic
+    for an upcoming conference, which I''ll post on the blog when it''s done.'
+  date: '2010-04-12 15:57:40'
+  date_gmt: '2010-04-12 05:57:40'
+  id: '3005'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'Thanks Tim.  Look forward to the post.
+
+
+    As I talk to folk, like the UQ CEIT, I hear this same message repeated again and
+    again. It seems widespread.  Which is interesting, given the turbulence you foresee
+    and which seems almost certain to arrive.
+
+
+    One of the explanations for this disconnect which I currently think is most appropriate
+    is the increasing level of government direction in terms of policies and requirements,
+    combined with the short-term contracts for most senior University staff. The combination
+    seems custom made to encourage more short-term, teleological processes aimed at
+    fulfilling the external demands from government.'
+  date: '2010-04-12 16:57:05'
+  date_gmt: '2010-04-12 06:57:05'
+  id: '3006'
+  parent: '3005'
+  type: comment
+  user_id: '1'
+date: 2010-04-11 23:38:37
 next:
   text: '"Identifying and designing interventions to improve L&#038;T - a behaviour
     change framework?"'
   url: /blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
+pingbacks:
+- approved: '1'
+  author: Identifying and designing interventions to improve L&amp;T &#8211; a behaviour
+    change framework? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.32
+  author_url: https://djon.es/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Two types of process and what university e-learning continues to get&nbsp;wrong
+    [...]'
+  date: '2010-04-14 13:02:40'
+  date_gmt: '2010-04-14 03:02:40'
+  id: '3007'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Phd Update #26 - Getting to first draft stage'
   url: /blog/2010/04/09/phd-update-26-getting-to-first-draft-stage/
+template: blog-post.html
 title: Two types of process and what university e-learning continues to get wrong
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Tim
-      author_email: t.kastelle@business.uq.edu.au
-      author_ip: 130.102.196.10
-      author_url: http://
-      content: 'Thanks for mentioning my post David - you''ve done a great job of building
-        on it.  I think you''re raised some critical points.  In particular, I couldn''t
-        agree more strongly that e-learning issues need to be addressed as people issues,
-        not as technological ones.  Which in turn means that all of the empathy/people-related
-        points that you raise must be addressed thoughtfully.
-    
-    
-        Good luck in finishing your thesis!'
-      date: '2010-04-12 11:34:49'
-      date_gmt: '2010-04-12 01:34:49'
-      id: '3003'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: No worries Tim.  As you might guess the topic of your post resonates strongly
-        with me and my work.  Convincing management of the need and the distinction remains
-        one of the major problems I face.  Most seem to simply not get it.  Any advice
-        more than welcome, one of the reasons I follow your work.
-      date: '2010-04-12 12:17:32'
-      date_gmt: '2010-04-12 02:17:32'
-      id: '3004'
-      parent: '3003'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Tim
-      author_email: t.kastelle@business.uq.edu.au
-      author_ip: 130.102.196.10
-      author_url: http://
-      content: 'Selling innovative ideas upwards to management is a fundamental problem
-        in all kinds of organisations, though it seems to be more acute in public sector
-        ones like universities.  I''m not sure if I have much in the way of advice.  I''m
-        doing a fair bit of work with our new Centre for Educational Innovation &amp;
-        Technology, and they are running into similar issues.  One possible way forward
-        is to find small ways to experiment.
-    
-    
-        The other is to figure out how to sell the need for change.  I do think that higher
-        ed is heading towards turbulent times as a result of the widespread availability
-        of high quality information and teaching on the web these days - but it seems
-        to be hard to get this message across. I''m putting together a talk on this topic
-        for an upcoming conference, which I''ll post on the blog when it''s done.'
-      date: '2010-04-12 15:57:40'
-      date_gmt: '2010-04-12 05:57:40'
-      id: '3005'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'Thanks Tim.  Look forward to the post.
-    
-    
-        As I talk to folk, like the UQ CEIT, I hear this same message repeated again and
-        again. It seems widespread.  Which is interesting, given the turbulence you foresee
-        and which seems almost certain to arrive.
-    
-    
-        One of the explanations for this disconnect which I currently think is most appropriate
-        is the increasing level of government direction in terms of policies and requirements,
-        combined with the short-term contracts for most senior University staff. The combination
-        seems custom made to encourage more short-term, teleological processes aimed at
-        fulfilling the external demands from government.'
-      date: '2010-04-12 16:57:05'
-      date_gmt: '2010-04-12 06:57:05'
-      id: '3006'
-      parent: '3005'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Identifying and designing interventions to improve L&amp;T &#8211; a behaviour
-        change framework? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.32
-      author_url: https://djon.es/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Two types of process and what university e-learning continues to get&nbsp;wrong
-        [...]'
-      date: '2010-04-14 13:02:40'
-      date_gmt: '2010-04-14 03:02:40'
-      id: '3007'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I should be writing other things, but there's a wave amongst some of the "innovation bloggers" at the moment that I wanted to ride for the purposes of - once again - trying to get those driving university e-learning (and learning and teaching more generally) to realise they have something fundamentally wrong. They are using the wrong type of process.
 

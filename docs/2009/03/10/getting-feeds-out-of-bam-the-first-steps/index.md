@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - bam
 - chapter-5
@@ -6,7 +6,7 @@ categories:
 - elearning
 - plescquni
 - thesis
-date: 2009-03-10 15:37:10+10:00
+date: 2009-03-10 05:37:10
 next:
   text: Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators
     projects together?
@@ -14,9 +14,9 @@ next:
 previous:
   text: How to improve L&#038;T and e-learning at universities
   url: /blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
+template: blog-post.html
 title: Getting feeds out of BAM - the first steps
 type: post
-template: blog-post.html
 ---
 The [Blog Aggregation Management (BAM) project](/blog/research/bam-blog-aggregation-management/) is an attempt to be a bit more Web 2.0/SaaS in the implementation of e-learning within a University. BAM works by students creating and using their own blog on one of a number of freely available external blogging services and registering it with BAM. BAM provides some management infrastructure that integrates these external services with university information and also offers support for staff to mark and track student posts. The staff interface is primarily via a web interface.
 

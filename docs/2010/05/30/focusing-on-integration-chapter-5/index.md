@@ -1,20 +1,20 @@
----
+﻿---
 categories:
 - chapter-5
 - elearning
 - phd
 - thesis
 - webfuse
-date: 2010-05-30 10:45:36+10:00
+date: 2010-05-30 00:45:36
 next:
   text: Institutional changes - 2000 and beyond - and their impact
   url: /blog/2010/05/30/institutional-changes-2000-and-beyond-and-their-impact/
 previous:
   text: One potential approach to provide a Moodle email merge facility
   url: /blog/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/
+template: blog-post.html
 title: Focusing on integration - chapter 5
 type: post
-template: blog-post.html
 ---
 Back working on the thesis. The following is a rough draft of the introduction and part of the first section from Chapter 5 of the thesis. This chapter is starting to tell the story of Webfuse from 2000 to 2004 and beyond.
 

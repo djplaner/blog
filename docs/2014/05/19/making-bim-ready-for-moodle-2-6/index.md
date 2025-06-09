@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2014-05-19 13:39:10+10:00
+date: 2014-05-19 03:39:10
 next:
   text: Tracking task corruption with Moodle activity completion
   url: /blog/2014/06/14/tracking-task-corruption-with-moodle-activity-completion/
 previous:
   text: Does my course suffer from semester droop?
   url: /blog/2014/05/09/does-my-course-suffer-from-semester-droop/
+template: blog-post.html
 title: Making BIM ready for Moodle 2.6
 type: post
-template: blog-post.html
 ---
 The very nice folk from my institution's ICT group warned me back in March that
 

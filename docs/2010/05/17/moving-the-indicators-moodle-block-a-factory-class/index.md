@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - indicators
 - moodle
-date: 2010-05-17 10:07:02+10:00
+comments: []
+date: 2010-05-17 00:07:02
 next:
   text: How curriculum mapping in Moodle might work
   url: /blog/2010/05/19/how-curriculum-mapping-in-moodle-might-work/
+pingbacks:
+- approved: '1'
+  author: The Wf Framework &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.150
+  author_url: https://djon.es/blog/2010/06/07/the-wf-framework/
+  content: '[...] You can see the impact of this experience in the development practices
+    I&#8217;m bringing to my work in PHP and Moodle. There are early glimmers of MVC
+    and the Wf Framework in BIM and the indicators block. [...]'
+  date: '2010-06-07 10:04:48'
+  date_gmt: '2010-06-07 00:04:48'
+  id: '3049'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Is there more to communities of practice?
   url: /blog/2010/05/16/is-there-more-to-communities-of-practice/
+template: blog-post.html
 title: Moving the indicators Moodle block to a factory class
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The Wf Framework &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.150
-      author_url: https://djon.es/blog/2010/06/07/the-wf-framework/
-      content: '[...] You can see the impact of this experience in the development practices
-        I&#8217;m bringing to my work in PHP and Moodle. There are early glimmers of MVC
-        and the Wf Framework in BIM and the indicators block. [...]'
-      date: '2010-06-07 10:04:48'
-      date_gmt: '2010-06-07 00:04:48'
-      id: '3049'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following reports on some work on the [indicators block](/blog/2010/05/13/getting-started-with-cols-indicators-block/) to move it towards using some object-orientation and the [factory design pattern](http://en.wikipedia.org/wiki/Factory_method_pattern).
 

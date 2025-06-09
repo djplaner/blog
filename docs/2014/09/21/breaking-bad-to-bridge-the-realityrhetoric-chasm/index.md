@@ -1,598 +1,596 @@
----
+﻿---
 categories:
 - ascilite
 - bad
 - design-theory
 - distributedcognition
 - elearning
-date: 2014-09-21 15:52:39+10:00
+comments:
+- approved: '1'
+  author: francesbell
+  author_email: frabell@gmail.com
+  author_ip: 82.15.171.64
+  author_url: null
+  content: "Thanks for posting this article David.  You reminded me that I had co-authored\
+    \ a paper ( see https://francesbell.files.wordpress.com/2015/01/sme_paper_finalwithwatermark1.pdf)\
+    \ on bricolage and strategy in SMEs where we concluded\n\u2022\tSME owner managers\
+    \ need to be fully aware of and exploit the resources available to them.  In order\
+    \ to do this they need to achieve a level of technical understanding, they need\
+    \ to nurture an organisational culture that supports their staff in the utilisation\
+    \ of their current and potential skill sets.  Additionally, owner managers should\
+    \ be open to the external resources that may be available to them, avoid a \u2018\
+    sales resistant\u2019 strategy and be prepared to finance purchase of technical\
+    \ resources to support bricolage.\n\u2022\tObservation and listening are essential.\
+    \  Being prepared to listen to \u2018visions\u2019 or external bricoleurs without\
+    \ immediately viewing proposals in term of cost can expose competitive opportunities.\
+    \  Similarly observation of the evolution of competitors or organisations with\
+    \ similar business models can be stimuli for allowing bricolage, the competitive\
+    \ SME needs to be outward facing.\n\u2022\tPlacing trust in internal or external\
+    \ bricoleurs is essential, giving trust creates an environment where bricolage\
+    \ can thrive.\n\u2022\tAny bricolage environment needs some control imposing up\
+    \ it.  The challenge is to allow bricoleurs to employ some level of self regulation;\
+    \ rigorous control will stifle innovation, whilst no control is financially na\xEF\
+    ve.  Minimal structure and learning via incremental change are recommended.\n\
+    Reading your paper made we wonder why I hadn't thought about how this might apply\
+    \ in the university I worked in.  I suppose it was because I had so little faith\
+    \ in the flexibility of the strategic process.  The IT gatekeepers were so removed\
+    \ from the use of technology in the practice of the academic life of students\
+    \ and lecturers that our conclusions seem faintly ridiculous when thought of in\
+    \ the university context with which I was familiar.  As you recognise it's about\
+    \ bridging gaps."
+  date: '2015-01-15 05:47:00'
+  date_gmt: '2015-01-14 19:47:00'
+  id: '1103'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.32
+  author_url: https://djon.es/blog/
+  content: ':) I actually had that paper in my Mendeley library. Small world.
+
+
+    Trying to figure out whether I grabbed it while writing the above, or back in
+    my days as an IS academic. Over the last three years working in teacher education
+    it''s actually struck me as more and more appropriate to think of bricolage as
+    what''s missing in institutional e-learning. Much of what I see the expert classroom
+    teachers doing is bricolage. Treating each learning task and individual student
+    as a unique problem that has to be solved with what is at hand.
+
+
+    Even thinking back to my own classroom experience, the best learning experiences
+    are those where I''ve creatively used the classroom resources to develop a solution
+    to a problem then and there in class.
+
+
+    But when I observe the struggles that my teacher education colleagues (expert
+    bricoleurs in a face-to-face classroom) are having with teaching online, that''s
+    when I start thinking about the limitations of the SET mindset and the need to
+    leverage a BAD mindset.
+
+
+    But how to merge these two within a very (espoused) strategic environment? This
+    is the next challenge.  Will have to revisit your paper to help glean some insights.'
+  date: '2015-01-16 11:08:32'
+  date_gmt: '2015-01-16 01:08:32'
+  id: '1104'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2014-09-21 05:52:39
 next:
   text: A perspective on why institutional e-learning is so bad
   url: /blog/2014/09/22/a-perspective-on-why-institutional-e-learning-is-so-bad/
+pingbacks:
+- approved: '1'
+  author: Breaking BAD to bridge the reality/rhetoric chasm | The Weblog of (a) David
+    Jones | Learning Curve
+  author_email: null
+  author_ip: 192.0.81.173
+  author_url: http://rmaxwellblake.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm-the-weblog-of-a-david-jones/
+  content: '[&#8230;] https://djon.es/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/
+    [&#8230;]'
+  date: '2014-09-22 02:14:38'
+  date_gmt: '2014-09-21 16:14:38'
+  id: '1096'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A perspective on why institutional e-learning is so bad | The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.5
+  author_url: https://djon.es/blog/2014/09/22/a-perspective-on-why-institutional-e-learning-is-so-bad/
+  content: '[&#8230;] another attempt to explain why and map out a way forward. The
+    following is based heavily on on this paper that will be presented at ASCILITE&#8217;2014
+    and is a slightly re-worked version of something I [&#8230;]'
+  date: '2014-09-22 15:26:16'
+  date_gmt: '2014-09-22 05:26:16'
+  id: '1097'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Established versus Affordances: part of the reason institutional e-learning
+    is like teenage sex | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.81.123
+  author_url: https://djon.es/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/
+  content: '[&#8230;] is to SET in it&#8217;s thinking and needs to break BAD a little
+    (maybe a lot) more often. This table summarises and compares the two [&#8230;]'
+  date: '2014-11-07 10:29:15'
+  date_gmt: '2014-11-07 00:29:15'
+  id: '1098'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Adding more student information to a Moodle course | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.80.160
+  author_url: https://djon.es/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/
+  content: '[&#8230;] to identify some theories/principles that can be used to enhance
+    institutional e-learning (see this paper for early development of these [&#8230;]'
+  date: '2014-11-13 16:50:58'
+  date_gmt: '2014-11-13 06:50:58'
+  id: '1099'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: FedWiki 7, 8 and 9 &#8211; Moving, catching up and engaging | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.86.62
+  author_url: https://davidtjones.wordpress.com/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/
+  content: '[&#8230;] SFW&#8217;s reliance on JSON to communicate to send it the new
+    icon. This is a great example of the BAD mindset &#8211; a bit of bricolage leveraging
+    the affordance of technology and relying on [&#8230;]'
+  date: '2014-12-26 11:29:39'
+  date_gmt: '2014-12-26 01:29:39'
+  id: '1100'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: An illustration of the difficulty of learning about network learning | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 207.198.101.80
+  author_url: https://davidtjones.wordpress.com/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/
+  content: '[&#8230;] Breaking BAD to bridge the reality/rhetoric chasm [&#8230;]'
+  date: '2014-12-31 15:32:53'
+  date_gmt: '2014-12-31 05:32:53'
+  id: '1101'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: This year it&#8217;s all about the connections | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.83.81
+  author_url: https://davidtjones.wordpress.com/2015/01/13/this-year-its-all-about-the-connections/
+  content: '[&#8230;] Breaking Bad (Jones &amp; Clark, 2014); [&#8230;]'
+  date: '2015-01-13 10:55:05'
+  date_gmt: '2015-01-13 00:55:05'
+  id: '1102'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Learning about case study methodology to research higher education | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.172
+  author_url: https://davidtjones.wordpress.com/2015/01/16/learning-about-case-study-methodology-to-research-higher-education/
+  content: '[&#8230;] decent within the current institutional mindset around e-learning.
+    The idea is to draw on the Breaking BAD paper, a presentation to MoodleMoot and
+    various other publications round BIM/BAM over the [&#8230;]'
+  date: '2015-01-16 14:51:16'
+  date_gmt: '2015-01-16 04:51:16'
+  id: '1105'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What might the 3 levels of organisational culture reveal about university
+    e-learning | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.18
+  author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+  content: '[&#8230;] we&#8217;ve argued in this paper, I believe that the organisation
+    works on the assumption that its digital artifacts &#8211; such as [&#8230;]'
+  date: '2015-01-20 10:54:42'
+  date_gmt: '2015-01-20 00:54:42'
+  id: '1106'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Barriers to higher education technology adoption: Digital fluency or usefulness?
+    | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.80.144
+  author_url: https://davidtjones.wordpress.com/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/
+  content: '[&#8230;] SET mindset is takes a Strategic approach to deciding what work
+    gets done. It&#8217;s focus is on achieving the [&#8230;]'
+  date: '2015-01-21 15:45:03'
+  date_gmt: '2015-01-21 05:45:03'
+  id: '1107'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Adding some learning process analytics to EDC3100 | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.86.62
+  author_url: https://davidtjones.wordpress.com/2015/01/23/adding-some-learning-process-analytics-to-edc3100/
+  content: '[&#8230;] Jones and Clark (2014) we drew on Damien&#8217;s (Clark) development
+    of the Moodle Activity Viewer (MAV) as an example of [&#8230;]'
+  date: '2015-01-23 11:58:33'
+  date_gmt: '2015-01-23 01:58:33'
+  id: '1108'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Learning analytics is better when&#8230;..? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.84.44
+  author_url: https://davidtjones.wordpress.com/2015/02/02/learning-analytics-is-better-when/
+  content: '[&#8230;] paper last year describes the development of MAV at CQU and
+    some local tinkering I did using MAV i.e. &#8220;MAV-enabled [&#8230;]'
+  date: '2015-02-02 12:37:24'
+  date_gmt: '2015-02-02 02:37:24'
+  id: '1109'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Concrete lounge #1 &#8211; Helping learners find correct, up-to-date course
+    information | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.99.86
+  author_url: https://davidtjones.wordpress.com/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
+  content: '[&#8230;] argument we made in this paper was that the reason why this
+    concrete lounge exists (and also the reason why I&#8217;m able to make [&#8230;]'
+  date: '2015-02-03 12:27:22'
+  date_gmt: '2015-02-03 02:27:22'
+  id: '1110'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Kludging an authoring process with Moodle books etc. | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.80.104
+  author_url: https://davidtjones.wordpress.com/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
+  content: '[&#8230;] The following outlines an attempt to evolve the authoring &#8220;process&#8221;
+    I currently use with Moodle books into something a little more useful. It won&#8217;t
+    be the be all and end all of authoring process, just enough to solve the immediate
+    problem I have. i.e. bricolage [&#8230;]'
+  date: '2015-02-08 13:13:34'
+  date_gmt: '2015-02-08 03:13:34'
+  id: '1111'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Starting the &#8220;Moodle open book&#8221; project | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.82.20
+  author_url: https://davidtjones.wordpress.com/2015/04/13/starting-the-moodle-open-book-project/
+  content: '[&#8230;] project &#8211; like most of what I do &#8211; will be use an
+    approach informed by a BAD mindset. That [&#8230;]'
+  date: '2015-04-13 22:10:14'
+  date_gmt: '2015-04-13 12:10:14'
+  id: '1113'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What&#8217;s good for the &#8220;open content&#8221; is good for the LMS/virtual
+    learning space? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.86
+  author_url: https://davidtjones.wordpress.com/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
+  content: '[&#8230;] is that this mandated consistent set of minimum standards is
+    being seen through the lens of an &#8220;established&#8221; view of technology.
+    That you can&#8217;t and shouldn&#8217;t change the technology. In fact, if you
+    do change the [&#8230;]'
+  date: '2015-04-15 10:15:24'
+  date_gmt: '2015-04-15 00:15:24'
+  id: '1114'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Where does the LMS site in the reusability paradox | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.86.73
+  author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-site-in-the-reusability-paradox/
+  content: '[&#8230;] The work @damoclarky has done to replace a more useful reporting
+    mechanism for Moodle with MAV. [&#8230;]'
+  date: '2015-04-21 15:54:58'
+  date_gmt: '2015-04-21 05:54:58'
+  id: '1115'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Where does the LMS sit in the reusability paradox | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.81.50
+  author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
+  content: '[&#8230;] The work @damoclarky has done to replace a more useful reporting
+    mechanism for Moodle with MAV. [&#8230;]'
+  date: '2015-04-21 15:57:18'
+  date_gmt: '2015-04-21 05:57:18'
+  id: '1116'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '&#8220;Me as teacher&#8221; &#8211; the 2015 focus for NGL | The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.82.47
+  author_url: https://davidtjones.wordpress.com/2015/07/23/me-as-teacher-the-2015-focus-for-ngl/
+  content: '[&#8230;] on learning, my &#8220;role as teacher&#8221; is to help make
+    connections. Borrowing from the &#8220;distributed view&#8221; the idea is that
+    the world is complex, dynamic, and consists of interdependent assemblages of [&#8230;]'
+  date: '2015-07-23 13:22:29'
+  date_gmt: '2015-07-23 03:22:29'
+  id: '1117'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Homogeneity: the inevitable result of a strategic approach? | The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.80.43
+  author_url: https://davidtjones.wordpress.com/2015/08/14/homogeneity-the-inevitable-result-of-a-strategic-approach/
+  content: '[&#8230;] Jones and Clark (2014) we suggested that contemporary universities
+    (along most other organisations) increasingly use a [&#8230;]'
+  date: '2015-08-14 09:57:14'
+  date_gmt: '2015-08-13 23:57:14'
+  id: '1118'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: All models are wrong, but some are useful and its application to e-learning
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.57
+  author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+  content: '[&#8230;] Breaking BAD to bridge the reality/rhetoric chasm. [&#8230;]'
+  date: '2015-08-28 09:04:56'
+  date_gmt: '2015-08-27 23:04:56'
+  id: '1119'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.86.138
+  author_url: https://davidtjones.wordpress.com/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/
+  content: '[&#8230;] D., &amp; Clark, D. (2014). Breaking BAD to bridge the reality/rhetoric
+    chasm. In B. Hegarty, J. McDonald, &amp; S. Loke (Eds.), Rhetoric and Reality:
+    Critical perspectives on [&#8230;]'
+  date: '2015-09-03 15:37:55'
+  date_gmt: '2015-09-03 05:37:55'
+  id: '1120'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Design of a BAD approach to developing TPACK | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.200
+  author_url: https://davidtjones.wordpress.com/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
+  content: '[&#8230;] of my recent publications (Jones &amp; Clark, 2015; Jones, Heffernan
+    &amp; Albion, 2016) seek to explore and identify the problems faced by teachers
+    [&#8230;]'
+  date: '2015-09-06 12:35:30'
+  date_gmt: '2015-09-06 02:35:30'
+  id: '1121'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Exploring Moodle&#8217;s API | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.62
+  author_url: https://davidtjones.wordpress.com/2015/09/13/exploring-moodles-api/
+  content: '[&#8230;] API centric architecture is a coming thing in technology circles.
+    It&#8217;s the way vendors and central IT folk will build systems. It is also
+    going to be manna from heaven for institutionalised people who are breaking a
+    little BAD. [&#8230;]'
+  date: '2015-09-13 16:25:06'
+  date_gmt: '2015-09-13 06:25:06'
+  id: '1122'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What might a project combining LX Design and Analaytics look like? | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.190
+  author_url: https://davidtjones.wordpress.com/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
+  content: '[&#8230;] but I worry that LX Design will become just another tool (perhaps
+    a very good tool) applied within the dominant SET mindset within institutional
+    e-learning (which is my context). Which not surprisingly is one of my concerns
+    [&#8230;]'
+  date: '2015-09-14 11:40:27'
+  date_gmt: '2015-09-14 01:40:27'
+  id: '1123'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Self-assertive and integrative tendencies and the connection to the BAD/SET
+    mindsets | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.213
+  author_url: https://davidtjones.wordpress.com/2015/09/17/self-assertive-and-integrative-tendencies-and-the-connection-to-the-badset-mindsets/
+  content: '[&#8230;] shift in scientific thinking they apparently describe in the
+    book may have some useful insights for BAD/SET mindsets and trying to understand
+    and improve digital [&#8230;]'
+  date: '2015-09-17 10:16:14'
+  date_gmt: '2015-09-17 00:16:14'
+  id: '1124'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Situation awareness, complex adaptive systems and learning analytics | Col&#039;s
+    Weblog
+  author_email: null
+  author_ip: 192.0.86.68
+  author_url: https://beerc.wordpress.com/2015/09/29/situation-awareness-complex-adaptive-systems-and-learning-analytics/
+  content: '[&#8230;] the hypothesis linking SET mindsets/non-complex systems with
+    retrospective data [&#8230;]'
+  date: '2015-09-29 14:51:07'
+  date_gmt: '2015-09-29 04:51:07'
+  id: '1125'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'University e-learning: Removing the context and adding the sediment | The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.81.171
+  author_url: https://davidtjones.wordpress.com/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
+  content: '[&#8230;] Institutional e-learning &#8211; like much in contemporary corporate
+    Universities &#8211; is driven by a SET mindset. [&#8230;]'
+  date: '2015-10-01 12:50:23'
+  date_gmt: '2015-10-01 02:50:23'
+  id: '1126'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A little about sensemaking | Col&#039;s Weblog
+  author_email: null
+  author_ip: 192.0.101.231
+  author_url: https://beerc.wordpress.com/2015/10/02/a-little-about-sensemaking/
+  content: '[&#8230;] mention organisations (such as universities) deliberately because
+    the risk averse SET mindset drives approaches (such as those involving learning
+    analytics) and are based on upfront analysis [&#8230;]'
+  date: '2015-10-02 13:27:08'
+  date_gmt: '2015-10-02 03:27:08'
+  id: '1127'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Are our institutions digital visitors? What are the impacts on learning
+    and teaching? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.12
+  author_url: https://davidtjones.wordpress.com/2015/10/09/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching/
+  content: '[&#8230;] and I argued that institutional digital learning is informed
+    by the SET mindset. A mindset that approaches any large, complex problem (like
+    digital learning) with a Tree-like [&#8230;]'
+  date: '2015-10-09 12:51:16'
+  date_gmt: '2015-10-09 02:51:16'
+  id: '1128'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The &#8216;wickedness&#8217; of student attrition and retention | Col&#039;s
+    Weblog
+  author_email: null
+  author_ip: 192.0.83.190
+  author_url: https://beerc.wordpress.com/2015/10/15/the-wickedness-of-student-attrition-and-retention/
+  content: "[&#8230;] Attrition is a complex multi-causal issue that the sector continues\
+    \ to try and address using SET mindsets and methods. I\u2019m saying we need to\
+    \ think about it differently, and perhaps engage in some BAD [&#8230;]"
+  date: '2015-10-15 08:48:55'
+  date_gmt: '2015-10-14 22:48:55'
+  id: '1129'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Testing out the Heatmap #moodle block &#8211; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.116.139
+  author_url: https://davidtjones.wordpress.com/2016/05/13/testing-out-the-heatmap-moodle-block/
+  content: '[&#8230;] doesn&#8217;t. This is of particular interest because the theoretical
+    perspective offered by the SET and BAD mindsets predicts that Heatmap will have
+    some limitations (and strengths), that MAV [&#8230;]'
+  date: '2016-05-13 12:20:01'
+  date_gmt: '2016-05-13 02:20:01'
+  id: '1130'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.86.139
+  author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
+  content: '[&#8230;] also an example of how the BAD mindset is able to work around
+    the significant constraints caused by the SET mindset and in the process [&#8230;]'
+  date: '2016-07-07 14:54:28'
+  date_gmt: '2016-07-07 04:54:28'
+  id: '1131'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Understanding and using the idea of &#8220;network learning&#8221; &#8211;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.118.102
+  author_url: https://davidtjones.wordpress.com/2016/08/17/understanding-and-using-the-idea-of-network-learning/
+  content: '[&#8230;] argument made in this paper is that the use of digital technology
+    to enhance learning and teaching in most formal educational [&#8230;]'
+  date: '2016-08-17 15:37:25'
+  date_gmt: '2016-08-17 05:37:25'
+  id: '1132'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Meeting in the Middle: How to Manage Change in Universities | Damo&#039;s
+    World'
+  author_email: null
+  author_ip: 192.0.113.137
+  author_url: http://damos.world/2016/09/08/meeting-in-the-middle-how-to-manage-change-in-universities/
+  content: "[&#8230;] contributions beyond small coalface groups. \_This is by the\
+    \ very nature of\_the entrenched SET mindsets of higher education [&#8230;]"
+  date: '2016-09-08 14:38:53'
+  date_gmt: '2016-09-08 04:38:53'
+  id: '1133'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Searching for a phrase and some research
   url: /blog/2014/09/16/searching-for-a-phrase-and-some-research/
+template: blog-post.html
 title: Breaking BAD to bridge the reality/rhetoric chasm
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: francesbell
-      author_email: frabell@gmail.com
-      author_ip: 82.15.171.64
-      author_url: null
-      content: "Thanks for posting this article David.  You reminded me that I had co-authored\
-        \ a paper ( see https://francesbell.files.wordpress.com/2015/01/sme_paper_finalwithwatermark1.pdf)\
-        \ on bricolage and strategy in SMEs where we concluded\n\u2022\tSME owner managers\
-        \ need to be fully aware of and exploit the resources available to them.  In order\
-        \ to do this they need to achieve a level of technical understanding, they need\
-        \ to nurture an organisational culture that supports their staff in the utilisation\
-        \ of their current and potential skill sets.  Additionally, owner managers should\
-        \ be open to the external resources that may be available to them, avoid a \u2018\
-        sales resistant\u2019 strategy and be prepared to finance purchase of technical\
-        \ resources to support bricolage.\n\u2022\tObservation and listening are essential.\
-        \  Being prepared to listen to \u2018visions\u2019 or external bricoleurs without\
-        \ immediately viewing proposals in term of cost can expose competitive opportunities.\
-        \  Similarly observation of the evolution of competitors or organisations with\
-        \ similar business models can be stimuli for allowing bricolage, the competitive\
-        \ SME needs to be outward facing.\n\u2022\tPlacing trust in internal or external\
-        \ bricoleurs is essential, giving trust creates an environment where bricolage\
-        \ can thrive.\n\u2022\tAny bricolage environment needs some control imposing up\
-        \ it.  The challenge is to allow bricoleurs to employ some level of self regulation;\
-        \ rigorous control will stifle innovation, whilst no control is financially na\xEF\
-        ve.  Minimal structure and learning via incremental change are recommended.\n\
-        Reading your paper made we wonder why I hadn't thought about how this might apply\
-        \ in the university I worked in.  I suppose it was because I had so little faith\
-        \ in the flexibility of the strategic process.  The IT gatekeepers were so removed\
-        \ from the use of technology in the practice of the academic life of students\
-        \ and lecturers that our conclusions seem faintly ridiculous when thought of in\
-        \ the university context with which I was familiar.  As you recognise it's about\
-        \ bridging gaps."
-      date: '2015-01-15 05:47:00'
-      date_gmt: '2015-01-14 19:47:00'
-      id: '1103'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.32
-      author_url: https://djon.es/blog/
-      content: ':) I actually had that paper in my Mendeley library. Small world.
-    
-    
-        Trying to figure out whether I grabbed it while writing the above, or back in
-        my days as an IS academic. Over the last three years working in teacher education
-        it''s actually struck me as more and more appropriate to think of bricolage as
-        what''s missing in institutional e-learning. Much of what I see the expert classroom
-        teachers doing is bricolage. Treating each learning task and individual student
-        as a unique problem that has to be solved with what is at hand.
-    
-    
-        Even thinking back to my own classroom experience, the best learning experiences
-        are those where I''ve creatively used the classroom resources to develop a solution
-        to a problem then and there in class.
-    
-    
-        But when I observe the struggles that my teacher education colleagues (expert
-        bricoleurs in a face-to-face classroom) are having with teaching online, that''s
-        when I start thinking about the limitations of the SET mindset and the need to
-        leverage a BAD mindset.
-    
-    
-        But how to merge these two within a very (espoused) strategic environment? This
-        is the next challenge.  Will have to revisit your paper to help glean some insights.'
-      date: '2015-01-16 11:08:32'
-      date_gmt: '2015-01-16 01:08:32'
-      id: '1104'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Breaking BAD to bridge the reality/rhetoric chasm | The Weblog of (a) David
-        Jones | Learning Curve
-      author_email: null
-      author_ip: 192.0.81.173
-      author_url: http://rmaxwellblake.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm-the-weblog-of-a-david-jones/
-      content: '[&#8230;] https://djon.es/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/
-        [&#8230;]'
-      date: '2014-09-22 02:14:38'
-      date_gmt: '2014-09-21 16:14:38'
-      id: '1096'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A perspective on why institutional e-learning is so bad | The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.5
-      author_url: https://djon.es/blog/2014/09/22/a-perspective-on-why-institutional-e-learning-is-so-bad/
-      content: '[&#8230;] another attempt to explain why and map out a way forward. The
-        following is based heavily on on this paper that will be presented at ASCILITE&#8217;2014
-        and is a slightly re-worked version of something I [&#8230;]'
-      date: '2014-09-22 15:26:16'
-      date_gmt: '2014-09-22 05:26:16'
-      id: '1097'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Established versus Affordances: part of the reason institutional e-learning
-        is like teenage sex | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.81.123
-      author_url: https://djon.es/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/
-      content: '[&#8230;] is to SET in it&#8217;s thinking and needs to break BAD a little
-        (maybe a lot) more often. This table summarises and compares the two [&#8230;]'
-      date: '2014-11-07 10:29:15'
-      date_gmt: '2014-11-07 00:29:15'
-      id: '1098'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Adding more student information to a Moodle course | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.80.160
-      author_url: https://djon.es/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/
-      content: '[&#8230;] to identify some theories/principles that can be used to enhance
-        institutional e-learning (see this paper for early development of these [&#8230;]'
-      date: '2014-11-13 16:50:58'
-      date_gmt: '2014-11-13 06:50:58'
-      id: '1099'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: FedWiki 7, 8 and 9 &#8211; Moving, catching up and engaging | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.86.62
-      author_url: https://davidtjones.wordpress.com/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/
-      content: '[&#8230;] SFW&#8217;s reliance on JSON to communicate to send it the new
-        icon. This is a great example of the BAD mindset &#8211; a bit of bricolage leveraging
-        the affordance of technology and relying on [&#8230;]'
-      date: '2014-12-26 11:29:39'
-      date_gmt: '2014-12-26 01:29:39'
-      id: '1100'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: An illustration of the difficulty of learning about network learning | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 207.198.101.80
-      author_url: https://davidtjones.wordpress.com/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/
-      content: '[&#8230;] Breaking BAD to bridge the reality/rhetoric chasm [&#8230;]'
-      date: '2014-12-31 15:32:53'
-      date_gmt: '2014-12-31 05:32:53'
-      id: '1101'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: This year it&#8217;s all about the connections | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.83.81
-      author_url: https://davidtjones.wordpress.com/2015/01/13/this-year-its-all-about-the-connections/
-      content: '[&#8230;] Breaking Bad (Jones &amp; Clark, 2014); [&#8230;]'
-      date: '2015-01-13 10:55:05'
-      date_gmt: '2015-01-13 00:55:05'
-      id: '1102'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Learning about case study methodology to research higher education | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.172
-      author_url: https://davidtjones.wordpress.com/2015/01/16/learning-about-case-study-methodology-to-research-higher-education/
-      content: '[&#8230;] decent within the current institutional mindset around e-learning.
-        The idea is to draw on the Breaking BAD paper, a presentation to MoodleMoot and
-        various other publications round BIM/BAM over the [&#8230;]'
-      date: '2015-01-16 14:51:16'
-      date_gmt: '2015-01-16 04:51:16'
-      id: '1105'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What might the 3 levels of organisational culture reveal about university
-        e-learning | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.18
-      author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
-      content: '[&#8230;] we&#8217;ve argued in this paper, I believe that the organisation
-        works on the assumption that its digital artifacts &#8211; such as [&#8230;]'
-      date: '2015-01-20 10:54:42'
-      date_gmt: '2015-01-20 00:54:42'
-      id: '1106'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Barriers to higher education technology adoption: Digital fluency or usefulness?
-        | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.80.144
-      author_url: https://davidtjones.wordpress.com/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/
-      content: '[&#8230;] SET mindset is takes a Strategic approach to deciding what work
-        gets done. It&#8217;s focus is on achieving the [&#8230;]'
-      date: '2015-01-21 15:45:03'
-      date_gmt: '2015-01-21 05:45:03'
-      id: '1107'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Adding some learning process analytics to EDC3100 | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.86.62
-      author_url: https://davidtjones.wordpress.com/2015/01/23/adding-some-learning-process-analytics-to-edc3100/
-      content: '[&#8230;] Jones and Clark (2014) we drew on Damien&#8217;s (Clark) development
-        of the Moodle Activity Viewer (MAV) as an example of [&#8230;]'
-      date: '2015-01-23 11:58:33'
-      date_gmt: '2015-01-23 01:58:33'
-      id: '1108'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Learning analytics is better when&#8230;..? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.84.44
-      author_url: https://davidtjones.wordpress.com/2015/02/02/learning-analytics-is-better-when/
-      content: '[&#8230;] paper last year describes the development of MAV at CQU and
-        some local tinkering I did using MAV i.e. &#8220;MAV-enabled [&#8230;]'
-      date: '2015-02-02 12:37:24'
-      date_gmt: '2015-02-02 02:37:24'
-      id: '1109'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Concrete lounge #1 &#8211; Helping learners find correct, up-to-date course
-        information | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.99.86
-      author_url: https://davidtjones.wordpress.com/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
-      content: '[&#8230;] argument we made in this paper was that the reason why this
-        concrete lounge exists (and also the reason why I&#8217;m able to make [&#8230;]'
-      date: '2015-02-03 12:27:22'
-      date_gmt: '2015-02-03 02:27:22'
-      id: '1110'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Kludging an authoring process with Moodle books etc. | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.80.104
-      author_url: https://davidtjones.wordpress.com/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
-      content: '[&#8230;] The following outlines an attempt to evolve the authoring &#8220;process&#8221;
-        I currently use with Moodle books into something a little more useful. It won&#8217;t
-        be the be all and end all of authoring process, just enough to solve the immediate
-        problem I have. i.e. bricolage [&#8230;]'
-      date: '2015-02-08 13:13:34'
-      date_gmt: '2015-02-08 03:13:34'
-      id: '1111'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Starting the &#8220;Moodle open book&#8221; project | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.82.20
-      author_url: https://davidtjones.wordpress.com/2015/04/13/starting-the-moodle-open-book-project/
-      content: '[&#8230;] project &#8211; like most of what I do &#8211; will be use an
-        approach informed by a BAD mindset. That [&#8230;]'
-      date: '2015-04-13 22:10:14'
-      date_gmt: '2015-04-13 12:10:14'
-      id: '1113'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What&#8217;s good for the &#8220;open content&#8221; is good for the LMS/virtual
-        learning space? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.86
-      author_url: https://davidtjones.wordpress.com/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
-      content: '[&#8230;] is that this mandated consistent set of minimum standards is
-        being seen through the lens of an &#8220;established&#8221; view of technology.
-        That you can&#8217;t and shouldn&#8217;t change the technology. In fact, if you
-        do change the [&#8230;]'
-      date: '2015-04-15 10:15:24'
-      date_gmt: '2015-04-15 00:15:24'
-      id: '1114'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Where does the LMS site in the reusability paradox | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.86.73
-      author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-site-in-the-reusability-paradox/
-      content: '[&#8230;] The work @damoclarky has done to replace a more useful reporting
-        mechanism for Moodle with MAV. [&#8230;]'
-      date: '2015-04-21 15:54:58'
-      date_gmt: '2015-04-21 05:54:58'
-      id: '1115'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Where does the LMS sit in the reusability paradox | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.81.50
-      author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
-      content: '[&#8230;] The work @damoclarky has done to replace a more useful reporting
-        mechanism for Moodle with MAV. [&#8230;]'
-      date: '2015-04-21 15:57:18'
-      date_gmt: '2015-04-21 05:57:18'
-      id: '1116'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '&#8220;Me as teacher&#8221; &#8211; the 2015 focus for NGL | The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.82.47
-      author_url: https://davidtjones.wordpress.com/2015/07/23/me-as-teacher-the-2015-focus-for-ngl/
-      content: '[&#8230;] on learning, my &#8220;role as teacher&#8221; is to help make
-        connections. Borrowing from the &#8220;distributed view&#8221; the idea is that
-        the world is complex, dynamic, and consists of interdependent assemblages of [&#8230;]'
-      date: '2015-07-23 13:22:29'
-      date_gmt: '2015-07-23 03:22:29'
-      id: '1117'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Homogeneity: the inevitable result of a strategic approach? | The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.80.43
-      author_url: https://davidtjones.wordpress.com/2015/08/14/homogeneity-the-inevitable-result-of-a-strategic-approach/
-      content: '[&#8230;] Jones and Clark (2014) we suggested that contemporary universities
-        (along most other organisations) increasingly use a [&#8230;]'
-      date: '2015-08-14 09:57:14'
-      date_gmt: '2015-08-13 23:57:14'
-      id: '1118'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: All models are wrong, but some are useful and its application to e-learning
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.57
-      author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
-      content: '[&#8230;] Breaking BAD to bridge the reality/rhetoric chasm. [&#8230;]'
-      date: '2015-08-28 09:04:56'
-      date_gmt: '2015-08-27 23:04:56'
-      id: '1119'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.86.138
-      author_url: https://davidtjones.wordpress.com/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/
-      content: '[&#8230;] D., &amp; Clark, D. (2014). Breaking BAD to bridge the reality/rhetoric
-        chasm. In B. Hegarty, J. McDonald, &amp; S. Loke (Eds.), Rhetoric and Reality:
-        Critical perspectives on [&#8230;]'
-      date: '2015-09-03 15:37:55'
-      date_gmt: '2015-09-03 05:37:55'
-      id: '1120'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Design of a BAD approach to developing TPACK | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.200
-      author_url: https://davidtjones.wordpress.com/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
-      content: '[&#8230;] of my recent publications (Jones &amp; Clark, 2015; Jones, Heffernan
-        &amp; Albion, 2016) seek to explore and identify the problems faced by teachers
-        [&#8230;]'
-      date: '2015-09-06 12:35:30'
-      date_gmt: '2015-09-06 02:35:30'
-      id: '1121'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Exploring Moodle&#8217;s API | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.62
-      author_url: https://davidtjones.wordpress.com/2015/09/13/exploring-moodles-api/
-      content: '[&#8230;] API centric architecture is a coming thing in technology circles.
-        It&#8217;s the way vendors and central IT folk will build systems. It is also
-        going to be manna from heaven for institutionalised people who are breaking a
-        little BAD. [&#8230;]'
-      date: '2015-09-13 16:25:06'
-      date_gmt: '2015-09-13 06:25:06'
-      id: '1122'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What might a project combining LX Design and Analaytics look like? | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.190
-      author_url: https://davidtjones.wordpress.com/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
-      content: '[&#8230;] but I worry that LX Design will become just another tool (perhaps
-        a very good tool) applied within the dominant SET mindset within institutional
-        e-learning (which is my context). Which not surprisingly is one of my concerns
-        [&#8230;]'
-      date: '2015-09-14 11:40:27'
-      date_gmt: '2015-09-14 01:40:27'
-      id: '1123'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Self-assertive and integrative tendencies and the connection to the BAD/SET
-        mindsets | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.213
-      author_url: https://davidtjones.wordpress.com/2015/09/17/self-assertive-and-integrative-tendencies-and-the-connection-to-the-badset-mindsets/
-      content: '[&#8230;] shift in scientific thinking they apparently describe in the
-        book may have some useful insights for BAD/SET mindsets and trying to understand
-        and improve digital [&#8230;]'
-      date: '2015-09-17 10:16:14'
-      date_gmt: '2015-09-17 00:16:14'
-      id: '1124'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Situation awareness, complex adaptive systems and learning analytics | Col&#039;s
-        Weblog
-      author_email: null
-      author_ip: 192.0.86.68
-      author_url: https://beerc.wordpress.com/2015/09/29/situation-awareness-complex-adaptive-systems-and-learning-analytics/
-      content: '[&#8230;] the hypothesis linking SET mindsets/non-complex systems with
-        retrospective data [&#8230;]'
-      date: '2015-09-29 14:51:07'
-      date_gmt: '2015-09-29 04:51:07'
-      id: '1125'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'University e-learning: Removing the context and adding the sediment | The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.81.171
-      author_url: https://davidtjones.wordpress.com/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
-      content: '[&#8230;] Institutional e-learning &#8211; like much in contemporary corporate
-        Universities &#8211; is driven by a SET mindset. [&#8230;]'
-      date: '2015-10-01 12:50:23'
-      date_gmt: '2015-10-01 02:50:23'
-      id: '1126'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A little about sensemaking | Col&#039;s Weblog
-      author_email: null
-      author_ip: 192.0.101.231
-      author_url: https://beerc.wordpress.com/2015/10/02/a-little-about-sensemaking/
-      content: '[&#8230;] mention organisations (such as universities) deliberately because
-        the risk averse SET mindset drives approaches (such as those involving learning
-        analytics) and are based on upfront analysis [&#8230;]'
-      date: '2015-10-02 13:27:08'
-      date_gmt: '2015-10-02 03:27:08'
-      id: '1127'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Are our institutions digital visitors? What are the impacts on learning
-        and teaching? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.12
-      author_url: https://davidtjones.wordpress.com/2015/10/09/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching/
-      content: '[&#8230;] and I argued that institutional digital learning is informed
-        by the SET mindset. A mindset that approaches any large, complex problem (like
-        digital learning) with a Tree-like [&#8230;]'
-      date: '2015-10-09 12:51:16'
-      date_gmt: '2015-10-09 02:51:16'
-      id: '1128'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The &#8216;wickedness&#8217; of student attrition and retention | Col&#039;s
-        Weblog
-      author_email: null
-      author_ip: 192.0.83.190
-      author_url: https://beerc.wordpress.com/2015/10/15/the-wickedness-of-student-attrition-and-retention/
-      content: "[&#8230;] Attrition is a complex multi-causal issue that the sector continues\
-        \ to try and address using SET mindsets and methods. I\u2019m saying we need to\
-        \ think about it differently, and perhaps engage in some BAD [&#8230;]"
-      date: '2015-10-15 08:48:55'
-      date_gmt: '2015-10-14 22:48:55'
-      id: '1129'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Testing out the Heatmap #moodle block &#8211; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.116.139
-      author_url: https://davidtjones.wordpress.com/2016/05/13/testing-out-the-heatmap-moodle-block/
-      content: '[&#8230;] doesn&#8217;t. This is of particular interest because the theoretical
-        perspective offered by the SET and BAD mindsets predicts that Heatmap will have
-        some limitations (and strengths), that MAV [&#8230;]'
-      date: '2016-05-13 12:20:01'
-      date_gmt: '2016-05-13 02:20:01'
-      id: '1130'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.86.139
-      author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
-      content: '[&#8230;] also an example of how the BAD mindset is able to work around
-        the significant constraints caused by the SET mindset and in the process [&#8230;]'
-      date: '2016-07-07 14:54:28'
-      date_gmt: '2016-07-07 04:54:28'
-      id: '1131'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Understanding and using the idea of &#8220;network learning&#8221; &#8211;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.118.102
-      author_url: https://davidtjones.wordpress.com/2016/08/17/understanding-and-using-the-idea-of-network-learning/
-      content: '[&#8230;] argument made in this paper is that the use of digital technology
-        to enhance learning and teaching in most formal educational [&#8230;]'
-      date: '2016-08-17 15:37:25'
-      date_gmt: '2016-08-17 05:37:25'
-      id: '1132'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Meeting in the Middle: How to Manage Change in Universities | Damo&#039;s
-        World'
-      author_email: null
-      author_ip: 192.0.113.137
-      author_url: http://damos.world/2016/09/08/meeting-in-the-middle-how-to-manage-change-in-universities/
-      content: "[&#8230;] contributions beyond small coalface groups. \_This is by the\
-        \ very nature of\_the entrenched SET mindsets of higher education [&#8230;]"
-      date: '2016-09-08 14:38:53'
-      date_gmt: '2016-09-08 04:38:53'
-      id: '1133'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a copy of a paper accepted at [ASCILITE'2014](http://ascilite2014.otago.ac.nz/) (and nominated for best paper) written by [myself](http://djon.es/) and [Damien Clark](http://damosworld.wordpress.com/) (CQUniversity - @damoclarky). The official conference version of the paper [is available as a PDF](http://ascilite2014.otago.ac.nz/files/fullpapers/221-Jones.pdf).
 
@@ -663,7 +661,7 @@ The MAV add-on can be configured to generate overlays based on the number of cli
 
 An initial proof-of-concept implementation of the MAV was developed by April 2013. A few weeks later this implementation was demonstrated to the "Moodle 2 Project Board" to seek approval to continue development. The plan was to engage in small trials with academic staff and evolve the tool. The intent was that this would generate a blueprint for the implementation of heat maps within Moodle itself.  The low-risk nature of the approach contributed to approval to continue. However, by July 2013, the institution downsized through an organisational restructure and resources in the IT department were subsequently reduced.  As part of this restructure, and in an effort to reduce costs, the IT Department set to reduce the level of in-house systems development in favour of more **_e_**_stablished_ "vanilla" systems (off-the-shelf with limited or no customisations).  This new strategy made it unlikely that the MAV would be re-implemented directly within Moodle, and the augmented browsing approach might be viable longer term. As the MAV was being developed and refined, it was being tested by a small group of teaching staff within the creator's team. Then in September 2013, the first official trial was launched making the MAV available to all staff within one of CQUniversity's schools.
 
-[![How MAV works by David T Jones, on Flickr](images/15301876161_6b4cd8e675.jpg)](https://www.flickr.com/photos/david_jones/15301876161/)Figure 1: How MAV works (Click on the image to see larger version)
+[![How MAV works by David T Jones, on Flickr](https://djon.es/assets/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/images/15301876161_6b4cd8e675.jpg)](https://www.flickr.com/photos/david_jones/15301876161/)Figure 1: How MAV works (Click on the image to see larger version)
 
 Early in March 2012, prior to the genesis of the MAV, the second author and a colleague developed a proposal for a student retention project. It was informed by ongoing research into learning analytics at the institution and motivated by a strategic institutional imperative to improve student retention (CQUniversity, 2011).  It was not until October 2013 - after the commencement of the first trial of the MAV - that a revised version of the proposal received final approval and the project commenced in November under the name EASICONNECT.  Part of the EASICONNECT project was the inclusion of an early alerts system for disengaged students called EASI (Early Alert Student Indicators) to identify disengaged students early, and provide simple tools to nudge the students to re-engage, with the hope of improving student retention. In 2013, between the proposal submission and final approval of the EASICONNECT Project, EASI under a different name (Student Support Indicators - SSI) was created as a proof-of-concept and used in a series of small term-based trials, evolving similarly to the MAV. One of the amendments made to the approved proposal by the project sponsor (management) was the inclusion of the MAV as a project deliverable in the EASICONNECT project.
 
@@ -672,7 +670,7 @@ Neither EASI nor the MAV were strictly the results of **_s_**_trategic_ plans. B
 Both MAV and its sister project EASI were initiated as a form of **_b_**_ricolage_. It was only later that both projects enjoyed the synthesised environment of a **_s_**_trategic_ project that provided the space and institutional permission for this work to scale and continue to merge. MAV arose due to the limited **_a_**_ffordances_ offered by the LMS and the promise that different ICT could be harnessed to enhance the perceived **_a_**_ffordances_. Remembering that affordances are not something innate to a tool, but are instead co-constitutive between tool, user and context; the on-going use of **_b_**_ricolage_ allowed the potential **_a_**_ffordances_ of the tool to evolve in response to use by teaching staff. Through this approach MAV has been able to evolve from potentially offering **_a_**_ffordances_ of value to teaching staff as part of "design for reflection and redesign" (Dimitriadis & Goodyear, 2013) to also offering potential **_a_**_ffordances_ for "design for orchestration" (Dimitriadis & Goodyear, 2013).
 
 Figure 2: 2014 MAV usage at CQUni: Comparison between T1 and T2 (Click on images to see larger versions of the graphs)
-|   [![MAV Usage - page views by David T Jones, on Flickr](images/15304692922_d31b42874b_m.jpg)](https://www.flickr.com/photos/david_jones/15304692922/)   |   [![MAV usage - # staff by David T Jones, on Flickr](images/15118280979_aeddc411be_m.jpg)](https://www.flickr.com/photos/david_jones/15118280979/)   |
+|   [![MAV Usage - page views by David T Jones, on Flickr](https://djon.es/assets/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/images/15304692922_d31b42874b_m.jpg)](https://www.flickr.com/photos/david_jones/15304692922/)   |   [![MAV usage - # staff by David T Jones, on Flickr](https://djon.es/assets/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/images/15118280979_aeddc411be_m.jpg)](https://www.flickr.com/photos/david_jones/15118280979/)   |
 | --- | --- |
 
 Implementing MAV as a browser add-on also enables a break from the **_t_**_ree-like_ conceptions that underpin the design of large integrated systems like an LMS. The **_t_**_ree-like_ conception is so evident in the Moodle LMS that it is visible in the name. Moodle is an acronym for **M**odular **O**bject-**O**riented **D**ynamic **L**earning **E**nvironment. With **M**odular capturing the fact that "Moodle is built in a highly modular fashion" (Dougiamas & Taylor, 2003, p. 173), meaning that logical decomposition is used to break the large integrated system into small components or modules. This modular architecture allows the rapid development and addition of independent plugins and is a key enabler of the flexibility of Moodle. However, this is based on each of the modules being largely independent of each other, which has the consequence of making it more difficult to have functionality that crosses modular boundaries, such as taking usage information from the logging systems and integrating that information into all of the modules that work together to produce a web page generated by Moodle.

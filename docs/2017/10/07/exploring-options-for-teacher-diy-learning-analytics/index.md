@@ -1,77 +1,74 @@
----
+﻿---
 categories:
 - 4paths
 - indicators
-date: 2017-10-07 08:24:07+10:00
+comments:
+- approved: '1'
+  author: Tony Hirst
+  author_email: tony.hirst@open.ac.uk
+  author_ip: 109.157.179.139
+  author_url: http://blog.ouseful.info
+  content: 'Quick comments about my perspective/take on this stuff... Main question
+    for me is: are there simple setups that let us distribute a small text file or
+    small zip file that can be used to fire up pre-configured software environments
+    on arbitrary machines by novice users.
+
+
+    Patterns I''ve explored:
+
+
+    - virtualbox+vagrant: ideally, you then just give a user a Vagrantfile and a shortcut
+    that runs "vagrant up" and it launches a VM containing one or more linked applications.
+    The VM can be headless (as per our TM351 VM, which exposes Jupyter notebook and
+    OpenRefine to user via a browser on their desktop, and also sets up postgres and
+    mongo inside the VM that can be accessed by Python executed via notebook) or provide
+    a graphical desktop (as per the V-REP demo).
+
+    - kitematic: prebuild a docker image pushed to dockerhub then let someone run
+    it using kitematic; requires docker + kitematic to be installed; best for headless
+    services; if you want app UI, requires x11 client and config nastiness on host.
+
+    - docker-compose: this requires command line - share a docker-compose yaml file,
+    which the auto pulls prebuilt containers pushed to dockerhub and links them together.
+
+    - O''Reilly Launchbot - put dockerfile + seed files/notebooks in a github repo;
+    user pulls down this repo and launches a docker container defined by the repo.'
+  date: '2017-10-17 01:43:06'
+  date_gmt: '2017-10-16 15:43:06'
+  id: '10030'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.39
+  author_url: null
+  content: Tony thanks for sharing the patterns in the comment (and sharing more broadly
+    on your blog, much appreciated).  The patterns will be very useful.  Finding a
+    good fit will be one of the road to cross soon.  We're also going to have to factor
+    in working around the absence of administrator rights on an institutional Windows
+    MOE.
+  date: '2017-10-17 09:01:19'
+  date_gmt: '2017-10-16 23:01:19'
+  id: '10049'
+  parent: '10030'
+  type: comment
+  user_id: '1'
+date: 2017-10-06 22:24:07
 next:
   text: Implications and questions for institutional learning analytics implementation
     arising from teacher DIY learning analytics
   url: /blog/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/
+pingbacks: []
 previous:
   text: 'Learning, learning analytics and multiple levels: The problem of starvation'
   url: /blog/2017/09/25/learning-learning-analytics-and-multiple-levels-the-problem-of-starvation/
 tags:
 - teacherdiy
+template: blog-post.html
 title: Exploring options for teacher DIY learning analytics
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Tony Hirst
-      author_email: tony.hirst@open.ac.uk
-      author_ip: 109.157.179.139
-      author_url: http://blog.ouseful.info
-      content: 'Quick comments about my perspective/take on this stuff... Main question
-        for me is: are there simple setups that let us distribute a small text file or
-        small zip file that can be used to fire up pre-configured software environments
-        on arbitrary machines by novice users.
-    
-    
-        Patterns I''ve explored:
-    
-    
-        - virtualbox+vagrant: ideally, you then just give a user a Vagrantfile and a shortcut
-        that runs "vagrant up" and it launches a VM containing one or more linked applications.
-        The VM can be headless (as per our TM351 VM, which exposes Jupyter notebook and
-        OpenRefine to user via a browser on their desktop, and also sets up postgres and
-        mongo inside the VM that can be accessed by Python executed via notebook) or provide
-        a graphical desktop (as per the V-REP demo).
-    
-        - kitematic: prebuild a docker image pushed to dockerhub then let someone run
-        it using kitematic; requires docker + kitematic to be installed; best for headless
-        services; if you want app UI, requires x11 client and config nastiness on host.
-    
-        - docker-compose: this requires command line - share a docker-compose yaml file,
-        which the auto pulls prebuilt containers pushed to dockerhub and links them together.
-    
-        - O''Reilly Launchbot - put dockerfile + seed files/notebooks in a github repo;
-        user pulls down this repo and launches a docker container defined by the repo.'
-      date: '2017-10-17 01:43:06'
-      date_gmt: '2017-10-16 15:43:06'
-      id: '10030'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.39
-      author_url: null
-      content: Tony thanks for sharing the patterns in the comment (and sharing more broadly
-        on your blog, much appreciated).  The patterns will be very useful.  Finding a
-        good fit will be one of the road to cross soon.  We're also going to have to factor
-        in working around the absence of administrator rights on an institutional Windows
-        MOE.
-      date: '2017-10-17 09:01:19'
-      date_gmt: '2017-10-16 23:01:19'
-      id: '10049'
-      parent: '10030'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 A few of us recently submitted a paper to [ALASI'2017](http://itali.uq.edu.au/alasi2017) that examined a "case study" of a teacher (me) engaging in a bit of DIY learning analytics. The case was used to drawing a few tentative conclusions and questions around the institutional implementation of learning analytics. The main conclusion is that teacher DIY learning analytics is largely ignored at the institutional level and that there appears to be a need and value to support it. The question is how (and then if supported, what happens)?
 
@@ -165,13 +162,13 @@ Tony sees using the command line a draw back for running your own. Perhaps not t
 
 Following offers a creative intro to Kubernetes
 
-https://youtu.be/4ht22ReBjno
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ht22ReBjno?si=CIpCtxjTT1qxrR8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Starts with the case for containers (Docker), but then moves onto orchestration and the need for Kubernetes. Puts containers into a pod, perhaps with more than one if tightly coupled. Goes onto to explain the other features provided by Kubernetes.
 
 And intro to Docker
 
-https://www.youtube.com/watch?v=RyxXe5mbzlU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RyxXe5mbzlU?si=vigiI2V3kWLhEJsl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Rolling my own
 

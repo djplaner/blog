@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bim
-date: 2010-01-09 11:47:06+10:00
+comments: []
+date: 2010-01-09 01:47:06
 next:
   text: BIM - Design of "Manage Marking" and other features for Coordinators
   url: /blog/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/
+pingbacks:
+- approved: '1'
+  author: BIM &#8211; Design of &#8220;Manage Marking&#8221; and other features for
+    Coordinators &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.248.143
+  author_url: https://djon.es/blog/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BIM &#8211; getting navigation bread crumbs and tabs&nbsp;working [...]'
+  date: '2010-01-09 12:36:08'
+  date_gmt: '2010-01-09 02:36:08'
+  id: '2910'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - Allocate questions screen
   url: /blog/2010/01/07/bim-allocate-questions-screen/
+template: blog-post.html
 title: BIM - getting navigation bread crumbs and tabs working
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM &#8211; Design of &#8220;Manage Marking&#8221; and other features for
-        Coordinators &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.248.143
-      author_url: https://djon.es/blog/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BIM &#8211; getting navigation bread crumbs and tabs&nbsp;working [...]'
-      date: '2010-01-09 12:36:08'
-      date_gmt: '2010-01-09 02:36:08'
-      id: '2910'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In the [last bit of work](/blog/2010/01/07/bim-allocate-questions-screen/) on BIM I got the Allocate Posts page working. This created the issue of getting the navigation/bread crumbs trail work in a useful way. I made an initial start on that, this post tries to get it complete. It will also be an attempt to get the "tabbed" screen for the coordinator working.
 

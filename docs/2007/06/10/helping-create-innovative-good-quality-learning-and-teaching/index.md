@@ -1,63 +1,60 @@
----
+﻿---
 categories:
 - ascilitementor
 - emd
-date: 2007-06-10 20:59:24+10:00
+comments:
+- approved: '1'
+  author: Kathleen Gray
+  author_email: kgray@unimelb.edu.au
+  author_ip: 204.244.76.50
+  author_url: null
+  content: "Hi David:\n\nAt the end of my week at EDMEDIA, I\xE2\x80\x99ve finally\
+    \ had a chance to formulate some comments on your post\xE2\x80\xA6 And I\xE2\x80\
+    \x99d recommend the keynotes by Terry Anderson and Bebo White, on web 2.0 related\
+    \ ideas, if you have the time to have a look/listen\xE2\x80\xA6\n\nMy comments\
+    \ are by way of interrogating your reflection on Land a litle more.  I am interested\
+    \ that you are able to be so clear about your orientation/s; for myself I now\
+    \ think of these as a repertoire of approaches, one or more of which may need\
+    \ to be deployed \xE2\x80\x9Cprofessionally\xE2\x80? depending on the AD work\
+    \ to be done, regardless of one\xE2\x80\x99s personal inclinations.\n\nBut I\xE2\
+    \x80\x99d like to go on from that observation to suggest that I read you as using\
+    \ concepts of innovation, improvement, effectiveness and good practice in L&amp;T\
+    \ kind of interchangeably to represent the change you\xE2\x80\x99re responsible\
+    \ for / desirous of, and I wonder if you mean to do this, or if there\xE2\x80\x99\
+    s some more teasing out to be done here?  You use ideas of solutions and support,\
+    \ but I think it\xE2\x80\x99s important to clarify what you plan to do in a way\
+    \ that is 'out there', i.e. generally (a) understandable to and (b) agreed upon\
+    \ by your clients/ staff / sponsors / stakeholders - what is it that you\xE2\x80\
+    \x99re aiming to solve or support, in a prioritised, observable way?   Further\
+    \ how will you and they know when you\xE2\x80\x99ve got there, and whether it\
+    \ was a path that you\xE2\x80\x99d take again or recommend that others take? \xE2\
+    \x80\x93 Although you\xE2\x80\x99ve  given short shrift to the compelling power\
+    \ of an evidence-based approach to L&amp;T, does this mean you don\xE2\x80\x99\
+    t think research evidence matters generally in directing educational change or\
+    \ that you have other less formal ways that you use to reach decisions about what\
+    \ your unit will do? NB I raise this as a question that vexes many who do educational\
+    \ development work..."
+  date: '2007-06-30 04:19:47'
+  date_gmt: '2007-06-29 18:19:47'
+  id: '1547'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2007-06-10 10:59:24
 next:
   text: CQU's first Web 2.0 course site?
   url: /blog/2007/06/12/cqus-first-web-20-course-site/
+pingbacks: []
 previous:
   text: Governance, e-learning and learning design
   url: /blog/2007/06/08/governance-e-learning-and-learning-design/
+template: blog-post.html
 title: Helping create innovative, good quality learning and teaching
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Kathleen Gray
-      author_email: kgray@unimelb.edu.au
-      author_ip: 204.244.76.50
-      author_url: null
-      content: "Hi David:\n\nAt the end of my week at EDMEDIA, I\xE2\x80\x99ve finally\
-        \ had a chance to formulate some comments on your post\xE2\x80\xA6 And I\xE2\x80\
-        \x99d recommend the keynotes by Terry Anderson and Bebo White, on web 2.0 related\
-        \ ideas, if you have the time to have a look/listen\xE2\x80\xA6\n\nMy comments\
-        \ are by way of interrogating your reflection on Land a litle more.  I am interested\
-        \ that you are able to be so clear about your orientation/s; for myself I now\
-        \ think of these as a repertoire of approaches, one or more of which may need\
-        \ to be deployed \xE2\x80\x9Cprofessionally\xE2\x80? depending on the AD work\
-        \ to be done, regardless of one\xE2\x80\x99s personal inclinations.\n\nBut I\xE2\
-        \x80\x99d like to go on from that observation to suggest that I read you as using\
-        \ concepts of innovation, improvement, effectiveness and good practice in L&amp;T\
-        \ kind of interchangeably to represent the change you\xE2\x80\x99re responsible\
-        \ for / desirous of, and I wonder if you mean to do this, or if there\xE2\x80\x99\
-        s some more teasing out to be done here?  You use ideas of solutions and support,\
-        \ but I think it\xE2\x80\x99s important to clarify what you plan to do in a way\
-        \ that is 'out there', i.e. generally (a) understandable to and (b) agreed upon\
-        \ by your clients/ staff / sponsors / stakeholders - what is it that you\xE2\x80\
-        \x99re aiming to solve or support, in a prioritised, observable way?   Further\
-        \ how will you and they know when you\xE2\x80\x99ve got there, and whether it\
-        \ was a path that you\xE2\x80\x99d take again or recommend that others take? \xE2\
-        \x80\x93 Although you\xE2\x80\x99ve  given short shrift to the compelling power\
-        \ of an evidence-based approach to L&amp;T, does this mean you don\xE2\x80\x99\
-        t think research evidence matters generally in directing educational change or\
-        \ that you have other less formal ways that you use to reach decisions about what\
-        \ your unit will do? NB I raise this as a question that vexes many who do educational\
-        \ development work..."
-      date: '2007-06-30 04:19:47'
-      date_gmt: '2007-06-29 18:19:47'
-      id: '1547'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 In an [earlier post](/blog/2007/04/29/a-model-for-evaluating-teaching-a-useful-lens/) I drew on a "model of teaching" from Trigwell (2001). The model is shown below
 
-[![Trigwell's model of teaching](images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
+[![Trigwell's model of teaching](https://djon.es/assets/blog/2007/06/10/helping-create-innovative-good-quality-learning-and-teaching/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
 
 Sadly, because of the "streaming" way I tend to write these blog posts, I titled that post "A model for evaluating teaching", this title did not match the intent of the post.
 

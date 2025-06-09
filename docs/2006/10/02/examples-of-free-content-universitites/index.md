@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2006-10-02 08:51:30+10:00
+date: 2006-10-01 22:51:30
 next:
   text: Everything old is new again - working around copy detection
   url: /blog/2006/10/02/everything-old-is-new-again-working-around-copy-detection/
 previous:
   text: Today&#039;s knowledge climate - why Webfuse approach is better
   url: /blog/2006/09/30/todays-knowledge-climate-why-webfuse-approach-is-better/
+template: blog-post.html
 title: Examples of free content (Universitites)
 type: post
-template: blog-post.html
 ---
 One of the problems with arguing a "Web 2.0 course site" to many academics is the fact that the content is open. This is still incredibly troubling to a large percentage of academics (must find out how prevalent).
 

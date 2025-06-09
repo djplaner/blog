@@ -1,154 +1,152 @@
----
+﻿---
 categories:
 - elearning
 - innovation
 - reflectivealignment
-date: 2009-05-21 10:27:45+10:00
+comments:
+- approved: '1'
+  author: bradmarshall
+  author_email: brad@humbug.org.au
+  author_ip: 118.208.3.72
+  author_url: null
+  content: 'David,
+
+
+    The fact that people know the answer and don''t follow thru was covered very well
+    in the time management course I recently went on, basically discipline.  Knowing
+    the right thing and doing it are two very different things, it takes significant
+    effort to do it, and keep doing it until it becomes habit.
+
+
+    Also, I''ve heard it said that it takes 21 times doing something to form a habit
+    - thats a significant amount of discipline to keep going.  I''m sure teaching
+    is more complex than that, but perhaps there''s something to it.
+
+
+    Brad.'
+  date: '2009-05-21 20:24:44'
+  date_gmt: '2009-05-21 10:24:44'
+  id: '2521'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: "G'day Brad,\n\nI'm not sure that discipline alone is the answer. However,\
+    \ if you read the first review of Maister's book you'll see that this is a view\
+    \ that goes back to some early Greek philosophers.\n\nPlato's view from the review\
+    \ \"For Plato, the incontinent is either un-reflective, or of weak character.\
+    \ The fat smoker either doesn\u2019t really understand how self-harmful he is\u2014\
+    or he is just a moral weakling\".\n\nBut the review seems to indicate that there's\
+    \ more to it than just that. I also think there's more to it than just that. Especially\
+    \ when we're talking about something like teaching within a university context.\
+    \  At the very least, that context can't be  completely without influence.\n\n\
+    But I feel also that blaming the context is an easy cop out.\n\nMore thinking\
+    \ to do.\n\nDavid."
+  date: '2009-05-21 22:25:17'
+  date_gmt: '2009-05-21 12:25:17'
+  id: '2522'
+  parent: '2521'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: bradmarshall
+  author_email: brad@humbug.org.au
+  author_ip: 118.208.3.72
+  author_url: null
+  content: 'David,
+
+
+    Definately, I completely believe that discipline isn''t the complete answer -
+    but it probably contributes to it.  I know I''m unaware of many of the factors
+    related to this, not being an academic.  It seems to me to be quite a hard problem
+    with many facets to it.
+
+
+    Brad.'
+  date: '2009-05-22 07:45:40'
+  date_gmt: '2009-05-21 21:45:40'
+  id: '2523'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Brad,
+
+
+    I agree entirely with the observation that it is "quite a hard problem with many
+    facets to it".
+
+
+    I don''t even pretend to begin to understand the full variety of the problems
+    that it entails, let alone have specific solutions.
+
+
+    This is why I don''t think "plan-driven" approaches, like those commonly adopted
+    in universities, are appropriate.  They are based on the assumption that we know
+    the problems and have identified solutions ahead of time.
+
+
+    I prefer emergent or learning approaches. Approaches where we agree we don''t
+    know and design our processes and choices to allow identification of problems
+    and experimental solutions to evolve from our experience.
+
+
+    This is why I get pissed when people refer to Webfuse as an LMS.  Adoption of
+    an LMS is a plan-driven approach.  Webfuse is intended as an emergent process,
+    not as a product. What ever the current state or structure of Webfuse, it''s all
+    temporary and meant to change as we learn a little bit more about what is needed
+    and what works.
+
+
+    What Webfuse can do at the moment is not important, it''s what it can help us
+    learn and do in the future that''s important.
+
+
+    Sorry, I''m working on the thesis at the moment, particularly on the process section.
+    Hence I''m currently writing about the above, it''s on my mind.
+
+
+    David.'
+  date: '2009-05-22 09:21:29'
+  date_gmt: '2009-05-21 23:21:29'
+  id: '2524'
+  parent: '2523'
+  type: comment
+  user_id: '1'
+date: 2009-05-21 00:27:45
 next:
   text: '"Learning spaces: expenditure and time spent learning"'
   url: /blog/2009/05/21/learning-spaces-expenditure-and-time-spent-learning/
+pingbacks:
+- approved: '1'
+  author: Continuing to bash the consultant model &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/05/24/continuing-to-bash-the-consultant-model/
+  content: '[...] on their vast knowledge, recommends some ways forward. I started
+    my &#8220;bashing wave&#8221; in a post comparing this model with the &#8220;fat
+    smoker&#8221; problem (telling them what they already know [...]'
+  date: '2009-05-24 09:09:59'
+  date_gmt: '2009-05-23 23:09:59'
+  id: '2525'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Purpose - a component of the Ps Framework
   url: /blog/2009/05/20/purpose-a-component-of-the-ps-framework/
+template: blog-post.html
 title: Where's the inspiration? Where's the desire to improve?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: bradmarshall
-      author_email: brad@humbug.org.au
-      author_ip: 118.208.3.72
-      author_url: null
-      content: 'David,
-    
-    
-        The fact that people know the answer and don''t follow thru was covered very well
-        in the time management course I recently went on, basically discipline.  Knowing
-        the right thing and doing it are two very different things, it takes significant
-        effort to do it, and keep doing it until it becomes habit.
-    
-    
-        Also, I''ve heard it said that it takes 21 times doing something to form a habit
-        - thats a significant amount of discipline to keep going.  I''m sure teaching
-        is more complex than that, but perhaps there''s something to it.
-    
-    
-        Brad.'
-      date: '2009-05-21 20:24:44'
-      date_gmt: '2009-05-21 10:24:44'
-      id: '2521'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: "G'day Brad,\n\nI'm not sure that discipline alone is the answer. However,\
-        \ if you read the first review of Maister's book you'll see that this is a view\
-        \ that goes back to some early Greek philosophers.\n\nPlato's view from the review\
-        \ \"For Plato, the incontinent is either un-reflective, or of weak character.\
-        \ The fat smoker either doesn\u2019t really understand how self-harmful he is\u2014\
-        or he is just a moral weakling\".\n\nBut the review seems to indicate that there's\
-        \ more to it than just that. I also think there's more to it than just that. Especially\
-        \ when we're talking about something like teaching within a university context.\
-        \  At the very least, that context can't be  completely without influence.\n\n\
-        But I feel also that blaming the context is an easy cop out.\n\nMore thinking\
-        \ to do.\n\nDavid."
-      date: '2009-05-21 22:25:17'
-      date_gmt: '2009-05-21 12:25:17'
-      id: '2522'
-      parent: '2521'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: bradmarshall
-      author_email: brad@humbug.org.au
-      author_ip: 118.208.3.72
-      author_url: null
-      content: 'David,
-    
-    
-        Definately, I completely believe that discipline isn''t the complete answer -
-        but it probably contributes to it.  I know I''m unaware of many of the factors
-        related to this, not being an academic.  It seems to me to be quite a hard problem
-        with many facets to it.
-    
-    
-        Brad.'
-      date: '2009-05-22 07:45:40'
-      date_gmt: '2009-05-21 21:45:40'
-      id: '2523'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Brad,
-    
-    
-        I agree entirely with the observation that it is "quite a hard problem with many
-        facets to it".
-    
-    
-        I don''t even pretend to begin to understand the full variety of the problems
-        that it entails, let alone have specific solutions.
-    
-    
-        This is why I don''t think "plan-driven" approaches, like those commonly adopted
-        in universities, are appropriate.  They are based on the assumption that we know
-        the problems and have identified solutions ahead of time.
-    
-    
-        I prefer emergent or learning approaches. Approaches where we agree we don''t
-        know and design our processes and choices to allow identification of problems
-        and experimental solutions to evolve from our experience.
-    
-    
-        This is why I get pissed when people refer to Webfuse as an LMS.  Adoption of
-        an LMS is a plan-driven approach.  Webfuse is intended as an emergent process,
-        not as a product. What ever the current state or structure of Webfuse, it''s all
-        temporary and meant to change as we learn a little bit more about what is needed
-        and what works.
-    
-    
-        What Webfuse can do at the moment is not important, it''s what it can help us
-        learn and do in the future that''s important.
-    
-    
-        Sorry, I''m working on the thesis at the moment, particularly on the process section.
-        Hence I''m currently writing about the above, it''s on my mind.
-    
-    
-        David.'
-      date: '2009-05-22 09:21:29'
-      date_gmt: '2009-05-21 23:21:29'
-      id: '2524'
-      parent: '2523'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Continuing to bash the consultant model &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/05/24/continuing-to-bash-the-consultant-model/
-      content: '[...] on their vast knowledge, recommends some ways forward. I started
-        my &#8220;bashing wave&#8221; in a post comparing this model with the &#8220;fat
-        smoker&#8221; problem (telling them what they already know [...]'
-      date: '2009-05-24 09:09:59'
-      date_gmt: '2009-05-23 23:09:59'
-      id: '2525'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The title and spark for this post comes [from this post](http://www.convergemag.com/blog/bridge/Biggest-Loser-Inspiration.html) entitled "A night of 'Biggest Loser' Inspiration". I came across it via a tweet from [Gardner Campbell](http://www.gardnercampbell.net/) and in particular the quote from the post he tweeted (included here sans the 140 character tweet limit)
 
@@ -164,7 +162,7 @@ When it comes to improving learning and teaching I am a firm believer in the abs
 
 Consequently, I currently believe that an important, if not the most important, aim for my position should be to encourage academics to reflect upon their conceptions of learning and teaching. The theory being, see the following figure from Trigwell (2001), change in those conceptions is the only way to achieve sustainable improvements in the quality of learning experience by students.
 
-[![Trigwell's model of teaching](images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
+[![Trigwell's model of teaching](https://djon.es/assets/blog/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
 
 The problem is that for this will only happen if there is a desire on the part of the academics to reflect. If there's no desire, it won't work. My current institution has been going through some tough times which may make it hard to find that inspiration.
 

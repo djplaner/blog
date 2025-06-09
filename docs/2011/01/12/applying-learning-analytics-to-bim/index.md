@@ -1,10 +1,10 @@
----
+﻿---
 categories:
 - bim
 - bim2
 - indicators
 - lak11
-date: 2011-01-12 10:25:27+10:00
+date: 2011-01-12 00:25:27
 next:
   text: Introducing Hunch
   url: /blog/2011/01/13/introducing-hunch/
@@ -13,9 +13,9 @@ previous:
   url: /blog/2011/01/10/learning-analytics-definitions-processes-and-potential/
 tags:
 - lak11
+template: blog-post.html
 title: Applying "learning analytics" to BIM
 type: post
-template: blog-post.html
 ---
 The following floats/records some initial ideas for connection two of my current projects, [BIM](/blog/research/bam-blog-aggregation-management/) and [lak11](http://www.learninganalytics.net/). The ideas arise out of some discussion with my better half who is currently using BIM in one of the courses she is teaching.
 

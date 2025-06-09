@@ -1,158 +1,156 @@
----
+﻿---
 categories:
 - alignment
-date: 2010-05-13 09:19:39+10:00
+comments:
+- approved: '1'
+  author: Nils Peterson
+  author_email: nils_peterson@wsu.edu
+  author_ip: 64.126.138.219
+  author_url: http://nilspeterson.com
+  content: 'David,
+
+
+    You may be interested in a rubric that we Oia.Wsu.edu are developing to help programs
+    assess their ability to assess teaching and learning. In other words, it''s a
+    meta assessment. We are doing this work in the context of a need for an instituion
+    wide system of assessment.  Rather that impose a single assessment, we are encouraging
+    programs to document their own robust practice, which we hope/imagine to be a
+    combination of course level SoTL and program-wide alignment of efforts around
+    questions of teaching and learning that interest the faculty.  You can find our
+    rubric, called Guide to Assessment, on the website. The current version is in
+    the packet of resources for creating a self-study (right column).'
+  date: '2010-05-15 23:02:41'
+  date_gmt: '2010-05-15 13:02:41'
+  id: '3037'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'G''day Nils,
+
+
+    Thanks for the pointers.  I was aware of your work on the harvesting gradebook,
+    but not on the broader "meta-assessment".  Very interesting.
+
+
+    I''m only sorry that I''m having to be very "pragmatic" with my time at the moment.  Once
+    a few deadlines are over, I''m hoping in a couple of months to read more about
+    your work and start asking some questions.  Hope that''s okay.
+
+
+    I''m very much interested to learn more, especially about the experiences you''ve
+    had engaging faculty with the work. For me, this remains the most difficult problem,
+    developing something that a majority of teaching staff find useful enough to make
+    part of their teaching practice.
+
+
+    David.'
+  date: '2010-05-16 09:12:27'
+  date_gmt: '2010-05-15 23:12:27'
+  id: '3038'
+  parent: '3037'
+  type: comment
+  user_id: '1'
+date: 2010-05-12 23:19:39
 next:
   text: Getting started with Col's indicators block
   url: /blog/2010/05/13/getting-started-with-cols-indicators-block/
+pingbacks:
+- approved: '1'
+  author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.72
+  author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
+  content: '[...] about the alignment&nbsp;project  Yesterday, I posted a draft of
+    an application for what is currently being called, the alignment project. Stephen
+    Downes has commented on the [...]'
+  date: '2010-05-14 14:14:03'
+  date_gmt: '2010-05-14 04:14:03'
+  id: '3035'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Taking Moodle into Prison Dentistry &laquo; Mathehu&#039;s Weblog
+  author_email: null
+  author_ip: 66.135.48.208
+  author_url: http://mathehu.wordpress.com/2010/05/13/taking-moodle-into-prison-dentistry/
+  content: '[...] use David&#8217;s ideas for the first time and explore the concept
+    of distributive or distributed leadership. Exploring the [...]'
+  date: '2010-05-14 19:24:16'
+  date_gmt: '2010-05-14 09:24:16'
+  id: '3036'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How curriculum mapping in Moodle might work &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 76.74.255.104
+  author_url: https://djon.es/blog/2010/05/19/how-curriculum-mapping-in-moodle-might-work/
+  content: '[...] is being done as part of the alignment project and picks up from
+    some earlier examination of Moodle&#8217;s existing outcomes [...]'
+  date: '2010-05-19 21:05:28'
+  date_gmt: '2010-05-19 11:05:28'
+  id: '3039'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Understanding what teachers do: First step in improving L&amp;T &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.138
+  author_url: https://djon.es/blog/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/
+  content: '[...] the quality of teaching and learning. Much of what I do (e.g. Moodle
+    curriculum mapping, the broader alignment project, and the indicators Moodle block)
+    is aimed at modifying the environment/network around teaching [...]'
+  date: '2010-05-25 10:17:06'
+  date_gmt: '2010-05-25 00:17:06'
+  id: '3040'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Integrating alignment into Moodle and academic practice: A proposal and
+    a RFI &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.146
+  author_url: https://djon.es/blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
+  content: '[...] more detailed description of this idea is available here. The rest
+    of this is a written summary of what I think the 3 minute show and tell will cover
+    next [...]'
+  date: '2010-07-09 09:26:37'
+  date_gmt: '2010-07-08 23:26:37'
+  id: '3041'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Starting the re-design of EDC3100 &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.25
+  author_url: https://djon.es/blog/2012/07/20/starting-the-re-design-of-edc3100/
+  content: '[...] document that helps map activities and resources from the course
+    against the standards. Given my prior thinking around alignment and mapping projects,
+    I&#8217;m not convinced that this sort of is a really big [...]'
+  date: '2012-07-20 11:29:40'
+  date_gmt: '2012-07-20 01:29:40'
+  id: '3042'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Requirements for an &quot;indicators&quot; Moodle block
   url: /blog/2010/05/09/requirements-for-an-indicators-moodle-block/
+template: blog-post.html
 title: More thinking about the alignment project
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Nils Peterson
-      author_email: nils_peterson@wsu.edu
-      author_ip: 64.126.138.219
-      author_url: http://nilspeterson.com
-      content: 'David,
-    
-    
-        You may be interested in a rubric that we Oia.Wsu.edu are developing to help programs
-        assess their ability to assess teaching and learning. In other words, it''s a
-        meta assessment. We are doing this work in the context of a need for an instituion
-        wide system of assessment.  Rather that impose a single assessment, we are encouraging
-        programs to document their own robust practice, which we hope/imagine to be a
-        combination of course level SoTL and program-wide alignment of efforts around
-        questions of teaching and learning that interest the faculty.  You can find our
-        rubric, called Guide to Assessment, on the website. The current version is in
-        the packet of resources for creating a self-study (right column).'
-      date: '2010-05-15 23:02:41'
-      date_gmt: '2010-05-15 13:02:41'
-      id: '3037'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'G''day Nils,
-    
-    
-        Thanks for the pointers.  I was aware of your work on the harvesting gradebook,
-        but not on the broader "meta-assessment".  Very interesting.
-    
-    
-        I''m only sorry that I''m having to be very "pragmatic" with my time at the moment.  Once
-        a few deadlines are over, I''m hoping in a couple of months to read more about
-        your work and start asking some questions.  Hope that''s okay.
-    
-    
-        I''m very much interested to learn more, especially about the experiences you''ve
-        had engaging faculty with the work. For me, this remains the most difficult problem,
-        developing something that a majority of teaching staff find useful enough to make
-        part of their teaching practice.
-    
-    
-        David.'
-      date: '2010-05-16 09:12:27'
-      date_gmt: '2010-05-15 23:12:27'
-      id: '3038'
-      parent: '3037'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.72
-      author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
-      content: '[...] about the alignment&nbsp;project  Yesterday, I posted a draft of
-        an application for what is currently being called, the alignment project. Stephen
-        Downes has commented on the [...]'
-      date: '2010-05-14 14:14:03'
-      date_gmt: '2010-05-14 04:14:03'
-      id: '3035'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Taking Moodle into Prison Dentistry &laquo; Mathehu&#039;s Weblog
-      author_email: null
-      author_ip: 66.135.48.208
-      author_url: http://mathehu.wordpress.com/2010/05/13/taking-moodle-into-prison-dentistry/
-      content: '[...] use David&#8217;s ideas for the first time and explore the concept
-        of distributive or distributed leadership. Exploring the [...]'
-      date: '2010-05-14 19:24:16'
-      date_gmt: '2010-05-14 09:24:16'
-      id: '3036'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How curriculum mapping in Moodle might work &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 76.74.255.104
-      author_url: https://djon.es/blog/2010/05/19/how-curriculum-mapping-in-moodle-might-work/
-      content: '[...] is being done as part of the alignment project and picks up from
-        some earlier examination of Moodle&#8217;s existing outcomes [...]'
-      date: '2010-05-19 21:05:28'
-      date_gmt: '2010-05-19 11:05:28'
-      id: '3039'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Understanding what teachers do: First step in improving L&amp;T &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.138
-      author_url: https://djon.es/blog/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/
-      content: '[...] the quality of teaching and learning. Much of what I do (e.g. Moodle
-        curriculum mapping, the broader alignment project, and the indicators Moodle block)
-        is aimed at modifying the environment/network around teaching [...]'
-      date: '2010-05-25 10:17:06'
-      date_gmt: '2010-05-25 00:17:06'
-      id: '3040'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Integrating alignment into Moodle and academic practice: A proposal and
-        a RFI &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.146
-      author_url: https://djon.es/blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
-      content: '[...] more detailed description of this idea is available here. The rest
-        of this is a written summary of what I think the 3 minute show and tell will cover
-        next [...]'
-      date: '2010-07-09 09:26:37'
-      date_gmt: '2010-07-08 23:26:37'
-      id: '3041'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Starting the re-design of EDC3100 &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.25
-      author_url: https://djon.es/blog/2012/07/20/starting-the-re-design-of-edc3100/
-      content: '[...] document that helps map activities and resources from the course
-        against the standards. Given my prior thinking around alignment and mapping projects,
-        I&#8217;m not convinced that this sort of is a really big [...]'
-      date: '2012-07-20 11:29:40'
-      date_gmt: '2012-07-20 01:29:40'
-      id: '3042'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the latest, and first close to (but not there) complete, draft of the proposal explaining the alignment project. While informed by good discussions with a range of folk, the following is still a bit limited. Should be improved over the next couple of weeks.
 

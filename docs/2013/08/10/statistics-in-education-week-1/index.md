@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2013-08-10 23:02:43+10:00
+date: 2013-08-10 13:02:43
 next:
   text: Bugger analytics, just give me useful information
   url: /blog/2013/08/12/bugger-analytics-just-give-me-useful-information/
 previous:
   text: Learning analytics - What is the &quot;end in mind&quot;?
   url: /blog/2013/08/02/learning-analytics-what-is-the-end-in-mind/
+template: blog-post.html
 title: Statistics in Education - Week 1
 type: post
-template: blog-post.html
 ---
 Have signed up for another MOOC - [Statistics in Education for Mere Mortals](https://www.canvas.net/courses/statistics-in-education-for-mere-mortals) - to fill a hole. What follows is the diary of the first week.
 

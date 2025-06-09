@@ -1,95 +1,92 @@
----
+﻿---
 categories:
 - elearning
 - react
 - reflectivealignment
-date: 2009-03-06 22:03:22+10:00
+comments: []
+date: 2009-03-06 12:03:22
 next:
   text: '"How to improve L&#038;T and e-learning at universities"'
   url: /blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
+pingbacks:
+- approved: '1'
+  author: Shades of gray (an opinion piece) &laquo; Col&#8217;s Weblog
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: http://beerc.wordpress.com/2009/03/07/shades-of-gray-an-opinion-piece/
+  content: '[...]  Posted on March 7, 2009 by beerc   I&#8217;ve just David&#8217;s
+    post titled &#8220;The biggest flaw in university L&amp;T/e-learning&#8221; and
+    I agree with what he says about measuring teaching and learning but from a different
+    [...]'
+  date: '2009-03-07 11:35:54'
+  date_gmt: '2009-03-07 01:35:54'
+  id: '2224'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    The biggest flaw in university&nbsp;L&amp;T/e-learning? [...]'
+  date: '2009-03-09 23:01:25'
+  date_gmt: '2009-03-09 13:01:25'
+  id: '2225'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD update - week #3 &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/03/13/phd-update-week-3/
+  content: '[...] The biggest flaw in university L&amp;T/e-learning - is connected
+    to thinking associated with chapter 2 and the Ps Framework. In particular, a big
+    problem any approach to e-learning within a university has to address. [...]'
+  date: '2009-03-13 14:35:51'
+  date_gmt: '2009-03-13 04:35:51'
+  id: '2226'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'The new educational technologists: A call for evidenced change &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/04/06/the-new-educational-technologists-a-call-for-evidenced-change/
+  content: '[...] So, anything that proposes to search for evidence associated with
+    this work, is of interest. Especially when I believe the absence of agreed upon
+    evidence of improvement is a key flaw in university teaching [...]'
+  date: '2009-04-06 10:51:56'
+  date_gmt: '2009-04-06 00:51:56'
+  id: '2227'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Quality assurance of learning and teaching &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/05/18/quality-assurance-of-learning-and-teaching/
+  content: '[...] what I&#8217;ve had to say about difficulties associated with measuring
+    the effectivness of learning and teaching, I&#8217;m [...]'
+  date: '2009-05-18 17:11:30'
+  date_gmt: '2009-05-18 07:11:30'
+  id: '2228'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The weak second album (PhD update)
   url: /blog/2009/03/06/the-weak-second-album-phd-update/
+template: blog-post.html
 title: '"The biggest flaw in university L&#038;T/e-learning?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Shades of gray (an opinion piece) &laquo; Col&#8217;s Weblog
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: http://beerc.wordpress.com/2009/03/07/shades-of-gray-an-opinion-piece/
-      content: '[...]  Posted on March 7, 2009 by beerc   I&#8217;ve just David&#8217;s
-        post titled &#8220;The biggest flaw in university L&amp;T/e-learning&#8221; and
-        I agree with what he says about measuring teaching and learning but from a different
-        [...]'
-      date: '2009-03-07 11:35:54'
-      date_gmt: '2009-03-07 01:35:54'
-      id: '2224'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        The biggest flaw in university&nbsp;L&amp;T/e-learning? [...]'
-      date: '2009-03-09 23:01:25'
-      date_gmt: '2009-03-09 13:01:25'
-      id: '2225'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD update - week #3 &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/03/13/phd-update-week-3/
-      content: '[...] The biggest flaw in university L&amp;T/e-learning - is connected
-        to thinking associated with chapter 2 and the Ps Framework. In particular, a big
-        problem any approach to e-learning within a university has to address. [...]'
-      date: '2009-03-13 14:35:51'
-      date_gmt: '2009-03-13 04:35:51'
-      id: '2226'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'The new educational technologists: A call for evidenced change &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/04/06/the-new-educational-technologists-a-call-for-evidenced-change/
-      content: '[...] So, anything that proposes to search for evidence associated with
-        this work, is of interest. Especially when I believe the absence of agreed upon
-        evidence of improvement is a key flaw in university teaching [...]'
-      date: '2009-04-06 10:51:56'
-      date_gmt: '2009-04-06 00:51:56'
-      id: '2227'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Quality assurance of learning and teaching &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/05/18/quality-assurance-of-learning-and-teaching/
-      content: '[...] what I&#8217;ve had to say about difficulties associated with measuring
-        the effectivness of learning and teaching, I&#8217;m [...]'
-      date: '2009-05-18 17:11:30'
-      date_gmt: '2009-05-18 07:11:30'
-      id: '2228'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 > Welcome folk from UHI. Hope you find this interesting. Your e-learning portal is [here](https://communities.uhi.ac.uk/ltel). Good luck with it all.
 
@@ -121,7 +118,7 @@ Now there may be methods to measure the quality of learning and teaching that do
 
 The absence of this broad acceptance and subsequent widespread, disciplined use totally voids any validity the evaluation method may have. Unless the senior management, middle management, coal-face practitioners and all other stakeholders see the value of the measure, it doesn't matter that they work.
 
-[![Teaching is not rocket science](images/2942564830_01a5174d1c_m_d.jpg)](http://www.flickr.com/photos/shareski/2942564830/)
+[![Teaching is not rocket science](https://djon.es/assets/blog/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/images/2942564830_01a5174d1c_m_d.jpg)](http://www.flickr.com/photos/shareski/2942564830/)
 
 This lack of acceptance is not unexpected as teaching is a [wicked design problem](http://en.wikipedia.org/wiki/Wicked_problem). A point made by the [quote from Prof Richard Elmore](http://bluyonder.wordpress.com/2007/09/24/teaching-isnt-rocket-science/) illustrated by the attached photo. Many of the defining characteristics of wicked design problem make it very difficult to effectively get wide acceptance of a solution. For example, from the [Wikipedia page](http://en.wikipedia.org/wiki/Wicked_problem)
 

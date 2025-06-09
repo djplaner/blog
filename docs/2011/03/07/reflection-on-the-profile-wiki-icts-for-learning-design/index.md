@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-03-07 12:02:17+10:00
+date: 2011-03-07 02:02:17
 next:
   text: Reflection on the learning theories wiki
   url: /blog/2011/03/07/reflection-on-the-learning-theories-wiki/
 previous:
   text: 'End of week 1: reflections and what&#039;s next'
   url: /blog/2011/03/07/end-of-week-1-reflections-and-whats-next/
+template: blog-post.html
 title: '"Reflection on the profile Wiki: ICTs for Learning Design"'
 type: post
-template: blog-post.html
 ---
 The following is a reflection on one activity required during the first week of the ICTs for Learning Design course I'm taking. Over the next few weeks there will be a number of these reflective posts and then, eventually, a post that synthesises these posts into one reflection.
 

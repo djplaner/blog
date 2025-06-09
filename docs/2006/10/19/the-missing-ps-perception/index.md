@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - missingps
-date: 2006-10-19 21:30:31+10:00
+date: 2006-10-19 11:30:31
 next:
   text: Teleological approach to organisational reviews and change projects
   url: /blog/2006/10/22/teleological-approach-to-organisational-reviews-and-change-projects/
 previous:
   text: The missing P - Product
   url: /blog/2006/10/19/the-missing-p-product/
+template: blog-post.html
 title: The missing Ps - Perception
 type: post
-template: blog-post.html
 ---
 [The Missing Ps framework](http://cq-pan.cqu.edu.au/david-jones/blog/?p=52) is my attempt to generate a way of identifying the flaws in the methods used by Universities to select an LMS.
 

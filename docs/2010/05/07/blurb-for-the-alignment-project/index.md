@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - alignment
-date: 2010-05-07 10:47:52+10:00
+date: 2010-05-07 00:47:52
 next:
   text: Requirements for an "indicators" Moodle block
   url: /blog/2010/05/09/requirements-for-an-indicators-moodle-block/
@@ -10,9 +10,9 @@ previous:
   url: /blog/2010/05/03/leadership-as-appreciating-resistance/
 tags:
 - altc
+template: blog-post.html
 title: Blurb for the alignment project
 type: post
-template: blog-post.html
 ---
 The following is an early attempt at an "executive summary" for the alignment project. It's meant to get folk who know nothing about the project excited, or at least interested, in the project. The main audience, at the moment, is probably limited to institutional leaders around learning and teaching and those likely to be evaluating ALTC grant applications.
 

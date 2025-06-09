@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
@@ -6,89 +6,87 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2011-02-13 17:24:50+10:00
+comments:
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 60.229.53.187
+  author_url: https://djon.es/blog/
+  content: "In response to the above @mylescarrick suggested some agreement with the\
+    \ sentiment and also suggests that Universities are \"poorly positioned to tread\
+    \ the innovation line effectively\".\n\nI agree. But I also think there's another\
+    \ side effect - somewhat related - of the above and that is a loss of responsiveness.\
+    \  The limited flexibility of an institutional LMS - especially to the little\
+    \ tweaks - means that for staff and student users the LMS increasingly is seen\
+    \ as being unresponsive to their needs. This subsequently leads to less than positive\
+    \ feelings which in turn can prevent innovation.\n\nThe above example is not a\
+    \ great example, but it will do. An advanced Moodle user can probably come up\
+    \ with a workaround that requires them to perform some significant additional\
+    \ manual work to achieve their goal using Moodle features. They might even feel\
+    \ proud. But over time they will become frustrated that Moodle can't do this for\
+    \ them.\n\nOn the other hand, a system which does and can respond to the small\
+    \ problems that users have, helps create a more positive mindset about the system\
+    \ and using it. It helps to start to develop a feeling of trust between the student/staff\
+    \ users, the system and the folk that look after it. For me, this a much firmer\
+    \ foundation on which to build innnovation.\n\nNot sure it's all that different\
+    \ or I've made this point well.  The following quote from Behrens (2009) from\
+    \ a user of a responsive system (the one on which my thesis is based) gives a\
+    \ better sense of what I mean\n<blockquote>I remember talking to [a Webfuse developer]\
+    \ and saying how I was having these problems with uploading our final results\
+    \ into [the Enterprise Resource Planning (ERP) system] for the faculty. He basically\
+    \ said, \u201CNo problem, we can get our system to handle that\u201D\u2026 and\
+    \ \u2018Hey presto!\u2019 there was this new piece of functionality added to the\
+    \ system\u2026 You felt really involved\u2026 You didn\u2019t feel as though you\
+    \ had to jump through hoops to get something done.</blockquote>\n\nI've <a href=\"\
+    https://djon.es/blog/2010/09/18/dilbert-as-an-expository-instantiation/\" rel=\"\
+    nofollow\">used it before</a> making a similar point."
+  date: '2011-02-14 10:41:26'
+  date_gmt: '2011-02-14 00:41:26'
+  id: '3253'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2011-02-13 07:24:50
 next:
   text: '"bim2: Some more coordinator tabs"'
   url: /blog/2011/02/13/bim2-some-more-coordinator-tabs/
+pingbacks:
+- approved: '1'
+  author: "Tweets that mention On the potential flexibility of open source LMS and\
+    \ its limits \xAB The Weblog of (a) David Jones -- Topsy.com"
+  author_email: null
+  author_ip: 208.74.66.43
+  author_url: http://topsy.com/davidtjones.wordpress.com/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/?utm_source=pingback&utm_campaign=L2
+  content: '[...] This post was mentioned on Twitter by Claire Brooks and Greg Bird
+    (Birdy), David Jones. David Jones said: New post - http://bit.ly/hYc8d2 - On the
+    potential flexibility of open source LMS and its limits #moodle [...]'
+  date: '2011-02-14 11:40:08'
+  date_gmt: '2011-02-14 01:40:08'
+  id: '3254'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Getting an overview of the term ahead &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.43
+  author_url: https://djon.es/blog/2011/02/15/getting-an-overview-of-the-term-ahead/
+  content: '[...] the long term, is another example of the problems facing institutional
+    systems touched on briefly in the post around open source LMS. The IT folk at
+    this institution are focused on package provision, not on the user. They will
+    [...]'
+  date: '2011-02-15 17:25:54'
+  date_gmt: '2011-02-15 07:25:54'
+  id: '3255'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'bim2: Starting on the coordinator models'
   url: /blog/2011/02/13/bim2-starting-on-the-coordinator-models/
+template: blog-post.html
 title: On the potential flexibility of open source LMS and its limits
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 60.229.53.187
-      author_url: https://djon.es/blog/
-      content: "In response to the above @mylescarrick suggested some agreement with the\
-        \ sentiment and also suggests that Universities are \"poorly positioned to tread\
-        \ the innovation line effectively\".\n\nI agree. But I also think there's another\
-        \ side effect - somewhat related - of the above and that is a loss of responsiveness.\
-        \  The limited flexibility of an institutional LMS - especially to the little\
-        \ tweaks - means that for staff and student users the LMS increasingly is seen\
-        \ as being unresponsive to their needs. This subsequently leads to less than positive\
-        \ feelings which in turn can prevent innovation.\n\nThe above example is not a\
-        \ great example, but it will do. An advanced Moodle user can probably come up\
-        \ with a workaround that requires them to perform some significant additional\
-        \ manual work to achieve their goal using Moodle features. They might even feel\
-        \ proud. But over time they will become frustrated that Moodle can't do this for\
-        \ them.\n\nOn the other hand, a system which does and can respond to the small\
-        \ problems that users have, helps create a more positive mindset about the system\
-        \ and using it. It helps to start to develop a feeling of trust between the student/staff\
-        \ users, the system and the folk that look after it. For me, this a much firmer\
-        \ foundation on which to build innnovation.\n\nNot sure it's all that different\
-        \ or I've made this point well.  The following quote from Behrens (2009) from\
-        \ a user of a responsive system (the one on which my thesis is based) gives a\
-        \ better sense of what I mean\n<blockquote>I remember talking to [a Webfuse developer]\
-        \ and saying how I was having these problems with uploading our final results\
-        \ into [the Enterprise Resource Planning (ERP) system] for the faculty. He basically\
-        \ said, \u201CNo problem, we can get our system to handle that\u201D\u2026 and\
-        \ \u2018Hey presto!\u2019 there was this new piece of functionality added to the\
-        \ system\u2026 You felt really involved\u2026 You didn\u2019t feel as though you\
-        \ had to jump through hoops to get something done.</blockquote>\n\nI've <a href=\"\
-        https://djon.es/blog/2010/09/18/dilbert-as-an-expository-instantiation/\" rel=\"\
-        nofollow\">used it before</a> making a similar point."
-      date: '2011-02-14 10:41:26'
-      date_gmt: '2011-02-14 00:41:26'
-      id: '3253'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: "Tweets that mention On the potential flexibility of open source LMS and\
-        \ its limits \xAB The Weblog of (a) David Jones -- Topsy.com"
-      author_email: null
-      author_ip: 208.74.66.43
-      author_url: http://topsy.com/davidtjones.wordpress.com/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/?utm_source=pingback&utm_campaign=L2
-      content: '[...] This post was mentioned on Twitter by Claire Brooks and Greg Bird
-        (Birdy), David Jones. David Jones said: New post - http://bit.ly/hYc8d2 - On the
-        potential flexibility of open source LMS and its limits #moodle [...]'
-      date: '2011-02-14 11:40:08'
-      date_gmt: '2011-02-14 01:40:08'
-      id: '3254'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Getting an overview of the term ahead &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.43
-      author_url: https://djon.es/blog/2011/02/15/getting-an-overview-of-the-term-ahead/
-      content: '[...] the long term, is another example of the problems facing institutional
-        systems touched on briefly in the post around open source LMS. The IT folk at
-        this institution are focused on package provision, not on the user. They will
-        [...]'
-      date: '2011-02-15 17:25:54'
-      date_gmt: '2011-02-15 07:25:54'
-      id: '3255'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Today a mate [posted to his blog](http://beerc.wordpress.com/2011/02/13/start-of-a-small-project/) about a small project he's involved with. The context of this project seems to be a good opportunity to comment on the potential flexibility of open source LMS and the limits of that flexibility within an institutional context. It's also an attempt to link it back to the design theory described in [my thesis](/blog/research/phd-thesis/) (if you want more of the theory behind the following, look at the thesis).
 

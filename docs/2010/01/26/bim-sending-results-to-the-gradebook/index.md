@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bim
-date: 2010-01-26 14:27:04+10:00
+comments: []
+date: 2010-01-26 04:27:04
 next:
   text: BIM - Tidying up - Part 1
   url: /blog/2010/01/26/bim-tidying-up-part-1/
+pingbacks:
+- approved: '1'
+  author: BIM &#8211; talking to the gradebook &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2010/02/07/bim-talking-to-the-gradebook/
+  content: '[...] the&nbsp;gradebook  One of the bigger tasks left to do is to integrate
+    BIM with the gradebook. Some initial exploration has been done, this post seeks
+    to document the initial [...]'
+  date: '2010-02-07 21:36:14'
+  date_gmt: '2010-02-07 11:36:14'
+  id: '2916'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Increasing weak ties, not strong - improving learning and teaching
   url: /blog/2010/01/26/increasing-weak-ties-not-strong-improving-learning-and-teaching/
+template: blog-post.html
 title: BIM - sending results to the gradebook
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM &#8211; talking to the gradebook &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2010/02/07/bim-talking-to-the-gradebook/
-      content: '[...] the&nbsp;gradebook  One of the bigger tasks left to do is to integrate
-        BIM with the gradebook. Some initial exploration has been done, this post seeks
-        to document the initial [...]'
-      date: '2010-02-07 21:36:14'
-      date_gmt: '2010-02-07 11:36:14'
-      id: '2916'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Almost forgot to add this into BIM. BIM is used by staff to manage and mark feed/blog posts from students. Eventually, those marks have to be put into the Moodle gradebook so they can form part of the students final grade. This post summarises a search for information about how this can be done within Moodle and some design thinking about how to get it done in BIM.
 

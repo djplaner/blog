@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - plescquni
-date: 2008-07-15 09:13:13+10:00
+date: 2008-07-14 23:13:13
 next:
   text: '"PLEs@CQUni: Why, What and How"'
   url: /blog/2008/07/15/plescquni-why-what-and-how/
 previous:
   text: Scavenger hunt and other methods for getting into systems
   url: /blog/2008/07/15/scavenger-hunt-and-other-methods-for-getting-into-systems/
+template: blog-post.html
 title: Encouraging use of learning networks - and dealing with me
 type: post
-template: blog-post.html
 ---
 This post is a combination "message to the troops" and thinking about how to encourage use of a discipline based learning network.
 

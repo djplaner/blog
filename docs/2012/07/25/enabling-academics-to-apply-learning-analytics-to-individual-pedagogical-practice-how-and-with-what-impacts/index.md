@@ -1,40 +1,37 @@
----
+﻿---
 categories:
 - distributedcognition
 - elearning
 - indicators
 - learninganalytics-elearning
-date: 2012-07-25 09:11:44+10:00
+comments: []
+date: 2012-07-24 23:11:44
 next:
   text: Using the NetSpot Innovation fund to enhance bim
   url: /blog/2012/08/07/using-the-netspot-innovation-fund-to-enhance-bim/
+pingbacks:
+- approved: '1'
+  author: 'Enabling academics to apply learning analytics to individual pedagogical
+    practice: how and with what&nbsp;impacts? | EDUCAUSE Analytics Sprint | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educause-analytics-sprint/p/2238521000/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts
+  content: '[...] Thanks to @cj13 for the heads up about the EDUCAUSE analytics sprint
+    in the midst of moving, conferences, end/start of term and grant writing I missed
+    it. Found it interesting that the first thing ...&nbsp; [...]'
+  date: '2012-07-25 23:26:50'
+  date_gmt: '2012-07-25 13:26:50'
+  id: '406'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Starting the re-design of EDC3100
   url: /blog/2012/07/20/starting-the-re-design-of-edc3100/
+template: blog-post.html
 title: '"Enabling academics to apply learning analytics to individual pedagogical
   practice: how and with what impacts?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Enabling academics to apply learning analytics to individual pedagogical
-        practice: how and with what&nbsp;impacts? | EDUCAUSE Analytics Sprint | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educause-analytics-sprint/p/2238521000/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts
-      content: '[...] Thanks to @cj13 for the heads up about the EDUCAUSE analytics sprint
-        in the midst of moving, conferences, end/start of term and grant writing I missed
-        it. Found it interesting that the first thing ...&nbsp; [...]'
-      date: '2012-07-25 23:26:50'
-      date_gmt: '2012-07-25 13:26:50'
-      id: '406'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Thanks to @cj13 for the heads up about the [EDUCAUSE analytics sprint](http://www.educause.edu/events/educause-analytics-sprint/) in the midst of moving, conferences, end/start of term and grant writing I missed it. Found it interesting that the first thing the struck my eye was a link [to this discussion titled "Faculty need how-to information for the data they do have"](http://educause.ideascale.com/a/dtd/Faculty-need-how-to-information-for-the-data-they-do-have./376570-12956). It's interesting because the grant application I'm writing is directly aimed in this general area. Though we perhaps have a slightly different take on the problem.
 

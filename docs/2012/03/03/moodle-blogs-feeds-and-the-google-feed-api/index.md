@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - edc3100
 - moodle
 - teaching
-date: 2012-03-03 11:02:49+10:00
+comments:
+- approved: '1'
+  author: plerudulier
+  author_email: pascal.lerudulier+wordpress@gmail.com
+  author_ip: 91.88.160.171
+  author_url: http://plerudulier.wordpress.com
+  content: Reblogged this on <a href="http://thingsigrab.wordpress.com/2012/03/03/moodle-blogs-feeds-and-the-google-feed-api/"
+    rel="nofollow">Things I grab, motley collection </a>.
+  date: '2012-03-03 15:39:50'
+  date_gmt: '2012-03-03 05:39:50'
+  id: '246'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-03-03 01:02:49
 next:
   text: Gilstrap, Martin and the definition of a lecture
   url: /blog/2012/03/04/gilstrap-martin-and-the-definition-of-a-lecture/
+pingbacks: []
 previous:
   text: Is your digital footprint ready for teaching?
   url: /blog/2012/02/29/is-your-digital-footprint-ready-for-teaching/
+template: blog-post.html
 title: Moodle, blogs, feeds and the Google feed API
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: plerudulier
-      author_email: pascal.lerudulier+wordpress@gmail.com
-      author_ip: 91.88.160.171
-      author_url: http://plerudulier.wordpress.com
-      content: Reblogged this on <a href="http://thingsigrab.wordpress.com/2012/03/03/moodle-blogs-feeds-and-the-google-feed-api/"
-        rel="nofollow">Things I grab, motley collection </a>.
-      date: '2012-03-03 15:39:50'
-      date_gmt: '2012-03-03 05:39:50'
-      id: '246'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Time to tweak the [course site](/blog/2012/02/22/one-moodle-course-design-approach-ad-trade-offs/) again. I attempting to encourage the students to engage with technology, to become digital residents. The assumption is that they will really only be able to design great teaching with ICTs, if the use of ICTs is part of their everyday life. One aspect I'm attempting to encourage is blogging.
 
@@ -42,7 +39,7 @@ The following image (click on it to see a bigger version) shows what the site lo
 
 If you move the mouse over the scrolling blog links, the scrolling pauses. Click on the blog title and you will be taken to the original blog.
 
-[![3100 page with feed added](images/6947694509_3b8a79981b.jpg)](http://www.flickr.com/photos/david_jones/6947694509/ "3100 page with feed added by David T Jones, on Flickr")
+[![3100 page with feed added](https://djon.es/assets/blog/2012/03/03/moodle-blogs-feeds-and-the-google-feed-api/images/6947694509_3b8a79981b.jpg)](http://www.flickr.com/photos/david_jones/6947694509/ "3100 page with feed added by David T Jones, on Flickr")
 
 ### How does it work?
 

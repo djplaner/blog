@@ -1,55 +1,52 @@
----
+﻿---
 categories:
 - design-theory
 - phd
 - thesis
-date: 2009-02-27 15:33:54+10:00
+comments: []
+date: 2009-02-27 05:33:54
 next:
   text: Featured on slideshare - the give and take of social computing
   url: /blog/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/
+pingbacks:
+- approved: '1'
+  author: The weak second album (PhD update) &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/03/06/the-weak-second-album-phd-update/
+  content: '[...] weak second album (PhD&nbsp;update)  Last week I started a new Phd
+    tradition - weekly updates. Traditionally the second album for a successful pop
+    group is somewhat less than [...]'
+  date: '2009-03-13 10:59:55'
+  date_gmt: '2009-03-13 00:59:55'
+  id: '2188'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  content: '[...] this time I did finally start working fairly consistently on the
+    PhD which did eventually get finished. I also worked and thought more about BAM
+    and BIM. Must get back [...]'
+  date: '2013-01-24 15:06:10'
+  date_gmt: '2013-01-24 05:06:10'
+  id: '2189'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Why formulaic guidance annoys experts and why they ignore the needs of the
     novice
   url: /blog/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/
+template: blog-post.html
 title: '"PhD update #1 - the start of a tradition?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The weak second album (PhD update) &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/03/06/the-weak-second-album-phd-update/
-      content: '[...] weak second album (PhD&nbsp;update)  Last week I started a new Phd
-        tradition - weekly updates. Traditionally the second album for a successful pop
-        group is somewhat less than [...]'
-      date: '2009-03-13 10:59:55'
-      date_gmt: '2009-03-13 00:59:55'
-      id: '2188'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
-      content: '[...] this time I did finally start working fairly consistently on the
-        PhD which did eventually get finished. I also worked and thought more about BAM
-        and BIM. Must get back [...]'
-      date: '2013-01-24 15:06:10'
-      date_gmt: '2013-01-24 05:06:10'
-      id: '2189'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
-[![Tradition](images/1398253651_895fc9cc34_m_d.jpg)](http://flickr.com/photos/ionushi/1398253651/)
+[![Tradition](https://djon.es/assets/blog/2009/02/27/phd-update-1-the-start-of-a-tradition/images/1398253651_895fc9cc34_m_d.jpg)](http://flickr.com/photos/ionushi/1398253651/)
 
 In attempt to encourage on-going work and solve the problem of keeping various folk updated I'm going to start a new Friday tradition - posting a summary of the PhD related work I did in the last week. Here's to the first of many.
 

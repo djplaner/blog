@@ -1,8 +1,8 @@
----
-date: 2008-10-20 15:37:51+10:00
+﻿---
+date: 2008-10-20 05:37:51
+template: blog-post.html
 title: Research
 type: page
-template: blog-post.html
 ---
 ### Ethos and outlook
 

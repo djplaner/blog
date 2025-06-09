@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - elearning
-date: 2007-08-31 09:43:20+10:00
+date: 2007-08-30 23:43:20
 next:
   text: Why "modeller-broker" orientation is inherently limited - bridging the gap
   url: /blog/2007/09/03/why-modeller-broker-orientation-is-inherently-limited-bridging-the-gap/
 previous:
   text: The role for institutions with PLEs
   url: /blog/2007/08/31/the-role-for-institutions-with-ples/
+template: blog-post.html
 title: Technology scan - CQU and e-learning
 type: post
-template: blog-post.html
 ---
 The [Division of Learning and Teaching Services](http://dtls.cqu.edu.au/) which includes [CDDU](http://cddu.cqu.edu.au/) is going through a planning process driven by a range of organisational and contextual issues.
 

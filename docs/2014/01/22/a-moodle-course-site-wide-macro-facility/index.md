@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - moodle
-date: 2014-01-22 10:49:36+10:00
+comments: []
+date: 2014-01-22 00:49:36
 next:
   text: What should be covered in EDC3100?
   url: /blog/2014/01/22/what-should-be-covered-in-edc3100/
+pingbacks:
+- approved: '1'
+  author: What might the 3 levels of organisational culture reveal about university
+    e-learning | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.18
+  author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+  content: '[&#8230;] want to use these. However, it would be really useful if there
+    were a combination API and course site wide macro facility that would allow me
+    to enter something like the following in the HTML for my [&#8230;]'
+  date: '2015-01-20 10:54:40'
+  date_gmt: '2015-01-20 00:54:40'
+  id: '937'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Concrete lounge #1 &#8211; Helping learners find correct, up-to-date course
+    information | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.99.86
+  author_url: https://davidtjones.wordpress.com/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
+  content: '[&#8230;] now implemented a simple &#8220;macro&#8221; facility. This
+    has been done [&#8230;]'
+  date: '2015-02-03 12:27:19'
+  date_gmt: '2015-02-03 02:27:19'
+  id: '938'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Leadership as defining what&#039;s successful
   url: /blog/2014/01/21/leadership-as-defining-whats-successful/
+template: blog-post.html
 title: '"A #moodle course site wide "macro" facility?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: What might the 3 levels of organisational culture reveal about university
-        e-learning | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.18
-      author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
-      content: '[&#8230;] want to use these. However, it would be really useful if there
-        were a combination API and course site wide macro facility that would allow me
-        to enter something like the following in the HTML for my [&#8230;]'
-      date: '2015-01-20 10:54:40'
-      date_gmt: '2015-01-20 00:54:40'
-      id: '937'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Concrete lounge #1 &#8211; Helping learners find correct, up-to-date course
-        information | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.99.86
-      author_url: https://davidtjones.wordpress.com/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
-      content: '[&#8230;] now implemented a simple &#8220;macro&#8221; facility. This
-        has been done [&#8230;]'
-      date: '2015-02-03 12:27:19'
-      date_gmt: '2015-02-03 02:27:19'
-      id: '938'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 **UPDATE (Feb 2015):** Have implemented a version of this using a simple Javascript approach. Not quite course site wide, but functional
 

@@ -1,45 +1,42 @@
----
+﻿---
 categories:
 - elearning
 - thesis
-date: 2007-03-13 06:03:37+10:00
+comments:
+- approved: '1'
+  author: David's WebLog
+  author_email: null
+  author_ip: 138.77.94.11
+  author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=109
+  content: '<strong>Descriptive (network) versus normative (community) based development
+    of e-learning in organisations...</strong>
+
+
+    As part of a conversation on the Moodle site for the Online Connectivism Conference
+    Stephen Downes posts the following.
+
+
+    Only individuals in a community have agency. Which means that we need to look
+    very closely at what happens when someone says &amp;#8220...'
+  date: '2007-09-03 12:24:11'
+  date_gmt: '2007-09-03 02:24:11'
+  id: '1534'
+  parent: '0'
+  type: trackback
+  user_id: '0'
+date: 2007-03-12 20:03:37
 next:
   text: Descriptive (network) versus normative (community) based development of e-learning
     in organisations
   url: /blog/2007/03/15/109/
+pingbacks: []
 previous:
   text: CAUDIT CIO&#039;s top 10 issues list - and what it says about them (to me)
   url: /blog/2007/03/10/caudit-cios-top-10-issues-list-and-what-it-says-about-them-to-me/
+template: blog-post.html
 title: Ateleological development as a "better way" to develop university e-learning
   systems
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: David's WebLog
-      author_email: null
-      author_ip: 138.77.94.11
-      author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=109
-      content: '<strong>Descriptive (network) versus normative (community) based development
-        of e-learning in organisations...</strong>
-    
-    
-        As part of a conversation on the Moodle site for the Online Connectivism Conference
-        Stephen Downes posts the following.
-    
-    
-        Only individuals in a community have agency. Which means that we need to look
-        very closely at what happens when someone says &amp;#8220...'
-      date: '2007-09-03 12:24:11'
-      date_gmt: '2007-09-03 02:24:11'
-      id: '1534'
-      parent: '0'
-      type: trackback
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 [Cole Camplese](http://camplesegroup.com/blog/?page_id=68), in a blog post titled [69,000 reasons to pay attention](http://camplesegroup.com/blog/?p=623), reflects on issues around innovation, especially with "web 2.0 like" tools, in e-learning within universities
 

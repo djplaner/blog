@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -7,35 +7,32 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-06-17 14:09:47+10:00
+comments: []
+date: 2010-06-17 04:09:47
 next:
   text: Further analysis of wf application usage
   url: /blog/2010/06/18/further-analysis-of-wf-application-usage/
+pingbacks:
+- approved: '1'
+  author: Further analysis of wf application usage &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.135.48.169
+  author_url: https://djon.es/blog/2010/06/18/further-analysis-of-wf-application-usage/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Some rough Webfuse usage statistics &#8211; 2001 through&nbsp;2009 [...]'
+  date: '2010-06-18 15:48:41'
+  date_gmt: '2010-06-18 05:48:41'
+  id: '3102'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Academics, course websites and power laws
   url: /blog/2010/06/14/academics-course-websites-and-power-laws/
+template: blog-post.html
 title: Some rough Webfuse usage statistics - 2001 through 2009
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Further analysis of wf application usage &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.135.48.169
-      author_url: https://djon.es/blog/2010/06/18/further-analysis-of-wf-application-usage/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Some rough Webfuse usage statistics &#8211; 2001 through&nbsp;2009 [...]'
-      date: '2010-06-18 15:48:41'
-      date_gmt: '2010-06-18 05:48:41'
-      id: '3102'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In terms of the [thesis](/blog/research/phd-thesis/), my current focus is on chapter 5. This chapter seeks to describe what we did from 2000 through 2004 and beyond. I'm currently working on the evaluation section, a major component of the evaluation is looking at the usage statistics of Webfuse during this period. It's slow going and there is still a fair bit of analysis to go, but some initial figures are available.
 
@@ -95,7 +92,7 @@ One of the major developments in Webfuse from 1999/2000 was the development [of 
 
 The following graph (click on it to make it bigger) summarises requests for these application. The 2009 figure of 6M+ requests, is a bit suspect and requires greater analysis (Further analysis reveals a lot of 401s - the real figure is just over 2M).
 
-[![Wf application requests](images/4707471993_ae75a6be50_m.jpg)](http://www.flickr.com/photos/david_jones/4707471993/ "Wf application requests by David T Jones, on Flickr")
+[![Wf application requests](https://djon.es/assets/blog/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/images/4707471993_ae75a6be50_m.jpg)](http://www.flickr.com/photos/david_jones/4707471993/ "Wf application requests by David T Jones, on Flickr")
 
 The increase in usage (doubling) in 2003 shows the spread of these applications into institutional systems. More analysis needs to be done on these figures to:
 

@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - innovation
 - quotes
-date: 2009-05-13 13:12:00+10:00
+comments: []
+date: 2009-05-13 03:12:00
 next:
   text: Some initial thoughts on e-learning and innovation
   url: /blog/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/
+pingbacks:
+- approved: '1'
+  author: Blog de tesis, por David Jones &laquo; Estelaripa&#039;s Blog
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: http://estelaripa.wordpress.com/2010/03/31/blog-de-tesis-por-david-jones/
+  content: '[...] modo en que agrega valor a las entradas, aportando sentido con las
+    conexiones que realiza, como por ejemplo en estas interesantes citas  sobre innovacion
+    y pensamiento [...]'
+  date: '2010-04-01 02:16:14'
+  date_gmt: '2010-03-31 16:16:14'
+  id: '2502'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Everything old is new again - universities should be more business like
   url: /blog/2009/05/10/everything-old-is-new-again-universities-should-be-more-business-like/
+template: blog-post.html
 title: Quotes about innovation and creativity
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Blog de tesis, por David Jones &laquo; Estelaripa&#039;s Blog
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: http://estelaripa.wordpress.com/2010/03/31/blog-de-tesis-por-david-jones/
-      content: '[...] modo en que agrega valor a las entradas, aportando sentido con las
-        conexiones que realiza, como por ejemplo en estas interesantes citas  sobre innovacion
-        y pensamiento [...]'
-      date: '2010-04-01 02:16:14'
-      date_gmt: '2010-03-31 16:16:14'
-      id: '2502'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Theoretically, I'm in the process of starting [a new job](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ that is focused on encouraging e-learning and innovation within a university context. I'm still reading some of the different literature but the following quotes resonate with me around this position and how it is likely to evolve.
 

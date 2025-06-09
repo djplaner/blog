@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
@@ -7,16 +7,16 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-10-09 09:07:46+10:00
+date: 2009-10-08 23:07:46
 next:
   text: '"The learning pyramid: true, false, hoax or myth?"'
   url: /blog/2009/10/11/the-learning-pyramid-true-false-hoax-or-myth/
 previous:
   text: 'Call for participation: Getting the real stories of LMS evaluations?'
   url: /blog/2009/10/07/call-for-participation-getting-the-real-stories-of-lms-evaluations/
+template: blog-post.html
 title: Is there value in strategic plans for educational technology
 type: post
-template: blog-post.html
 ---
 [Dave Cormier](http://www.davecormier.com) has recently published a blog post titled [Dave's wildly unscientific survey of technology use in Higher Education](http://davecormier.com/edblog/2009/10/07/daves-wildly-unscientific-survey-of-technology-use-in-higher-education/). There's a bunch of interesting stuff there. I especially like Dave's note on e-portfolios
 

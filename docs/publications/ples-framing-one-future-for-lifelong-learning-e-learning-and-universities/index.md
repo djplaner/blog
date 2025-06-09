@@ -1,41 +1,38 @@
----
-date: 2008-10-15 22:08:56+10:00
+﻿---
+comments: []
+date: 2008-10-15 12:08:56
+pingbacks:
+- approved: '1'
+  author: The Ps Framework - avoiding perceptual blindness? &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.24
+  author_url: https://djon.es/blog/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/
+  content: '[...] PLEs: Frameing one future for lifelong learning, e-learning and
+    universities Presentation and paper. [...]'
+  date: '2009-01-21 22:35:29'
+  date_gmt: '2009-01-21 12:35:29'
+  id: '1611'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: On the difference between &#8220;rational&#8221;, &#8220;possible&#8221;
+    and &#8220;desirable&#8221; | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.62
+  author_url: https://djon.es/blog/2014/10/09/on-the-difference-between-rational-possible-and-desirable/
+  content: '[&#8230;] PLEs: Framing one future for Lifelong Learning, E-Learning and&nbsp;Universities
+    [&#8230;]'
+  date: '2014-10-09 11:24:48'
+  date_gmt: '2014-10-09 01:24:48'
+  id: '1612'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"PLEs: Framing one future for Lifelong Learning, E-Learning and Universities"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The Ps Framework - avoiding perceptual blindness? &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.24
-      author_url: https://djon.es/blog/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/
-      content: '[...] PLEs: Frameing one future for lifelong learning, e-learning and
-        universities Presentation and paper. [...]'
-      date: '2009-01-21 22:35:29'
-      date_gmt: '2009-01-21 12:35:29'
-      id: '1611'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: On the difference between &#8220;rational&#8221;, &#8220;possible&#8221;
-        and &#8220;desirable&#8221; | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.62
-      author_url: https://djon.es/blog/2014/10/09/on-the-difference-between-rational-possible-and-desirable/
-      content: '[&#8230;] PLEs: Framing one future for Lifelong Learning, E-Learning and&nbsp;Universities
-        [&#8230;]'
-      date: '2014-10-09 11:24:48'
-      date_gmt: '2014-10-09 01:24:48'
-      id: '1612'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, PLEs: Framing one future for lifelong learning, e-learning and universities, to appear in the proceedings of the [Lifelong Learning Conference 2008](http://lifelonglearning.cqu.edu.au/2008/index.htm) - One of three best papers
 

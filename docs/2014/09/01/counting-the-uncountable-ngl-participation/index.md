@@ -1,49 +1,46 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-09-01 14:21:27+10:00
+comments: []
+date: 2014-09-01 04:21:27
 next:
   text: Signing up for Connected Courses
   url: /blog/2014/09/02/signing-up-for-connected-courses/
+pingbacks:
+- approved: '1'
+  author: Explanation of the &#8220;draft automated analysis&#8221; email | An experiment
+    in Networked &amp; Global Learning
+  author_email: null
+  author_ip: 66.155.9.41
+  author_url: http://netgl.wordpress.com/2014/09/01/explanation-of-the-draft-automated-analysis-email/
+  content: '[&#8230;] a post on my blog that briefly describes the creation of the
+    program that does this analysis. The [&#8230;]'
+  date: '2014-09-01 15:44:38'
+  date_gmt: '2014-09-01 05:44:38'
+  id: '1057'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Some thoughts on links and assessment | An experiment in Networked &amp;
+    Global Learning
+  author_email: null
+  author_ip: 66.155.10.55
+  author_url: http://netgl.wordpress.com/2014/09/07/some-thoughts-on-links-and-assessment/
+  content: '[&#8230;] Here&#8217;s what the script does (you can see the process I
+    used to develop this here) [&#8230;]'
+  date: '2014-09-07 11:28:42'
+  date_gmt: '2014-09-07 01:28:42'
+  id: '1058'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Personality and other factors in education
   url: /blog/2014/08/28/personality-and-other-factors-in-education/
+template: blog-post.html
 title: Counting the uncountable - NGL participation
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Explanation of the &#8220;draft automated analysis&#8221; email | An experiment
-        in Networked &amp; Global Learning
-      author_email: null
-      author_ip: 66.155.9.41
-      author_url: http://netgl.wordpress.com/2014/09/01/explanation-of-the-draft-automated-analysis-email/
-      content: '[&#8230;] a post on my blog that briefly describes the creation of the
-        program that does this analysis. The [&#8230;]'
-      date: '2014-09-01 15:44:38'
-      date_gmt: '2014-09-01 05:44:38'
-      id: '1057'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Some thoughts on links and assessment | An experiment in Networked &amp;
-        Global Learning
-      author_email: null
-      author_ip: 66.155.10.55
-      author_url: http://netgl.wordpress.com/2014/09/07/some-thoughts-on-links-and-assessment/
-      content: '[&#8230;] Here&#8217;s what the script does (you can see the process I
-        used to develop this here) [&#8230;]'
-      date: '2014-09-07 11:28:42'
-      date_gmt: '2014-09-07 01:28:42'
-      id: '1058'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following documents the writing of a script to perform simple counts of what the [NGL participants](http://netgl.wordpress.com/) have been doing on their blog. Another post on the course blog will offer an explanation of the emails that will be sent to participants real soon now.
 

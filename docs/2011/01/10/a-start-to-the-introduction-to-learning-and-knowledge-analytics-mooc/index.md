@@ -1,43 +1,40 @@
----
+﻿---
 categories:
 - indicators
 - lak11
-date: 2011-01-10 22:39:14+10:00
+comments: []
+date: 2011-01-10 12:39:14
 next:
   text: '"Learning analytics: Definitions, processes and potential"'
   url: /blog/2011/01/10/learning-analytics-definitions-processes-and-potential/
+pingbacks:
+- approved: '1'
+  author: '#LAK11 &#8211; Utopian and Dystopian Visions of Analytics: It&#8217;s a
+    Question of Validity | A Chronicle of a Learning Journey'
+  author_email: null
+  author_ip: 66.135.63.40
+  author_url: http://howardjohnson.edublogs.org/2011/01/18/lak11-utopian-and-dystopian-visions-of-analytics-its-a-question-of-validity/
+  content: "[...] David Jones&#8217; earlier critique is a good example. \_His interesting\
+    \ critique is based on his fear of teleological implementation: This remains my\
+    \ major reservation about all these types of innovations. In the end, they will\
+    \ be applied to institutional contexts through teleological processes. i.e. the\
+    \ change will be done to the institution and its members to achieve some set plan.\
+    \ Implementation will have little contextual sensitivity and thus will have limited\
+    \ quality adoption. . .. [...]"
+  date: '2011-01-19 04:53:39'
+  date_gmt: '2011-01-18 18:53:39'
+  id: '3219'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Thesis acknowledgements version 0.5
   url: /blog/2011/01/07/thesis-acknowledgements-version-0-5/
 tags:
 - lak11
+template: blog-post.html
 title: A start to the "Introduction to Learning and Knowledge Analytics" MOOC
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: '#LAK11 &#8211; Utopian and Dystopian Visions of Analytics: It&#8217;s a
-        Question of Validity | A Chronicle of a Learning Journey'
-      author_email: null
-      author_ip: 66.135.63.40
-      author_url: http://howardjohnson.edublogs.org/2011/01/18/lak11-utopian-and-dystopian-visions-of-analytics-its-a-question-of-validity/
-      content: "[...] David Jones&#8217; earlier critique is a good example. \_His interesting\
-        \ critique is based on his fear of teleological implementation: This remains my\
-        \ major reservation about all these types of innovations. In the end, they will\
-        \ be applied to institutional contexts through teleological processes. i.e. the\
-        \ change will be done to the institution and its members to achieve some set plan.\
-        \ Implementation will have little contextual sensitivity and thus will have limited\
-        \ quality adoption. . .. [...]"
-      date: '2011-01-19 04:53:39'
-      date_gmt: '2011-01-18 18:53:39'
-      id: '3219'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 So, the year of study begins. First up is an attempt to engage in a MOOC (Massive Open Online Course) on [Learning and Knowledge Analytics](http://learninganalytics.net/). This first post aims to contain some reflection on the [course syllabus](http://learninganalytics.net/syllabus.html) and what I hope to get out of the course.
 

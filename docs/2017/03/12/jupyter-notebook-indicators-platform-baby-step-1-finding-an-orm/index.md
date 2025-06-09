@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - indicators
-date: 2017-03-12 22:30:50+10:00
+date: 2017-03-12 12:30:50
 next:
   text: Sharing "indicators platform" via github
   url: /blog/2017/03/13/sharing-indicators-platform-via-github/
 previous:
   text: Playing with Python and Jupyter notebooks for analytics
   url: /blog/2017/03/12/playing-with-python-and-jupyter-notebooks-for-analytics/
+template: blog-post.html
 title: '"Jupyter notebook indicators platform: Baby step #1 - Finding an ORM"'
 type: post
-template: blog-post.html
 ---
 [The last post](http://djon.es/blog/2017/03/12/playing-with-python-and-jupyter-notebooks-for-analytics/) documented early explorations of Jupyter notebooks ending with a simple query of a Moodle database. This post takes the first baby steps toward some sort of indicators platform using Jupyter notebooks, Python and github. The focus here is to find some form of ORM or other form of database independent layer.
 

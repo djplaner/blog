@@ -1,34 +1,31 @@
----
-date: 2006-03-02 11:00:29+10:00
+﻿---
+comments: []
+date: 2006-03-02 01:00:29
 next:
   text: Hello World
   url: /blog/2006/07/12/hello-world-2/
+pingbacks:
+- approved: '1'
+  author: The story of BIM &#8211; Origins &#8211; blogs and minute papers &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.161
+  author_url: https://djon.es/blog/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/
+  content: '[...] this blog. Apparently, I set up this blog to serve as an example
+    for the students in this course. Here&#8217;s the first post reflecting on the
+    early stages of this [...]'
+  date: '2010-03-15 15:12:05'
+  date_gmt: '2010-03-15 05:12:05'
+  id: '1498'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Getting started with the blog
   url: /blog/2006/03/02/getting-started-with-the-blog/
+template: blog-post.html
 title: Writing and sending the email to students - using blogs
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The story of BIM &#8211; Origins &#8211; blogs and minute papers &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.161
-      author_url: https://djon.es/blog/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/
-      content: '[...] this blog. Apparently, I set up this blog to serve as an example
-        for the students in this course. Here&#8217;s the first post reflecting on the
-        early stages of this [...]'
-      date: '2010-03-15 15:12:05'
-      date_gmt: '2010-03-15 05:12:05'
-      id: '1498'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm trying to come up with the email that I'll send to all the DE students telling them about the how and why they'll be creating a blog for COIT11134.
 

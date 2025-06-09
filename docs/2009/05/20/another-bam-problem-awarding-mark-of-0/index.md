@@ -1,54 +1,51 @@
----
+﻿---
 categories:
 - bam
-date: 2009-05-20 12:33:24+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: 'What about setting the initial value to something other than a valid mark,
+    like -1 or null? Once you get to reporting or checking if all marks have been
+    entered you''re probably going to hit the same issue: No distinction between a
+    to-be-entered mark and a valid mark of 0.'
+  date: '2009-05-20 13:09:04'
+  date_gmt: '2009-05-20 03:09:04'
+  id: '2518'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: https://djon.es/blog/
+  content: 'I''d considered that but it would have required broader changes to the
+    code and also checking/changing existing entries in the database.
+
+
+    BAM, in it''s current technology format, has a limited lifespan i.e. it will be
+    lucky to see out the year. Additionally, I have a PhD to work on. Hence, the emphasis
+    is on quick and dirty when figuring out how to solve problems.'
+  date: '2009-05-20 13:13:18'
+  date_gmt: '2009-05-20 03:13:18'
+  id: '2519'
+  parent: '2518'
+  type: comment
+  user_id: '1'
+date: 2009-05-20 02:33:24
 next:
   text: Another cultural conflict
   url: /blog/2009/05/20/another-cultural-conflict/
+pingbacks: []
 previous:
   text: Innovation role as Trickster
   url: /blog/2009/05/19/innovation-role-as-trickster/
+template: blog-post.html
 title: Another BAM problem - awarding mark of 0
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: 'What about setting the initial value to something other than a valid mark,
-        like -1 or null? Once you get to reporting or checking if all marks have been
-        entered you''re probably going to hit the same issue: No distinction between a
-        to-be-entered mark and a valid mark of 0.'
-      date: '2009-05-20 13:09:04'
-      date_gmt: '2009-05-20 03:09:04'
-      id: '2518'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: https://djon.es/blog/
-      content: 'I''d considered that but it would have required broader changes to the
-        code and also checking/changing existing entries in the database.
-    
-    
-        BAM, in it''s current technology format, has a limited lifespan i.e. it will be
-        lucky to see out the year. Additionally, I have a PhD to work on. Hence, the emphasis
-        is on quick and dirty when figuring out how to solve problems.'
-      date: '2009-05-20 13:13:18'
-      date_gmt: '2009-05-20 03:13:18'
-      id: '2519'
-      parent: '2518'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Following on from [yesterday's start](/blog/2009/05/19/diagnosing-and-recording-a-problem-with-bam/) of using the blog to record fixes to software, here comes another one.
 

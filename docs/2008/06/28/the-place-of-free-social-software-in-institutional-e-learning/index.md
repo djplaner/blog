@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - ple
 - web-20-course-sites
-date: 2008-06-28 21:26:11+10:00
+date: 2008-06-28 11:26:11
 next:
   text: Creating quality course websites
   url: /blog/2008/07/12/creating-quality-course-websites/
@@ -11,9 +11,9 @@ previous:
   url: /blog/2008/06/01/were-looking-for-good-people-for-a-ple-project/
 tags:
 - cddu-ple
+template: blog-post.html
 title: The place of free social software in institutional e-learning
 type: post
-template: blog-post.html
 ---
 ### Background
 

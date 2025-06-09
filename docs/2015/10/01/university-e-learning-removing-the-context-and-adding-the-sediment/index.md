@@ -1,70 +1,67 @@
----
+﻿---
 categories:
 - bad
 - elearning
-date: 2015-10-01 12:50:10+10:00
+comments: []
+date: 2015-10-01 02:50:10
 next:
   text: Teachers as designers of technology enhance learning?
   url: /blog/2015/10/06/teachers-as-digital-renovators/
+pingbacks:
+- approved: '1'
+  author: The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.177
+  author_url: https://davidtjones.wordpress.com/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/
+  content: '[&#8230;] Below you will find the slides, abstract, and references for
+    a talk given to folk from the University of South Australia on 1 October, 2015.
+    A later blog post outlines core parts of the argument. [&#8230;]'
+  date: '2015-10-01 13:02:48'
+  date_gmt: '2015-10-01 03:02:48'
+  id: '1434'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Technology required by teachers to customise technology-enhanced units |
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.86.61
+  author_url: https://davidtjones.wordpress.com/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/
+  content: '[&#8230;] and seeking new approaches to solving problems&#8221; (p. 233)
+    &#8211; resonates with the idea of Context Appropriate Scaffolding Assemblages
+    (CASA) including the idea of a CASA that allows course designers (teacher educators)
+    to annotate their [&#8230;]'
+  date: '2015-10-07 13:11:51'
+  date_gmt: '2015-10-07 03:11:51'
+  id: '1435'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Building a CASA for student evaluation of teaching results &#8211; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.73
+  author_url: https://davidtjones.wordpress.com/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/
+  content: '[&#8230;] The following documents the development of what might be called
+    a kludge or a work around to this problem. Though being an academic I prefer to
+    define and use my own term of Context Appropriate Scaffolding Assemblage (CASA).
+    [&#8230;]'
+  date: '2016-05-18 09:10:03'
+  date_gmt: '2016-05-17 23:10:03'
+  id: '1436'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Self-assertive and integrative tendencies and the connection to the BAD/SET
     mindsets
   url: /blog/2015/09/17/self-assertive-and-integrative-tendencies-and-the-connection-to-the-badset-mindsets/
+template: blog-post.html
 title: '"University e-learning: Removing context and adding sediment"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.177
-      author_url: https://davidtjones.wordpress.com/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/
-      content: '[&#8230;] Below you will find the slides, abstract, and references for
-        a talk given to folk from the University of South Australia on 1 October, 2015.
-        A later blog post outlines core parts of the argument. [&#8230;]'
-      date: '2015-10-01 13:02:48'
-      date_gmt: '2015-10-01 03:02:48'
-      id: '1434'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Technology required by teachers to customise technology-enhanced units |
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.86.61
-      author_url: https://davidtjones.wordpress.com/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/
-      content: '[&#8230;] and seeking new approaches to solving problems&#8221; (p. 233)
-        &#8211; resonates with the idea of Context Appropriate Scaffolding Assemblages
-        (CASA) including the idea of a CASA that allows course designers (teacher educators)
-        to annotate their [&#8230;]'
-      date: '2015-10-07 13:11:51'
-      date_gmt: '2015-10-07 03:11:51'
-      id: '1435'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Building a CASA for student evaluation of teaching results &#8211; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.73
-      author_url: https://davidtjones.wordpress.com/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/
-      content: '[&#8230;] The following documents the development of what might be called
-        a kludge or a work around to this problem. Though being an academic I prefer to
-        define and use my own term of Context Appropriate Scaffolding Assemblage (CASA).
-        [&#8230;]'
-      date: '2016-05-18 09:10:03'
-      date_gmt: '2016-05-17 23:10:03'
-      id: '1436'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the outlines the core of the argument used in a talk to folk at UniSA today titled ["The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning"](/blog/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/). The argument is that the mindset underpinning the implementation of institutional e-learning within Universities focuses on widespread reuse across an institution (and sometimes beyond). As a result institutional e-learning has a tendency to remove considerations of context, which in turn reduces/removes any chance of learners and teachers perceiving any usefulness or ease-of-use from the provided systems and processes.
 
@@ -84,11 +81,11 @@ Two years ago Corrin et. al. (2013, p. 204) found that
 
 If I want to know who one of my students is, where they are located, what type of teacher they are studying to become (e.g. Early Childhood, Primary, Secondary, Special Education etc), what activities they've completed on the course site, and what course related posts they've written on their blog I have to (as summarised by the following image) spend 10+ minutes wandering around 3 different websites.
 
-[![hierarcy_know_thy_student](images/21850642595_cda29c560c.jpg)](https://www.flickr.com/photos/david_jones/21850642595/in/dateposted-public/ "hierarcy_know_thy_student")
+[![hierarcy_know_thy_student](https://djon.es/assets/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/images/21850642595_cda29c560c.jpg)](https://www.flickr.com/photos/david_jones/21850642595/in/dateposted-public/ "hierarcy_know_thy_student")
 
 And while the above diagram uses simple and consistent black boxes to represent each of the web pages I use to get the information. The reality is actually much more complex. As is shown by the following image. It's a full screen dump of the Activity Completion report in Moodle. Each of the rows in the massive table represent a student in my course. Each of the columns represents an activity they are asked to complete on the course site. A tick in a particular box indicates that they have completed that activity. Given the size and complexity of this representation it's actually quite hard to identify whether or not a student has completed an activity.
 
-[![activity_completion](images/21662587720_dc9c2160a2_n.jpg)](https://www.flickr.com/photos/david_jones/21662587720/in/dateposted-public/ "activity_completion")
+[![activity_completion](https://djon.es/assets/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/images/21662587720_dc9c2160a2_n.jpg)](https://www.flickr.com/photos/david_jones/21662587720/in/dateposted-public/ "activity_completion")
 
 ### Lesson from TAM - people won't use this
 
@@ -117,13 +114,13 @@ Amongst the many problems with the SET mindset is that it must focus on reuse. T
 
 In terms of [the reusability paradox](http://cnx.org/contents/dad41956-c2b2-4e01-94b4-4a871783b021@19/The-Reusability-Paradox) the SET mindset tends to focus on reuse at the expense of pedagogical value. It removes context (and thus usefulness and ease of use) from the learning objects/systems in order to be able to reuse them in different contexts.
 
-[![Choice1](images/19538593335_e8af6fb8ef_n.jpg)](https://www.flickr.com/photos/david_jones/19538593335/in/photolist-uPGesP-vLyp5T/ "Choice1")
+[![Choice1](https://djon.es/assets/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/images/19538593335_e8af6fb8ef_n.jpg)](https://www.flickr.com/photos/david_jones/19538593335/in/photolist-uPGesP-vLyp5T/ "Choice1")
 
 ## BAD mindset - adding context, usefulness, and ease of use
 
 On the other hand, [the BAD mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) tends to put context back into the learning objects/systems. It responds to the needs of a specific context and focuses on maximising usefulness and ease of use within the confines of that context. As a result, the BAD mindset tends to reduce the capability to reuse the learning object/system.
 
-[![Choice2](images/18917714583_e3af2bae99_n.jpg)](https://www.flickr.com/photos/david_jones/18917714583/in/photolist-uPGesP-vLyp5T/ "Choice2")
+[![Choice2](https://djon.es/assets/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/images/18917714583_e3af2bae99_n.jpg)](https://www.flickr.com/photos/david_jones/18917714583/in/photolist-uPGesP-vLyp5T/ "Choice2")
 
 This tendency is contributed to by each of the parts of the BAD mindset
 
@@ -158,13 +155,13 @@ But that's the point of a **D**istributed perspective. Not everyone needs to be 
 
 You need to be in an environment that recognises and responds to Anton Ego's sentiment in the following image. Rather than a SET-based environment that believes a great artist (programmer) can only come from the IT division (if you're lucky) and an external consultant (if you're unlucky). E-learning's starvation problem is coming from too few people and too few perspectives being allowed and encouraged to engage in modification.
 
-[![Not eveyone can](images/20967483898_b5c5bec926_n.jpg)](https://www.flickr.com/photos/david_jones/20967483898/in/photolist-xWPQt5 "Not eveyone can")
+[![Not eveyone can](https://djon.es/assets/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/images/20967483898_b5c5bec926_n.jpg)](https://www.flickr.com/photos/david_jones/20967483898/in/photolist-xWPQt5 "Not eveyone can")
 
 ## CASA - Context-Appropriate Scaffolding Assemblages
 
 While @beerc and I were enjoying the following view of Queenstown post the 2015 ASCILITE conference we started talking about a range of ideas.
 
-[![Queenstown View](images/16212945199_1ba21f46bf_n.jpg)](https://www.flickr.com/photos/david_jones/16212945199/in/album-72157649086451930/ "Queenstown View")
+[![Queenstown View](https://djon.es/assets/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/images/16212945199_1ba21f46bf_n.jpg)](https://www.flickr.com/photos/david_jones/16212945199/in/album-72157649086451930/ "Queenstown View")
 
 One of those was the idea of CASA - Context-Appropriate Scaffolding Assemblages - as a representation of the type of "systems" that a BAD mindset would produce. Not as a replacement for the types of systems that the SET mindset generates. CASA are meant to be the recombination, reconnection, and mashup of a range of different parts of SET systems in ways that respond to contextual requirements.
 
@@ -193,7 +190,7 @@ This is an example of how the SET mindset is unable to insert additional context
 
 Rather than do this, why not implement a CASA that offers support to teaching staff to implement this policy. Support that is located exactly where they need it. i.e. the Moodle assignment activity module as shown in the following image.
 
-[![supplementary CASA](images/21664683479_4e1951d45b_n.jpg)](https://www.flickr.com/photos/david_jones/21664683479/in/dateposted-public/ "supplementary CASA")
+[![supplementary CASA](https://djon.es/assets/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/images/21664683479_4e1951d45b_n.jpg)](https://www.flickr.com/photos/david_jones/21664683479/in/dateposted-public/ "supplementary CASA")
 
 The idea is that I know I need to set a supplementary assessment. I go to Moodle and add an assessment activity. But since I've installed this CASA on my browser, it modifies the traditional Moodle interface and adds a button for "Supplementary". If I click on that button it scaffolds me through the process for creating a supplementary assessment as per university policy.
 
@@ -211,7 +208,7 @@ Well, what about a minute paper CASA connected with the Moodle Feedback activity
 
 A minute paper CASA could add information about the minute paper to the Moodle interface, thereby increasing awareness (a little). But it could also provide a scaffolded (and perhaps almost entirely automated process) for creating a minute paper. The minute paper CASA could also usefully provide specific learning analytics for the minute paper.
 
-[![minute paper CASA](images/21663502080_d493f6010d_n.jpg)](https://www.flickr.com/photos/david_jones/21663502080/in/dateposted-public/ "minute paper CASA")
+[![minute paper CASA](https://djon.es/assets/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/images/21663502080_d493f6010d_n.jpg)](https://www.flickr.com/photos/david_jones/21663502080/in/dateposted-public/ "minute paper CASA")
 
 ### Ice-breaker process analytics CASA
 
@@ -225,11 +222,11 @@ It's not a bad activity. However, because the Moodle discussion forum is designe
 
 From then on when I view this specific discussion forum the inteface is modified to provide context-appropriate scaffolding. For example, a "check progress" button might be added to allow me to see where in the process students are up to. It might also provide some scaffolding around how I might encourage some of the laggards.
 
-[![iceBreaker CASA 1](images/21861154281_cfca72ff5d_n.jpg)](https://www.flickr.com/photos/david_jones/21861154281/in/dateposted-public/ "iceBreaker CASA 1")
+[![iceBreaker CASA 1](https://djon.es/assets/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/images/21861154281_cfca72ff5d_n.jpg)](https://www.flickr.com/photos/david_jones/21861154281/in/dateposted-public/ "iceBreaker CASA 1")
 
 The CASA might also modify my "know thy students" CASA so that while I'm within this specific discussion forum the display is modified to include information specific to the learning design. In this case, a simple legend showing whether or not the student has completed the three required posts.
 
-[![iceBreaker CASA 2](images/21861153881_377f2ea4dc_n.jpg)](https://www.flickr.com/photos/david_jones/21861153881/in/dateposted-public/ "iceBreaker CASA 2")
+[![iceBreaker CASA 2](https://djon.es/assets/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/images/21861153881_377f2ea4dc_n.jpg)](https://www.flickr.com/photos/david_jones/21861153881/in/dateposted-public/ "iceBreaker CASA 2")
 
 ### A CASA for CASA?
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-02-15 15:13:15+10:00
+date: 2010-02-15 05:13:15
 next:
   text: How to make curriculum mapping useful to university academics
   url: /blog/2010/02/17/how-to-make-curriculum-mapping-useful-to-university-academics/
 previous:
   text: BIM - Final Tidy up
   url: /blog/2010/02/15/bim-final-tidy-up/
+template: blog-post.html
 title: BIM 1.0alpha is released
 type: post
-template: blog-post.html
 ---
 It is with a significant sense of relief that I announce the release of version 1.0 alpha of [BIM](/blog/research/bam-blog-aggregation-management/). You can see the code and what passes for documentation [on this page](/blog/research/bam-blog-aggregation-management/current-version-of-bim/). The [main BIM page](/blog/research/bam-blog-aggregation-management/) gives more background on the rationale and design of BIM.
 

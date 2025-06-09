@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-10-21 14:47:13+10:00
+date: 2010-10-21 04:47:13
 next:
   text: No burden for TEQSA, yea right
   url: /blog/2010/10/27/no-burden-for-teqsa-yea-right/
 previous:
   text: Time for a career change?
   url: /blog/2010/10/20/time-for-a-career-change/
+template: blog-post.html
 title: Ideas for extending the flexibility of BIM
 type: post
-template: blog-post.html
 ---
 The following explores some ideas for extensions to [BIM](/blog/research/bam-blog-aggregation-management/) based on [a blog post](http://davecormier.com/edblog/2010/10/21/my-ple-model-is-the-internet-no-more-system-for-me/) from [Dave Cormier](http://davecormier.com/edblog/whos-dave/).
 

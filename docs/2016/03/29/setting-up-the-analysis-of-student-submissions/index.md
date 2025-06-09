@@ -1,61 +1,59 @@
----
+﻿---
 categories:
 - bad
 - edc3100
-date: 2016-03-29 14:32:58+10:00
+comments:
+- approved: '1'
+  author: Anne de Bruin
+  author_email: u1058477@umail.usq.edu.au
+  author_ip: 118.208.165.199
+  author_url: http://jennarose2015.wordpress.com
+  content: Sounds complicated! I really hope it's not mine that is causing you grief!
+    Good luck with the marking!
+  date: '2016-03-29 19:47:47'
+  date_gmt: '2016-03-29 09:47:47'
+  id: '3332'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 101.179.114.187
+  author_url: https://djon.es/blog/
+  content: I've been in contact with those who may have problems, so if you haven't
+    heard from me, should be all good.
+  date: '2016-03-30 05:31:54'
+  date_gmt: '2016-03-29 19:31:54'
+  id: '3333'
+  parent: '3332'
+  type: comment
+  user_id: '1'
+date: 2016-03-29 04:32:58
 next:
   text: Some simple analysis of student submissions
   url: /blog/2016/03/30/some-simple-analysis-of-student-submissions/
+pingbacks:
+- approved: '1'
+  author: Some simple analysis of student submissions &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.101.135
+  author_url: https://davidtjones.wordpress.com/2016/03/30/some-simple-analysis-of-student-submissions/
+  content: '[&#8230;] last post outlined the process for extracting data from ~300
+    student submissions. This one outlines what was [&#8230;]'
+  date: '2016-03-30 11:16:52'
+  date_gmt: '2016-03-30 01:16:52'
+  id: '3334'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: LATs, OER, TPACK, and GitHub
   url: /blog/2016/03/26/lats-oer-tpack-and-github/
+template: blog-post.html
 title: Setting up the analysis of student submissions
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Anne de Bruin
-      author_email: u1058477@umail.usq.edu.au
-      author_ip: 118.208.165.199
-      author_url: http://jennarose2015.wordpress.com
-      content: Sounds complicated! I really hope it's not mine that is causing you grief!
-        Good luck with the marking!
-      date: '2016-03-29 19:47:47'
-      date_gmt: '2016-03-29 09:47:47'
-      id: '3332'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 101.179.114.187
-      author_url: https://djon.es/blog/
-      content: I've been in contact with those who may have problems, so if you haven't
-        heard from me, should be all good.
-      date: '2016-03-30 05:31:54'
-      date_gmt: '2016-03-29 19:31:54'
-      id: '3333'
-      parent: '3332'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Some simple analysis of student submissions &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.101.135
-      author_url: https://davidtjones.wordpress.com/2016/03/30/some-simple-analysis-of-student-submissions/
-      content: '[&#8230;] last post outlined the process for extracting data from ~300
-        student submissions. This one outlines what was [&#8230;]'
-      date: '2016-03-30 11:16:52'
-      date_gmt: '2016-03-30 01:16:52'
-      id: '3334'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A couple of weeks ago I wrote [this post](/blog/2016/03/10/setting-up-an-excel-checklist/) outlining the design of an Excel spreadsheet EDC3100 students were asked to use for their first assignment. They'll be using it to evaluate an ICT-based lesson plan. The assignment is due Tuesday and ~140 have submitted so far. It's time to develop the code that's going to help me analyse the student submissions.
 

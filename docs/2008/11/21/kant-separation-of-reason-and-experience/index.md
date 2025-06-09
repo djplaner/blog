@@ -1,22 +1,22 @@
----
+﻿---
 categories:
 - elearning
 - missingps
 - ple
 - plescquni
 - thesis
-date: 2008-11-21 10:03:01+10:00
+date: 2008-11-21 00:03:01
 next:
   text: First photo
   url: /blog/2008/11/21/first-photo/
 previous:
   text: Starting a new journey and hobby - photography
   url: /blog/2008/11/21/starting-a-new-journey-and-hobby-photography/
+template: blog-post.html
 title: Kant - separation of reason and experience
 type: post
-template: blog-post.html
 ---
-[![Kant](images/2679007692_38c1730a48_m.jpg)](http://flickr.com/photos/wyzdor/2679007692/)
+[![Kant](https://djon.es/assets/blog/2008/11/21/kant-separation-of-reason-and-experience/images/2679007692_38c1730a48_m.jpg)](http://flickr.com/photos/wyzdor/2679007692/)
 
 I'm slowly working through some [PhD related work](/blog/research/phd-thesis/) (the post on the paper I'm reading will come out later today) and that brought me across the following description of an argument of Kant's from the [wikipedia page on Kant](http://en.wikipedia.org/wiki/Kant)
 

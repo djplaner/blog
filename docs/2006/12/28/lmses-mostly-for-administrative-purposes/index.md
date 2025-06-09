@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - paperideas
-date: 2006-12-28 10:12:02+10:00
+date: 2006-12-28 00:12:02
 next:
   text: Is pedagogical the only lens
   url: /blog/2006/12/28/is-pedagogical-the-only-lens/
 previous:
   text: Rationale for the Web 2.0 Course Site approach
   url: /blog/2006/12/23/rationale-for-the-web-20-course-site-approach-2/
+template: blog-post.html
 title: LMSes mostly for administrative purposes
 type: post
-template: blog-post.html
 ---
 The [OECD report "E-learning in Tertiary Education: Where do we stand?"](http://new.sourceoecd.org/education/9264009205) says that universities have primarily used LMSes for adminstrative purposes and that LMSes have, so far, had a limited impact on pedagogy.
 

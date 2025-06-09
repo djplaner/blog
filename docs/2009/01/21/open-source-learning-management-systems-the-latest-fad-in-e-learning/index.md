@@ -1,179 +1,177 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - missingps
 - thesis
-date: 2009-01-21 23:01:54+10:00
+comments:
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'I should point out that the above is <strong>NOT</strong> an argument
+    to say that open source learning management systems are good or bad. It''s an
+    argument that the decisions being taken by an increasing number of institutions
+    to adopt open source learning management systems are, if you dig deep enough,
+    are based more on "keeping up with the Joneses" rather than on an effective evaluation
+    and understanding of the needs of the specific institution and of its students
+    and staff.
+
+
+    The fact that the University of Importance down the road and many other universities
+    (at which friends and relatives of senior management work) have adopted open source
+    learning management systems becomes more important than a detailed understanding
+    of what would most improve the practice of learning and teaching in the local
+    context.'
+  date: '2009-01-23 16:00:49'
+  date_gmt: '2009-01-23 06:00:49'
+  id: '2072'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2009-01-21 13:01:54
 next:
   text: Somethings that are broken with evaluation of university teaching
   url: /blog/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/
+pingbacks:
+- approved: '1'
+  author: The &#8220;dominant&#8221; and problem assumptions underlying university-based
+    e-learning - introduction &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.21
+  author_url: https://djon.es/blog/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/
+  content: '[...] practice that I believe my research will address. The following
+    builds on some initial ideas from a previous blog post and serves as some practice
+    in formulating my ideas. So it will still be rough. Feel free to [...]'
+  date: '2009-01-25 13:57:49'
+  date_gmt: '2009-01-25 03:57:49'
+  id: '2073'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
+    systems might go away &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 76.74.248.177
+  author_url: https://djon.es/blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
+  content: '[...] and fashions as logical decision making (see some related posts:
+    the silliness of best practice, open source LMS - the latest fad, and alternatives
+    for [...]'
+  date: '2009-02-25 08:45:55'
+  date_gmt: '2009-02-24 22:45:55'
+  id: '2074'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The IRIS model of Technology Adoption - neat and incomplete? &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: https://djon.es/blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
+  content: '[...] by Jim Groom about leadership captures some of this. I&#8217;ve
+    seen this problem lead too often to faddish and fashionable adoption of innovations.
+    I tend to think much of the organisational implementation of e-learning is based
+    on [...]'
+  date: '2009-03-06 09:19:15'
+  date_gmt: '2009-03-05 23:19:15'
+  id: '2075'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Comparing VLEs/LMS to the past: flaws and implications for development
+    models &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
+  content: '[...] of course, open source must be the answer. That seems to be what
+    the latest fad sweeping higher education might suggest. As that previous post
+    suggests, I have my [...]'
+  date: '2009-03-15 23:20:33'
+  date_gmt: '2009-03-15 13:20:33'
+  id: '2076'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Cognition - we&#8217;re not rational and how it impacts e-learning &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/03/20/cognition-were-not-rational-and-how-it-impacts-e-learning/
+  content: '[...] I&#8217;ve written about aspects of this before and again. [...]'
+  date: '2009-03-20 14:07:34'
+  date_gmt: '2009-03-20 04:07:34'
+  id: '2077'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The fad cycle in learning &amp; teaching - a historical perspective &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
+  content: '[...] the failure of prescription as a method for improving learning and
+    teaching, the tendency towards faddish or fashionable adoption of learning technologies
+    (including e-portfolios and open source LMSes), the negative impacts of [...]'
+  date: '2009-04-02 14:05:27'
+  date_gmt: '2009-04-02 04:05:27'
+  id: '2078'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Is there value in strategic plans for educational technology &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.102
+  author_url: https://djon.es/blog/2009/10/09/is-there-value-in-strategic-plans-for-educational-technology/
+  content: '[...] Fads, fashions and band wagons (Birnbaum, 2000; Swanson and Ramiller,
+    2004) [...]'
+  date: '2009-10-09 09:09:32'
+  date_gmt: '2009-10-08 23:09:32'
+  id: '2079'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Webinar notes Part 1 &laquo; Col&#039;s Weblog
+  author_email: null
+  author_ip: 66.135.48.211
+  author_url: http://beerc.wordpress.com/2010/10/22/webinar-notes-part-1/
+  content: "[...] that it is the move away from proprietary LMS to open source LMS\
+    \ although this trend is somewhat \u2018faddish\u2019 in nature. I like the idea\
+    \ that systems such as the LMS can evolve over time based on the needs [...]"
+  date: '2010-10-22 07:57:44'
+  date_gmt: '2010-10-21 21:57:44'
+  id: '2080'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio skeptic? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.113
+  author_url: https://djon.es/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/
+  content: '[...] Some of the more recent include: e-learning, the LMS, the enterprise
+    LMS, the open source LMS (e.g. an earlier post where I proposed that the open
+    source LMS was yet another fad), and more recently [...]'
+  date: '2012-09-16 22:37:06'
+  date_gmt: '2012-09-16 12:37:06'
+  id: '2081'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Why am I a ePortfolio skeptic?
   url: /blog/2009/01/21/why-am-i-a-eportfolio-skeptic/
+template: blog-post.html
 title: Open source learning management systems - the latest fad in e-learning
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'I should point out that the above is <strong>NOT</strong> an argument
-        to say that open source learning management systems are good or bad. It''s an
-        argument that the decisions being taken by an increasing number of institutions
-        to adopt open source learning management systems are, if you dig deep enough,
-        are based more on "keeping up with the Joneses" rather than on an effective evaluation
-        and understanding of the needs of the specific institution and of its students
-        and staff.
-    
-    
-        The fact that the University of Importance down the road and many other universities
-        (at which friends and relatives of senior management work) have adopted open source
-        learning management systems becomes more important than a detailed understanding
-        of what would most improve the practice of learning and teaching in the local
-        context.'
-      date: '2009-01-23 16:00:49'
-      date_gmt: '2009-01-23 06:00:49'
-      id: '2072'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: The &#8220;dominant&#8221; and problem assumptions underlying university-based
-        e-learning - introduction &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.21
-      author_url: https://djon.es/blog/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/
-      content: '[...] practice that I believe my research will address. The following
-        builds on some initial ideas from a previous blog post and serves as some practice
-        in formulating my ideas. So it will still be rough. Feel free to [...]'
-      date: '2009-01-25 13:57:49'
-      date_gmt: '2009-01-25 03:57:49'
-      id: '2073'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
-        systems might go away &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 76.74.248.177
-      author_url: https://djon.es/blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
-      content: '[...] and fashions as logical decision making (see some related posts:
-        the silliness of best practice, open source LMS - the latest fad, and alternatives
-        for [...]'
-      date: '2009-02-25 08:45:55'
-      date_gmt: '2009-02-24 22:45:55'
-      id: '2074'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The IRIS model of Technology Adoption - neat and incomplete? &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: https://djon.es/blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
-      content: '[...] by Jim Groom about leadership captures some of this. I&#8217;ve
-        seen this problem lead too often to faddish and fashionable adoption of innovations.
-        I tend to think much of the organisational implementation of e-learning is based
-        on [...]'
-      date: '2009-03-06 09:19:15'
-      date_gmt: '2009-03-05 23:19:15'
-      id: '2075'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Comparing VLEs/LMS to the past: flaws and implications for development
-        models &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
-      content: '[...] of course, open source must be the answer. That seems to be what
-        the latest fad sweeping higher education might suggest. As that previous post
-        suggests, I have my [...]'
-      date: '2009-03-15 23:20:33'
-      date_gmt: '2009-03-15 13:20:33'
-      id: '2076'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Cognition - we&#8217;re not rational and how it impacts e-learning &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/03/20/cognition-were-not-rational-and-how-it-impacts-e-learning/
-      content: '[...] I&#8217;ve written about aspects of this before and again. [...]'
-      date: '2009-03-20 14:07:34'
-      date_gmt: '2009-03-20 04:07:34'
-      id: '2077'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The fad cycle in learning &amp; teaching - a historical perspective &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
-      content: '[...] the failure of prescription as a method for improving learning and
-        teaching, the tendency towards faddish or fashionable adoption of learning technologies
-        (including e-portfolios and open source LMSes), the negative impacts of [...]'
-      date: '2009-04-02 14:05:27'
-      date_gmt: '2009-04-02 04:05:27'
-      id: '2078'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Is there value in strategic plans for educational technology &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.102
-      author_url: https://djon.es/blog/2009/10/09/is-there-value-in-strategic-plans-for-educational-technology/
-      content: '[...] Fads, fashions and band wagons (Birnbaum, 2000; Swanson and Ramiller,
-        2004) [...]'
-      date: '2009-10-09 09:09:32'
-      date_gmt: '2009-10-08 23:09:32'
-      id: '2079'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Webinar notes Part 1 &laquo; Col&#039;s Weblog
-      author_email: null
-      author_ip: 66.135.48.211
-      author_url: http://beerc.wordpress.com/2010/10/22/webinar-notes-part-1/
-      content: "[...] that it is the move away from proprietary LMS to open source LMS\
-        \ although this trend is somewhat \u2018faddish\u2019 in nature. I like the idea\
-        \ that systems such as the LMS can evolve over time based on the needs [...]"
-      date: '2010-10-22 07:57:44'
-      date_gmt: '2010-10-21 21:57:44'
-      id: '2080'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio skeptic? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.113
-      author_url: https://djon.es/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/
-      content: '[...] Some of the more recent include: e-learning, the LMS, the enterprise
-        LMS, the open source LMS (e.g. an earlier post where I proposed that the open
-        source LMS was yet another fad), and more recently [...]'
-      date: '2012-09-16 22:37:06'
-      date_gmt: '2012-09-16 12:37:06'
-      id: '2081'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is forming up as something to go into my [thesis](/blog/research/phd-thesis/) as part of the "Past experience" component of the Ps Framework.
 
@@ -202,7 +200,7 @@ In terms of [Gartner's technology hype cycle](http://en.wikipedia.org/wiki/Techn
 
 I was going to include the Wikipedia image of the hype cycle, but the format is wrong for this task. So I searched [Flickr](http://www.flickr.com/) and found the following. It's one view of emerging technologies in education and elsewhere. Interesting to see where other people have put Web 2.0, e-portfolios etc. It doesn't distinguish between open source and commercial course management systems though. (click on the image to go to the [original photo](http://flickr.com/photos/fleep/2763745059/) or [here for the original blog post](http://fleeep.net/blog/2008/08/14/hype-cycle-and-james-paul-gee-building-worlds/) the image is from).
 
-[![http://fleeptuque.com/ version of the gartner hype cycle](images/2763745059_c3c00f9b60_d.jpg)](http://flickr.com/photos/fleep/2763745059/)
+[![http://fleeptuque.com/ version of the gartner hype cycle](https://djon.es/assets/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/images/2763745059_c3c00f9b60_d.jpg)](http://flickr.com/photos/fleep/2763745059/)
 
 I believe we're also at the start of another stage in this development, the "post industrial" approach. But this one still hasn't risen to the awareness of most organisations, at least not at senior management making a decision to base the institution's approach on it.
 

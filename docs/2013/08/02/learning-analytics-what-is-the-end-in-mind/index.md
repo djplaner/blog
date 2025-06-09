@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - indicators
 - irac
-date: 2013-08-02 13:19:56+10:00
+comments: []
+date: 2013-08-02 03:19:56
 next:
   text: Statistics in Education - Week 1
   url: /blog/2013/08/10/statistics-in-education-week-1/
+pingbacks:
+- approved: '1'
+  author: Learning analytics - What is the &quot;end in m...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-ukr/p/4005904822/learning-analytics-what-is-the-end-in-mind
+  content: '[&#8230;] Learning analytics is one of the new management fashions sweeping
+    higher education. As a consequence, every Australian University I know has some
+    sort of project around learning analytics underway....&nbsp; [&#8230;]'
+  date: '2013-08-10 15:09:07'
+  date_gmt: '2013-08-10 05:09:07'
+  id: '815'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Bugger analytics, just give me useful information | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 76.74.254.34
+  author_url: https://djon.es/blog/2013/08/12/bugger-analytics-just-give-me-useful-information/
+  content: '[&#8230;] a a prior post I wondered about the &#8220;end in mind&#8221;
+    for university analytics projects. What follows [&#8230;]'
+  date: '2013-08-12 11:44:53'
+  date_gmt: '2013-08-12 01:44:53'
+  id: '816'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM, Moodle, Simplepie, curl and HTTP proxy issue
   url: /blog/2013/07/26/bim-moodle-simplepie-curl-and-http-proxy-issue/
+template: blog-post.html
 title: Learning analytics - What is the "end in mind"?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Learning analytics - What is the &quot;end in m...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-ukr/p/4005904822/learning-analytics-what-is-the-end-in-mind
-      content: '[&#8230;] Learning analytics is one of the new management fashions sweeping
-        higher education. As a consequence, every Australian University I know has some
-        sort of project around learning analytics underway....&nbsp; [&#8230;]'
-      date: '2013-08-10 15:09:07'
-      date_gmt: '2013-08-10 05:09:07'
-      id: '815'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Bugger analytics, just give me useful information | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 76.74.254.34
-      author_url: https://djon.es/blog/2013/08/12/bugger-analytics-just-give-me-useful-information/
-      content: '[&#8230;] a a prior post I wondered about the &#8220;end in mind&#8221;
-        for university analytics projects. What follows [&#8230;]'
-      date: '2013-08-12 11:44:53'
-      date_gmt: '2013-08-12 01:44:53'
-      id: '816'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Learning analytics is one of the new management fashions sweeping higher education. As a consequence, every Australian University I know has some sort of project around learning analytics underway. Some of these projects are actually considering how to help the folk at the coal face - students and teaching staff - use and benefit from learning analytics.
 

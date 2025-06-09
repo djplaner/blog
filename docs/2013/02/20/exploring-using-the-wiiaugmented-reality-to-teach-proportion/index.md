@@ -1,10 +1,72 @@
----
+﻿---
 categories:
 - edc3100
-date: 2013-02-20 15:11:03+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 124.189.216.206
+  author_url: http://elketeaches.wordpress.com
+  content: 'Reblogged this on <a href="http://elketeaches.wordpress.com/2013/02/21/761/"
+    rel="nofollow">elketeaches</a> and commented:
+
+    Love it! The video explains it very well. I will keep this type of idea in mind
+    if/when I am thrown into teaching a Math class  :-)'
+  date: '2013-02-21 10:04:07'
+  date_gmt: '2013-02-21 00:04:07'
+  id: '623'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: danielleparadis
+  author_email: dani.paradis2@gmail.com
+  author_ip: 184.70.82.6
+  author_url: http://danielleparadis.wordpress.com
+  content: 'Reblogged this on <a href="http://daniparadiseducation.wordpress.com/2013/02/21/10275/"
+    rel="nofollow">Danielle Paradis&#039; Royal Roads Masters Blog</a> and commented:
+
+    Super cool article by David Jones. You NEED to follow him '
+  date: '2013-02-22 09:26:09'
+  date_gmt: '2013-02-21 23:26:09'
+  id: '624'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: aaronnganeko
+  author_email: u1004439@umail.usq.edu.au
+  author_ip: 138.130.246.59
+  author_url: http://aaronnganeko.wordpress.com
+  content: Nice blog it is really interesting to see how ICT's can be utilised and
+    be effective in learning through all subjects. Thanks David.
+  date: '2013-03-11 09:06:57'
+  date_gmt: '2013-03-10 23:06:57'
+  id: '626'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2013-02-20 05:11:03
 next:
   text: The assessment of learning journals - ideas for BIM
   url: /blog/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/
+pingbacks:
+- approved: '1'
+  author: 'Exploring using the Wii/Augmented Reality to teach proportion | c+i+I+D:
+    Gamification, GBL, AR, Learning Analytics, SNA, Big Data, Robotics &amp; Partners
+    | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/gamification-new-e-trends/p/3997330217/exploring-using-the-wii-augmented-reality-to-teach-proportion
+  content: '[...] One of the tasks for the course I teach is to explore in a bit more
+    detail one of the 150 ICT innovations identified as &quot;good&quot; in the Decoding
+    Learning report. The list can be downloaded as an Exce...&nbsp; [...]'
+  date: '2013-02-22 17:36:39'
+  date_gmt: '2013-02-22 07:36:39'
+  id: '625'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The missing perspective(s) on MOOCs?
   url: /blog/2013/02/08/the-missing-perspectives-on-moocs/
@@ -12,73 +74,9 @@ tags:
 - augmented-reality
 - math
 - mathematics
+template: blog-post.html
 title: Exploring using the Wii/Augmented Reality to teach proportion
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 124.189.216.206
-      author_url: http://elketeaches.wordpress.com
-      content: 'Reblogged this on <a href="http://elketeaches.wordpress.com/2013/02/21/761/"
-        rel="nofollow">elketeaches</a> and commented:
-    
-        Love it! The video explains it very well. I will keep this type of idea in mind
-        if/when I am thrown into teaching a Math class  :-)'
-      date: '2013-02-21 10:04:07'
-      date_gmt: '2013-02-21 00:04:07'
-      id: '623'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: danielleparadis
-      author_email: dani.paradis2@gmail.com
-      author_ip: 184.70.82.6
-      author_url: http://danielleparadis.wordpress.com
-      content: 'Reblogged this on <a href="http://daniparadiseducation.wordpress.com/2013/02/21/10275/"
-        rel="nofollow">Danielle Paradis&#039; Royal Roads Masters Blog</a> and commented:
-    
-        Super cool article by David Jones. You NEED to follow him '
-      date: '2013-02-22 09:26:09'
-      date_gmt: '2013-02-21 23:26:09'
-      id: '624'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: aaronnganeko
-      author_email: u1004439@umail.usq.edu.au
-      author_ip: 138.130.246.59
-      author_url: http://aaronnganeko.wordpress.com
-      content: Nice blog it is really interesting to see how ICT's can be utilised and
-        be effective in learning through all subjects. Thanks David.
-      date: '2013-03-11 09:06:57'
-      date_gmt: '2013-03-10 23:06:57'
-      id: '626'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Exploring using the Wii/Augmented Reality to teach proportion | c+i+I+D:
-        Gamification, GBL, AR, Learning Analytics, SNA, Big Data, Robotics &amp; Partners
-        | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/gamification-new-e-trends/p/3997330217/exploring-using-the-wii-augmented-reality-to-teach-proportion
-      content: '[...] One of the tasks for the course I teach is to explore in a bit more
-        detail one of the 150 ICT innovations identified as &quot;good&quot; in the Decoding
-        Learning report. The list can be downloaded as an Exce...&nbsp; [...]'
-      date: '2013-02-22 17:36:39'
-      date_gmt: '2013-02-22 07:36:39'
-      id: '625'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 One of the tasks for the course I teach is to explore in a bit more detail one of the 150 ICT innovations identified as "good" in [the Decoding Learning report](http://www.nesta.org.uk/areas_of_work/public_services_lab/digital_education/assets/features/decoding_learning_report). The list can be downloaded as an [Excel spreadsheet](http://www.nesta.org.uk/areas_of_work/public_services_lab/digital_education/assets/documents/decoding_learning_data). Preferably, the idea is we should be exploring ICT innovations that we might like to apply in our teaching.
 
@@ -92,7 +90,7 @@ The reference they give is Abrahamson (2012) but it appears that Trninic and Abr
 
 Of course, rather than wade through an academic treatise you may just want to watch the video.
 
-http://www.youtube.com/watch?v=n9xVC76PlWc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n9xVC76PlWc?si=MtmkucC2Ky6ZTeEl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The Mathematical Imagery Trainer
 

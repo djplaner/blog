@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -7,56 +7,53 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-07-04 10:24:05+10:00
+comments: []
+date: 2010-07-04 00:24:05
 next:
   text: McGuffins, learning, teaching and universities
   url: /blog/2010/07/04/mcguffins-learning-teaching-and-universities/
+pingbacks:
+- approved: '1'
+  author: 'Integrating alignment into Moodle and academic practice: A proposal and
+    a RFI &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.146
+  author_url: https://djon.es/blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
+  content: '[...] The Moot presentation identifies as a problem the difficulty of
+    translating learning outcomes into an effective course design within an LMS. The
+    problem which I&#8217;m interested is connected to this, but is also a little
+    different. The problem I&#8217;m interested in is that the every day, regularly
+    experience of an academic doesn&#8217;t require them to think about alignment.
+    More broadly, the everyday experience of teaching academics doesn&#8217;t encourage
+    nor enable them to think about learning and teaching from an educational perspective.
+    Instead the focus on low level tasks like uploading documents because of the low-level
+    of abstraction in most LMS. [...]'
+  date: '2010-07-09 09:26:44'
+  date_gmt: '2010-07-08 23:26:44'
+  id: '3111'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Trip report &#8211; Moodlemoot&#8217;AU 2010 &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 76.74.254.62
+  author_url: https://djon.es/blog/2010/07/16/trip-report-moodlemootau-2010/
+  content: '[...] No-one seems to be yet moving beyond these fairly limited forms
+    of course site creation. To improving the level of abstraction. [...]'
+  date: '2010-07-19 14:23:13'
+  date_gmt: '2010-07-19 04:23:13'
+  id: '3112'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Webfuse feature adoption - 1997 through 2009
   url: /blog/2010/07/01/webfuse-feature-adoption-1997-through-2009/
+template: blog-post.html
 title: The VLE model and the wrong level of abstraction
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Integrating alignment into Moodle and academic practice: A proposal and
-        a RFI &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.146
-      author_url: https://djon.es/blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
-      content: '[...] The Moot presentation identifies as a problem the difficulty of
-        translating learning outcomes into an effective course design within an LMS. The
-        problem which I&#8217;m interested is connected to this, but is also a little
-        different. The problem I&#8217;m interested in is that the every day, regularly
-        experience of an academic doesn&#8217;t require them to think about alignment.
-        More broadly, the everyday experience of teaching academics doesn&#8217;t encourage
-        nor enable them to think about learning and teaching from an educational perspective.
-        Instead the focus on low level tasks like uploading documents because of the low-level
-        of abstraction in most LMS. [...]'
-      date: '2010-07-09 09:26:44'
-      date_gmt: '2010-07-08 23:26:44'
-      id: '3111'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Trip report &#8211; Moodlemoot&#8217;AU 2010 &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 76.74.254.62
-      author_url: https://djon.es/blog/2010/07/16/trip-report-moodlemootau-2010/
-      content: '[...] No-one seems to be yet moving beyond these fairly limited forms
-        of course site creation. To improving the level of abstraction. [...]'
-      date: '2010-07-19 14:23:13'
-      date_gmt: '2010-07-19 04:23:13'
-      id: '3112'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm currently trying to formalise the information systems design theory for e-learning that is meant to be the contribution of [my thesis](/blog/research/phd-thesis/). i.e. what is the model, set of principles etc that I think is important.
 
@@ -95,7 +92,7 @@ Producing the electronic version of the study guide was only the first step. We 
 
 So, we implemented the automatic generation of an eStudyGuide web page for every course. The following image is one example, click on it to see it in a bigger size.
 
-[![CQU eStudyGuide web page](images/4759051690_02ca45e78b_m.jpg)](http://www.flickr.com/photos/david_jones/4759051690/ "CQU eStudyGuide web page by David T Jones, on Flickr")
+[![CQU eStudyGuide web page](https://djon.es/assets/blog/2010/07/04/the-vle-model-and-the-wrong-level-of-abstraction/images/4759051690_02ca45e78b_m.jpg)](http://www.flickr.com/photos/david_jones/4759051690/ "CQU eStudyGuide web page by David T Jones, on Flickr")
 
 The eStudyGuide page for a course was produced by a script. The script was aimed at a much higher level of abstraction. The script knew about CQU courses, it knew about the format we used for the eStudyGuide and it was able to use that knowledge to produce the file. e.g. it pulled the title of each part of the eStudyGuide from the eStudyGuide.
 

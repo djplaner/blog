@@ -1,20 +1,20 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - thesis
 - webfuse
-date: 2010-03-12 09:29:48+10:00
+date: 2010-03-11 23:29:48
 next:
   text: The value of lurking - another research idea for the indicators project
   url: /blog/2010/03/12/the-value-of-lurking-another-research-idea-for-the-indicators-project/
 previous:
   text: Focusing on the wrong time frame - a core problem of university L&#038;T?
   url: /blog/2010/03/11/focusing-on-the-wrong-time-frame-a-core-problem-of-university-lt/
+template: blog-post.html
 title: Different perspectives on the purpose of the LMS
 type: post
-template: blog-post.html
 ---
 Antonio Vantaggiato gives [one response](http://blogs.netedu.info/?p=1061) to a post from Donald Clark titled "Moodle: e-learning's frankenstein". Clark's post is getting a bit of traction because it is being seen as a negative critique of Moodle.
 

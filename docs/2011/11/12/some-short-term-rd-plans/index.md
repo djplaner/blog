@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-11-12 09:44:09+10:00
+date: 2011-11-11 23:44:09
 next:
   text: Do any universities know what's happening with their LMS?
   url: /blog/2011/11/15/do-any-universities-know-whats-happening-with-their-lms/
 previous:
   text: Turning point 2.0
   url: /blog/2011/11/10/turning-point-2-0/
+template: blog-post.html
 title: '"Some short-term R&#038;D plans"'
 type: post
-template: blog-post.html
 ---
 And the first day of my transition back into Academia commences. What follows is an initial list of my short-term plans for research and development. I had pondered coming up with some grand vision for my academic career, but I really detest visions and mission statements as ways to enshrine your current limited understanding in such a way as to ignore everything else that happens in the world.
 

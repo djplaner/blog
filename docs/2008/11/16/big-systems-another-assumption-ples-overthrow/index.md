@@ -1,20 +1,20 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
 - ple
 - thesis
 - webfuse
-date: 2008-11-16 09:53:58+10:00
+date: 2008-11-15 23:53:58
 next:
   text: The dissonance gap in systems and LMS evaluations
   url: /blog/2008/11/17/the-dissonance-gap-in-systems-and-lms-evaluations/
 previous:
   text: 'Expert designer: Another assumption PLEs question'
   url: /blog/2008/11/15/expert-designer-another-assumption-ples-question/
+template: blog-post.html
 title: '"Big" systems - another assumption "PLEs" overthrow'
 type: post
-template: blog-post.html
 ---
 This is a continuation of my attempt to develop a list of the assumptions underpinning existing practice around learning and teaching at universities which the concepts surrounding the Personal Learning Environments (PLE) term bring into question. The list started with [this post](/blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/) and is continuing (all the posts should be linked from the bottom of the [original post](/blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/)).
 
@@ -73,7 +73,7 @@ Imagine how much effort, how much expense and how long you would have to wait fo
 
 #### Moving beyond the expert designer
 
-[![Big Ben](images/399049455_574a55657b_m.jpg)](http://www.flickr.com/photos/me_haridas/399049455/)
+[![Big Ben](https://djon.es/assets/blog/2008/11/16/big-systems-another-assumption-ples-overthrow/images/399049455_574a55657b_m.jpg)](http://www.flickr.com/photos/me_haridas/399049455/)
 
 Another major advantage of this approach is that it enables the ["death of the expert designer"](/blog/2008/11/15/expert-designer-another-assumption-ples-question/). Adding the FlickrRiver HTML badge to get my random collection of Flickr photos did not require me to go to the software designers of Wordpress and ask them to add the ability to add random photos to my blog.
 

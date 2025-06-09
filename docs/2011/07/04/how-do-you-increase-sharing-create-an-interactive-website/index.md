@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - eded20488
 - teaching
-date: 2011-07-04 13:44:02+10:00
+date: 2011-07-04 03:44:02
 next:
   text: '"Some considerations around ICTs for learning in the Senior School: initial
     thoughts and planning"'
@@ -10,9 +10,9 @@ next:
 previous:
   text: 'The freedom of academia: strategised, KPI&#039;d, and quality assured away'
   url: /blog/2011/07/04/the-freedom-of-academia-strategised-kpid-and-quality-assured-away/
+template: blog-post.html
 title: How do you increase sharing? Create an interactive website?
 type: post
-template: blog-post.html
 ---
 I'm in the process of reading up on the Australian Federal Government's [Digital Education Revolution](http://www.deewr.gov.au/Schooling/DigitalEducationRevolution/Pages/default.aspx). There appear to be some interesting things going on, but there are also a few things that I'm shaking my head at.
 

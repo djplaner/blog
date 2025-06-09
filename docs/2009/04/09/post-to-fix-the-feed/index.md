@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2009-04-09 15:16:00+10:00
+date: 2009-04-09 05:16:00
 next:
   text: Wordpress eating posts
   url: /blog/2009/04/11/wordpress-eating-posts/
@@ -9,9 +9,9 @@ previous:
   text: 'Edupunk rules: Technology I, II and 3 - understanding and improving the practice
     of instructional technology'
   url: /blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/
+template: blog-post.html
 title: Post to fix the feed
 type: post
-template: blog-post.html
 ---
 It appears that [this post](/blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/) and its use of a poll has broken the RSS feed for this blog. Am hoping that this post will knock that post out of the feed.
 

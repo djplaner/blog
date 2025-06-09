@@ -1,55 +1,52 @@
----
+﻿---
 categories:
 - alignment
 - elearning
 - indicators
 - moodle
-date: 2010-07-16 13:40:09+10:00
+comments:
+- approved: '1'
+  author: dveness
+  author_email: deborah.veness@anu.edu.au
+  author_ip: 150.203.145.36
+  author_url: null
+  content: 'Hi David
+
+
+    Regarding your interest in building a tool to assist with alignment:
+
+
+    Have you looked at the applications used by AACSB-accredited business schools
+    and faculties - for example Tk20, TaskStream and Digital Measures, among others?
+    UTS uses something called ReView or Re:View, which I think is a home-grown product.
+    There seems to be a whole set of these kinds of systems, and I don''t think they
+    interface with LMSs, but they must work with the student records systems.
+
+
+    The AASCB accreditation requires rigourous reporting, so these tools may not be
+    quite like the thing you have in your mind. I''d be interested to hear what you
+    think of them.
+
+
+    Deborah'
+  date: '2010-07-20 09:46:22'
+  date_gmt: '2010-07-19 23:46:22'
+  id: '3120'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-07-16 03:40:09
 next:
   text: '"The ethics of learning analytics: initial steps"'
   url: /blog/2010/07/19/the-ethics-of-learning-analytics-initial-steps/
+pingbacks: []
 previous:
   text: 'Integrating alignment into Moodle and academic practice: A proposal and a
     RFI'
   url: /blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
+template: blog-post.html
 title: Trip report - Moodlemoot'AU 2010
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: dveness
-      author_email: deborah.veness@anu.edu.au
-      author_ip: 150.203.145.36
-      author_url: null
-      content: 'Hi David
-    
-    
-        Regarding your interest in building a tool to assist with alignment:
-    
-    
-        Have you looked at the applications used by AACSB-accredited business schools
-        and faculties - for example Tk20, TaskStream and Digital Measures, among others?
-        UTS uses something called ReView or Re:View, which I think is a home-grown product.
-        There seems to be a whole set of these kinds of systems, and I don''t think they
-        interface with LMSs, but they must work with the student records systems.
-    
-    
-        The AASCB accreditation requires rigourous reporting, so these tools may not be
-        quite like the thing you have in your mind. I''d be interested to hear what you
-        think of them.
-    
-    
-        Deborah'
-      date: '2010-07-20 09:46:22'
-      date_gmt: '2010-07-19 23:46:22'
-      id: '3120'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 The following is a report of my attendance at [Moodlemoot'AU 2010](http://moodlemoot.org.au/) during the first half of this week. The aim is to engage in a touch of reflection, outline tasks to do, and inform colleagues back at [CQUniversity](http://www.cqu.edu.au/) about the conference.
 
@@ -94,7 +91,7 @@ Of course, I was as guilty as anyone else of using this comment, and in the cont
 
 However, we're much more modern now, we have [Twitter](http://twitter.com/) a tool that's increasingly being used at conferences to make explicit what was generally implicit. At this conference there was a healthy twitter stream and due to that stream, I have some hard evidence of good comments. See the following image, click it to make it bigger.
 
-[![Twitter feedback on Moodlemoot'AU BIM presentation](images/4807170880_59e540b2e3_m.jpg)](http://www.flickr.com/photos/david_jones/4807170880/ "Twitter feedback on Moodlemoot'AU BIM presentation by David T Jones, on Flickr")
+[![Twitter feedback on Moodlemoot'AU BIM presentation](https://djon.es/assets/blog/2010/07/16/trip-report-moodlemootau-2010/images/4807170880_59e540b2e3_m.jpg)](http://www.flickr.com/photos/david_jones/4807170880/ "Twitter feedback on Moodlemoot'AU BIM presentation by David T Jones, on Flickr")
 
 Of course, most of the folk shown in that image are people who follow me on twitter. So, the validity of such comments might remain questionable.
 

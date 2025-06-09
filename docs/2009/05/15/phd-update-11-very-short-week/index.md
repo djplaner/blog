@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - design-theory
 - phd
 - thesis
-date: 2009-05-15 15:38:16+10:00
+comments: []
+date: 2009-05-15 05:38:16
 next:
   text: Lessons from place
   url: /blog/2009/05/17/lessons-from-place/
+pingbacks:
+- approved: '1'
+  author: 'Phd Update #12 &#8211; some progress, but late &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/05/23/phd-update-12-some-progress-but-late/
+  content: '[...] Last week I said the aim would be to [...]'
+  date: '2009-05-23 07:20:24'
+  date_gmt: '2009-05-22 21:20:24'
+  id: '2508'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Institution - another part of place
   url: /blog/2009/05/15/institution-another-part-of-place/
+template: blog-post.html
 title: '"Phd Update #11 - very short week"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Phd Update #12 &#8211; some progress, but late &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/05/23/phd-update-12-some-progress-but-late/
-      content: '[...] Last week I said the aim would be to [...]'
-      date: '2009-05-23 07:20:24'
-      date_gmt: '2009-05-22 21:20:24'
-      id: '2508'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Well, this week was a very short week. All up 4 days were lost with illness, work and a burst pipe at childcare requiring some additional babysitting duties. That said, I'm feeling pretty happy about the thesis mostly because on major hurdle is out of the way and it went fairly quickly. Hopefully this can continue - the progress, not the short weeks.
 

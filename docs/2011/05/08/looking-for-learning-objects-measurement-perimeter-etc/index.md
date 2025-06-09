@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - mathematics
 - teaching
-date: 2011-05-08 21:47:21+10:00
+comments: []
+date: 2011-05-08 11:47:21
 next:
   text: Where are all the innovative high school IT/CS classes?
   url: /blog/2011/05/14/where-are-all-the-innovative-high-school-itcs-classes/
+pingbacks:
+- approved: '1'
+  author: 'Some areas of improvement for #edc3100 | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 66.155.38.26
+  author_url: https://djon.es/blog/2014/03/28/some-areas-of-improvement-for-edc3100/
+  content: '[&#8230;] many don&#8217;t see (or haven&#8217;t explicitly mentioned
+    where I can see) some of the reservations I have about these repositories and
+    the quality of the information in [&#8230;]'
+  date: '2014-03-28 15:23:52'
+  date_gmt: '2014-03-28 05:23:52'
+  id: '69'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Real life, mathematics, partial proportion and race horses
   url: /blog/2011/05/07/real-life-mathematics-partial-proportion-and-race-horses/
+template: blog-post.html
 title: Looking for "learning objects" measurement, perimeter etc.
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Some areas of improvement for #edc3100 | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 66.155.38.26
-      author_url: https://djon.es/blog/2014/03/28/some-areas-of-improvement-for-edc3100/
-      content: '[&#8230;] many don&#8217;t see (or haven&#8217;t explicitly mentioned
-        where I can see) some of the reservations I have about these repositories and
-        the quality of the information in [&#8230;]'
-      date: '2014-03-28 15:23:52'
-      date_gmt: '2014-03-28 05:23:52'
-      id: '69'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 So next week sees me actively engage in a bit of teaching through leading small episodes that form part of my mentor teachers' existing plans. In another week or two that will expand into complete lessons. One of the interesting parts of this activity has been the necessity to fit within the existing plans and approaches used by my mentor teachers. Approaches that I wouldn't necessarily have thought of and which place some constraints on what I can do.
 

@@ -1,81 +1,78 @@
----
+﻿---
 categories:
 - bad
 - edc3100
 - irac
 - learninganalytics-elearning
-date: 2015-01-23 11:58:28+10:00
+comments: []
+date: 2015-01-23 01:58:28
 next:
   text: Using the PIRAC - Thinking about an "integrated dashboard"
   url: /blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
+pingbacks:
+- approved: '1'
+  author: Using the PIRAC &#8211; Thinking about an &#8220;integrated dashboard&#8221;
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.195
+  author_url: https://davidtjones.wordpress.com/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
+  content: '[&#8230;] Knowing who my students are, where they are, what they are studying,
+    what they&#8217;ve studied and when the add/drop the course (in a way that I can
+    leverage). Which is part of what I&#8217;m doing here. [&#8230;]'
+  date: '2015-01-30 15:49:32'
+  date_gmt: '2015-01-30 05:49:32'
+  id: '1208'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What&#8217;s good for the &#8220;open content&#8221; is good for the LMS/virtual
+    learning space? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.86
+  author_url: https://davidtjones.wordpress.com/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
+  content: '[&#8230;] take LMS data and data from the student records system to develop
+    a &#8220;learning process analytics&#8221; tool used in the [&#8230;]'
+  date: '2015-04-15 10:15:34'
+  date_gmt: '2015-04-15 00:15:34'
+  id: '1209'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Where does the LMS site in the reusability paradox | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.86.73
+  author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-site-in-the-reusability-paradox/
+  content: '[&#8230;] those required to implement the process analytics I&#8217;ve
+    added to my [&#8230;]'
+  date: '2015-04-21 15:54:56'
+  date_gmt: '2015-04-21 05:54:56'
+  id: '1210'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Where does the LMS sit in the reusability paradox | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.81.50
+  author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
+  content: '[&#8230;] those required to implement the process analytics I&#8217;ve
+    added to my [&#8230;]'
+  date: '2015-04-21 15:57:15'
+  date_gmt: '2015-04-21 05:57:15'
+  id: '1211'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A proposal for fixing what&#039;s broken with ed tech support in some universities
   url: /blog/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
+template: blog-post.html
 title: Adding some learning process analytics to EDC3100
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Using the PIRAC &#8211; Thinking about an &#8220;integrated dashboard&#8221;
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.195
-      author_url: https://davidtjones.wordpress.com/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
-      content: '[&#8230;] Knowing who my students are, where they are, what they are studying,
-        what they&#8217;ve studied and when the add/drop the course (in a way that I can
-        leverage). Which is part of what I&#8217;m doing here. [&#8230;]'
-      date: '2015-01-30 15:49:32'
-      date_gmt: '2015-01-30 05:49:32'
-      id: '1208'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What&#8217;s good for the &#8220;open content&#8221; is good for the LMS/virtual
-        learning space? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.86
-      author_url: https://davidtjones.wordpress.com/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
-      content: '[&#8230;] take LMS data and data from the student records system to develop
-        a &#8220;learning process analytics&#8221; tool used in the [&#8230;]'
-      date: '2015-04-15 10:15:34'
-      date_gmt: '2015-04-15 00:15:34'
-      id: '1209'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Where does the LMS site in the reusability paradox | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.86.73
-      author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-site-in-the-reusability-paradox/
-      content: '[&#8230;] those required to implement the process analytics I&#8217;ve
-        added to my [&#8230;]'
-      date: '2015-04-21 15:54:56'
-      date_gmt: '2015-04-21 05:54:56'
-      id: '1210'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Where does the LMS sit in the reusability paradox | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.81.50
-      author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
-      content: '[&#8230;] those required to implement the process analytics I&#8217;ve
-        added to my [&#8230;]'
-      date: '2015-04-21 15:57:15'
-      date_gmt: '2015-04-21 05:57:15'
-      id: '1211'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In [Jones and Clark (2014)](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) we drew on Damien's (Clark) development of the Moodle Activity Viewer (MAV) as an example of how bricolage, affordances and distribution (the BAD mindset) can add some value to institutional e-learning. My empirical contribution to that paper was talking about how I'd [extended MAV](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#extending) so that when I was answering a student query in a discussion forum I could quickly see relevant information about that student (e.g. their major, which education system they would likely be teaching into etc).
 
@@ -178,7 +175,7 @@ The task here is basically giving me some information about the student progress
 
 For now it's going to be a simple extension to the approach talked about [in the paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#extending). i.e. whenever my browser sees on a course website a a link to a user profile, it will add a link **\[Details\]** next to it. If I click on that link I see a popup showing information about that student. The following is a mockup (click on the images to see a larger version) of what is currently partially working
 
-[![001 - Personal Details](images/16318561876_1939d6aa87_n.jpg)](https://www.flickr.com/photos/david_jones/16318561876 "001 - Personal Details by David Jones, on Flickr")
+[![001 - Personal Details](https://djon.es/assets/blog/2015/01/23/adding-some-learning-process-analytics-to-edc3100/images/16318561876_1939d6aa87_n.jpg)](https://www.flickr.com/photos/david_jones/16318561876 "001 - Personal Details by David Jones, on Flickr")
 
 By default the student details are shown. There are two other tabs, one for activity completion and one for blog posts.
 
@@ -186,7 +183,7 @@ By default the student details are shown. There are two other tabs, one for acti
 
 The activity completion tab is currently the most complicated and the ugliest. Moving the mouse of the Activity Completion tab brings up the following.
 
-[![002 - Activity completion](images/16342764001_4d091aa053_n.jpg)](https://www.flickr.com/photos/david_jones/16342764001 "002 - Activity completion by David Jones, on Flickr")
+[![002 - Activity completion](https://djon.es/assets/blog/2015/01/23/adding-some-learning-process-analytics-to-edc3100/images/16342764001_4d091aa053_n.jpg)](https://www.flickr.com/photos/david_jones/16342764001 "002 - Activity completion by David Jones, on Flickr")
 
 The red, green and yellow colours are ugly and are intended to indicate a simple traffic light representation. Green means all complete, red is not, yellow means in progress for some scale.
 
@@ -202,11 +199,11 @@ The course is actually broken up into 3 modules. The image above shows each modu
 
 The blog post tab is the most under-developed. The mockup currently only shows some raw data that is used to generate the students mark.
 
-[![003- blog posts](images/16318561616_ab8d877ab9_n.jpg)](https://www.flickr.com/photos/david_jones/16318561616 "003- blog posts by David Jones, on Flickr")
+[![003- blog posts](https://djon.es/assets/blog/2015/01/23/adding-some-learning-process-analytics-to-edc3100/images/16318561616_ab8d877ab9_n.jpg)](https://www.flickr.com/photos/david_jones/16318561616 "003- blog posts by David Jones, on Flickr")
 
 **Update** The following screen shot shows progress on this tab. The following is from the working tool.
 
-[![BlogProcessAnalytics](images/16198089029_063faaa24f_n.jpg)](https://www.flickr.com/photos/david_jones/16198089029 "BlogProcessAnalytics by David Jones, on Flickr")
+[![BlogProcessAnalytics](https://djon.es/assets/blog/2015/01/23/adding-some-learning-process-analytics-to-edc3100/images/16198089029_063faaa24f_n.jpg)](https://www.flickr.com/photos/david_jones/16198089029 "BlogProcessAnalytics by David Jones, on Flickr")
 
 **Requirement suggestions:**
 

@@ -1,76 +1,73 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2011-09-22 11:04:05+10:00
+comments:
+- approved: '1'
+  author: Minh-Tam R. Nguyen (@nguyenmt)
+  author_email: nguyenmt@twitter.example.com
+  author_ip: 137.92.23.82
+  author_url: http://twitter.com/nguyenmt
+  content: 'Hi David,
+
+    we have BIM installed here at the University of Canberra on our Moodle 1.9 instance
+    and have a small number users who use it with classes of a couple of hundred students.
+    They very much enjoy the features that BIM gives them.
+
+    Based on their usage of BIM we have found a couple of small bugs and have worked
+    with our Moodle Partner to have these fixed.
+
+
+    We are currently planning out upgrade to Moodle 2, and would love it if BIM worked
+    with the current feature set in Moodle 2.
+
+    Any additional features and UI improvements would be welcome, but not essential.
+
+
+    Cheers,
+
+    Minh-Tam'
+  date: '2011-09-26 15:25:10'
+  date_gmt: '2011-09-26 05:25:10'
+  id: '131'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.165.210.49
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the update.
+
+
+    Glad to hear that some people are getting use out of BIM. As it stands, I was
+    probably going to do the upgrade to Moodle 2 anyway to scratch some personal itches
+    (all things being equal). Knowing others are using it adds further motivation.
+
+
+    It will probably be at least late November before anything meaningful happens.
+    When something happens it will be blogged/tweeted.
+
+
+    Thanks again.'
+  date: '2011-09-26 15:52:29'
+  date_gmt: '2011-09-26 05:52:29'
+  id: '132'
+  parent: '131'
+  type: comment
+  user_id: '1'
+date: 2011-09-22 01:04:05
 next:
   text: A course outline to increase relevance of IPT
   url: /blog/2011/09/22/a-course-outline-to-increase-relevance-of-ipt/
+pingbacks: []
 previous:
   text: 'The final plan: Khan Academy, gamification and the flipped classroom'
   url: /blog/2011/09/21/the-final-plan-khan-academy-gamification-and-the-flipped-classroom/
+template: blog-post.html
 title: BIM and BIM2 - Who needs it? What do you need?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Minh-Tam R. Nguyen (@nguyenmt)
-      author_email: nguyenmt@twitter.example.com
-      author_ip: 137.92.23.82
-      author_url: http://twitter.com/nguyenmt
-      content: 'Hi David,
-    
-        we have BIM installed here at the University of Canberra on our Moodle 1.9 instance
-        and have a small number users who use it with classes of a couple of hundred students.
-        They very much enjoy the features that BIM gives them.
-    
-        Based on their usage of BIM we have found a couple of small bugs and have worked
-        with our Moodle Partner to have these fixed.
-    
-    
-        We are currently planning out upgrade to Moodle 2, and would love it if BIM worked
-        with the current feature set in Moodle 2.
-    
-        Any additional features and UI improvements would be welcome, but not essential.
-    
-    
-        Cheers,
-    
-        Minh-Tam'
-      date: '2011-09-26 15:25:10'
-      date_gmt: '2011-09-26 05:25:10'
-      id: '131'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.165.210.49
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the update.
-    
-    
-        Glad to hear that some people are getting use out of BIM. As it stands, I was
-        probably going to do the upgrade to Moodle 2 anyway to scratch some personal itches
-        (all things being equal). Knowing others are using it adds further motivation.
-    
-    
-        It will probably be at least late November before anything meaningful happens.
-        When something happens it will be blogged/tweeted.
-    
-    
-        Thanks again.'
-      date: '2011-09-26 15:52:29'
-      date_gmt: '2011-09-26 05:52:29'
-      id: '132'
-      parent: '131'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Earlier this year, as the assignments mounted with my Graduate Diploma of Learning and Teaching, I put the [development of BIM on the back burner](/blog/2011/04/07/bim-on-the-back-burner/). As my study to become a teacher winds down (stops for good on November 11 at the end of a 6 week internship) I'm thinking of re-starting work on BIM. Before I do that, I'm have a couple of questions
 

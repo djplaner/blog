@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - edu8117
 - netgl
-date: 2015-10-08 14:21:06+10:00
+date: 2015-10-08 04:21:06
 next:
   text: Are our institutions digital visitors?  What are the impacts on learning and
     teaching?
@@ -10,9 +10,9 @@ next:
 previous:
   text: What is theory and why use theories?
   url: /blog/2015/10/08/what-is-theory-and-why-use-theories/
+template: blog-post.html
 title: What is "netgl" and how might it apply to my problem
 type: post
-template: blog-post.html
 ---
 At least a couple of the students in [a course](https://netgl.wordpress.com/) I help out with are struggling a little with [Assignment 2](https://netgl.wordpress.com/assessment/#assignment2) which asks them "to develop a theory-informed plan for using NGL to transform your teaching (very broadly defined) practice".
 
@@ -78,7 +78,7 @@ I might find that there's nothing in the TAFE/VET context that mentions TPACK in
 
 In my case, as someone with relatively high TPACK [I get really annoyed](/blog/2014/09/12/you-want-digitally-fluent-faculty/) when people think the main challenge is "low digital fluency of faculty" (i.e. teaching staff). This gets me thinking that perhaps the problem isn't going to be solved by focusing on developing the knowledge of teaching staff. i.e. requiring teaching staff to have formal teaching qualification isn't (I believe) going to solve the problem, so what is?
 
-[![You want digitally fluent faculty?](images/15025763858_58eea9f20c.jpg)](https://www.flickr.com/photos/david_jones/15025763858/ "You want digitally fluent faculty?")
+[![You want digitally fluent faculty?](https://djon.es/assets/blog/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/images/15025763858_58eea9f20c.jpg)](https://www.flickr.com/photos/david_jones/15025763858/ "You want digitally fluent faculty?")
 
 This is potentially interesting because a fair chunk of existing practice assumes that formal teaching qualifications or the "right" professional development opportunities will help teaching staff develop the right TPACK and thus university e-learning will be fantastic. Being able to mount a counter to a prevailing orthodoxy might be interesting and useful. It might make a contribution. It might also identify a fundamental misunderstanding of a problem and a need to read and consider further.
 

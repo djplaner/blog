@@ -1,52 +1,49 @@
----
+﻿---
 categories:
 - bim
 - elearning
 - paperideas
-date: 2010-03-25 09:11:07+10:00
+comments: []
+date: 2010-03-24 23:11:07
 next:
   text: '"From theory to intervention: Mapping theoretically derived behavioural determinants
     to behaviour change techniques"'
   url: /blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
+pingbacks:
+- approved: '1'
+  author: 'From theory to intervention: Mapping theoretically derived behavioural
+    determinants to behaviour change techniques &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.104.11
+  author_url: https://djon.es/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Limits in developing innovative pedagogy with Moodle: The story of&nbsp;BIM [...]'
+  date: '2010-03-25 14:19:55'
+  date_gmt: '2010-03-25 04:19:55'
+  id: '2986'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Inside out, Outside in or both? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.106
+  author_url: https://djon.es/blog/2010/04/25/inside-out-outside-in-or-both/
+  content: '[...] limits&#8230;.&#8221;. Rather than accepting that Moodle is &#8220;without
+    limits&#8221;, I argue that e-learning with Moodle, as currently practised, has
+    a number of limits and that progress can [...]'
+  date: '2010-04-25 12:41:18'
+  date_gmt: '2010-04-25 02:41:18'
+  id: '2987'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The suffocating straightjackets of liberating ideas
   url: /blog/2010/03/24/the-suffocating-straightjackets-of-liberating-ideas/
+template: blog-post.html
 title: '"Limits in developing innovative pedagogy with Moodle: The story of BIM"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'From theory to intervention: Mapping theoretically derived behavioural
-        determinants to behaviour change techniques &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.104.11
-      author_url: https://djon.es/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Limits in developing innovative pedagogy with Moodle: The story of&nbsp;BIM [...]'
-      date: '2010-03-25 14:19:55'
-      date_gmt: '2010-03-25 04:19:55'
-      id: '2986'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Inside out, Outside in or both? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.106
-      author_url: https://djon.es/blog/2010/04/25/inside-out-outside-in-or-both/
-      content: '[...] limits&#8230;.&#8221;. Rather than accepting that Moodle is &#8220;without
-        limits&#8221;, I argue that e-learning with Moodle, as currently practised, has
-        a number of limits and that progress can [...]'
-      date: '2010-04-25 12:41:18'
-      date_gmt: '2010-04-25 02:41:18'
-      id: '2987'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a presentation abstract that I've submitted to [MoodleMoot AU'2010](http://moodlemoot.org.au/). It's based on some ideas and thoughts expressed here previously. In particular, the main focus on the paper will be showing that the reason most university e-learning/teaching is not that great, is not really the fault of the academics. Instead it will argue that there are a range of limits within the higher education environment that are mostly to blame.
 

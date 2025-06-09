@@ -1,68 +1,65 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - irac
 - learninganalytics-elearning
-date: 2013-11-15 09:12:47+10:00
+comments: []
+date: 2013-11-14 23:12:47
 next:
   text: Approaches for literature analysis
   url: /blog/2013/11/15/approaches-for-literature-analysis/
+pingbacks:
+- approved: '1'
+  author: Examining diffusion and sustainability of e-learning strategies thorugh
+    weblog data | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.71
+  author_url: https://djon.es/blog/2013/11/19/examining-diffusion-and-sustainability-of-e-learning-strategies-thorugh-weblog-data/
+  content: '[&#8230;] The following is a summary and some thoughts on Lam et al (2010).
+    It&#8217;s a paper from the same authors/research from which I summarised an earlier
+    paper. [&#8230;]'
+  date: '2013-11-19 14:01:20'
+  date_gmt: '2013-11-19 04:01:20'
+  id: '905'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Evaluations of online learning activities based...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/ieduc/p/4011568971/2013/11/24/evaluations-of-online-learning-activities-based-on-lms-logs
+  content: '[&#8230;] The following is a summary and some thoughts on Lam et al (2012).
+    The abstract from the chapter isEffective record-keeping, and extraction and interpretation
+    of activity logs recorded in learning m...&nbsp; [&#8230;]'
+  date: '2013-11-25 06:39:45'
+  date_gmt: '2013-11-24 20:39:45'
+  id: '906'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Challenges in employing complex e-learning strategies in campus-based universities
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.26
+  author_url: https://djon.es/blog/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities/
+  content: '[&#8230;] The following is a summary of McNaught et al (2009). This is
+    one of three papers that from the same institution around the LMS that I&#8217;ve
+    looked at recently. [&#8230;]'
+  date: '2014-01-02 11:41:21'
+  date_gmt: '2014-01-02 01:41:21'
+  id: '907'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: On the limitations of learning design for improving learning and teaching
   url: /blog/2013/11/13/on-the-limitations-of-learning-design-for-improving-learning-and-teaching/
+template: blog-post.html
 title: Evaluations of online learning activities based on LMS logs
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Examining diffusion and sustainability of e-learning strategies thorugh
-        weblog data | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.71
-      author_url: https://djon.es/blog/2013/11/19/examining-diffusion-and-sustainability-of-e-learning-strategies-thorugh-weblog-data/
-      content: '[&#8230;] The following is a summary and some thoughts on Lam et al (2010).
-        It&#8217;s a paper from the same authors/research from which I summarised an earlier
-        paper. [&#8230;]'
-      date: '2013-11-19 14:01:20'
-      date_gmt: '2013-11-19 04:01:20'
-      id: '905'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Evaluations of online learning activities based...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/ieduc/p/4011568971/2013/11/24/evaluations-of-online-learning-activities-based-on-lms-logs
-      content: '[&#8230;] The following is a summary and some thoughts on Lam et al (2012).
-        The abstract from the chapter isEffective record-keeping, and extraction and interpretation
-        of activity logs recorded in learning m...&nbsp; [&#8230;]'
-      date: '2013-11-25 06:39:45'
-      date_gmt: '2013-11-24 20:39:45'
-      id: '906'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Challenges in employing complex e-learning strategies in campus-based universities
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.26
-      author_url: https://djon.es/blog/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities/
-      content: '[&#8230;] The following is a summary of McNaught et al (2009). This is
-        one of three papers that from the same institution around the LMS that I&#8217;ve
-        looked at recently. [&#8230;]'
-      date: '2014-01-02 11:41:21'
-      date_gmt: '2014-01-02 01:41:21'
-      id: '907'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary and some thoughts on Lam et al (2012). The abstract from the chapter is
 

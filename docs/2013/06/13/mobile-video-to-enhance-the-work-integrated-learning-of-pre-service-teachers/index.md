@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - edc3100
-date: 2013-06-13 13:13:19+10:00
+date: 2013-06-13 03:13:19
 next:
   text: Comparing Automatically Detected Reflective Texts with Human Judgements
   url: /blog/2013/06/19/comparing-automatically-detected-reflective-texts-with-human-judgements/
 previous:
   text: The kludge for marking learning journals
   url: /blog/2013/06/10/the-kludge-for-marking-learning-journals/
+template: blog-post.html
 title: Mobile video to enhance the Work Integrated Learning of pre-service teachers
 type: post
-template: blog-post.html
 ---
 Thanks to @palbion I'm having a chat this afternoon with Chris Dann from the University of Sunshine Coast about a project he's involved with. Trying to explore and establish if there are some potential synergies there. The following is a summary and some reactions to the paper that "started it all" (Dann and Allen, 2013). The abstract looks like it gives a good summary of the idea
 

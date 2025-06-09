@@ -1,96 +1,94 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - lmsreview
 - thesis
-date: 2009-03-12 11:31:00+10:00
+comments:
+- approved: '1'
+  author: adrianyarrow
+  author_email: adrian.yarrow@gmail.com
+  author_ip: 118.208.77.103
+  author_url: null
+  content: 'DJ,
+
+
+    Good post. Is this a small typo ...."Rather than recognise that the otherware
+    is inherently messy, will continue to be message..." should it be ..."will continue
+    to be messy...."?
+
+
+    Cheers,
+
+
+    Ado'
+  date: '2009-03-13 23:13:07'
+  date_gmt: '2009-03-13 13:13:07'
+  id: '2242'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Ado,
+
+
+    I''m surprised that''s the only one.  Fixed.  Thanks for letting me know.
+
+
+    Added a little extra.
+
+
+    David.'
+  date: '2009-03-14 10:50:06'
+  date_gmt: '2009-03-14 00:50:06'
+  id: '2243'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2009-03-12 01:31:00
 next:
   text: Another perspective for the indicators project
   url: /blog/2009/03/12/another-perspective-for-the-indicators-project/
+pingbacks:
+- approved: '1'
+  author: 'Comparing VLEs/LMS to the past: flaws and implications for development
+    models &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
+  content: '[...] For me this approach ignores the messiness of information systems.
+    [...]'
+  date: '2009-03-15 23:31:37'
+  date_gmt: '2009-03-15 13:31:37'
+  id: '2244'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Performance degradation - impact of new LMS implementation &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
+  content: '[...] ignoring the messiness of e-learning; [...]'
+  date: '2009-04-20 15:30:48'
+  date_gmt: '2009-04-20 05:30:48'
+  id: '2245'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Validity is subjective
   url: /blog/2009/03/11/validity-is-subjective/
+template: blog-post.html
 title: Messiness of information systems - another reason institutional e-learning
   struggles
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: adrianyarrow
-      author_email: adrian.yarrow@gmail.com
-      author_ip: 118.208.77.103
-      author_url: null
-      content: 'DJ,
-    
-    
-        Good post. Is this a small typo ...."Rather than recognise that the otherware
-        is inherently messy, will continue to be message..." should it be ..."will continue
-        to be messy...."?
-    
-    
-        Cheers,
-    
-    
-        Ado'
-      date: '2009-03-13 23:13:07'
-      date_gmt: '2009-03-13 13:13:07'
-      id: '2242'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Ado,
-    
-    
-        I''m surprised that''s the only one.  Fixed.  Thanks for letting me know.
-    
-    
-        Added a little extra.
-    
-    
-        David.'
-      date: '2009-03-14 10:50:06'
-      date_gmt: '2009-03-14 00:50:06'
-      id: '2243'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Comparing VLEs/LMS to the past: flaws and implications for development
-        models &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
-      content: '[...] For me this approach ignores the messiness of information systems.
-        [...]'
-      date: '2009-03-15 23:31:37'
-      date_gmt: '2009-03-15 13:31:37'
-      id: '2244'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Performance degradation - impact of new LMS implementation &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
-      content: '[...] ignoring the messiness of e-learning; [...]'
-      date: '2009-04-20 15:30:48'
-      date_gmt: '2009-04-20 05:30:48'
-      id: '2245'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 My current disciplinary home is within the [information systems community](http://home.aisnet.org/), which, not surprisingly, concerns itself with research and practice around information systems. This begs the question, "What is an information system?". This post provides one answer to this question and in doing so suggests another reason why most institutional, university-based e-learning implementations enjoy less than stellar success. Of course, it's not limited to just e-learning, but that's what my focus is.
 
@@ -98,7 +96,7 @@ My current disciplinary home is within the [information systems community](http:
 
 DuPlooy (2003) describes an information system as consisting of three subsystems: the hardware, software and “otherware” and uses the following figure to represent their relationship.
 
-[![Neat representation of an information system](images/3347386807_5b44918371_m.jpg)](http://www.flickr.com/photos/david_jones/3347386807/ "Neat representation of an information system by David T Jones, on Flickr")
+[![Neat representation of an information system](https://djon.es/assets/blog/2009/03/12/messiness-of-information-systems-another-reason-institutional-e-learning-struggles/images/3347386807_5b44918371_m.jpg)](http://www.flickr.com/photos/david_jones/3347386807/ "Neat representation of an information system by David T Jones, on Flickr")
 
 The hardware component is the computer hardware, the processing units, printers, network equipment, monitors etc. The software component, as you may expect, are the software applications that make use of the hardware to help users of the system to perform various tasks. “Otherware” is defined as including the system’s goals, the owner, users, operational procedures, and the tasks and responsibilities of the people involved.
 
@@ -106,7 +104,7 @@ DuPlooy (2003) makes the point that the hardware and software components are det
 
 Given this fundamental difference in the nature of otherware when compared to the other two components, I believe DuPlooy's (2003) representation is somewhat less than effective. I suggest the following representation is more appropriate.
 
-[![Modified representation of an information system](images/3347373415_e9ba64810c_m.jpg)](http://www.flickr.com/photos/david_jones/3347373415/ "Modified representation of an information system by David T Jones, on Flickr")
+[![Modified representation of an information system](https://djon.es/assets/blog/2009/03/12/messiness-of-information-systems-another-reason-institutional-e-learning-struggles/images/3347373415_e9ba64810c_m.jpg)](http://www.flickr.com/photos/david_jones/3347373415/ "Modified representation of an information system by David T Jones, on Flickr")
 
 This better captures the messy, non-deterministic nature of otherware. It illustrates that otherware is different, that it can't be treated the same as software and hardware.
 

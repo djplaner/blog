@@ -1,21 +1,21 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - thesis
-date: 2009-03-05 10:17:10+10:00
+date: 2009-03-05 00:17:10
 next:
   text: The IRIS model of Technology Adoption - neat and incomplete?
   url: /blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
 previous:
   text: The insanity of changing LMSes/VLEs
   url: /blog/2009/03/04/the-insanity-of-changing-lmsesvles/
+template: blog-post.html
 title: Place - the industrial society's impact on schools - and universities?
 type: post
-template: blog-post.html
 ---
-[![The Ps Framework: a messy version](images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/ "The Ps Framework: a messy version by David T Jones, on Flickr")
+[![The Ps Framework: a messy version](https://djon.es/assets/blog/2009/03/05/place-the-industrial-societys-impact-on-schools-and-universities/images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/ "The Ps Framework: a messy version by David T Jones, on Flickr")
 
 The intent of the [Ps Framework](/blog/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/) is to help identify and lightly organise the different components, and the different perspectives of those components, that impact the practice of e-learning within universities. Arguably they could be applied to learning and teaching in general, but the focus of this work is e-learning, so I limit it to that.
 
@@ -48,7 +48,7 @@ In the following video, [Alvin Toffler](http://en.wikipedia.org/wiki/Alvin_Toffl
 
 There have been changes in the "Place" in which universities operate that bring into serious questions the validity of many of its existing practices.
 
-\[youtube=http://www.youtube.com/watch?v=04AhBnLk1-s\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/04AhBnLk1-s?si=L4Cndnc-iBYk_gjx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Other changes in place impacting upon universities
 

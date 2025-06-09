@@ -1,55 +1,52 @@
----
+﻿---
 categories:
 - elearning
 - learninganalytics-elearning
-date: 2012-07-15 13:33:24+10:00
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 118.208.39.18
+  author_url: null
+  content: 'I also suspect that Australian universities are among the most "managerialised"
+    institutions and this has lead to a (perhaps) unhealthy focus on performance indicators
+    and metrics. Being a "glass half full" person I would say that analytics can capitalize
+    on this situation in a number of ways.
+
+
+    Namely:
+
+    * Analytics appeals to the managerial mindset as it provides indicators of what
+    is transpiring within online learning environments. Yes, there are some bad elements
+    to this such as assumptions of causality etcetera that will need to be closely
+    watched but it could also make it easier to implement analytics based projects
+    through its attraction to management.
+
+    * Analytics can potentially provide "coalface" academics with contextual knowledge
+    that can be used to promote improved practices.
+
+    * Perhaps a spinoff effect is that analytics can be used to provide management
+    with a better understanding of the complexity within online learning environments.
+    So while we have spoken at length about how analytics can contribute to "coalface"
+    L&amp;T change, perhaps there is an opportunity to contribute to managerialistic
+    mindset change?'
+  date: '2012-07-21 08:56:38'
+  date_gmt: '2012-07-20 22:56:38'
+  id: '400'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-07-15 03:33:24
 next:
   text: Starting the re-design of EDC3100
   url: /blog/2012/07/20/starting-the-re-design-of-edc3100/
+pingbacks: []
 previous:
   text: Redesigning the weekly ramble
   url: /blog/2012/07/15/redesigning-the-weekly-ramble/
+template: blog-post.html
 title: Is there a link between managerialisation and learning analytics?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 118.208.39.18
-      author_url: null
-      content: 'I also suspect that Australian universities are among the most "managerialised"
-        institutions and this has lead to a (perhaps) unhealthy focus on performance indicators
-        and metrics. Being a "glass half full" person I would say that analytics can capitalize
-        on this situation in a number of ways.
-    
-    
-        Namely:
-    
-        * Analytics appeals to the managerial mindset as it provides indicators of what
-        is transpiring within online learning environments. Yes, there are some bad elements
-        to this such as assumptions of causality etcetera that will need to be closely
-        watched but it could also make it easier to implement analytics based projects
-        through its attraction to management.
-    
-        * Analytics can potentially provide "coalface" academics with contextual knowledge
-        that can be used to promote improved practices.
-    
-        * Perhaps a spinoff effect is that analytics can be used to provide management
-        with a better understanding of the complexity within online learning environments.
-        So while we have spoken at length about how analytics can contribute to "coalface"
-        L&amp;T change, perhaps there is an opportunity to contribute to managerialistic
-        mindset change?'
-      date: '2012-07-21 08:56:38'
-      date_gmt: '2012-07-20 22:56:38'
-      id: '400'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Another task for today is to put some finishing touches on an application for [an OLT grant](http://www.olt.gov.au/grantsandprojects) around learning analytics. The project - some early [thinking shown here](/blog/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/) - is coming together nicely, but could always be better. Some good feedback from [Rob Phillips](http://www.tlc.murdoch.edu.au/staff/phillips/homepage.html) reminded me about what the [Horizon Report for Australian Tertiary Education](http://www.nmc.org/publications/2012-technology-outlook-au) (Johnson et al, 2012, p. 1) has to say about analytics in Oz higher ed
 

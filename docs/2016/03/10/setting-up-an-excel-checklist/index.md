@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - edc3100
-date: 2016-03-10 17:30:02+10:00
+comments: []
+date: 2016-03-10 07:30:02
 next:
   text: Early analysis of Moodle data
   url: /blog/2016/03/18/early-analysis-of-moodle-data/
+pingbacks:
+- approved: '1'
+  author: Setting up the analysis of student submissions &#8211; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.113.171
+  author_url: https://davidtjones.wordpress.com/2016/03/29/setting-up-the-analysis-of-student-submissions/
+  content: '[&#8230;] couple of weeks ago I wrote this post outlining the design of
+    an Excel spreadsheet EDC3100 students were asked to use for their first [&#8230;]'
+  date: '2016-03-29 14:33:05'
+  date_gmt: '2016-03-29 04:33:05'
+  id: '3325'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Planning changes to EDC3100 assignment 1 &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.83.191
+  author_url: https://davidtjones.wordpress.com/2016/07/13/planning-changes-to-edc3100-assignment-1/
+  content: '[&#8230;] the first half of the year there was a new assignment in EDC3100
+    designed to both enhance student learning, but also experiment with making the
+    data [&#8230;]'
+  date: '2016-07-13 13:19:31'
+  date_gmt: '2016-07-13 03:19:31'
+  id: '3326'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Using resources appropriately
   url: /blog/2016/03/06/using-resources-appropriately/
+template: blog-post.html
 title: Setting up an Excel checklist
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Setting up the analysis of student submissions &#8211; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.113.171
-      author_url: https://davidtjones.wordpress.com/2016/03/29/setting-up-the-analysis-of-student-submissions/
-      content: '[&#8230;] couple of weeks ago I wrote this post outlining the design of
-        an Excel spreadsheet EDC3100 students were asked to use for their first [&#8230;]'
-      date: '2016-03-29 14:33:05'
-      date_gmt: '2016-03-29 04:33:05'
-      id: '3325'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Planning changes to EDC3100 assignment 1 &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.83.191
-      author_url: https://davidtjones.wordpress.com/2016/07/13/planning-changes-to-edc3100-assignment-1/
-      content: '[&#8230;] the first half of the year there was a new assignment in EDC3100
-        designed to both enhance student learning, but also experiment with making the
-        data [&#8230;]'
-      date: '2016-07-13 13:19:31'
-      date_gmt: '2016-07-13 03:19:31'
-      id: '3326'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 For a brand new first assignment for EDC3100 the students are being asked to find a lesson plan that uses digital technologies to enhance learning (ICT and Pedagogy), and evaluate it against a checklist. The following documents my explorations about how to set up this checklist.
 

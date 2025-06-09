@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2015-03-23 10:07:14+10:00
+date: 2015-03-23 00:07:14
 next:
   text: Embedding prezi - some tests
   url: /blog/2015/03/24/embedding-prezi-some-tests/
@@ -10,9 +10,9 @@ previous:
   url: /blog/2015/03/04/what-do-you-do-with-twitter/
 tags:
 - edc3100
+template: blog-post.html
 title: Ways to raise visiblity of unit planning
 type: post
-template: blog-post.html
 ---
 The second assignment for [the course](http://www.usq.edu.au/course/synopses/2014/EDC3100.html) I'm currently teaching has a second assignment where learners are required to design a unit plan that uses ICT to amplify and transform student learning. Given the nature of the learners, their backgrounds,and the curriclum most use there is some significant scope and benefit in collaboration. Not as in group work, but as in seeing what each other are doing, making comments, and drawing inspiration. The following is an attempt to figure out how to encourage this a bit more. (There are 300+ of them spread throughout Australia and a few sprinkled further afield).
 

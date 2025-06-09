@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - react
 - react2008
-date: 2008-09-19 14:22:32+10:00
+comments:
+- approved: '1'
+  author: Tony Bowes
+  author_email: vrbones@gmail.com
+  author_ip: 150.101.181.34
+  author_url: null
+  content: I'm a procrastonist. I research how much stress is required to make me
+    actually do research.
+  date: '2008-09-19 14:54:21'
+  date_gmt: '2008-09-19 04:54:21'
+  id: '1602'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-09-19 04:22:32
 next:
   text: What underpins student-centered education
   url: /blog/2008/09/24/what-underpins-student-centered-education/
+pingbacks: []
 previous:
   text: What should a LMS evaluation consider?
   url: /blog/2008/09/14/what-should-a-lms-evaluation-consider/
+template: blog-post.html
 title: What is research?  How do you do it?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Tony Bowes
-      author_email: vrbones@gmail.com
-      author_ip: 150.101.181.34
-      author_url: null
-      content: I'm a procrastonist. I research how much stress is required to make me
-        actually do research.
-      date: '2008-09-19 14:54:21'
-      date_gmt: '2008-09-19 04:54:21'
-      id: '1602'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 A [previous post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=206) announced that a group of folk at [CQUniversity](http://www.cqu.edu.au) are about to embark on a [project/exercise](http://cddu.cqu.edu.au/index.php/Writers_Workshop) with the aim of helping people develop ideas for research and turn them into publications.
 

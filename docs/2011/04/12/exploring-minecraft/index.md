@@ -1,139 +1,136 @@
----
+﻿---
 categories:
 - eded20491
 - games
 - teaching
-date: 2011-04-12 21:46:00+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.19.182
+  author_url: http://www.vrbones.com
+  content: 'I''ve broached the subject with my former IT guys that we need a Minecraft
+    server, but I''m still hesitant in setting up a space where griefing is part and
+    parcel of the game. If it''s only used within a class environment, or under supervision
+    it''s fine, but dealing with defacement when you have no way of knowing who did
+    what is a real cause for concern. I know in year 1 and 2 you can talk about those
+    issues and deal with them in a moderately secure environment, but i can see my
+    year 8''s abusing the efforts of others just for the kicks. Heck, we even have
+    problems with griefing in our own LANs amongst adults ...
+
+
+    That said, a probability / economy unit might be cool. Use probability to estimate
+    how often you can find coal / steel / gold / diamond. Use statistics to collect
+    data on time between sightings (of fresh seams) and quantity. Use these facets
+    to set up a baseline bartering system. Compare this bartering system to traditional
+    bartering systems. Discuss the value of coal initially compared to mid-game when
+    torches are abundant.  Discuss how the value of a product is directly linked to
+    its supply and demand. Choose a material to use as a base for a monetary system
+    (probably gold). Try an alternate system where saplings are the base monetary
+    unit (money literally growing on trees) and cover the value of investment (planting
+    instead of spending).
+
+
+    I think the time pressures would make it more amenable to primary school where
+    you have the opportunity to hit multiple KLA''s in one unit rather than attempting
+    to justify the whole experience just for the maths.'
+  date: '2011-04-15 00:57:31'
+  date_gmt: '2011-04-14 14:57:31'
+  id: '44'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'On the griefing question, I had wondered about the idea of not using a
+    school server. But lots of stand-alone versions of the same World created by the
+    teacher (for a specific purpose).  Have two or three students around a computer.  Assuming
+    you can create and distributed worlds to stand alone versions.
+
+
+    In the assignment post, I mentioned the idea of having an entire Year 8 class
+    use Minecraft throughout. In part to justify the workload, but it just reduces
+    a bit. A cross-curricula activity might be better, but would, I imagine, bring
+    its own problems.
+
+
+    As I said in the assignment, all of these ideas are somewhat flawed simply due
+    to my limited to complete lack of knowledge about the context and what really
+    works.
+
+
+    Time will tell.'
+  date: '2011-04-15 15:49:54'
+  date_gmt: '2011-04-15 05:49:54'
+  id: '45'
+  parent: '44'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Nadia Merchant (@nadiavoodoo)
+  author_email: nadiavoodoo@twitter.example.com
+  author_ip: 203.82.99.170
+  author_url: http://twitter.com/nadiavoodoo
+  content: Hey, I'd be interested to hear what you have learnt over the last 4 months.
+    What have been the highs and lows of using minecraft in the classroom. Enjoyable
+    post thanks.
+  date: '2011-08-31 14:22:49'
+  date_gmt: '2011-08-31 04:22:49'
+  id: '46'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 123.211.17.86
+  author_url: https://djon.es/blog/
+  content: 'G''day Nadia,
+
+
+    I''m sorry to report that I fall into the category that @deangroom refers to as
+    "talking about it, rather than doing it".  i.e. I haven''t used Minecraft in the
+    classroom.
+
+
+    Mainly because I''m a student teacher. My classroom time is within classes run
+    by a mentor teacher that typically have an established culture/routine. And none
+    of the ones I''ve experienced have the space for trying out minecraft.
+
+
+    I must also admit that my novice stature as a teacher also gives me pause, especially
+    when confronted by the pull of curriculum, testing etc of school.
+
+
+    I did use it as an example as a small part in one classroom and got quite excited
+    reactions from the students. Quickly killed by moving onto more traditional approaches.
+
+
+    So sorry, nothing interesting to report. Just more talk, but who knows what next
+    year holds.
+
+
+    David.'
+  date: '2011-09-02 07:40:08'
+  date_gmt: '2011-09-01 21:40:08'
+  id: '47'
+  parent: '46'
+  type: comment
+  user_id: '1'
+date: 2011-04-12 11:46:00
 next:
   text: Safe, legal and ethical practice for ICTs in schools
   url: /blog/2011/04/13/safe-legal-and-ethical-practice-for-icts-in-schools/
+pingbacks: []
 previous:
   text: Group 4 Technologies - Activities
   url: /blog/2011/04/12/group-4-technologies-activities/
+template: blog-post.html
 title: Exploring minecraft
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.19.182
-      author_url: http://www.vrbones.com
-      content: 'I''ve broached the subject with my former IT guys that we need a Minecraft
-        server, but I''m still hesitant in setting up a space where griefing is part and
-        parcel of the game. If it''s only used within a class environment, or under supervision
-        it''s fine, but dealing with defacement when you have no way of knowing who did
-        what is a real cause for concern. I know in year 1 and 2 you can talk about those
-        issues and deal with them in a moderately secure environment, but i can see my
-        year 8''s abusing the efforts of others just for the kicks. Heck, we even have
-        problems with griefing in our own LANs amongst adults ...
-    
-    
-        That said, a probability / economy unit might be cool. Use probability to estimate
-        how often you can find coal / steel / gold / diamond. Use statistics to collect
-        data on time between sightings (of fresh seams) and quantity. Use these facets
-        to set up a baseline bartering system. Compare this bartering system to traditional
-        bartering systems. Discuss the value of coal initially compared to mid-game when
-        torches are abundant.  Discuss how the value of a product is directly linked to
-        its supply and demand. Choose a material to use as a base for a monetary system
-        (probably gold). Try an alternate system where saplings are the base monetary
-        unit (money literally growing on trees) and cover the value of investment (planting
-        instead of spending).
-    
-    
-        I think the time pressures would make it more amenable to primary school where
-        you have the opportunity to hit multiple KLA''s in one unit rather than attempting
-        to justify the whole experience just for the maths.'
-      date: '2011-04-15 00:57:31'
-      date_gmt: '2011-04-14 14:57:31'
-      id: '44'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'On the griefing question, I had wondered about the idea of not using a
-        school server. But lots of stand-alone versions of the same World created by the
-        teacher (for a specific purpose).  Have two or three students around a computer.  Assuming
-        you can create and distributed worlds to stand alone versions.
-    
-    
-        In the assignment post, I mentioned the idea of having an entire Year 8 class
-        use Minecraft throughout. In part to justify the workload, but it just reduces
-        a bit. A cross-curricula activity might be better, but would, I imagine, bring
-        its own problems.
-    
-    
-        As I said in the assignment, all of these ideas are somewhat flawed simply due
-        to my limited to complete lack of knowledge about the context and what really
-        works.
-    
-    
-        Time will tell.'
-      date: '2011-04-15 15:49:54'
-      date_gmt: '2011-04-15 05:49:54'
-      id: '45'
-      parent: '44'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Nadia Merchant (@nadiavoodoo)
-      author_email: nadiavoodoo@twitter.example.com
-      author_ip: 203.82.99.170
-      author_url: http://twitter.com/nadiavoodoo
-      content: Hey, I'd be interested to hear what you have learnt over the last 4 months.
-        What have been the highs and lows of using minecraft in the classroom. Enjoyable
-        post thanks.
-      date: '2011-08-31 14:22:49'
-      date_gmt: '2011-08-31 04:22:49'
-      id: '46'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 123.211.17.86
-      author_url: https://djon.es/blog/
-      content: 'G''day Nadia,
-    
-    
-        I''m sorry to report that I fall into the category that @deangroom refers to as
-        "talking about it, rather than doing it".  i.e. I haven''t used Minecraft in the
-        classroom.
-    
-    
-        Mainly because I''m a student teacher. My classroom time is within classes run
-        by a mentor teacher that typically have an established culture/routine. And none
-        of the ones I''ve experienced have the space for trying out minecraft.
-    
-    
-        I must also admit that my novice stature as a teacher also gives me pause, especially
-        when confronted by the pull of curriculum, testing etc of school.
-    
-    
-        I did use it as an example as a small part in one classroom and got quite excited
-        reactions from the students. Quickly killed by moving onto more traditional approaches.
-    
-    
-        So sorry, nothing interesting to report. Just more talk, but who knows what next
-        year holds.
-    
-    
-        David.'
-      date: '2011-09-02 07:40:08'
-      date_gmt: '2011-09-01 21:40:08'
-      id: '47'
-      parent: '46'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 > **Update/recommendation:** The following may be helpful for some, but it has it's limitations. For example, in terms of coming up with L&T applications for Minecraft I was constrained by my limited knowledge of Minecraft, and even worse, a limited view of L&T. For a broader view I suggest reading about and engaging with [Massively Minecraft](http://deangroom.wordpress.com/2011/06/20/welcome-to-massively-minecraft/). You have to be in it to learn it.
 
@@ -167,7 +164,7 @@ It's a game. According to [the Minecraft Wiki](http://www.minecraftwiki.net/wiki
 
 The following video is shown on the Minecraft home page and gives some feel for the interface, variety of the world and the intent of finding resources and using them to build.
 
-\[youtube=http://www.youtube.com/watch?v=m\_yqOoUMHPg\]
+!!! warning "Video no longer available"
 
 ### Getting started - the purchase
 
@@ -232,7 +229,7 @@ Not to mention some of the comments on the post that are from students "wish i h
 
 The sheer openness of the possibilities is perhaps one of the major advantages of the game, possibly also one of the major challenges. There are folk who have built 1:1 models of the Enterprise or the following video that shows someone who has built an Arithmetic Logic Unit (the component of a computer that performs arithmetic).
 
-http://www.youtube.com/watch?v=LGkkyKZVzug
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LGkkyKZVzug?si=IklSfNj1I3c2p8eP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This is one of the major advantages of the game, as [described here](http://www.oredigger.net/lifestyle/6-lifestyle/1554-minecraft-the-perfect-learning-experience-or-just-another-delightful-time-waster.html)
 

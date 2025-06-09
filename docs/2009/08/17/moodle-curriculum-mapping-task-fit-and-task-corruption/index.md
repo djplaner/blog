@@ -1,65 +1,62 @@
----
-date: 2009-08-17 10:48:54+10:00
+﻿---
+comments: []
+date: 2009-08-17 00:48:54
 next:
   text: Lessons for e-learning from people
   url: /blog/2009/08/17/lessons-for-e-learning-from-people/
+pingbacks:
+- approved: '1'
+  author: Curriculum mapping, process, technology and higher education &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.208
+  author_url: https://djon.es/blog/2009/09/01/curriculum-mapping-process-technology-and-higher-education/
+  content: '[...] has been the absence of any support or processes around curriculum
+    mapping. I&#8217;ve written briefly about this before, but now I have to produce
+    a report with some background and [...]'
+  date: '2009-09-01 15:32:26'
+  date_gmt: '2009-09-01 05:32:26'
+  id: '2718'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Questions about alternatives to curriculum mapping &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.248.141
+  author_url: https://djon.es/blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
+  content: '[...] explanation of a bottom-up approach to curriculum mapping, rather
+    than the traditional [...]'
+  date: '2010-01-19 13:19:45'
+  date_gmt: '2010-01-19 03:19:45'
+  id: '2719'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Loosing weight, nudging and changing the L&amp;T environment &#8211; early
+    foundations of my work &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.181
+  author_url: https://djon.es/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
+  content: '[...] up curriculum mappingI&#8217;ve been thinking about a bottom up
+    approach to curriculum mapping. My main interest is how to modify slightly existing
+    practice to develop [...]'
+  date: '2010-02-03 11:46:47'
+  date_gmt: '2010-02-03 01:46:47'
+  id: '2720'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BIM #4: Re-jigging how BIM works'
   url: /blog/2009/08/17/bim-4-re-jigging-how-bim-works/
 tags:
 - moodle-curriculummapping
+template: blog-post.html
 title: Moodle, curriculum mapping, task fit and task corruption
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Curriculum mapping, process, technology and higher education &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.208
-      author_url: https://djon.es/blog/2009/09/01/curriculum-mapping-process-technology-and-higher-education/
-      content: '[...] has been the absence of any support or processes around curriculum
-        mapping. I&#8217;ve written briefly about this before, but now I have to produce
-        a report with some background and [...]'
-      date: '2009-09-01 15:32:26'
-      date_gmt: '2009-09-01 05:32:26'
-      id: '2718'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Questions about alternatives to curriculum mapping &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.248.141
-      author_url: https://djon.es/blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
-      content: '[...] explanation of a bottom-up approach to curriculum mapping, rather
-        than the traditional [...]'
-      date: '2010-01-19 13:19:45'
-      date_gmt: '2010-01-19 03:19:45'
-      id: '2719'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Loosing weight, nudging and changing the L&amp;T environment &#8211; early
-        foundations of my work &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.181
-      author_url: https://djon.es/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
-      content: '[...] up curriculum mappingI&#8217;ve been thinking about a bottom up
-        approach to curriculum mapping. My main interest is how to modify slightly existing
-        practice to develop [...]'
-      date: '2010-02-03 11:46:47'
-      date_gmt: '2010-02-03 01:46:47'
-      id: '2720'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm involved in some early discussions with some folk from the Psychology department here at [CQUniversity](http://www.cqu.edu.au/) about a project looking at curriculum mapping. If I've got any idea of their problem, it's associated with the need to show their students, themselves and the accrediting bodies how the activities, resources and assessments of the courses within they degree meet the outcomes for the courses and the program.
 
@@ -146,7 +143,7 @@ My organisation already has the program and course outcomes in a database. We al
 
 It is my understanding that the update form for most resources/activities in Moodle will include a "Common module settings" box like that shown in the following image. See the box near the bottom of the page with the title "Common module settings"
 
-[![Simple moodle "update" form](images/3827709349_a817a05475_m.jpg)](http://www.flickr.com/photos/david_jones/3827709349/ "Simple moodle \"update\" form by David T Jones, on Flickr")
+[![Simple moodle "update" form](https://djon.es/assets/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/images/3827709349_a817a05475_m.jpg)](http://www.flickr.com/photos/david_jones/3827709349/ "Simple moodle \"update\" form by David T Jones, on Flickr")
 
 So, given that (generally) when an academic is updating a resource/activity they are working within a particular course and that we've already entered into a database the course and program outcomes that are associated with the course. It shouldn't be too hard to add a "Course/program outcomes" section to every update form. This section would include a list of all the relevant program and course outcomes.
 

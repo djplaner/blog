@@ -1,73 +1,71 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - thesis
-date: 2007-09-03 12:22:17+10:00
+comments:
+- approved: '1'
+  author: Kathleen Gray
+  author_email: kgray@unimelb.edu.au
+  author_ip: 128.250.6.243
+  author_url: null
+  content: "Hi David.\n\nI agree with your views about the inherent limitations of\
+    \ the modeller-broker \u2013 it seems such a \u2018nice\u2019 way to do things,\
+    \ but can lacks the leaderly dimension where it\u2019s most needed.\n\nI wonder\
+    \ how valid it is to base your argument on Geohagen?  Much has happened with web\
+    \ technology, in society and in education, since he made the statements that you\
+    \ quote.  I think a lot has changed in the past 10 years, actually.\n\nAnd \u201C\
+    performance of previous practice with a different type of tool\u201D is not exactly\
+    \ apt, I think  \u2013 technology does bring cultural changes, some of which we\
+    \ want \u2013 if what we seek is transformation, maybe it can be rendered in \u2018\
+    small pieces, loosely joined\u2019?\n\nI noted that G\u2019s statements mingle\
+    \ / confound different aspects of adoption:\nnot being integrated into the teaching\
+    \ and learning process nearly as much  - quantity\nhave been slow to propagate\
+    \ - speed\nhave by no means brought about the technologically inspired revolution\
+    \ in teaching and learning \u2013 innovation\n\nThis brought to my mind the LMS\
+    \ Global Consortium\u2019s efforts to get beyond the \u2018how we made it work\
+    \ at our place\u2019 discourse about e-learning.  I\u2019m not sure if you\u2019\
+    re familiar with their emphasis on \u201Cimpact\u201D (in my view a loaded term,\
+    \ but at least capturing some measure of reflection on effort and learning from\
+    \ experience) \u2013 their criteria for annual awards for \u2018learning impact\u2019\
+    \ try to distinguish among:\naccess\naffordability\nquality\nadoption\naccountability\n\
+    organisational learning\ninteroperability\ninnovation\nhttp://www.imsglobal.org/learningimpact2007/li2007reportExecutive.pdf\n\
+    \nI\u2019d be interested on your thoughts about how your own usage of these terms\
+    \ maps onto theirs, which one could say is an industry standard of usage...\n\n\
+    Is the desire to have \u2018learning impact\u2019 consonant with supporting /\
+    \ doing the development of elearning a-teleologically do you think?\n\nWould you\
+    \ characterise the LMSGC\u2019s stance toward the development of elearning as\
+    \ totally teleological or a mix of tele and a-tele?\n\nCheers\nKathleen"
+  date: '2007-09-04 10:00:16'
+  date_gmt: '2007-09-04 00:00:16'
+  id: '1566'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2007-09-03 02:22:17
 next:
   text: Carrick, Web3D and Sustainability
   url: /blog/2007/09/04/carrick-web3d-and-sustainability/
+pingbacks:
+- approved: '1'
+  author: What can history tell us about e-learning and its future? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+  content: '[...] Moore&#8217;s instructional technology chasm [...]'
+  date: '2009-06-18 10:50:11'
+  date_gmt: '2009-06-18 00:50:11'
+  id: '1567'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Technology scan - CQU and e-learning
   url: /blog/2007/08/31/technology-scan-cqu-and-e-learning/
+template: blog-post.html
 title: Why "modeller-broker" orientation is inherently limited - bridging the gap
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Kathleen Gray
-      author_email: kgray@unimelb.edu.au
-      author_ip: 128.250.6.243
-      author_url: null
-      content: "Hi David.\n\nI agree with your views about the inherent limitations of\
-        \ the modeller-broker \u2013 it seems such a \u2018nice\u2019 way to do things,\
-        \ but can lacks the leaderly dimension where it\u2019s most needed.\n\nI wonder\
-        \ how valid it is to base your argument on Geohagen?  Much has happened with web\
-        \ technology, in society and in education, since he made the statements that you\
-        \ quote.  I think a lot has changed in the past 10 years, actually.\n\nAnd \u201C\
-        performance of previous practice with a different type of tool\u201D is not exactly\
-        \ apt, I think  \u2013 technology does bring cultural changes, some of which we\
-        \ want \u2013 if what we seek is transformation, maybe it can be rendered in \u2018\
-        small pieces, loosely joined\u2019?\n\nI noted that G\u2019s statements mingle\
-        \ / confound different aspects of adoption:\nnot being integrated into the teaching\
-        \ and learning process nearly as much  - quantity\nhave been slow to propagate\
-        \ - speed\nhave by no means brought about the technologically inspired revolution\
-        \ in teaching and learning \u2013 innovation\n\nThis brought to my mind the LMS\
-        \ Global Consortium\u2019s efforts to get beyond the \u2018how we made it work\
-        \ at our place\u2019 discourse about e-learning.  I\u2019m not sure if you\u2019\
-        re familiar with their emphasis on \u201Cimpact\u201D (in my view a loaded term,\
-        \ but at least capturing some measure of reflection on effort and learning from\
-        \ experience) \u2013 their criteria for annual awards for \u2018learning impact\u2019\
-        \ try to distinguish among:\naccess\naffordability\nquality\nadoption\naccountability\n\
-        organisational learning\ninteroperability\ninnovation\nhttp://www.imsglobal.org/learningimpact2007/li2007reportExecutive.pdf\n\
-        \nI\u2019d be interested on your thoughts about how your own usage of these terms\
-        \ maps onto theirs, which one could say is an industry standard of usage...\n\n\
-        Is the desire to have \u2018learning impact\u2019 consonant with supporting /\
-        \ doing the development of elearning a-teleologically do you think?\n\nWould you\
-        \ characterise the LMSGC\u2019s stance toward the development of elearning as\
-        \ totally teleological or a mix of tele and a-tele?\n\nCheers\nKathleen"
-      date: '2007-09-04 10:00:16'
-      date_gmt: '2007-09-04 00:00:16'
-      id: '1566'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: What can history tell us about e-learning and its future? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
-      content: '[...] Moore&#8217;s instructional technology chasm [...]'
-      date: '2009-06-18 10:50:11'
-      date_gmt: '2009-06-18 00:50:11'
-      id: '1567'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 ### The modeller-broker orientation
 

@@ -1,68 +1,66 @@
----
+﻿---
 categories:
 - elearning
 - learninganalytics-elearning
-date: 2013-08-12 11:44:50+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 58.106.134.252
+  author_url: http://cj13.wordpress.com/
+  content: Ah. Here is the trick. I need to make myself "tool X" compatible. No matter
+    what it takes!
+  date: '2013-08-12 11:48:57'
+  date_gmt: '2013-08-12 01:48:57'
+  id: '817'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Maurice A. Barry
+  author_email: maurice.a.barry@gmail.com
+  author_ip: 47.54.209.81
+  author_url: http://mauriceabarry.wordpress.com
+  content: Hi there David, I hear you! I can also chime in with the fact that I do
+    wish that LMSs would give me the achievement data that I have to go after manually.
+    Every term (and we have four) I have to get our programmer to scrape out a csv
+    containing student data (including achievement) and then spend the better part
+    of a day with either Excel (pivot tables are amazing for my uses) or SPSS to get
+    what I want. And it's not that what I want is so complex, really. It's just time
+    consuming when you work with non-native data.
+  date: '2013-08-12 22:12:15'
+  date_gmt: '2013-08-12 12:12:15'
+  id: '818'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2013-08-12 01:44:50
 next:
   text: Aligning learning analytics with learning design
   url: /blog/2013/08/14/aligning-learning-analytics-with-learning-design/
+pingbacks:
+- approved: '1'
+  author: Useful &#8220;analytics&#8221; &#8211; Faces as an example | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.232.112.42
+  author_url: https://djon.es/blog/2013/09/06/useful-analytics-faces-as-an-example/
+  content: '[&#8230;] time universities (and others) are currently investing in learning
+    analytics in a blog post titled Bugger analytics, just give me useful information.
+    My reservation is that the learning designers, data scientists, commercial software
+    vendors, [&#8230;]'
+  date: '2013-09-06 09:28:20'
+  date_gmt: '2013-09-05 23:28:20'
+  id: '819'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Statistics in Education - Week 1
   url: /blog/2013/08/10/statistics-in-education-week-1/
+template: blog-post.html
 title: Bugger analytics, just give me useful information
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 58.106.134.252
-      author_url: http://cj13.wordpress.com/
-      content: Ah. Here is the trick. I need to make myself "tool X" compatible. No matter
-        what it takes!
-      date: '2013-08-12 11:48:57'
-      date_gmt: '2013-08-12 01:48:57'
-      id: '817'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Maurice A. Barry
-      author_email: maurice.a.barry@gmail.com
-      author_ip: 47.54.209.81
-      author_url: http://mauriceabarry.wordpress.com
-      content: Hi there David, I hear you! I can also chime in with the fact that I do
-        wish that LMSs would give me the achievement data that I have to go after manually.
-        Every term (and we have four) I have to get our programmer to scrape out a csv
-        containing student data (including achievement) and then spend the better part
-        of a day with either Excel (pivot tables are amazing for my uses) or SPSS to get
-        what I want. And it's not that what I want is so complex, really. It's just time
-        consuming when you work with non-native data.
-      date: '2013-08-12 22:12:15'
-      date_gmt: '2013-08-12 12:12:15'
-      id: '818'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Useful &#8220;analytics&#8221; &#8211; Faces as an example | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.232.112.42
-      author_url: https://djon.es/blog/2013/09/06/useful-analytics-faces-as-an-example/
-      content: '[&#8230;] time universities (and others) are currently investing in learning
-        analytics in a blog post titled Bugger analytics, just give me useful information.
-        My reservation is that the learning designers, data scientists, commercial software
-        vendors, [&#8230;]'
-      date: '2013-09-06 09:28:20'
-      date_gmt: '2013-09-05 23:28:20'
-      id: '819'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In a a [prior post](/blog/2013/08/02/learning-analytics-what-is-the-end-in-mind/) I wondered about the "end in mind" for university analytics projects. What follows outlines why I'm skeptical of such projects.
 
@@ -76,7 +74,7 @@ This morning I'd like to get a list of students in my course sorted by the date 
 
 At my previous institution, I could not only get this information, I could also then contact students based on the date they enrolled. As per the following image.
 
-[![Class list by enrol date](images/4681280272_149b911a90_n.jpg)](http://www.flickr.com/photos/david_jones/4681280272/ "Class list by enrol date by David T Jones, on Flickr")
+[![Class list by enrol date](https://djon.es/assets/blog/2013/08/12/bugger-analytics-just-give-me-useful-information/images/4681280272_149b911a90_n.jpg)](http://www.flickr.com/photos/david_jones/4681280272/ "Class list by enrol date by David T Jones, on Flickr")
 
 Of course, this wasn't provided by the ERP system (my previous institution and my current institution have the same ERP). It was a "shadow system" I implemented.
 

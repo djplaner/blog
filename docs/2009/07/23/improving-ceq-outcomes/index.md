@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - elearning
-date: 2009-07-23 09:56:43+10:00
+comments: []
+date: 2009-07-22 23:56:43
 next:
   text: '"BAM into Moodle Step #4 - Learning more about Moodle"'
   url: /blog/2009/07/23/bam-into-moodle-step-4-learning-more-about-moodle/
+pingbacks:
+- approved: '1'
+  author: Here come the indicators, wait for the task corruption &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.211
+  author_url: https://djon.es/blog/2009/12/15/here-come-the-indicators-wait-for-the-task-corruption/
+  content: '[...] simplest solution is embedded in this suggestion on how to improve
+    outcomes on course experience questionnaires. An approach that essentially [...]'
+  date: '2009-12-15 14:02:47'
+  date_gmt: '2009-12-15 04:02:47'
+  id: '2652'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BAM into Moodle - Step #3 - some initial development?'
   url: /blog/2009/07/21/bam-into-moodle-step-3-some-initial-development/
+template: blog-post.html
 title: Improving CEQ Outcomes
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Here come the indicators, wait for the task corruption &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.211
-      author_url: https://djon.es/blog/2009/12/15/here-come-the-indicators-wait-for-the-task-corruption/
-      content: '[...] simplest solution is embedded in this suggestion on how to improve
-        outcomes on course experience questionnaires. An approach that essentially [...]'
-      date: '2009-12-15 14:02:47'
-      date_gmt: '2009-12-15 04:02:47'
-      id: '2652'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As part of [my new position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I'm meant to identify opportunities, trends etc around learning and teaching and inform the local institutional community of them. The following is the first of those reports. I've attempted to keep the explanation as short as possible as I'm uncertain the type of folk I'm writing this for are likely to read long essays.
 

@@ -1,94 +1,91 @@
----
+﻿---
 categories:
 - bad
 - elearning
-date: 2014-09-22 15:26:06+10:00
+comments:
+- approved: '1'
+  author: Maurice A. Barry
+  author_email: maurice.a.barry@gmail.com
+  author_ip: 134.153.32.130
+  author_url: http://duckstarfish23.wordpress.com
+  content: In many ways the LMS, which is so vital to many of the routine tasks we
+    all have to do, imposes serious limits on the extent to which we can do when you
+    suggested. As a longtime user of D2l I have observed much the same limitations
+    as you have noted with moodle. Perhaps much of this is due to the fact that the
+    larger LMS (D2l, Moodle, Blackboard) have been around longer than Web 2.0 and
+    constantly struggle to more or less force it in on top of a previous mid set.
+    Interestingly enough, though, I have recently had reason to make some use of Schoology
+    and, while it's by no means a "solution" I admit to being intrigued by what the
+    inherently "social networking" approach might be able to do as far as diverse
+    engagement is concerned.
+  date: '2014-09-22 22:24:09'
+  date_gmt: '2014-09-22 12:24:09'
+  id: '1134'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.185.38.198
+  author_url: https://djon.es/blog/
+  content: It appears that EDUCAUSE and the Gates Foundation <a href="http://www.educause.edu/library/resources/next-generation-digital-learning-environment-ngdle"
+    rel="nofollow">are on the case</a>.  I'm sure there are going to be very smart
+    people involved with that project, but I fear that they'll have the same problems.  The
+    problems which I think lay at the bottom of all of these systems - SET thinking.  If
+    they still think of the next generation in terms of "Established" then the same
+    problems are going to arise.  It also sounds like they are trying to be "Strategic",
+    i.e. identify some future possible state and work towards that. They are using
+    the same mindsets/process that lead to the LMS.  Dave Snowden has <a href="http://cognitive-edge.com/blog/entry/6351/please-not-more-of-the-same-2-of-3/"
+    rel="nofollow">a recent post</a> that touches on some of this.
+  date: '2014-09-24 09:12:39'
+  date_gmt: '2014-09-23 23:12:39'
+  id: '1135'
+  parent: '1134'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Maurice A. Barry
+  author_email: maurice.a.barry@gmail.com
+  author_ip: 47.55.84.92
+  author_url: http://duckstarfish23.wordpress.com
+  content: It appears that we are not far apart in our thinking. In a post from a
+    while back I pointed out that many of those who wield the real power in education
+    are not that qualified to do it and have agendas that run contrary to what public
+    education is trying to achieve. It's a little rambling but the post is here if
+    you are interested (though I did hit he points in the summary :-)  http://mauriceabarry.wordpress.com/2014/01/13/eltm11-who-wields-the-power-what-of-purpose-and-audience/
+  date: '2014-09-24 09:22:01'
+  date_gmt: '2014-09-23 23:22:01'
+  id: '1136'
+  parent: '1135'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Maurice A. Barry
+  author_email: maurice.a.barry@gmail.com
+  author_ip: 47.55.84.92
+  author_url: http://duckstarfish23.wordpress.com
+  content: Oh, and it appears we both have common ground with DS. I noticed you touch
+    on some of that yourself a few weeks back.
+  date: '2014-09-24 09:24:14'
+  date_gmt: '2014-09-23 23:24:14'
+  id: '1137'
+  parent: '1135'
+  type: comment
+  user_id: '0'
+date: 2014-09-22 05:26:06
 next:
   text: Unintended consequences of technology in education
   url: /blog/2014/10/02/unintended-consequences-of-technology-in-education/
+pingbacks: []
 previous:
   text: Breaking BAD to bridge the reality/rhetoric chasm
   url: /blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/
+template: blog-post.html
 title: A perspective on why institutional e-learning is so bad
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Maurice A. Barry
-      author_email: maurice.a.barry@gmail.com
-      author_ip: 134.153.32.130
-      author_url: http://duckstarfish23.wordpress.com
-      content: In many ways the LMS, which is so vital to many of the routine tasks we
-        all have to do, imposes serious limits on the extent to which we can do when you
-        suggested. As a longtime user of D2l I have observed much the same limitations
-        as you have noted with moodle. Perhaps much of this is due to the fact that the
-        larger LMS (D2l, Moodle, Blackboard) have been around longer than Web 2.0 and
-        constantly struggle to more or less force it in on top of a previous mid set.
-        Interestingly enough, though, I have recently had reason to make some use of Schoology
-        and, while it's by no means a "solution" I admit to being intrigued by what the
-        inherently "social networking" approach might be able to do as far as diverse
-        engagement is concerned.
-      date: '2014-09-22 22:24:09'
-      date_gmt: '2014-09-22 12:24:09'
-      id: '1134'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.185.38.198
-      author_url: https://djon.es/blog/
-      content: It appears that EDUCAUSE and the Gates Foundation <a href="http://www.educause.edu/library/resources/next-generation-digital-learning-environment-ngdle"
-        rel="nofollow">are on the case</a>.  I'm sure there are going to be very smart
-        people involved with that project, but I fear that they'll have the same problems.  The
-        problems which I think lay at the bottom of all of these systems - SET thinking.  If
-        they still think of the next generation in terms of "Established" then the same
-        problems are going to arise.  It also sounds like they are trying to be "Strategic",
-        i.e. identify some future possible state and work towards that. They are using
-        the same mindsets/process that lead to the LMS.  Dave Snowden has <a href="http://cognitive-edge.com/blog/entry/6351/please-not-more-of-the-same-2-of-3/"
-        rel="nofollow">a recent post</a> that touches on some of this.
-      date: '2014-09-24 09:12:39'
-      date_gmt: '2014-09-23 23:12:39'
-      id: '1135'
-      parent: '1134'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Maurice A. Barry
-      author_email: maurice.a.barry@gmail.com
-      author_ip: 47.55.84.92
-      author_url: http://duckstarfish23.wordpress.com
-      content: It appears that we are not far apart in our thinking. In a post from a
-        while back I pointed out that many of those who wield the real power in education
-        are not that qualified to do it and have agendas that run contrary to what public
-        education is trying to achieve. It's a little rambling but the post is here if
-        you are interested (though I did hit he points in the summary :-)  http://mauriceabarry.wordpress.com/2014/01/13/eltm11-who-wields-the-power-what-of-purpose-and-audience/
-      date: '2014-09-24 09:22:01'
-      date_gmt: '2014-09-23 23:22:01'
-      id: '1136'
-      parent: '1135'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Maurice A. Barry
-      author_email: maurice.a.barry@gmail.com
-      author_ip: 47.55.84.92
-      author_url: http://duckstarfish23.wordpress.com
-      content: Oh, and it appears we both have common ground with DS. I noticed you touch
-        on some of that yourself a few weeks back.
-      date: '2014-09-24 09:24:14'
-      date_gmt: '2014-09-23 23:24:14'
-      id: '1137'
-      parent: '1135'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
-[![Sunset attack by TheGiantVermin, on Flickr](images/14298841188_7e8f06b80b_m.jpg "Sunset attack by TheGiantVermin, on Flickr")](https://www.flickr.com/photos/tudor/14298841188/) [![Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-nd/2.0/)   by  [](https://www.flickr.com/people/tudor/)[TheGiantVermin](https://www.flickr.com/people/tudor/) [](http://www.imagecodr.org/)
+[![Sunset attack by TheGiantVermin, on Flickr](https://djon.es/assets/blog/2014/09/22/a-perspective-on-why-institutional-e-learning-is-so-bad/images/14298841188_7e8f06b80b_m.jpg "Sunset attack by TheGiantVermin, on Flickr")](https://www.flickr.com/photos/tudor/14298841188/) [![Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License](https://djon.es/assets/blog/2014/09/22/a-perspective-on-why-institutional-e-learning-is-so-bad/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-nd/2.0/)   by  [](https://www.flickr.com/people/tudor/)[TheGiantVermin](https://www.flickr.com/people/tudor/) [](http://www.imagecodr.org/)
 
 It's about time to tilt at the same windmill again. For as long as I can remember I've thought institutional e-learning was done badly. Here's another attempt to explain why and map out a way forward. The following is based heavily on on [this paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) that will be presented at [ASCILITE'2014](http://ascilite2014.otago.ac.nz/) and is a slightly re-worked version of something I shared as part of my current institution's attempts to formulate operational plans.
 
@@ -128,7 +125,7 @@ The following figure shows what it looks like. Note:
 1. The \[details\] links near the author's name and photo. I haven't spent the time to tidy this [kludge](http://en.wikipedia.org/wiki/Kludge) up.
 2. The dialog box and how the forum post is somewhat greyed out. The idea is that I can check this information, click Ok and then reply to the query.
 
-[![MAV-based more user details by David T Jones, on Flickr](images/15316891905_d54e182394.jpg "MAV-based more user details by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/15316891905/)
+[![MAV-based more user details by David T Jones, on Flickr](https://djon.es/assets/blog/2014/09/22/a-perspective-on-why-institutional-e-learning-is-so-bad/images/15316891905_d54e182394.jpg "MAV-based more user details by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/15316891905/)
 
  
 

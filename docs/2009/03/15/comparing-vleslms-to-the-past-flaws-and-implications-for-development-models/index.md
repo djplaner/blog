@@ -1,85 +1,82 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - thesis
-date: 2009-03-15 23:20:18+10:00
+comments: []
+date: 2009-03-15 13:20:18
 next:
   text: '"Blame the teacher" and its negative impact on learning and e-learning'
   url: /blog/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/
+pingbacks:
+- approved: '1'
+  author: Technology will *not* change the way we teach - an example why we&#8217;re
+    an amnesiac field &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/
+  content: '[...] already mined some of this work for a previous post about how the
+    lessons of the past can inform the present. That post even used the &#8220;doomed
+    to [...]'
+  date: '2009-03-19 16:26:33'
+  date_gmt: '2009-03-19 06:26:33'
+  id: '2250'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update - Week #4 - Frustration and progress &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/03/20/phd-update-week-4-frustration-and-progress/
+  content: '[...] A first post to take a couple of lessons from history and apply
+    it to LMS implementation. [...]'
+  date: '2009-03-20 10:19:53'
+  date_gmt: '2009-03-20 00:19:53'
+  id: '2251'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The fad cycle in learning &amp; teaching - a historical perspective &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
+  content: '[...] The following continues some themes I&#8217;ve been focusing on
+    over the last couple of weeks including the failure of prescription as a method
+    for improving learning and teaching, the tendency towards faddish or fashionable
+    adoption of learning technologies (including e-portfolios and open source LMSes),
+    the negative impacts of the technologists alliance, and an attempt to learn from
+    history. [...]'
+  date: '2009-04-02 14:05:38'
+  date_gmt: '2009-04-02 04:05:38'
+  id: '2252'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Performance degradation - impact of new LMS implementation &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
+  content: '[...] comparison to the past; [...]'
+  date: '2009-04-20 15:30:46'
+  date_gmt: '2009-04-20 05:30:46'
+  id: '2253'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Virtual learning environments: three implementation perspectives'
   url: /blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
+template: blog-post.html
 title: '"Comparing VLEs/LMS to the past: flaws and implications for development models"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Technology will *not* change the way we teach - an example why we&#8217;re
-        an amnesiac field &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/
-      content: '[...] already mined some of this work for a previous post about how the
-        lessons of the past can inform the present. That post even used the &#8220;doomed
-        to [...]'
-      date: '2009-03-19 16:26:33'
-      date_gmt: '2009-03-19 06:26:33'
-      id: '2250'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update - Week #4 - Frustration and progress &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/03/20/phd-update-week-4-frustration-and-progress/
-      content: '[...] A first post to take a couple of lessons from history and apply
-        it to LMS implementation. [...]'
-      date: '2009-03-20 10:19:53'
-      date_gmt: '2009-03-20 00:19:53'
-      id: '2251'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The fad cycle in learning &amp; teaching - a historical perspective &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
-      content: '[...] The following continues some themes I&#8217;ve been focusing on
-        over the last couple of weeks including the failure of prescription as a method
-        for improving learning and teaching, the tendency towards faddish or fashionable
-        adoption of learning technologies (including e-portfolios and open source LMSes),
-        the negative impacts of the technologists alliance, and an attempt to learn from
-        history. [...]'
-      date: '2009-04-02 14:05:38'
-      date_gmt: '2009-04-02 04:05:38'
-      id: '2252'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Performance degradation - impact of new LMS implementation &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
-      content: '[...] comparison to the past; [...]'
-      date: '2009-04-20 15:30:46'
-      date_gmt: '2009-04-20 05:30:46'
-      id: '2253'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
-[![George Santayana, a Spanish American philosopher and writer](images/George_Santayana.jpg)](http://en.wikiquote.org/wiki/File:George_Santayana.jpg)
+[![George Santayana, a Spanish American philosopher and writer](https://djon.es/assets/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/images/George_Santayana.jpg)](http://en.wikiquote.org/wiki/File:George_Santayana.jpg)
 
 I'm working on chapter 2 of [the thesis](/blog/research/phd-thesis/) and, in particular, on the "Past Experience" section. As part of the [Ps Framework](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/), "Past Experience" is meant to talk about
 
@@ -124,7 +121,7 @@ Questions:
 
 ### The commercial model causes this
 
-[![Exterior of Pressey Testing Machine, patent dates 1928 and 1930.](images/Pressey_Testing_Machine_1.jpg)](http://en.wikipedia.org/wiki/File:Pressey_Testing_Machine_1.jpg)
+[![Exterior of Pressey Testing Machine, patent dates 1928 and 1930.](https://djon.es/assets/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/images/Pressey_Testing_Machine_1.jpg)](http://en.wikipedia.org/wiki/File:Pressey_Testing_Machine_1.jpg)
 
 Heines (2004) then makes the point that economic and commercial system used to produce these systems may be somewhat to blame. He starts by offering this quote from [Sidney Pressey](http://www.coe.uh.edu/courses/cuin6373/idhistory/pressey.html) (who developed the "teaching machine" in the image to the left in 1928)
 

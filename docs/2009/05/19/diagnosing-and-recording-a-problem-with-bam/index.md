@@ -1,114 +1,112 @@
----
+﻿---
 categories:
 - bam
-date: 2009-05-19 13:14:31+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: I like the sentiment of describing the thought process rather than just
+    the fix / kludge, but once you are checking the code in 6 months time, what triggers
+    you to look outside the code and onto this blog? Did you link this post back into
+    the code or copy portions of it to the relevant comment blocks?
+  date: '2009-05-20 09:44:45'
+  date_gmt: '2009-05-19 23:44:45'
+  id: '2513'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: https://djon.es/blog/
+  content: 'There''s no formal link.  The code is used by others as well.
+
+
+    In this case, it will be my decision to look back at the blog.  The blog has a
+    nice search engine, the post is tagged with BAM.  The plan is that when/if I have
+    a problem with this bit of code, I can do a quick search on the blog and see if
+    anything is relevant.
+
+
+    It''s the age-old problem with documentation, which some have solved by having
+    tight integration with docs and code.  I can''t do it, so I have to do it this
+    more loosely coupled way.
+
+
+    Given my beliefs, I prefer the loosely couple approach'
+  date: '2009-05-20 09:53:53'
+  date_gmt: '2009-05-19 23:53:53'
+  id: '2514'
+  parent: '2513'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: 'I''ve been fiddling with wikis for personal documentation of code, but
+    more because they can just as easily document procedures, ideas, todo lists, etc.
+    Personally I like having all the code and documentation in one place so that I
+    can be confident that I can get back to it if needed (then promptly trash that
+    project from my own memory). Still looking for a taggable solution that integrates
+    with some sort of source repository because it seems like the perfect thing to
+    tag up for future reference.
+
+
+    I''ll be interested in how the blog markup goes ...'
+  date: '2009-05-20 13:40:50'
+  date_gmt: '2009-05-20 03:40:50'
+  id: '2516'
+  parent: '2513'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: https://djon.es/blog/
+  content: 'We''ll see.  Not sure my experiments will be all that valid.  It''s likely
+    that any coding I do will be severely limited, so probably not a real test.
+
+
+    I''ve been involved with groups over the years that have used mailing lists (+searchable
+    web archives) and wikis.  Both worked okay, but the tools are only as good as
+    how the people use them.'
+  date: '2009-05-20 14:11:55'
+  date_gmt: '2009-05-20 04:11:55'
+  id: '2517'
+  parent: '2513'
+  type: comment
+  user_id: '1'
+date: 2009-05-19 03:14:31
 next:
   text: Innovation role as Trickster
   url: /blog/2009/05/19/innovation-role-as-trickster/
+pingbacks:
+- approved: '1'
+  author: Another BAM problem &#8211; awarding mark of 0 &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/05/20/another-bam-problem-awarding-mark-of-0/
+  content: '[...] BAM problem &#8211; awarding mark of&nbsp;0  Following on from yesterday&#8217;s
+    start of using the blog to record fixes to software, here comes another [...]'
+  date: '2009-05-20 12:33:42'
+  date_gmt: '2009-05-20 02:33:42'
+  id: '2515'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Quality assurance of learning and teaching
   url: /blog/2009/05/18/quality-assurance-of-learning-and-teaching/
+template: blog-post.html
 title: Diagnosing and recording a problem with BAM
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: I like the sentiment of describing the thought process rather than just
-        the fix / kludge, but once you are checking the code in 6 months time, what triggers
-        you to look outside the code and onto this blog? Did you link this post back into
-        the code or copy portions of it to the relevant comment blocks?
-      date: '2009-05-20 09:44:45'
-      date_gmt: '2009-05-19 23:44:45'
-      id: '2513'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: https://djon.es/blog/
-      content: 'There''s no formal link.  The code is used by others as well.
-    
-    
-        In this case, it will be my decision to look back at the blog.  The blog has a
-        nice search engine, the post is tagged with BAM.  The plan is that when/if I have
-        a problem with this bit of code, I can do a quick search on the blog and see if
-        anything is relevant.
-    
-    
-        It''s the age-old problem with documentation, which some have solved by having
-        tight integration with docs and code.  I can''t do it, so I have to do it this
-        more loosely coupled way.
-    
-    
-        Given my beliefs, I prefer the loosely couple approach'
-      date: '2009-05-20 09:53:53'
-      date_gmt: '2009-05-19 23:53:53'
-      id: '2514'
-      parent: '2513'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: 'I''ve been fiddling with wikis for personal documentation of code, but
-        more because they can just as easily document procedures, ideas, todo lists, etc.
-        Personally I like having all the code and documentation in one place so that I
-        can be confident that I can get back to it if needed (then promptly trash that
-        project from my own memory). Still looking for a taggable solution that integrates
-        with some sort of source repository because it seems like the perfect thing to
-        tag up for future reference.
-    
-    
-        I''ll be interested in how the blog markup goes ...'
-      date: '2009-05-20 13:40:50'
-      date_gmt: '2009-05-20 03:40:50'
-      id: '2516'
-      parent: '2513'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: https://djon.es/blog/
-      content: 'We''ll see.  Not sure my experiments will be all that valid.  It''s likely
-        that any coding I do will be severely limited, so probably not a real test.
-    
-    
-        I''ve been involved with groups over the years that have used mailing lists (+searchable
-        web archives) and wikis.  Both worked okay, but the tools are only as good as
-        how the people use them.'
-      date: '2009-05-20 14:11:55'
-      date_gmt: '2009-05-20 04:11:55'
-      id: '2517'
-      parent: '2513'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Another BAM problem &#8211; awarding mark of 0 &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/05/20/another-bam-problem-awarding-mark-of-0/
-      content: '[...] BAM problem &#8211; awarding mark of&nbsp;0  Following on from yesterday&#8217;s
-        start of using the blog to record fixes to software, here comes another [...]'
-      date: '2009-05-20 12:33:42'
-      date_gmt: '2009-05-20 02:33:42'
-      id: '2515'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Trying out a new approach to documentation of coding changes to [BAM](/blog/research/bam-blog-aggregation-management/) - i.e. writing it up in a post.
 

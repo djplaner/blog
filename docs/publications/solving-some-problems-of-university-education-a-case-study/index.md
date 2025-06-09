@@ -1,85 +1,82 @@
----
-date: 2008-12-07 21:56:43+10:00
+﻿---
+comments: []
+date: 2008-12-07 11:56:43
+pingbacks:
+- approved: '1'
+  author: 'Group 1 Technologies: Blogs, Wikis and Websites &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2011/04/06/group-1-technologies-blogs-wikis-and-websites/
+  content: '[...] D. (1996). Solving Some Problems of University Education: A Case
+    Study. In R. Debreceny &amp; A. Ellis (Eds.), (pp. 243-252). Gold Coast, QLD:
+    Southern Cross University [...]'
+  date: '2011-04-06 11:46:24'
+  date_gmt: '2011-04-06 01:46:24'
+  id: '1908'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Kludging an authoring process with Moodle books (almost) | The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.104
+  author_url: https://davidtjones.wordpress.com/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
+  content: '[&#8230;] a sense of deja vu. Almost 20 years ago as I prepared my first
+    totally web-based course I wrote a set of scripts to help with authoring the web-based
+    study material (thank you the web archive). Tools and an [&#8230;]'
+  date: '2015-02-08 13:13:44'
+  date_gmt: '2015-02-08 03:13:44'
+  id: '1909'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Digital learning: It&#8217;s like d\xE9j\xE0 vu all over again | The Weblog\
+    \ of (a) David Jones"
+  author_email: null
+  author_ip: 192.0.80.184
+  author_url: https://davidtjones.wordpress.com/2015/07/12/digital-learning-its-like-deja-vu-all-over-again/
+  content: '[&#8230;] Solving some problems of University Education: A Case&nbsp;Study
+    [&#8230;]'
+  date: '2015-07-12 08:53:00'
+  date_gmt: '2015-07-11 22:53:00'
+  id: '1910'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Possible sources of an institution&#8217;s e-learning content problems |
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.151
+  author_url: https://davidtjones.wordpress.com/2015/08/13/possible-sources-of-an-institutions-e-learning-content-problems/
+  content: '[&#8230;] Solving some problems of University Education: A Case&nbsp;Study
+    [&#8230;]'
+  date: '2015-08-13 10:18:59'
+  date_gmt: '2015-08-13 00:18:59'
+  id: '1911'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: All models are wrong, but some are useful and its application to e-learning
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.57
+  author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+  content: '[&#8230;] Solving some problems of University Education: A Case&nbsp;Study
+    [&#8230;]'
+  date: '2015-08-28 09:04:34'
+  date_gmt: '2015-08-27 23:04:34'
+  id: '1912'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Solving some problems of University Education: A Case Study"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Group 1 Technologies: Blogs, Wikis and Websites &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2011/04/06/group-1-technologies-blogs-wikis-and-websites/
-      content: '[...] D. (1996). Solving Some Problems of University Education: A Case
-        Study. In R. Debreceny &amp; A. Ellis (Eds.), (pp. 243-252). Gold Coast, QLD:
-        Southern Cross University [...]'
-      date: '2011-04-06 11:46:24'
-      date_gmt: '2011-04-06 01:46:24'
-      id: '1908'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Kludging an authoring process with Moodle books (almost) | The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.104
-      author_url: https://davidtjones.wordpress.com/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
-      content: '[&#8230;] a sense of deja vu. Almost 20 years ago as I prepared my first
-        totally web-based course I wrote a set of scripts to help with authoring the web-based
-        study material (thank you the web archive). Tools and an [&#8230;]'
-      date: '2015-02-08 13:13:44'
-      date_gmt: '2015-02-08 03:13:44'
-      id: '1909'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Digital learning: It&#8217;s like d\xE9j\xE0 vu all over again | The Weblog\
-        \ of (a) David Jones"
-      author_email: null
-      author_ip: 192.0.80.184
-      author_url: https://davidtjones.wordpress.com/2015/07/12/digital-learning-its-like-deja-vu-all-over-again/
-      content: '[&#8230;] Solving some problems of University Education: A Case&nbsp;Study
-        [&#8230;]'
-      date: '2015-07-12 08:53:00'
-      date_gmt: '2015-07-11 22:53:00'
-      id: '1910'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Possible sources of an institution&#8217;s e-learning content problems |
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.151
-      author_url: https://davidtjones.wordpress.com/2015/08/13/possible-sources-of-an-institutions-e-learning-content-problems/
-      content: '[&#8230;] Solving some problems of University Education: A Case&nbsp;Study
-        [&#8230;]'
-      date: '2015-08-13 10:18:59'
-      date_gmt: '2015-08-13 00:18:59'
-      id: '1911'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: All models are wrong, but some are useful and its application to e-learning
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.57
-      author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
-      content: '[&#8230;] Solving some problems of University Education: A Case&nbsp;Study
-        [&#8230;]'
-      date: '2015-08-28 09:04:34'
-      date_gmt: '2015-08-27 23:04:34'
-      id: '1912'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is an old paper from 1996. Many of the links below are broken as the websites no longer exist.
 
@@ -161,7 +158,7 @@ The 1996 85321 student population included
 
 Figure 1 is a photograph of a 1995 85321 student who was based in Cyprus. He's receiving some extra motivation in his study.
 
-[![Some additional encouragement to study](images/3088525939_eff7642583_m.jpg)](http://www.flickr.com/photos/david_jones/3088525939/ "Some additional encouragement to study by David T Jones, on Flickr")
+[![Some additional encouragement to study](https://djon.es/assets/blog/publications/solving-some-problems-of-university-education-a-case-study/images/3088525939_eff7642583_m.jpg)](http://www.flickr.com/photos/david_jones/3088525939/ "Some additional encouragement to study by David T Jones, on Flickr")
 
 **Figure 1  
 A 1995 85321 student  
@@ -221,7 +218,7 @@ Getting lost is a common problem with navigating through large collections of WW
 
 **Figure 2  
 The 85321 interactive overview system**
-| [![image02](images/3088541075_05016d1d9b_o.gif)](http://www.flickr.com/photos/david_jones/3088541075/ "image02 by David T Jones, on Flickr")   Before | [![image03](images/3088541191_fa5a74cbcc_o.gif)](http://www.flickr.com/photos/david_jones/3088541191/ "image03 by David T Jones, on Flickr")   After |
+| [![image02](https://djon.es/assets/blog/publications/solving-some-problems-of-university-education-a-case-study/images/3088541075_05016d1d9b_o.gif)](http://www.flickr.com/photos/david_jones/3088541075/ "image02 by David T Jones, on Flickr")   Before | [![image03](https://djon.es/assets/blog/publications/solving-some-problems-of-university-education-a-case-study/images/3088541191_fa5a74cbcc_o.gif)](http://www.flickr.com/photos/david_jones/3088541191/ "image03 by David T Jones, on Flickr")   After |
 | :-: | :-: |
 
 ### Viewing offline
@@ -372,17 +369,17 @@ The graphs in Figures 3 and 4 summarise the response.
 
 **Figure 3  
 I needed more help**
-| On-campus students | [![image04](images/3088541267_3863604a23_o.gif)](http://www.flickr.com/photos/david_jones/3088541267/ "image04 by David T Jones, on Flickr") |
+| On-campus students | [![image04](https://djon.es/assets/blog/publications/solving-some-problems-of-university-education-a-case-study/images/3088541267_3863604a23_o.gif)](http://www.flickr.com/photos/david_jones/3088541267/ "image04 by David T Jones, on Flickr") |
 | --- | --- |
-| Distance students | [![image05](images/3088541343_df0d59b8f4_o.gif)](http://www.flickr.com/photos/david_jones/3088541343/ "image05 by David T Jones, on Flickr") |
-| All students | [![image06](images/3089379094_4fddba8371_o.gif)](http://www.flickr.com/photos/david_jones/3089379094/ "image06 by David T Jones, on Flickr") |
+| Distance students | [![image05](https://djon.es/assets/blog/publications/solving-some-problems-of-university-education-a-case-study/images/3088541343_df0d59b8f4_o.gif)](http://www.flickr.com/photos/david_jones/3088541343/ "image05 by David T Jones, on Flickr") |
+| All students | [![image06](https://djon.es/assets/blog/publications/solving-some-problems-of-university-education-a-case-study/images/3089379094_4fddba8371_o.gif)](http://www.flickr.com/photos/david_jones/3089379094/ "image06 by David T Jones, on Flickr") |
 
 **Figure 4  
 New approach is better**
-| On-campus students | [![image07](images/3088541569_668d13f7e4_o.gif)](http://www.flickr.com/photos/david_jones/3088541569/ "image07 by David T Jones, on Flickr") |
+| On-campus students | [![image07](https://djon.es/assets/blog/publications/solving-some-problems-of-university-education-a-case-study/images/3088541569_668d13f7e4_o.gif)](http://www.flickr.com/photos/david_jones/3088541569/ "image07 by David T Jones, on Flickr") |
 | --- | --- |
-| Distance students | [![image08](images/3088541667_f5e2764ba6_o.gif)](http://www.flickr.com/photos/david_jones/3088541667/ "image08 by David T Jones, on Flickr") |
-| All students | [![image09](images/3088541741_dfd6bde97c_o.gif)](http://www.flickr.com/photos/david_jones/3088541741/ "image09 by David T Jones, on Flickr") |
+| Distance students | [![image08](https://djon.es/assets/blog/publications/solving-some-problems-of-university-education-a-case-study/images/3088541667_f5e2764ba6_o.gif)](http://www.flickr.com/photos/david_jones/3088541667/ "image08 by David T Jones, on Flickr") |
+| All students | [![image09](https://djon.es/assets/blog/publications/solving-some-problems-of-university-education-a-case-study/images/3088541741_dfd6bde97c_o.gif)](http://www.flickr.com/photos/david_jones/3088541741/ "image09 by David T Jones, on Flickr") |
 
 Free form comments from students have included
 

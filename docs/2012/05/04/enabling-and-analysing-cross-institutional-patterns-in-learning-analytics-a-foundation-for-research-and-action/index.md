@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - indicators
 - learninganalytics-elearning
-date: 2012-05-04 16:43:15+10:00
+comments: []
+date: 2012-05-04 06:43:15
 next:
   text: On the inertia of systems
   url: /blog/2012/05/05/on-the-inertia-of-systems/
+pingbacks:
+- approved: '1'
+  author: Harnessing learning analytics to inform/improve learning and teaching &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.18
+  author_url: https://djon.es/blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
+  content: '[...] of student learning performance (Dawson and McWilliam, 2008).This
+    project will be based on work that is doing exactly this (which is in turn based
+    on the work of others). The nature of this project, however, [...]'
+  date: '2012-05-20 15:09:58'
+  date_gmt: '2012-05-20 05:09:58'
+  id: '346'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Questions and insights on (education) hack days/hackathons
   url: /blog/2012/04/25/questions-and-insights-on-edhackathons/
+template: blog-post.html
 title: '"Enabling and analysing cross-institutional patterns in learning analytics:
   A foundation for research and action"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Harnessing learning analytics to inform/improve learning and teaching &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.18
-      author_url: https://djon.es/blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
-      content: '[...] of student learning performance (Dawson and McWilliam, 2008).This
-        project will be based on work that is doing exactly this (which is in turn based
-        on the work of others). The nature of this project, however, [...]'
-      date: '2012-05-20 15:09:58'
-      date_gmt: '2012-05-20 05:09:58'
-      id: '346'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a slightly edited version of a internal grant application that has just been funded. It is a small step towards actually moving the [Indicators project](http://indicatorsproject.wordpress.com/) a little further toward the targets we talked about so many years ago.  My co-investigators on this grant are: [Colin Beer](http://beerc.wordpress.com/) and [Professor Patrick Danaher](http://apps.usq.edu.au/StaffSearch/default.aspx?staffsearchaction=showdetails&staffsearchrecordid=1134).
 
@@ -63,7 +60,7 @@ Learning analytics has been established as especially useful for institutional m
 
 > no longer simply to generate data and make it available, but rather to readily and accurately interpret data and translate such findings to practice
 
-[![LMS usage by age](images/6995070794_500ba34fd9_n.jpg)](http://www.flickr.com/photos/david_jones/6995070794/ "LMS usage by age by David T Jones, on Flickr")
+[![LMS usage by age](https://djon.es/assets/blog/2012/05/04/enabling-and-analysing-cross-institutional-patterns-in-learning-analytics-a-foundation-for-research-and-action/images/6995070794_500ba34fd9_n.jpg)](http://www.flickr.com/photos/david_jones/6995070794/ "LMS usage by age by David T Jones, on Flickr")
 
 Figure 1. LMS usage by age.  
 (n=38,000+ student/courses)
@@ -72,7 +69,7 @@ While there is increasing interest in and activity around learning analytics, Si
 
 Figure 2 represents one conceptual view of this project and its aims. The enabling task (Objective 1) aims to overcome the barriers – institutional, technical, privacy, diversity in the data, etc. – confronting learning analytics work to provide a foundation for further work. In particular, this work seeks to make theoretical contributions that can be used by ourselves and others to address these problems. With this foundation it is then possible to analyse, compare, and contrast available data to identify a range of patterns (Objective 2) that can be used by various stakeholders to develop a range of research projects and teaching interventions. The neatness of the diagram (e.g., a single foundation and all stakeholders drawing on the same patterns) hides the complexity inherent in learning analytics, the diversity of stakeholder requirements and the ongoing, emergent and collaborative nature of using learning analytics to inform both research and action.
 
-[![One take on analytics](images/6890653416_cb1d785357_n.jpg)](http://www.flickr.com/photos/david_jones/6890653416/ "One take on analytics by David T Jones, on Flickr")
+[![One take on analytics](https://djon.es/assets/blog/2012/05/04/enabling-and-analysing-cross-institutional-patterns-in-learning-analytics-a-foundation-for-research-and-action/images/6890653416_cb1d785357_n.jpg)](http://www.flickr.com/photos/david_jones/6890653416/ "One take on analytics by David T Jones, on Flickr")
 
 Figure 2. Representation of project aims.
 
@@ -93,7 +90,7 @@ Given these observations, this project will use a design-based research (DBR) me
 
 Design-based research offers the means for this project to target both research and action through collaboration and engagement with a real-world setting. Design-based research is built upon a pragmatic paradigm of inquiry to deal with the complexity inherent in e-learning research (Phillips, McNaught, & Kennedy, 2012). Design-based research often uses the iterative process represented Figure 3.
 
-[![Design-based research process](images/6995081808_15fc807204_n.jpg)](http://www.flickr.com/photos/david_jones/6995081808/ "Design-based research process by David T Jones, on Flickr")
+[![Design-based research process](https://djon.es/assets/blog/2012/05/04/enabling-and-analysing-cross-institutional-patterns-in-learning-analytics-a-foundation-for-research-and-action/images/6995081808_15fc807204_n.jpg)](http://www.flickr.com/photos/david_jones/6995081808/ "Design-based research process by David T Jones, on Flickr")
 
 Figure 3. Design-based research process (adapted from Reeves, 2006, p. 59).
 

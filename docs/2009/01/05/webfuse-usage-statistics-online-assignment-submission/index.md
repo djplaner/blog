@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - thesis
 - webfuse
-date: 2009-01-05 14:35:26+10:00
+date: 2009-01-05 04:35:26
 next:
   text: Implementing the rotating banner image
   url: /blog/2009/01/06/implementing-the-rotating-banner-image/
 previous:
   text: Webfuse statistics - Staff Portal
   url: /blog/2009/01/05/webfuse-statistics-staff-portal/
+template: blog-post.html
 title: Webfuse usage statistics - Online assignment submission
 type: post
-template: blog-post.html
 ---
 Online assignment submission is one of the more used features of Webfuse and is explained in part in a few publications.
 

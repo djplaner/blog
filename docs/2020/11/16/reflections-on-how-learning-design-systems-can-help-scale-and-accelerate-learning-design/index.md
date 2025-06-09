@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - casa
-coverImage: 36379213_b65e65ed62_o.jpg
-date: 2020-11-16 07:49:12+10:00
+coverImage: https://djon.es/assets/blog/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/images/36379213_b65e65ed62_o.jpg
+date: 2020-11-15 21:49:12
 next:
   text: Do the little things matter in design for learning?
   url: /blog/2021/03/06/do-the-little-things-matter-in-design-for-learning/
 previous:
   text: Supporting the design of discipline-specific digital learning activities
   url: /blog/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/
+template: blog-post.html
 title: Reflections on "How learning design systems can help scale and accelerate learning
   design"
 type: post
-template: blog-post.html
 ---
 On October 30 I watched a [webinar](https://twitter.com/COL4D/status/1321838452271271936) (recording below) given by Joyce Seitzinger ([@catspyjamasnz](https://twitter.com/catspyjamasnz)) and hosted by the [Commonwealth of Learning](https://www.col.org/). It was titled, "How Learning Design Systems can help scale and accelerate learning design". If you work in higher education helping with the practice of digital (or [post-digital education](https://www.springer.com/journal/42438)) - which is a bigger group of folk than it was 12 months ago - then I recommend the talk and the approach. Especially, if you're having to deal with scale - large student numbers, large numbers of courses, multiple offerings etc.
 
@@ -121,7 +121,7 @@ Dimitriadis and Goodyear ([2013](https://journal.alt.ac.uk/index.php/rlt/article
 
 Extending that to components, a learning activity component should not only embody design knowledge that helps with creating an effective, consistent interface. It needs to offer functionality that embodies design knowledge that helps learners and teachers during learntime (orchestration) etc. As a simple example, a component that [displays options for watching films](/blog/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/) within learning material in a consistent, effective way (see image below) depending on how the institution has been able to provide access. A component that recognises the film availability changes and hence the learning materials need to be kept up to date. A process that can be painful if the film is mentioned multiple times. A component that supports configuration by drawing film availability from a spreadsheet. Allowing the teacher to change a single line and have that automatically applied throughout the learning materials.
 
-![](images/filmWatchOptions.png)
+![](https://djon.es/assets/blog/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/images/filmWatchOptions.png)
 
 ### What about when learning design doesn't/can't occur?
 

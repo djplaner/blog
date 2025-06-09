@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20456
 - teaching
-date: 2011-03-08 17:42:05+10:00
+date: 2011-03-08 07:42:05
 next:
   text: Schemata and the source of dissonance?
   url: /blog/2011/03/09/schemata-and-the-source-of-dissonance/
 previous:
   text: Creating a framework for eLearning design
   url: /blog/2011/03/08/creating-a-framework-for-elearning-design/
+template: blog-post.html
 title: '"Week 2: Pedagogical Content Knowledge"'
 type: post
-template: blog-post.html
 ---
 Okay, so now it's onto the second course for the week. The topic for this week is "Learners and Learning". Looks like we're learning about the brain, how it works and the [Dimensions of Learning](http://www.cqu.edu.au/dol/) (That this link for DoL is on the institution's website, but with a strange title is interesting. Sure there are some stories behind it).
 

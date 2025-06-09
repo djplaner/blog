@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
@@ -6,69 +6,66 @@ categories:
 - paperideas
 - phd
 - thesis
-date: 2011-12-09 08:11:06+10:00
+comments:
+- approved: '1'
+  author: Peter Albion (@palbion)
+  author_email: palbion@twitter.example.com
+  author_ip: 121.222.2.214
+  author_url: http://twitter.com/palbion
+  content: My perception of book chapters as a form of publication is that their value
+    is probably highly variable. As with any other form of publication their value
+    is likely to be linked to the extent to which they are read and used (cited) by
+    others. Books from some publishers are so prohibitively expensive that it is hard
+    to imagine that they are bought and used by many scholars. In other cases the
+    publishers are obscure and the titles are liable to struggle for visibility. Journals
+    are regular and indexed. Conferences have audiences so that there are at least
+    a few people aware of the work and opportunities to connect with those who share
+    interests. Chapters in books sometimes succeed but can easily disappear into obscurity.
+  date: '2011-12-11 15:05:41'
+  date_gmt: '2011-12-11 05:05:41'
+  id: '175'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.165.119.147
+  author_url: https://djon.es/blog/
+  content: 'Thanks for your thoughts Peter.  Not much disagreement from me.
+
+
+    I have some concerns with publishers such as IGI who tend toward the example you
+    set. One of the questions I''m going to have will be around whether not not a
+    copy of the chapter can reside on my blog.
+
+
+    Somewhat related, but a little different, is the idea of using the blog as the
+    draft stage for the chapter. Various sections go up on the blog, perhaps not in
+    final format for the chapter. Wondering if this has the potential to work around
+    the invisible nature of the book chapter.  Will see.
+
+
+    Of course the other point with book chapters is that they can help tick the KPI
+    boxes....the joys of academia'
+  date: '2011-12-11 16:01:48'
+  date_gmt: '2011-12-11 06:01:48'
+  id: '176'
+  parent: '175'
+  type: comment
+  user_id: '1'
+date: 2011-12-08 22:11:06
 next:
   text: Teaching computer science considered harmful?
   url: /blog/2012/01/11/teaching-computer-science-considered-harmful/
+pingbacks: []
 previous:
   text: '&quot;Scaling&quot; educational innovations'
   url: /blog/2011/12/07/scaling-educational-innovations/
+template: blog-post.html
 title: '"Ateleological travels in a teleological world: Past and future journeys around
   ICTs in education"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Peter Albion (@palbion)
-      author_email: palbion@twitter.example.com
-      author_ip: 121.222.2.214
-      author_url: http://twitter.com/palbion
-      content: My perception of book chapters as a form of publication is that their value
-        is probably highly variable. As with any other form of publication their value
-        is likely to be linked to the extent to which they are read and used (cited) by
-        others. Books from some publishers are so prohibitively expensive that it is hard
-        to imagine that they are bought and used by many scholars. In other cases the
-        publishers are obscure and the titles are liable to struggle for visibility. Journals
-        are regular and indexed. Conferences have audiences so that there are at least
-        a few people aware of the work and opportunities to connect with those who share
-        interests. Chapters in books sometimes succeed but can easily disappear into obscurity.
-      date: '2011-12-11 15:05:41'
-      date_gmt: '2011-12-11 05:05:41'
-      id: '175'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.165.119.147
-      author_url: https://djon.es/blog/
-      content: 'Thanks for your thoughts Peter.  Not much disagreement from me.
-    
-    
-        I have some concerns with publishers such as IGI who tend toward the example you
-        set. One of the questions I''m going to have will be around whether not not a
-        copy of the chapter can reside on my blog.
-    
-    
-        Somewhat related, but a little different, is the idea of using the blog as the
-        draft stage for the chapter. Various sections go up on the blog, perhaps not in
-        final format for the chapter. Wondering if this has the potential to work around
-        the invisible nature of the book chapter.  Will see.
-    
-    
-        Of course the other point with book chapters is that they can help tick the KPI
-        boxes....the joys of academia'
-      date: '2011-12-11 16:01:48'
-      date_gmt: '2011-12-11 06:01:48'
-      id: '176'
-      parent: '175'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 In my previous academic life, I never really saw the point of book chapters as a publication form. For a variety of reasons, however, my next phase in academia appears likely to involve an increasing number of book chapters. The need for the first such chapter has arisen this week and the first draft is due by February next year, which is a timeline to give me just a little pause for thought. (There is a chance that this book might end up as a special edition of a journal)
 

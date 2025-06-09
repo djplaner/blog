@@ -1,30 +1,27 @@
----
-date: 2008-10-22 08:11:52+10:00
+﻿---
+comments: []
+date: 2008-10-21 22:11:52
+pingbacks:
+- approved: '1'
+  author: The protean nature of modern technology - another limitation of most views
+    of e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.24
+  author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
+  content: '[...] Few folk make the connection that Second Life can also be a multimedia
+    production platform. Similar to what folk I&#8217;ve worked with have done with
+    machinimas (see example below) to support case studies in an Auditing course.
+    [...]'
+  date: '2009-03-06 08:54:25'
+  date_gmt: '2009-03-05 22:54:25'
+  id: '1740'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Bringing &#8216;second life&#8217; to a tough undergraduate course: Cognitive
   apprenticeship through Machinimas"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The protean nature of modern technology - another limitation of most views
-        of e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.24
-      author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
-      content: '[...] Few folk make the connection that Second Life can also be a multimedia
-        production platform. Similar to what folk I&#8217;ve worked with have done with
-        machinimas (see example below) to support case studies in an Auditing course.
-        [...]'
-      date: '2009-03-06 08:54:25'
-      date_gmt: '2009-03-05 22:54:25'
-      id: '1740'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Nona Muldoon, David Jones, Jenny Kofoed, Colin Beer, Bringing ’second life’ to a tough undergraduate course: Cognitive apprenticeship through machinimas, Proceedings of [ASCILITE’2008](http://www.ascilite.org.au/conferences/melbourne08/)
 

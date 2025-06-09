@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - bam
-date: 2009-07-23 15:57:17+10:00
+comments: []
+date: 2009-07-23 05:57:17
 next:
   text: Wicked problems, requirements gathering and the LMS approach to e-learning
   url: /blog/2009/07/24/wicked-problems-requirements-gathering-and-the-lms-approach-to-e-learning/
+pingbacks:
+- approved: '1'
+  author: 'BAM into Moodle #6 &#8211; Planning and some real coding &laquo; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/
+  content: '[...] into Moodle #6 &#8211; Planning and some real&nbsp;coding  The previous
+    post in this series started me along the lines of actually coding something in
+    Moodle. It was only a [...]'
+  date: '2009-07-28 11:27:48'
+  date_gmt: '2009-07-28 01:27:48'
+  id: '2653'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BAM into Moodle Step #4 - Learning more about Moodle'
   url: /blog/2009/07/23/bam-into-moodle-step-4-learning-more-about-moodle/
+template: blog-post.html
 title: '"BAM into Moodle #5 - Coding a block?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'BAM into Moodle #6 &#8211; Planning and some real coding &laquo; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/
-      content: '[...] into Moodle #6 &#8211; Planning and some real&nbsp;coding  The previous
-        post in this series started me along the lines of actually coding something in
-        Moodle. It was only a [...]'
-      date: '2009-07-28 11:27:48'
-      date_gmt: '2009-07-28 01:27:48'
-      id: '2653'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Up to Unit 7 of the [introduction to Moodle programming course](http://dev.moodle.org/course/view.php?id=2), this one is titled "Replicating a moodle block". So the programming begins.
 

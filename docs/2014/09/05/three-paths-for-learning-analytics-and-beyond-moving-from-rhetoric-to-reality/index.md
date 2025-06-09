@@ -1,137 +1,134 @@
----
+﻿---
 categories:
 - bad
 - indicators
-date: 2014-09-05 15:14:51+10:00
+comments: []
+date: 2014-09-05 05:14:51
 next:
   text: You want digitally fluent faculty?
   url: /blog/2014/09/12/you-want-digitally-fluent-faculty/
+pingbacks:
+- approved: '1'
+  author: 'This Week in Learning Analytics: Back to School Edition | Timothy D. Harfield'
+  author_email: null
+  author_ip: 173.205.127.22
+  author_url: http://timothyharfield.com/blog/2014/09/05/this-week-in-learning-analytics-back-to-school-edition/
+  content: '[&#8230;] Three Paths for Learning Analytics and Beyond: Moving from Rhetoric
+    to Reality Colin Beer, David Jones &amp; Rolley Tickner [&#8230;]'
+  date: '2014-09-05 22:19:06'
+  date_gmt: '2014-09-05 12:19:06'
+  id: '1076'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: On the difference between &#8220;rational&#8221;, &#8220;possible&#8221;
+    and &#8220;desirable&#8221; | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.62
+  author_url: https://djon.es/blog/2014/10/09/on-the-difference-between-rational-possible-and-desirable/
+  content: '[&#8230;] an ASCILITE&#8217;2014 paper we identify three paths that might
+    be followed with learning [&#8230;]'
+  date: '2014-10-09 11:24:55'
+  date_gmt: '2014-10-09 01:24:55'
+  id: '1077'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '&#8220;Do it with&#8221; teachers or students? | The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 192.0.83.69
+  author_url: https://davidtjones.wordpress.com/2015/01/12/do-it-with-teachers-or-students/
+  content: '[&#8230;] last year @salvetore read and commented on the &#8220;three
+    paths&#8221; paper that @beerc and @rolley wrote for ASCILITE&#8217;2014. (Always
+    nice to know that someone reads a [&#8230;]'
+  date: '2015-01-12 09:39:34'
+  date_gmt: '2015-01-11 23:39:34'
+  id: '1078'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: This year it&#8217;s all about the connections | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.83.81
+  author_url: https://davidtjones.wordpress.com/2015/01/13/this-year-its-all-about-the-connections/
+  content: '[&#8230;] Three paths (Beer, Jones &amp; Tickner, 2014); and, [&#8230;]'
+  date: '2015-01-13 10:55:10'
+  date_gmt: '2015-01-13 00:55:10'
+  id: '1079'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What might the 3 levels of organisational culture reveal about university
+    e-learning | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.18
+  author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+  content: '[&#8230;] The absence of these points from the new look and feel suggest
+    that there is an underlying assumption that there is nothing to be learned from
+    the teaching staff and their experience. It&#8217;s a prime example of the &#8220;do
+    it to&#8221; and perhaps &#8220;do it for&#8221; paths and an apparent avoidance
+    of the &#8220;do it with&#8221; path (Beer et al, 2014). [&#8230;]'
+  date: '2015-01-20 10:54:25'
+  date_gmt: '2015-01-20 00:54:25'
+  id: '1080'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Using the PIRAC &#8211; Thinking about an &#8220;integrated dashboard&#8221;
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.195
+  author_url: https://davidtjones.wordpress.com/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
+  content: '[&#8230;] For example, the following is a slide from this invited presentation.
+    There&#8217;s also a a paper (Beer, Jones, &amp; Tickner, 2014) that evolved from
+    that [&#8230;]'
+  date: '2015-01-30 15:49:19'
+  date_gmt: '2015-01-30 05:49:19'
+  id: '1081'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The four paths for implementing learning analytics and enhancing the quality
+    of learning and teaching | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.121
+  author_url: https://davidtjones.wordpress.com/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/
+  content: '[&#8230;] extension of Beer et al (2014) (e.g. there are four paths now,
+    rather than three) that&#8217;s been accepted to [&#8230;]'
+  date: '2015-06-01 10:04:49'
+  date_gmt: '2015-06-01 00:04:49'
+  id: '1082'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Make Your Own Slogan: MYOS and the Networked Future | Heart | Soul | Machine'
+  author_email: null
+  author_ip: 192.0.81.50
+  author_url: https://timklapdor.wordpress.com/2015/06/16/make-your-own-slogan-myos/
+  content: '[&#8230;] Community is the outcome of contribution, not participation.
+    MYOS needs to be something that works with people, not for or to, and lies in
+    the process of reclamation and [&#8230;]'
+  date: '2015-06-16 18:34:45'
+  date_gmt: '2015-06-16 08:34:45'
+  id: '1083'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Breaking BAD to bridge the e-learning reality/rhetoric chasm
   url: /blog/2014/09/05/breaking-bad-to-bridge-the-e-learning-realityrhetoric-chasm/
+template: blog-post.html
 title: '"Three paths for learning analytics and beyond: Moving from rhetoric to reality"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'This Week in Learning Analytics: Back to School Edition | Timothy D. Harfield'
-      author_email: null
-      author_ip: 173.205.127.22
-      author_url: http://timothyharfield.com/blog/2014/09/05/this-week-in-learning-analytics-back-to-school-edition/
-      content: '[&#8230;] Three Paths for Learning Analytics and Beyond: Moving from Rhetoric
-        to Reality Colin Beer, David Jones &amp; Rolley Tickner [&#8230;]'
-      date: '2014-09-05 22:19:06'
-      date_gmt: '2014-09-05 12:19:06'
-      id: '1076'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: On the difference between &#8220;rational&#8221;, &#8220;possible&#8221;
-        and &#8220;desirable&#8221; | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.62
-      author_url: https://djon.es/blog/2014/10/09/on-the-difference-between-rational-possible-and-desirable/
-      content: '[&#8230;] an ASCILITE&#8217;2014 paper we identify three paths that might
-        be followed with learning [&#8230;]'
-      date: '2014-10-09 11:24:55'
-      date_gmt: '2014-10-09 01:24:55'
-      id: '1077'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '&#8220;Do it with&#8221; teachers or students? | The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 192.0.83.69
-      author_url: https://davidtjones.wordpress.com/2015/01/12/do-it-with-teachers-or-students/
-      content: '[&#8230;] last year @salvetore read and commented on the &#8220;three
-        paths&#8221; paper that @beerc and @rolley wrote for ASCILITE&#8217;2014. (Always
-        nice to know that someone reads a [&#8230;]'
-      date: '2015-01-12 09:39:34'
-      date_gmt: '2015-01-11 23:39:34'
-      id: '1078'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: This year it&#8217;s all about the connections | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.83.81
-      author_url: https://davidtjones.wordpress.com/2015/01/13/this-year-its-all-about-the-connections/
-      content: '[&#8230;] Three paths (Beer, Jones &amp; Tickner, 2014); and, [&#8230;]'
-      date: '2015-01-13 10:55:10'
-      date_gmt: '2015-01-13 00:55:10'
-      id: '1079'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What might the 3 levels of organisational culture reveal about university
-        e-learning | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.18
-      author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
-      content: '[&#8230;] The absence of these points from the new look and feel suggest
-        that there is an underlying assumption that there is nothing to be learned from
-        the teaching staff and their experience. It&#8217;s a prime example of the &#8220;do
-        it to&#8221; and perhaps &#8220;do it for&#8221; paths and an apparent avoidance
-        of the &#8220;do it with&#8221; path (Beer et al, 2014). [&#8230;]'
-      date: '2015-01-20 10:54:25'
-      date_gmt: '2015-01-20 00:54:25'
-      id: '1080'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Using the PIRAC &#8211; Thinking about an &#8220;integrated dashboard&#8221;
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.195
-      author_url: https://davidtjones.wordpress.com/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
-      content: '[&#8230;] For example, the following is a slide from this invited presentation.
-        There&#8217;s also a a paper (Beer, Jones, &amp; Tickner, 2014) that evolved from
-        that [&#8230;]'
-      date: '2015-01-30 15:49:19'
-      date_gmt: '2015-01-30 05:49:19'
-      id: '1081'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The four paths for implementing learning analytics and enhancing the quality
-        of learning and teaching | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.121
-      author_url: https://davidtjones.wordpress.com/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/
-      content: '[&#8230;] extension of Beer et al (2014) (e.g. there are four paths now,
-        rather than three) that&#8217;s been accepted to [&#8230;]'
-      date: '2015-06-01 10:04:49'
-      date_gmt: '2015-06-01 00:04:49'
-      id: '1082'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Make Your Own Slogan: MYOS and the Networked Future | Heart | Soul | Machine'
-      author_email: null
-      author_ip: 192.0.81.50
-      author_url: https://timklapdor.wordpress.com/2015/06/16/make-your-own-slogan-myos/
-      content: '[&#8230;] Community is the outcome of contribution, not participation.
-        MYOS needs to be something that works with people, not for or to, and lies in
-        the process of reclamation and [&#8230;]'
-      date: '2015-06-16 18:34:45'
-      date_gmt: '2015-06-16 08:34:45'
-      id: '1083'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Paper accepted to [ASCILITE'2014](http://ascilite2014.otago.ac.nz/) and nominated for best paper.
 
@@ -181,7 +178,7 @@ The use of planning-based processes to the implementation of LA projects creates
 
 The development of LA tools and processes is only the first of the steps (Elias, 2011) identifies as necessary for the implementation of LA. The second step identified by (Elias, 2011), and arguably the far more difficult step, is "the integration of these tools and processes into the practice of teaching and learning" (p. 5). Beer et al. (2012) argue that it is likely to be the teachers who have the right mix of closeness and expertise with the learning context, to make the best use of LA derived information. Echoing earlier arguments that teachers are perhaps the most important element of any attempt to enhance learning and teaching (L&T) (Radloff, 2008). Achieving such a goal would appear to require some understanding of the practice of teaching and learning. One such understanding is provided by Trigwell's (2001) model of university teaching. As shown in Figure 1, Trigwell's (2001) model suggests that the student learning experience is directly related to teachers' strategies, teachers' planning, teachers' thinking including knowledge, conceptions and reflections, along with the L&T context. This is difficult as the teacher's context is complex and dynamic. If LA is representing data about learners and their contexts and its goal is to enhance to L&T, it is crucial that it engages with teachers and their dynamic contexts (Sharples et al., 2013).
 
-[![Trigwell's model of teaching by David T Jones, on Flickr](images/3232493287_786abcefd5.jpg "Trigwell's model of teaching by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/3232493287/)Figure 1. Trigwell's (2001) model of university teaching.
+[![Trigwell's model of teaching by David T Jones, on Flickr](https://djon.es/assets/blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/images/3232493287_786abcefd5.jpg "Trigwell's model of teaching by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/3232493287/)Figure 1. Trigwell's (2001) model of university teaching.
 
 # The three paths
 

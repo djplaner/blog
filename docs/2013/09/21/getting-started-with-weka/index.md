@@ -1,91 +1,88 @@
----
+﻿---
 categories:
 - indicators
 - irac
 - learninganalytics-elearning
-date: 2013-09-21 12:44:42+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 124.189.216.206
+  author_url: http://elketeaches.wordpress.com
+  content: Hi David. I read your post with interest. I haven't looked at Weka yet,
+    does it require a lot of technical/programming knowledge?  Would it be a suitable
+    type of learning for Year 12 level in your opinion...could I simplify it and still
+    use it with this level?
+  date: '2013-09-21 14:55:16'
+  date_gmt: '2013-09-21 04:55:16'
+  id: '853'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.185.120.194
+  author_url: https://djon.es/blog/
+  content: Fairly low level technical knowledge.  Could possibly be used in Year 12.  Not
+    sure how well it would fit the syllabus requirements, but technically I don't
+    think it would be a problem.   Could potentially open up some possibilities.
+  date: '2013-09-21 16:20:02'
+  date_gmt: '2013-09-21 06:20:02'
+  id: '854'
+  parent: '853'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 124.189.216.206
+  author_url: http://elketeaches.wordpress.com
+  content: Thanks David. During my internship I have to teach about "Data-mining",
+    so I'm thinking this might tie in a bit.  It's a weird unit actually, only 4 weeks
+    with an extended written response assessment under the topics of Ethics &amp;
+    Social Resp. &amp; HCI - a weird combination I think unless related to HCI online
+    user studies.  I'll figure something out!  Looking forward to having some ownership
+    over workprogram and assessment design in future teaching
+  date: '2013-09-21 17:35:37'
+  date_gmt: '2013-09-21 07:35:37'
+  id: '855'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.223.37.191
+  author_url: https://djon.es/blog/
+  content: 'Weka would fit very well with data mining.  The weird combination is probably
+    not that unique.  At least in my limited experience there was a bit of that weirdness.  Some
+    of it arose from the nature of the curriculum.
+
+
+    On the plus side, Weka comes with data sets that would get you started quite easily.  I''d
+    also imagine, but can''t confirm yet, that there would a range of data sets around
+    to draw upon.  I think getting a data set that would engage the students would
+    be the key.'
+  date: '2013-09-22 12:04:15'
+  date_gmt: '2013-09-22 02:04:15'
+  id: '856'
+  parent: '855'
+  type: comment
+  user_id: '1'
+date: 2013-09-21 02:44:42
 next:
   text: '"Moving beyond a fashion: Likely paths and pitfalls for learning analytics"'
   url: /blog/2013/09/22/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-3/
+pingbacks: []
 previous:
   text: University data isn&#039;t that &quot;big&quot;, what are the implications?
   url: /blog/2013/09/20/university-data-isnt-that-big/
 tags:
 - weka
+template: blog-post.html
 title: Getting started with Weka
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 124.189.216.206
-      author_url: http://elketeaches.wordpress.com
-      content: Hi David. I read your post with interest. I haven't looked at Weka yet,
-        does it require a lot of technical/programming knowledge?  Would it be a suitable
-        type of learning for Year 12 level in your opinion...could I simplify it and still
-        use it with this level?
-      date: '2013-09-21 14:55:16'
-      date_gmt: '2013-09-21 04:55:16'
-      id: '853'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.185.120.194
-      author_url: https://djon.es/blog/
-      content: Fairly low level technical knowledge.  Could possibly be used in Year 12.  Not
-        sure how well it would fit the syllabus requirements, but technically I don't
-        think it would be a problem.   Could potentially open up some possibilities.
-      date: '2013-09-21 16:20:02'
-      date_gmt: '2013-09-21 06:20:02'
-      id: '854'
-      parent: '853'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 124.189.216.206
-      author_url: http://elketeaches.wordpress.com
-      content: Thanks David. During my internship I have to teach about "Data-mining",
-        so I'm thinking this might tie in a bit.  It's a weird unit actually, only 4 weeks
-        with an extended written response assessment under the topics of Ethics &amp;
-        Social Resp. &amp; HCI - a weird combination I think unless related to HCI online
-        user studies.  I'll figure something out!  Looking forward to having some ownership
-        over workprogram and assessment design in future teaching
-      date: '2013-09-21 17:35:37'
-      date_gmt: '2013-09-21 07:35:37'
-      id: '855'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.223.37.191
-      author_url: https://djon.es/blog/
-      content: 'Weka would fit very well with data mining.  The weird combination is probably
-        not that unique.  At least in my limited experience there was a bit of that weirdness.  Some
-        of it arose from the nature of the curriculum.
-    
-    
-        On the plus side, Weka comes with data sets that would get you started quite easily.  I''d
-        also imagine, but can''t confirm yet, that there would a range of data sets around
-        to draw upon.  I think getting a data set that would engage the students would
-        be the key.'
-      date: '2013-09-22 12:04:15'
-      date_gmt: '2013-09-22 02:04:15'
-      id: '856'
-      parent: '855'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 And now for the second MOOC of the year - [Data Mining with Weka](https://weka.waikato.ac.nz/dataminingwithweka/course) from the University of Waikato. Weka is an open source data mining application. Time to find out a bit more about one of the technical aspects of learning analytics. Hoping this might be useful in terms of research with [The Indicators Project](http://indicatorsproject.wordpress.com/) (we should really update that site).
 
@@ -147,7 +144,7 @@ The activity is also simple, but it does test what was covered in the video.
 
 Classification or supervised learning problem - trying to predict the class problem - i.e. play in the weather data. The standard is the last is the class value.
 
-[![Classification problem](images/9846028106_66f17e0ed5.jpg)](http://www.flickr.com/photos/david_jones/9846028106/ "Classification problem by David T Jones, on Flickr")
+[![Classification problem](https://djon.es/assets/blog/2013/09/21/getting-started-with-weka/images/9846028106_66f17e0ed5.jpg)](http://www.flickr.com/photos/david_jones/9846028106/ "Classification problem by David T Jones, on Flickr")
 
 "Good to get down and dirty with your data" - checking the reasonable value for the data. The preprocess stage of the Weka explorer is useful way of doing this.
 

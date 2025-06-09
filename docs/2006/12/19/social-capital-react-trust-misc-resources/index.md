@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
-date: 2006-12-19 15:11:21+10:00
+date: 2006-12-19 05:11:21
 next:
   text: Software as a service - Google apps for your domain
   url: /blog/2006/12/21/software-as-a-service-google-apps-for-your-domain/
 previous:
   text: Social capital - outcome and aim
   url: /blog/2006/12/16/social-capital-outcome-and-aim/
+template: blog-post.html
 title: Social capital, REACT, Trust - misc resources
 type: post
-template: blog-post.html
 ---
 This post is going to be a holding place for a range of resources that will be connected with my fuzzy thoughts around how to establish greater trust and reciprocity (maybe social capital) amongst academics and the staff who support them in developing their teaching.
 

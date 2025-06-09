@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-4
 - design-theory
@@ -7,36 +7,33 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2009-07-31 13:44:16+10:00
+comments: []
+date: 2009-07-31 03:44:16
 next:
   text: Some early results from Webfuse evaluation
   url: /blog/2009/07/31/some-early-results-from-webfuse-evaluation/
+pingbacks:
+- approved: '1'
+  author: Some early results from Webfuse evaluation &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/07/31/some-early-results-from-webfuse-evaluation/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Thinking about evaluating Webfuse (1996 through 1999) &#8211; evaluation of an&nbsp;LMS?
+    [...]'
+  date: '2009-07-31 23:43:28'
+  date_gmt: '2009-07-31 13:43:28'
+  id: '2678'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Gaps, shadow systems and the VLE/LMS
   url: /blog/2009/07/31/gaps-shadow-systems-and-the-vlelms/
+template: blog-post.html
 title: Thinking about evaluating Webfuse (1996 through 1999) - evaluation of an LMS?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Some early results from Webfuse evaluation &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/07/31/some-early-results-from-webfuse-evaluation/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Thinking about evaluating Webfuse (1996 through 1999) &#8211; evaluation of an&nbsp;LMS?
-        [...]'
-      date: '2009-07-31 23:43:28'
-      date_gmt: '2009-07-31 13:43:28'
-      id: '2678'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 For the last couple of weeks I've been working on chapter 4 of [my thesis](/blog/research/phd-thesis/). I've worked my way through explaining the context ([general context](/blog/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/) and ([use of e-learning](/blog/2009/07/27/use-of-e-learning-cqu-up-to-1996-or-so/)), the [design guidelines](/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/) and the implementation (parts [1](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/), [2](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/) and [3](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-3/)). I've now reached the evaluation section, where I'm meant to describe what happened with the use of Webfuse and make some judgement calls about how it went.
 
@@ -88,7 +85,7 @@ Some of the data from Ken's and Col's presentation about Blackboard:
 
 Malikowski et al (2007) proposed a model for evaluation the use of course management systems. The following figure is from their paper. I've made use of their work when examining the [quantity of usage of features](/blog/2009/04/23/usage-of-e-learning-quantity/#features) (read this if you want more information on their work) of an LMS in my thesis.
 
-[![Malikowski Flow Chart](images/3465729160_255865ebc6_m.jpg)](http://www.flickr.com/photos/david_jones/3465729160/ "Malikowski Flow Chart by David T Jones, on Flickr")
+[![Malikowski Flow Chart](https://djon.es/assets/blog/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/images/3465729160_255865ebc6_m.jpg)](http://www.flickr.com/photos/david_jones/3465729160/ "Malikowski Flow Chart by David T Jones, on Flickr")
 
 ### Purpose of the evaluation
 

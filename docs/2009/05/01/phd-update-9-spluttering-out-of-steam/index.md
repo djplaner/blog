@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - phd
 - thesis
-date: 2009-05-01 16:08:08+10:00
+comments: []
+date: 2009-05-01 06:08:08
 next:
   text: Place - component of the Ps Framework
   url: /blog/2009/05/06/place-component-of-the-ps-framework/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #10 &#8211; Dragging on &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/05/08/phd-update-10-dragging-on/
+  content: '[...] Last week I suggested I&#8217;d try and [...]'
+  date: '2009-05-08 15:59:37'
+  date_gmt: '2009-05-08 05:59:37'
+  id: '2467'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: First official BAM paper done
   url: /blog/2009/04/30/first-official-bam-paper-done/
+template: blog-post.html
 title: '"PhD Update #9 - spluttering out of steam"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #10 &#8211; Dragging on &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/05/08/phd-update-10-dragging-on/
-      content: '[...] Last week I suggested I&#8217;d try and [...]'
-      date: '2009-05-08 15:59:37'
-      date_gmt: '2009-05-08 05:59:37'
-      id: '2467'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 It's that time of week again, time to report on the progress of the PhD. This week has been one of those weeks where progress has not been as much as desired, but perhaps isn't quite as bad. As often happens, [last week's](/blog/2009/04/24/phd-update-8-steaming-ahead/) optimistic claims of "speeding up" spluttered out a bit.
 

@@ -1,52 +1,49 @@
----
+﻿---
 categories:
 - indicators
 - learninganalytics-elearning
-date: 2013-01-09 14:38:19+10:00
+comments: []
+date: 2013-01-09 04:38:19
 next:
   text: Making some "3100" thinking explicit
   url: /blog/2013/01/11/making-some-3100-thinking-explicit/
+pingbacks:
+- approved: '1'
+  author: 'Translating Learning into Numbers: A Generic Framework for Learning Analytics
+    | Analyse This | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/analyse-this/p/3994750834/translating-learning-into-numbers-a-generic-framework-for-learning-analytics
+  content: '[...] The following is a summary of and commentary on Greller and Drachsler
+    (2012). I come to this via the JISC/CETIS report I summarised yesterday Thoughts
+    I liked this paper because it serves a purpose...&nbsp; [...]'
+  date: '2013-01-09 17:48:56'
+  date_gmt: '2013-01-09 07:48:56'
+  id: '571'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Translating Learning into Numbers: A Generic Framework for Learning Analytics
+    | Open Distance Learning | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/open-distance-learning-1/p/3995010920/translating-learning-into-numbers-a-generic-framework-for-learning-analytics
+  content: '[...] The following is a summary of and commentary on Greller and Drachsler
+    (2012). I come to this via the JISC/CETIS report I summarised yesterday Thoughts
+    I liked this paper because it serves a purpose...&nbsp; [...]'
+  date: '2013-01-15 20:37:26'
+  date_gmt: '2013-01-15 10:37:26'
+  id: '573'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Analytics for Learning and Teaching
   url: /blog/2013/01/08/analytics-for-learning-and-teaching/
+template: blog-post.html
 title: '"Translating Learning into Numbers: A Generic Framework for Learning Analytics"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Translating Learning into Numbers: A Generic Framework for Learning Analytics
-        | Analyse This | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/analyse-this/p/3994750834/translating-learning-into-numbers-a-generic-framework-for-learning-analytics
-      content: '[...] The following is a summary of and commentary on Greller and Drachsler
-        (2012). I come to this via the JISC/CETIS report I summarised yesterday Thoughts
-        I liked this paper because it serves a purpose...&nbsp; [...]'
-      date: '2013-01-09 17:48:56'
-      date_gmt: '2013-01-09 07:48:56'
-      id: '571'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Translating Learning into Numbers: A Generic Framework for Learning Analytics
-        | Open Distance Learning | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/open-distance-learning-1/p/3995010920/translating-learning-into-numbers-a-generic-framework-for-learning-analytics
-      content: '[...] The following is a summary of and commentary on Greller and Drachsler
-        (2012). I come to this via the JISC/CETIS report I summarised yesterday Thoughts
-        I liked this paper because it serves a purpose...&nbsp; [...]'
-      date: '2013-01-15 20:37:26'
-      date_gmt: '2013-01-15 10:37:26'
-      id: '573'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary of and commentary on [Greller and Drachsler (2012)](http://www.ifets.info/journals/15_3/4.pdf). I come to this via the JISC/CETIS report [I summarised yesterday](/blog/2013/01/08/analytics-for-learning-and-teaching/)
 

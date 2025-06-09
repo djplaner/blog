@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2006-09-25 20:50:40+10:00
+date: 2006-09-25 10:50:40
 next:
   text: iTunes U - and the call for DRM
   url: /blog/2006/09/25/itunes-u-and-the-call-for-drm/
 previous:
   text: Efficient, effective, empowered learning
   url: /blog/2006/09/22/efficient-effective-empowered-learning/
+template: blog-post.html
 title: Web 2.0 tools
 type: post
-template: blog-post.html
 ---
 **Other lists**
 

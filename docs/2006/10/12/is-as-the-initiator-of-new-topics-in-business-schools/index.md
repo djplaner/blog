@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - information-systems
-date: 2006-10-12 07:23:23+10:00
+date: 2006-10-11 21:23:23
 next:
   text: The missing ground rule for Enterprise 2.0
   url: /blog/2006/10/12/the-missing-ground-rule-for-enterprise-20/
 previous:
   text: Helping &quot;NESB&quot; students realise - there is no one answer
   url: /blog/2006/10/11/helping-nesb-students-realise-there-is-no-one-answer/
+template: blog-post.html
 title: IS as the initiator of new topics in business schools
 type: post
-template: blog-post.html
 ---
 [ISWorld](http://lyris.isworld.org/isworldlist.htm) is a mailing list that acts as a major forum for discussion for information systems academics. Over the last few days the discussion has been about dropping enrolments and the search for bumper sticker phrases as one way to encourage enrolments.
 

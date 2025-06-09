@@ -1,173 +1,170 @@
----
+﻿---
 categories:
 - c2d2
 - oasis
 - plescquni
-date: 2008-08-07 10:49:23+10:00
+comments:
+- approved: '1'
+  author: Tony Bowes
+  author_email: vrbones@gmail.com
+  author_ip: 220.245.180.133
+  author_url: http://www.vrbones.com
+  content: 'Hi again David,
+
+
+    The striking difference between Jing and the process you mentioned is that Jing
+    is pretty much idiot proof and just works (like Skype). I can start jing, record
+    my mouse movements and appplication reaction while on the phone to the person
+    I''m supporting. I can email them a link in under 30 seconds of hanging up the
+    phone if they wanted a review, or leave the recording there for the next person
+    who wants the same question.  If it''s going to go on the intranet I''ll usually
+    go back and redo it so it looks a little more professional and cover more areas
+    (maybe 2 ways of doing the same thing).
+
+
+    That''s the power of it, the ease of access and the ease of sharing. I use it
+    far more than I have ever used any other screen capture program because it''s
+    just as easy (or even easier) than walking down to someone else''s office and
+    showing them directly.
+
+
+    The problem I have with the online storage is that they have not locked in exactly
+    what the deal is with perpetual access. The program is definitely not open source
+    (also like skype) so any data uploaded in the ''beta'' stage is not guaranteed
+    to be there either because the company folds or the company moves to a paid storage
+    arrangement and you''re locked out of your data. I''d rather know my data is available
+    and if there is something recorded that is worthwhile I can youTube it easily
+    enough.
+
+
+    That said it''s definitely not a magic bulllet for all captures. MP3   slideshare
+    is going to be a cleaner solution in the long run, but I do believe it could adress
+    some barriers to entry that staff may have to at least get SOMETHING done.'
+  date: '2008-08-10 00:15:13'
+  date_gmt: '2008-08-09 14:15:13'
+  id: '1583'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Tony Bowes
+  author_email: vrbones@gmail.com
+  author_ip: 150.101.181.34
+  author_url: null
+  content: 'Have you tried Jing ? ( http://www.jingproject.com/ )
+
+
+    It is one of the easiest tools I have seen for quickly taking a video (with voiceover)
+    of how a program works. I use it here at school for demonstrating something I
+    think may be needed to be repeated (connecting a printer, checking online payslips,
+    using Timetabler, etc).
+
+
+    Not too much of a fan of storing them externally. I usually store them on the
+    network share and send someone a link. Once it gets used by more than a couple
+    of people I''ll embed it into the intranet website.'
+  date: '2008-08-07 15:41:52'
+  date_gmt: '2008-08-07 05:41:52'
+  id: '1584'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Ashwan
+  author_email: ashwan@slideshare.com
+  author_ip: 125.20.84.54
+  author_url: null
+  content: 'SlideShare does support a slidecast although not in the manner you''ve
+    described.
+
+
+    You can upload a single mp3 file to any host you prefer (SlideShare doesn''t host
+    the audio) and then associate it with your presentation. The slidecast creation
+    interface allows you to synchronise sequential parts of the audio with each slide.
+
+
+    You can read about it on our FAQ page here: http://www.slideshare.net/faqs/slidecast'
+  date: '2008-08-07 15:47:26'
+  date_gmt: '2008-08-07 05:47:26'
+  id: '1585'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: d.jones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.20.102
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'G''day Tony,
+
+
+    Know of Jing.  Have used it.  Also done some screencasts with Captivate.  That
+    works fine if all I''m doing is showing how to use a particular application.
+
+
+    As an academic Powerpoint style presentations is engrained.  A slidecast allows
+    similar functionality.
+
+
+    In this instance the slide approach provides an advantage as I have to blur out
+    student details.  Not sure you can do that in a screencast, at least not easily.  I
+    will admit that I haven''t gone looking.
+
+
+    As for being public.  I''m currently a fan of making this stuff public, if there
+    are no legal type constraints.  I''m a great believe in open source, open access
+    etc.
+
+
+    David.'
+  date: '2008-08-07 15:57:58'
+  date_gmt: '2008-08-07 05:57:58'
+  id: '1586'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: d.jones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.20.102
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'G''day Ashwan,
+
+
+    It appears we''ve had a failure of communication.
+
+
+    I''ve used Slideshare a fair bit and the three screencasts linked above are on
+    Slideshare. Using exactly the method outlined on the page you mention.
+
+
+    The long term aim section is an attempt to quickly outline a potential way in
+    which folk here at CQU could quickly produce and share their slidecasts via Slideshare.
+
+
+    While I can deal with the current process, there aren''t many people at CQU that
+    could be bothered wasting their time going through all that.  It needs to be simpler
+    and quicker.  As automated as possible.
+
+
+    David.'
+  date: '2008-08-07 16:01:21'
+  date_gmt: '2008-08-07 06:01:21'
+  id: '1587'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-08-07 00:49:23
 next:
   text: Gathering principles for Web 2.0 - PLEs
   url: /blog/2008/08/11/gathering-principles-for-web-20-ples/
+pingbacks: []
 previous:
   text: The dimensions of design research
   url: /blog/2008/08/06/the-dimensions-of-design-research/
+template: blog-post.html
 title: Creating slidecasts on Slideshare - e-learning support?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Tony Bowes
-      author_email: vrbones@gmail.com
-      author_ip: 220.245.180.133
-      author_url: http://www.vrbones.com
-      content: 'Hi again David,
-    
-    
-        The striking difference between Jing and the process you mentioned is that Jing
-        is pretty much idiot proof and just works (like Skype). I can start jing, record
-        my mouse movements and appplication reaction while on the phone to the person
-        I''m supporting. I can email them a link in under 30 seconds of hanging up the
-        phone if they wanted a review, or leave the recording there for the next person
-        who wants the same question.  If it''s going to go on the intranet I''ll usually
-        go back and redo it so it looks a little more professional and cover more areas
-        (maybe 2 ways of doing the same thing).
-    
-    
-        That''s the power of it, the ease of access and the ease of sharing. I use it
-        far more than I have ever used any other screen capture program because it''s
-        just as easy (or even easier) than walking down to someone else''s office and
-        showing them directly.
-    
-    
-        The problem I have with the online storage is that they have not locked in exactly
-        what the deal is with perpetual access. The program is definitely not open source
-        (also like skype) so any data uploaded in the ''beta'' stage is not guaranteed
-        to be there either because the company folds or the company moves to a paid storage
-        arrangement and you''re locked out of your data. I''d rather know my data is available
-        and if there is something recorded that is worthwhile I can youTube it easily
-        enough.
-    
-    
-        That said it''s definitely not a magic bulllet for all captures. MP3   slideshare
-        is going to be a cleaner solution in the long run, but I do believe it could adress
-        some barriers to entry that staff may have to at least get SOMETHING done.'
-      date: '2008-08-10 00:15:13'
-      date_gmt: '2008-08-09 14:15:13'
-      id: '1583'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Tony Bowes
-      author_email: vrbones@gmail.com
-      author_ip: 150.101.181.34
-      author_url: null
-      content: 'Have you tried Jing ? ( http://www.jingproject.com/ )
-    
-    
-        It is one of the easiest tools I have seen for quickly taking a video (with voiceover)
-        of how a program works. I use it here at school for demonstrating something I
-        think may be needed to be repeated (connecting a printer, checking online payslips,
-        using Timetabler, etc).
-    
-    
-        Not too much of a fan of storing them externally. I usually store them on the
-        network share and send someone a link. Once it gets used by more than a couple
-        of people I''ll embed it into the intranet website.'
-      date: '2008-08-07 15:41:52'
-      date_gmt: '2008-08-07 05:41:52'
-      id: '1584'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Ashwan
-      author_email: ashwan@slideshare.com
-      author_ip: 125.20.84.54
-      author_url: null
-      content: 'SlideShare does support a slidecast although not in the manner you''ve
-        described.
-    
-    
-        You can upload a single mp3 file to any host you prefer (SlideShare doesn''t host
-        the audio) and then associate it with your presentation. The slidecast creation
-        interface allows you to synchronise sequential parts of the audio with each slide.
-    
-    
-        You can read about it on our FAQ page here: http://www.slideshare.net/faqs/slidecast'
-      date: '2008-08-07 15:47:26'
-      date_gmt: '2008-08-07 05:47:26'
-      id: '1585'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: d.jones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.20.102
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'G''day Tony,
-    
-    
-        Know of Jing.  Have used it.  Also done some screencasts with Captivate.  That
-        works fine if all I''m doing is showing how to use a particular application.
-    
-    
-        As an academic Powerpoint style presentations is engrained.  A slidecast allows
-        similar functionality.
-    
-    
-        In this instance the slide approach provides an advantage as I have to blur out
-        student details.  Not sure you can do that in a screencast, at least not easily.  I
-        will admit that I haven''t gone looking.
-    
-    
-        As for being public.  I''m currently a fan of making this stuff public, if there
-        are no legal type constraints.  I''m a great believe in open source, open access
-        etc.
-    
-    
-        David.'
-      date: '2008-08-07 15:57:58'
-      date_gmt: '2008-08-07 05:57:58'
-      id: '1586'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: d.jones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.20.102
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'G''day Ashwan,
-    
-    
-        It appears we''ve had a failure of communication.
-    
-    
-        I''ve used Slideshare a fair bit and the three screencasts linked above are on
-        Slideshare. Using exactly the method outlined on the page you mention.
-    
-    
-        The long term aim section is an attempt to quickly outline a potential way in
-        which folk here at CQU could quickly produce and share their slidecasts via Slideshare.
-    
-    
-        While I can deal with the current process, there aren''t many people at CQU that
-        could be bothered wasting their time going through all that.  It needs to be simpler
-        and quicker.  As automated as possible.
-    
-    
-        David.'
-      date: '2008-08-07 16:01:21'
-      date_gmt: '2008-08-07 06:01:21'
-      id: '1587'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 ### The problem
 

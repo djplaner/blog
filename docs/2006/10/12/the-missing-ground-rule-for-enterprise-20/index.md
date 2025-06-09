@@ -1,68 +1,65 @@
----
+﻿---
 categories:
 - enterprise-20
-date: 2006-10-12 11:31:39+10:00
+comments:
+- approved: '1'
+  author: Thomas Otter
+  author_email: thomas.otter@sap.com
+  author_ip: 84.173.77.25
+  author_url: http://www.theotherthomasotter.wordpress.com
+  content: 'Your comment about usefulness is spot on.
+
+    I''d add one more characteristic, efficiency of use. Sometime very easy is too
+    slow. dont hold my hand when I can run.... that is why lots of folks still use
+    command lines instead of menus.
+
+
+    google, after all, is just a command line.'
+  date: '2006-10-15 07:52:46'
+  date_gmt: '2006-10-14 21:52:46'
+  id: '1513'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: d.jones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'G''day Thomas,
+
+
+    I wonder if "efficiency of use" is wrapped up in percieved ease of use.
+
+
+    The "perceived" part is important.  It indicates that each individual is likely
+    to have a different perception.
+
+
+    My computer novice Grandmother will have a different perceived ease of use of
+    a system than I will. She''ll require a lot more hand-holding in the system than
+    I would.  There''s a small connection between this and the standard GUI design
+    advice to include short-cut keys for the expert users.
+
+
+    David.'
+  date: '2006-10-15 09:35:23'
+  date_gmt: '2006-10-14 23:35:23'
+  id: '1514'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2006-10-12 01:31:39
 next:
   text: The missing Ps in LMS adoption decisions
   url: /blog/2006/10/12/the-missing-ps-in-lms-adoption-decisions/
+pingbacks: []
 previous:
   text: IS as the initiator of new topics in business schools
   url: /blog/2006/10/12/is-as-the-initiator-of-new-topics-in-business-schools/
+template: blog-post.html
 title: The missing ground rule for Enterprise 2.0
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Thomas Otter
-      author_email: thomas.otter@sap.com
-      author_ip: 84.173.77.25
-      author_url: http://www.theotherthomasotter.wordpress.com
-      content: 'Your comment about usefulness is spot on.
-    
-        I''d add one more characteristic, efficiency of use. Sometime very easy is too
-        slow. dont hold my hand when I can run.... that is why lots of folks still use
-        command lines instead of menus.
-    
-    
-        google, after all, is just a command line.'
-      date: '2006-10-15 07:52:46'
-      date_gmt: '2006-10-14 21:52:46'
-      id: '1513'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: d.jones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'G''day Thomas,
-    
-    
-        I wonder if "efficiency of use" is wrapped up in percieved ease of use.
-    
-    
-        The "perceived" part is important.  It indicates that each individual is likely
-        to have a different perception.
-    
-    
-        My computer novice Grandmother will have a different perceived ease of use of
-        a system than I will. She''ll require a lot more hand-holding in the system than
-        I would.  There''s a small connection between this and the standard GUI design
-        advice to include short-cut keys for the expert users.
-    
-    
-        David.'
-      date: '2006-10-15 09:35:23'
-      date_gmt: '2006-10-14 23:35:23'
-      id: '1514'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 In his [MIT Sloan Management Review article](http://sloanreview.mit.edu/smr/issue/2006/spring/06/), "Enterprise 2.0: The Dawn of Emergent Collaboration", [Andrew McAfee](http://blog.hbs.edu/faculty/amcafee/) cites two "intelligent ground rules" that people building Enterprise 2.0 technologies are following
 

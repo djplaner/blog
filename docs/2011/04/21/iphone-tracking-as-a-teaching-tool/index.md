@@ -1,22 +1,22 @@
----
+﻿---
 categories:
 - teaching
-date: 2011-04-21 10:15:19+10:00
+date: 2011-04-21 00:15:19
 next:
   text: '"ICTs for Learning Design: Week 7"'
   url: /blog/2011/04/21/icts-for-learning-design-week-7/
 previous:
   text: Starting on a &quot;student diversity report&quot;
   url: /blog/2011/04/16/starting-on-a-student-diversity-report/
+template: blog-post.html
 title: iPhone tracking as a teaching tool
 type: post
-template: blog-post.html
 ---
 [Via George Siemens](http://www.elearnspace.org/blog/2011/04/20/iphone-tracking-so-not-an-issue/) I learn about my iPhone tracking where I've been, [a nifty app](http://petewarden.github.com/iPhoneTracker/) that can visualise that data, some useful resources to implement this sort of visualisation, and some detail about the file format. The obligatory visualisations of my movements - significantly less a world traveler than George - follow (click on an images to see it larger).
 
-[![iPhoneTracker visualisation 001](images/5638708941_0cee6d7df8_m.jpg)](http://www.flickr.com/photos/david_jones/5638708941/ "iPhoneTracker visualisation 001 by David T Jones, on Flickr")
+[![iPhoneTracker visualisation 001](https://djon.es/assets/blog/2011/04/21/iphone-tracking-as-a-teaching-tool/images/5638708941_0cee6d7df8_m.jpg)](http://www.flickr.com/photos/david_jones/5638708941/ "iPhoneTracker visualisation 001 by David T Jones, on Flickr")
 
-[![iPhoneTracker visualisation 002](images/5638709161_eb3ca0c516_m.jpg)](http://www.flickr.com/photos/david_jones/5638709161/ "iPhoneTracker visualisation 002 by David T Jones, on Flickr")
+[![iPhoneTracker visualisation 002](https://djon.es/assets/blog/2011/04/21/iphone-tracking-as-a-teaching-tool/images/5638709161_eb3ca0c516_m.jpg)](http://www.flickr.com/photos/david_jones/5638709161/ "iPhoneTracker visualisation 002 by David T Jones, on Flickr")
 
 I particularly liked how it captured the trip I took with the boys to look at fossils in Western Queensland. Though that probably wouldn't work now as my new provider doesn't get much reception in that area.
 

@@ -1,107 +1,105 @@
----
+﻿---
 categories:
 - bim
 - elearning
-date: 2013-04-19 10:44:12+10:00
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 138.77.36.62
+  author_url: null
+  content: "My 10 second response follows:\n\nI like the questions that you are seeking\
+    \ to explore about the provision of better tools. As you know its something that\
+    \ I\u2019m thinking about with my foray into using learning analytics to better\
+    \ identify and support struggling students. With my context in mind, I think the\
+    \ tools need both to aid decision-making and scaffold the ensuing action in a\
+    \ recursive cyclical manner. This requires the tool and the tool developers to\
+    \ be closely aligned with the context within which it is to be used. With eLearning,\
+    \ and given the fact that the people who develop the tools are typically not the\
+    \ ones using the tools, current institutional practices pretty much preclude tools\
+    \ that can do these things. That is, to use the TPACK diagram, the tools are sitting\
+    \ right up the top, completely separate from pedagogical or content knowledge."
+  date: '2013-04-19 12:23:54'
+  date_gmt: '2013-04-19 02:23:54'
+  id: '738'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.80.136
+  author_url: https://djon.es/blog/
+  content: 'G''day Col,  We''re in so much agreement it''s probably past time for
+    us to find a (slightly or not) dissenting voice to give some critique of this
+    approach.
+
+
+    It would be interesting to see if there''s any legs in gathering all of the decision
+    making processes around e-learning tools within an institution and analysing who
+    is making the decisions and what they consider (e.g. is it all technical?).
+
+
+    Some of @shane07 stuff goes in here.  Sure there are others.'
+  date: '2013-04-19 13:24:02'
+  date_gmt: '2013-04-19 03:24:02'
+  id: '739'
+  parent: '738'
+  type: comment
+  user_id: '1'
+date: 2013-04-19 00:44:12
 next:
   text: How Knowledge Workers like to learn and implications for BIM and LMS design
   url: /blog/2013/04/28/how-knowledge-workers-like-to-learn-and-implications-for-bim-and-lms-design/
+pingbacks:
+- approved: '1'
+  author: Making e-learning tools that are more supportiv...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-inclusivo/p/4000241062/making-e-learning-tools-that-are-more-supportive-bim-tpack-and-truncated-feeds
+  content: '[...] The following is a mini-argument for and example of how the e-learning
+    tools should be made more supportive. i.e. actually help the staff and students
+    using them actively address common problems in...&nbsp; [...]'
+  date: '2013-04-19 19:02:09'
+  date_gmt: '2013-04-19 09:02:09'
+  id: '740'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Making e-learning tools that are more supportiv...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/content-first/p/4002069075/making-e-learning-tools-that-are-more-supportive-bim-tpack-and
+  content: '[&#8230;] A solution. In the previous post and my current line of thinking
+    is that the TPACK (Technological Pedagogical And Content Knowledge) framework
+    can provide a useful lens for thinking about this problem.&nbsp; [&#8230;]'
+  date: '2013-05-23 06:19:05'
+  date_gmt: '2013-05-22 20:19:05'
+  id: '741'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Making e-learning tools that are more supportiv...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-tooling/p/4003603263/making-e-learning-tools-that-are-more-supportive-bim-tpack-and
+  content: '[&#8230;] A pessimistic optimist&#039;s journey through learning, teaching
+    and technology (by David Jones)&nbsp; [&#8230;]'
+  date: '2013-06-22 20:15:12'
+  date_gmt: '2013-06-22 10:15:12'
+  id: '742'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: And they don&#039;t even know enough to expect better
   url: /blog/2013/04/16/and-they-dont-even-know-enough-to-expect-better/
+template: blog-post.html
 title: Making e-learning tools that are more supportive - BIM, TPACK and truncated
   feeds
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 138.77.36.62
-      author_url: null
-      content: "My 10 second response follows:\n\nI like the questions that you are seeking\
-        \ to explore about the provision of better tools. As you know its something that\
-        \ I\u2019m thinking about with my foray into using learning analytics to better\
-        \ identify and support struggling students. With my context in mind, I think the\
-        \ tools need both to aid decision-making and scaffold the ensuing action in a\
-        \ recursive cyclical manner. This requires the tool and the tool developers to\
-        \ be closely aligned with the context within which it is to be used. With eLearning,\
-        \ and given the fact that the people who develop the tools are typically not the\
-        \ ones using the tools, current institutional practices pretty much preclude tools\
-        \ that can do these things. That is, to use the TPACK diagram, the tools are sitting\
-        \ right up the top, completely separate from pedagogical or content knowledge."
-      date: '2013-04-19 12:23:54'
-      date_gmt: '2013-04-19 02:23:54'
-      id: '738'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.80.136
-      author_url: https://djon.es/blog/
-      content: 'G''day Col,  We''re in so much agreement it''s probably past time for
-        us to find a (slightly or not) dissenting voice to give some critique of this
-        approach.
-    
-    
-        It would be interesting to see if there''s any legs in gathering all of the decision
-        making processes around e-learning tools within an institution and analysing who
-        is making the decisions and what they consider (e.g. is it all technical?).
-    
-    
-        Some of @shane07 stuff goes in here.  Sure there are others.'
-      date: '2013-04-19 13:24:02'
-      date_gmt: '2013-04-19 03:24:02'
-      id: '739'
-      parent: '738'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Making e-learning tools that are more supportiv...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-inclusivo/p/4000241062/making-e-learning-tools-that-are-more-supportive-bim-tpack-and-truncated-feeds
-      content: '[...] The following is a mini-argument for and example of how the e-learning
-        tools should be made more supportive. i.e. actually help the staff and students
-        using them actively address common problems in...&nbsp; [...]'
-      date: '2013-04-19 19:02:09'
-      date_gmt: '2013-04-19 09:02:09'
-      id: '740'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Making e-learning tools that are more supportiv...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/content-first/p/4002069075/making-e-learning-tools-that-are-more-supportive-bim-tpack-and
-      content: '[&#8230;] A solution. In the previous post and my current line of thinking
-        is that the TPACK (Technological Pedagogical And Content Knowledge) framework
-        can provide a useful lens for thinking about this problem.&nbsp; [&#8230;]'
-      date: '2013-05-23 06:19:05'
-      date_gmt: '2013-05-22 20:19:05'
-      id: '741'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Making e-learning tools that are more supportiv...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-tooling/p/4003603263/making-e-learning-tools-that-are-more-supportive-bim-tpack-and
-      content: '[&#8230;] A pessimistic optimist&#039;s journey through learning, teaching
-        and technology (by David Jones)&nbsp; [&#8230;]'
-      date: '2013-06-22 20:15:12'
-      date_gmt: '2013-06-22 10:15:12'
-      id: '742'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a mini-argument for and example of how the e-learning tools should be made more supportive. i.e. actually help the staff and students using them actively address common problems in a pro-active way. It continues some more thinking about an earlier question I asked, [Does institutional e-learning have a TPACK problem?"](/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/) and hopefully will inform the on-going research and development around [BIM](/blog/research/bam-blog-aggregation-management/) (now [officially released](/blog/research/bam-blog-aggregation-management/) to the Moodle community) and also inform the [Moodlemoot'AU 2013](http://moodlemoot.org.au/) presentation I proposed.
 

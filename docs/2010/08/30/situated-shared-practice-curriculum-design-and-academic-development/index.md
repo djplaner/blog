@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - academicdevelopment
 - c2d2
@@ -8,115 +8,113 @@ categories:
 - highereducation
 - phd
 - thesis
-date: 2010-08-30 21:51:37+10:00
+comments:
+- approved: '1'
+  author: nonamuldoon
+  author_email: n.muldoon@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: http://
+  content: "An interesting post David, it resonates well with me, particularly this\
+    \ one:\n\n\"For example, the e-learning designers/developers, curriculum designers\
+    \ and academic developers are generally not directly involved with the everyday\
+    \ practice of learning and teaching within the institution. As a result the teaching\
+    \ academics and these other support staff don\u2019t get the benefit of shared\
+    \ practice.\"\n\nFortunately for me I consciously embed scholarship and research\
+    \ in my practice. In doing so, through partnerships with teaching academics, and\
+    \ in the way I operate in design-based research projects, etc etc, we get the\
+    \ benefit of this shared practice to which you and these authors refer. It is\
+    \ a far richer journey for all concerned, including the students with whom I interact\
+    \ directly during implementation. This approach enables all parties to have input\
+    \ to the way learning and teaching might be shaped.\n\nThis is a lived experience\
+    \ of assuming multiple roles in a reciprocal manner - designer/teacher/surrogate\
+    \ student/researcher - which not only enables shared reflective processes but\
+    \ also evidence-based practice.\n\nI can already hear you say... this is an isolated\
+    \ case. And I shall respond... perhaps at CQU :) Hence, I commend your suggestions\
+    \ under the heading 'An Alternative'."
+  date: '2010-08-31 11:42:07'
+  date_gmt: '2010-08-31 01:42:07'
+  id: '3157'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.42.225
+  author_url: https://djon.es/blog/
+  content: 'G''day Nona,
+
+
+    There is much to the type of activities you describe, and which I''ve seen first
+    hand.  However, at best I think these practices move you in the right direction
+    while still failing to achieve the benefits that arise from having a system that
+    provides truly shared practice.
+
+
+    Perhaps the largest limitation in your practice is the situation in which you
+    first encounter students and staff. In the current situation, your first encounter
+    with most staff is one devoid of an established relationship built upon a long
+    period of helping staff in their teaching.
+
+
+    There are always exception, however, when you look at the majority of teaching
+    staff at an institution they do not have an established relationship with the
+    instructional design/education developers.  What worse, is the relationship is
+    usually started by teaching academics being required to interact with instructional
+    designers to achieve some top-down goal that has not been well thought through.
+
+
+    This isn''t about having a collaborative process of shaping teaching in which
+    all get a voice. It''s about building shared insight, trust and a relationship
+    that can be used more effectively to shape teaching. It''s about having a mechanism
+    of supporting teaching that enables and encourages that sharing to occur with
+    the vast majority of staff, not just the keen few.
+
+
+    If you like, you could take a George Siemens line and say its about having a process
+    for the "delivery" of everyday teaching and learning that focusing on forming
+    new and improving existing connections between the involved actors.
+
+
+    The Seely Brown and Duguid quote about "corporate training programs" resonate
+    very strongly with the comments I have heard from a broad array of academic staff
+    who have been through recent LMS training. The superficiality of that training
+    is being followed up with a similar shallowness in the on-going support and change
+    around the LMS.
+
+
+    David.'
+  date: '2010-09-02 14:00:34'
+  date_gmt: '2010-09-02 04:00:34'
+  id: '3158'
+  parent: '3157'
+  type: comment
+  user_id: '1'
+date: 2010-08-30 11:51:37
 next:
   text: Scaffolding, context-sensitive conglomerations in e-learning systems
   url: /blog/2010/09/03/scaffolding-context-sensitive-conglomerations-in-e-learning-systems/
+pingbacks:
+- approved: '1'
+  author: Harnessing learning analytics to inform/improve learning and teaching &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.18
+  author_url: https://djon.es/blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
+  content: '[...] this post Key enabling factors for knowledge creation is knowledge
+    sharing and integration [36,54]. Research [...]'
+  date: '2012-05-20 15:10:01'
+  date_gmt: '2012-05-20 05:10:01'
+  id: '3159'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The rider, elephant, and shaping the path
   url: /blog/2010/08/30/rider-elephant-path/
+template: blog-post.html
 title: Situated shared practice, curriculum design and academic development
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: nonamuldoon
-      author_email: n.muldoon@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: http://
-      content: "An interesting post David, it resonates well with me, particularly this\
-        \ one:\n\n\"For example, the e-learning designers/developers, curriculum designers\
-        \ and academic developers are generally not directly involved with the everyday\
-        \ practice of learning and teaching within the institution. As a result the teaching\
-        \ academics and these other support staff don\u2019t get the benefit of shared\
-        \ practice.\"\n\nFortunately for me I consciously embed scholarship and research\
-        \ in my practice. In doing so, through partnerships with teaching academics, and\
-        \ in the way I operate in design-based research projects, etc etc, we get the\
-        \ benefit of this shared practice to which you and these authors refer. It is\
-        \ a far richer journey for all concerned, including the students with whom I interact\
-        \ directly during implementation. This approach enables all parties to have input\
-        \ to the way learning and teaching might be shaped.\n\nThis is a lived experience\
-        \ of assuming multiple roles in a reciprocal manner - designer/teacher/surrogate\
-        \ student/researcher - which not only enables shared reflective processes but\
-        \ also evidence-based practice.\n\nI can already hear you say... this is an isolated\
-        \ case. And I shall respond... perhaps at CQU :) Hence, I commend your suggestions\
-        \ under the heading 'An Alternative'."
-      date: '2010-08-31 11:42:07'
-      date_gmt: '2010-08-31 01:42:07'
-      id: '3157'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.42.225
-      author_url: https://djon.es/blog/
-      content: 'G''day Nona,
-    
-    
-        There is much to the type of activities you describe, and which I''ve seen first
-        hand.  However, at best I think these practices move you in the right direction
-        while still failing to achieve the benefits that arise from having a system that
-        provides truly shared practice.
-    
-    
-        Perhaps the largest limitation in your practice is the situation in which you
-        first encounter students and staff. In the current situation, your first encounter
-        with most staff is one devoid of an established relationship built upon a long
-        period of helping staff in their teaching.
-    
-    
-        There are always exception, however, when you look at the majority of teaching
-        staff at an institution they do not have an established relationship with the
-        instructional design/education developers.  What worse, is the relationship is
-        usually started by teaching academics being required to interact with instructional
-        designers to achieve some top-down goal that has not been well thought through.
-    
-    
-        This isn''t about having a collaborative process of shaping teaching in which
-        all get a voice. It''s about building shared insight, trust and a relationship
-        that can be used more effectively to shape teaching. It''s about having a mechanism
-        of supporting teaching that enables and encourages that sharing to occur with
-        the vast majority of staff, not just the keen few.
-    
-    
-        If you like, you could take a George Siemens line and say its about having a process
-        for the "delivery" of everyday teaching and learning that focusing on forming
-        new and improving existing connections between the involved actors.
-    
-    
-        The Seely Brown and Duguid quote about "corporate training programs" resonate
-        very strongly with the comments I have heard from a broad array of academic staff
-        who have been through recent LMS training. The superficiality of that training
-        is being followed up with a similar shallowness in the on-going support and change
-        around the LMS.
-    
-    
-        David.'
-      date: '2010-09-02 14:00:34'
-      date_gmt: '2010-09-02 04:00:34'
-      id: '3158'
-      parent: '3157'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Harnessing learning analytics to inform/improve learning and teaching &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.18
-      author_url: https://djon.es/blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
-      content: '[...] this post Key enabling factors for knowledge creation is knowledge
-        sharing and integration [36,54]. Research [...]'
-      date: '2012-05-20 15:10:01'
-      date_gmt: '2012-05-20 05:10:01'
-      id: '3159'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Am currently reading Faegri et al (2010) as part of developing the justificatory knowledge for the final ISDT for e-learning that is meant to be the contribution of [the thesis](/blog/research/phd-thesis/). The principle from the ISDT that this paper connects with is the idea of a "Multi-skilled, integrated development and support team" (the name is a work in progress). The following is simply a placeholder for a quote from the paper and a brief connection with the ISDT and what I think it means for curriculum design and academic development.
 

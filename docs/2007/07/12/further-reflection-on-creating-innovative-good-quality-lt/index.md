@@ -1,65 +1,62 @@
----
+﻿---
 categories:
 - ascilitementor
-date: 2007-07-12 22:32:42+10:00
+comments:
+- approved: '1'
+  author: Kathleen Gray
+  author_email: kgray@unimelb.edu.au
+  author_ip: 128.250.6.244
+  author_url: null
+  content: "Though I\xE2\x80\x99d play devils\xE2\x80\x99 advocate in my comments\
+    \ today\xE2\x80\xA6:)\n\nRe your favourite diagram: wouldn\xE2\x80\x99t it be\
+    \ fairer to say that the ultimate aim is to create in the students a sense of\
+    \ rightness around L&amp;T?\n\nRe your examples (\xE2\x80\x9Coverspending \xE2\
+    \x80\xA6\xE2\x80\xA6.increases in support):  to what extent do you consider that\
+    \ as the head of a university infrastructure unit, it is up to you (and by extension\
+    \ your unit) to use your role and position in the organisation to influence for\
+    \ the better other aspects of the infrastructure that pose barriers to improving\
+    \ L&amp;T?\n\nRe maintaining a sense of equilibrium/homeostasis between the system\
+    \ and the external world: The world isn\xE2\x80\x99t external to the system, but\
+    \ rather, the world is constituted of interconnected systems. Massive change isn\xE2\
+    \x80\x99t bad or good, it just is part of how the world turns, in ecological terms.\
+    \ Homeostasis is the quality that enables rapid recovery from massive change \xE2\
+    \x80\x93 100 years in the case of Krakatoa is pretty quick in geological time!\
+    \  Homeostasis doesn\xE2\x80\x99t preclude change; r and K strategies are equally\
+    \ important to it. If you have trouble accentuating the positive, think of all\
+    \ the biodiversity that flourishes when a few resource-hogging climax species\
+    \ are brought low by massive change \xE2\x80\x93 it ushers in a time for widespread\
+    \ flora and fauna renewal and a different stage in the ecosystem cycle that is\
+    \ far from simple or unsophisticated and has its own beauty.\n\nAlthough they\
+    \ can be grossly mismanaged, versioning up or migrating over (Blackboard 6.3 to\
+    \ 7.3 or Blackboard to Moodle) aren\xE2\x80\x99t really massive changes in comparison\
+    \ to others that university leaders have to implement. Restructuring organisational\
+    \ units may bring lesser or greater changes - but \xE2\x80\x9Crestructuring\xE2\
+    \x80? is not a bad word, and is part of any manager\xE2\x80\x99s repertoire, including\
+    \ yours.\n\nLocal adaptation, small change, trust \xE2\x80\x93 what if by proceeding\
+    \ mainly in this way you are actually fiddling while Rome burns, rearranging the\
+    \ deckchairs on the Titanic, building false confidence in the status quo, or otherwise\
+    \ trying to sustain the unsustainable?\n\nYou might find Geoff Sharrock\xE2\x80\
+    \x99s article in the current Australian Universities Review 49(1&amp;2) thought-provoking\
+    \ to read, especially his conclusions about activist forms of leadership, engaging\
+    \ staff in considered adaptation, and organisational reinvention from within.\n\
+    \nCheers,\nKathleen"
+  date: '2007-07-31 15:34:58'
+  date_gmt: '2007-07-31 05:34:58'
+  id: '1565'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2007-07-12 12:32:42
 next:
   text: Claiming my blog on technorati
   url: /blog/2007/08/01/claiming-my-blog-on-technorati/
+pingbacks: []
 previous:
   text: Some short-term futures for learning @ CQU
   url: /blog/2007/07/11/some-short-term-futures-for-learning-cqu/
+template: blog-post.html
 title: '"Further reflection on creating innovative, good quality L&#038;T"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Kathleen Gray
-      author_email: kgray@unimelb.edu.au
-      author_ip: 128.250.6.244
-      author_url: null
-      content: "Though I\xE2\x80\x99d play devils\xE2\x80\x99 advocate in my comments\
-        \ today\xE2\x80\xA6:)\n\nRe your favourite diagram: wouldn\xE2\x80\x99t it be\
-        \ fairer to say that the ultimate aim is to create in the students a sense of\
-        \ rightness around L&amp;T?\n\nRe your examples (\xE2\x80\x9Coverspending \xE2\
-        \x80\xA6\xE2\x80\xA6.increases in support):  to what extent do you consider that\
-        \ as the head of a university infrastructure unit, it is up to you (and by extension\
-        \ your unit) to use your role and position in the organisation to influence for\
-        \ the better other aspects of the infrastructure that pose barriers to improving\
-        \ L&amp;T?\n\nRe maintaining a sense of equilibrium/homeostasis between the system\
-        \ and the external world: The world isn\xE2\x80\x99t external to the system, but\
-        \ rather, the world is constituted of interconnected systems. Massive change isn\xE2\
-        \x80\x99t bad or good, it just is part of how the world turns, in ecological terms.\
-        \ Homeostasis is the quality that enables rapid recovery from massive change \xE2\
-        \x80\x93 100 years in the case of Krakatoa is pretty quick in geological time!\
-        \  Homeostasis doesn\xE2\x80\x99t preclude change; r and K strategies are equally\
-        \ important to it. If you have trouble accentuating the positive, think of all\
-        \ the biodiversity that flourishes when a few resource-hogging climax species\
-        \ are brought low by massive change \xE2\x80\x93 it ushers in a time for widespread\
-        \ flora and fauna renewal and a different stage in the ecosystem cycle that is\
-        \ far from simple or unsophisticated and has its own beauty.\n\nAlthough they\
-        \ can be grossly mismanaged, versioning up or migrating over (Blackboard 6.3 to\
-        \ 7.3 or Blackboard to Moodle) aren\xE2\x80\x99t really massive changes in comparison\
-        \ to others that university leaders have to implement. Restructuring organisational\
-        \ units may bring lesser or greater changes - but \xE2\x80\x9Crestructuring\xE2\
-        \x80? is not a bad word, and is part of any manager\xE2\x80\x99s repertoire, including\
-        \ yours.\n\nLocal adaptation, small change, trust \xE2\x80\x93 what if by proceeding\
-        \ mainly in this way you are actually fiddling while Rome burns, rearranging the\
-        \ deckchairs on the Titanic, building false confidence in the status quo, or otherwise\
-        \ trying to sustain the unsustainable?\n\nYou might find Geoff Sharrock\xE2\x80\
-        \x99s article in the current Australian Universities Review 49(1&amp;2) thought-provoking\
-        \ to read, especially his conclusions about activist forms of leadership, engaging\
-        \ staff in considered adaptation, and organisational reinvention from within.\n\
-        \nCheers,\nKathleen"
-      date: '2007-07-31 15:34:58'
-      date_gmt: '2007-07-31 05:34:58'
-      id: '1565'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 During 2007 I'm participating in the [ASCILITE mentoring program](http://www.ascilite.org.au/index.php?option=com_content&task=view&id=52&Itemid=0). My mentor and I have been using a discussion on this blog as part of that process. This post is a continuation of a discussion started [on an earlier blog post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=118). In particular, I'm going to pick up and reflect upon some of Kathleen's comments.
 

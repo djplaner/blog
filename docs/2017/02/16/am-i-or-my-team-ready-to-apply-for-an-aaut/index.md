@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - eei
-date: 2017-02-16 08:12:50+10:00
+date: 2017-02-15 22:12:50
 next:
   text: '"Open Educational Practice and Preservice Teacher Education: Understanding
     past practice and future possibilities"'
@@ -11,9 +11,9 @@ previous:
   url: /blog/2017/02/10/the-pebkac-problem-of-ict-support-and-training/
 tags:
 - eei
+template: blog-post.html
 title: Am I (or my team) ready to apply for an AAUT?
 type: post
-template: blog-post.html
 ---
 The following provides access to range of resources associated with the institutional process for supporting USQ staff considering applying for the [2017 Australian Awards for University Teaching (AAUT)](https://www.education.gov.au/how-nominate-australian-awards-university-teaching). The process started with two sessions
 

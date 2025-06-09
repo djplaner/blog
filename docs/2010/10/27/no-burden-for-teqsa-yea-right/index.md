@@ -1,10 +1,58 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-10-27 09:11:46+10:00
+comments:
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://users.on.net/~iancreid/
+  content: 'David
+
+
+    Couldn''t agree more - in fact this was pretty much the argument of my PhD...
+
+
+    Auditing kills off innovation, particularly innovation online which is so hard
+    for AUQA to measure...'
+  date: '2010-10-27 15:12:26'
+  date_gmt: '2010-10-27 05:12:26'
+  id: '3179'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: null
+  content: Rest assured that Australia has nothing on the U.S. regarding games playing.  We
+    are the champs!
+  date: '2010-10-28 01:27:13'
+  date_gmt: '2010-10-27 15:27:13'
+  id: '3180'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.169.182.179
+  author_url: https://djon.es/blog/
+  content: Had wondered about the US context. I had a vague impression that it is
+    a much more diverse system, but (and maybe because of) that external accreditation
+    has a longer history and is seen as more important.  Is that the case.
+  date: '2010-10-28 16:50:48'
+  date_gmt: '2010-10-28 06:50:48'
+  id: '3181'
+  parent: '3180'
+  type: comment
+  user_id: '1'
+date: 2010-10-26 23:11:46
 next:
   text: Thesis abstract v1.0b
   url: /blog/2010/10/28/thesis-abstract-v1-0/
+pingbacks: []
 previous:
   text: Ideas for extending the flexibility of BIM
   url: /blog/2010/10/21/ideas-for-extending-the-flexibility-of-bim/
@@ -14,60 +62,9 @@ tags:
 - project
 - standards
 - teaching-council
+template: blog-post.html
 title: No burden for TEQSA, yea right
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://users.on.net/~iancreid/
-      content: 'David
-    
-    
-        Couldn''t agree more - in fact this was pretty much the argument of my PhD...
-    
-    
-        Auditing kills off innovation, particularly innovation online which is so hard
-        for AUQA to measure...'
-      date: '2010-10-27 15:12:26'
-      date_gmt: '2010-10-27 05:12:26'
-      id: '3179'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: null
-      content: Rest assured that Australia has nothing on the U.S. regarding games playing.  We
-        are the champs!
-      date: '2010-10-28 01:27:13'
-      date_gmt: '2010-10-27 15:27:13'
-      id: '3180'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.169.182.179
-      author_url: https://djon.es/blog/
-      content: Had wondered about the US context. I had a vague impression that it is
-        a much more diverse system, but (and maybe because of) that external accreditation
-        has a longer history and is seen as more important.  Is that the case.
-      date: '2010-10-28 16:50:48'
-      date_gmt: '2010-10-28 06:50:48'
-      id: '3181'
-      parent: '3180'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The quote attributed to Lisa Paul illustrates the vast distance between her experience and that of staff within universities. The phrase "we'll get to that after the AUQA audit" has been oft repeated at one institution I'm familiar with for at the best part of a year.  
   

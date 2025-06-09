@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2006-11-29 22:06:12+10:00
+date: 2006-11-29 12:06:12
 next:
   text: Mao's "four pests" campaign - problems with herding cats
   url: /blog/2006/12/15/maos-four-pests-campaign-problems-with-herding-cats/
@@ -9,9 +9,9 @@ previous:
   text: The Long Tail - aggregation and context and the role of a &quot;Web 2.0 course
     site&quot;
   url: /blog/2006/11/29/the-long-tail-aggregation-and-context-and-the-role-of-a-web-20-course-site/
+template: blog-post.html
 title: Software as a Service (SaaS) and elearning
 type: post
-template: blog-post.html
 ---
 The last couple of days has seen a bit of discussion in the blogosphere about Software as a Service (SaaS) and the where it is going in terms of adoption. This [post](http://www.enterpriseweb2.com/?p=166) summarises some of the discussion and makes a number of points. Wikipedia has [an entry for SaaS](http://en.wikipedia.org/wiki/Software_as_a_Service).
 

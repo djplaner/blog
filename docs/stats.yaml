@@ -58,6 +58,8 @@ externalLinks:
 - count: 8
   link: http://netgl.wordpress.com
 - count: 8
+  link: 'https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png '
+- count: 8
   link: https://www.flickr.com/people/ecmp355/
 - count: 8
   link: http://ascilite2014.otago.ac.nz/
@@ -97,9 +99,7 @@ externalLinks:
   link: http://damosworld.wordpress.com/
 - count: 7
   link: http://en.wikipedia.org/wiki/Technology_acceptance_model
-- count: 7
-  link: https://github.com/djplaner/BIM/issues
-firstPost: 2006-03-02T00:29:17.000000+1000
+firstPost: 2006-03-01T14:29:17.000000+1000
 internalLinks:
 - count: 132
   link: /blog/research/bam-blog-aggregation-management/
@@ -141,8 +141,6 @@ internalLinks:
   link: /blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/
 - count: 13
   link: /blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/
-- count: 12
-  link: images/3232493287_786abcefd5_m.jpg
 - count: 12
   link: /blog/research/curriculum-mapping/
 - count: 11
@@ -201,7 +199,9 @@ internalLinks:
   link: /blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/
 - count: 7
   link: /blog/2010/04/25/inside-out-outside-in-or-both/
-lastPost: 2025-05-23T14:17:25.821396+0000
+- count: 7
+  link: /blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/
+lastPost: 2025-05-23T14:17:25.821396+1000
 numPages: 66
 numPosts: 1442
 postsPerYear:
@@ -228,10 +228,10 @@ wordsPerYear:
   '2006': 26582
   '2007': 35857
   '2008': 216385
-  '2009': 383515
+  '2009': 383520
   '2010': 231523
-  '2011': 160256
-  '2012': 106573
+  '2011': 160303
+  '2012': 106605
   '2013': 121643
   '2014': 110978
   '2015': 142130

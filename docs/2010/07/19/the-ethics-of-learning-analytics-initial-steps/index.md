@@ -1,51 +1,49 @@
----
+﻿---
 categories:
 - elearning
 - indicators
-date: 2010-07-19 21:50:13+10:00
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 118.208.13.134
+  author_url: http://
+  content: Most retailers use door counters and some even attempt to map customer
+    movements around their stores. They use this data to generate marketing and product
+    placement purposes and you do not see any warnings or disclaimers when you enter
+    the stores. Is this an ethical issue? I doubt it.
+  date: '2010-07-20 21:08:18'
+  date_gmt: '2010-07-20 11:08:18'
+  id: '3121'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-07-19 11:50:13
 next:
   text: An overview of BIM
   url: /blog/2010/07/20/an-overview-of-bim/
+pingbacks:
+- approved: '1'
+  author: The growth potential and ethics of academic analytics. &laquo; Col&#039;s
+    Weblog
+  author_email: null
+  author_ip: 74.200.247.113
+  author_url: http://beerc.wordpress.com/2010/08/29/the-growth-potential-and-ethics-of-academic-analytics/
+  content: '[...] have touched on this before in a previous blog posting and David
+    expanded upon this in a recent post of his. Seemingly related to the ethical concerns
+    around academic analytics is [...]'
+  date: '2010-08-29 18:45:42'
+  date_gmt: '2010-08-29 08:45:42'
+  id: '3122'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Trip report - Moodlemoot&#039;AU 2010
   url: /blog/2010/07/16/trip-report-moodlemootau-2010/
+template: blog-post.html
 title: '"The ethics of learning analytics: initial steps"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 118.208.13.134
-      author_url: http://
-      content: Most retailers use door counters and some even attempt to map customer
-        movements around their stores. They use this data to generate marketing and product
-        placement purposes and you do not see any warnings or disclaimers when you enter
-        the stores. Is this an ethical issue? I doubt it.
-      date: '2010-07-20 21:08:18'
-      date_gmt: '2010-07-20 11:08:18'
-      id: '3121'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: The growth potential and ethics of academic analytics. &laquo; Col&#039;s
-        Weblog
-      author_email: null
-      author_ip: 74.200.247.113
-      author_url: http://beerc.wordpress.com/2010/08/29/the-growth-potential-and-ethics-of-academic-analytics/
-      content: '[...] have touched on this before in a previous blog posting and David
-        expanded upon this in a recent post of his. Seemingly related to the ethical concerns
-        around academic analytics is [...]'
-      date: '2010-08-29 18:45:42'
-      date_gmt: '2010-08-29 08:45:42'
-      id: '3122'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Col's [recent blog post](http://beerc.wordpress.com/2010/07/19/ethical-issues-around-data-mining-learning-management-systems/) has just started the necessary process of [the Indicators project](http://indicatorsproject.wordpress.com/) paying closer attention to the question of ethics when applied to learning analytics. The following are some of my initial responses to Col's post and an attempt to invite some additional suggestions from other folk around the question
 

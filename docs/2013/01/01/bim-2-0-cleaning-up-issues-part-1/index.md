@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2013-01-01 17:01:01+10:00
+comments: []
+date: 2013-01-01 07:01:01
 next:
   text: When will we no longer teach ICTs to pre-service teachers?
   url: /blog/2013/01/02/when-will-we-no-longer-teach-icts-to-pre-service-teachers/
+pingbacks:
+- approved: '1'
+  author: BIM 2.0 &#8211; Cleaning up issues &#8211; Part 2 &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.30
+  author_url: https://djon.es/blog/2013/01/04/bim-2-0-cleaning-up-issues-part-2/
+  content: '[...] on that last bit of issue cleanup this aims to reduce the list of
+    open BIM issues a bit more. The focus in this part will [...]'
+  date: '2013-01-04 20:10:53'
+  date_gmt: '2013-01-04 10:10:53'
+  id: '546'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Adding restore to BIM
   url: /blog/2013/01/01/adding-restore-to-bim/
+template: blog-post.html
 title: BIM 2.0 - cleaning up issues - Part 1
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM 2.0 &#8211; Cleaning up issues &#8211; Part 2 &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.30
-      author_url: https://djon.es/blog/2013/01/04/bim-2-0-cleaning-up-issues-part-2/
-      content: '[...] on that last bit of issue cleanup this aims to reduce the list of
-        open BIM issues a bit more. The focus in this part will [...]'
-      date: '2013-01-04 20:10:53'
-      date_gmt: '2013-01-04 10:10:53'
-      id: '546'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 While [BIM 2.0](/blog/research/bam-blog-aggregation-management/) is largely working there remains a [list of 30 open issues](https://github.com/djplaner/BIM/issues) to be addressed. 19 of these are "future" issues. i.e. changes that would be really nice but aren't necessary for the immediate release of BIM 2.0. The following is the first part of working on the 11 that are of immediate interest.
 

@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - learninganalytics-elearning
-date: 2013-11-12 14:26:26+10:00
+date: 2013-11-12 04:26:26
 next:
   text: On the limitations of learning design for improving learning and teaching
   url: /blog/2013/11/13/on-the-limitations-of-learning-design-for-improving-learning-and-teaching/
 previous:
   text: BIM for Moodle 2.5
   url: /blog/2013/11/06/bim-for-moodle-2-5/
+template: blog-post.html
 title: Exploring current institutional e-learning usage
 type: post
-template: blog-post.html
 ---
 The following is a summary of an exploration of the recent literature analysing University LMS usage and some thinking about further research.
 

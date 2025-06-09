@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-07-26 14:37:52+10:00
+date: 2009-07-26 04:37:52
 next:
   text: Use of "e-learning" @ CQU up to 1996 (or so)
   url: /blog/2009/07/27/use-of-e-learning-cqu-up-to-1996-or-so/
 previous:
   text: Build it and they will come - starting with the institution
   url: /blog/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/
+template: blog-post.html
 title: '"PhD update #18 - moving along"'
 type: post
-template: blog-post.html
 ---
 [Last week's update](/blog/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/) reported on a bit of a brick wall that had been struck. Thankfully, the strategies outlined in that update and feedback from the esteemed supervisor has well and truly destroyed said brick wall and progress is steaming ahead with a renewed sense of vigour and perhaps just the vaguest glimmers of light at the end of a long, long tunnel.
 

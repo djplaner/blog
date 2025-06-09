@@ -1,113 +1,110 @@
----
+﻿---
 categories:
 - cognitiveedge
 - cqulearninghistory
 - elearning
 - patterns
 - react
-date: 2009-02-22 21:49:31+10:00
+comments: []
+date: 2009-02-22 11:49:31
 next:
   text: When was this - past experience of e-learning
   url: /blog/2009/02/23/when-was-this-past-experience-of-e-learning/
+pingbacks:
+- approved: '1'
+  author: Featured on slideshare - the give and take of social computing &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/
+  content: '[...] this week, a post of mine on patterns for e-learning has started
+    a conversation with the head of an Art and Design Research centre in the UK about
+    [...]'
+  date: '2009-02-27 17:31:42'
+  date_gmt: '2009-02-27 07:31:42'
+  id: '2147'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Patterns for e-learning &ndash; a lost opportunity or destined to fail |
+    eLearning Project Management | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/elearning-project-management/p/3995312651/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail
+  content: '[...] In the following I reflect on my aborted and half-baked attempts
+    at harnessing design patterns within the practice of e-learning at universities
+    and wonder whether it was a lost opportunity and/or ...&nbsp; [...]'
+  date: '2013-01-22 16:03:04'
+  date_gmt: '2013-01-22 06:03:04'
+  id: '2148'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Patterns for e-learning &ndash; a lost opportunity or destined to fail |
+    Educaci&oacute;n flexible y abierta | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/flexible-abierta/p/3995315652/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail
+  content: '[...] In the following I reflect on my aborted and half-baked attempts
+    at harnessing design patterns within the practice of e-learning at universities
+    and wonder whether it was a lost opportunity and/or ...&nbsp; [...]'
+  date: '2013-01-22 17:37:28'
+  date_gmt: '2013-01-22 07:37:28'
+  id: '2149'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Patterns for e-learning &ndash; a lost opportunity or destined to fail |
+    E-Learning-Inclusivo (Mashup) | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-inclusivo/p/3995318433/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail
+  content: '[...] In the following I reflect on my aborted and half-baked attempts
+    at harnessing design patterns within the practice of e-learning at universities
+    and wonder whether it was a lost opportunity and/or ...&nbsp; [...]'
+  date: '2013-01-22 18:34:43'
+  date_gmt: '2013-01-22 08:34:43'
+  id: '2150'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Random #fedwikihappening ramblings | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 207.198.101.57
+  author_url: https://davidtjones.wordpress.com/2014/12/29/random-fedwikihappening-ramblings/
+  content: '[&#8230;] working on that, but nothing ever came of it. Ten years later
+    I reflected on that experience in this blog post and proposed three reasons why
+    design patterns didn&#8217;t work in our context (the obvious other [&#8230;]'
+  date: '2014-12-29 15:19:20'
+  date_gmt: '2014-12-29 05:19:20'
+  id: '2151'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Developing a new pattern language &#8211; Sentient City
+  author_email: null
+  author_ip: 192.0.113.38
+  author_url: https://sentientcityblog.wordpress.com/2016/10/30/developing-a-new-pattern-language/
+  content: "[&#8230;] in relation to his failed attempt at harnessing design patterns\
+    \ for e-learning at universities, \_Jones argues that Dave Snowden&#8217;s 7 Principles\
+    \ of Knowledge Management apply to pattern [&#8230;]"
+  date: '2016-10-31 08:44:48'
+  date_gmt: '2016-10-30 22:44:48'
+  id: '2152'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: '&quot;An ISDT for e-learning&quot; - Audio is now synchronized'
   url: /blog/2009/02/22/an-isdt-for-e-learning-audio-is-now-synchronized/
+template: blog-post.html
 title: Patterns for e-learning - a lost opportunity or destined to fail
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Featured on slideshare - the give and take of social computing &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/
-      content: '[...] this week, a post of mine on patterns for e-learning has started
-        a conversation with the head of an Art and Design Research centre in the UK about
-        [...]'
-      date: '2009-02-27 17:31:42'
-      date_gmt: '2009-02-27 07:31:42'
-      id: '2147'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Patterns for e-learning &ndash; a lost opportunity or destined to fail |
-        eLearning Project Management | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/elearning-project-management/p/3995312651/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail
-      content: '[...] In the following I reflect on my aborted and half-baked attempts
-        at harnessing design patterns within the practice of e-learning at universities
-        and wonder whether it was a lost opportunity and/or ...&nbsp; [...]'
-      date: '2013-01-22 16:03:04'
-      date_gmt: '2013-01-22 06:03:04'
-      id: '2148'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Patterns for e-learning &ndash; a lost opportunity or destined to fail |
-        Educaci&oacute;n flexible y abierta | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/flexible-abierta/p/3995315652/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail
-      content: '[...] In the following I reflect on my aborted and half-baked attempts
-        at harnessing design patterns within the practice of e-learning at universities
-        and wonder whether it was a lost opportunity and/or ...&nbsp; [...]'
-      date: '2013-01-22 17:37:28'
-      date_gmt: '2013-01-22 07:37:28'
-      id: '2149'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Patterns for e-learning &ndash; a lost opportunity or destined to fail |
-        E-Learning-Inclusivo (Mashup) | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-inclusivo/p/3995318433/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail
-      content: '[...] In the following I reflect on my aborted and half-baked attempts
-        at harnessing design patterns within the practice of e-learning at universities
-        and wonder whether it was a lost opportunity and/or ...&nbsp; [...]'
-      date: '2013-01-22 18:34:43'
-      date_gmt: '2013-01-22 08:34:43'
-      id: '2150'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Random #fedwikihappening ramblings | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 207.198.101.57
-      author_url: https://davidtjones.wordpress.com/2014/12/29/random-fedwikihappening-ramblings/
-      content: '[&#8230;] working on that, but nothing ever came of it. Ten years later
-        I reflected on that experience in this blog post and proposed three reasons why
-        design patterns didn&#8217;t work in our context (the obvious other [&#8230;]'
-      date: '2014-12-29 15:19:20'
-      date_gmt: '2014-12-29 05:19:20'
-      id: '2151'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Developing a new pattern language &#8211; Sentient City
-      author_email: null
-      author_ip: 192.0.113.38
-      author_url: https://sentientcityblog.wordpress.com/2016/10/30/developing-a-new-pattern-language/
-      content: "[&#8230;] in relation to his failed attempt at harnessing design patterns\
-        \ for e-learning at universities, \_Jones argues that Dave Snowden&#8217;s 7 Principles\
-        \ of Knowledge Management apply to pattern [&#8230;]"
-      date: '2016-10-31 08:44:48'
-      date_gmt: '2016-10-30 22:44:48'
-      id: '2152'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In the following I reflect on my aborted and half-baked attempts at harnessing design patterns within the practice of e-learning at universities and wonder whether it was a lost opportunity and/or a project that was destined to fail. This is written in the light shed by the work of a number of other folk (Google "patterns for e-learning"), including the current [JISC-emerge project](http://elgg.jiscemerge.org.uk/content/About) and, I believe, the related [Pattern Language Network](http://patternlanguagenetwork.org/).
 
@@ -201,7 +198,7 @@ Design patterns anyone?
 
 ### It's just a theory
 
-[![Gravity, just a theory](images/2543882652_36bc4cea78_m_d.jpg)](http://flickr.com/photos/themadlolscientist/2543882652/)
+[![Gravity, just a theory](https://djon.es/assets/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/images/2543882652_36bc4cea78_m_d.jpg)](http://flickr.com/photos/themadlolscientist/2543882652/)
 
 Remember what I said above, this is just a theory, a thought, a proposition. Your mileage may vary. One of these days, when I have the time and if I have the inclination I'd love to read some more and maybe do some research around this "theory".
 

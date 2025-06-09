@@ -1,46 +1,43 @@
----
+﻿---
 categories:
 - bad
 - moodleopenbook
 - oep
 - oer
-date: 2016-04-02 11:47:59+10:00
+comments:
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.46
+  author_url: https://djon.es/blog/
+  content: '<p>Reblogged this on <a href="https://oepuqusq.wordpress.com/2016/08/31/first-steps-in-integrating-lats-oer-into-moodle-open-book/"
+    rel="nofollow">OEP @ UQ &amp; USQ</a> and commented: </p>
+
+    <p>The following connects to one type of OER produced from a US-based institution
+    and an initial exploration by me of how/if it might be re-used here.  The question
+    of re-use is of interest.
+
+
+    Due to the workload in modifying  the course sufficiently to use this OER, I haven''t
+    yet made that move.  </p>'
+  date: '2016-08-31 13:17:12'
+  date_gmt: '2016-08-31 03:17:12'
+  id: '3335'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2016-04-02 01:47:59
 next:
   text: '"Learning analytics should not promote one size fits all: The effects of
     instructional conditions in predicting academic success"'
   url: /blog/2016/04/03/learning-analytics-should-not-promote-one-size-fits-all-the-effects-of-instructional-conditions-in-predicting-academic-success/
+pingbacks: []
 previous:
   text: 'Competence with digital technology: Teacher or environment?'
   url: /blog/2016/03/31/competence-with-digital-technology-do-they-see-the-point/
+template: blog-post.html
 title: First steps in integrating LATs OER into Moodle open book
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.46
-      author_url: https://djon.es/blog/
-      content: '<p>Reblogged this on <a href="https://oepuqusq.wordpress.com/2016/08/31/first-steps-in-integrating-lats-oer-into-moodle-open-book/"
-        rel="nofollow">OEP @ UQ &amp; USQ</a> and commented: </p>
-    
-        <p>The following connects to one type of OER produced from a US-based institution
-        and an initial exploration by me of how/if it might be re-used here.  The question
-        of re-use is of interest.
-    
-    
-        Due to the workload in modifying  the course sufficiently to use this OER, I haven''t
-        yet made that move.  </p>'
-      date: '2016-08-31 13:17:12'
-      date_gmt: '2016-08-31 03:17:12'
-      id: '3335'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The following documents initial explorations into leveraging the [two Learning Activity Types (LATs) short courses](http://activitytypes.wm.edu/shortcourse/) that have been released as Open Educational Resources (OERs) by [Hofer and Harris (2016)](https://www.academicexperts.org/conf/site/2016/papers/49080/). As outlined in a [prior post](/blog/2016/03/26/lats-oer-tpack-and-github/) my plan is to use these OERs as a test case for [the Moodle open book project](/blog/the-moodle-open-book-module-project/). The aim being to
 
@@ -101,7 +98,7 @@ Related resources include
 
 The LAT OER are provided as IMS packages, these should import directly into Moodle.  Not exactly what I want to do here, but worth a look.
 
-![Screen Shot 2016-04-02 at 9.51.40 am.png](images/screen-shot-2016-04-02-at-9-51-40-am.png)
+![Screen Shot 2016-04-02 at 9.51.40 am.png](https://djon.es/assets/blog/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/images/screen-shot-2016-04-02-at-9-51-40-am.png)
 
 Well that worked quite smoothly.  Add the resource, import the file and there it is.
 
@@ -150,7 +147,7 @@ Process is
 
 Here's the Moodle book equivalent of the above.
 
-![Screen Shot 2016-04-02 at 11.05.59 am.png](images/screen-shot-2016-04-02-at-11-05-59-am.png)
+![Screen Shot 2016-04-02 at 11.05.59 am.png](https://djon.es/assets/blog/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/images/screen-shot-2016-04-02-at-11-05-59-am.png)
 
 Misc observations
 
@@ -169,4 +166,4 @@ The tool is still under development, but it does work.
 
 Here's [the GitHub HTML file](https://github.com/djplaner/edc3100/blob/master/LAT_OER/Elementary_Course.html) produced by the Moodle open book tool that contains the LAT Elementary course. It's based entirely on the Moodle Book version of the course I created in the previous step. You can see the file as [a web page via this link](https://htmlpreview.github.io/?https://github.com/djplaner/edc3100/blob/master/LAT_OER/Elementary_Course.html). The image below is a screenshot of that web page. You  can just see the second page (Identify existing lessons) peeking up below.
 
-![Screen Shot 2016-04-02 at 11.26.17 am.png](images/screen-shot-2016-04-02-at-11-26-17-am.png)
+![Screen Shot 2016-04-02 at 11.26.17 am.png](https://djon.es/assets/blog/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/images/screen-shot-2016-04-02-at-11-26-17-am.png)

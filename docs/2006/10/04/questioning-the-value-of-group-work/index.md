@@ -1,14 +1,14 @@
----
-date: 2006-10-04 21:21:07+10:00
+﻿---
+date: 2006-10-04 11:21:07
 next:
   text: When will enterprises truly embrace Enterprise 2.0 applications?
   url: /blog/2006/10/10/when-will-enterprises-truly-embrace-enterprise-20-applications/
 previous:
   text: A limitation of the Wefuse implementation
   url: /blog/2006/10/03/a-limitation-of-the-wefuse-implementation/
+template: blog-post.html
 title: Questioning the value of group work
 type: post
-template: blog-post.html
 ---
 For a number of the educators I know group work is a magical solution the promises great improvement to the effectiveness of their courses.
 

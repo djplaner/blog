@@ -1,47 +1,44 @@
----
+﻿---
 categories:
 - paris2008
-date: 2008-12-16 17:46:14+10:00
+comments: []
+date: 2008-12-16 07:46:14
 next:
   text: Saturday (13th Dec) - Must be the Musee D'Orsay
   url: /blog/2008/12/16/saturday-13th-dec-must-be-the-musee-dorsay/
+pingbacks:
+- approved: '1'
+  author: Saturday (13th Dec) - Must be the Musee D&#8217;Orsay &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.45
+  author_url: https://djon.es/blog/2008/12/16/saturday-13th-dec-must-be-the-musee-dorsay/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    A night at&nbsp;Lassere [...]'
+  date: '2008-12-16 22:46:47'
+  date_gmt: '2008-12-16 12:46:47'
+  id: '1918'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The Dreyfus Model - From Novice to Expert
   url: /blog/2008/12/16/the-dreyfus-model-from-novice-to-expert/
 tags:
 - paris-lassere
+template: blog-post.html
 title: A night at Lassere
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Saturday (13th Dec) - Must be the Musee D&#8217;Orsay &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.45
-      author_url: https://djon.es/blog/2008/12/16/saturday-13th-dec-must-be-the-musee-dorsay/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        A night at&nbsp;Lassere [...]'
-      date: '2008-12-16 22:46:47'
-      date_gmt: '2008-12-16 12:46:47'
-      id: '1918'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Friday night we were booked in to eat at [Lasserre](http://www.restaurant-lasserre.com/uk/navigation.htm). A two-star Michelin restaurant of the haute cuisine style.
 
-[![blurry night time eiffel](images/3106193183_7dd4eb78ab_m.jpg)](http://www.flickr.com/photos/david_jones/3106193183/ "blurry night time eiffel by David T Jones, on Flickr")
+[![blurry night time eiffel](https://djon.es/assets/blog/2008/12/16/a-night-at-lassere/images/3106193183_7dd4eb78ab_m.jpg)](http://www.flickr.com/photos/david_jones/3106193183/ "blurry night time eiffel by David T Jones, on Flickr")
 
 Given we were still dealing with jet lag we headed out a bit early for a walk to the restaurant and needed to waste a bit of time. So we had a chance to see the Eiffel Tower at night and to really enjoy the lovely weather.
 
 Even then we still arrived a bit early and had to wait in a small alcove. We weren't all that worried as it was warm. Of course, a place this up market did have a dress code - the men had to have a jacket. I was obviously not the first crass person to arrive as they did have a collection of jackets to borrow.
 
-[![On the way to dinner](images/3107022938_758d8bc304_m.jpg)](http://www.flickr.com/photos/david_jones/3107022938/ "On the way to dinner by David T Jones, on Flickr")
+[![On the way to dinner](https://djon.es/assets/blog/2008/12/16/a-night-at-lassere/images/3107022938_758d8bc304_m.jpg)](http://www.flickr.com/photos/david_jones/3107022938/ "On the way to dinner by David T Jones, on Flickr")
 
 Our reservation was for 7pm, which is quite early for Paris and we were the first folk to enter the dining room. The decor was very nice, but somewhat ruined by having a crew of (it seemed) 20+ wait staff all staring at these strange individuals entering their domain.
 
@@ -68,10 +65,10 @@ Sadly I forgot to bring the phone so there are no photos of dinner. We chose the
 
 It was certainly an experience. Something I would recommend everyone do. I don't think either of us will be rushing back to eat at this type of restaurant again. To put it prosaically, I'm not sure the cost benefit ratio is sufficient. In the end the meal cost us pretty close to $1000. A once in a life time experience.
 
-[![champs elysees](images/3107023200_93078db7a2_m.jpg)](http://www.flickr.com/photos/david_jones/3107023200/ "champs elysees by David T Jones, on Flickr")
+[![champs elysees](https://djon.es/assets/blog/2008/12/16/a-night-at-lassere/images/3107023200_93078db7a2_m.jpg)](http://www.flickr.com/photos/david_jones/3107023200/ "champs elysees by David T Jones, on Flickr")
 
 Should point out that while we were the first in, we were not the first to leave and by the time we were leaving the place was pretty full. Given that we were also very full by this time we walked back to the apartment. This was essentially straight up the Champs Elysees at night - about 9:30 or so. The Champs Elysees at night in December is one of the things to see. Sadly the photos are taken with the iPhone, so not the best quality but you get the idea.
 
 There were a lot of folk out. More so than we had seen in the day. Friday night shopping and going out was obviously in full swing.
 
-[![arch de triomphe at night](images/3107023704_2079f64337_m.jpg)](http://www.flickr.com/photos/david_jones/3107023704/ "arch de triomphe at night by David T Jones, on Flickr")
+[![arch de triomphe at night](https://djon.es/assets/blog/2008/12/16/a-night-at-lassere/images/3107023704_2079f64337_m.jpg)](http://www.flickr.com/photos/david_jones/3107023704/ "arch de triomphe at night by David T Jones, on Flickr")

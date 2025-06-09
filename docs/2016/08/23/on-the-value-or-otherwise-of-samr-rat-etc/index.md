@@ -1,66 +1,63 @@
----
+﻿---
 categories:
 - edu8117
-date: 2016-08-23 15:22:26+10:00
+comments: []
+date: 2016-08-23 05:22:26
 next:
   text: Exploring Moodle book usage - part 4 - students and initial use
   url: /blog/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/
+pingbacks:
+- approved: '1'
+  author: SAMR and RAT Models | EdTech Hot Technologies
+  author_email: null
+  author_ip: 192.0.83.191
+  author_url: https://edtechhottechnologies.wordpress.com/2016/08/24/samr-and-rat-models/
+  content: '[&#8230;] Follow me [&#8230;]'
+  date: '2016-08-25 00:42:30'
+  date_gmt: '2016-08-24 14:42:30'
+  id: '3406'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: On the value or otherwise of SAMR, RAT etc. | E...
+  author_email: null
+  author_ip: 185.82.148.10
+  author_url: http://www.scoop.it/t/educational-discourse/p/4068729643/2016/09/06/on-the-value-or-otherwise-of-samr-rat-etc
+  content: '[&#8230;] Updated 30 August, 2016: Added mention of @downes&#039; pointers
+    to peer review literature using SAMR. Evolved into a small section There definitely
+    seems to be a common problem when it comes to thinking about evaluating the use
+    of digital technology in learning and teaching. Actually, there are quite a few,
+    but the one I&#039;m interested&hellip;&nbsp; [&#8230;]'
+  date: '2016-09-07 03:10:41'
+  date_gmt: '2016-09-06 17:10:41'
+  id: '3407'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: SAMR - Tech Tips | Pearltrees
+  author_email: null
+  author_ip: 93.184.35.43
+  author_url: http://www.pearltrees.com/shellyterrell/samr/id13997502/item206378002
+  content: "[&#8230;] After watching a math lesson evolve with the use of technology\
+    \ I put together the following model, based on my understanding of SAMR. Below\
+    \ my model is my explanation. Do you agree with the model? Is my thinking correct?\
+    \ For reference, I\u2019ve included Dr. Www.hippasus.com/rrpweblog/archives/2013/03/28/SAMRandTPCK_AnIntroduction.pdf.\
+    \ SAMR Model - Technology Is Learning. Ruben R. Puentedura&#039;s Weblog. SAMR.\
+    \ On the value or otherwise of SAMR, RAT etc. \u2013 Tilting at windmills? [&#8230;]"
+  date: '2017-08-10 15:52:25'
+  date_gmt: '2017-08-10 05:52:25'
+  id: '9165'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Understanding and using the idea of &quot;network learning&quot;
   url: /blog/2016/08/17/understanding-and-using-the-idea-of-network-learning/
+template: blog-post.html
 title: On the value or otherwise of SAMR, RAT etc.
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: SAMR and RAT Models | EdTech Hot Technologies
-      author_email: null
-      author_ip: 192.0.83.191
-      author_url: https://edtechhottechnologies.wordpress.com/2016/08/24/samr-and-rat-models/
-      content: '[&#8230;] Follow me [&#8230;]'
-      date: '2016-08-25 00:42:30'
-      date_gmt: '2016-08-24 14:42:30'
-      id: '3406'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: On the value or otherwise of SAMR, RAT etc. | E...
-      author_email: null
-      author_ip: 185.82.148.10
-      author_url: http://www.scoop.it/t/educational-discourse/p/4068729643/2016/09/06/on-the-value-or-otherwise-of-samr-rat-etc
-      content: '[&#8230;] Updated 30 August, 2016: Added mention of @downes&#039; pointers
-        to peer review literature using SAMR. Evolved into a small section There definitely
-        seems to be a common problem when it comes to thinking about evaluating the use
-        of digital technology in learning and teaching. Actually, there are quite a few,
-        but the one I&#039;m interested&hellip;&nbsp; [&#8230;]'
-      date: '2016-09-07 03:10:41'
-      date_gmt: '2016-09-06 17:10:41'
-      id: '3407'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: SAMR - Tech Tips | Pearltrees
-      author_email: null
-      author_ip: 93.184.35.43
-      author_url: http://www.pearltrees.com/shellyterrell/samr/id13997502/item206378002
-      content: "[&#8230;] After watching a math lesson evolve with the use of technology\
-        \ I put together the following model, based on my understanding of SAMR. Below\
-        \ my model is my explanation. Do you agree with the model? Is my thinking correct?\
-        \ For reference, I\u2019ve included Dr. Www.hippasus.com/rrpweblog/archives/2013/03/28/SAMRandTPCK_AnIntroduction.pdf.\
-        \ SAMR Model - Technology Is Learning. Ruben R. Puentedura&#039;s Weblog. SAMR.\
-        \ On the value or otherwise of SAMR, RAT etc. \u2013 Tilting at windmills? [&#8230;]"
-      date: '2017-08-10 15:52:25'
-      date_gmt: '2017-08-10 05:52:25'
-      id: '9165'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 **Updated 30 August, 2016:** Added mention of [@downes' pointers](http://www.downes.ca/post/65733) to peer review literature using SAMR. Evolved into a small section
 
@@ -70,7 +67,7 @@ There definitely seems to be a common problem when it comes to thinking about ev
 
 This is a topic that's been picked up recently by some NGL folk as the course has pointed them to [the SAMR model](https://sites.google.com/a/msad60.org/technology-is-learning/samr-model) (originally), but now to [the RAT model](http://techedges.org/r-a-t-model/). Both are acronyms/models originally intended to be used by people introducing digital technology into teaching to self-assess what they've planned. To actively think about how the introduction of digital technology might change (or not) what learners and teachers are doing. The initial value of these models is to help people and organisations avoid falling into this pitfall when applying digital technology to learning and teaching.
 
-![](images/2a69b-blended_cartoon.jpg)
+![](https://djon.es/assets/blog/2016/08/23/on-the-value-or-otherwise-of-samr-rat-etc/images/2a69b-blended_cartoon.jpg)
 
 ### SAMR has a problem
 

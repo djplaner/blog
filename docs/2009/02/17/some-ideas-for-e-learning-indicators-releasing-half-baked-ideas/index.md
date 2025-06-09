@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - innovation
 - lmsevaluation
-date: 2009-02-17 15:00:08+10:00
+date: 2009-02-17 05:00:08
 next:
   text: Down with facebook - why I'm going to minimise my use
   url: /blog/2009/02/17/down-with-facebook-why-im-going-to-minimise-my-use/
 previous:
   text: Common sense (the things we take for granted) is the big obstacle for innovation
   url: /blog/2009/02/16/common-sense-the-things-we-take-for-granted-is-the-big-obstacle-for-innovation/
+template: blog-post.html
 title: Some ideas for e-learning indicators - releasing half-baked ideas
 type: post
-template: blog-post.html
 ---
 The following is a quick mind dump of ideas that have arisen today about how you might make use of the usage data and content of course websites from course management systems (CMS) to find out interesting things about learning and teaching. i.e. Col is aiming to develop [inidcators](http://beerc.wordpress.com/2008/12/21/more-on-the-indicators/) that might be of use to the participants associated with e-learning - management, support staff, academics, students etc.
 
@@ -68,18 +68,18 @@ The following images illustrate how this was used in [this presentation](http://
 
 #### Results of "bad" process
 
-[![Usage of an LMS - a measure (1 of 4)](images/3286237455_9933c51469_m.jpg)](http://www.flickr.com/photos/david_jones/3286237455/ "Usage of an LMS - a measure (1 of 4) by David T Jones, on Flickr")
+[![Usage of an LMS - a measure (1 of 4)](https://djon.es/assets/blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/images/3286237455_9933c51469_m.jpg)](http://www.flickr.com/photos/david_jones/3286237455/ "Usage of an LMS - a measure (1 of 4) by David T Jones, on Flickr")
 
-[![Usage of an LMS - a measure (2 of 4)](images/3287054934_2d4214a64a_m.jpg)](http://www.flickr.com/photos/david_jones/3287054934/ "Usage of an LMS - a measure (2 of 4) by David T Jones, on Flickr")
+[![Usage of an LMS - a measure (2 of 4)](https://djon.es/assets/blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/images/3287054934_2d4214a64a_m.jpg)](http://www.flickr.com/photos/david_jones/3287054934/ "Usage of an LMS - a measure (2 of 4) by David T Jones, on Flickr")
 
-[![Usage of an LMS - a measure (3 of 4)](images/3286238385_ef82ba9338_m.jpg)](http://www.flickr.com/photos/david_jones/3286238385/ "Usage of an LMS - a measure (3 of 4) by David T Jones, on Flickr")
+[![Usage of an LMS - a measure (3 of 4)](https://djon.es/assets/blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/images/3286238385_ef82ba9338_m.jpg)](http://www.flickr.com/photos/david_jones/3286238385/ "Usage of an LMS - a measure (3 of 4) by David T Jones, on Flickr")
 
-[![Usage of an LMS - a measure (4 of 4)](images/3287055792_62f9666139_m.jpg)](http://www.flickr.com/photos/david_jones/3287055792/ "Usage of an LMS - a measure (4 of 4) by David T Jones, on Flickr")
+[![Usage of an LMS - a measure (4 of 4)](https://djon.es/assets/blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/images/3287055792_62f9666139_m.jpg)](http://www.flickr.com/photos/david_jones/3287055792/ "Usage of an LMS - a measure (4 of 4) by David T Jones, on Flickr")
 
 #### Results of "good" process
 
-[![Usage of an LMS - staff adoption (1 of 3)](images/3287056224_5d4fc668ec_m.jpg)](http://www.flickr.com/photos/david_jones/3287056224/ "Usage of an LMS - staff adoption (1 of 3) by David T Jones, on Flickr")
+[![Usage of an LMS - staff adoption (1 of 3)](https://djon.es/assets/blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/images/3287056224_5d4fc668ec_m.jpg)](http://www.flickr.com/photos/david_jones/3287056224/ "Usage of an LMS - staff adoption (1 of 3) by David T Jones, on Flickr")
 
-[![Usage of an LMS - staff adoption (2 of 3)](images/3287056668_fd07fb55a5_m.jpg)](http://www.flickr.com/photos/david_jones/3287056668/ "Usage of an LMS - staff adoption (2 of 3) by David T Jones, on Flickr")
+[![Usage of an LMS - staff adoption (2 of 3)](https://djon.es/assets/blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/images/3287056668_fd07fb55a5_m.jpg)](http://www.flickr.com/photos/david_jones/3287056668/ "Usage of an LMS - staff adoption (2 of 3) by David T Jones, on Flickr")
 
-[![Usage of an LMS - staff adoption (3 of 3)](images/3286240677_406ba8e2d5_m.jpg)](http://www.flickr.com/photos/david_jones/3286240677/ "Usage of an LMS - staff adoption (3 of 3) by David T Jones, on Flickr")
+[![Usage of an LMS - staff adoption (3 of 3)](https://djon.es/assets/blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/images/3286240677_406ba8e2d5_m.jpg)](http://www.flickr.com/photos/david_jones/3286240677/ "Usage of an LMS - staff adoption (3 of 3) by David T Jones, on Flickr")

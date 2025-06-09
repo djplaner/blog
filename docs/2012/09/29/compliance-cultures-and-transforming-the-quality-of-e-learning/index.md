@@ -1,114 +1,112 @@
----
+﻿---
 categories:
 - thesis
-date: 2012-09-29 12:10:22+10:00
+comments:
+- approved: '1'
+  author: tomazlasic
+  author_email: moodlefan@gmail.com
+  author_ip: 134.115.237.169
+  author_url: http://tomazlasic.wordpress.com
+  content: David. You'll enjoy these couple of Stephen Ball's seminal papers on 'performativity'
+    (or at least one understanding of it) http://bit.ly/SYVWco and http://bit.ly/SYW4sf  Cheers
+    &amp; good luck at ASCILITE
+  date: '2012-10-02 12:26:25'
+  date_gmt: '2012-10-02 02:26:25'
+  id: '473'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-09-29 02:10:22
 next:
   text: Three likely paths for learning analytics and academics
   url: /blog/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/
+pingbacks:
+- approved: '1'
+  author: Compliance cultures and transforming the quality of e-learning | Skills4Growing
+    | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/skills4growing/p/2828986015/compliance-cultures-and-transforming-the-quality-of-e-learning
+  content: '[...] In putting the finishing touches on this ASCILITE paper I discovered
+    that Tuesday will be the 2 year anniversary of when I first put together much
+    of the following on attempts by universities to im...&nbsp; [...]'
+  date: '2012-09-30 08:55:22'
+  date_gmt: '2012-09-29 22:55:22'
+  id: '472'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Compliance cultures and transforming the quality of&nbsp;e-learning | Quality
+    assurance of eLearning | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/quality-assurance-of-elearning/p/2856157841/compliance-cultures-and-transforming-the-quality-of-e-learning
+  content: '[...] David Jones writes: &nbsp; In putting the finishing touches on this
+    ASCILITE paper I discovered that Tuesday will be the 2 year anniversary of when
+    I first put together much of the following on attempts by universities to improve/transform
+    the quality of e-learning through checklists and other &ldquo;quality assurance&rdquo;
+    methods. Given that I still see this tendency from central L&amp;T folk in Universities
+    &ndash; especially those in management &ndash; and that the original checklist
+    the sparked the following has been largely gotten rid of, I thought I&rsquo;d
+    share this..&nbsp; [...]'
+  date: '2012-10-03 00:39:05'
+  date_gmt: '2012-10-02 14:39:05'
+  id: '474'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Compliance cultures and transforming the quality of e-learning | Quality
+    Assurance in Online Courses. | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/quality-assurance-in-online-courses/p/3965916299/compliance-cultures-and-transforming-the-quality-of-e-learning
+  content: '[...] In putting the finishing touches on this ASCILITE paper I discovered
+    that Tuesday will be the 2 year anniversary of when I first put together much
+    of the following on attempts by universities to im...&nbsp; [...]'
+  date: '2013-01-04 23:22:07'
+  date_gmt: '2013-01-04 13:22:07'
+  id: '475'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: OLDS MOOC W2D1 Dreams and Study Circles &#8211; The Digital Day
+  author_email: null
+  author_ip: 66.155.8.98
+  author_url: http://thedigitalday.wordpress.com/2013/01/17/olds-mooc-w2d1-dreams-and-study-circles/
+  content: "[...] provide academics with help in creating good online courses.\_ Having\
+    \ read David Jones\u2019 blog \u201CCompliance Cultures and transforming the quality\
+    \ of e-learning\u201D in which he argues against having a QA checklist I am now\
+    \ leaning towards an approach where we [...]"
+  date: '2013-01-17 22:48:32'
+  date_gmt: '2013-01-17 12:48:32'
+  id: '476'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Learning Design &amp; Formative Evaluation. OLDSMOOC W7 &#8211; The Digital
+    Day
+  author_email: null
+  author_ip: 72.232.113.15
+  author_url: http://thedigitalday.wordpress.com/2013/02/26/oldsmooc-w7/
+  content: "[...] Assurance in Online Courses. However, having read a blog post by\
+    \ David Jones entitled\_Compliance Cultures and Transforming the Quality of e-Learning\_\
+    I am wary of imposing a checklist on [...]"
+  date: '2013-02-27 00:18:48'
+  date_gmt: '2013-02-26 14:18:48'
+  id: '477'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Chasing dreams and recognising realities: teachers&#039; responses to ICT'
   url: /blog/2012/09/17/chasing-dreams-and-recognising-realities-teachers-responses-to-ict/
+template: blog-post.html
 title: Compliance cultures and transforming the quality of e-learning
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: tomazlasic
-      author_email: moodlefan@gmail.com
-      author_ip: 134.115.237.169
-      author_url: http://tomazlasic.wordpress.com
-      content: David. You'll enjoy these couple of Stephen Ball's seminal papers on 'performativity'
-        (or at least one understanding of it) http://bit.ly/SYVWco and http://bit.ly/SYW4sf  Cheers
-        &amp; good luck at ASCILITE
-      date: '2012-10-02 12:26:25'
-      date_gmt: '2012-10-02 02:26:25'
-      id: '473'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Compliance cultures and transforming the quality of e-learning | Skills4Growing
-        | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/skills4growing/p/2828986015/compliance-cultures-and-transforming-the-quality-of-e-learning
-      content: '[...] In putting the finishing touches on this ASCILITE paper I discovered
-        that Tuesday will be the 2 year anniversary of when I first put together much
-        of the following on attempts by universities to im...&nbsp; [...]'
-      date: '2012-09-30 08:55:22'
-      date_gmt: '2012-09-29 22:55:22'
-      id: '472'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Compliance cultures and transforming the quality of&nbsp;e-learning | Quality
-        assurance of eLearning | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/quality-assurance-of-elearning/p/2856157841/compliance-cultures-and-transforming-the-quality-of-e-learning
-      content: '[...] David Jones writes: &nbsp; In putting the finishing touches on this
-        ASCILITE paper I discovered that Tuesday will be the 2 year anniversary of when
-        I first put together much of the following on attempts by universities to improve/transform
-        the quality of e-learning through checklists and other &ldquo;quality assurance&rdquo;
-        methods. Given that I still see this tendency from central L&amp;T folk in Universities
-        &ndash; especially those in management &ndash; and that the original checklist
-        the sparked the following has been largely gotten rid of, I thought I&rsquo;d
-        share this..&nbsp; [...]'
-      date: '2012-10-03 00:39:05'
-      date_gmt: '2012-10-02 14:39:05'
-      id: '474'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Compliance cultures and transforming the quality of e-learning | Quality
-        Assurance in Online Courses. | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/quality-assurance-in-online-courses/p/3965916299/compliance-cultures-and-transforming-the-quality-of-e-learning
-      content: '[...] In putting the finishing touches on this ASCILITE paper I discovered
-        that Tuesday will be the 2 year anniversary of when I first put together much
-        of the following on attempts by universities to im...&nbsp; [...]'
-      date: '2013-01-04 23:22:07'
-      date_gmt: '2013-01-04 13:22:07'
-      id: '475'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: OLDS MOOC W2D1 Dreams and Study Circles &#8211; The Digital Day
-      author_email: null
-      author_ip: 66.155.8.98
-      author_url: http://thedigitalday.wordpress.com/2013/01/17/olds-mooc-w2d1-dreams-and-study-circles/
-      content: "[...] provide academics with help in creating good online courses.\_ Having\
-        \ read David Jones\u2019 blog \u201CCompliance Cultures and transforming the quality\
-        \ of e-learning\u201D in which he argues against having a QA checklist I am now\
-        \ leaning towards an approach where we [...]"
-      date: '2013-01-17 22:48:32'
-      date_gmt: '2013-01-17 12:48:32'
-      id: '476'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Learning Design &amp; Formative Evaluation. OLDSMOOC W7 &#8211; The Digital
-        Day
-      author_email: null
-      author_ip: 72.232.113.15
-      author_url: http://thedigitalday.wordpress.com/2013/02/26/oldsmooc-w7/
-      content: "[...] Assurance in Online Courses. However, having read a blog post by\
-        \ David Jones entitled\_Compliance Cultures and Transforming the Quality of e-Learning\_\
-        I am wary of imposing a checklist on [...]"
-      date: '2013-02-27 00:18:48'
-      date_gmt: '2013-02-26 14:18:48'
-      id: '477'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In putting the finishing touches on [this ASCILITE paper](/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/) I discovered that Tuesday will be the 2 year anniversary of when I first put together much of the following on attempts by universities to improve/transform the quality of e-learning through checklists and other "quality assurance" methods. Given that I still see this tendency from central L&T folk in Universities - especially those in management - and that the original checklist the sparked the following has been largely gotten rid of, I thought I'd share this.
 

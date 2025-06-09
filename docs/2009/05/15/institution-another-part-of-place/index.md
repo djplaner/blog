@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,95 +6,93 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-05-15 15:12:59+10:00
+comments:
+- approved: '1'
+  author: phdblogmeister
+  author_email: wordpress@sethgillespie.com
+  author_ip: 67.180.254.141
+  author_url: http://sethgillespie.com
+  content: I like the Cynefin Domains diagram.
+  date: '2009-05-25 12:40:59'
+  date_gmt: '2009-05-25 02:40:59'
+  id: '2505'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Seth,
+
+
+    Ditto.  Really helped me get a handle on some feelings that I couldn''t explain.
+
+
+    The paper I adapted the diagram from and most of Dave Snowden''s other papers
+    are available here http://www.cognitive-edge.com/articlesbydavesnowden.php
+
+
+    David.'
+  date: '2009-05-25 13:22:22'
+  date_gmt: '2009-05-25 03:22:22'
+  id: '2506'
+  parent: '2505'
+  type: comment
+  user_id: '1'
+date: 2009-05-15 05:12:59
 next:
   text: '"Phd Update #11 - very short week"'
   url: /blog/2009/05/15/phd-update-11-very-short-week/
+pingbacks:
+- approved: '1'
+  author: 'Phd Update #11 &#8211; very short week &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/05/15/phd-update-11-very-short-week/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Institution &#8211; another part of&nbsp;place [...]'
+  date: '2009-05-15 15:38:46'
+  date_gmt: '2009-05-15 05:38:46'
+  id: '2503'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Another cultural conflict &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.243.217
+  author_url: https://djon.es/blog/2009/05/20/another-cultural-conflict/
+  content: '[...] connects with a sentence or two from an earlier post Ayers (2004)
+    observes that academic and information technology cultures, two of the main [...]'
+  date: '2009-05-20 17:03:29'
+  date_gmt: '2009-05-20 07:03:29'
+  id: '2504'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons from process for university e-learning &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.244.40
+  author_url: https://djon.es/blog/2009/06/21/lessons-from-process-for-university-e-learning/
+  content: '[...] Institution section (insert cross reference) of this chapter sought
+    to show the differences that exist within universities as an institution [...]'
+  date: '2009-06-21 14:48:18'
+  date_gmt: '2009-06-21 04:48:18'
+  id: '2507'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Some initial thoughts on e-learning and innovation
   url: /blog/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/
+template: blog-post.html
 title: Institution - another part of place
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: phdblogmeister
-      author_email: wordpress@sethgillespie.com
-      author_ip: 67.180.254.141
-      author_url: http://sethgillespie.com
-      content: I like the Cynefin Domains diagram.
-      date: '2009-05-25 12:40:59'
-      date_gmt: '2009-05-25 02:40:59'
-      id: '2505'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Seth,
-    
-    
-        Ditto.  Really helped me get a handle on some feelings that I couldn''t explain.
-    
-    
-        The paper I adapted the diagram from and most of Dave Snowden''s other papers
-        are available here http://www.cognitive-edge.com/articlesbydavesnowden.php
-    
-    
-        David.'
-      date: '2009-05-25 13:22:22'
-      date_gmt: '2009-05-25 03:22:22'
-      id: '2506'
-      parent: '2505'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Phd Update #11 &#8211; very short week &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/05/15/phd-update-11-very-short-week/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Institution &#8211; another part of&nbsp;place [...]'
-      date: '2009-05-15 15:38:46'
-      date_gmt: '2009-05-15 05:38:46'
-      id: '2503'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Another cultural conflict &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.243.217
-      author_url: https://djon.es/blog/2009/05/20/another-cultural-conflict/
-      content: '[...] connects with a sentence or two from an earlier post Ayers (2004)
-        observes that academic and information technology cultures, two of the main [...]'
-      date: '2009-05-20 17:03:29'
-      date_gmt: '2009-05-20 07:03:29'
-      id: '2504'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons from process for university e-learning &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.244.40
-      author_url: https://djon.es/blog/2009/06/21/lessons-from-process-for-university-e-learning/
-      content: '[...] Institution section (insert cross reference) of this chapter sought
-        to show the differences that exist within universities as an institution [...]'
-      date: '2009-06-21 14:48:18'
-      date_gmt: '2009-06-21 04:48:18'
-      id: '2507'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 For longer than I care to remember, I've been working on the [Place](/blog/2009/05/06/place-component-of-the-ps-framework/) component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) for chapter 2 of my [thesis](/blog/research/phd-thesis/). This post brings the penultimate section for the Ps component - institution. The last section will be the "lessons from place" section that attempts to draw some lessons from the Place component for the practice of e-learning. Who knows when that will arrive.
 
@@ -126,12 +124,12 @@ Table 2.3 - Mintzberg's structural configuration of organizations (adapted from 
 
 The ability of human systems to shape their perception and consequently to co-evolve concept and practice in order to create a new reality is one of the insights that arise from social complexity (Snowden and Stanbridge 2004) and is one of the factors that leads Snowden and others to develop a landscape of management (Figure 2.1) and the Cynefin framework (Snowden and Stanbridge 2004; Snowden 2005; Snowden and Boone 2007). Snowden and Stanbridge (2004) suggest that the dominant ideology of management – discussed above as the over emphasis on technical rationality – arises from a focus on a single-ontology approach to sense making that assumes that through proper investigation things are known or knowable and that once cause and effect relationships are discovered, they repeat. This view is not seen as incorrect or denied, but it is, however, seen as only appropriate in certain bounded circumstances (Snowden 2005).
 
-[![Landscape of management](images/3522094230_4c15fb0b39_m.jpg)](http://www.flickr.com/photos/david_jones/3522094230/ "Landscape of management by David T Jones, on Flickr")  
+[![Landscape of management](https://djon.es/assets/blog/2009/05/15/institution-another-part-of-place/images/3522094230_4c15fb0b39_m.jpg)](http://www.flickr.com/photos/david_jones/3522094230/ "Landscape of management by David T Jones, on Flickr")  
 _Figure 2.1 - Landscape of Management (adapted from Snowden and Stanbridge 2004)_
 
 The reliance on this single-ontology perspective and it's overgeneralization has subsequently led to an absence of understanding of different perspectives that may be more appropriate for different circumstances. As an alternative Snowden and others develop models (Figure 2.1 and Figure 2.2) based on a multi-ontology sense-making model of decision-making. Within these models there is a space for traditional business oriented approaches that assume ordered systems that have clearly identifiable cause and effect relationships that enable prediction of future events (Snowden 2005). However, there is also recognition of different types of system that demonstrate un-order. Un-ordered systems do not demonstrate a lack of order, but instead demonstrate an "emergent" order that is understandable in retrospect, but cannot be predicted (Snowden and Stanbridge 2004). Within the landscape of management (Figure 2.1) order and un-order are seen as disjoint domains, whereas epistemology is presented as a continuum from very specific rules through to heuristics, guiding principles or implicit rules of thumbs with high levels of ambiguity (Snowden and Stanbridge 2004).
 
-[![Cynefin domains](images/3524377954_4f5c93c710_m.jpg)](http://www.flickr.com/photos/david_jones/3524377954/ "Cynefin domains by David T Jones, on Flickr")  
+[![Cynefin domains](https://djon.es/assets/blog/2009/05/15/institution-another-part-of-place/images/3524377954_4f5c93c710_m.jpg)](http://www.flickr.com/photos/david_jones/3524377954/ "Cynefin domains by David T Jones, on Flickr")  
 _Figure 2.2 – Cynefin Domains (adapted from Kurtz and Snowden 2003)_
 
 The Cynefin framework establishes five different domains (Figure 2.2). The four named domains in Figure 2.2 require diagnosis and action in contextually appropriate ways, while the fifth – disorder – implies that it is not know which of the four other contexts is predominant (Snowden and Boone 2007). The major benefit underpinning both the landscape of management and the Cynefin Framework is that it draws attention to the possibility of different ontologies or contexts (e.g. types of organizations) and the consequences of applying an ill-matched epistemology (e.g. decision-making or other process).

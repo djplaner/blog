@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - bim
 - design-theory
@@ -6,108 +6,106 @@ categories:
 - moodle
 - phd
 - thesis
-date: 2010-10-06 16:58:54+10:00
+comments:
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.154.42.225
+  author_url: https://djon.es/blog/
+  content: Of course, just realised, that the obvious other thing to do is to look
+    for folk who have done this sort of analysis/research a la Tribble and Hutchins
+    of university teaching and/or using the LMS.  Or perhaps do it.
+  date: '2010-10-06 17:22:34'
+  date_gmt: '2010-10-06 07:22:34'
+  id: '3167'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: null
+  content: 'David -
+
+
+    I believe that, in addition to what you are saying about distributed cognition,
+    adding layers of "choice architecture" for users depending on their level of expertise
+    would be most useful.  Let''s face it, beginners are faced with too many options,
+    most of which they know nothing about.  There is nothing built into systems that
+    make it hard for people to make BAD decisions.
+
+
+    Kevin'
+  date: '2010-10-08 02:45:33'
+  date_gmt: '2010-10-07 16:45:33'
+  id: '3168'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.154.42.225
+  author_url: https://djon.es/blog/
+  content: 'G''day Kevin,
+
+
+    Agree whole-heartedly. Think the interesting questions will arise from how to
+    design the choice architecture effectively, how widespread its applicability would
+    be (i.e. would the same choice architecture be effective in an Australian university
+    as in a US one?) etc.
+
+
+    David.'
+  date: '2010-10-08 07:46:22'
+  date_gmt: '2010-10-07 21:46:22'
+  id: '3169'
+  parent: '3168'
+  type: comment
+  user_id: '1'
+date: 2010-10-06 06:58:54
 next:
   text: The problem with blended learning
   url: /blog/2010/10/13/the-problem-with-blended-learning/
+pingbacks:
+- approved: '1'
+  author: Which Moodle (or other LMS) tool is best at support and training? | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.89
+  author_url: https://djon.es/blog/2013/05/23/which-moodle-or-other-lms-tool-is-best-at-support-and-training/
+  content: '[&#8230;] This idea has been percolating for more than a few years originally
+    proposed back in 2010 as &#8220;Making the LMS more like the Globe Theatre&#8221;.
+    [&#8230;]'
+  date: '2013-05-23 14:09:28'
+  date_gmt: '2013-05-23 04:09:28'
+  id: '3170'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: This year it&#8217;s all about the connections | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.83.81
+  author_url: https://davidtjones.wordpress.com/2015/01/13/this-year-its-all-about-the-connections/
+  content: '[&#8230;] the LMS (and other systems) be more like the Globe Theatre?
+    The LMS and other systems used to implement e-learning within universities provide
+    little or not [&#8230;]'
+  date: '2015-01-13 10:55:21'
+  date_gmt: '2015-01-13 00:55:21'
+  id: '3171'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The nature of user involvement in LMS selection and implementation
   url: /blog/2010/09/28/the-nature-of-user-involvement-in-lms-selection-and-implementation/
+template: blog-post.html
 title: '"Making the LMS more like the Globe Theatre: distributed cognition, the extended
   mind and Moodle"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.154.42.225
-      author_url: https://djon.es/blog/
-      content: Of course, just realised, that the obvious other thing to do is to look
-        for folk who have done this sort of analysis/research a la Tribble and Hutchins
-        of university teaching and/or using the LMS.  Or perhaps do it.
-      date: '2010-10-06 17:22:34'
-      date_gmt: '2010-10-06 07:22:34'
-      id: '3167'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: null
-      content: 'David -
-    
-    
-        I believe that, in addition to what you are saying about distributed cognition,
-        adding layers of "choice architecture" for users depending on their level of expertise
-        would be most useful.  Let''s face it, beginners are faced with too many options,
-        most of which they know nothing about.  There is nothing built into systems that
-        make it hard for people to make BAD decisions.
-    
-    
-        Kevin'
-      date: '2010-10-08 02:45:33'
-      date_gmt: '2010-10-07 16:45:33'
-      id: '3168'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.154.42.225
-      author_url: https://djon.es/blog/
-      content: 'G''day Kevin,
-    
-    
-        Agree whole-heartedly. Think the interesting questions will arise from how to
-        design the choice architecture effectively, how widespread its applicability would
-        be (i.e. would the same choice architecture be effective in an Australian university
-        as in a US one?) etc.
-    
-    
-        David.'
-      date: '2010-10-08 07:46:22'
-      date_gmt: '2010-10-07 21:46:22'
-      id: '3169'
-      parent: '3168'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Which Moodle (or other LMS) tool is best at support and training? | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.89
-      author_url: https://djon.es/blog/2013/05/23/which-moodle-or-other-lms-tool-is-best-at-support-and-training/
-      content: '[&#8230;] This idea has been percolating for more than a few years originally
-        proposed back in 2010 as &#8220;Making the LMS more like the Globe Theatre&#8221;.
-        [&#8230;]'
-      date: '2013-05-23 14:09:28'
-      date_gmt: '2013-05-23 04:09:28'
-      id: '3170'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: This year it&#8217;s all about the connections | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.83.81
-      author_url: https://davidtjones.wordpress.com/2015/01/13/this-year-its-all-about-the-connections/
-      content: '[&#8230;] the LMS (and other systems) be more like the Globe Theatre?
-        The LMS and other systems used to implement e-learning within universities provide
-        little or not [&#8230;]'
-      date: '2015-01-13 10:55:21'
-      date_gmt: '2015-01-13 00:55:21'
-      id: '3171'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following draws together some work on distributed cognition in the [Globe Theatre](http://en.wikipedia.org/wiki/Globe_Theatre) and some early thoughts on how that might be useful in improving the design of learning management systems such as Moodle (there's also an argument to be made about university teaching and learning, but I'll mostly leave that alone). While primarily focusing on helping teachers teach and thus improve the student learning experience, the ideas could equally be applied to learners (and probably have been).
 
@@ -115,7 +113,7 @@ At the core of the following seems to be the question of whether o not the desig
 
 > consistently distorted by a tendency to view cognition as individual rather than social, which has caused us to imagine the workings of complex group structures in mechanistic terms. In other words, we have mistakenly assumed that properties of the system as a whole must be possessed by each individual within it.
 
-[![Shakespeare's - Globe Theatre](images/1915310481_488c8aa434_m.jpg)](http://www.flickr.com/photos/cyberslayer/1915310481/ "Shakespeare's - Globe Theatre by Cyberslayer, on Flickr")
+[![Shakespeare's - Globe Theatre](https://djon.es/assets/blog/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/images/1915310481_488c8aa434_m.jpg)](http://www.flickr.com/photos/cyberslayer/1915310481/ "Shakespeare's - Globe Theatre by Cyberslayer, on Flickr")
 
 The post continues to build some recent thoughts about this issue and was sparked by listening to [this episode](http://www.abc.net.au/rn/philosopherszone/stories/2010/3025314.htm) from ABC Radio National show - [The Philosophers Zone](http://www.abc.net.au/rn/philosopherszone/). This led me to the article [Distributing Cognition in the Globe](http://130.102.44.245/login?uri=/journals/shakespeare_quarterly/v056/56.2tribble.pdf) by Tribble (2005).
 

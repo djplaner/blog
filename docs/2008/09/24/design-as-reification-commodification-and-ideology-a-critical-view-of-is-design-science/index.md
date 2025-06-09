@@ -1,124 +1,121 @@
----
+﻿---
 categories:
 - design-theory
 - thesis
-date: 2008-09-24 22:18:54+10:00
+comments:
+- approved: '1'
+  author: John Fitzsimmons
+  author_email: j.fitzsimmons@cqu.edu.au
+  author_ip: 192.168.13.6
+  author_url: null
+  content: "David\n\nThanks. Read the paper - interesting. A sort of typography of\
+    \ some responses to a LMS. I'm not sure how the following comment applies: habitus\
+    \ - 'cultural competency learned from one\u2019s family and social group. Through\
+    \ habitus, it is converted into something natural: what is actually learned behaviour\
+    \ becomes a natural ability which a working class person neither has, nor expects\
+    \ to have. In short, habitus is the sum of all absorbed ideologies and all the\
+    \ expectations of class and family'. If it was converted into something 'natural',\
+    \ a sort of sum of all 'absorbed ideologies' (meaning in the service of power),\
+    \ it is difficult to see how the nexus between habitus and the LMS actually works.\n\
+    \nJohn"
+  date: '2008-09-29 21:53:24'
+  date_gmt: '2008-09-29 11:53:24'
+  id: '1604'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: d.jones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.20.73
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'G''day John,
+
+
+    Thanks for this.
+
+
+    It looks interesting and connected, at least on my first quick skim.
+
+
+    It''s the type of area I don''t know a lot about and need the time to reflect
+    and make some connections.  Time, which is not exactly currently available in
+    abundance.
+
+
+    Of course, I should be more comfortable with the idea of habitus given that I''m
+    a co-author on a <a href="http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/CMS_Innovation/"
+    rel="nofollow">paper</a> that makes use of the idea in connection with course
+    management systems.
+
+
+    But then, to anyone who knows about the folk involved, it''s easy to pick Patrick
+    as the intellectual driver behind that application of habitus.
+
+
+    I''ve only just remembered that paper and its use of habitus in framing this reply.  So,
+    thank you very much John.  This has been very useful.
+
+
+    Looking forward to your talk today.
+
+
+    David.'
+  date: '2008-09-29 09:26:56'
+  date_gmt: '2008-09-28 23:26:56'
+  id: '1605'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: John Fitzsimmons
+  author_email: j.fitzsimmons@cqu.edu.au
+  author_ip: 192.168.13.15
+  author_url: null
+  content: "Hey David\n\nI don't know enough about this to be helpful, but I thought\
+    \ of Bourdieu and habitus. The following is an excerpt from on of my PhD's student's\
+    \ recent notes. If you think it might be interesting, I'll dig out the references.\
+    \ Habitus is a commonplace in sociology, as you probably know.\n\nJohn\n\nBourdieu\u2019\
+    s underlying thesis is that there is always a power struggle between the classes\
+    \ and that habitus - one\u2019s embodied sense of self and position in the world\
+    \ - is the way in which the social hierarchy is maintained. Bourdieu used taste\
+    \ to explain his theory of habitus as the word taste refers to both flavours,\
+    \ what you can taste on the tongue, and aesthetic discernment (1989, p. 474).\
+    \ It therefore encapsulates both the physical aspect of habitus, what Bourdieu\
+    \ refers to as the \u2018bodily hexis\u2019, and its role in maintaining the social\
+    \ hierarchy. Taste, Bourdieu posited, is a cultural competency learned from one\u2019\
+    s family and social group. Through habitus, it is converted into something natural:\
+    \ what is actually learnt behaviour becomes a natural ability which a working\
+    \ class person neither has, nor expects to have. In short, habitus is the sum\
+    \ of all absorbed ideologies and all the expectations of class and family. It\
+    \ is what has happened to an individual and to a group of individuals, and what\
+    \ is expected to happen in the future. It manifests itself in the body by way\
+    \ of demeanor, by the amount of space one feels permitted to take up, as well\
+    \ as the physical sense of belonging or otherwise. Habitus is knowledge that \u2018\
+    function[s] below the level of consciousness and language, beyond the reach of\
+    \ introspective scrutiny or control by the will\u2019 (1989, p. 466). It is \u2018\
+    what goes without saying\u2019, what Bourdieu called \u2018the order of things\u2019\
+    \ (1992, p. 167): behaviour, beliefs, expectations and intentions that require\
+    \ and expect no explanation. And, because it is not questioned, habitus can accommodate\
+    \ any number of contradictions and inconsistencies."
+  date: '2008-09-28 11:53:46'
+  date_gmt: '2008-09-28 01:53:46'
+  id: '1606'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-09-24 12:18:54
 next:
   text: The emergence of design research in IS in North America
   url: /blog/2008/10/08/the-emergence-of-design-research-in-is-in-north-america/
+pingbacks: []
 previous:
   text: What underpins student-centered education
   url: /blog/2008/09/24/what-underpins-student-centered-education/
+template: blog-post.html
 title: '"Design as reification, commodification and ideology: A critical view of IS
   design science"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: John Fitzsimmons
-      author_email: j.fitzsimmons@cqu.edu.au
-      author_ip: 192.168.13.6
-      author_url: null
-      content: "David\n\nThanks. Read the paper - interesting. A sort of typography of\
-        \ some responses to a LMS. I'm not sure how the following comment applies: habitus\
-        \ - 'cultural competency learned from one\u2019s family and social group. Through\
-        \ habitus, it is converted into something natural: what is actually learned behaviour\
-        \ becomes a natural ability which a working class person neither has, nor expects\
-        \ to have. In short, habitus is the sum of all absorbed ideologies and all the\
-        \ expectations of class and family'. If it was converted into something 'natural',\
-        \ a sort of sum of all 'absorbed ideologies' (meaning in the service of power),\
-        \ it is difficult to see how the nexus between habitus and the LMS actually works.\n\
-        \nJohn"
-      date: '2008-09-29 21:53:24'
-      date_gmt: '2008-09-29 11:53:24'
-      id: '1604'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: d.jones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.20.73
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'G''day John,
-    
-    
-        Thanks for this.
-    
-    
-        It looks interesting and connected, at least on my first quick skim.
-    
-    
-        It''s the type of area I don''t know a lot about and need the time to reflect
-        and make some connections.  Time, which is not exactly currently available in
-        abundance.
-    
-    
-        Of course, I should be more comfortable with the idea of habitus given that I''m
-        a co-author on a <a href="http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/CMS_Innovation/"
-        rel="nofollow">paper</a> that makes use of the idea in connection with course
-        management systems.
-    
-    
-        But then, to anyone who knows about the folk involved, it''s easy to pick Patrick
-        as the intellectual driver behind that application of habitus.
-    
-    
-        I''ve only just remembered that paper and its use of habitus in framing this reply.  So,
-        thank you very much John.  This has been very useful.
-    
-    
-        Looking forward to your talk today.
-    
-    
-        David.'
-      date: '2008-09-29 09:26:56'
-      date_gmt: '2008-09-28 23:26:56'
-      id: '1605'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: John Fitzsimmons
-      author_email: j.fitzsimmons@cqu.edu.au
-      author_ip: 192.168.13.15
-      author_url: null
-      content: "Hey David\n\nI don't know enough about this to be helpful, but I thought\
-        \ of Bourdieu and habitus. The following is an excerpt from on of my PhD's student's\
-        \ recent notes. If you think it might be interesting, I'll dig out the references.\
-        \ Habitus is a commonplace in sociology, as you probably know.\n\nJohn\n\nBourdieu\u2019\
-        s underlying thesis is that there is always a power struggle between the classes\
-        \ and that habitus - one\u2019s embodied sense of self and position in the world\
-        \ - is the way in which the social hierarchy is maintained. Bourdieu used taste\
-        \ to explain his theory of habitus as the word taste refers to both flavours,\
-        \ what you can taste on the tongue, and aesthetic discernment (1989, p. 474).\
-        \ It therefore encapsulates both the physical aspect of habitus, what Bourdieu\
-        \ refers to as the \u2018bodily hexis\u2019, and its role in maintaining the social\
-        \ hierarchy. Taste, Bourdieu posited, is a cultural competency learned from one\u2019\
-        s family and social group. Through habitus, it is converted into something natural:\
-        \ what is actually learnt behaviour becomes a natural ability which a working\
-        \ class person neither has, nor expects to have. In short, habitus is the sum\
-        \ of all absorbed ideologies and all the expectations of class and family. It\
-        \ is what has happened to an individual and to a group of individuals, and what\
-        \ is expected to happen in the future. It manifests itself in the body by way\
-        \ of demeanor, by the amount of space one feels permitted to take up, as well\
-        \ as the physical sense of belonging or otherwise. Habitus is knowledge that \u2018\
-        function[s] below the level of consciousness and language, beyond the reach of\
-        \ introspective scrutiny or control by the will\u2019 (1989, p. 466). It is \u2018\
-        what goes without saying\u2019, what Bourdieu called \u2018the order of things\u2019\
-        \ (1992, p. 167): behaviour, beliefs, expectations and intentions that require\
-        \ and expect no explanation. And, because it is not questioned, habitus can accommodate\
-        \ any number of contradictions and inconsistencies."
-      date: '2008-09-28 11:53:46'
-      date_gmt: '2008-09-28 01:53:46'
-      id: '1606'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 In an attempt to reignite progress on my PhD and prepare myself for attending the [4th Information Systems Foundations Workshop](http://infs.anu.edu.au/workshop/) next week. The workshop title is "Information systems Foundations: Answering the Unanswered Questions about Design Research". The workshop is organised by my PhD supervisor and will have a number of "names" from the IS community there.
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20458
 - teaching
-date: 2011-03-20 22:36:16+10:00
+date: 2011-03-20 12:36:16
 next:
   text: Is high school the next challenge for CS
   url: /blog/2011/03/21/is-high-school-the-next-challenge-for-cs/
 previous:
   text: Learning brief - Reflections and conclusions - version 2.0
   url: /blog/2011/03/18/learning-brief-reflections-and-conclusions-version-2-0/
+template: blog-post.html
 title: '"Literacy and Numeracy: Week 3"'
 type: post
-template: blog-post.html
 ---
 So, after a delay due to an assignment in another course and organising a new car, it's time to catch up on Week 3 of this course. Just as week 4 is starting and the first assignment is due. A few late nights coming up.
 
@@ -190,7 +190,7 @@ Perhaps global English is just another attempt to remove diversity and complexit
 
 Which of the following three doesn't fit?
 
-| [![Chicken](images/4079109977_0f8dd65f78_t.jpg)](http://www.flickr.com/photos/helloeveryone123/4079109977/) | _broken image_ | [![Grass](images/820426283_fb8fc38b78_t.jpg)](http://www.flickr.com/photos/dominicspics/820426283/ "Grass by Dominic's pics, on Flickr") |
+| [![Chicken](https://djon.es/assets/blog/2011/03/20/literacy-and-numeracy-week-3/images/4079109977_0f8dd65f78_t.jpg)](http://www.flickr.com/photos/helloeveryone123/4079109977/) | _broken image_ | [![Grass](https://djon.es/assets/blog/2011/03/20/literacy-and-numeracy-week-3/images/820426283_fb8fc38b78_t.jpg)](http://www.flickr.com/photos/dominicspics/820426283/ "Grass by Dominic's pics, on Flickr") |
 | --- | --- | --- |
 | Chicken | Cow | Grass |
 

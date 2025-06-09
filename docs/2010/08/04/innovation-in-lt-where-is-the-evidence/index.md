@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-08-04 08:00:51+10:00
+date: 2010-08-03 22:00:51
 next:
   text: Usage of Wf applications
   url: /blog/2010/08/04/usage-of-wf-applications/
@@ -14,9 +14,9 @@ tags:
 - impact
 - seeking
 - seeking-evidence
+template: blog-post.html
 title: '"Innovation in L&#038;T - where is the evidence"'
 type: post
-template: blog-post.html
 ---
 The dissonance between the lived experience of academics and students having to deal with institutional innovations in learning and teaching, and the outcomes reported by institutional evaluations of those innovations is a growing concern for me. As top-down management gets involved in these innovations, in directing what they are and how they should be done, it doesn't seem that the accompanying gathering of evidence and critical reflection is coming along with it.  
   

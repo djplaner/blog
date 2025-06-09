@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bad
 - digitalignorance
-date: 2018-05-26 10:53:44+10:00
+date: 2018-05-26 00:53:44
 next:
   text: Explaining ISDT and its place in the research process
   url: /blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/
 previous:
   text: 'Software engineering for computational science : past, present, future'
   url: /blog/2018/05/10/software-engineering-for-computational-science-past-present-future/
+template: blog-post.html
 title: Random meandering notes on "digital" and the fourth industrial revolution
 type: post
-template: blog-post.html
 ---
 In the absence of an established workflow for curating thoughts and resources I am using this blog post to save links to some resources. It's also being used as an initial attempt to write down some thoughts on these resources and beyond. All very rough.
 
@@ -41,7 +41,7 @@ The platform economy - technology-enabled platforms - get a mention which also g
 
 I came to this idea from [this post](http://esheninger.blogspot.com.au/2018/04/preparing-learners-for-fourth.html) from a principal come consultant/researcher around leading in schools. It's a post that references [this](https://www.thirdway.org/report/automate-this-building-the-perfect-21st-century-worker) on building the perfect 21st Century worker as apparently captured in the following infographic.
 
-![](images/Artboard_1_300x-80.jpg)
+![](https://djon.es/assets/blog/2018/05/26/random-meandering-notes-on-digital-and-the-fourth-industrial-revolution/images/Artboard_1_300x-80.jpg)
 
 Which includes the obligatory _Digital skills_ which are listed in [article](https://www.thirdway.org/report/automate-this-building-the-perfect-21st-century-worker) as (emphasis added)
 

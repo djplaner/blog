@@ -1,82 +1,79 @@
----
+﻿---
 categories:
 - exploring
 - moodleopenbook
-date: 2016-08-07 05:32:31+10:00
+comments: []
+date: 2016-08-06 19:32:31
 next:
   text: '"Open Educational Practice: the boring way and more interesting ways"'
   url: /blog/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/
+pingbacks:
+- approved: '1'
+  author: 'Open Educational Practice: the boring way and more interesting ways &#8211;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.101.48
+  author_url: https://davidtjones.wordpress.com/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/
+  content: '[&#8230;] for evidence of these limitations is one of the reasons behind
+    this work that is seeking to explore how and why people are using the Moodle Book
+    module. My suspicion is [&#8230;]'
+  date: '2016-08-07 09:04:35'
+  date_gmt: '2016-08-06 23:04:35'
+  id: '3382'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Teacher presence in network learning &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.61
+  author_url: https://davidtjones.wordpress.com/2016/08/07/teacher-presence-in-network-learning/
+  content: "[&#8230;] teaching materials. Materials that students may not be engaging\
+    \ with.\_ I&#8217;m hoping that this project will help reveal how and if students\
+    \ are engaging with the content in at least one course. [&#8230;]"
+  date: '2016-08-07 15:36:09'
+  date_gmt: '2016-08-07 05:36:09'
+  id: '3383'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Exploring Moodle Book Module usage &#8211; part 1 &#8211; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.104
+  author_url: https://davidtjones.wordpress.com/2016/08/13/exploring-moodle-book-module-usage-part-1/
+  content: '[&#8230;] due to have the slides for a Moodlemoot Australia presentation
+    in a few weeks. Time to get organised. The following is (perhaps) the first of
+    a sequence of posts [&#8230;]'
+  date: '2016-08-13 17:10:10'
+  date_gmt: '2016-08-13 07:10:10'
+  id: '3384'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Some findings from initial exploration of Moodle Book usage &#8211; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.118
+  author_url: https://davidtjones.wordpress.com/2016/10/06/some-findings-from-initial-exploration-of-moodle-book-usage/
+  content: "[&#8230;] recently gave a talk at the Moodlemoot\u2019AU 2016 conference\
+    \ in Perth. The talk was titled \u201CHow and why do people use the Moodle Book\
+    \ module?\u201D\_ It reported on analysis of data from one University&#8217;s\
+    \ Moodle isntances to explore how [&#8230;]"
+  date: '2016-10-06 18:17:31'
+  date_gmt: '2016-10-06 08:17:31'
+  id: '3385'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Valuing the &quot;residue of experience&quot; a bit more
   url: /blog/2016/08/05/valuing-the-residue-of-experience-a-bit-more/
+template: blog-post.html
 title: How and why do people use the Moodle Book module?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Open Educational Practice: the boring way and more interesting ways &#8211;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.101.48
-      author_url: https://davidtjones.wordpress.com/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/
-      content: '[&#8230;] for evidence of these limitations is one of the reasons behind
-        this work that is seeking to explore how and why people are using the Moodle Book
-        module. My suspicion is [&#8230;]'
-      date: '2016-08-07 09:04:35'
-      date_gmt: '2016-08-06 23:04:35'
-      id: '3382'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Teacher presence in network learning &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.61
-      author_url: https://davidtjones.wordpress.com/2016/08/07/teacher-presence-in-network-learning/
-      content: "[&#8230;] teaching materials. Materials that students may not be engaging\
-        \ with.\_ I&#8217;m hoping that this project will help reveal how and if students\
-        \ are engaging with the content in at least one course. [&#8230;]"
-      date: '2016-08-07 15:36:09'
-      date_gmt: '2016-08-07 05:36:09'
-      id: '3383'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Exploring Moodle Book Module usage &#8211; part 1 &#8211; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.104
-      author_url: https://davidtjones.wordpress.com/2016/08/13/exploring-moodle-book-module-usage-part-1/
-      content: '[&#8230;] due to have the slides for a Moodlemoot Australia presentation
-        in a few weeks. Time to get organised. The following is (perhaps) the first of
-        a sequence of posts [&#8230;]'
-      date: '2016-08-13 17:10:10'
-      date_gmt: '2016-08-13 07:10:10'
-      id: '3384'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Some findings from initial exploration of Moodle Book usage &#8211; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.118
-      author_url: https://davidtjones.wordpress.com/2016/10/06/some-findings-from-initial-exploration-of-moodle-book-usage/
-      content: "[&#8230;] recently gave a talk at the Moodlemoot\u2019AU 2016 conference\
-        \ in Perth. The talk was titled \u201CHow and why do people use the Moodle Book\
-        \ module?\u201D\_ It reported on analysis of data from one University&#8217;s\
-        \ Moodle isntances to explore how [&#8230;]"
-      date: '2016-10-06 18:17:31'
-      date_gmt: '2016-10-06 08:17:31'
-      id: '3385'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Below are collection of resources related to a [presentation](https://mootau.moodlemoot.org/mod/data/view.php?d=20&rid=762&filter=1) given at [Moodle Moot'AU 2016](https://mootau.moodlemoot.org/course/view.php?id=62), titled "How and why do people use the Moodle Book Module?"
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - paperideas
-date: 2006-12-28 10:52:07+10:00
+date: 2006-12-28 00:52:07
 next:
   text: Evaluating the drivers for LMS adoption
   url: /blog/2006/12/28/evaluating-the-drivers-for-lms-adoption/
 previous:
   text: LMSes mostly for administrative purposes
   url: /blog/2006/12/28/lmses-mostly-for-administrative-purposes/
+template: blog-post.html
 title: Is pedagogical the only lens
 type: post
-template: blog-post.html
 ---
 Christian Dalsgaard in a [2006 paper](http://www.eurodl.org/materials/contrib/2006/Christian_Dalsgaard.htm) suggests
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-04-07 11:31:14+10:00
+date: 2011-04-07 01:31:14
 next:
   text: '"Group 2 Technologies: Images, Audio and Video"'
   url: /blog/2011/04/07/group-2-technologies-images-audio-and-video/
 previous:
   text: BIM on the back burner
   url: /blog/2011/04/07/bim-on-the-back-burner/
+template: blog-post.html
 title: '"ICTs for learning design: Group 2 Technologies - The readings"'
 type: post
-template: blog-post.html
 ---
 Another week, another group of technologies for the ICTs for learning design course. Group 2 is focused on images, video and audio tools. This post focuses on the readings, the next on the activities.
 
@@ -95,7 +95,7 @@ Quick overview of how and why.
 
 Another overview, now pointing to [this paper](http://aaalab.stanford.edu/papers/Designed_Video_for_Learning.pdf) - "It is not television anymore: Designing digital video for learning and assessment ". Which includes the following interesting figure.
 
-[![A space of learning for the use of designed video](images/5596306897_cfc8910e30_m.jpg)](http://www.flickr.com/photos/david_jones/5596306897/ "A space of learning for the use of designed video by David T Jones, on Flickr")
+[![A space of learning for the use of designed video](https://djon.es/assets/blog/2011/04/07/icts-for-learning-design-group-2-technologies-the-readings/images/5596306897_cfc8910e30_m.jpg)](http://www.flickr.com/photos/david_jones/5596306897/ "A space of learning for the use of designed video by David T Jones, on Flickr")
 
 ### References
 

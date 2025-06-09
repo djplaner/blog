@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2007-09-09 12:25:36+10:00
+date: 2007-09-09 02:25:36
 next:
   text: IS diffusion theory research - hints for e-learning implementation
   url: /blog/2007/09/09/is-diffusion-theory-research-hints-for-e-learning-implementation/
 previous:
   text: Design-based research and theory
   url: /blog/2007/09/04/design-based-research-and-theory/
+template: blog-post.html
 title: E-learning and information systems - a connection?
 type: post
-template: blog-post.html
 ---
 I currently work in e-learning for which I use the OECD definition - "the use of information and communication technologies to support and enhance learning and teaching". My original discipline as an academic is [the information systems discipline](http://www.isworld.org/). To some extent, I believe this background provides some useful insights that help with the implementation of e-learning within a university context.
 

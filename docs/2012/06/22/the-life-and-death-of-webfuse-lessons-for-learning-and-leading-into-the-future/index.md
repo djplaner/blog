@@ -1,85 +1,83 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
 - thesis
 - webfuse
-date: 2012-06-22 14:06:05+10:00
+comments:
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://users.on.net/~iancreid/
+  content: 'Hi David
+
+
+    I tried something similar in two AUSWEB papers: http://ausweb.scu.edu.au/aw99/papers/reid/
+    and http://ausweb.scu.edu.au/aw08/papers/refereed/reid/
+
+
+    Regards
+
+
+    Ian'
+  date: '2012-06-22 14:17:04'
+  date_gmt: '2012-06-22 04:17:04'
+  id: '360'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.223.36.208
+  author_url: https://djon.es/blog/
+  content: 'G''day Ian,
+
+
+    Thanks for the pointers. I was aware of the 99 paper but not the follow up in
+    2008. Aspects of what I''ll suggest echo with the comprehensive strategy but take
+    it a bit further.
+
+
+    I will definitely be questioning the notion and practice of "strategic" management
+    and traditional ICT project management and much of what flows from those practices.
+
+
+    David.'
+  date: '2012-06-22 16:02:39'
+  date_gmt: '2012-06-22 06:02:39'
+  id: '361'
+  parent: '360'
+  type: comment
+  user_id: '1'
+date: 2012-06-22 04:06:05
 next:
   text: Learning analytics and complexity
   url: /blog/2012/06/24/learning-analytics-and-complexity/
+pingbacks:
+- approved: '1'
+  author: The LMS Product &#8211; limitations and alternative &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.46
+  author_url: https://djon.es/blog/2012/06/28/the-lms-product-limitations-and-alternative/
+  content: '[...] follows is the first draft of the &#8220;Product&#8221; section
+    for an ASCILITE paper (the overview for the paper) I hope to finish by tomorrow&#8230;&#8230;just
+    a bit of wishful thinking. Much of it has appeared [...]'
+  date: '2012-06-28 12:13:07'
+  date_gmt: '2012-06-28 02:13:07'
+  id: '362'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Learning Analytics: engaging with and changing learning and teaching'
   url: /blog/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/
+template: blog-post.html
 title: '"The life and death of Webfuse: lessons for learning and leading into the
   future"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://users.on.net/~iancreid/
-      content: 'Hi David
-    
-    
-        I tried something similar in two AUSWEB papers: http://ausweb.scu.edu.au/aw99/papers/reid/
-        and http://ausweb.scu.edu.au/aw08/papers/refereed/reid/
-    
-    
-        Regards
-    
-    
-        Ian'
-      date: '2012-06-22 14:17:04'
-      date_gmt: '2012-06-22 04:17:04'
-      id: '360'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.223.36.208
-      author_url: https://djon.es/blog/
-      content: 'G''day Ian,
-    
-    
-        Thanks for the pointers. I was aware of the 99 paper but not the follow up in
-        2008. Aspects of what I''ll suggest echo with the comprehensive strategy but take
-        it a bit further.
-    
-    
-        I will definitely be questioning the notion and practice of "strategic" management
-        and traditional ICT project management and much of what flows from those practices.
-    
-    
-        David.'
-      date: '2012-06-22 16:02:39'
-      date_gmt: '2012-06-22 06:02:39'
-      id: '361'
-      parent: '360'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: The LMS Product &#8211; limitations and alternative &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.46
-      author_url: https://djon.es/blog/2012/06/28/the-lms-product-limitations-and-alternative/
-      content: '[...] follows is the first draft of the &#8220;Product&#8221; section
-        for an ASCILITE paper (the overview for the paper) I hope to finish by tomorrow&#8230;&#8230;just
-        a bit of wishful thinking. Much of it has appeared [...]'
-      date: '2012-06-28 12:13:07'
-      date_gmt: '2012-06-28 02:13:07'
-      id: '362'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an attempt to formulate and structure some ideas for a paper for [ascilite'12](http://www.ascilite2012.org/call-for-papers) in Wellington. The aim is to convert my [PhD thesis](/blog/research/phd-thesis/) - especially "_The information systems design theory for emergent university e-learning_" - into something useful and interesting for the ascilite crowd. The following is an attempt to organise the mish-mash of content I currently have into something sensible.
 

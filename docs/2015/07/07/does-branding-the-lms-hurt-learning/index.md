@@ -1,10 +1,77 @@
----
+﻿---
 categories:
 - thesis
-date: 2015-07-07 10:27:26+10:00
+comments:
+- approved: '1'
+  author: Myles Carrick (@mylescarrick)
+  author_email: mylescarrick@twitter.example.com
+  author_ip: 124.171.43.176
+  author_url: http://twitter.com/mylescarrick
+  content: "hi David,\nI think this is a really important point. I've experienced\
+    \ this a few times and consequently pushed (successfully) at my last gig to ensure\
+    \ we branded Moodle as Moodle \u2013 and now at my current place to have Canvas\
+    \ as Canvas. The 'Googleability' of the product is really important. The other\
+    \ key factor IMO is the wasted cycles spent thinking about and debating the name.\
+    \ One never imagines branding/renaming other major software we use. It's an awful\
+    \ throwback to our intranets and 'portals' - perhaps indicative of the tendency\
+    \ in many institutions to view the LMS as a content repository ;)\nDoes it hurt\
+    \ learning? Perhaps. It certainly wastes a stack of time and effort for staff\
+    \ and students alike.\nMyles"
+  date: '2015-07-07 22:10:38'
+  date_gmt: '2015-07-07 12:10:38'
+  id: '1359'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2015-07-07 00:27:26
 next:
   text: '"Female/male participation rates in IT: an example of what''s easy to log??"'
   url: /blog/2015/07/09/femalemale-participation-rates-in-it-an-example-of-whats-easy-to-log/
+pingbacks:
+- approved: '1'
+  author: Possible sources of an institution&#8217;s e-learning content problems |
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.151
+  author_url: https://davidtjones.wordpress.com/2015/08/13/possible-sources-of-an-institutions-e-learning-content-problems/
+  content: '[&#8230;] Publicised as a makeover of the StudyDesk (the institutional
+    brand for Moodle, which potentially causes its own problems) that promises the
+    ability to find &#8220;all course information&#8221; and &#8220;assessment [&#8230;]'
+  date: '2015-08-13 10:18:45'
+  date_gmt: '2015-08-13 00:18:45'
+  id: '1360'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What type of &#8220;digital knowledge&#8221; does a teacher need? | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.134
+  author_url: https://davidtjones.wordpress.com/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
+  content: '[&#8230;] the idea that &#8220;branding the LMS&#8221; hurts learning/digital
+    [&#8230;]'
+  date: '2015-09-10 13:26:39'
+  date_gmt: '2015-09-10 03:26:39'
+  id: '1361'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Minimalism, constructivism and use of Moodle or anyother e-learning tool
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.116.102
+  author_url: https://davidtjones.wordpress.com/2016/02/11/minimalism-constructivism-and-use-of-moodle-or-anyother-e-learning-tool/
+  content: '[&#8230;] I&#8217;m willing to bet there might be some significant similarities.
+    Especially given my finding last year that branding the LMS can hurt &#8220;learning&#8221;.
+    [&#8230;]'
+  date: '2016-02-11 11:36:39'
+  date_gmt: '2016-02-11 01:36:39'
+  id: '1362'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Re-using a #moodle course design'
   url: /blog/2015/07/04/re-using-a-moodle-course-design/
@@ -12,78 +79,9 @@ tags:
 - edc3100
 - elearning
 - moodle
+template: blog-post.html
 title: Does branding the LMS hurt learning
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Myles Carrick (@mylescarrick)
-      author_email: mylescarrick@twitter.example.com
-      author_ip: 124.171.43.176
-      author_url: http://twitter.com/mylescarrick
-      content: "hi David,\nI think this is a really important point. I've experienced\
-        \ this a few times and consequently pushed (successfully) at my last gig to ensure\
-        \ we branded Moodle as Moodle \u2013 and now at my current place to have Canvas\
-        \ as Canvas. The 'Googleability' of the product is really important. The other\
-        \ key factor IMO is the wasted cycles spent thinking about and debating the name.\
-        \ One never imagines branding/renaming other major software we use. It's an awful\
-        \ throwback to our intranets and 'portals' - perhaps indicative of the tendency\
-        \ in many institutions to view the LMS as a content repository ;)\nDoes it hurt\
-        \ learning? Perhaps. It certainly wastes a stack of time and effort for staff\
-        \ and students alike.\nMyles"
-      date: '2015-07-07 22:10:38'
-      date_gmt: '2015-07-07 12:10:38'
-      id: '1359'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Possible sources of an institution&#8217;s e-learning content problems |
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.151
-      author_url: https://davidtjones.wordpress.com/2015/08/13/possible-sources-of-an-institutions-e-learning-content-problems/
-      content: '[&#8230;] Publicised as a makeover of the StudyDesk (the institutional
-        brand for Moodle, which potentially causes its own problems) that promises the
-        ability to find &#8220;all course information&#8221; and &#8220;assessment [&#8230;]'
-      date: '2015-08-13 10:18:45'
-      date_gmt: '2015-08-13 00:18:45'
-      id: '1360'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What type of &#8220;digital knowledge&#8221; does a teacher need? | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.134
-      author_url: https://davidtjones.wordpress.com/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
-      content: '[&#8230;] the idea that &#8220;branding the LMS&#8221; hurts learning/digital
-        [&#8230;]'
-      date: '2015-09-10 13:26:39'
-      date_gmt: '2015-09-10 03:26:39'
-      id: '1361'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Minimalism, constructivism and use of Moodle or anyother e-learning tool
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.116.102
-      author_url: https://davidtjones.wordpress.com/2016/02/11/minimalism-constructivism-and-use-of-moodle-or-anyother-e-learning-tool/
-      content: '[&#8230;] I&#8217;m willing to bet there might be some significant similarities.
-        Especially given my finding last year that branding the LMS can hurt &#8220;learning&#8221;.
-        [&#8230;]'
-      date: '2016-02-11 11:36:39'
-      date_gmt: '2016-02-11 01:36:39'
-      id: '1362'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The LMS used by my institution is Moodle, but the institution has "branded" it as "Study Desk". Meaning students and teachers talk about finding X on the "Study Desk". They don't talk about finding X on Moodle. The following suggests that this branding of the LMS may actually hurt learning.
 
@@ -91,7 +89,7 @@ _Update:_ Via twitter @georgekroner mentioned [his post](http://edutechnica.com/
 
 ### Google the name (information literacy?)
 
-[![](images/tech_support_cheat_sheet.png)](http://xkcd.com/627/)
+[![](https://djon.es/assets/blog/2015/07/07/does-branding-the-lms-hurt-learning/images/tech_support_cheat_sheet.png)](http://xkcd.com/627/)
 
 The biggest course I teach is aimed at helping pre-service teachers develop knowledge and skills around using digital technology to enhance and transform their students' learning. Early on in the course a primary goal is to help the students develop the skill/literacy to solve their own digital technology problems. The idea is that we can't train them on all the technologies they might come across (give them fish), we can only help them learn new technologies and solve their own problems (teach them how to fish).
 

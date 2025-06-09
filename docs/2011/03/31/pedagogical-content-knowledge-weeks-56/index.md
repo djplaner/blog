@@ -1,98 +1,95 @@
----
+﻿---
 categories:
 - eded20456
 - teaching
-date: 2011-03-31 15:51:18+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.179.184
+  author_url: http://www.vrbones.com
+  content: '<blockquote>Mmm, gotten tired of terminology duplication for some and
+    lack of standard definitions for others. Incredibly difficult to figure out exactly
+    what is required from the question, how best to go about it, and how much authenticity
+    it has with real practice.</blockquote>
+
+    I found that one of the most difficult things to get right was judging the appropriateness
+    of the task with such vague criteria as "Comprehensive knowledge of concepts,
+    facts and procedures". Surely some of this stuff is relative as rudimentary knowledge
+    of quaternions should be weighted more than complete understanding of fractions.
+
+
+    When I ask other teachers how they deal with these issues, they usually reply
+    with "It''s something that you just get a feel for". Nice. What I would have liked
+    (and still do) to kickstart the "feel" is many, many exemplars of standard units
+    that demonstrate clear links to the curriculum. Even in prac you''ll probably
+    only be exposed to a couple of courses that can be helpful in aligning your own
+    designs, but I''m sure that throughout Queensland and (when ACARA kicks in) around
+    Australia there are hundreds or thousands of exemplars to view if they were made
+    available. There has been an attempt to make a repository on the QSA website,
+    but the uploads seem to be rather sporadic (especially in IT).
+
+
+    I know that each teacher''s units feel like their own babies and they aren''t
+    willing to share, but surely if QSA / ACARA are heading this way they need to
+    have a solid plan on how to bring new people into the "feel" of the level. Maybe
+    the Uni course could help by making available multiple previous units that had
+    been submitted for assessment.
+
+
+    Part of my aim for developing the majority of content through moodle is that it
+    will allow a fairly easy sharing method though the community hub. Hopefully there
+    are other like-minded K-12 teachers out there that will share so that I can improve
+    my units offered.'
+  date: '2011-04-01 13:29:51'
+  date_gmt: '2011-04-01 03:29:51'
+  id: '39'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.179.99.44
+  author_url: https://djon.es/blog/
+  content: 'I''m going to return to unit planning next week sometime. But I think
+    there will be some commonality in experience.
+
+
+    The sharing thing is interesting. I wonder if the next generation of teachers
+    will make a difference. Not sure my fellow GDL&amp;T students will make much.
+    Many seem to be very reluctant to put material on their blogs. Others are more
+    open.
+
+
+    As for sharing plans, I''ve got a vague idea kicking around in my head for a more
+    "connectivist" (very loosely used) for structuring and traversing the type of
+    knowledge required to develop good teaching. With an obvious required output being
+    a unit plan.
+
+
+    I hope to share that idea once I get some time. But I also think the experience
+    of developing a plan or two will help.
+
+
+    Either way, I''m keen to figure out ways we can share plans.'
+  date: '2011-04-01 15:26:30'
+  date_gmt: '2011-04-01 05:26:30'
+  id: '40'
+  parent: '39'
+  type: comment
+  user_id: '1'
+date: 2011-03-31 05:51:18
 next:
   text: Two new laws for ERA/NAPLAN etc
   url: /blog/2011/04/01/two-new-laws-for-eranaplan-etc/
+pingbacks: []
 previous:
   text: 'Pedagogical Content Knowledge: Week 4'
   url: /blog/2011/03/31/pedagogical-content-knowledge-week-4/
+template: blog-post.html
 title: '"Pedagogical Content Knowledge: Weeks 5/6"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.179.184
-      author_url: http://www.vrbones.com
-      content: '<blockquote>Mmm, gotten tired of terminology duplication for some and
-        lack of standard definitions for others. Incredibly difficult to figure out exactly
-        what is required from the question, how best to go about it, and how much authenticity
-        it has with real practice.</blockquote>
-    
-        I found that one of the most difficult things to get right was judging the appropriateness
-        of the task with such vague criteria as "Comprehensive knowledge of concepts,
-        facts and procedures". Surely some of this stuff is relative as rudimentary knowledge
-        of quaternions should be weighted more than complete understanding of fractions.
-    
-    
-        When I ask other teachers how they deal with these issues, they usually reply
-        with "It''s something that you just get a feel for". Nice. What I would have liked
-        (and still do) to kickstart the "feel" is many, many exemplars of standard units
-        that demonstrate clear links to the curriculum. Even in prac you''ll probably
-        only be exposed to a couple of courses that can be helpful in aligning your own
-        designs, but I''m sure that throughout Queensland and (when ACARA kicks in) around
-        Australia there are hundreds or thousands of exemplars to view if they were made
-        available. There has been an attempt to make a repository on the QSA website,
-        but the uploads seem to be rather sporadic (especially in IT).
-    
-    
-        I know that each teacher''s units feel like their own babies and they aren''t
-        willing to share, but surely if QSA / ACARA are heading this way they need to
-        have a solid plan on how to bring new people into the "feel" of the level. Maybe
-        the Uni course could help by making available multiple previous units that had
-        been submitted for assessment.
-    
-    
-        Part of my aim for developing the majority of content through moodle is that it
-        will allow a fairly easy sharing method though the community hub. Hopefully there
-        are other like-minded K-12 teachers out there that will share so that I can improve
-        my units offered.'
-      date: '2011-04-01 13:29:51'
-      date_gmt: '2011-04-01 03:29:51'
-      id: '39'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.179.99.44
-      author_url: https://djon.es/blog/
-      content: 'I''m going to return to unit planning next week sometime. But I think
-        there will be some commonality in experience.
-    
-    
-        The sharing thing is interesting. I wonder if the next generation of teachers
-        will make a difference. Not sure my fellow GDL&amp;T students will make much.
-        Many seem to be very reluctant to put material on their blogs. Others are more
-        open.
-    
-    
-        As for sharing plans, I''ve got a vague idea kicking around in my head for a more
-        "connectivist" (very loosely used) for structuring and traversing the type of
-        knowledge required to develop good teaching. With an obvious required output being
-        a unit plan.
-    
-    
-        I hope to share that idea once I get some time. But I also think the experience
-        of developing a plan or two will help.
-    
-    
-        Either way, I''m keen to figure out ways we can share plans.'
-      date: '2011-04-01 15:26:30'
-      date_gmt: '2011-04-01 05:26:30'
-      id: '40'
-      parent: '39'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 And now onto weeks 5/6 for the PCK course I'm studying. Within two/three weeks we'll be heading out into schools, so the content for this week is starting to become fairly central. i.e. what is the curriculum and how are you meant to plan teaching/learning around that curriculum.
 

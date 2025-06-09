@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - emd
-date: 2007-08-15 21:21:37+10:00
+date: 2007-08-15 11:21:37
 next:
   text: Diffusion theory to guide adoption of immersive Web3D environments in learning
   url: /blog/2007/08/25/diffusion-theory-to-guide-adoption-of-immersive-web3d-environments-in-learning/
 previous:
   text: It&#039;s the process, stupid (not the product)
   url: /blog/2007/08/11/its-the-process-stupid-not-the-product/
+template: blog-post.html
 title: Mediawiki, organisational websites and emergence
 type: post
-template: blog-post.html
 ---
 This week the unit I work for finally got its [website up and going](http://cddu.cqu.edu.au/). The Curriculum Design & Development Unit (CDDU) is tasked with helping CQU "become a world leader in flexible and on line learning".
 

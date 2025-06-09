@@ -1,122 +1,120 @@
----
+﻿---
 categories:
 - elearning
-date: 2014-02-27 10:39:59+10:00
+comments:
+- approved: '1'
+  author: Stephen Pallett
+  author_email: sjpalnz@gmail.com
+  author_ip: 220.253.98.54
+  author_url: https://plus.google.com/113838145022868798051
+  content: 'David, it sounds like you''ve been completely let down there. Your eP
+    should have expired (if anything) and not just deleted along with the whole site,
+    and yes you should have been warned. At least that would allow you or an admin
+    to export your content so that you can host it elsewhere if you want to. Perhaps
+    they sent a warning to an institutional email account you no longer use? I''ve
+    known that to happen. I understand why institutions provide such platforms, as
+    it makes it easier to train staff and scaffold for students in a particular technology
+    (whether they like it or not), and it allows for very fine-grained control of
+    who can see what. At my institution we have recently made it clear that graduates
+    will need to export their Mahara content, like any email they wish to keep. We''ve
+    barely got the resources to support current students, never mind Alumni!
+
+    Steve P.'
+  date: '2014-03-17 14:27:03'
+  date_gmt: '2014-03-17 04:27:03'
+  id: '969'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: Steve, thanks for the comment.  Like you I can see the rationale for having
+    these systems and mandating their use.  I'm not sure I agree with it anymore.
+    While not exactly the same and entirely anecdotal, I feel I've had less need to
+    support student in recent years create artefacts on their choice of online service
+    (Weebly, Wordpress etc) than I ever did with Mahara.
+  date: '2014-03-17 14:36:11'
+  date_gmt: '2014-03-17 04:36:11'
+  id: '970'
+  parent: '969'
+  type: comment
+  user_id: '1'
+date: 2014-02-27 00:39:59
 next:
   text: '"Some areas of improvement for #edc3100"'
   url: /blog/2014/03/28/some-areas-of-improvement-for-edc3100/
+pingbacks:
+- approved: '1'
+  author: A story about the failure of institutional epor...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educational-technology-in-higher-education/p/4016743132/2014/02/28/a-story-about-the-failure-of-institutional-eportfolios
+  content: '[&#8230;] In which I relate a personal story about how the one eportfolio
+    I was required as a student to make on an institutional eportfolio system has
+    now disappeared for good (to me) with no communication ...&nbsp; [&#8230;]'
+  date: '2014-02-28 10:12:24'
+  date_gmt: '2014-02-28 00:12:24'
+  id: '967'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A story about the failure of institutional epor...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/eptfolio-teacher-educationor/p/4016945743/2014/03/03/a-story-about-the-failure-of-institutional-eportfolios
+  content: '[&#8230;] In which I relate a personal story about how the one eportfolio
+    I was required as a student to make on an institutional eportfolio system has
+    now disappeared for good (to me) with no communication from the institution.&nbsp;
+    [&#8230;]'
+  date: '2014-03-04 03:48:09'
+  date_gmt: '2014-03-03 17:48:09'
+  id: '968'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Staff need to be using the same tools they use to teach to also learn |
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.36
+  author_url: https://djon.es/blog/2014/04/02/staff-need-to-be-using-the-same-tools-they-use-to-teach-to-also-learn/
+  content: '[&#8230;] What&#8217;s not the starting point are the tools people are
+    already using, or the tools that are better for learning. Especially for the time
+    when they stop studying at the institution. This connects to my recent post about
+    the failure of institutional eportfolios. [&#8230;]'
+  date: '2014-04-02 17:19:49'
+  date_gmt: '2014-04-02 07:19:49'
+  id: '971'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'University digital technology: problems, causes, and suggested solutions
+    &#8211; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.116.169
+  author_url: https://davidtjones.wordpress.com/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
+  content: "[&#8230;] to have a USQ-hosted e-portfolio.\_ This is such a hackneyed\
+    \ approach of which I&#8217;ve long been critical. A more contemporary approach\
+    \ is offered by the Domain of One&#8217;s Own (DoOO) project from UMW [&#8230;]"
+  date: '2016-09-07 13:09:12'
+  date_gmt: '2016-09-07 03:09:12'
+  id: '972'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Evernote as a &quot;solution&quot; to a #moodle &quot;problem&quot;'
   url: /blog/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/
 tags:
 - eportfolio
+template: blog-post.html
 title: A story about the failure of institutional eportfolios
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Stephen Pallett
-      author_email: sjpalnz@gmail.com
-      author_ip: 220.253.98.54
-      author_url: https://plus.google.com/113838145022868798051
-      content: 'David, it sounds like you''ve been completely let down there. Your eP
-        should have expired (if anything) and not just deleted along with the whole site,
-        and yes you should have been warned. At least that would allow you or an admin
-        to export your content so that you can host it elsewhere if you want to. Perhaps
-        they sent a warning to an institutional email account you no longer use? I''ve
-        known that to happen. I understand why institutions provide such platforms, as
-        it makes it easier to train staff and scaffold for students in a particular technology
-        (whether they like it or not), and it allows for very fine-grained control of
-        who can see what. At my institution we have recently made it clear that graduates
-        will need to export their Mahara content, like any email they wish to keep. We''ve
-        barely got the resources to support current students, never mind Alumni!
-    
-        Steve P.'
-      date: '2014-03-17 14:27:03'
-      date_gmt: '2014-03-17 04:27:03'
-      id: '969'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: Steve, thanks for the comment.  Like you I can see the rationale for having
-        these systems and mandating their use.  I'm not sure I agree with it anymore.
-        While not exactly the same and entirely anecdotal, I feel I've had less need to
-        support student in recent years create artefacts on their choice of online service
-        (Weebly, Wordpress etc) than I ever did with Mahara.
-      date: '2014-03-17 14:36:11'
-      date_gmt: '2014-03-17 04:36:11'
-      id: '970'
-      parent: '969'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: A story about the failure of institutional epor...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educational-technology-in-higher-education/p/4016743132/2014/02/28/a-story-about-the-failure-of-institutional-eportfolios
-      content: '[&#8230;] In which I relate a personal story about how the one eportfolio
-        I was required as a student to make on an institutional eportfolio system has
-        now disappeared for good (to me) with no communication ...&nbsp; [&#8230;]'
-      date: '2014-02-28 10:12:24'
-      date_gmt: '2014-02-28 00:12:24'
-      id: '967'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A story about the failure of institutional epor...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/eptfolio-teacher-educationor/p/4016945743/2014/03/03/a-story-about-the-failure-of-institutional-eportfolios
-      content: '[&#8230;] In which I relate a personal story about how the one eportfolio
-        I was required as a student to make on an institutional eportfolio system has
-        now disappeared for good (to me) with no communication from the institution.&nbsp;
-        [&#8230;]'
-      date: '2014-03-04 03:48:09'
-      date_gmt: '2014-03-03 17:48:09'
-      id: '968'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Staff need to be using the same tools they use to teach to also learn |
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.36
-      author_url: https://djon.es/blog/2014/04/02/staff-need-to-be-using-the-same-tools-they-use-to-teach-to-also-learn/
-      content: '[&#8230;] What&#8217;s not the starting point are the tools people are
-        already using, or the tools that are better for learning. Especially for the time
-        when they stop studying at the institution. This connects to my recent post about
-        the failure of institutional eportfolios. [&#8230;]'
-      date: '2014-04-02 17:19:49'
-      date_gmt: '2014-04-02 07:19:49'
-      id: '971'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'University digital technology: problems, causes, and suggested solutions
-        &#8211; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.116.169
-      author_url: https://davidtjones.wordpress.com/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
-      content: "[&#8230;] to have a USQ-hosted e-portfolio.\_ This is such a hackneyed\
-        \ approach of which I&#8217;ve long been critical. A more contemporary approach\
-        \ is offered by the Domain of One&#8217;s Own (DoOO) project from UMW [&#8230;]"
-      date: '2016-09-07 13:09:12'
-      date_gmt: '2016-09-07 03:09:12'
-      id: '972'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In which I relate a personal story about how the one eportfolio I was required as a student to make on an institutional eportfolio system has now disappeared for good (to me) with no communication from the institution.
 

@@ -1,85 +1,83 @@
----
+﻿---
 categories:
 - indicators
 - moodle
-date: 2010-05-13 11:04:25+10:00
+comments:
+- approved: '1'
+  author: alanarnold
+  author_email: alanarnold@mac.com
+  author_ip: 137.92.97.111
+  author_url: null
+  content: 'Interesting early days David (&amp; Col) - just implemented in a test
+    instance and it feels spookily like Lewis Carr''s moodle meter  which afai can
+    tell hasn''t seen the public light of day yet.  Similarly, his moodle dashboard
+    .  Are you comparing notes?
+
+
+    One of the issues for me, if Indicators of some form are to get traction at UC,
+    will be to not give the impression that ''more is necessarily better'', which
+    a low-to-high meter tends to do.  Traffic lights like those in Purdue''s Signals
+    project I guess do the same   Any thoughts?'
+  date: '2010-05-14 16:56:49'
+  date_gmt: '2010-05-14 06:56:49'
+  id: '3044'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-05-13 01:04:25
 next:
   text: Qualms about the alignment project
   url: /blog/2010/05/14/qualms-about-the-alignment-project/
+pingbacks:
+- approved: '1'
+  author: Some tweaks to the indicators block &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.160
+  author_url: https://djon.es/blog/2010/05/14/some-tweaks-to-the-indicators-block/
+  content: '[...] tweaks to the indicators&nbsp;block  Yesterday&#8217;s post introduced
+    Col&#8217;s initial work on the indicators block. This post reports on some minor
+    tweaks [...]'
+  date: '2010-05-14 16:51:33'
+  date_gmt: '2010-05-14 06:51:33'
+  id: '3043'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Moodle Block Development &laquo; Col&#039;s Weblog
+  author_email: null
+  author_ip: 66.135.48.157
+  author_url: http://beerc.wordpress.com/2010/05/14/moodle-block-development/
+  content: '[...] Moodle Block&nbsp;Development This is a quick response to David&#8217;s
+    post today. We are endeavoring to collaborate on the development of a Moodle block.
+    A more detailed explanation can be found on David&#8217;s blog. [...]'
+  date: '2010-05-14 19:33:49'
+  date_gmt: '2010-05-14 09:33:49'
+  id: '3045'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Moving the indicators Moodle block a factory class &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.169
+  author_url: https://djon.es/blog/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/
+  content: '[...] the indicators Moodle block a factory&nbsp;class  The following
+    reports on some work on the indicators block to move it towards using some object-orientation
+    and the factory design [...]'
+  date: '2010-05-17 10:07:12'
+  date_gmt: '2010-05-17 00:07:12'
+  id: '3046'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: More thinking about the alignment project
   url: /blog/2010/05/13/more-thinking-about-the-alignment-project/
+template: blog-post.html
 title: Getting started with Col's indicators block
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: alanarnold
-      author_email: alanarnold@mac.com
-      author_ip: 137.92.97.111
-      author_url: null
-      content: 'Interesting early days David (&amp; Col) - just implemented in a test
-        instance and it feels spookily like Lewis Carr''s moodle meter  which afai can
-        tell hasn''t seen the public light of day yet.  Similarly, his moodle dashboard
-        .  Are you comparing notes?
-    
-    
-        One of the issues for me, if Indicators of some form are to get traction at UC,
-        will be to not give the impression that ''more is necessarily better'', which
-        a low-to-high meter tends to do.  Traffic lights like those in Purdue''s Signals
-        project I guess do the same   Any thoughts?'
-      date: '2010-05-14 16:56:49'
-      date_gmt: '2010-05-14 06:56:49'
-      id: '3044'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Some tweaks to the indicators block &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.160
-      author_url: https://djon.es/blog/2010/05/14/some-tweaks-to-the-indicators-block/
-      content: '[...] tweaks to the indicators&nbsp;block  Yesterday&#8217;s post introduced
-        Col&#8217;s initial work on the indicators block. This post reports on some minor
-        tweaks [...]'
-      date: '2010-05-14 16:51:33'
-      date_gmt: '2010-05-14 06:51:33'
-      id: '3043'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Moodle Block Development &laquo; Col&#039;s Weblog
-      author_email: null
-      author_ip: 66.135.48.157
-      author_url: http://beerc.wordpress.com/2010/05/14/moodle-block-development/
-      content: '[...] Moodle Block&nbsp;Development This is a quick response to David&#8217;s
-        post today. We are endeavoring to collaborate on the development of a Moodle block.
-        A more detailed explanation can be found on David&#8217;s blog. [...]'
-      date: '2010-05-14 19:33:49'
-      date_gmt: '2010-05-14 09:33:49'
-      id: '3045'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Moving the indicators Moodle block a factory class &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.169
-      author_url: https://djon.es/blog/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/
-      content: '[...] the indicators Moodle block a factory&nbsp;class  The following
-        reports on some work on the indicators block to move it towards using some object-orientation
-        and the factory design [...]'
-      date: '2010-05-17 10:07:12'
-      date_gmt: '2010-05-17 00:07:12'
-      id: '3046'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [Col](http://beerc.wordpress.com/) has been playing around with some ideas for a [Moodle indicators block](/blog/2010/05/09/requirements-for-an-indicators-moodle-block/). This is a record of my first attempt to install and play with the block. Might also do a bit of reflection and setting up of processes etc so we can go further with this.
 
@@ -91,7 +89,7 @@ The long term goal is to promote the [Indicators project](http://indicatorsproje
 
 Installing the single PHP file provided by Col in the right place in my local Moodle install, setting permissions, visiting the "admin" page for my Moodle install and she's all right to go. Go to a dummy course, login as a staff member, add the block and it's all working. The block currently shows some idea of effort on the part of students, so logged in as a staff member, I don't see much. Login as a dummy student and this is what I see. (Click on it to see a bigger version)
 
-[![Indicators block version 0](images/4602744172_c62f1a9ab2_m.jpg)](http://www.flickr.com/photos/david_jones/4602744172/ "Indicators block version 0 by David T Jones, on Flickr")
+[![Indicators block version 0](https://djon.es/assets/blog/2010/05/13/getting-started-with-cols-indicators-block/images/4602744172_c62f1a9ab2_m.jpg)](http://www.flickr.com/photos/david_jones/4602744172/ "Indicators block version 0 by David T Jones, on Flickr")
 
 It seems to work, though with a few errors. The dummy student I'm using hasn't done a lot and the arrow indicates that. The errors include:
 
@@ -106,7 +104,7 @@ The aim is to make this open source and let anyone work on it - or at least anyo
 
 Col's just sent some new code, installed it and refreshed the page for the dummy student. I get the following
 
-[![Next step in indicators block](images/4602759472_713e932696_m.jpg)](http://www.flickr.com/photos/david_jones/4602759472/ "Next step in indicators block by David T Jones, on Flickr")
+[![Next step in indicators block](https://djon.es/assets/blog/2010/05/13/getting-started-with-cols-indicators-block/images/4602759472_713e932696_m.jpg)](http://www.flickr.com/photos/david_jones/4602759472/ "Next step in indicators block by David T Jones, on Flickr")
 
 The background colour has been improved. However, the interesting observation is that the one page reload has catapulted this student from a fairly low effort level, to a fairly high effort level.
 

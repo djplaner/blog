@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,66 +6,63 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-09-07 11:50:46+10:00
+comments: []
+date: 2009-09-07 01:50:46
 next:
   text: '"BIM#7 - Getting the prototype up"'
   url: /blog/2009/09/08/bim7-getting-the-prototype-up/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #24: off to the crocodile form &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 72.233.96.192
+  author_url: https://djon.es/blog/2009/09/11/phd-update-24-off-to-the-crocodile-form/
+  content: '[...] aim for this week was to complete the pedagogy component. The component
+    will have three sections: The centrality of the pedagogue (done); Learning theories,
+    research and advice for pedagogues (about half done); and Lessons from [...]'
+  date: '2009-09-11 07:30:10'
+  date_gmt: '2009-09-10 21:30:10'
+  id: '2746'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Learning theories and e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.243.217
+  author_url: https://djon.es/blog/2009/10/04/learning-theories-and-e-learning/
+  content: '[...] theories and&nbsp;e-learning  It&#8217;s almost a month since the
+    last post from the first draft of my thesis. So, after much time away here&#8217;s
+    the next installment. [...]'
+  date: '2009-10-04 13:47:03'
+  date_gmt: '2009-10-04 03:47:03'
+  id: '2747'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Loosing weight, nudging and changing the L&amp;T environment &#8211; early
+    foundations of my work &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.181
+  author_url: https://djon.es/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
+  content: '[...] it comes to improving teaching and learning a, if not the, major
+    role is played by the individual pedagogue/teacher and what they believe. At some
+    stage, the teacher makes a decision to improve or change their practice, or not.
+    My [...]'
+  date: '2010-02-03 11:46:39'
+  date_gmt: '2010-02-03 01:46:39'
+  id: '2748'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Phd Update #23 - Getting closer to the end of chapter 2'
   url: /blog/2009/09/03/phd-update-23-getting-closer-to-the-end-of-chapter-2/
+template: blog-post.html
 title: Pedagogy - the centrality of the pedagogue and what they believe
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #24: off to the crocodile form &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 72.233.96.192
-      author_url: https://djon.es/blog/2009/09/11/phd-update-24-off-to-the-crocodile-form/
-      content: '[...] aim for this week was to complete the pedagogy component. The component
-        will have three sections: The centrality of the pedagogue (done); Learning theories,
-        research and advice for pedagogues (about half done); and Lessons from [...]'
-      date: '2009-09-11 07:30:10'
-      date_gmt: '2009-09-10 21:30:10'
-      id: '2746'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Learning theories and e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.243.217
-      author_url: https://djon.es/blog/2009/10/04/learning-theories-and-e-learning/
-      content: '[...] theories and&nbsp;e-learning  It&#8217;s almost a month since the
-        last post from the first draft of my thesis. So, after much time away here&#8217;s
-        the next installment. [...]'
-      date: '2009-10-04 13:47:03'
-      date_gmt: '2009-10-04 03:47:03'
-      id: '2747'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Loosing weight, nudging and changing the L&amp;T environment &#8211; early
-        foundations of my work &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.181
-      author_url: https://djon.es/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
-      content: '[...] it comes to improving teaching and learning a, if not the, major
-        role is played by the individual pedagogue/teacher and what they believe. At some
-        stage, the teacher makes a decision to improve or change their practice, or not.
-        My [...]'
-      date: '2010-02-03 11:46:39'
-      date_gmt: '2010-02-03 01:46:39'
-      id: '2748'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the first part of the Pedagogy component of the Ps Framework with forms part of Chapter 2 of my thesis. As with previous thesis posts this is a rough first draft of the content, feedback welcome. This is the first of three parts to this component. The next will say something about "learning theory" and the final will draw some lessons.
 
@@ -85,7 +82,7 @@ Alavi and Leidner (2001), in discussing technology-mediated learning, suggest th
 
 While agreeing that the main aim of university learning and teaching, and e-learning in particular, should be a focus on improving student learning it is the nature of university courses that they are designed by pedagogues within a particular context. Trigwell (2001) - in developing a model to evaluate good teaching – argues that rather than separating learning, teaching, context and other aspects associated with university learning, all these aspects must be considered together and, in order for learning to be judged effective, they must be aligned. Figure 2.1 is a representation of Trigwell's (2001) model of university teaching, it is intended as a set of concentric spheres. At the centre is the student and their learning, however, that learning is directly impacted upon by the strategies adopted by the teacher, which are in turn influenced by the other factors.
 
-[![Trigwell's model of teaching](images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
+[![Trigwell's model of teaching](https://djon.es/assets/blog/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
 
 _Figure 2.1 – Trigwell's (2001) model of university teaching_
 

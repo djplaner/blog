@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bimerrors
-date: 2010-08-26 10:32:49+10:00
+date: 2010-08-26 00:32:49
 next:
   text: Possible uses of academic analytics
   url: /blog/2010/08/27/possible-uses-of-academic-analytics/
 previous:
   text: Nobody likes a do-gooder - another reason for e-learning not mainstreaming?
   url: /blog/2010/08/25/nobody-likes-a-do-gooder-another-reason-for-lt/
+template: blog-post.html
 title: BIM, blog posts and special characters
 type: post
-template: blog-post.html
 ---
 The following is a summary/explanation of a common problem with BIM and its mirroring of blog posts and a common solution. The problem is generally caused by folk creating their blog posts in Word and then copying and pasting them into the blog post. For various reasons this process brings along some "special" characters which, while they work fine in Word, screw up royally within more constrained textual representations, like those of Web browsers and XML/RSS parsing libraries.
 

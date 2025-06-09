@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - eei
-date: 2017-02-24 10:39:14+10:00
+date: 2017-02-24 00:39:14
 next:
   text: The teleological reason why ICTs limit choice for university learners and
     learning
@@ -10,9 +10,9 @@ previous:
   text: 'Open Educational Practice and Preservice Teacher Education: Understanding
     past practice and future possibilities'
   url: /blog/2017/02/23/open-educational-practice-and-preservice-teacher-education-understanding-past-practice-and-future-possibilities/
+template: blog-post.html
 title: L&T Orientation for new Academic staff (S1, 2017)
 type: post
-template: blog-post.html
 ---
 Yesterday I helped out with the folk running the session intended to orient new full-time teaching academics to teaching at our institution. What follows are the slides, other resources, and some initial reflections on the session.
 
@@ -49,7 +49,7 @@ Other resources
     There are many [different URL shorteners](https://www.lifewire.com/shortening-long-links-3486603), for this session we used [http://bit.ly](http://bit.ly). The image below shows the statistics that bit.ly shows about how shortened URLs have been used. Currently, I only use the free version of bit.ly.
     
 
-[![Stats on shortened](images/32263769553_ab571f6501.jpg)](https://www.flickr.com/photos/david_jones/32263769553/in/dateposted-public/ "Stats on shortened")
+[![Stats on shortened](https://djon.es/assets/blog/2017/02/24/lt-orientation-for-new-academic-staff-s1-2017/images/32263769553_ab571f6501.jpg)](https://www.flickr.com/photos/david_jones/32263769553/in/dateposted-public/ "Stats on shortened")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 - [Obvious to you. Amazing to others](http://bit.ly/obvAmazing)

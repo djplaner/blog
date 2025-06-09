@@ -1,22 +1,18 @@
----
+﻿---
 categories:
 - emd
-date: 2007-02-03 20:51:59+10:00
+comments: []
+date: 2007-02-03 10:51:59
 next:
   text: Should the learner always be the focus?
   url: /blog/2007/02/09/should-the-learner-always-be-the-focus/
+pingbacks: []
 previous:
   text: Decision making, problem solving traps and course management systems
   url: /blog/2007/01/24/decision-making-problem-solving-traps-and-course-management-systems/
+template: blog-post.html
 title: New job, new start, new challenges
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 A couple of days ago (Feb 1st, 2007) I started a new job at [CQU](http://www.cqu.edu.au/). A job that will give me lot more cause to "edublog", but at the same time restrict exactly what I can blog.
 

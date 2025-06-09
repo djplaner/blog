@@ -1,128 +1,126 @@
----
+﻿---
 categories:
 - elearning
-date: 2009-12-15 14:02:22+10:00
+comments:
+- approved: '1'
+  author: Thomas
+  author_email: thomas.duggan@gmail.com
+  author_ip: 138.77.2.133
+  author_url: http://thomasduggan.wordpress.com/
+  content: 'I don''t think teaching qualifications are necessarily a bad thing, but
+    it''s a matter of different strokes for different folks. I''d simply prefer more
+    exposure to teaching (outside of what I already do, which isn''t much) and the
+    opportunity to reflect on that.
+
+
+    I''m not really sure how the GCiTE is structured so I can''t really comment on
+    it. Do you have much first hand experience with it? I''ve yet to hear any real
+    commentary from people who have completed the thing.'
+  date: '2009-12-15 16:50:56'
+  date_gmt: '2009-12-15 06:50:56'
+  id: '2888'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: "By themselves I would agree that teaching qualifications aren't a bad\
+    \ thing.\n\nThe trouble is that they won't be by themselves.  The current model\
+    \ is that all new staff will be forced to gain such a qualification when they\
+    \ join the institution.\n\nThis may not be a bad thing - I don't think there's\
+    \ clear cut evidence that it's a good thing, but that's not the argument.\n\n\
+    The argument is what are those new staff going to do when\n<ol>\n  <li> All the\
+    \ \"old hands\", no matter how bad their teaching, will not be required to expend\
+    \ the energy to get a teaching qualification. </li>\n  <li> The \"new hands\"\
+    \ will still be under pressure to do research. </li>\n  <li> At the same time\
+    \ as the teaching qualification they will find that most of the practices/policies\
+    \ that support L&amp;T aren't conducive to what they are learning about.  i.e.\
+    \ it will be difficult to apply what they see. </li>\n  <li> The rewards process\
+    \ still does not demonstrably value L&amp;T. </li>\n</ol>\n\nGiven this situation,\
+    \ will people engage effectively with the grad cert?  Or will they pragmatically\
+    \ complete the requirements so they can tick the box?\n\nIf the latter, then there\
+    \ won't be any improvement in L&amp;T outcomes for the students as the new academics\
+    \ practice won't have changed."
+  date: '2009-12-15 19:14:01'
+  date_gmt: '2009-12-15 09:14:01'
+  id: '2889'
+  parent: '2888'
+  type: comment
+  user_id: '1'
+date: 2009-12-15 04:02:22
 next:
   text: BIM and Moodle development - a more coherent overview found?
   url: /blog/2009/12/15/bim-and-moodle-a-more-coherent-overview/
+pingbacks:
+- approved: '1'
+  author: Teaching Qualifications &laquo; t duggan online space
+  author_email: null
+  author_ip: 66.135.48.208
+  author_url: http://thomasduggan.wordpress.com/2009/12/16/teaching-qualifications/
+  content: "[...]  December 16, 2009 Thomas Leave a comment Go to comments    I read\
+    \ and responded to an interesting post by David Jones recently.\_ It is being\
+    \ discussed more and more that university academic staff should have some [...]"
+  date: '2009-12-16 16:57:09'
+  date_gmt: '2009-12-16 06:57:09'
+  id: '2890'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Higher Education Teaching Reforms
+  author_email: null
+  author_ip: 117.55.224.145
+  author_url: http://ucniss.org/2009/12/higher-education-teaching-reforms/
+  content: '[...] paper (here). David Jones has provided a great blog on proposed
+    higher education reforms (here). David suggests that for the majority of teaching
+    at universities the introdcution of performance [...]'
+  date: '2010-01-05 10:19:09'
+  date_gmt: '2010-01-05 00:19:09'
+  id: '2891'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Identifying and designing interventions to improve L&amp;T &#8211; a behaviour
+    change framework? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.32
+  author_url: https://djon.es/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
+  content: '[...] that include the use of the % of university teaching staff with
+    teaching qualifications as a KPI. I&#8217;ve argued this this attempt will encourage
+    compliance behaviour on the part of institutions and [...]'
+  date: '2010-04-14 13:02:48'
+  date_gmt: '2010-04-14 03:02:48'
+  id: '2892'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The realities of the ERA and L&amp;T support services &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.105
+  author_url: https://djon.es/blog/2010/04/28/the-realities-of-the-era-and-lt-support-services/
+  content: '[...] get me wrong, there is an argument to be made the universities should
+    be accountable. However, as I&#8217;ve argued before such indicators are generally
+    very poor and at best result in compliance and at worst task [...]'
+  date: '2010-04-28 14:04:22'
+  date_gmt: '2010-04-28 04:04:22'
+  id: '2893'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Getting back into BIM: Summary and way forward'
   url: /blog/2009/12/14/getting-back-into-bim-summary-and-way-forward/
 tags:
 - quality-performance-kpi
+template: blog-post.html
 title: Here come the indicators, wait for the task corruption
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Thomas
-      author_email: thomas.duggan@gmail.com
-      author_ip: 138.77.2.133
-      author_url: http://thomasduggan.wordpress.com/
-      content: 'I don''t think teaching qualifications are necessarily a bad thing, but
-        it''s a matter of different strokes for different folks. I''d simply prefer more
-        exposure to teaching (outside of what I already do, which isn''t much) and the
-        opportunity to reflect on that.
-    
-    
-        I''m not really sure how the GCiTE is structured so I can''t really comment on
-        it. Do you have much first hand experience with it? I''ve yet to hear any real
-        commentary from people who have completed the thing.'
-      date: '2009-12-15 16:50:56'
-      date_gmt: '2009-12-15 06:50:56'
-      id: '2888'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: "By themselves I would agree that teaching qualifications aren't a bad\
-        \ thing.\n\nThe trouble is that they won't be by themselves.  The current model\
-        \ is that all new staff will be forced to gain such a qualification when they\
-        \ join the institution.\n\nThis may not be a bad thing - I don't think there's\
-        \ clear cut evidence that it's a good thing, but that's not the argument.\n\n\
-        The argument is what are those new staff going to do when\n<ol>\n  <li> All the\
-        \ \"old hands\", no matter how bad their teaching, will not be required to expend\
-        \ the energy to get a teaching qualification. </li>\n  <li> The \"new hands\"\
-        \ will still be under pressure to do research. </li>\n  <li> At the same time\
-        \ as the teaching qualification they will find that most of the practices/policies\
-        \ that support L&amp;T aren't conducive to what they are learning about.  i.e.\
-        \ it will be difficult to apply what they see. </li>\n  <li> The rewards process\
-        \ still does not demonstrably value L&amp;T. </li>\n</ol>\n\nGiven this situation,\
-        \ will people engage effectively with the grad cert?  Or will they pragmatically\
-        \ complete the requirements so they can tick the box?\n\nIf the latter, then there\
-        \ won't be any improvement in L&amp;T outcomes for the students as the new academics\
-        \ practice won't have changed."
-      date: '2009-12-15 19:14:01'
-      date_gmt: '2009-12-15 09:14:01'
-      id: '2889'
-      parent: '2888'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Teaching Qualifications &laquo; t duggan online space
-      author_email: null
-      author_ip: 66.135.48.208
-      author_url: http://thomasduggan.wordpress.com/2009/12/16/teaching-qualifications/
-      content: "[...]  December 16, 2009 Thomas Leave a comment Go to comments    I read\
-        \ and responded to an interesting post by David Jones recently.\_ It is being\
-        \ discussed more and more that university academic staff should have some [...]"
-      date: '2009-12-16 16:57:09'
-      date_gmt: '2009-12-16 06:57:09'
-      id: '2890'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Higher Education Teaching Reforms
-      author_email: null
-      author_ip: 117.55.224.145
-      author_url: http://ucniss.org/2009/12/higher-education-teaching-reforms/
-      content: '[...] paper (here). David Jones has provided a great blog on proposed
-        higher education reforms (here). David suggests that for the majority of teaching
-        at universities the introdcution of performance [...]'
-      date: '2010-01-05 10:19:09'
-      date_gmt: '2010-01-05 00:19:09'
-      id: '2891'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Identifying and designing interventions to improve L&amp;T &#8211; a behaviour
-        change framework? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.32
-      author_url: https://djon.es/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
-      content: '[...] that include the use of the % of university teaching staff with
-        teaching qualifications as a KPI. I&#8217;ve argued this this attempt will encourage
-        compliance behaviour on the part of institutions and [...]'
-      date: '2010-04-14 13:02:48'
-      date_gmt: '2010-04-14 03:02:48'
-      id: '2892'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The realities of the ERA and L&amp;T support services &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.105
-      author_url: https://djon.es/blog/2010/04/28/the-realities-of-the-era-and-lt-support-services/
-      content: '[...] get me wrong, there is an argument to be made the universities should
-        be accountable. However, as I&#8217;ve argued before such indicators are generally
-        very poor and at best result in compliance and at worst task [...]'
-      date: '2010-04-28 14:04:22'
-      date_gmt: '2010-04-28 04:04:22'
-      id: '2893'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Over the weekend it was reported in various media outlets that the Australian government has a [new plan for higher education](http://www.theaustralian.com.au/higher-education/julia-gillard-warns-universities-over-results-based-funding/story-e6frgcjx-1225808652486). A plan that includes words like "results-based funding", performance, targets, quality and "readily available". They cynical tone that I hope you are hearing, is not solely - or even mainly - due to some opposition to the idea of universities being accountable or effective. It's mainly due to the belief that I think for the majority of teaching at universities this move will encourage more [task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) than it will actual real improvement in the quality of teaching.
 

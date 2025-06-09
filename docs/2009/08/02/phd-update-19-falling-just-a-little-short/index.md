@@ -1,40 +1,37 @@
----
+﻿---
 categories:
 - chapter-4
 - design-theory
 - phd
 - psframework
 - thesis
-date: 2009-08-02 13:44:37+10:00
+comments: []
+date: 2009-08-02 03:44:37
 next:
   text: How will universities change over ten years?
   url: /blog/2009/08/04/how-will-universities-change-over-ten-years/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #20 &#8211; Progress, slowness and techno-rationality &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.108
+  author_url: https://djon.es/blog/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/
+  content: '[...] &#8211; Progress, slowness and&nbsp;techno-rationality  It&#8217;s
+    been almost two weeks since my last PhD update, mainly due to two factors. First,
+    a lack of motivation due to some external factors and second, a [...]'
+  date: '2009-08-14 14:52:39'
+  date_gmt: '2009-08-14 04:52:39'
+  id: '2682'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Evaluation of Webfuse course site feature usage: 2006 through 2009'
   url: /blog/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/
+template: blog-post.html
 title: '"PhD Update #19 - Falling just a little short"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #20 &#8211; Progress, slowness and techno-rationality &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.108
-      author_url: https://djon.es/blog/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/
-      content: '[...] &#8211; Progress, slowness and&nbsp;techno-rationality  It&#8217;s
-        been almost two weeks since my last PhD update, mainly due to two factors. First,
-        a lack of motivation due to some external factors and second, a [...]'
-      date: '2009-08-14 14:52:39'
-      date_gmt: '2009-08-14 04:52:39'
-      id: '2682'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I've fallen a bit short of what I wanted to achieve this week, however, overall I'm feeling pretty good about progress. In particular, because some of the initial evaluation results point to the "Webfuse way" having some quantitative benefits. Also, if the work in the last week get's the okay from the esteemed supervisor it should make completing chapter 5 pretty straight forward.
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - reflectivealignment
-date: 2010-05-25 10:16:43+10:00
+date: 2010-05-25 00:16:43
 next:
   text: Adding multiple visualisation approaches to Indicators block
   url: /blog/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/
 previous:
   text: Draft chapter 4 of the thesis is up
   url: /blog/2010/05/21/draft-chapter-4-of-the-thesis-is-up/
+template: blog-post.html
 title: '"Understanding what teachers do: First step in improving L&#038;T"'
 type: post
-template: blog-post.html
 ---
 The following is an attempt to explain the initial description and rationale of an exploratory research project (perhaps ethnographic, [narrative inquiry](http://knowmansland.com/learningpath/?p=502) or some similar qualitative methodology) aimed at understanding what teachers/academics actually experience within a particular environment during a single term. The assumption is that by better understanding the lived experience of the teaching staff you can better understand why (or why not) teaching is likely to improve.
 
@@ -55,11 +55,11 @@ Support for the importance of the environment in terms of its impact on learning
 
 In terms of models of what we know about teaching and learning, the importance of the environment and context is illustrated by Trigwell's (2001) model of teaching (click on the images to see larger versions)
 
-[![Trigwell's model of teaching](images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
+[![Trigwell's model of teaching](https://djon.es/assets/blog/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
 
 And by Richardson's (2005) model of teachers' approaches to teaching
 
-[![Integrated model of teachers' approaches to teaching](images/4407496847_0e08f8fe8c_m.jpg)](http://www.flickr.com/photos/david_jones/4407496847/ "Integrated model of teachers' approaches to teaching by David T Jones, on Flickr")
+[![Integrated model of teachers' approaches to teaching](https://djon.es/assets/blog/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/images/4407496847_0e08f8fe8c_m.jpg)](http://www.flickr.com/photos/david_jones/4407496847/ "Integrated model of teachers' approaches to teaching by David T Jones, on Flickr")
 
 While pedagogue's are likely to adopt teaching approaches that are consistent with their conceptions of teaching there may be differences between espoused theories and theories in use (Leveson 2004). While pedagogues may hold higher-level view of teaching other contextual factors may prevent use of those conceptions (Leveson 2004). Environmental, institutional, or other issues may impel pedagogues to teach in a way that is against their preferred approach (Samuelowicz and Bain 2001). While conceptions of teaching influence approaches to teaching, other factors such as institutional influence and the nature of students, curriculum and discipline may also influence teaching approaches (Kember and Kwan 2000). Prosser and Trigwell (1997) found that pedagogue's with a student-focused approach were more likely to report that their departments valued teaching, that their class sizes were not too large, and that they had control over what was taught and how it was taught. Other contextual factors that frustrate pedagogues' intended approaches to teaching may include senior staff with traditional teacher-focused conceptions raising issues about standards and curriculum coverage and students who induce teachers to adopt a more didactic approach (Richardson 2005). In addition, teachers who experience different contexts may adopt different approaches to teaching in those different contexts (Lindblom-Ylanne, Trigwell et al. 2006).
 

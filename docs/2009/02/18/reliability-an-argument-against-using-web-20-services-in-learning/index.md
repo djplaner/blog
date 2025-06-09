@@ -1,21 +1,21 @@
----
+﻿---
 categories:
 - elearning
 - enterprise-20
 - ple
 - plescquni
 - web-20-course-sites
-date: 2009-02-18 11:09:33+10:00
+date: 2009-02-18 01:09:33
 next:
   text: An information systems design theory for e-learning
   url: /blog/2009/02/21/an-information-systems-design-theory-for-e-learning/
 previous:
   text: Down with facebook - why I&#039;m going to minimise my use
   url: /blog/2009/02/17/down-with-facebook-why-im-going-to-minimise-my-use/
+template: blog-post.html
 title: Reliability - an argument against using Web 2.0 services in learning? Probably
   not.
 type: post
-template: blog-post.html
 ---
 When you talk to anyone in an "organisational" position (e.g IT or perhaps some leadership positions) within a university about using external "Web 2.0" tools to support student learning one of the first complaints raised is
 

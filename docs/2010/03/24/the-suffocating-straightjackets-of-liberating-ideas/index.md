@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - quotes
-date: 2010-03-24 10:28:12+10:00
+date: 2010-03-24 00:28:12
 next:
   text: '"Limits in developing innovative pedagogy with Moodle: The story of BIM"'
   url: /blog/2010/03/25/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim-2/
 previous:
   text: First step in &quot;Moodle curriculum mapping&quot;
   url: /blog/2010/03/23/first-step-in-moodle-curriculum-mapping/
+template: blog-post.html
 title: The suffocating straightjackets of liberating ideas
 type: post
-template: blog-post.html
 ---
 Doing some reading and came across the following quote which I had to store for further use. It is quote in Chua (1986) and is ascribed to Berlin (1962, p 19)
 

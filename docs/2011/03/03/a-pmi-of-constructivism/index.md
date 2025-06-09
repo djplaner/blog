@@ -1,121 +1,119 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-03-03 11:32:19+10:00
+comments:
+- approved: '1'
+  author: charlesnelson
+  author_email: cnelson@kean.edu
+  author_ip: 131.125.57.27
+  author_url: http://charlesnelson.wordpress.com/
+  content: "\"Is based on the assumption of knowledge as being grounded in language\
+    \ and logic.\nIf you adopt a connectivism/connectionist perspective, this is not\
+    \ what knowledge is.\"\n\nIf you take an ACT-R perspective, procedural knowledge\
+    \ would perhaps map to a connectionist perspective, while declarative knowledge\
+    \ might map to language and logic. Why assume that there is only one type of knowledge?\n\
+    \n\"Constructivism is based on the transformation of the teacher\u2019s role from\
+    \ pourer of knowledge into students into encouraging students to take responsibility\
+    \ for their own learning.\"\n\nThis is certainly the perspective presented by\
+    \ many, maybe most, constructivists, but there's no particular reason to associate\
+    \ a particular value or pedagogical approach to constructivism. I can't remember\
+    \ the citation, but von Glasersfeld stated that a radical constructivist approach\
+    \ did not dictate the pedagogy. Constructivism refers to, as you put it, \"how\
+    \ people learn,\" not to how people teach--although most constructivists seem\
+    \ to forget (or not understand) this point. This perspective would concur with\
+    \ Mark Guzdial's comment, and it would also nullify much of what is in the table\
+    \ contrasting the traditional classroom with the constructivist classroom.\n\n\
+    The notion that there is no objective knowledge is a plus for me because I'm reminded\
+    \ that students' presentation of their understanding is logical according to their\
+    \ own experience. Instead of wondering why they don't get it, as a teacher, I\
+    \ need to consider how to arrange conditions that facilitate experiences that\
+    \ lead to a different understanding.\n\n\"Depending on the prior learning experiences\
+    \ of the students, the bigger the minus.\"\n\nConsidering what most think constructivism\
+    \ is, I agree. But from a radical constructivist perspective, I must consider\
+    \ \"the prior learning experiences of the students\" in order to provide conditions\
+    \ conducive for their learning, which may not be for them to take control of their\
+    \ learning at a particular point in time."
+  date: '2011-03-04 05:28:25'
+  date_gmt: '2011-03-03 19:28:25'
+  id: '10'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: mjmatos
+  author_email: manolomatos@mac.com
+  author_ip: 2.81.77.200
+  author_url: http://queuniversidade2.wordpress.com
+  content: 'Interesting reading, David. Don''t you think that the problem you find
+    between the two classroom concepts is related to the age group of the students?
+    My intuition goes to that: autonomous adult readers will thrive with constructivist-type
+    approaches, but regular school age students will not. That includes students beginning
+    college. What do you think?'
+  date: '2011-03-05 17:38:51'
+  date_gmt: '2011-03-05 07:38:51'
+  id: '11'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.182.117.45
+  author_url: https://djon.es/blog/
+  content: I recognise that this might be a possibility, but I'm wary of leaping to
+    conclusions or broad generalisations. In many cases you are a probably right,
+    but I'd personally be reluctant to make that assumption. I don't necessarily think
+    that age would be an automatic divider. Some school age kids wouldn't fit. I think
+    it also depends on the learning outcome you want. There are some outcomes where
+    direct instruction would be better.
+  date: '2011-03-05 17:59:47'
+  date_gmt: '2011-03-05 07:59:47'
+  id: '12'
+  parent: '11'
+  type: comment
+  user_id: '1'
+date: 2011-03-03 01:32:19
 next:
   text: '"Pedagogical Content Knowledge: Week 1"'
   url: /blog/2011/03/03/pedagogical-content-knowledge-week-1/
+pingbacks:
+- approved: '1'
+  author: Reflection on the learning theories wiki &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.135.48.211
+  author_url: https://djon.es/blog/2011/03/07/reflection-on-the-learning-theories-wiki/
+  content: '[...] second point was particularly evident in the differences between
+    the PMIs of my partner and I. Our process was that we did our PMIs separately
+    and then used the Wiki to merge them. My partner [...]'
+  date: '2011-03-07 14:45:02'
+  date_gmt: '2011-03-07 04:45:02'
+  id: '13'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Learning brief &#8211; Reflections and conclusions &#8211; version 2.0 &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.34
+  author_url: https://djon.es/blog/2011/03/18/learning-brief-reflections-and-conclusions-version-2-0/
+  content: '[...] Jones, D. (2011f). A PMI of constructivism. Retrieved March 18,
+    2011, from https://djon.es/blog/2011/03/03/a-pmi-of-constructivism/. [...]'
+  date: '2011-03-18 10:40:21'
+  date_gmt: '2011-03-18 00:40:21'
+  id: '14'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The dissonance between the constructivist paradigm and the implementation
     of institutional e-learning
   url: /blog/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
+template: blog-post.html
 title: A PMI of constructivism
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: charlesnelson
-      author_email: cnelson@kean.edu
-      author_ip: 131.125.57.27
-      author_url: http://charlesnelson.wordpress.com/
-      content: "\"Is based on the assumption of knowledge as being grounded in language\
-        \ and logic.\nIf you adopt a connectivism/connectionist perspective, this is not\
-        \ what knowledge is.\"\n\nIf you take an ACT-R perspective, procedural knowledge\
-        \ would perhaps map to a connectionist perspective, while declarative knowledge\
-        \ might map to language and logic. Why assume that there is only one type of knowledge?\n\
-        \n\"Constructivism is based on the transformation of the teacher\u2019s role from\
-        \ pourer of knowledge into students into encouraging students to take responsibility\
-        \ for their own learning.\"\n\nThis is certainly the perspective presented by\
-        \ many, maybe most, constructivists, but there's no particular reason to associate\
-        \ a particular value or pedagogical approach to constructivism. I can't remember\
-        \ the citation, but von Glasersfeld stated that a radical constructivist approach\
-        \ did not dictate the pedagogy. Constructivism refers to, as you put it, \"how\
-        \ people learn,\" not to how people teach--although most constructivists seem\
-        \ to forget (or not understand) this point. This perspective would concur with\
-        \ Mark Guzdial's comment, and it would also nullify much of what is in the table\
-        \ contrasting the traditional classroom with the constructivist classroom.\n\n\
-        The notion that there is no objective knowledge is a plus for me because I'm reminded\
-        \ that students' presentation of their understanding is logical according to their\
-        \ own experience. Instead of wondering why they don't get it, as a teacher, I\
-        \ need to consider how to arrange conditions that facilitate experiences that\
-        \ lead to a different understanding.\n\n\"Depending on the prior learning experiences\
-        \ of the students, the bigger the minus.\"\n\nConsidering what most think constructivism\
-        \ is, I agree. But from a radical constructivist perspective, I must consider\
-        \ \"the prior learning experiences of the students\" in order to provide conditions\
-        \ conducive for their learning, which may not be for them to take control of their\
-        \ learning at a particular point in time."
-      date: '2011-03-04 05:28:25'
-      date_gmt: '2011-03-03 19:28:25'
-      id: '10'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: mjmatos
-      author_email: manolomatos@mac.com
-      author_ip: 2.81.77.200
-      author_url: http://queuniversidade2.wordpress.com
-      content: 'Interesting reading, David. Don''t you think that the problem you find
-        between the two classroom concepts is related to the age group of the students?
-        My intuition goes to that: autonomous adult readers will thrive with constructivist-type
-        approaches, but regular school age students will not. That includes students beginning
-        college. What do you think?'
-      date: '2011-03-05 17:38:51'
-      date_gmt: '2011-03-05 07:38:51'
-      id: '11'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.182.117.45
-      author_url: https://djon.es/blog/
-      content: I recognise that this might be a possibility, but I'm wary of leaping to
-        conclusions or broad generalisations. In many cases you are a probably right,
-        but I'd personally be reluctant to make that assumption. I don't necessarily think
-        that age would be an automatic divider. Some school age kids wouldn't fit. I think
-        it also depends on the learning outcome you want. There are some outcomes where
-        direct instruction would be better.
-      date: '2011-03-05 17:59:47'
-      date_gmt: '2011-03-05 07:59:47'
-      id: '12'
-      parent: '11'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Reflection on the learning theories wiki &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.135.48.211
-      author_url: https://djon.es/blog/2011/03/07/reflection-on-the-learning-theories-wiki/
-      content: '[...] second point was particularly evident in the differences between
-        the PMIs of my partner and I. Our process was that we did our PMIs separately
-        and then used the Wiki to merge them. My partner [...]'
-      date: '2011-03-07 14:45:02'
-      date_gmt: '2011-03-07 04:45:02'
-      id: '13'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Learning brief &#8211; Reflections and conclusions &#8211; version 2.0 &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.34
-      author_url: https://djon.es/blog/2011/03/18/learning-brief-reflections-and-conclusions-version-2-0/
-      content: '[...] Jones, D. (2011f). A PMI of constructivism. Retrieved March 18,
-        2011, from https://djon.es/blog/2011/03/03/a-pmi-of-constructivism/. [...]'
-      date: '2011-03-18 10:40:21'
-      date_gmt: '2011-03-18 00:40:21'
-      id: '14'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following documents some reflection on output of a learning task associated with a course on ICTs for Learning Design I'm currently taking.
 

@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2015-04-22 12:51:25+10:00
+date: 2015-04-22 02:51:25
 next:
   text: An overview of the Moodle "open" book project
   url: /blog/2015/04/27/an-overview-of-the-moodle-open-book-project/
@@ -12,9 +12,9 @@ tags:
 - fashion
 - irac
 - learninganalytics
+template: blog-post.html
 title: What does this say about learning analytics?
 type: post
-template: blog-post.html
 ---
 What do the following two artefacts say about learning analytics?
 
@@ -42,7 +42,7 @@ Each year they list those technologies. The following table summarises the menti
 
 The following image (click on it to see a larger version) is taken from Birnbaum (2000, p. 5) and describes Birnbaum's life cycle stages of the fad process in higher education. In particular, it shows his proposition that these fads enter higher education from a non-academic sector.
 
-[![fadCycle](images/17042096908_84fb497ed3.jpg)](https://www.flickr.com/photos/david_jones/17042096908 "fadCycle by David Jones, on Flickr")
+[![fadCycle](https://djon.es/assets/blog/2015/04/22/what-does-this-say-about-learning-analytics/images/17042096908_84fb497ed3.jpg)](https://www.flickr.com/photos/david_jones/17042096908 "fadCycle by David Jones, on Flickr")
 
 ### References
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - tools
 - website
-date: 2009-02-01 08:58:41+10:00
+date: 2009-01-31 22:58:41
 next:
   text: Joining the landed gentry - getting a money burner
   url: /blog/2009/02/02/joining-the-landed-gentry-getting-a-money-burner/
 previous:
   text: How do you implement PLEs into higher education courses?
   url: /blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
+template: blog-post.html
 title: EasyCrop - preparing photos for the rotating banner
 type: post
-template: blog-post.html
 ---
 As part implementation requirements for the [rotating banner image](/blog/2009/01/06/implementing-the-rotating-banner-image/) on this blog I needed some software to crop photos to the required dimensions. Increasingly, I'm also finding myself needing to do this with figures and diagram related to my research and work (e.g. [one](http://www.flickr.com/photos/david_jones/3235019019/) and [](http://www.flickr.com/photos/david_jones/3232493287/)).
 

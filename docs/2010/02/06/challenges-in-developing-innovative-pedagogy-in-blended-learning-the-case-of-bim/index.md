@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - bim
 - paperideas
-date: 2010-02-06 10:46:14+10:00
+comments: []
+date: 2010-02-06 00:46:14
 next:
   text: BIM - backup and restore
   url: /blog/2010/02/07/bim-backup-and-restore/
+pingbacks:
+- approved: '1'
+  author: BIM 1.0alpha is released &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.69.92
+  author_url: https://djon.es/blog/2010/02/15/bim-1-0alpha-is-released/
+  content: '[...] than, I hope to get into some reflection on the process and get
+    a paper ready for submission to MoodleMoot AU [...]'
+  date: '2010-02-15 15:13:35'
+  date_gmt: '2010-02-15 05:13:35'
+  id: '2917'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The story of BIM &#8211; Origins &#8211; blogs and minute papers &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.161
+  author_url: https://djon.es/blog/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/
+  content: '[...] of trying to capture the story of BAM and BIM. The aim is to use
+    this as part of a case study for a paper for MoodleMoot&#8217;AU [...]'
+  date: '2010-03-15 15:11:53'
+  date_gmt: '2010-03-15 05:11:53'
+  id: '2918'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BIM - Tidy up #4 - Getting ready for user testing'
   url: /blog/2010/02/04/bim-tidy-up-4-getting-ready-for-user-testing/
+template: blog-post.html
 title: '"Challenges in developing innovative pedagogy in blended learning: The case
   of BIM"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM 1.0alpha is released &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.69.92
-      author_url: https://djon.es/blog/2010/02/15/bim-1-0alpha-is-released/
-      content: '[...] than, I hope to get into some reflection on the process and get
-        a paper ready for submission to MoodleMoot AU [...]'
-      date: '2010-02-15 15:13:35'
-      date_gmt: '2010-02-15 05:13:35'
-      id: '2917'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The story of BIM &#8211; Origins &#8211; blogs and minute papers &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.161
-      author_url: https://djon.es/blog/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/
-      content: '[...] of trying to capture the story of BAM and BIM. The aim is to use
-        this as part of a case study for a paper for MoodleMoot&#8217;AU [...]'
-      date: '2010-03-15 15:11:53'
-      date_gmt: '2010-03-15 05:11:53'
-      id: '2918'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the start of a process for developing a paper that I plan to submit to [Moodlemoot AU 2010](http://moodlemoot.org.au/) based on my recent experience in developing [BIM](/blog/research/bam-blog-aggregation-management/). The plan is to:
 

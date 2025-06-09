@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,45 +6,42 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-10-04 22:38:26+10:00
+comments:
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'G''day Cicero,
+
+
+    I''ve passed your message onto Rex.  I believe he''s going to get back to you
+    soon.
+
+
+    Basically, the computer that hosted the exploringdata website and Rex''s cq-pan
+    email address has been closed down due to a security breach.  Rex is in the process
+    of putting exploringdata back onto the web via another means.
+
+
+    David.'
+  date: '2009-10-06 08:03:37'
+  date_gmt: '2009-10-05 22:03:37'
+  id: '2779'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2009-10-04 12:38:26
 next:
   text: '"Lectures and the LMS: Alternatives and experiments"'
   url: /blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/
+pingbacks: []
 previous:
   text: Learning theories and e-learning
   url: /blog/2009/10/04/learning-theories-and-e-learning/
+template: blog-post.html
 title: Lessons from Pedagogy for e-learning
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'G''day Cicero,
-    
-    
-        I''ve passed your message onto Rex.  I believe he''s going to get back to you
-        soon.
-    
-    
-        Basically, the computer that hosted the exploringdata website and Rex''s cq-pan
-        email address has been closed down due to a security breach.  Rex is in the process
-        of putting exploringdata back onto the web via another means.
-    
-    
-        David.'
-      date: '2009-10-06 08:03:37'
-      date_gmt: '2009-10-05 22:03:37'
-      id: '2779'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Two thesis related posts in a day, I must be on a roll. This post actually marks a milestone, the following rough bit of material is the last bit of original writing I'll need to do for chapter 2. What remains will be tidying up, fixing typos/spelling/grammar, "concludings" and some major cutting. Sadly chapter 2 currently stands at 200+ pages and will need some major cutting I think to be a reasonable size. That's a job for another day.
 

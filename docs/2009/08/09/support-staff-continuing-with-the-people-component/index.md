@@ -1,52 +1,49 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - phd
 - thesis
-date: 2009-08-09 11:40:27+10:00
+comments: []
+date: 2009-08-09 01:40:27
 next:
   text: The chasm
   url: /blog/2009/08/09/the-chasm/
+pingbacks:
+- approved: '1'
+  author: 'PhD UPdate #20 &#8211; Progress, slowness and techno-rationality &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.208
+  author_url: https://djon.es/blog/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/
+  content: '[...] support staff section; [...]'
+  date: '2009-08-14 14:51:42'
+  date_gmt: '2009-08-14 04:51:42'
+  id: '2695'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons for e-learning from people &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.201
+  author_url: https://djon.es/blog/2009/08/17/lessons-for-e-learning-from-people/
+  content: '[...] of the characteristics of the people (Students, Academic Staff,
+    Leaders and Managers and Support Staff) involved with e-learning (Section 2.1.1);
+    the chasm (Section 2.1.2) that exists between the [...]'
+  date: '2009-12-22 21:58:54'
+  date_gmt: '2009-12-22 11:58:54'
+  id: '2696'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The limiting impacts of a PhD and the writing up phase
   url: /blog/2009/08/09/the-limiting-impacts-of-a-phd-and-the-writing-up-phase/
+template: blog-post.html
 title: Support staff - continuing with the People component
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD UPdate #20 &#8211; Progress, slowness and techno-rationality &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.208
-      author_url: https://djon.es/blog/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/
-      content: '[...] support staff section; [...]'
-      date: '2009-08-14 14:51:42'
-      date_gmt: '2009-08-14 04:51:42'
-      id: '2695'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons for e-learning from people &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.201
-      author_url: https://djon.es/blog/2009/08/17/lessons-for-e-learning-from-people/
-      content: '[...] of the characteristics of the people (Students, Academic Staff,
-        Leaders and Managers and Support Staff) involved with e-learning (Section 2.1.1);
-        the chasm (Section 2.1.2) that exists between the [...]'
-      date: '2009-12-22 21:58:54'
-      date_gmt: '2009-12-22 11:58:54'
-      id: '2696'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm back to working on the People component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) for chapter 2 of [my thesis](/blog/research/phd-thesis/). The [last post in the blog](/blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/) from this section was back in mid July and examined leaders and managers. This section moves onto "support staff". It's the last of the sections examining groups/roles associated with e-learning.
 

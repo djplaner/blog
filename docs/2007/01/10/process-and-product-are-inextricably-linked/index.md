@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - react
-date: 2007-01-10 14:04:04+10:00
+date: 2007-01-10 04:04:04
 next:
   text: Issues around staff development for e-learning
   url: /blog/2007/01/10/issues-around-staff-development-for-e-learning/
 previous:
   text: Participatory design as the basis for staff development and course design
   url: /blog/2007/01/05/participatory-design-as-the-basis-for-staff-development-and-course-design/
+template: blog-post.html
 title: Process and product are inextricably linked
 type: post
-template: blog-post.html
 ---
 [Simon](http://en.wikipedia.org/wiki/Herbert_Simon) (1996, p 130) writing about the connection between what is designed (product) and the process used to designed it, says
 

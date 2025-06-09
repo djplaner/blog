@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - thesis
 - website
-date: 2009-01-05 13:55:20+10:00
+date: 2009-01-05 03:55:20
 next:
   text: Webfuse usage statistics - Online assignment submission
   url: /blog/2009/01/05/webfuse-usage-statistics-online-assignment-submission/
 previous:
   text: Webfuse usage statistics - Quizzes
   url: /blog/2009/01/05/webfuse-usage-statistics-quizzes/
+template: blog-post.html
 title: Webfuse statistics - Staff Portal
 type: post
-template: blog-post.html
 ---
 Webfuse provides a "staff portal" called Staff MyCQU. It is essentially a web-based application that provides a single interface to most of the tools/services staff require while teaching a course.
 

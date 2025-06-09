@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,65 +6,62 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-04-23 13:44:00+10:00
+comments: []
+date: 2009-04-23 03:44:00
 next:
   text: Models of growth - responding to the grammar of school
   url: /blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/
+pingbacks:
+- approved: '1'
+  author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.85
+  author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
+  content: '[...] of e-learning: quantity and quality (which has had a couple of comments
+    - including a typo fix). [...]'
+  date: '2009-04-24 15:01:33'
+  date_gmt: '2009-04-24 05:01:33'
+  id: '2431'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons for e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/04/25/lessons-for-e-learning/
+  content: '[...] Lessons for&nbsp;e-learning  This posts contains the last content
+    of what (I hope) will become the &#8220;Past Experience&#8221; section of Chapter
+    2 of my thesis. Previous content for this section is already on the blog, including:
+    History of technology-mediated learning, Paradigms of e-learning, e-learning usage
+    - quality, and e-learning usage - quantity. [...]'
+  date: '2009-04-25 16:10:27'
+  date_gmt: '2009-04-25 06:10:27'
+  id: '2432'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What can history tell us about e-learning and its future? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+  content: '[...] provide a summary of what we know from the literature and also from
+    the local institution about the quantity and quality of past usage of e-learning.
+    With a particular focus on the [...]'
+  date: '2009-06-18 10:49:54'
+  date_gmt: '2009-06-18 00:49:54'
+  id: '2433'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: E-learning usage - quality
   url: /blog/2009/04/22/e-learning-usage-quality/
+template: blog-post.html
 title: Usage of e-learning - quantity
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.85
-      author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
-      content: '[...] of e-learning: quantity and quality (which has had a couple of comments
-        - including a typo fix). [...]'
-      date: '2009-04-24 15:01:33'
-      date_gmt: '2009-04-24 05:01:33'
-      id: '2431'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons for e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/04/25/lessons-for-e-learning/
-      content: '[...] Lessons for&nbsp;e-learning  This posts contains the last content
-        of what (I hope) will become the &#8220;Past Experience&#8221; section of Chapter
-        2 of my thesis. Previous content for this section is already on the blog, including:
-        History of technology-mediated learning, Paradigms of e-learning, e-learning usage
-        - quality, and e-learning usage - quantity. [...]'
-      date: '2009-04-25 16:10:27'
-      date_gmt: '2009-04-25 06:10:27'
-      id: '2432'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What can history tell us about e-learning and its future? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
-      content: '[...] provide a summary of what we know from the literature and also from
-        the local institution about the quantity and quality of past usage of e-learning.
-        With a particular focus on the [...]'
-      date: '2009-06-18 10:49:54'
-      date_gmt: '2009-06-18 00:49:54'
-      id: '2433'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following post is a continuation of posts from the "Past Experience" section of chapter 2 of [my thesis](/blog/research/phd-thesis/). This part of chapter 2 is looking at the usage of e-learning within higher education. A [previous post](/blog/2009/04/22/e-learning-usage-quality/) provided the introduction to the section and also covered usage from a quality perspective - i.e. how good is the learning and teaching.
 
@@ -100,7 +97,7 @@ Coates et al (2005) suggest that it is the uptake and use of features, rather th
 
 Malikowski et al (2007) propose a model for synthesising research into LMS feature usage that consists of five categories of feature, a suggested order in which features are adopted and an indication of how often features are used. The model is shown in Figure 1.
 
-[![Malikowski Flow Chart](images/3465729160_255865ebc6_m.jpg)](http://www.flickr.com/photos/david_jones/3465729160/ "Malikowski Flow Chart by David T Jones, on Flickr")
+[![Malikowski Flow Chart](https://djon.es/assets/blog/2009/04/23/usage-of-e-learning-quantity/images/3465729160_255865ebc6_m.jpg)](http://www.flickr.com/photos/david_jones/3465729160/ "Malikowski Flow Chart by David T Jones, on Flickr")
 
 Figure 1 – Flowchat of LMS feature usage research categories (adapted from Malikowski, Thompson et al. 2007)
 

@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - bricolage
 - casa
-date: 2021-10-23 17:04:59+10:00
+date: 2021-10-23 07:04:59
 next:
   text: '"Orchestrating entangled relations to break the iron triangle: examples from
     a LMS migration"'
@@ -10,9 +10,9 @@ next:
 previous:
   text: Exploring Dron's definition of educational technology
   url: /blog/2021/06/04/exploring-drons-definition-of-educational-technology/
+template: blog-post.html
 title: Representing problems to make the solution transparent
 type: post
-template: blog-post.html
 ---
 The following illustrates how the game _Number Scrabble_ and Herb Simon's thoughts on the importance of design representation appears likely to help with migration of 1000s of course sites from Blackboard Learn (aka Blackboard Original) to another LMS. Not to mention becoming useful post-migration.
 
@@ -22,7 +22,7 @@ _Number Scrabble_ is a game I first saw described in Simon's (1996) book _Scienc
 
 _Number Scrabble_ is a game played between two players. The players are presented with nine cards. The players take turns selecting one card at a time. The aim being to get three cards which add up to 15 (aka a "book"). The first player to obtain a book wins. If no player gets a book, the game is a draw.
 
-![Basic number scrabble](images/2021-10-23-15-53-29.png)
+![Basic number scrabble](https://djon.es/assets/blog/2021/10/23/representing-problems-to-make-the-solution-transparent/images/2021-10-23-15-53-29.png)
 
 ## Making the solution transparent
 
@@ -36,7 +36,7 @@ How much easier would you find it to pay _Number Scrabble_ if the cards were org
 
 Would it help any if I mentioned another game, tic-tac-toe?
 
-![Number scrabble's magic square](images/2021-10-23-16-01-20.png)
+![Number scrabble's magic square](https://djon.es/assets/blog/2021/10/23/representing-problems-to-make-the-solution-transparent/images/2021-10-23-16-01-20.png)
 
 With this new representation _Number Scrabble_ becomes a game of tic-tac-toe. No arithmetic required and tactics and strategies most are familiar with become applicable.
 

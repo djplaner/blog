@@ -1,46 +1,43 @@
----
-date: 2014-08-28 15:17:55+10:00
+﻿---
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 138.77.29.67
+  author_url: null
+  content: 'Its a frustrating world we live in at the moment. To me, the world appears
+    to be driven by short term thinking based on short term economic drivers. Decision
+    making is about immediate gains rather than sustainable long term investment for
+    the future. Education and healthcare in particular, are being perceived as commodities
+    to be judged by their current costs, rather than value in the future. Unfortunately
+    learning, discovery and innovation can often fail the ''short term gain'' test,
+    and are not being valued as highly as they could be.
+
+
+    Col.'
+  date: '2014-08-29 10:46:36'
+  date_gmt: '2014-08-29 00:46:36'
+  id: '1060'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2014-08-28 05:17:55
 next:
   text: Personality and other factors in education
   url: /blog/2014/08/28/personality-and-other-factors-in-education/
+pingbacks: []
 previous:
   text: The cost of being flexible and pushing the boundaries
   url: /blog/2014/08/25/the-cost-of-being-flexible-and-pushing-the-boundaries/
+template: blog-post.html
 title: On trying to be optimistic in a stupid world
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 138.77.29.67
-      author_url: null
-      content: 'Its a frustrating world we live in at the moment. To me, the world appears
-        to be driven by short term thinking based on short term economic drivers. Decision
-        making is about immediate gains rather than sustainable long term investment for
-        the future. Education and healthcare in particular, are being perceived as commodities
-        to be judged by their current costs, rather than value in the future. Unfortunately
-        learning, discovery and innovation can often fail the ''short term gain'' test,
-        and are not being valued as highly as they could be.
-    
-    
-        Col.'
-      date: '2014-08-29 10:46:36'
-      date_gmt: '2014-08-29 00:46:36'
-      id: '1060'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 It's been an "interesting" few weeks destined to challenge the optimism of the most optimistic person - of which I'm not. Broader events in the world do appear to be the outcome of a conspiracy to rob the world of optimism. Mix in some personal woes - death of a grandparent, illness (no great problem), interruptions to routine brought on my Apple's inability to provide a working iPhone, and the stupidity of organisations (especially universities that have been recently restructured) - and it's definitely a time for pessimism.
 
 ## I am a pessimist because of intelligence, but an optimist because of will.
 
-[![Antonio Gramsci by flickrenric, on Flickr](images/4121249687_a802bd242d.jpg "Antonio Gramsci by flickrenric, on Flickr")](https://www.flickr.com/photos/fotosenric/4121249687/) [![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/fotosenric/)[flickrenric](https://www.flickr.com/people/fotosenric/) [](http://www.imagecodr.org/)
+[![Antonio Gramsci by flickrenric, on Flickr](https://djon.es/assets/blog/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/images/4121249687_a802bd242d.jpg "Antonio Gramsci by flickrenric, on Flickr")](https://www.flickr.com/photos/fotosenric/4121249687/) [![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/fotosenric/)[flickrenric](https://www.flickr.com/people/fotosenric/) [](http://www.imagecodr.org/)
 
 It's only in the last couple of years that I've come across this quote from [Antonio Gramsci](http://en.wikipedia.org/wiki/Antonio_Gramsci)
 

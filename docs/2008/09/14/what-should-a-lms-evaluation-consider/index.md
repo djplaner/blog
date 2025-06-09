@@ -1,61 +1,58 @@
----
+﻿---
 categories:
 - elearning
 - lmsevaluation
-date: 2008-09-14 22:41:27+10:00
+comments:
+- approved: '1'
+  author: Tony Bowes
+  author_email: vrbones@gmail.com
+  author_ip: 150.101.181.34
+  author_url: null
+  content: '... or you could just go with your gut ;).
+
+
+    I set up a moodle system here at StLuke''s as an experiment. I was encouraged
+    by the literature and promise of open source modularization, but on first inspection
+    I thought it was a little too much work for your run-of-the-mill teacher to set
+    up. We ran some workshops through it with some of the more tech-savvy teachers
+    as facilitators, and although it seemed a nice point for collecting documents
+    and ideas together in a structured way, it still felt like a lot more effort to
+    achieve not much more than settiing up another directory on the shared network
+    drive.
+
+
+    If anything it was too formal. All the structures seemed to get in the way rather
+    than aiding the rapid transfer of information from course designer to teacher
+    to student.
+
+
+    The beauty of Moodle being open source is that it could change quite dramatically
+    with the introduction of new modules and a determined effort to build the ''atmosphere''
+    needed for a easy, natural learning environment. It may be just a case of ''me
+    too'' for any new web2.0 technology that looks like it could be useful until something
+    clicks.
+
+
+    Others that I''ve researched have had the same promising shine, but just didn''t
+    feel right once it was set up. I haven''t heard of the other one you were looking
+    at. Might have another go through them all again and see if anything has changed...'
+  date: '2008-09-16 17:23:38'
+  date_gmt: '2008-09-16 07:23:38'
+  id: '1601'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-09-14 12:41:27
 next:
   text: What is research?  How do you do it?
   url: /blog/2008/09/19/what-is-research-how-do-you-do-it/
+pingbacks: []
 previous:
   text: REACT 2008 - An exercise in scholarship?
   url: /blog/2008/09/09/react-2008-an-exercise-in-scholarship/
+template: blog-post.html
 title: What should a LMS evaluation consider?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Tony Bowes
-      author_email: vrbones@gmail.com
-      author_ip: 150.101.181.34
-      author_url: null
-      content: '... or you could just go with your gut ;).
-    
-    
-        I set up a moodle system here at StLuke''s as an experiment. I was encouraged
-        by the literature and promise of open source modularization, but on first inspection
-        I thought it was a little too much work for your run-of-the-mill teacher to set
-        up. We ran some workshops through it with some of the more tech-savvy teachers
-        as facilitators, and although it seemed a nice point for collecting documents
-        and ideas together in a structured way, it still felt like a lot more effort to
-        achieve not much more than settiing up another directory on the shared network
-        drive.
-    
-    
-        If anything it was too formal. All the structures seemed to get in the way rather
-        than aiding the rapid transfer of information from course designer to teacher
-        to student.
-    
-    
-        The beauty of Moodle being open source is that it could change quite dramatically
-        with the introduction of new modules and a determined effort to build the ''atmosphere''
-        needed for a easy, natural learning environment. It may be just a case of ''me
-        too'' for any new web2.0 technology that looks like it could be useful until something
-        clicks.
-    
-    
-        Others that I''ve researched have had the same promising shine, but just didn''t
-        feel right once it was set up. I haven''t heard of the other one you were looking
-        at. Might have another go through them all again and see if anything has changed...'
-      date: '2008-09-16 17:23:38'
-      date_gmt: '2008-09-16 07:23:38'
-      id: '1601'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 [CQUniversity](http://www.cqu.edu.au/) is in the process of evaluating two open source [learning management systems](http://en.wikipedia.org/wiki/Learning_management_system) for adoption by 2010. We're at the stage of finalising the criteria to be used to evaluate the two systems. The purpose of this post is to outline some thoughts about how to evaluate the evaluation criteria.
 

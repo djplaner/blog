@@ -1,68 +1,65 @@
----
+﻿---
 categories:
 - bim
 - edc3100
 - elearning
-date: 2013-06-10 11:08:53+10:00
+comments: []
+date: 2013-06-10 01:08:53
 next:
   text: Mobile video to enhance the Work Integrated Learning of pre-service teachers
   url: /blog/2013/06/13/mobile-video-to-enhance-the-work-integrated-learning-of-pre-service-teachers/
+pingbacks:
+- approved: '1'
+  author: The network challenge to the LMS mindset | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.232.112.10
+  author_url: https://djon.es/blog/2013/08/29/the-network-challenge-to-the-lms-mindset/
+  content: '[&#8230;] docs or any one of the huge array of external services that
+    are out there. An extreme example is my kludge for using BIM this year. Where
+    I&#8217;m hosting a version of BIM on my laptop because for various [&#8230;]'
+  date: '2013-08-29 06:30:13'
+  date_gmt: '2013-08-28 20:30:13'
+  id: '786'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Learning journal, activity completion and nudge analytics | The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.138
+  author_url: https://djon.es/blog/2014/07/31/learning-journal-activity-completion-and-nudge-analytics/
+  content: '[&#8230;] Week 2 of 2nd semester. Time to start checking how students
+    are going and checking in with those that haven&#8217;t started yet. For EDC3100,
+    this means putting in place the various &#8220;shadow systems&#8221; that bridge
+    what&#8217;s provided by the institution and what I need in order to enact the
+    practices I deem appropriate. What follows is a record of the ongoing evolution
+    of this idea. [&#8230;]'
+  date: '2014-07-31 11:06:18'
+  date_gmt: '2014-07-31 01:06:18'
+  id: '788'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.161
+  author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
+  content: '[&#8230;] draft learning journal reports. [&#8230;]'
+  date: '2016-03-04 13:33:52'
+  date_gmt: '2016-03-04 03:33:52'
+  id: '789'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Learning analytics, intervention and helping teachers
   url: /blog/2013/06/07/learning-analytics-intervention-and-helping-teachers/
+template: blog-post.html
 title: The kludge for marking learning journals
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The network challenge to the LMS mindset | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.232.112.10
-      author_url: https://djon.es/blog/2013/08/29/the-network-challenge-to-the-lms-mindset/
-      content: '[&#8230;] docs or any one of the huge array of external services that
-        are out there. An extreme example is my kludge for using BIM this year. Where
-        I&#8217;m hosting a version of BIM on my laptop because for various [&#8230;]'
-      date: '2013-08-29 06:30:13'
-      date_gmt: '2013-08-28 20:30:13'
-      id: '786'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Learning journal, activity completion and nudge analytics | The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.138
-      author_url: https://djon.es/blog/2014/07/31/learning-journal-activity-completion-and-nudge-analytics/
-      content: '[&#8230;] Week 2 of 2nd semester. Time to start checking how students
-        are going and checking in with those that haven&#8217;t started yet. For EDC3100,
-        this means putting in place the various &#8220;shadow systems&#8221; that bridge
-        what&#8217;s provided by the institution and what I need in order to enact the
-        practices I deem appropriate. What follows is a record of the ongoing evolution
-        of this idea. [&#8230;]'
-      date: '2014-07-31 11:06:18'
-      date_gmt: '2014-07-31 01:06:18'
-      id: '788'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.161
-      author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
-      content: '[&#8230;] draft learning journal reports. [&#8230;]'
-      date: '2016-03-04 13:33:52'
-      date_gmt: '2016-03-04 03:33:52'
-      id: '789'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a description of the kludge I put in place to mark the learning journals - see [here for a description](/blog/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/) of initial thinking behind the journal - folk in the EDC3100 course this semester had to complete. It's meant to record what I did, provide some food for further development and offer an opportunity for some initial reflection.
 

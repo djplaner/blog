@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2011-02-19 07:00:42+10:00
+date: 2011-02-18 21:00:42
 next:
   text: A proposed link between academic involvement and student evaluation response
     rate
@@ -10,9 +10,9 @@ next:
 previous:
   text: 'bim2: manage marking support services'
   url: /blog/2011/02/17/bim2-manage-marking-support-services/
+template: blog-post.html
 title: '"bim2: manage marking services - Part II"'
 type: post
-template: blog-post.html
 ---
 Time to continue the implementation of support services for manage marking started in [the last post](/blog/2011/02/17/bim2-manage-marking-support-services/). Services left to be implemented are
 

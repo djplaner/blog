@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - elearning
-date: 2013-10-09 17:42:00+10:00
+comments: []
+date: 2013-10-09 07:42:00
 next:
   text: Technology-enhanced learning - workloads and costs
   url: /blog/2013/10/09/technology-enhanced-learning-workloads-and-costs/
+pingbacks:
+- approved: '1'
+  author: 'TAM, #moodle, online assignment submission and strategic implementation
+    | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.83.69
+  author_url: https://djon.es/blog/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/
+  content: '[&#8230;] have been mixed messages about the success of that project.
+    For example, Tynan et al (2009) suggest this It is probable that [&#8230;]'
+  date: '2013-12-24 11:39:51'
+  date_gmt: '2013-12-24 01:39:51'
+  id: '880'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Planning an analysis of the learning analytics literature
   url: /blog/2013/10/03/planning-an-analysis-of-the-learning-analytics-literature/
+template: blog-post.html
 title: Dissenting views of institutional e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'TAM, #moodle, online assignment submission and strategic implementation
-        | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.83.69
-      author_url: https://djon.es/blog/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/
-      content: '[&#8230;] have been mixed messages about the success of that project.
-        For example, Tynan et al (2009) suggest this It is probable that [&#8230;]'
-      date: '2013-12-24 11:39:51'
-      date_gmt: '2013-12-24 01:39:51'
-      id: '880'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following two quotes are talking about the e-learning context at the same institution at about the same time (2009 through about 2011).
 

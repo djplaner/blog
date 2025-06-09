@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - 4paths
 - bad
 - elearning
 - set
-date: 2015-09-03 15:37:51+10:00
+comments: []
+date: 2015-09-03 05:37:51
 next:
   text: '"Educational technology: deja vu all over again"'
   url: /blog/2015/09/03/educational-technology-deja-vu-all-over-again/
+pingbacks:
+- approved: '1'
+  author: 'University e-learning: Removing the context and adding the sediment | The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.81.171
+  author_url: https://davidtjones.wordpress.com/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
+  content: '[&#8230;] The perceived uselessness of the Technology Acceptance Model
+    (TAM) for e-learning [&#8230;]'
+  date: '2015-10-01 12:50:15'
+  date_gmt: '2015-10-01 02:50:15'
+  id: '1415'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: It's not how bad you start, but how quickly you get better
   url: /blog/2015/09/03/its-not-how-bad-you-start-but-how-quickly-you-get-better/
+template: blog-post.html
 title: The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'University e-learning: Removing the context and adding the sediment | The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.81.171
-      author_url: https://davidtjones.wordpress.com/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
-      content: '[&#8230;] The perceived uselessness of the Technology Acceptance Model
-        (TAM) for e-learning [&#8230;]'
-      date: '2015-10-01 12:50:15'
-      date_gmt: '2015-10-01 02:50:15'
-      id: '1415'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Below you will find the slides, abstract, and references for a talk given to folk from the University of South Australia on 1 October, 2015. A later blog post [outlines core parts of the argument.](/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/)
 

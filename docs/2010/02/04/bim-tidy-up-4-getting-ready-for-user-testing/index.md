@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - bim
-date: 2010-02-04 13:58:43+10:00
+date: 2010-02-04 03:58:43
 next:
   text: '"Challenges in developing innovative pedagogy in blended learning: The case
     of BIM"'
@@ -9,9 +9,9 @@ next:
 previous:
   text: 'BIM - Tidy up #4 - Security checks'
   url: /blog/2010/02/03/bim-tidy-up-4-security-checks/
+template: blog-post.html
 title: '"BIM - Tidy up #4 - Getting ready for user testing"'
 type: post
-template: blog-post.html
 ---
 Continuing the tidying of BIM. This time the focus is on any and all steps necessary to get BIM ready to go up on a test server and have some real folk actually look and play with it. The structure of this will be based around users and actions. I'm going to do some of my own testing and then also add in anything that comes up from working with others.
 

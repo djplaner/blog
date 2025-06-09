@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - elearning
-date: 2006-10-22 22:14:38+10:00
+date: 2006-10-22 12:14:38
 next:
   text: The missing Ps - Past Experience
   url: /blog/2006/10/25/the-missing-ps-past-experience/
 previous:
   text: The missing Ps - Purpose and place
   url: /blog/2006/10/22/purpose-and-place/
+template: blog-post.html
 title: Moving beyond functional evaluation - scenario-based evaluation
 type: post
-template: blog-post.html
 ---
 Tony Byrne has posted an article entitled [A Scenario-based approach to evaluating CMS vendors](http://www.cmswatch.com/Feature/153-Selecting-CMS-Tools?source=RSS). It's part of a website that examines/reviews content management systems. The post tells the story of how they evolved their evaluation of such systems from strictly functional evaluations to the addition of "vendor intangibles" and beyond.
 

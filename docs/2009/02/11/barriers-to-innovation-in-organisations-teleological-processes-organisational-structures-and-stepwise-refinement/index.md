@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,37 +6,34 @@ categories:
 - information-systems
 - missingps
 - thesis
-date: 2009-02-11 16:02:29+10:00
+comments: []
+date: 2009-02-11 06:02:29
 next:
   text: It's always easier to say sorry than to ask for permission
   url: /blog/2009/02/12/its-always-easier-to-say-sorry-than-to-ask-for-permission/
+pingbacks:
+- approved: '1'
+  author: It&#8217;s always easier to say sorry than to ask for permission &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.187
+  author_url: https://djon.es/blog/2009/02/12/its-always-easier-to-say-sorry-than-to-ask-for-permission/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Barriers to innovation in organisations: teleological processes, organisational
+    structures and stepw... [...]'
+  date: '2009-02-12 13:32:59'
+  date_gmt: '2009-02-12 03:32:59'
+  id: '2133'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: One reason people don&#039;t take to new e-learning technology
   url: /blog/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/
+template: blog-post.html
 title: '"Barriers to innovation in organisations: teleological processes, organisational
   structures and stepwise refinement"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: It&#8217;s always easier to say sorry than to ask for permission &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.187
-      author_url: https://djon.es/blog/2009/02/12/its-always-easier-to-say-sorry-than-to-ask-for-permission/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Barriers to innovation in organisations: teleological processes, organisational
-        structures and stepw... [...]'
-      date: '2009-02-12 13:32:59'
-      date_gmt: '2009-02-12 03:32:59'
-      id: '2133'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This video speaks to me on so many levels. It summarises many of the problems I have faced and encountered trying to implement innovative approaches to e-learning at universities over the last 15 plus year. I'm sure I am not alone.
 

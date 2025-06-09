@@ -1,70 +1,67 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - react
-date: 2007-01-11 14:06:33+10:00
+comments: []
+date: 2007-01-11 04:06:33
 next:
   text: Breakthrough learning - what lessons for staff development of academics?
   url: /blog/2007/01/12/breakthrough-learning-what-lessons-for-staff-development-of-academics/
+pingbacks:
+- approved: '1'
+  author: Herding university cats &laquo; The Witch Doctor&#8217;s Aide Memoire
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: http://witchdoctorlearning.wordpress.com/2009/02/24/herding-university-cats/
+  content: "[...] FREEZE AND UNFREEZE - ONE PROBLEM WITH HERDING CATS &#8220;Herding\
+    \ cats includes the herders and the cats. The assumption is that the herders know\
+    \ where they are supposed to go and how to effectively get the cats to this destination.\
+    \ In the current context within which most universities operate I don\u2019t believe\
+    \ that any one actually knows what that destination should be and I think it questionable\
+    \ that anyone knows how to effectively get a significantly large group of academics\
+    \ to any fixed destination.&#8221; [...]"
+  date: '2009-02-24 22:50:12'
+  date_gmt: '2009-02-24 12:50:12'
+  id: '1526'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Virtual learning environments: three implementation perspectives &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
+  content: '[...] - most around initiation, development and implementation/termination.
+    Includes mention of Lewin&#8217;s freeze/unfreeze model, but makes this point
+    six-phase view of the information systems implementation process compared to [...]'
+  date: '2009-03-13 21:34:38'
+  date_gmt: '2009-03-13 11:34:38'
+  id: '1527'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Challenges in employing complex e-learning strategies in campus-based universities
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.26
+  author_url: https://djon.es/blog/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities/
+  content: '[&#8230;] A few years ago I expressed some reservations about the applicability
+    of Lewin&#8217;s model. I think they still [&#8230;]'
+  date: '2014-01-02 11:41:24'
+  date_gmt: '2014-01-02 01:41:24'
+  id: '1528'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A problem with credentialism around teaching and learning
   url: /blog/2007/01/11/a-problem-with-credentialism-around-teaching-and-learning/
+template: blog-post.html
 title: Freeze and unfreeze - one problem with herding cats
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Herding university cats &laquo; The Witch Doctor&#8217;s Aide Memoire
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: http://witchdoctorlearning.wordpress.com/2009/02/24/herding-university-cats/
-      content: "[...] FREEZE AND UNFREEZE - ONE PROBLEM WITH HERDING CATS &#8220;Herding\
-        \ cats includes the herders and the cats. The assumption is that the herders know\
-        \ where they are supposed to go and how to effectively get the cats to this destination.\
-        \ In the current context within which most universities operate I don\u2019t believe\
-        \ that any one actually knows what that destination should be and I think it questionable\
-        \ that anyone knows how to effectively get a significantly large group of academics\
-        \ to any fixed destination.&#8221; [...]"
-      date: '2009-02-24 22:50:12'
-      date_gmt: '2009-02-24 12:50:12'
-      id: '1526'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Virtual learning environments: three implementation perspectives &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
-      content: '[...] - most around initiation, development and implementation/termination.
-        Includes mention of Lewin&#8217;s freeze/unfreeze model, but makes this point
-        six-phase view of the information systems implementation process compared to [...]'
-      date: '2009-03-13 21:34:38'
-      date_gmt: '2009-03-13 11:34:38'
-      id: '1527'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Challenges in employing complex e-learning strategies in campus-based universities
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.26
-      author_url: https://djon.es/blog/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities/
-      content: '[&#8230;] A few years ago I expressed some reservations about the applicability
-        of Lewin&#8217;s model. I think they still [&#8230;]'
-      date: '2014-01-02 11:41:24'
-      date_gmt: '2014-01-02 01:41:24'
-      id: '1528'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm currently working on a paper/idea which is essentially seeking to argue that the [herding cats metaphor](http://cq-pan.cqu.edu.au/david-jones/blog/?cat=14). This metaphor's most famous instantiation is the [EDS herding cats commercial](http://youtube.com/watch?v=zHgEQ71rGwo). It is a metaphor/phrase that is often used within higher education, especially when someone has tried to get academics to do something. It's often equated to herding cats.
 

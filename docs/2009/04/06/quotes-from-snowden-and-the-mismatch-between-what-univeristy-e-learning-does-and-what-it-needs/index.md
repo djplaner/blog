@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - cognitiveedge
@@ -8,52 +8,49 @@ categories:
 - psframework
 - quotes
 - thesis
-date: 2009-04-06 13:22:10+10:00
+comments: []
+date: 2009-04-06 03:22:10
 next:
   text: Birnbaum's fad cycle in higher education
   url: /blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
+  content: '[...] Snowden quotes connected with e-learningPicks up a couple of quotes
+    from Dave Snowden that connect with two of my views - one each from Product and
+    People sections of the Ps Framework - about the mismatch between what university-based
+    e-learning needs and what it actually gets. [...]'
+  date: '2009-04-17 14:23:09'
+  date_gmt: '2009-04-17 04:23:09'
+  id: '2384'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How silly can enterprise IT get? Tools should fit the people, not the other
+    way around &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/
+  content: '[...] Snowden gave a keynote, which he described here and uses the following
+    quote which I&#8217;ve used before Technology is a tool and like all tools it
+    should fit your hand when you pick it up, you [...]'
+  date: '2009-06-15 10:40:55'
+  date_gmt: '2009-06-15 00:40:55'
+  id: '2385'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'The new educational technologists: A call for evidenced change'
   url: /blog/2009/04/06/the-new-educational-technologists-a-call-for-evidenced-change/
+template: blog-post.html
 title: Quotes from Snowden and the mismatch between what univeristy e-learning does
   and what it needs
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
-      content: '[...] Snowden quotes connected with e-learningPicks up a couple of quotes
-        from Dave Snowden that connect with two of my views - one each from Product and
-        People sections of the Ps Framework - about the mismatch between what university-based
-        e-learning needs and what it actually gets. [...]'
-      date: '2009-04-17 14:23:09'
-      date_gmt: '2009-04-17 04:23:09'
-      id: '2384'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How silly can enterprise IT get? Tools should fit the people, not the other
-        way around &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/
-      content: '[...] Snowden gave a keynote, which he described here and uses the following
-        quote which I&#8217;ve used before Technology is a tool and like all tools it
-        should fit your hand when you pick it up, you [...]'
-      date: '2009-06-15 10:40:55'
-      date_gmt: '2009-06-15 00:40:55'
-      id: '2385'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 For the [PhD](/blog/research/phd-thesis/) I'm essentially proposing that the current industrial model of e-learning adopted (almost without exception) by universities is a complete and utter mismatch with the nature of the problem. As a consequence of this mismatch e-learning will continue to have little impact, be of limited quality and continue to be characterised by 5 yearly projects to replace a software system rather than a focus on an on-going process of improving learning and teaching by using the appropriate and available tools.
 

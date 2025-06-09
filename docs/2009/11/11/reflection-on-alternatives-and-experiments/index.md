@@ -1,115 +1,112 @@
----
+﻿---
 categories:
 - elearning
 - futures
 - ilecture
-date: 2009-11-11 09:34:41+10:00
+comments:
+- approved: '1'
+  author: derekbruff
+  author_email: derek.bruff@vanderbilt.edu
+  author_ip: 64.241.37.140
+  author_url: null
+  content: 'This comment stood out to me: "The additional time such interactions would
+    take which would appear to remove time from the presenting of information. A big
+    challenge for many staff, including myself."
+
+
+    I hear versions of this comment frequently when I talk with faculty members about
+    teaching with clickers.  (Of course, the technology behind Votapedia is different
+    that behind clickers, but as you note, the pedagogy is essentially the same.)
+
+
+    I think it''s helpful to remember that one''s audience, at least in a professional
+    presentation, is actively making sense of the information one shares with them.  (With
+    students, they''re not always as active in this as we would like!)  Posing a question
+    to one''s audience and expecting everyone to respond is one way to guide this
+    active processing in a helpful direction.
+
+
+    For instance, in my presentations on clickers, I''ll often describe several different
+    ways to use clickers, and then ask my audience to vote on the use they think has
+    the most potential in their own teaching.  This kind of question prompts what
+    I think is useful personal application.  Furthermore, I can use the results of
+    the question to guide the discussion thereafter.
+
+
+    It''s true that taking time for this kind of activity leaves less time for presenting
+    information, but that trade-off is often worth it so that one''s audience can
+    engage more actively with the information one presents.'
+  date: '2009-11-22 01:57:32'
+  date_gmt: '2009-11-21 15:57:32'
+  id: '2865'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 210.8.39.178
+  author_url: https://djon.es/blog/
+  content: 'G''day Derek,
+
+
+    I agree 100% that the extra time consumed by using clickers (using the term as
+    broadly as possible) definitely has its benefits.  You''ve outlined one in your
+    comments, I like the benefit where I get an additional insight into what the audience
+    (I''m increasingly seeing twitter, votapedia, clickers etc as changing "audience"
+    to "participants") is thinking and I''m sure there are many more.
+
+
+    I see the benefit for me as a presenter so strongly that I will actively try to
+    encourage this in my future presentations - including working out how to incorporate
+    the required time.
+
+
+    That said, this will not be easy for many folk.  In the initial experiment I was
+    re-purposing a talk that was given without "clickers".  This made it difficult
+    to reframe. I didn''t have the time to rethink the presentation to better use
+    the medium.
+
+
+    I can see the cost of re-thinking their presentations as being a major hurdle
+    for many staff.  In terms of the pragmatic majority of university academics (the
+    folk I''m thinking of) additional time is one thing they don''t necessarily want
+    to invest in teaching.
+
+
+    This is a sad observation, but also the reality.
+
+
+    But I guess that''s where my role comes into it, to help these folk and that''s
+    where I think <a href="http://derekbruff.com/teachingwithcrs/" rel="nofollow">your
+    work</a> is also a great help.  I plan/hope to make greater use of work.  In fact,
+    I''m guessing the above perspective may well be old hat to you.
+
+
+    Thanks for the comment and making your work open.
+
+
+    David.'
+  date: '2009-11-22 16:50:21'
+  date_gmt: '2009-11-22 06:50:21'
+  id: '2866'
+  parent: '2865'
+  type: comment
+  user_id: '1'
+date: 2009-11-10 23:34:41
 next:
   text: Twitter back channels, conferences, sessions and engaging the audience
   url: /blog/2009/11/13/twitter-back-channels-conferences-sessions-and-engaging-the-audience/
+pingbacks: []
 previous:
   text: Future of universities - an age old problem
   url: /blog/2009/11/09/future-of-universities-an-age-old-problem/
 tags:
 - ustream-twitter
 - votapedia
+template: blog-post.html
 title: Reflection on alternatives and experiments
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: derekbruff
-      author_email: derek.bruff@vanderbilt.edu
-      author_ip: 64.241.37.140
-      author_url: null
-      content: 'This comment stood out to me: "The additional time such interactions would
-        take which would appear to remove time from the presenting of information. A big
-        challenge for many staff, including myself."
-    
-    
-        I hear versions of this comment frequently when I talk with faculty members about
-        teaching with clickers.  (Of course, the technology behind Votapedia is different
-        that behind clickers, but as you note, the pedagogy is essentially the same.)
-    
-    
-        I think it''s helpful to remember that one''s audience, at least in a professional
-        presentation, is actively making sense of the information one shares with them.  (With
-        students, they''re not always as active in this as we would like!)  Posing a question
-        to one''s audience and expecting everyone to respond is one way to guide this
-        active processing in a helpful direction.
-    
-    
-        For instance, in my presentations on clickers, I''ll often describe several different
-        ways to use clickers, and then ask my audience to vote on the use they think has
-        the most potential in their own teaching.  This kind of question prompts what
-        I think is useful personal application.  Furthermore, I can use the results of
-        the question to guide the discussion thereafter.
-    
-    
-        It''s true that taking time for this kind of activity leaves less time for presenting
-        information, but that trade-off is often worth it so that one''s audience can
-        engage more actively with the information one presents.'
-      date: '2009-11-22 01:57:32'
-      date_gmt: '2009-11-21 15:57:32'
-      id: '2865'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 210.8.39.178
-      author_url: https://djon.es/blog/
-      content: 'G''day Derek,
-    
-    
-        I agree 100% that the extra time consumed by using clickers (using the term as
-        broadly as possible) definitely has its benefits.  You''ve outlined one in your
-        comments, I like the benefit where I get an additional insight into what the audience
-        (I''m increasingly seeing twitter, votapedia, clickers etc as changing "audience"
-        to "participants") is thinking and I''m sure there are many more.
-    
-    
-        I see the benefit for me as a presenter so strongly that I will actively try to
-        encourage this in my future presentations - including working out how to incorporate
-        the required time.
-    
-    
-        That said, this will not be easy for many folk.  In the initial experiment I was
-        re-purposing a talk that was given without "clickers".  This made it difficult
-        to reframe. I didn''t have the time to rethink the presentation to better use
-        the medium.
-    
-    
-        I can see the cost of re-thinking their presentations as being a major hurdle
-        for many staff.  In terms of the pragmatic majority of university academics (the
-        folk I''m thinking of) additional time is one thing they don''t necessarily want
-        to invest in teaching.
-    
-    
-        This is a sad observation, but also the reality.
-    
-    
-        But I guess that''s where my role comes into it, to help these folk and that''s
-        where I think <a href="http://derekbruff.com/teachingwithcrs/" rel="nofollow">your
-        work</a> is also a great help.  I plan/hope to make greater use of work.  In fact,
-        I''m guessing the above perspective may well be old hat to you.
-    
-    
-        Thanks for the comment and making your work open.
-    
-    
-        David.'
-      date: '2009-11-22 16:50:21'
-      date_gmt: '2009-11-22 06:50:21'
-      id: '2866'
-      parent: '2865'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 I've just completed [a presentation](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) which included an experiment with some different technologies for lectures and a [talk I gave at EDUCAUSE09](http://www.educause.edu/E09+Hybrid/EDUCAUSE2009FacetoFaceConferen/ELearningImplementationAlterna/176134). The slides, video and other related resources are available from the [main presentation](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) page.
 

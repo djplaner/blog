@@ -1,106 +1,104 @@
----
+﻿---
 categories:
 - elearning
 - learninganalytics-elearning
-date: 2012-11-01 16:05:31+10:00
+comments:
+- approved: '1'
+  author: mauriceabarry
+  author_email: maurice.a.barry@gmail.com
+  author_ip: 207.231.231.120
+  author_url: http://mauriceabarry.wordpress.com
+  content: Timely and thoughtful. I will be referencing this. Thanks for posting.
+  date: '2012-11-01 19:00:07'
+  date_gmt: '2012-11-01 09:00:07'
+  id: '505'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.164.181.94
+  author_url: https://djon.es/blog/
+  content: No worries, glad it was helpful.
+  date: '2012-11-01 19:14:10'
+  date_gmt: '2012-11-01 09:14:10'
+  id: '506'
+  parent: '505'
+  type: comment
+  user_id: '1'
+date: 2012-11-01 06:05:31
 next:
   text: A triumph of the explicit over the tacit and the subsequent loss of learning
   url: /blog/2012/11/08/a-triumph-of-the-explicit-over-the-tacit-and-the-subsequent-loss-of-learning/
+pingbacks:
+- approved: '1'
+  author: 'Moving beyond a fashion: likely paths and pitfalls for learning analytics
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 76.74.255.33
+  author_url: https://djon.es/blog/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/
+  content: '[...] There is an abstract on the conference site and an extended abstract.
+    [...]'
+  date: '2012-12-01 06:43:16'
+  date_gmt: '2012-11-30 20:43:16'
+  id: '507'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Moving beyond a fashion: likely paths and pitfalls for learning analytics
+    | (R)e-Learning | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/r-e-learning/p/3999643152/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics
+  content: '[...] The following started life as a submission to the SoLAR Southern
+    Flare Conference and is serving double purpose as a contribution to #cfhe12, which
+    is currently looking at Big data and analytics. O...&nbsp; [...]'
+  date: '2013-04-09 20:11:45'
+  date_gmt: '2013-04-09 10:11:45'
+  id: '508'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Learning analytics, intervention and helping teachers | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 66.135.48.177
+  author_url: https://djon.es/blog/2013/06/07/learning-analytics-intervention-and-helping-teachers/
+  content: '[&#8230;] &#8216;big data&#8217;&#8221; and Why big data is not truth.
+    Not that surprising to me given that I&#8217;ve argued that learning analytics
+    in Universities has all hallmarks of yet another [&#8230;]'
+  date: '2013-06-07 14:13:01'
+  date_gmt: '2013-06-07 04:13:01'
+  id: '509'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: IRAC &#8211; Four questions for learning analytics interventions | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 66.155.9.101
+  author_url: https://djon.es/blog/2013/07/14/irac-four-questions-for-learning-analytics-interventions/
+  content: '[&#8230;] spark for this work is based on observations made in a presentation
+    from last year. In summary, the argument is that learning analytics has become
+    a management [&#8230;]'
+  date: '2013-07-14 21:58:06'
+  date_gmt: '2013-07-14 11:58:06'
+  id: '510'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Technology in education: The track record'
   url: /blog/2012/10/29/technology-in-education-the-track-record/
 tags:
 - chfe12
+template: blog-post.html
 title: '"Moving beyond a fashion: likely paths and pitfalls for learning analytics"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: mauriceabarry
-      author_email: maurice.a.barry@gmail.com
-      author_ip: 207.231.231.120
-      author_url: http://mauriceabarry.wordpress.com
-      content: Timely and thoughtful. I will be referencing this. Thanks for posting.
-      date: '2012-11-01 19:00:07'
-      date_gmt: '2012-11-01 09:00:07'
-      id: '505'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.164.181.94
-      author_url: https://djon.es/blog/
-      content: No worries, glad it was helpful.
-      date: '2012-11-01 19:14:10'
-      date_gmt: '2012-11-01 09:14:10'
-      id: '506'
-      parent: '505'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Moving beyond a fashion: likely paths and pitfalls for learning analytics
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 76.74.255.33
-      author_url: https://djon.es/blog/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/
-      content: '[...] There is an abstract on the conference site and an extended abstract.
-        [...]'
-      date: '2012-12-01 06:43:16'
-      date_gmt: '2012-11-30 20:43:16'
-      id: '507'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Moving beyond a fashion: likely paths and pitfalls for learning analytics
-        | (R)e-Learning | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/r-e-learning/p/3999643152/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics
-      content: '[...] The following started life as a submission to the SoLAR Southern
-        Flare Conference and is serving double purpose as a contribution to #cfhe12, which
-        is currently looking at Big data and analytics. O...&nbsp; [...]'
-      date: '2013-04-09 20:11:45'
-      date_gmt: '2013-04-09 10:11:45'
-      id: '508'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Learning analytics, intervention and helping teachers | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 66.135.48.177
-      author_url: https://djon.es/blog/2013/06/07/learning-analytics-intervention-and-helping-teachers/
-      content: '[&#8230;] &#8216;big data&#8217;&#8221; and Why big data is not truth.
-        Not that surprising to me given that I&#8217;ve argued that learning analytics
-        in Universities has all hallmarks of yet another [&#8230;]'
-      date: '2013-06-07 14:13:01'
-      date_gmt: '2013-06-07 04:13:01'
-      id: '509'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: IRAC &#8211; Four questions for learning analytics interventions | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 66.155.9.101
-      author_url: https://djon.es/blog/2013/07/14/irac-four-questions-for-learning-analytics-interventions/
-      content: '[&#8230;] spark for this work is based on observations made in a presentation
-        from last year. In summary, the argument is that learning analytics has become
-        a management [&#8230;]'
-      date: '2013-07-14 21:58:06'
-      date_gmt: '2013-07-14 11:58:06'
-      id: '510'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following started life as a submission to the [SoLAR Southern Flare Conference](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12/schedConf/overview) and is serving double purpose as a contribution to [#cfhe12](http://edfuture.net/), which is currently looking at [Big data and analytics](https://edfuture.desire2learn.com/d2l/lms/content/viewer/main_frame.d2l?ou=6609&tId=43).
 

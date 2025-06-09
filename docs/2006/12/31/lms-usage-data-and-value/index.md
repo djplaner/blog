@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - paperideas
-date: 2006-12-31 11:20:40+10:00
+date: 2006-12-31 01:20:40
 next:
   text: Participatory design as the basis for staff development and course design
   url: /blog/2007/01/05/participatory-design-as-the-basis-for-staff-development-and-course-design/
 previous:
   text: Evaluating the drivers for LMS adoption
   url: /blog/2006/12/28/evaluating-the-drivers-for-lms-adoption/
+template: blog-post.html
 title: LMS usage data and value
 type: post
-template: blog-post.html
 ---
 Warger (2003) (amongst others) makes the claim
 

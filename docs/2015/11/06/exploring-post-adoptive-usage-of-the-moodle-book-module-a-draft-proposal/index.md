@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - bad
 - elearning
 - exploring
 - moodleopenbook
-date: 2015-11-06 15:39:36+10:00
+comments: []
+date: 2015-11-06 05:39:36
 next:
   text: '"Opening up and enhancing #moodle books with GitHub, ePub, etc."'
   url: /blog/2015/11/30/opening-up-and-enhancing-moodle-books-with-github-epub-etc/
+pingbacks:
+- approved: '1'
+  author: Some findings from initial exploration of Moodle Book usage &#8211; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.118
+  author_url: https://davidtjones.wordpress.com/2016/10/06/some-findings-from-initial-exploration-of-moodle-book-usage/
+  content: '[&#8230;] talk is part of a broader project that is looking more into
+    post-adoption usage of e-learning systems, with an initial focus on the Book [&#8230;]'
+  date: '2016-10-06 18:17:33'
+  date_gmt: '2016-10-06 08:17:33'
+  id: '1452'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Anyone capturing users&#039; post-adoptive behaviours for the LMS? Implications?
   url: /blog/2015/10/31/anyone-capturing-users-post-adoptive-behaviours-for-the-lms-implications/
+template: blog-post.html
 title: '"Exploring "post adoptive usage" of the #moodle Book module - a draft proposal"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Some findings from initial exploration of Moodle Book usage &#8211; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.118
-      author_url: https://davidtjones.wordpress.com/2016/10/06/some-findings-from-initial-exploration-of-moodle-book-usage/
-      content: '[&#8230;] talk is part of a broader project that is looking more into
-        post-adoption usage of e-learning systems, with an initial focus on the Book [&#8230;]'
-      date: '2016-10-06 18:17:33'
-      date_gmt: '2016-10-06 08:17:33'
-      id: '1452'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 For quite some time I've experienced and believed that there how universities are implementing digital learning has some issues that contribute to perceived problems with the quality of such learning and its associated teaching. The following is an outline of an exploratory research project intended to confirm (or not) aspects of this belief.
 

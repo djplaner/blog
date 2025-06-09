@@ -1,53 +1,50 @@
----
+﻿---
 categories:
 - 4paths
 - indicators
 - irac
 - learninganalytics-elearning
-date: 2015-06-14 18:05:07+10:00
+comments: []
+date: 2015-06-14 08:05:07
 next:
   text: Import/export ePubs into the Moodle book module
   url: /blog/2015/06/15/importexport-epubs-into-the-moodle-book-module/
+pingbacks:
+- approved: '1'
+  author: Technically learning to teach
+  author_email: null
+  author_ip: 207.198.101.31
+  author_url: https://kellidwv.wordpress.com/2015/06/14/97/
+  content: '[&#8230;] results for uni than measuring student learning, a dilemma discussed
+    in David&#8217;s latest blog&nbsp;but not necessarily well reflected in his [&#8230;]'
+  date: '2015-06-14 20:23:07'
+  date_gmt: '2015-06-14 10:23:07'
+  id: '1318'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 1 &#8211; Me and Networked and Global Learning (NGL) | An experiment
+    in Networked &amp; Global Learning
+  author_email: null
+  author_ip: 192.0.81.136
+  author_url: https://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/
+  content: '[&#8230;] recommend writing blog posts that summarise the papers you read
+    and your initial reactions to them. Here&#8217;s a recent example of a post I&#8217;ve
+    written based on a reading (again an example to spark ideas, not necessarily [&#8230;]'
+  date: '2015-07-15 10:22:53'
+  date_gmt: '2015-07-15 00:22:53'
+  id: '1319'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Analysing Moodle community forum discussions about the Moodle book module
   url: /blog/2015/06/09/analysing-moodle-community-forum-discussions-about-the-moodle-book-module/
+template: blog-post.html
 title: '"Reading - Embracing Big Data in Complex Educational Systems: The Learning
   Analytics Imperative and the Policy Challenge"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Technically learning to teach
-      author_email: null
-      author_ip: 207.198.101.31
-      author_url: https://kellidwv.wordpress.com/2015/06/14/97/
-      content: '[&#8230;] results for uni than measuring student learning, a dilemma discussed
-        in David&#8217;s latest blog&nbsp;but not necessarily well reflected in his [&#8230;]'
-      date: '2015-06-14 20:23:07'
-      date_gmt: '2015-06-14 10:23:07'
-      id: '1318'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 1 &#8211; Me and Networked and Global Learning (NGL) | An experiment
-        in Networked &amp; Global Learning
-      author_email: null
-      author_ip: 192.0.81.136
-      author_url: https://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/
-      content: '[&#8230;] recommend writing blog posts that summarise the papers you read
-        and your initial reactions to them. Here&#8217;s a recent example of a post I&#8217;ve
-        written based on a reading (again an example to spark ideas, not necessarily [&#8230;]'
-      date: '2015-07-15 10:22:53'
-      date_gmt: '2015-07-15 00:22:53'
-      id: '1319'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary and ad hoc thoughts on Macfadyen et al (2014).
 

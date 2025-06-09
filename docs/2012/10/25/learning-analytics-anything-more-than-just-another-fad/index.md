@@ -1,126 +1,124 @@
----
+﻿---
 categories:
 - indicators
 - learninganalytics-elearning
-date: 2012-10-25 16:02:42+10:00
+comments:
+- approved: '1'
+  author: Jim Greenberg (@greenbjb)
+  author_email: greenbjb@twitter.example.com
+  author_ip: 74.74.103.179
+  author_url: http://twitter.com/greenbjb
+  content: 'David,
+
+
+    I''ve heard LA referred to as a presenting symptom of education''s failure to
+    embrace 50 years of research on teaching and learning.  That it is the "fast food"
+    of the Scholarship of Teaching and Learning (SoTL).  I agree and it is frustrating,
+    but couldn''t we do better by our students by looking for patterns in these data
+    sets? Does the good outweigh the bad?'
+  date: '2012-10-25 21:41:27'
+  date_gmt: '2012-10-25 11:41:27'
+  id: '493'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.164.181.94
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the comment Jim.  The "fast food" of SoTL is a good quote.
+    Don''t happen to have a reference do you?
+
+
+    I agree that there exists the possibility that LA can help do better by our students.
+    I''m certain there will be some very good examples demonstrating this over coming
+    years. The trouble is that I think that impact of LA on the majority of L&amp;T
+    within universities will be very limited due to the ways in which institutions
+    adopt it.  i.e in a faddish way.  I''m increasingly sick of the quality of university
+    L&amp;T being solved by the adoption of graduate attributes, learning management
+    systems, open source learning management systems, eportfolios, learning analytics,
+    mobile learning etc.
+
+
+    If I''m lucky we might get a chance to explore an alternative approach that is
+    briefly touched on in <a href="https://djon.es/blog/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/"
+    rel="nofollow">some earlier posts</a>.  Time will tell.'
+  date: '2012-10-25 23:03:53'
+  date_gmt: '2012-10-25 13:03:53'
+  id: '494'
+  parent: '493'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://users.on.net/~iancreid/
+  content: Yes, just another fad...
+  date: '2012-10-29 13:06:21'
+  date_gmt: '2012-10-29 03:06:21'
+  id: '496'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2012-10-25 06:02:42
 next:
   text: '"Technology in education: The track record"'
   url: /blog/2012/10/29/technology-in-education-the-track-record/
+pingbacks:
+- approved: '1'
+  author: 'Learning analytics: Anything more than just another&nbsp;fad? | Analyse
+    This | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/analyse-this/p/3087547352/learning-analytics-anything-more-than-just-another-fad
+  content: '[...] I&rsquo;m currently thinking about a potential contribution to the
+    SoLAR Southern Flare Conference on Learning Analytics in about a month or so.
+    The early shape of that contribution is online and m...&nbsp; [...]'
+  date: '2012-10-25 16:56:39'
+  date_gmt: '2012-10-25 06:56:39'
+  id: '492'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Bookmarks for October 25th through October 26th | Oxford Centre for Staff
+    and Learning Development
+  author_email: null
+  author_ip: 217.112.82.152
+  author_url: http://ocsld.brookesblogs.net/2012/10/26/bookmarks-for-october-25th-through-october-26th/
+  content: '[...] Learning analytics: Anything more than just another fad? | The Weblog
+    of (a) David Jones Learning analytics: Anything more than just another fad? |
+    The Weblog of (a) David Jones [...]'
+  date: '2012-10-27 02:03:12'
+  date_gmt: '2012-10-26 16:03:12'
+  id: '495'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Moving beyond a fashion: likely paths and pitfalls for learning analytics
+    | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.232.113.13
+  author_url: https://djon.es/blog/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/
+  content: '[...] questions asked for this week about learning analytics is, &#8220;is
+    it a fad?&#8221;. I agree with Ian Reid&#8217;s comment on an earlier post, it&#8217;s
+    almost certainly going to be another fad. The following offers some evidence for
+    this, [...]'
+  date: '2012-11-01 16:05:40'
+  date_gmt: '2012-11-01 06:05:40'
+  id: '497'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'The quest to make sense of information: A research commentary'
   url: /blog/2012/10/25/the-quest-to-make-sense-of-information-a-research-commentary/
+template: blog-post.html
 title: '"Learning analytics: Anything more than just another fad?"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Jim Greenberg (@greenbjb)
-      author_email: greenbjb@twitter.example.com
-      author_ip: 74.74.103.179
-      author_url: http://twitter.com/greenbjb
-      content: 'David,
-    
-    
-        I''ve heard LA referred to as a presenting symptom of education''s failure to
-        embrace 50 years of research on teaching and learning.  That it is the "fast food"
-        of the Scholarship of Teaching and Learning (SoTL).  I agree and it is frustrating,
-        but couldn''t we do better by our students by looking for patterns in these data
-        sets? Does the good outweigh the bad?'
-      date: '2012-10-25 21:41:27'
-      date_gmt: '2012-10-25 11:41:27'
-      id: '493'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.164.181.94
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the comment Jim.  The "fast food" of SoTL is a good quote.
-        Don''t happen to have a reference do you?
-    
-    
-        I agree that there exists the possibility that LA can help do better by our students.
-        I''m certain there will be some very good examples demonstrating this over coming
-        years. The trouble is that I think that impact of LA on the majority of L&amp;T
-        within universities will be very limited due to the ways in which institutions
-        adopt it.  i.e in a faddish way.  I''m increasingly sick of the quality of university
-        L&amp;T being solved by the adoption of graduate attributes, learning management
-        systems, open source learning management systems, eportfolios, learning analytics,
-        mobile learning etc.
-    
-    
-        If I''m lucky we might get a chance to explore an alternative approach that is
-        briefly touched on in <a href="https://djon.es/blog/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/"
-        rel="nofollow">some earlier posts</a>.  Time will tell.'
-      date: '2012-10-25 23:03:53'
-      date_gmt: '2012-10-25 13:03:53'
-      id: '494'
-      parent: '493'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://users.on.net/~iancreid/
-      content: Yes, just another fad...
-      date: '2012-10-29 13:06:21'
-      date_gmt: '2012-10-29 03:06:21'
-      id: '496'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Learning analytics: Anything more than just another&nbsp;fad? | Analyse
-        This | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/analyse-this/p/3087547352/learning-analytics-anything-more-than-just-another-fad
-      content: '[...] I&rsquo;m currently thinking about a potential contribution to the
-        SoLAR Southern Flare Conference on Learning Analytics in about a month or so.
-        The early shape of that contribution is online and m...&nbsp; [...]'
-      date: '2012-10-25 16:56:39'
-      date_gmt: '2012-10-25 06:56:39'
-      id: '492'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Bookmarks for October 25th through October 26th | Oxford Centre for Staff
-        and Learning Development
-      author_email: null
-      author_ip: 217.112.82.152
-      author_url: http://ocsld.brookesblogs.net/2012/10/26/bookmarks-for-october-25th-through-october-26th/
-      content: '[...] Learning analytics: Anything more than just another fad? | The Weblog
-        of (a) David Jones Learning analytics: Anything more than just another fad? |
-        The Weblog of (a) David Jones [...]'
-      date: '2012-10-27 02:03:12'
-      date_gmt: '2012-10-26 16:03:12'
-      id: '495'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Moving beyond a fashion: likely paths and pitfalls for learning analytics
-        | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.232.113.13
-      author_url: https://djon.es/blog/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/
-      content: '[...] questions asked for this week about learning analytics is, &#8220;is
-        it a fad?&#8221;. I agree with Ian Reid&#8217;s comment on an earlier post, it&#8217;s
-        almost certainly going to be another fad. The following offers some evidence for
-        this, [...]'
-      date: '2012-11-01 16:05:40'
-      date_gmt: '2012-11-01 06:05:40'
-      id: '497'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm currently thinking about a potential contribution to the [SoLAR Southern Flare Conference](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12/schedConf/overview) on Learning Analytics in about a month or so. The [early shape of that contribution](/blog/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/) is online and my last few posts have been summarising some explorations through various areas of the literature. Not the learning analytics literature, but broader literature on which much of the learning analytics literature should be based, but of which much isn't.
 

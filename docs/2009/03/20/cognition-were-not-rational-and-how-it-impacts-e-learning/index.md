@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - cognitiveedge
@@ -8,35 +8,32 @@ categories:
 - psframework
 - reflectivealignment
 - thesis
-date: 2009-03-20 14:07:22+10:00
+comments: []
+date: 2009-03-20 04:07:22
 next:
   text: Postman's - 5 things to know about technological change and e-learning
   url: /blog/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #5 - a new low &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: https://djon.es/blog/2009/03/27/phd-update-5-a-new-low/
+  content: '[...] Cognition - we&#8217;re not rational.Early steps, sparked by another
+    post, on developing some ideas for the &#8220;People&#8221; component of the Ps
+    Framework. [...]'
+  date: '2009-03-27 13:24:00'
+  date_gmt: '2009-03-27 03:24:00'
+  id: '2303'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update - Week #4 - Frustration and progress'
   url: /blog/2009/03/20/phd-update-week-4-frustration-and-progress/
+template: blog-post.html
 title: Cognition - we're not rational and how it impacts e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #5 - a new low &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: https://djon.es/blog/2009/03/27/phd-update-5-a-new-low/
-      content: '[...] Cognition - we&#8217;re not rational.Early steps, sparked by another
-        post, on developing some ideas for the &#8220;People&#8221; component of the Ps
-        Framework. [...]'
-      date: '2009-03-27 13:24:00'
-      date_gmt: '2009-03-27 03:24:00'
-      id: '2303'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 It's a small world. I work in Rockhampton at [a university](http://www.cqu.edu.au/) and last year traveled to Canberra for a [Cognitive Edge workshop](http://www.cognitive-edge.com/) (which I recommend). One of the other participants was Cory Banks who, a few years ago, was a student at the university I work at. He's obviously moved onto bigger and better things.
 

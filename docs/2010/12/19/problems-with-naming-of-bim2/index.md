@@ -1,86 +1,83 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2010-12-19 13:50:44+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.180.4
+  author_url: http://www.vrbones.com
+  content: FWIW, I'd just call it BIM. Most people who would be installling the modules
+    would be comfortable with version management.
+  date: '2010-12-23 07:26:38'
+  date_gmt: '2010-12-22 21:26:38'
+  id: '3211'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.222.174.141
+  author_url: https://djon.es/blog/
+  content: From what I see, the new name is needed/useful in terms of creating a new
+    repo on github. I also am hoping that bim2 will have some significant new features.
+    The new name helps distinguish.  Of course, it's almost certainly going to have
+    unintended consequences with folk. Ah well, decision made now.
+  date: '2010-12-23 08:16:46'
+  date_gmt: '2010-12-22 22:16:46'
+  id: '3212'
+  parent: '3211'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.180.4
+  author_url: http://www.vrbones.com
+  content: Yeah, I didn't read the previous post where you outlined the reasons until
+    after I posted. After making a separate repository you're more or less locked
+    in to the name change. Still, it's going to get messy later on with bimtwopointfive,
+    or bimfifteen.
+  date: '2010-12-24 05:22:01'
+  date_gmt: '2010-12-23 19:22:01'
+  id: '3213'
+  parent: '3211'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.222.97.150
+  author_url: https://djon.es/blog/
+  content: ':) There won''t be any bimtwopointfive.
+
+
+    The main reason for a different git repository, rather than a new version in the
+    old repository.  Is that I wanted to take the time to re-design the structure
+    of BIM entirely and then use that as the new foundation moving forward.  The complete
+    difference in the code suggested a new repository.
+
+
+    IN future, there will just be new versions of bimtwo.  I hope. :)'
+  date: '2010-12-24 08:23:39'
+  date_gmt: '2010-12-23 22:23:39'
+  id: '3214'
+  parent: '3211'
+  type: comment
+  user_id: '1'
+date: 2010-12-19 03:50:44
 next:
   text: A Theory-Driven Design Framework for Social Recommender Systems
   url: /blog/2010/12/20/3495/
+pingbacks: []
 previous:
   text: First coding steps for bim2
   url: /blog/2010/12/19/first-coding-steps-for-bim2/
+template: blog-post.html
 title: Problems with naming of bim2
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.180.4
-      author_url: http://www.vrbones.com
-      content: FWIW, I'd just call it BIM. Most people who would be installling the modules
-        would be comfortable with version management.
-      date: '2010-12-23 07:26:38'
-      date_gmt: '2010-12-22 21:26:38'
-      id: '3211'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.222.174.141
-      author_url: https://djon.es/blog/
-      content: From what I see, the new name is needed/useful in terms of creating a new
-        repo on github. I also am hoping that bim2 will have some significant new features.
-        The new name helps distinguish.  Of course, it's almost certainly going to have
-        unintended consequences with folk. Ah well, decision made now.
-      date: '2010-12-23 08:16:46'
-      date_gmt: '2010-12-22 22:16:46'
-      id: '3212'
-      parent: '3211'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.180.4
-      author_url: http://www.vrbones.com
-      content: Yeah, I didn't read the previous post where you outlined the reasons until
-        after I posted. After making a separate repository you're more or less locked
-        in to the name change. Still, it's going to get messy later on with bimtwopointfive,
-        or bimfifteen.
-      date: '2010-12-24 05:22:01'
-      date_gmt: '2010-12-23 19:22:01'
-      id: '3213'
-      parent: '3211'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.222.97.150
-      author_url: https://djon.es/blog/
-      content: ':) There won''t be any bimtwopointfive.
-    
-    
-        The main reason for a different git repository, rather than a new version in the
-        old repository.  Is that I wanted to take the time to re-design the structure
-        of BIM entirely and then use that as the new foundation moving forward.  The complete
-        difference in the code suggested a new repository.
-    
-    
-        IN future, there will just be new versions of bimtwo.  I hope. :)'
-      date: '2010-12-24 08:23:39'
-      date_gmt: '2010-12-23 22:23:39'
-      id: '3214'
-      parent: '3211'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The [last post](/blog/2010/12/19/first-coding-steps-for-bim2/) covered the initial steps in starting bim2. Including the choice of the name _bim2_. But there is a problem.
 

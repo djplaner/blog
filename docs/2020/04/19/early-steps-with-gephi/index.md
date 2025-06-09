@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eei
-coverImage: lantana-scaled.jpg
-date: 2020-04-19 11:06:22+10:00
+coverImage: https://djon.es/assets/blog/2020/04/19/early-steps-with-gephi/images/lantana-scaled.jpg
+date: 2020-04-19 01:06:22
 next:
   text: Exploring auto-coding with NVivo
   url: /blog/2020/04/30/exploring-auto-coding-with-nvivo/
 previous:
   text: Three mashup types for digital learning and teaching
   url: /blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/
+template: blog-post.html
 title: Early steps with Gephi
 type: post
-template: blog-post.html
 ---
 Playing with Gephi
 
@@ -69,7 +69,7 @@ Four columns
 
 With the two CSV files created, it’s a straight forward process to import and visualise. The test data gives the following visualisation out of the box. It needs some work.
 
-![](images/network1.png)
+![](https://djon.es/assets/blog/2020/04/19/early-steps-with-gephi/images/network1.png)
 
 # Visualising node and edge weights
 
@@ -90,7 +90,7 @@ Appearance also allows colouring of nodes based on node attributes. In this case
 
 Random experimentation with layouts reveal the _Fruchterman Reingold_ layout doing a reasonable first pass. All that combined gives the following image.
 
-![](images/network2.png)
+![](https://djon.es/assets/blog/2020/04/19/early-steps-with-gephi/images/network2.png)
 
 # Visualising groups
 
@@ -104,7 +104,7 @@ Start with [this tutorial](https://gephi.org/users/tutorial-layouts/), which beg
 
 The circular layout generates the following image. Which may be getting close. Would be good if the labels didn’t overlap, but that’s for another day.
 
-![](images/network3.png)
+![](https://djon.es/assets/blog/2020/04/19/early-steps-with-gephi/images/network3.png)
 
 # What’s next?
 

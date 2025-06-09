@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -8,163 +8,161 @@ categories:
 - psframework
 - reflectivealignment
 - thesis
-date: 2009-04-14 10:57:58+10:00
+comments:
+- approved: '1'
+  author: gardnercampbell
+  author_email: gardner.campbell@gmail.com
+  author_ip: 129.62.32.233
+  author_url: http://
+  content: 'First, thanks for linking to my blog and for the kind words about my talk.
+
+
+    Second, and more importantly, thanks for furthering my thoughts in very sophisticated
+    and (in my view) helpful ways. Your discussion here and elsewhere are very valuable
+    contributions to the discussion (again in my view--Downes has given me the hiccups.
+    sorry). In particular, thanks for pointing me to the Papert article. It''s really
+    got me thinking hard. That it''s also depressing is unfortunate--but Papert speaks
+    home truths here and does so in a way that is most helpful for furthering the
+    argument. I''m not sure every bit of the grammar of school or even the idea of
+    "instruction" is necessarily bad, but I agree wholeheartedly that the potential
+    of computers in education has been largely overlooked or thwarted because of the
+    bad parts of the grammar of school.
+
+
+    Looking forward to reading more of your thoughts. Thanks again.'
+  date: '2009-04-18 03:02:16'
+  date_gmt: '2009-04-17 17:02:16'
+  id: '2390'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Chris Fellows
+  author_email: cfellows65536@gmail.com
+  author_ip: 129.180.72.197
+  author_url: https://plus.google.com/105165576248242810874
+  content: 'As someone who draws my salary from providing so-called higher education,
+    I can see my students are going to go out into the real world to try to solve
+    problems in my discipline using information presented in a myriad of inconsistent
+    ways, and are *never* going to know when they step into a situation exactly what
+    they are going to have to know/learn to solve their problem.
+
+
+    And I can see that ''consistent LMSes'', Course synopses/profiles, and Pre-defined
+    learning objectives are all *no kind of preparation at all* for the world we live
+    in.
+
+
+    As for what to do...?  Muddle on through, as humans always have, knowing that
+    eventually reality will win. Institutions can''t indefinitely pursue goals orthogonal
+    to their nominal purpose without coming a cropper.'
+  date: '2013-10-14 10:14:37'
+  date_gmt: '2013-10-14 00:14:37'
+  id: '2395'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-04-14 00:57:58
 next:
   text: Theory and practice - quote and connection with e-learning?
   url: /blog/2009/04/15/theory-and-practice-quote-and-connection-with-e-learning/
+pingbacks:
+- approved: '1'
+  author: Things You Should Know About Forex Trading | Yoobi Forex
+  author_email: null
+  author_ip: 216.227.215.115
+  author_url: http://yoobi.net/forex/2009/04/14/things-you-should-know-about-forex-trading/
+  content: "[...] Disruption and the \u201Cmythic\u201D technologies of education\
+    \ \xAB The Weblog &#8230; [...]"
+  date: '2009-04-14 20:05:27'
+  date_gmt: '2009-04-14 10:05:27'
+  id: '2388'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
+  content: '[...] Disruption and the mythic technologies of educationCombines insights
+    from Shirky, Papert, Postman and Campbell to talk about the nature of e-learning
+    (in transition), the nature of universities and how to move forward. [...]'
+  date: '2009-04-17 14:23:16'
+  date_gmt: '2009-04-17 04:23:16'
+  id: '2389'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Models of growth - responding to the grammar of school &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.210
+  author_url: https://djon.es/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/
+  content: '[...] Models of growth - responding to the grammar of&nbsp;school  This
+    post serves as a brief placeholder of ideas and also to remind me to follow up
+    further on this paper (Cavallo, 2004). The paper seems to offer a very interesting
+    and informed perspective on issues that are of great interest to me, including
+    the &#8220;Process&#8221; used in implementing e-learning within Universities
+    and the &#8220;grammar of school&#8221;. [...]'
+  date: '2009-04-24 14:36:23'
+  date_gmt: '2009-04-24 04:36:23'
+  id: '2391'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Pondering a new position - request for help &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/05/07/pondering-a-new-position/
+  content: '[...] Postman, Papert and others, particularly those examining why innovation
+    in learning and teaching hasn&#8217;t been all that successful. [...]'
+  date: '2009-05-07 10:22:07'
+  date_gmt: '2009-05-07 00:22:07'
+  id: '2392'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Dede&#8217;s &#8220;sleeping, eating and bonding&#8221; metaphor and the
+    diversity of learning and its impacts for e-learning &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/
+  content: "[...] and the diversity of learning and its impacts for&nbsp;e-learning\
+    \  Earlier this year I posted on Disruption and the \u201Cmythic\u201D technologies\
+    \ of education and my views about consistency and diversity when applied to learning,\
+    \ especially e-learning within [...]"
+  date: '2009-09-12 11:36:05'
+  date_gmt: '2009-09-12 01:36:05'
+  id: '2393'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The bureaucratic model and the grammar and future of universities &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.109
+  author_url: https://djon.es/blog/2009/10/26/the-bureaucratic-model-and-the-grammar-and-future-of-universities/
+  content: '[...] this post I mentioned a 1995 article by Seymour Papert on Why school
+    reform is impossible. In this article [...]'
+  date: '2009-10-26 12:49:40'
+  date_gmt: '2009-10-26 02:49:40'
+  id: '2394'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Wordpress eating posts
   url: /blog/2009/04/11/wordpress-eating-posts/
+template: blog-post.html
 title: Disruption and the "mythic" technologies of education
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: gardnercampbell
-      author_email: gardner.campbell@gmail.com
-      author_ip: 129.62.32.233
-      author_url: http://
-      content: 'First, thanks for linking to my blog and for the kind words about my talk.
-    
-    
-        Second, and more importantly, thanks for furthering my thoughts in very sophisticated
-        and (in my view) helpful ways. Your discussion here and elsewhere are very valuable
-        contributions to the discussion (again in my view--Downes has given me the hiccups.
-        sorry). In particular, thanks for pointing me to the Papert article. It''s really
-        got me thinking hard. That it''s also depressing is unfortunate--but Papert speaks
-        home truths here and does so in a way that is most helpful for furthering the
-        argument. I''m not sure every bit of the grammar of school or even the idea of
-        "instruction" is necessarily bad, but I agree wholeheartedly that the potential
-        of computers in education has been largely overlooked or thwarted because of the
-        bad parts of the grammar of school.
-    
-    
-        Looking forward to reading more of your thoughts. Thanks again.'
-      date: '2009-04-18 03:02:16'
-      date_gmt: '2009-04-17 17:02:16'
-      id: '2390'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Chris Fellows
-      author_email: cfellows65536@gmail.com
-      author_ip: 129.180.72.197
-      author_url: https://plus.google.com/105165576248242810874
-      content: 'As someone who draws my salary from providing so-called higher education,
-        I can see my students are going to go out into the real world to try to solve
-        problems in my discipline using information presented in a myriad of inconsistent
-        ways, and are *never* going to know when they step into a situation exactly what
-        they are going to have to know/learn to solve their problem.
-    
-    
-        And I can see that ''consistent LMSes'', Course synopses/profiles, and Pre-defined
-        learning objectives are all *no kind of preparation at all* for the world we live
-        in.
-    
-    
-        As for what to do...?  Muddle on through, as humans always have, knowing that
-        eventually reality will win. Institutions can''t indefinitely pursue goals orthogonal
-        to their nominal purpose without coming a cropper.'
-      date: '2013-10-14 10:14:37'
-      date_gmt: '2013-10-14 00:14:37'
-      id: '2395'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Things You Should Know About Forex Trading | Yoobi Forex
-      author_email: null
-      author_ip: 216.227.215.115
-      author_url: http://yoobi.net/forex/2009/04/14/things-you-should-know-about-forex-trading/
-      content: "[...] Disruption and the \u201Cmythic\u201D technologies of education\
-        \ \xAB The Weblog &#8230; [...]"
-      date: '2009-04-14 20:05:27'
-      date_gmt: '2009-04-14 10:05:27'
-      id: '2388'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
-      content: '[...] Disruption and the mythic technologies of educationCombines insights
-        from Shirky, Papert, Postman and Campbell to talk about the nature of e-learning
-        (in transition), the nature of universities and how to move forward. [...]'
-      date: '2009-04-17 14:23:16'
-      date_gmt: '2009-04-17 04:23:16'
-      id: '2389'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Models of growth - responding to the grammar of school &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.210
-      author_url: https://djon.es/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/
-      content: '[...] Models of growth - responding to the grammar of&nbsp;school  This
-        post serves as a brief placeholder of ideas and also to remind me to follow up
-        further on this paper (Cavallo, 2004). The paper seems to offer a very interesting
-        and informed perspective on issues that are of great interest to me, including
-        the &#8220;Process&#8221; used in implementing e-learning within Universities
-        and the &#8220;grammar of school&#8221;. [...]'
-      date: '2009-04-24 14:36:23'
-      date_gmt: '2009-04-24 04:36:23'
-      id: '2391'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Pondering a new position - request for help &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/05/07/pondering-a-new-position/
-      content: '[...] Postman, Papert and others, particularly those examining why innovation
-        in learning and teaching hasn&#8217;t been all that successful. [...]'
-      date: '2009-05-07 10:22:07'
-      date_gmt: '2009-05-07 00:22:07'
-      id: '2392'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Dede&#8217;s &#8220;sleeping, eating and bonding&#8221; metaphor and the
-        diversity of learning and its impacts for e-learning &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/
-      content: "[...] and the diversity of learning and its impacts for&nbsp;e-learning\
-        \  Earlier this year I posted on Disruption and the \u201Cmythic\u201D technologies\
-        \ of education and my views about consistency and diversity when applied to learning,\
-        \ especially e-learning within [...]"
-      date: '2009-09-12 11:36:05'
-      date_gmt: '2009-09-12 01:36:05'
-      id: '2393'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The bureaucratic model and the grammar and future of universities &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.109
-      author_url: https://djon.es/blog/2009/10/26/the-bureaucratic-model-and-the-grammar-and-future-of-universities/
-      content: '[...] this post I mentioned a 1995 article by Seymour Papert on Why school
-        reform is impossible. In this article [...]'
-      date: '2009-10-26 12:49:40'
-      date_gmt: '2009-10-26 02:49:40'
-      id: '2394'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I told myself I wouldn't blog anything more not directly related to the PhD - I'm breaking that promise because a few things I've read over this weekend resonate strongly with the problems that are frustrating me the most with the current practice of higher education and its management.
 

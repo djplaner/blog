@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - blackboardindicators
 - chapter-2
@@ -7,36 +7,33 @@ categories:
 - elearning
 - indicators
 - thesis
-date: 2009-02-28 22:29:43+10:00
+comments: []
+date: 2009-02-28 12:29:43
 next:
   text: Another spectrum for using indicators to place course websites
   url: /blog/2009/03/01/another-spectrum-for-using-indicators-to-place-course-websites/
+pingbacks:
+- approved: '1'
+  author: Anonymous Aggregation of Student Data &laquo; CS @ UTM
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: http://utmandrew.wordpress.com/2009/08/09/anonymous-aggregation-of-student-data/
+  content: '[...] of anonymous data. (For more on the future of content management
+    systems, take a look at some of David Jones&#8217;s work.) Such a system should
+    also support the use of anonymity within the classroom to encourage feedback [...]'
+  date: '2009-08-10 08:21:22'
+  date_gmt: '2009-08-09 22:21:22'
+  id: '2192'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Featured on slideshare - the give and take of social computing
   url: /blog/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/
+template: blog-post.html
 title: Dimensions delimiting conceptions of online teaching - something to guide the
   indicators and the evaluation of LMS data?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Anonymous Aggregation of Student Data &laquo; CS @ UTM
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: http://utmandrew.wordpress.com/2009/08/09/anonymous-aggregation-of-student-data/
-      content: '[...] of anonymous data. (For more on the future of content management
-        systems, take a look at some of David Jones&#8217;s work.) Such a system should
-        also support the use of anonymity within the classroom to encourage feedback [...]'
-      date: '2009-08-10 08:21:22'
-      date_gmt: '2009-08-09 22:21:22'
-      id: '2192'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [Col Beer](http://beerc.wordpress.com/) has been doing some work around the ["indicators" project](http://beerc.wordpress.com/2008/12/21/more-on-the-indicators/) - an attempt to mine system logs and databases of a course management system (CMS) to generate data of some use.
 

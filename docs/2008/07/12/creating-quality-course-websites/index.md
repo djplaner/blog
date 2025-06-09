@@ -1,10 +1,10 @@
----
+﻿---
 categories:
 - addie
 - c2d2
 - coursesites
 - elearning
-date: 2008-07-12 13:29:35+10:00
+date: 2008-07-12 03:29:35
 next:
   text: Creating quality course websites - the pragmatic approach
   url: /blog/2008/07/12/creating-quality-course-websites-the-pragmatic-approach/
@@ -13,9 +13,9 @@ previous:
   url: /blog/2008/06/28/the-place-of-free-social-software-in-institutional-e-learning/
 tags:
 - cddu-elearning-coursesite
+template: blog-post.html
 title: Creating quality course websites
 type: post
-template: blog-post.html
 ---
 [CQUni](http://www.cquni.edu.au/) has an interest in increasing the quality of the course websites, as part of a broader push to improve the quality of learning and teaching. This post is an attempt to engage with some of the issues and develop some suggestions for moving forward.
 

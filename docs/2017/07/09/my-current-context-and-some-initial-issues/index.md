@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - edu8702
-date: 2017-07-09 09:46:15+10:00
+date: 2017-07-08 23:46:15
 next:
   text: What's changed in academic staff development?
   url: /blog/2017/07/16/17252/
 previous:
   text: Learning analytics, quality indicators and meso-level practitioners
   url: /blog/2017/07/07/learning-analytics-quality-indicators-and-meso-level-practitioners/
+template: blog-post.html
 title: My current context and some initial issues
 type: post
-template: blog-post.html
 ---
 Semester is about to start and I'm back teaching. This semester I'm part of a team of folk designing and teaching a brand new, never been taught course - [EDU8702 - Scholarship in Higher Education: Reflection and Evaluation](https://www.usq.edu.au/course/specification/2017/EDU8702-S2-2017-WEB-TWMBA.html). The course is part of the Graduate Certificate in Tertiary Teaching.
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bam
-date: 2006-10-11 08:36:44+10:00
+date: 2006-10-10 22:36:44
 next:
   text: IS as the initiator of new topics in business schools
   url: /blog/2006/10/12/is-as-the-initiator-of-new-topics-in-business-schools/
 previous:
   text: When will enterprises truly embrace Enterprise 2.0 applications?
   url: /blog/2006/10/10/when-will-enterprises-truly-embrace-enterprise-20-applications/
+template: blog-post.html
 title: Helping "NESB" students realise - there is no one answer
 type: post
-template: blog-post.html
 ---
 [Stephen Downes](http://www.downes.ca) has a paper titled "Learning Networks and Connective Knowledge" that is currently being discussed on the ITForum. He [blogs about the paper](http://www.downes.ca/cgi-bin/page.cgi?post=36031) and includes links to ITForum and the paper.
 

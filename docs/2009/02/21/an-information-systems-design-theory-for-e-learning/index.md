@@ -1,57 +1,54 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
 - missingps
 - thesis
-date: 2009-02-21 03:58:09+10:00
+comments: []
+date: 2009-02-20 17:58:09
 next:
   text: '"An ISDT for e-learning" - Audio is now synchronized'
   url: /blog/2009/02/22/an-isdt-for-e-learning-audio-is-now-synchronized/
+pingbacks:
+- approved: '1'
+  author: '&#8220;An ISDT for e-learning&#8221; - Audio is now synchronized &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/02/22/an-isdt-for-e-learning-audio-is-now-synchronized/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    An information systems design theory for&nbsp;e-learning [...]'
+  date: '2009-02-22 13:35:03'
+  date_gmt: '2009-02-22 03:35:03'
+  id: '2153'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Featured on slideshare - the give and take of social computing &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/
+  content: '[...] - the give and take of social&nbsp;computing  The editorial team
+    over at Slideshare have decided my recent PhD presentation is worth of featuring
+    on the Slideshare home page. The following screen shot of the Slideshare home
+    [...]'
+  date: '2009-02-27 21:56:42'
+  date_gmt: '2009-02-27 11:56:42'
+  id: '2154'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Reliability - an argument against using Web 2.0 services in learning? Probably
     not.
   url: /blog/2009/02/18/reliability-an-argument-against-using-web-20-services-in-learning/
 tags:
 - lms-cms
+template: blog-post.html
 title: An information systems design theory for e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: '&#8220;An ISDT for e-learning&#8221; - Audio is now synchronized &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/02/22/an-isdt-for-e-learning-audio-is-now-synchronized/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        An information systems design theory for&nbsp;e-learning [...]'
-      date: '2009-02-22 13:35:03'
-      date_gmt: '2009-02-22 03:35:03'
-      id: '2153'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Featured on slideshare - the give and take of social computing &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/
-      content: '[...] - the give and take of social&nbsp;computing  The editorial team
-        over at Slideshare have decided my recent PhD presentation is worth of featuring
-        on the Slideshare home page. The following screen shot of the Slideshare home
-        [...]'
-      date: '2009-02-27 21:56:42'
-      date_gmt: '2009-02-27 11:56:42'
-      id: '2154'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Yesterday I gave a presentation at [the Australian National University](http://www.anu.edu.au/) on my [PhD](/blog/research/phd-thesis/). I'm doing it through ANU and this 30 minute presentation is a standard requirement of study. The slides are up on [slideshare](http://slideshare.net/) (embedded below). I recorded the audio and will be trying to put that online later on today and make the slides into a slidecast.
 

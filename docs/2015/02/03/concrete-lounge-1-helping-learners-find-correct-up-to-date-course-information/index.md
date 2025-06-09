@@ -1,67 +1,64 @@
----
+﻿---
 categories:
 - bad
 - concretelounges
 - edc3100
-date: 2015-02-03 12:26:43+10:00
+comments: []
+date: 2015-02-03 02:26:43
 next:
   text: Metaphors and organisational change
   url: /blog/2015/02/06/metaphors-and-organisational-change/
+pingbacks:
+- approved: '1'
+  author: Kludging an authoring process with Moodle books (almost) | The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.104
+  author_url: https://davidtjones.wordpress.com/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
+  content: '[&#8230;] outlined in a previous post and shown in the following screenshot
+    my course uses &#8220;Moodle books&#8221;. Each Moodle book [&#8230;]'
+  date: '2015-02-08 13:13:47'
+  date_gmt: '2015-02-08 03:13:47'
+  id: '1217'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: And the little one said, &#8220;roll over, roll over&#8221; | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.50
+  author_url: https://davidtjones.wordpress.com/2015/06/26/and-the-little-one-said-roll-over-roll-over/
+  content: '[&#8230;] semester I implemented a &#8220;macro&#8221; system. Initial
+    implementation had it working just for the semester 1 site. Time to update it
+    to work with [&#8230;]'
+  date: '2015-06-30 11:33:45'
+  date_gmt: '2015-06-30 01:33:45'
+  id: '1218'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Nature of digital technology? Part 2 &#8211; expansion &#8211; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.14
+  author_url: https://davidtjones.wordpress.com/2016/06/29/nature-of-digital-technology-part-2-expansion/
+  content: '[&#8230;] the use of digital technologies (and probably beyond). For example,
+    my work at doing something with the concrete lounges in my institution&#8217;s
+    LMS. But at this stage we&#8217;re starting to enter the area of [&#8230;]'
+  date: '2016-06-29 09:16:07'
+  date_gmt: '2016-06-28 23:16:07'
+  id: '1219'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Learning analytics is better when.....?
   url: /blog/2015/02/02/learning-analytics-is-better-when/
+template: blog-post.html
 title: '"Concrete lounge #1 - Helping learners find correct, up-to-date course information"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Kludging an authoring process with Moodle books (almost) | The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.104
-      author_url: https://davidtjones.wordpress.com/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
-      content: '[&#8230;] outlined in a previous post and shown in the following screenshot
-        my course uses &#8220;Moodle books&#8221;. Each Moodle book [&#8230;]'
-      date: '2015-02-08 13:13:47'
-      date_gmt: '2015-02-08 03:13:47'
-      id: '1217'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: And the little one said, &#8220;roll over, roll over&#8221; | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.50
-      author_url: https://davidtjones.wordpress.com/2015/06/26/and-the-little-one-said-roll-over-roll-over/
-      content: '[&#8230;] semester I implemented a &#8220;macro&#8221; system. Initial
-        implementation had it working just for the semester 1 site. Time to update it
-        to work with [&#8230;]'
-      date: '2015-06-30 11:33:45'
-      date_gmt: '2015-06-30 01:33:45'
-      id: '1218'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Nature of digital technology? Part 2 &#8211; expansion &#8211; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.14
-      author_url: https://davidtjones.wordpress.com/2016/06/29/nature-of-digital-technology-part-2-expansion/
-      content: '[&#8230;] the use of digital technologies (and probably beyond). For example,
-        my work at doing something with the concrete lounges in my institution&#8217;s
-        LMS. But at this stage we&#8217;re starting to enter the area of [&#8230;]'
-      date: '2016-06-29 09:16:07'
-      date_gmt: '2016-06-28 23:16:07'
-      id: '1219'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is (hopefully) the first in a growing [list of concrete lounges](http://fedwiki.djon.es/view/welcome-visitors/view/list-of-concrete-lounges) that I've faced in institutional e-learning. The [concrete lounge metaphor](http://fedwiki.djon.es/view/welcome-visitors/view/concrete-lounge) is my attempt to explore the reality of university e-learning, to illustrate some possible reasons why it continues to be so wrong, and see what can be done to address those reasons.
 
@@ -97,11 +94,11 @@ A 3rd year course taken by all Bachelor of Education students. A course that is 
 
 The course breaks the semester up into four modules. Each module consisting of a number of weeks as shown by the study schedule below.
 
-[![studySchedule](images/16135176729_054efae82e.jpg)](https://www.flickr.com/photos/david_jones/16135176729 "studySchedule by David Jones, on Flickr")
+[![studySchedule](https://djon.es/assets/blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/images/16135176729_054efae82e.jpg)](https://www.flickr.com/photos/david_jones/16135176729 "studySchedule by David Jones, on Flickr")
 
 Moodle as the LMS. Each topic on the course home page equates to a week of semester. Each week consists of a "learning path". i.e. a list of basic activities and resources that are designed to get the students started in their learning. The following image shows the learning path for week 1.
 
-[![Week1](images/16315335515_b91c408c98.jpg)](https://www.flickr.com/photos/david_jones/16315335515 "Week1 by David Jones, on Flickr")
+[![Week1](https://djon.es/assets/blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/images/16315335515_b91c408c98.jpg)](https://www.flickr.com/photos/david_jones/16315335515 "Week1 by David Jones, on Flickr")
 
 Each learning path makes use of the Moodle book plugin (look for the green book like icons next to elements in the above image) to guide students through the learning path. Each Moodle book tends to be focused on a specific task and generally is wrapped around external resources. For example, the "Toolbelt Theory" book in the above prepares the students to read [this post](http://speedchange.blogspot.com.au/p/blog-page_2046.html) and engage in a number of activities. Including the use of Diigo to share thoughts on the post with others in the course).
 
@@ -125,7 +122,7 @@ This raises the question of where to put activities/resources that are important
 
 This is information that the students will need multiple times throughout the semester and should be able to find it quickly. The following image shows off a remnant of my initial solution - look at the "Course Content" block in the middle of the page and the links it includes.
 
-[![Home page](images/15957952599_594365d7d9.jpg)](https://www.flickr.com/photos/david_jones/15957952599 "Home page by David Jones, on Flickr")
+[![Home page](https://djon.es/assets/blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/images/15957952599_594365d7d9.jpg)](https://www.flickr.com/photos/david_jones/15957952599 "Home page by David Jones, on Flickr")
 
 You may also see from the above image that there is also a quite prominent menu in the left-hand column. A menu that appears to point to some of the same information (e.g. study schedule, assessment). This is a new feature of the institutional theme for Moodle that has been rolled out by my university.
 
@@ -166,7 +163,7 @@ The image below shows the original solution I used (which is echoed in the image
 
 A hand-coded bit of HTML is placed in the general section at the top of the course site. The HTML points students to the general information. The HTML is styled to align with the institutional look and feel. As you can see, it also takes up more vertical space contributing somewhat to the scroll of death.
 
-[![edc3100 2014](images/15692340534_2b5437ee13.jpg)](https://www.flickr.com/photos/david_jones/15692340534 "edc3100 2014 by David Jones, on Flickr")
+[![edc3100 2014](https://djon.es/assets/blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/images/15692340534_2b5437ee13.jpg)](https://www.flickr.com/photos/david_jones/15692340534 "edc3100 2014 by David Jones, on Flickr")
 
 As noted above, the institution has rolled out a new look and feel that includes a menu designed to help students find general information. In a perfect world, I'd make use of that menu to point students to the course specific information. Especially the study schedule and assessment information.
 
@@ -178,7 +175,7 @@ Time will tell.
 
 The following shot of the next course site shows the addition of "skip navigation" for the weekly learning paths. Near the top of the page the students see an overview of the weeks of semester and can jump directly to the learning path for that week. Each of the links within the skip navigation has a tooltip that tells the student the topic for that week and the dates for that week (the dates are new and are possible due to the tinkering described in the next section). An attempt to help figure out where they were or should be up to.
 
-[![tooltip](images/16406027186_2a4210be9a.jpg)](https://www.flickr.com/photos/david_jones/16406027186 "tooltip by David Jones, on Flickr")
+[![tooltip](https://djon.es/assets/blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/images/16406027186_2a4210be9a.jpg)](https://www.flickr.com/photos/david_jones/16406027186 "tooltip by David Jones, on Flickr")
 
 ### Keeping information up to date - solution
 

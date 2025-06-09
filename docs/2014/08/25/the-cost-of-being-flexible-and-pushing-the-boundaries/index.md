@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - edc3100
-date: 2014-08-25 16:01:32+10:00
+date: 2014-08-25 06:01:32
 next:
   text: On trying to be optimistic in a stupid world
   url: /blog/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/
 previous:
   text: One process for the NGL course
   url: /blog/2014/08/25/one-process-for-the-ngl-course/
+template: blog-post.html
 title: The cost of being flexible and pushing the boundaries
 type: post
-template: blog-post.html
 ---
 For some time Australian universities have led an increasing mantra around increasing flexibility. An inevitable repercussion of the vast majority of students not being full-time learners, but instead having to balance family, work and study, is that study comes last. Family and work pressures lead to difficulty in meeting set deadlines for assessment, hence the call for flexibility. I'm actually all for that increase in flexibility, but it comes at a cost.
 

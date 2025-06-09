@@ -1,67 +1,64 @@
----
+﻿---
 categories:
 - irac
 - pirac
-date: 2015-01-30 15:49:11+10:00
+comments: []
+date: 2015-01-30 05:49:11
 next:
   text: Learning analytics is better when.....?
   url: /blog/2015/02/02/learning-analytics-is-better-when/
+pingbacks:
+- approved: '1'
+  author: Learning analytics is better when&#8230;..? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.84.44
+  author_url: https://davidtjones.wordpress.com/2015/02/02/learning-analytics-is-better-when/
+  content: '[&#8230;] Trying to capture some thinking that arose during an institutional
+    meeting re: learning analytics. The meeting was somewhat positive, but &#8211;
+    as is not uncommon &#8211; there seemed to be some limitations around what learning
+    analytics actually is and what it might look like. Wondering if the following
+    framing might help it draws on points made by numerous people about learning analytics
+    and some strong echoes of the (P)IRAC framework [&#8230;]'
+  date: '2015-02-02 12:37:22'
+  date_gmt: '2015-02-02 02:37:22'
+  id: '1212'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What might a project combining LX Design and Analaytics look like? | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.190
+  author_url: https://davidtjones.wordpress.com/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
+  content: '[&#8230;] @beerc and I have with learning analytics is that it really
+    only ever focuses on two bits of the PIRAC framework i.e. information and representation.
+    It hardly ever does anything about affordances or change. This [&#8230;]'
+  date: '2015-09-14 11:40:45'
+  date_gmt: '2015-09-14 01:40:45'
+  id: '1213'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Situation awareness, complex adaptive systems and learning analytics | Col&#039;s
+    Weblog
+  author_email: null
+  author_ip: 192.0.86.68
+  author_url: https://beerc.wordpress.com/2015/09/29/situation-awareness-complex-adaptive-systems-and-learning-analytics/
+  content: '[&#8230;] Explore the link between this post and (P)IRAC. [&#8230;]'
+  date: '2015-09-29 14:51:04'
+  date_gmt: '2015-09-29 04:51:04'
+  id: '1214'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Adding some learning process analytics to EDC3100
   url: /blog/2015/01/23/adding-some-learning-process-analytics-to-edc3100/
+template: blog-post.html
 title: Using the PIRAC - Thinking about an "integrated dashboard"
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Learning analytics is better when&#8230;..? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.84.44
-      author_url: https://davidtjones.wordpress.com/2015/02/02/learning-analytics-is-better-when/
-      content: '[&#8230;] Trying to capture some thinking that arose during an institutional
-        meeting re: learning analytics. The meeting was somewhat positive, but &#8211;
-        as is not uncommon &#8211; there seemed to be some limitations around what learning
-        analytics actually is and what it might look like. Wondering if the following
-        framing might help it draws on points made by numerous people about learning analytics
-        and some strong echoes of the (P)IRAC framework [&#8230;]'
-      date: '2015-02-02 12:37:22'
-      date_gmt: '2015-02-02 02:37:22'
-      id: '1212'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What might a project combining LX Design and Analaytics look like? | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.190
-      author_url: https://davidtjones.wordpress.com/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
-      content: '[&#8230;] @beerc and I have with learning analytics is that it really
-        only ever focuses on two bits of the PIRAC framework i.e. information and representation.
-        It hardly ever does anything about affordances or change. This [&#8230;]'
-      date: '2015-09-14 11:40:45'
-      date_gmt: '2015-09-14 01:40:45'
-      id: '1213'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Situation awareness, complex adaptive systems and learning analytics | Col&#039;s
-        Weblog
-      author_email: null
-      author_ip: 192.0.86.68
-      author_url: https://beerc.wordpress.com/2015/09/29/situation-awareness-complex-adaptive-systems-and-learning-analytics/
-      content: '[&#8230;] Explore the link between this post and (P)IRAC. [&#8230;]'
-      date: '2015-09-29 14:51:04'
-      date_gmt: '2015-09-29 04:51:04'
-      id: '1214'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 On Monday I'm off to a rather large meeting to talk about what data might be usefully syndicated into a integrated dashboard. The following is an attempt to think out lod about the (P)IRAC framework ([Jones, Beer and Clark, 2013](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/)) in the context of this local project. To help prepare me for the meeting, but also to ponder some recent thoughts about the framework.
 
@@ -73,7 +70,7 @@ Dashboards sux!!
 
 I have a long-term negative view of the value of dashboards and traditional data warehouses/business intelligence type systems. A view that has risen out of both experience and research. For example, the following is a slide from [this invited presentation](/blog/2013/09/22/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-3/). There's also a [a paper](/blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) (Beer, Jones, & Tickner, 2014) that evolved from that presentation.
 
-[![Slide19](images/9861539345_cf4b69251a_n.jpg)](https://www.flickr.com/photos/david_jones/9861539345 "Slide19 by David Jones, on Flickr")
+[![Slide19](https://djon.es/assets/blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/images/9861539345_cf4b69251a_n.jpg)](https://www.flickr.com/photos/david_jones/9861539345 "Slide19 by David Jones, on Flickr")
 
 I don't have a problem with the technology. Data warehouse tools do have a range of functionality that is useful. However, in terms of providing something useful to the everyday life of teachers in a way that enhances learning and teaching, they leave a lot to be desired.
 
@@ -106,14 +103,14 @@ Whilst on holiday enjoying the Queenstown view below and various refreshments, @
 
 Which got us thinking about **P**urpose.
 
-[![Queenstown View](images/16212945199_1ba21f46bf_n.jpg)](https://www.flickr.com/photos/david_jones/16212945199 "Queenstown View by David Jones, on Flickr")
+[![Queenstown View](https://djon.es/assets/blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/images/16212945199_1ba21f46bf_n.jpg)](https://www.flickr.com/photos/david_jones/16212945199 "Queenstown View by David Jones, on Flickr")
 
 As originally framed (Jones et al, 2013)
 
 > The IRAC framework is intended to be applied with a particular context and a particular task in mind......Olmos & Corrin (2012), amongst others, reinforce the importance for learning analytics to start with “a clear understanding of the questions to be answered” (p. 47) or the task to be achieved.
 
-[![Pies! by John Jack Rice, on Flickr](images/4953392243_1d43e14096_m.jpg "Pies! by John Jack Rice, on Flickr")](https://www.flickr.com/photos/johnjackrice/4953392243/)  
-[![Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License")](http://creativecommons.org/licenses/by-nc/2.0/)   by  [](https://www.flickr.com/people/johnjackrice/)[John Jack Rice](https://www.flickr.com/people/johnjackrice/) [](http://www.imagecodr.org/)
+[![Pies! by John Jack Rice, on Flickr](https://djon.es/assets/blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/images/4953392243_1d43e14096_m.jpg "Pies! by John Jack Rice, on Flickr")](https://www.flickr.com/photos/johnjackrice/4953392243/)  
+[![Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License](https://djon.es/assets/blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License")](http://creativecommons.org/licenses/by-nc/2.0/)   by  [](https://www.flickr.com/people/johnjackrice/)[John Jack Rice](https://www.flickr.com/people/johnjackrice/) [](http://www.imagecodr.org/)
 
 If you start the design of a learning analytics tool/intervention without a clear idea of the task (and its context) in mind, then it's going to be difficult to implement.
 

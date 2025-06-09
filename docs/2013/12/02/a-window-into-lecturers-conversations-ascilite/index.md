@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - ascilite
-date: 2013-12-02 10:48:37+10:00
+date: 2013-12-02 00:48:37
 next:
   text: '"Enhancing learning analytics by understanding the needs of teachers #ascilite"'
   url: /blog/2013/12/02/enhancing-learning-analytics-by-understanding-the-needs-of-teachers-ascilite/
@@ -9,9 +9,9 @@ previous:
   text: 'Using the e-learning Maturity Model to Identify Good Practice in E-Learning
     #ascilite'
   url: /blog/2013/12/02/using-the-e-learning-maturity-model-to-identify-good-practice-in-e-learning-ascilite/
+template: blog-post.html
 title: '"A window into lecturers'' conversations #ascilite"'
 type: post
-template: blog-post.html
 ---
 [Negin Mirriahi](https://research.unsw.edu.au/people/dr-negin-mirriahi) - A window into lecturers' conversations: With whom are they speaking about technology and why does it matter?
 

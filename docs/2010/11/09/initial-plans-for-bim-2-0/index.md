@@ -1,102 +1,99 @@
----
+﻿---
 categories:
 - bim
-date: 2010-11-09 11:14:29+10:00
+comments:
+- approved: '1'
+  author: Sarah
+  author_email: sarahthorneycroft@me.com
+  author_ip: 129.180.94.149
+  author_url: http://teaspot.wordpress.com
+  content: I haven't had a chance to read this fully yet, but one point did catch
+    my eye, which is Moodle 2.0's ability to register external blog feeds. The way
+    Moodle does this is still clunky atm, especially regarding association to a particular
+    course for assessment purposes. To my mind it's not a replacement for BIM. Will
+    have a more in-depth look and comment later on :).
+  date: '2010-11-09 12:39:07'
+  date_gmt: '2010-11-09 02:39:07'
+  id: '3185'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.187.41.86
+  author_url: https://djon.es/blog/
+  content: Thanks for the confirmation Sarah.
+  date: '2010-11-09 14:49:04'
+  date_gmt: '2010-11-09 04:49:04'
+  id: '3186'
+  parent: '3185'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.191.118
+  author_url: http://www.vrbones.com
+  content: '&gt; Replace help pages with external wiki
+
+
+    This what immediately sprang to mind when you mentioned a conglomeration around
+    BIM usage itself. Maybe not an entire helpfile replacement, but gratuitious use
+    of links down to the wiki could easily cover all those points. This way the absolute
+    basics for people starting out are in a familiar format, but the meat of the information
+    is only an ''edit'' away from collaboration.
+
+
+    I''ve seen RSS embedding in wikis before, but even a wiki page where issues are
+    discussed would be fine, and eventually linked to an actual github issue. This
+    could also sidestep any contrib conversion issues later on.
+
+
+    Personally I''d prefer access to a larger BIM community than any local support.
+    For local support they could modify the basic help pages to indicate another help
+    process if they wanted to.
+
+
+    For combining into a moodle conglomeration of help may mean storing / hosting
+    the wiki in a common moodle help area (a moodle site itself perhaps?), or simply
+    gratuitous links to other moodle efforts.
+
+
+    A Research page sounds very cool, and possibly supplimented with HowTo pages that
+    demonstrate how to implement the various models within BIM would be ideal.'
+  date: '2010-11-09 19:43:11'
+  date_gmt: '2010-11-09 09:43:11'
+  id: '3187'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.185.183.42
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the comments Tony.
+
+
+    No promises on how much of this I can actually deliver.  Will wait and see.'
+  date: '2010-11-09 22:57:39'
+  date_gmt: '2010-11-09 12:57:39'
+  id: '3188'
+  parent: '3187'
+  type: comment
+  user_id: '1'
+date: 2010-11-09 01:14:29
 next:
   text: A turning point
   url: /blog/2010/11/12/a-turning-point/
+pingbacks: []
 previous:
   text: Scaffolding, context-sensitive conglomerations - v2.0
   url: /blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/
+template: blog-post.html
 title: Initial plans for BIM 2.0
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Sarah
-      author_email: sarahthorneycroft@me.com
-      author_ip: 129.180.94.149
-      author_url: http://teaspot.wordpress.com
-      content: I haven't had a chance to read this fully yet, but one point did catch
-        my eye, which is Moodle 2.0's ability to register external blog feeds. The way
-        Moodle does this is still clunky atm, especially regarding association to a particular
-        course for assessment purposes. To my mind it's not a replacement for BIM. Will
-        have a more in-depth look and comment later on :).
-      date: '2010-11-09 12:39:07'
-      date_gmt: '2010-11-09 02:39:07'
-      id: '3185'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.187.41.86
-      author_url: https://djon.es/blog/
-      content: Thanks for the confirmation Sarah.
-      date: '2010-11-09 14:49:04'
-      date_gmt: '2010-11-09 04:49:04'
-      id: '3186'
-      parent: '3185'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.191.118
-      author_url: http://www.vrbones.com
-      content: '&gt; Replace help pages with external wiki
-    
-    
-        This what immediately sprang to mind when you mentioned a conglomeration around
-        BIM usage itself. Maybe not an entire helpfile replacement, but gratuitious use
-        of links down to the wiki could easily cover all those points. This way the absolute
-        basics for people starting out are in a familiar format, but the meat of the information
-        is only an ''edit'' away from collaboration.
-    
-    
-        I''ve seen RSS embedding in wikis before, but even a wiki page where issues are
-        discussed would be fine, and eventually linked to an actual github issue. This
-        could also sidestep any contrib conversion issues later on.
-    
-    
-        Personally I''d prefer access to a larger BIM community than any local support.
-        For local support they could modify the basic help pages to indicate another help
-        process if they wanted to.
-    
-    
-        For combining into a moodle conglomeration of help may mean storing / hosting
-        the wiki in a common moodle help area (a moodle site itself perhaps?), or simply
-        gratuitous links to other moodle efforts.
-    
-    
-        A Research page sounds very cool, and possibly supplimented with HowTo pages that
-        demonstrate how to implement the various models within BIM would be ideal.'
-      date: '2010-11-09 19:43:11'
-      date_gmt: '2010-11-09 09:43:11'
-      id: '3187'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.185.183.42
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the comments Tony.
-    
-    
-        No promises on how much of this I can actually deliver.  Will wait and see.'
-      date: '2010-11-09 22:57:39'
-      date_gmt: '2010-11-09 12:57:39'
-      id: '3188'
-      parent: '3187'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 I'm slowly getting out from under the thesis, which means I am starting to have some time to think about the next version of [BIM](/blog/research/bam-blog-aggregation-management/). The following is an attempt to lay out some of the ideas I have for the next version of BIM. Beyond helping me gather my thoughts, I'm hoping it will generate some comments and ideas from others. I doubt I will be able to implement all of the suggestions, so I'm hoping to get a sense for what others think is most important.
 

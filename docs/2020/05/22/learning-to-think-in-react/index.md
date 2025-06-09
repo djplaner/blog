@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - bad
 - casa
-coverImage: 49174894718_173269bb7c_o-scaled.jpg
-date: 2020-05-22 08:15:18+10:00
+coverImage: https://djon.es/assets/blog/2020/05/22/learning-to-think-in-react/images/49174894718_173269bb7c_o-scaled.jpg
+date: 2020-05-21 22:15:18
 next:
   text: Improving jQuery theme/Content Interface integration
   url: /blog/2020/05/29/improving-jquery-theme-content-interface-integration/
 previous:
   text: Playing with React.js as a technology for CASA
   url: /blog/2020/05/20/playing-with-react-js-as-a-technology-for-casa/
+template: blog-post.html
 title: Learning to think in React
 type: post
-template: blog-post.html
 ---
 As [outlined previously](/blog/2020/05/20/playing-with-react-js-as-a-technology-for-casa/) I’m taking some steps toward learning and using the React Javascript library to develop some web interfaces/applications. The following documents progress toward writing that first application, which is largely confined to develop an initial mock-up and then learning more about the “React way”.
 
@@ -78,7 +78,7 @@ This component is then used twice in the create-react-app App component. Which i
 
 The power comes when the components are much more powerful than Welcome.
 
-![](images/A45pVYFmARmUAAAAAElFTkSuQmCC)
+![](https://djon.es/assets/blog/2020/05/22/learning-to-think-in-react/images/A45pVYFmARmUAAAAAElFTkSuQmCC)
 
 The trick then is how to decompose a web UI into components. The example on [the components page](https://reactjs.org/docs/components-and-props.html) shows that it is much more fine grain a decomposition than I expected.
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - web3dx
-date: 2007-08-25 07:46:03+10:00
+date: 2007-08-24 21:46:03
 next:
   text: The role for institutions with PLEs
   url: /blog/2007/08/31/the-role-for-institutions-with-ples/
 previous:
   text: Mediawiki, organisational websites and emergence
   url: /blog/2007/08/15/mediawiki-organisational-websites-and-emergence/
+template: blog-post.html
 title: Diffusion theory to guide adoption of immersive Web3D environments in learning
 type: post
-template: blog-post.html
 ---
 Through a range of coincidences I've been lucky enough to be involved with a team, lead by Penny De-Byl, that was successful in obtaining a Carrick grant to look at how to enable academics adopt the use of immersive 3D environments in their teaching. The [project](http://www.web3dexchange.org) is only just starting, we had our first project meeting just over a week ago at [the University of Southern Queensland](http://www.usq.edu.au/) (USQ), and are still feeling our way as a group and a project.
 

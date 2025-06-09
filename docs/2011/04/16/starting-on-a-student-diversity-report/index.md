@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20455
 - teaching
-date: 2011-04-16 22:19:44+10:00
+date: 2011-04-16 12:19:44
 next:
   text: iPhone tracking as a teaching tool
   url: /blog/2011/04/21/iphone-tracking-as-a-teaching-tool/
 previous:
   text: Analysis of digital technologies
   url: /blog/2011/04/15/analysis-of-digital-technologies/
+template: blog-post.html
 title: Starting on a "student diversity report"
 type: post
-template: blog-post.html
 ---
 Ahh, the life of a student. No sooner is [one assignment](/blog/2011/04/15/analysis-of-digital-technologies/) completed, is another one underway. In this case, one I've essentially ignored/forgotten about until a week out from being due.
 

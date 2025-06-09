@@ -1,49 +1,46 @@
----
+﻿---
 categories:
 - elearning
 - psframework
-date: 2009-10-26 12:49:27+10:00
+comments:
+- approved: '1'
+  author: wendymad
+  author_email: w.madsen@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: http://wendymad.wordpress.com
+  content: 'Hi David,
+
+
+    Just wanted to pick up on a couple of things from this rather diverse entry. The
+    amount of squirming amongst my colleagues within the Faculty of Sciences, Engineering
+    and Health re the matrix structure of the faculty would only confirm Cuban''s
+    idea re the nature of schools. The proposed new structure seems to do little else
+    but do a bit of shuffling and calling the groupings ''schools'' and everything
+    is therefore okay! Like the issue of bureaucracies, I am in two minds - I acknowledge
+    the existance of these structures and that they probably have an important function
+    to play, but all the while I feel like I struggle against them. During my Zen
+    moments, I can accept that this is the way it is. Unfortunately, I don''t have
+    many Zen moments.
+
+
+    Wendy'
+  date: '2009-10-26 16:12:34'
+  date_gmt: '2009-10-26 06:12:34'
+  id: '2861'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-10-26 02:49:27
 next:
   text: Lectures, alternatives, poll everywhere and unexpected events
   url: /blog/2009/10/26/lectures-alternatives-poll-everywhere-and-unexpected-events/
+pingbacks: []
 previous:
   text: Participation, impact, collecting data and connecting people
   url: /blog/2009/10/24/participation-impact-collecting-data-and-connecting-people/
+template: blog-post.html
 title: The bureaucratic model and the grammar and future of universities
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: wendymad
-      author_email: w.madsen@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: http://wendymad.wordpress.com
-      content: 'Hi David,
-    
-    
-        Just wanted to pick up on a couple of things from this rather diverse entry. The
-        amount of squirming amongst my colleagues within the Faculty of Sciences, Engineering
-        and Health re the matrix structure of the faculty would only confirm Cuban''s
-        idea re the nature of schools. The proposed new structure seems to do little else
-        but do a bit of shuffling and calling the groupings ''schools'' and everything
-        is therefore okay! Like the issue of bureaucracies, I am in two minds - I acknowledge
-        the existance of these structures and that they probably have an important function
-        to play, but all the while I feel like I struggle against them. During my Zen
-        moments, I can accept that this is the way it is. Unfortunately, I don''t have
-        many Zen moments.
-    
-    
-        Wendy'
-      date: '2009-10-26 16:12:34'
-      date_gmt: '2009-10-26 06:12:34'
-      id: '2861'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Last week I attended a [presentation](http://content.cqu.edu.au/FCWViewer/view.do?page=10837) by a colleague at [CQUniveristy](http://www.cqu.edu.au) titled [The Bureaucratic Model of Adult Instructional Design](http://content.cqu.edu.au/FCWViewer/view.do?page=10837). The stated purpose of the presentation was
 

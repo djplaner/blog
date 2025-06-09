@@ -1,216 +1,214 @@
----
+﻿---
 categories:
 - ilecture
-date: 2009-06-09 14:50:26+10:00
+comments:
+- approved: '1'
+  author: Jason
+  author_email: salliesdad@hotmail.com
+  author_ip: 12.228.78.124
+  author_url: http://
+  content: At least one online source I found (http://www.skilluminati.com/Research/entry/the_hidden_flaw_in_ai_research)
+    attributes the Imitation of Nature passage to Jacques Vallee's Forbidden Science
+  date: '2009-06-10 23:51:08'
+  date_gmt: '2009-06-10 13:51:08'
+  id: '2580'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.130
+  author_url: https://djon.es/blog/
+  content: 'G''day Jason,
+
+
+    Thanks for that.  I think that might be the link I had, but can''t remember.  I''ve
+    been caught out by Web attributions before so I always like to follow up a bit
+    more before I finalise on attribution.  The <a href="http://www.google.com.au/search?q=definition+of+insanity&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a"
+    rel="nofollow">"definition of insanity" quote</a> and its differing attributions
+    is one example of where I''ve been caught out.
+
+
+    David.'
+  date: '2009-06-11 08:39:38'
+  date_gmt: '2009-06-10 22:39:38'
+  id: '2581'
+  parent: '2580'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Snowden
+  author_email: snowded@me.com
+  author_ip: 109.149.50.16
+  author_url: null
+  content: I've got some sympathy with the academic you have labeled as a Luddite
+    here.    I think if the lecture is just content, or as I remember from University
+    an academic reading his book, then other media are possible.   But the best lecturers
+    respond to their audience and make subjects come alive and virtual has limitations
+    there.   We know that human communication is far more than visual and aural stimulation.   So
+    I think its a mix and we need more people who excite students to listen and students
+    who want to listen to something other than information they simply regurgitate
+    for a grade
+  date: '2023-07-28 15:11:17'
+  date_gmt: '2023-07-28 05:11:17'
+  id: '24892'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 132.234.180.2
+  author_url: null
+  content: "Has been interesting to revisit this post. First to cringe a touch at\
+    \ the writing (naive use of the \"luddite\" label) and in times post-COVID. The\
+    \ pandemic's enforced move online and the gradual somewhat stuttering return to\
+    \ \"normal\". \n\nThe hope for more engaging lecturers and more engaged students\
+    \ resonates, but isn't the hand being played at the moment. Massification and\
+    \ the associated focus on employable skills and the like have created a different\
+    \ hand.\n\nAs mentioned above, I think it is possible to \"make subjects come\
+    \ alive\". But it is different, both making it harder/more limited, but also opening\
+    \ up possibilities. For example, almost all of the distance students I taught\
+    \ would never have been able to study if required to be face-to-face. Almost all\
+    \ of the most engaged students I taught, were studying via distance education.\
+    \ Echoes of the second of Postman's 5 things about tech, \"There are always winners\
+    \ and losers in a technological change\". Perhaps also #3.\n\nInterestingly (but\
+    \ not surprisingly) to me is how, even post-COVID with increasing adoption of\
+    \ \"online lectures\" how strongly the mythic nature of the lecture technology\
+    \ remains. How many people still empowered with contemporary digital technology\
+    \ are still stuck with the mindset of a synchronous 1 or 2 hour \"lecture\" as\
+    \ being core to their teaching practice.  They've lost the advantages of \"live\"\
+    \ and yet fail to take full advantage of the \"online\"."
+  date: '2023-08-03 06:07:10'
+  date_gmt: '2023-08-02 20:07:10'
+  id: '24893'
+  parent: '24892'
+  type: comment
+  user_id: '1'
+date: 2009-06-09 04:50:26
 next:
   text: An ill-informed observation on connectivism and other learning theories
   url: /blog/2009/06/09/an-ill-informed-observation-on-connectivism-and-other-learning-theories/
+pingbacks:
+- approved: '1'
+  author: "Blog@UOe-L &raquo; Blog Archive &raquo; Mitos em torno da utiliza\xE7\xE3\
+    o de aulas expositivas em sess\xF5es on-line"
+  author_email: null
+  author_ip: 193.136.173.38
+  author_url: http://blogs.ua.pt/bloguoel/?p=304
+  content: "[...] Aqui est\xE1 uma discuss\xE3o sobre a utiliza\xE7\xE3o de aulas\
+    \ expositivas em sess\xF5es on-line. Esta discuss\xE3o indica quando \xE9 aconselh\xE1\
+    vel e quais as formas de abordar o tema. [...]"
+  date: '2009-06-16 21:04:20'
+  date_gmt: '2009-06-16 11:04:20'
+  id: '2582'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Examination focus and what it might tell us about learning and teaching
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/06/19/examination-focus-and-what-it-might-tell-us-about-learning-and-teaching/
+  content: '[...] This has some connections with some work a colleague and I are doing
+    around what history can tell us about e-learning and some ideas I have about experimenting
+    with the assumptions and/or mythic nature underlying lectures. [...]'
+  date: '2009-06-19 10:19:59'
+  date_gmt: '2009-06-19 00:19:59'
+  id: '2583'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Confirmation bias, the Tolstoy Syndrome and pattern entrainment &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.208
+  author_url: https://djon.es/blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
+  content: '[...] pattern entrainment from Dave Snowden; [...]'
+  date: '2009-06-23 10:00:52'
+  date_gmt: '2009-06-23 00:00:52'
+  id: '2584'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Tensegrities &raquo; Blog Archive &raquo; Lectures and online environments
+  author_email: null
+  author_ip: 74.53.3.210
+  author_url: http://www.religioused.org/tensegrities/archives/4522
+  content: '[...] is a long and somewhat rambling post about the challenges and sometime
+    benefits of lectures in distributed [...]'
+  date: '2009-06-25 07:47:49'
+  date_gmt: '2009-06-24 21:47:49'
+  id: '2585'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Alternative to clickers &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.186
+  author_url: https://djon.es/blog/2009/06/30/alternative-to-clickers/
+  content: '[...] to&nbsp;clickers  In a previous post I outlined some broad ideas
+    of how to understand &#8220;lectures&#8221;. At the crux of it was an [...]'
+  date: '2009-06-30 10:36:41'
+  date_gmt: '2009-06-30 00:36:41'
+  id: '2586'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Frames and Context: Toomato or Tomato &laquo; Damo&#8217;s World'
+  author_email: null
+  author_ip: 66.135.48.211
+  author_url: http://damosworld.wordpress.com/2011/02/05/frames-and-context-toomato-or-tomato/
+  content: "[...] on past experience and attitudes.\_ I think people&#8217;s frames\
+    \ also relate to the concept of pattern entrainment as explained quite succinctly\
+    \ by David [...]"
+  date: '2011-02-05 21:03:51'
+  date_gmt: '2011-02-05 11:03:51'
+  id: '2587'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Managing (universities) in an age of complexity &laquo; Damo&#8217;s World
+  author_email: null
+  author_ip: 74.200.247.113
+  author_url: http://damosworld.wordpress.com/2011/03/08/managing-universities-in-an-age-of-complexity/
+  content: "[...] lack of structure, order or control of one&#8217;s circumstances.\_\
+    \ The second reason is founded in pattern entrainment. Let me explain.\_ The philosopher\
+    \ Aristotle postulated &#8220;that to be rational is to be [...]"
+  date: '2011-03-08 22:21:15'
+  date_gmt: '2011-03-08 12:21:15'
+  id: '2588'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Changing Roles of Higher Educators &laquo; Damo&#8217;s World
+  author_email: null
+  author_ip: 76.74.248.184
+  author_url: http://damosworld.wordpress.com/2011/03/13/changing-roles-of-higher-educators/
+  content: '[...] Pattern Entrainment as explained by David Jones is: &#8230; the
+    tendency for peoples conceptions to be limited, entrained based on the successes
+    of the past. What has worked for us in the past, becomes the source of all our
+    thinking about the future. [...]'
+  date: '2011-03-13 17:53:48'
+  date_gmt: '2011-03-13 07:53:48'
+  id: '2589'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: University processes - management and planning
   url: /blog/2009/06/08/university-processes-management-and-planning/
+template: blog-post.html
 title: You only get this type of education in class - mythic attributes of the lecture
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Jason
-      author_email: salliesdad@hotmail.com
-      author_ip: 12.228.78.124
-      author_url: http://
-      content: At least one online source I found (http://www.skilluminati.com/Research/entry/the_hidden_flaw_in_ai_research)
-        attributes the Imitation of Nature passage to Jacques Vallee's Forbidden Science
-      date: '2009-06-10 23:51:08'
-      date_gmt: '2009-06-10 13:51:08'
-      id: '2580'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.130
-      author_url: https://djon.es/blog/
-      content: 'G''day Jason,
-    
-    
-        Thanks for that.  I think that might be the link I had, but can''t remember.  I''ve
-        been caught out by Web attributions before so I always like to follow up a bit
-        more before I finalise on attribution.  The <a href="http://www.google.com.au/search?q=definition+of+insanity&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a"
-        rel="nofollow">"definition of insanity" quote</a> and its differing attributions
-        is one example of where I''ve been caught out.
-    
-    
-        David.'
-      date: '2009-06-11 08:39:38'
-      date_gmt: '2009-06-10 22:39:38'
-      id: '2581'
-      parent: '2580'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Snowden
-      author_email: snowded@me.com
-      author_ip: 109.149.50.16
-      author_url: null
-      content: I've got some sympathy with the academic you have labeled as a Luddite
-        here.    I think if the lecture is just content, or as I remember from University
-        an academic reading his book, then other media are possible.   But the best lecturers
-        respond to their audience and make subjects come alive and virtual has limitations
-        there.   We know that human communication is far more than visual and aural stimulation.   So
-        I think its a mix and we need more people who excite students to listen and students
-        who want to listen to something other than information they simply regurgitate
-        for a grade
-      date: '2023-07-28 15:11:17'
-      date_gmt: '2023-07-28 05:11:17'
-      id: '24892'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 132.234.180.2
-      author_url: null
-      content: "Has been interesting to revisit this post. First to cringe a touch at\
-        \ the writing (naive use of the \"luddite\" label) and in times post-COVID. The\
-        \ pandemic's enforced move online and the gradual somewhat stuttering return to\
-        \ \"normal\". \n\nThe hope for more engaging lecturers and more engaged students\
-        \ resonates, but isn't the hand being played at the moment. Massification and\
-        \ the associated focus on employable skills and the like have created a different\
-        \ hand.\n\nAs mentioned above, I think it is possible to \"make subjects come\
-        \ alive\". But it is different, both making it harder/more limited, but also opening\
-        \ up possibilities. For example, almost all of the distance students I taught\
-        \ would never have been able to study if required to be face-to-face. Almost all\
-        \ of the most engaged students I taught, were studying via distance education.\
-        \ Echoes of the second of Postman's 5 things about tech, \"There are always winners\
-        \ and losers in a technological change\". Perhaps also #3.\n\nInterestingly (but\
-        \ not surprisingly) to me is how, even post-COVID with increasing adoption of\
-        \ \"online lectures\" how strongly the mythic nature of the lecture technology\
-        \ remains. How many people still empowered with contemporary digital technology\
-        \ are still stuck with the mindset of a synchronous 1 or 2 hour \"lecture\" as\
-        \ being core to their teaching practice.  They've lost the advantages of \"live\"\
-        \ and yet fail to take full advantage of the \"online\"."
-      date: '2023-08-03 06:07:10'
-      date_gmt: '2023-08-02 20:07:10'
-      id: '24893'
-      parent: '24892'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: "Blog@UOe-L &raquo; Blog Archive &raquo; Mitos em torno da utiliza\xE7\xE3\
-        o de aulas expositivas em sess\xF5es on-line"
-      author_email: null
-      author_ip: 193.136.173.38
-      author_url: http://blogs.ua.pt/bloguoel/?p=304
-      content: "[...] Aqui est\xE1 uma discuss\xE3o sobre a utiliza\xE7\xE3o de aulas\
-        \ expositivas em sess\xF5es on-line. Esta discuss\xE3o indica quando \xE9 aconselh\xE1\
-        vel e quais as formas de abordar o tema. [...]"
-      date: '2009-06-16 21:04:20'
-      date_gmt: '2009-06-16 11:04:20'
-      id: '2582'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Examination focus and what it might tell us about learning and teaching
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/06/19/examination-focus-and-what-it-might-tell-us-about-learning-and-teaching/
-      content: '[...] This has some connections with some work a colleague and I are doing
-        around what history can tell us about e-learning and some ideas I have about experimenting
-        with the assumptions and/or mythic nature underlying lectures. [...]'
-      date: '2009-06-19 10:19:59'
-      date_gmt: '2009-06-19 00:19:59'
-      id: '2583'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Confirmation bias, the Tolstoy Syndrome and pattern entrainment &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.208
-      author_url: https://djon.es/blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
-      content: '[...] pattern entrainment from Dave Snowden; [...]'
-      date: '2009-06-23 10:00:52'
-      date_gmt: '2009-06-23 00:00:52'
-      id: '2584'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Tensegrities &raquo; Blog Archive &raquo; Lectures and online environments
-      author_email: null
-      author_ip: 74.53.3.210
-      author_url: http://www.religioused.org/tensegrities/archives/4522
-      content: '[...] is a long and somewhat rambling post about the challenges and sometime
-        benefits of lectures in distributed [...]'
-      date: '2009-06-25 07:47:49'
-      date_gmt: '2009-06-24 21:47:49'
-      id: '2585'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Alternative to clickers &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.186
-      author_url: https://djon.es/blog/2009/06/30/alternative-to-clickers/
-      content: '[...] to&nbsp;clickers  In a previous post I outlined some broad ideas
-        of how to understand &#8220;lectures&#8221;. At the crux of it was an [...]'
-      date: '2009-06-30 10:36:41'
-      date_gmt: '2009-06-30 00:36:41'
-      id: '2586'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Frames and Context: Toomato or Tomato &laquo; Damo&#8217;s World'
-      author_email: null
-      author_ip: 66.135.48.211
-      author_url: http://damosworld.wordpress.com/2011/02/05/frames-and-context-toomato-or-tomato/
-      content: "[...] on past experience and attitudes.\_ I think people&#8217;s frames\
-        \ also relate to the concept of pattern entrainment as explained quite succinctly\
-        \ by David [...]"
-      date: '2011-02-05 21:03:51'
-      date_gmt: '2011-02-05 11:03:51'
-      id: '2587'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Managing (universities) in an age of complexity &laquo; Damo&#8217;s World
-      author_email: null
-      author_ip: 74.200.247.113
-      author_url: http://damosworld.wordpress.com/2011/03/08/managing-universities-in-an-age-of-complexity/
-      content: "[...] lack of structure, order or control of one&#8217;s circumstances.\_\
-        \ The second reason is founded in pattern entrainment. Let me explain.\_ The philosopher\
-        \ Aristotle postulated &#8220;that to be rational is to be [...]"
-      date: '2011-03-08 22:21:15'
-      date_gmt: '2011-03-08 12:21:15'
-      id: '2588'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Changing Roles of Higher Educators &laquo; Damo&#8217;s World
-      author_email: null
-      author_ip: 76.74.248.184
-      author_url: http://damosworld.wordpress.com/2011/03/13/changing-roles-of-higher-educators/
-      content: '[...] Pattern Entrainment as explained by David Jones is: &#8230; the
-        tendency for peoples conceptions to be limited, entrained based on the successes
-        of the past. What has worked for us in the past, becomes the source of all our
-        thinking about the future. [...]'
-      date: '2011-03-13 17:53:48'
-      date_gmt: '2011-03-13 07:53:48'
-      id: '2589'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 > All the brilliant breakthroughs in modern medicine and in communication technologies have developed via this process. You only get this type of education in class. -- [Professor Tor Hundloe](http://pipl.com/directory/people/Tor/Hundloe)
 

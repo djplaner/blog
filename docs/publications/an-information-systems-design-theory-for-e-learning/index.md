@@ -1,54 +1,52 @@
----
-date: 2008-12-29 14:33:01+10:00
+﻿---
+comments:
+- approved: '1'
+  author: xernest
+  author_email: ernest.calinao146@gmail.com
+  author_ip: 112.202.112.101
+  author_url: null
+  content: hi.. i was surfing the net... when i found your site.. it is very informative
+    .... i've got an idea from ur articles... i'm planning to apply it on my propose
+    system of e-learning for my software engineering subject.. thanks a lot
+  date: '2010-11-29 10:53:46'
+  date_gmt: '2010-11-29 00:53:46'
+  id: '1933'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.222.252.69
+  author_url: https://djon.es/blog/
+  content: Glad it was helpful Ernest.  Good luck with your subject. When you're ready,
+    would love to hear your idea.
+  date: '2010-11-29 11:04:41'
+  date_gmt: '2010-11-29 01:04:41'
+  id: '1934'
+  parent: '1933'
+  type: comment
+  user_id: '1'
+date: 2008-12-29 04:33:01
+pingbacks:
+- approved: '1'
+  author: 'Evaluation of Webfuse course site feature usage: 2006 through 2009 &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/
+  content: '[...] web-based e-learning system that is the basis for my PhD and some
+    description of that is available here. Most of the course sites hosted on Webfuse
+    are not password protected &#8211; you can see the [...]'
+  date: '2009-08-02 13:15:17'
+  date_gmt: '2009-08-02 03:15:17'
+  id: '1932'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: An Information Systems Design Theory for e-Learning
 type: page
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: xernest
-      author_email: ernest.calinao146@gmail.com
-      author_ip: 112.202.112.101
-      author_url: null
-      content: hi.. i was surfing the net... when i found your site.. it is very informative
-        .... i've got an idea from ur articles... i'm planning to apply it on my propose
-        system of e-learning for my software engineering subject.. thanks a lot
-      date: '2010-11-29 10:53:46'
-      date_gmt: '2010-11-29 00:53:46'
-      id: '1933'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.222.252.69
-      author_url: https://djon.es/blog/
-      content: Glad it was helpful Ernest.  Good luck with your subject. When you're ready,
-        would love to hear your idea.
-      date: '2010-11-29 11:04:41'
-      date_gmt: '2010-11-29 01:04:41'
-      id: '1934'
-      parent: '1933'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Evaluation of Webfuse course site feature usage: 2006 through 2009 &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/
-      content: '[...] web-based e-learning system that is the basis for my PhD and some
-        description of that is available here. Most of the course sites hosted on Webfuse
-        are not password protected &#8211; you can see the [...]'
-      date: '2009-08-02 13:15:17'
-      date_gmt: '2009-08-02 03:15:17'
-      id: '1932'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This version of the ISDT is over 6 years old and represents some early thinking. [This 2006 paper](/blog/publications/the-formulation-of-an-isdt-for-e-learning/) offers a slightly updated and different perspective on the ISDT. The most up to date and complete version of the ISDT can be found in my [thesis](/blog/research/phd-thesis/). Look at chapter 5 and the section describing the design theory, ignore most of the early guff in chapter 5.
 
@@ -80,7 +78,7 @@ One example of design research within information systems is the formulation of 
 
 The left-hand side of Figure 1 is a representation of the components of an ISDT as identified by Walls et al (1992). ISDTs are an integrated prescription consisting of a particular class of user requirements (meta-requirements), a type of system solution with distinctive features (meta-design) and a set of effective development practices (design method) (Markus et al., 2002). Each component of an ISDT can be informed by kernel theories, either academic or practitioner theory-in-use (Sarker and Lee, 2002) that enable the formulation of empirically testable predictions about the outcomes of the design theory (Markus et al., 2002). While there are questions about whether or not there are more complete representations for ISDTs (Gregor and Jones, 2003) this work will be based on the representation described by Walls et al (1992) and used by Markus et al (2002).
 
-[![Components of an ISDT an an iterative process for developing an ISDT](images/3146561338_151e15bd19_o.gif)](http://www.flickr.com/photos/david_jones/3146561338/ "Components of an ISDT an an iterative process for developing an ISDT by David T Jones, on Flickr")
+[![Components of an ISDT an an iterative process for developing an ISDT](https://djon.es/assets/blog/publications/an-information-systems-design-theory-for-e-learning/images/3146561338_151e15bd19_o.gif)](http://www.flickr.com/photos/david_jones/3146561338/ "Components of an ISDT an an iterative process for developing an ISDT by David T Jones, on Flickr")
 
 Figure 1: Components of an ISDT (Walls et al, 1992) and an iterative process for developing an ISDT (Markus et al., 2002)
 

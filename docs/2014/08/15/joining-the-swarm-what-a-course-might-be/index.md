@@ -1,112 +1,109 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-08-15 11:24:36+10:00
+comments: []
+date: 2014-08-15 01:24:36
 next:
   text: Catching up on the NGL participation - part B
   url: /blog/2014/08/15/catching-up-on-the-ngl-participation-part-b/
+pingbacks:
+- approved: '1'
+  author: Linking reading/principles to you as teacher, learner and student | An experiment
+    in Networked &amp; Global Learning
+  author_email: null
+  author_ip: 192.0.80.159
+  author_url: http://netgl.wordpress.com/2014/08/15/linking-readingprinciples-to-you-as-teacher-learner-and-student/
+  content: '[&#8230;] just written a post on my blog that attempts to illustrate this.
+    It links a quote from Riel and Polin (2004) and some [&#8230;]'
+  date: '2014-08-15 11:32:08'
+  date_gmt: '2014-08-15 01:32:08'
+  id: '1020'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A proposal for fixing what&#8217;s broken with ed tech support in some universities
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.31
+  author_url: https://davidtjones.wordpress.com/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
+  content: '[&#8230;] system should help capture and make available for on-going use
+    the &#8220;residue of experience&#8221; (Riel &amp; Pollin, 2004) of other members
+    of the community. The discussion, reflections and [&#8230;]'
+  date: '2015-01-22 11:58:02'
+  date_gmt: '2015-01-22 01:58:02'
+  id: '1021'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Framing an open book as situated, social, distributed and protean | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.188
+  author_url: https://davidtjones.wordpress.com/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/
+  content: '[&#8230;] the capturing of annotations (as shown in the blog post [&#8230;]'
+  date: '2015-02-11 10:19:32'
+  date_gmt: '2015-02-11 00:19:32'
+  id: '1022'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Starting the &#8220;Moodle open book&#8221; project | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.82.20
+  author_url: https://davidtjones.wordpress.com/2015/04/13/starting-the-moodle-open-book-project/
+  content: '[&#8230;] not readily made open. It&#8217;s hard to have the collection
+    of books in EDC3100 benefit from the residue of experience of past students. Currently,
+    I attempt to modify the books based on questions and feedback from [&#8230;]'
+  date: '2015-04-13 22:10:09'
+  date_gmt: '2015-04-13 12:10:09'
+  id: '1023'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How NGL can inform my role as teacher | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.86.78
+  author_url: https://davidtjones.wordpress.com/2015/09/07/how-ngl-can-inform-my-role-as-teacher/
+  content: '[&#8230;] aware of. This is only possible because I&#8217;ve developed
+    software to support it; leveraged externally available tools for student learning;
+    and, ignored institutional policy around where courses and their content may [&#8230;]'
+  date: '2015-09-07 12:04:17'
+  date_gmt: '2015-09-07 02:04:17'
+  id: '1024'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Valuing the &#8220;residue of experience&#8221; a bit more &#8211; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.116.34
+  author_url: https://davidtjones.wordpress.com/2016/08/05/valuing-the-residue-of-experience-a-bit-more/
+  content: '[&#8230;] the use of various types of social media (blogs, social bookmarking,
+    feed readers) in my courses. This 2014 post identifies the problem (what happens
+    in a course site, stays and dies in a course site) and how the [&#8230;]'
+  date: '2016-08-05 10:46:35'
+  date_gmt: '2016-08-05 00:46:35'
+  id: '1025'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Strategic plans, theoretical models and just doing it
   url: /blog/2014/08/15/strategic-plans-theoretical-models-and-just-doing-it/
+template: blog-post.html
 title: '"Joining the "swarm": what a course might be?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Linking reading/principles to you as teacher, learner and student | An experiment
-        in Networked &amp; Global Learning
-      author_email: null
-      author_ip: 192.0.80.159
-      author_url: http://netgl.wordpress.com/2014/08/15/linking-readingprinciples-to-you-as-teacher-learner-and-student/
-      content: '[&#8230;] just written a post on my blog that attempts to illustrate this.
-        It links a quote from Riel and Polin (2004) and some [&#8230;]'
-      date: '2014-08-15 11:32:08'
-      date_gmt: '2014-08-15 01:32:08'
-      id: '1020'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A proposal for fixing what&#8217;s broken with ed tech support in some universities
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.31
-      author_url: https://davidtjones.wordpress.com/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
-      content: '[&#8230;] system should help capture and make available for on-going use
-        the &#8220;residue of experience&#8221; (Riel &amp; Pollin, 2004) of other members
-        of the community. The discussion, reflections and [&#8230;]'
-      date: '2015-01-22 11:58:02'
-      date_gmt: '2015-01-22 01:58:02'
-      id: '1021'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Framing an open book as situated, social, distributed and protean | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.188
-      author_url: https://davidtjones.wordpress.com/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/
-      content: '[&#8230;] the capturing of annotations (as shown in the blog post [&#8230;]'
-      date: '2015-02-11 10:19:32'
-      date_gmt: '2015-02-11 00:19:32'
-      id: '1022'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Starting the &#8220;Moodle open book&#8221; project | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.82.20
-      author_url: https://davidtjones.wordpress.com/2015/04/13/starting-the-moodle-open-book-project/
-      content: '[&#8230;] not readily made open. It&#8217;s hard to have the collection
-        of books in EDC3100 benefit from the residue of experience of past students. Currently,
-        I attempt to modify the books based on questions and feedback from [&#8230;]'
-      date: '2015-04-13 22:10:09'
-      date_gmt: '2015-04-13 12:10:09'
-      id: '1023'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How NGL can inform my role as teacher | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.86.78
-      author_url: https://davidtjones.wordpress.com/2015/09/07/how-ngl-can-inform-my-role-as-teacher/
-      content: '[&#8230;] aware of. This is only possible because I&#8217;ve developed
-        software to support it; leveraged externally available tools for student learning;
-        and, ignored institutional policy around where courses and their content may [&#8230;]'
-      date: '2015-09-07 12:04:17'
-      date_gmt: '2015-09-07 02:04:17'
-      id: '1024'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Valuing the &#8220;residue of experience&#8221; a bit more &#8211; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.116.34
-      author_url: https://davidtjones.wordpress.com/2016/08/05/valuing-the-residue-of-experience-a-bit-more/
-      content: '[&#8230;] the use of various types of social media (blogs, social bookmarking,
-        feed readers) in my courses. This 2014 post identifies the problem (what happens
-        in a course site, stays and dies in a course site) and how the [&#8230;]'
-      date: '2016-08-05 10:46:35'
-      date_gmt: '2016-08-05 00:46:35'
-      id: '1025'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Early this week I received an email from a student who took the course [EDC3100, ICT and Pedagogy](http://www.usq.edu.au/course/specification/2014/EDC3100-S2-2014-WEB-TWMBA.html) in 2013. In essence he had remembered a useful bit of information in the course study material and wanted to use it. On the plus side, he still had access to course material but because of [the big flaw](/blog/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/) (the absence of a search engine) in our institution's Moodle implementation he has to manually search through the information to find what he was looking for and didn't have the motivation/time to do so.
 
-[![Morning Dew Residue by GollyGforce - Living My Worst Nightmare, on Flickr](images/5696070516_0075767e5d_m.jpg "Morning Dew Residue by GollyGforce - Living My Worst Nightmare, on Flickr")](https://www.flickr.com/photos/see-through-the-eye-of-g/5696070516/)  
-[![Creative Commons Creative Commons Attribution 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/see-through-the-eye-of-g/)[GollyGforce - Living My Worst Nightmare](https://www.flickr.com/people/see-through-the-eye-of-g/) [](http://www.imagecodr.org/)
+[![Morning Dew Residue by GollyGforce - Living My Worst Nightmare, on Flickr](https://djon.es/assets/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/images/5696070516_0075767e5d_m.jpg "Morning Dew Residue by GollyGforce - Living My Worst Nightmare, on Flickr")](https://www.flickr.com/photos/see-through-the-eye-of-g/5696070516/)  
+[![Creative Commons Creative Commons Attribution 2.0 Generic License](https://djon.es/assets/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/images/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/see-through-the-eye-of-g/)[GollyGforce - Living My Worst Nightmare](https://www.flickr.com/people/see-through-the-eye-of-g/) [](http://www.imagecodr.org/)
 
 ### Evaporating "residue of their experiences"
 
@@ -120,7 +117,7 @@ The problem is that the current course site isn't as rich an environment for lea
 
 For this particular course, there is already a couple of examples where the "residue of experience" hasn't evaporated due to the end of semester migration.
 
-[![The residue of experience by David T Jones, on Flickr](images/14921582865_d27f122e60.jpg "The residue of experience by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/14921582865/)
+[![The residue of experience by David T Jones, on Flickr](https://djon.es/assets/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/images/14921582865_d27f122e60.jpg "The residue of experience by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/14921582865/)
 
 For example, this [blog post](http://speedchange.blogspot.com.au/p/blog-page_2046.html) from @irasocol is used in the first week to help the students think about ICTs as part of their toolbelt. The activity is also used to have them begin experimentation with [course Diigo group](https://groups.diigo.com/group/icts-and-pedagogy/). The image to the right shows the residue of experience available via Diigo in terms of highlights and annotations.
 
@@ -140,7 +137,7 @@ The main limit to this at the moment is that "opening up" of the course site is 
 
 Dron and Anderson (2007) make the distinction between group, network and collective as outlined in the following table.
 
-[![Table 2 - Group, network and collective by David T Jones, on Flickr](images/14921333942_6ca1fd8c97.jpg "Table 2 - Group, network and collective by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/14921333942/)
+[![Table 2 - Group, network and collective by David T Jones, on Flickr](https://djon.es/assets/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/images/14921333942_6ca1fd8c97.jpg "Table 2 - Group, network and collective by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/14921333942/)
 
 It's perhaps possible to suggest that "group" is the predominant label for most existing courses. The current shape of EDC3100 is perhaps moving into (in a very slight way) a network. The aim here is perhaps to move further into the network and add aspects of the collective. Dron and Anderson (2007) suggest
 

@@ -1,640 +1,638 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - missingps
 - paperideas
 - thesis
-date: 2009-01-21 09:16:34+10:00
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: http://
+  content: 'Personally (this is the key word) I''m not sure why Universities are interested
+    in ePortfolios other than perhaps as a service to students. In my current context
+    I perceive two potential advantages of an ePortfolio type tool:
+
+    * An online resume that could be dynamically linked to an institution for potential
+    employers to view.
+
+    * A mechanism to revisit prior learning in order to refresh on previously learned
+    material.'
+  date: '2009-01-21 11:45:04'
+  date_gmt: '2009-01-21 01:45:04'
+  id: '2032'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Col,
+
+
+    It would be interesting to trawl the literature and adoption decisions to find
+    out why ePortfolios have been adopted. I think some of the literature the presentation
+    referenced had done this.
+
+
+    The two advantages you talk about, strike me, as personal applications for the
+    student.  I wonder why a university would provide that service and why a student
+    would use it.
+
+
+    Maybe, 10 years ago when there was nothing online, it might have been of value.
+    But today? When there are multiple services online that can be used to perform
+    this task and are probably much easier to use and more reliable than anything
+    a University can implement.
+
+
+    I wonder if there''s a facebook portfolio application yet?
+
+
+    I guess the one difference is that the portfolio of an institution could link
+    outcomes, assessment and results etc.  But that assumes that the entire organisation
+    effectively designs outcomes and subsequently assessment, marking and feedback
+    that is appropriate....a big leap I think.
+
+
+    David.'
+  date: '2009-01-21 12:31:01'
+  date_gmt: '2009-01-21 02:31:01'
+  id: '2033'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: jocene
+  author_email: j.vallack@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: null
+  content: 'I enjoyed building my art portfolio at High School. There were paintings,
+    and some sandsoap sculptures and an awful thing that the sewing teacher failed.
+    Ten years ago, I saw "e-portfolios" made by Primary School students at Nowa Nowa
+    Primary School. These were created as a product on a cd. Each student had created
+    something that they thought would be appropriate to introduce themselves to next
+    year''s teacher. It looked a bit like our weblogs, with lots of photos.
+
+
+    Anyway, pardon my naivitee, but until I found out about all the e-portfolio products
+    for sale, when I was at ASCILITE, my idea of an e-portfolio was something like
+    that of a personal learning environment. (Now here, of course, I am talking about
+    a PLE as a product, not as a concept, which I think it also is.) Anyone can put
+    together a personalised (modified from a set design) and /or personal (created
+    by me from scratch) environment from which I might want to store e-stuff. I store
+    it in my e-portfolio, perhaps? And I design that anyway I like.
+
+    It sounds like what you dislike is the idea of "personalised" e-portfolios, in
+    which you modify a given structure - like this wordpress model. A "Personal" e-portfolio
+    could use any or none of the Web 2.0 tools, any or none of the pre-designed packages.
+    If this last idea of an e-portfolio is acceptable, we have been using them and
+    will continue to do so.'
+  date: '2009-01-22 12:50:56'
+  date_gmt: '2009-01-22 02:50:56'
+  id: '2034'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: https://djon.es/blog/
+  content: 'G''day Jocene,
+
+
+    Actually, I have no problems with personal e-portfolios. Not my place to comment
+    on what folk do in their own time and for their own purposes.
+
+
+    What I don''t like are all those e-portfolio products you saw at ASCILITE and
+    the people within universities who think it''s a good idea for the university
+    to implement one of those products and then encourage/require most/all academic
+    staff to re-design their courses and assessment to encourage/require students
+    to use the universities e-portfolio system.
+
+
+    I think such an approach is likely not to work (few if any staff will use it,
+    similar for students) and is likely to actually hurt the quality of learning and
+    teaching because such a move will not directly address any of the real problems
+    that are limiting learning and teaching within the individual organisation.  Such
+    an approach assumes that there is a global problem to be solved and the effort
+    taken to implement this solution will take energy away from the staff to implement
+    real improvements.
+
+
+    David.'
+  date: '2009-01-22 13:06:46'
+  date_gmt: '2009-01-22 03:06:46'
+  id: '2035'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: leelearning.co.uk
+  author_email: leedballantyne@hotmail.com
+  author_ip: 88.7.7.211
+  author_url: http://
+  content: 'Hello, interesting post :-)
+
+    I''m just starting a post-grad module (compulsory) on e-portfolios and it''s great
+    to get another point of view. Do you think the issue with e-portfolios is in the
+    definitions? I''ve read some very wordy papers recently with even wordier definitions,
+    most of which I disagree with.
+
+
+    I think that the future will include a specific ''personal web space'' (from Horizon
+    Report 2009), perhaps a convergence of our digital spaces which would result in
+    a deeply personal and lifelong ''e-portfolio''...perhaps when we seem them as
+    something other than a c.v. or personal development plan we might also see the
+    value. After all, what the hell is an e-portfolio anyway?
+
+
+    Have you read any of Helen Barrett''s musings on e-portfolios? http://electronicportfolios.org/
+
+    She''s very passionate which always gets my interest!'
+  date: '2009-11-02 02:35:57'
+  date_gmt: '2009-11-01 16:35:57'
+  id: '2042'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 72.164.184.10
+  author_url: https://djon.es/blog/
+  content: 'Actually, if there''s a problem with definitions with e-portfolios (I
+    don''t follow the literature/discussions) then it might be symptomatic of my problem
+    with e-portfolios.
+
+
+    The "technologists alliance''s" (https://djon.es/blog/2009/08/09/the-chasm/) fetish
+    with products.
+
+
+    e-portfolios are one in a long line of products/fads the alliance get hold of,
+    create a great need for and literature around its use within formal education.  Typical
+    the fad will save learning and education.
+
+
+    Typically the fads don''t engage with the real needs of the teachers (I''m talking
+    in university context) and so they, at best, comply with using them but on the
+    whole ignore them.
+
+
+    I need to work on this some more.  I''m working on a short 5 minute talk for <a
+    href="http://www.educause.edu/E2009" rel="nofollow">EDUCUASE''09</a> that might
+    cover some of this.
+
+
+    Sorry, have to go.
+
+
+    David.'
+  date: '2009-11-02 11:43:15'
+  date_gmt: '2009-11-02 01:43:15'
+  id: '2043'
+  parent: '2042'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: jswann16
+  author_email: jennie.swann@aut.ac.nz
+  author_ip: 203.184.37.12
+  author_url: http://jswann16.wordpress.com
+  content: 'We have found one or two uses for eportfolios: they''re far easier to
+    create and assess than a paper one for industrial placements, or for applying
+    for government registration as a teacher or nurse; they also provide a way of
+    getting technophobic teachers and students (yes, we still have them!) to make
+    a start. That said, I''m not sure a specific eportfolio application is necessary.
+    The argument that students can control which artefacts others see is negated when,
+    as in many cases in my university, the students open the whole thing up to their
+    teacher/supervisor at the start of semester but to no-one else, ever. For formative
+    comments, reflection on learning etc a blog or wiki is probably better.
+
+    Jennie'
+  date: '2011-04-11 06:46:03'
+  date_gmt: '2011-04-10 20:46:03'
+  id: '2045'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: plerudulier
+  author_email: pascal.lerudulier+wordpress@gmail.com
+  author_ip: 91.88.254.216
+  author_url: http://plerudulier.wordpress.com
+  content: Reblogged this on <a href="http://thingsigrab.wordpress.com/2012/09/16/12181/"
+    rel="nofollow">Things I grab, motley collection </a>.
+  date: '2012-09-16 19:16:26'
+  date_gmt: '2012-09-16 09:16:26'
+  id: '2055'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-01-20 23:16:34
 next:
   text: Open source learning management systems - the latest fad in e-learning
   url: /blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/
+pingbacks:
+- approved: '1'
+  author: The Eportfolio Tug-of-war &laquo; Damo&#8217;s World
+  author_email: null
+  author_ip: 72.233.96.152
+  author_url: http://damosworld.wordpress.com/2009/02/24/the-eportfolio-tug-of-war/
+  content: "[...] cautious.\_ In fact, a colleague has highlighted an interesting\
+    \ and related point in his blog post Why am I a ePortfolio Skeptic? He draws attention\
+    \ to the ideas of Geoghegan (based on the work of Moore) where a chasm exists\
+    \ [...]"
+  date: '2009-02-24 12:41:04'
+  date_gmt: '2009-02-24 02:41:04'
+  id: '2036'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
+  content: '[...] Pick people that are likely to be good change agents. Keep in mind
+    Moore&#8217;s chasm and Geohegan&#8217;s identification of the technologists alliance.
+    [...]'
+  date: '2009-03-09 23:02:27'
+  date_gmt: '2009-03-09 13:02:27'
+  id: '2037'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Technology will *not* change the way we teach - an example why we&#8217;re
+    an amnesiac field &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/
+  content: '[...] The topic is e-portfolios. Something of which I am a self-confessed
+    skeptic. [...]'
+  date: '2009-03-19 16:26:45'
+  date_gmt: '2009-03-19 06:26:45'
+  id: '2038'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The fad cycle in learning &amp; teaching - a historical perspective &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
+  content: '[...] of learning technologies (including e-portfolios and open source
+    LMSes), the negative impacts of the technologists alliance, and an attempt to
+    learn from [...]'
+  date: '2009-04-02 14:05:33'
+  date_gmt: '2009-04-02 04:05:33'
+  id: '2039'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: ePortfolios in universities &#8211; forget it? &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/07/26/eportfolios-in-universities-forget-it/
+  content: '[...] in universities &#8211; forget&nbsp;it?  I continue to have a high
+    level of skepticism around the concept of universities investing in ePortfolios.
+    I feel that it is another example of [...]'
+  date: '2009-07-26 09:26:58'
+  date_gmt: '2009-07-25 23:26:58'
+  id: '2040'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Is there value in strategic plans for educational technology &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.31
+  author_url: https://djon.es/blog/2009/10/09/is-there-value-in-strategic-plans-for-educational-technology/
+  content: '[...] Mainly because it aligns with some of my views. [...]'
+  date: '2009-10-09 09:07:55'
+  date_gmt: '2009-10-08 23:07:55'
+  id: '2041'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Some waffle on ePortfolios &laquo; Col&#039;s Weblog
+  author_email: null
+  author_ip: 74.200.247.110
+  author_url: http://beerc.wordpress.com/2010/10/28/some-waffle-on-eportfolios/
+  content: '[...] rushing to adopt an ePortfolio solution. Some of my concerns align
+    with what David has said on his blog although I am not so scathing of their use
+    in our particular case as I think they probably do have [...]'
+  date: '2010-10-28 22:32:17'
+  date_gmt: '2010-10-28 12:32:17'
+  id: '2044'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | SteveB's Social Learning Scoop | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/steveb-s-social-learning-scoop/p/2164183145/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
+    I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
+    Another fad that will take attention away from act...&nbsp; [...]'
+  date: '2012-07-15 16:08:59'
+  date_gmt: '2012-07-15 06:08:59'
+  id: '2046'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | PLE's- what role for HE? | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/ple-s-what-role-for-he/p/2185118874/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
+    I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
+    Another fad that will take attention away from act... &nbsp; &quot;This is not
+    to suggest the elgg or e-portfolios are a bad idea, there is some value in them.&quot;&nbsp;
+    [...]'
+  date: '2012-07-17 15:54:07'
+  date_gmt: '2012-07-17 05:54:07'
+  id: '2047'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | Digital Delights | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/digital-delights/p/2700807061/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
+    I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
+    Another fad that will take attention away from act...&nbsp; [...]'
+  date: '2012-09-16 12:26:40'
+  date_gmt: '2012-09-16 02:26:40'
+  id: '2048'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | Leadership Think Tank | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/leadership-think-tank/p/2701358357/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
+    I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
+    Another fad that will take attention away from act...&nbsp; [...]'
+  date: '2012-09-16 14:47:18'
+  date_gmt: '2012-09-16 04:47:18'
+  id: '2049'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | ICT Integration | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/ict-integration/p/2701725137/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
+    I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
+    Another fad that will take attention away from act...&nbsp; [...]'
+  date: '2012-09-16 16:02:45'
+  date_gmt: '2012-09-16 06:02:45'
+  id: '2050'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | Ideias | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/ideias/p/2701830281/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
+    I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
+    Another fad that will take attention away from act...&nbsp; [...]'
+  date: '2012-09-16 17:04:32'
+  date_gmt: '2012-09-16 07:04:32'
+  id: '2051'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | e-portfolios | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-portfolios/p/2702164383/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
+    I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
+    Another fad that will take attention away from act...&nbsp; [...]'
+  date: '2012-09-16 17:57:15'
+  date_gmt: '2012-09-16 07:57:15'
+  id: '2052'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | Pedagogia Infomacional | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/pedagogia-infomacional/p/2702655501/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
+    I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
+    Another fad that will take attention away from act...&nbsp; [...]'
+  date: '2012-09-16 19:13:37'
+  date_gmt: '2012-09-16 09:13:37'
+  id: '2054'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | Educational resources | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educational-resources-1/p/2703718173/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
+    I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
+    Another fad that will take attention away from act...&nbsp; [...]'
+  date: '2012-09-16 22:16:27'
+  date_gmt: '2012-09-16 12:16:27'
+  id: '2056'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | Moderating-Facilitating elearning
+    | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/facilitating-online-learning/p/2703912365/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: It&rsquo;s not just eportfolios 16 September, 2012 &ndash;
+    for some reason today has seen a fair bit of interest in this post from over 3
+    years ago. I though I&rsquo;d take the opportunity ... (Why am I a ePortfolio
+    skeptic?&nbsp; [...]'
+  date: '2012-09-17 02:09:43'
+  date_gmt: '2012-09-16 16:09:43'
+  id: '2057'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Why am I a ePortfolio\_skeptic? &laquo; Performance by Design"
+  author_email: null
+  author_ip: 72.232.112.10
+  author_url: http://learningandeducationnewsnetwork.wordpress.com/2012/09/16/why-am-i-a-eportfolio-skeptic/
+  content: '[...] on davidtjones.wordpress.com Share this:TwitterFacebookLinkedInEmailTumblrDiggStumbleUponRedditPinterestLike
+    this:LikeBe the [...]'
+  date: '2012-09-17 02:09:44'
+  date_gmt: '2012-09-16 16:09:44'
+  id: '2058'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | Educational Technology in Higher Education
+    | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educational-technology-in-higher-education/p/2707629263/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: It&rsquo;s not just eportfolios 16 September, 2012 &ndash;
+    for some reason today has seen a fair bit of interest in this post from over 3
+    years ago. I though I&rsquo;d take the opportunity ...&nbsp; [...]'
+  date: '2012-09-17 09:48:48'
+  date_gmt: '2012-09-16 23:48:48'
+  id: '2059'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | Rubrics, Assessment and eProctoring
+    in Higher Education | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/rubrics-assessment-and-eproctoring-in-higher-education/p/2708507618/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: It&rsquo;s not just eportfolios 16 September, 2012 &ndash;
+    for some reason today has seen a fair bit of interest in this post from over 3
+    years ago. I though I&rsquo;d take the opportunity ... &nbsp; &quot;In the typical
+    e-portfolio product there is an assumption that the students&rsquo; only place
+    for learning is the host institution. It ignores the observation that students
+    attend multiple learning institutions (including work-place training) and it ignores
+    that most learning is informal. In other words, an institution that plays a very
+    small part in the learning of a student expects the student to place all of their
+    &ldquo;demonstrates, resources and accomplishments&rdquo; onto the institution&rsquo;s
+    server.&quot; &nbsp; &quot;The types of support and encouragement you give to
+    the early adopters has to be radically different than that you give to the mainstream.
+    Time and time again, I have heard senior university folk express the opinion &ldquo;We&rsquo;ll
+    concentrate on the people that are keen&rdquo;. This perspective only entrenches
+    this gap, it only makes certain that the mainstream won&rsquo;t engage. It&rsquo;s
+    a mistake.&quot;&nbsp; [...]'
+  date: '2012-09-17 12:33:55'
+  date_gmt: '2012-09-17 02:33:55'
+  id: '2060'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Why am I a ePortfolio\_skeptic? | Flexibility Enables Learning"
+  author_email: null
+  author_ip: 74.200.244.74
+  author_url: http://flexilearn.wordpress.com/2012/09/17/why-am-i-a-eportfolio-skeptic/
+  content: '[...] on davidtjones.wordpress.com Like this:LikeBe the first to like
+    this.   PermalinkLeave a [...]'
+  date: '2012-09-17 12:35:18'
+  date_gmt: '2012-09-17 02:35:18'
+  id: '2061'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | E-learning arts | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-arts/p/2709279554/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: It&rsquo;s not just eportfolios 16 September, 2012 &ndash;
+    for some reason today has seen a fair bit of interest in this post from over 3
+    years ago. I though I&rsquo;d take the opportunity ...&nbsp; [...]'
+  date: '2012-09-17 15:10:08'
+  date_gmt: '2012-09-17 05:10:08'
+  id: '2062'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | iEduc | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/ieduc/p/2710349828/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
+    I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
+    Another fad that will take attention away from act...&nbsp; [...]'
+  date: '2012-09-17 18:05:56'
+  date_gmt: '2012-09-17 08:05:56'
+  id: '2063'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio&nbsp;skeptic? | Online Content | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/online-content/p/2976729553/why-am-i-a-eportfolio-skeptic
+  content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
+    I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
+    Another fad that will take attention away from act...&nbsp; [...]'
+  date: '2012-10-14 23:28:02'
+  date_gmt: '2012-10-14 13:28:02'
+  id: '2065'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A story about the failure of institutional eportfolios | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.82.33
+  author_url: https://djon.es/blog/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/
+  content: '[&#8230;] chosen eportfolio systems like Mahara, PebblePad etc. Back in
+    January 2009 I expressed my first disquiet with eportfolios in terms of how institutions
+    approach innovation around e-learning. i.e. Ohh, [&#8230;]'
+  date: '2014-02-27 10:40:02'
+  date_gmt: '2014-02-27 00:40:02'
+  id: '2066'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Me as a teacher | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 209.15.21.75
+  author_url: https://djon.es/blog/2014/07/27/me-as-a-teacher/
+  content: '[&#8230;] have long been and continue to be an eportfolio skeptic. I&#8217;m
+    not skeptical of the idea of it being important for students to use some form
+    of [&#8230;]'
+  date: '2014-07-27 11:41:23'
+  date_gmt: '2014-07-27 01:41:23'
+  id: '2067'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
   url: /blog/2009/01/18/is-all-diversity-goodbad-a-taxonomy-of-diversity-in-the-is-discipline/
 tags:
 - eportfolio-e-portfolio-psframework-elearning-e-learning
+template: blog-post.html
 title: Why am I a ePortfolio skeptic?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: http://
-      content: 'Personally (this is the key word) I''m not sure why Universities are interested
-        in ePortfolios other than perhaps as a service to students. In my current context
-        I perceive two potential advantages of an ePortfolio type tool:
-    
-        * An online resume that could be dynamically linked to an institution for potential
-        employers to view.
-    
-        * A mechanism to revisit prior learning in order to refresh on previously learned
-        material.'
-      date: '2009-01-21 11:45:04'
-      date_gmt: '2009-01-21 01:45:04'
-      id: '2032'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Col,
-    
-    
-        It would be interesting to trawl the literature and adoption decisions to find
-        out why ePortfolios have been adopted. I think some of the literature the presentation
-        referenced had done this.
-    
-    
-        The two advantages you talk about, strike me, as personal applications for the
-        student.  I wonder why a university would provide that service and why a student
-        would use it.
-    
-    
-        Maybe, 10 years ago when there was nothing online, it might have been of value.
-        But today? When there are multiple services online that can be used to perform
-        this task and are probably much easier to use and more reliable than anything
-        a University can implement.
-    
-    
-        I wonder if there''s a facebook portfolio application yet?
-    
-    
-        I guess the one difference is that the portfolio of an institution could link
-        outcomes, assessment and results etc.  But that assumes that the entire organisation
-        effectively designs outcomes and subsequently assessment, marking and feedback
-        that is appropriate....a big leap I think.
-    
-    
-        David.'
-      date: '2009-01-21 12:31:01'
-      date_gmt: '2009-01-21 02:31:01'
-      id: '2033'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: jocene
-      author_email: j.vallack@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: null
-      content: 'I enjoyed building my art portfolio at High School. There were paintings,
-        and some sandsoap sculptures and an awful thing that the sewing teacher failed.
-        Ten years ago, I saw "e-portfolios" made by Primary School students at Nowa Nowa
-        Primary School. These were created as a product on a cd. Each student had created
-        something that they thought would be appropriate to introduce themselves to next
-        year''s teacher. It looked a bit like our weblogs, with lots of photos.
-    
-    
-        Anyway, pardon my naivitee, but until I found out about all the e-portfolio products
-        for sale, when I was at ASCILITE, my idea of an e-portfolio was something like
-        that of a personal learning environment. (Now here, of course, I am talking about
-        a PLE as a product, not as a concept, which I think it also is.) Anyone can put
-        together a personalised (modified from a set design) and /or personal (created
-        by me from scratch) environment from which I might want to store e-stuff. I store
-        it in my e-portfolio, perhaps? And I design that anyway I like.
-    
-        It sounds like what you dislike is the idea of "personalised" e-portfolios, in
-        which you modify a given structure - like this wordpress model. A "Personal" e-portfolio
-        could use any or none of the Web 2.0 tools, any or none of the pre-designed packages.
-        If this last idea of an e-portfolio is acceptable, we have been using them and
-        will continue to do so.'
-      date: '2009-01-22 12:50:56'
-      date_gmt: '2009-01-22 02:50:56'
-      id: '2034'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: https://djon.es/blog/
-      content: 'G''day Jocene,
-    
-    
-        Actually, I have no problems with personal e-portfolios. Not my place to comment
-        on what folk do in their own time and for their own purposes.
-    
-    
-        What I don''t like are all those e-portfolio products you saw at ASCILITE and
-        the people within universities who think it''s a good idea for the university
-        to implement one of those products and then encourage/require most/all academic
-        staff to re-design their courses and assessment to encourage/require students
-        to use the universities e-portfolio system.
-    
-    
-        I think such an approach is likely not to work (few if any staff will use it,
-        similar for students) and is likely to actually hurt the quality of learning and
-        teaching because such a move will not directly address any of the real problems
-        that are limiting learning and teaching within the individual organisation.  Such
-        an approach assumes that there is a global problem to be solved and the effort
-        taken to implement this solution will take energy away from the staff to implement
-        real improvements.
-    
-    
-        David.'
-      date: '2009-01-22 13:06:46'
-      date_gmt: '2009-01-22 03:06:46'
-      id: '2035'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: leelearning.co.uk
-      author_email: leedballantyne@hotmail.com
-      author_ip: 88.7.7.211
-      author_url: http://
-      content: 'Hello, interesting post :-)
-    
-        I''m just starting a post-grad module (compulsory) on e-portfolios and it''s great
-        to get another point of view. Do you think the issue with e-portfolios is in the
-        definitions? I''ve read some very wordy papers recently with even wordier definitions,
-        most of which I disagree with.
-    
-    
-        I think that the future will include a specific ''personal web space'' (from Horizon
-        Report 2009), perhaps a convergence of our digital spaces which would result in
-        a deeply personal and lifelong ''e-portfolio''...perhaps when we seem them as
-        something other than a c.v. or personal development plan we might also see the
-        value. After all, what the hell is an e-portfolio anyway?
-    
-    
-        Have you read any of Helen Barrett''s musings on e-portfolios? http://electronicportfolios.org/
-    
-        She''s very passionate which always gets my interest!'
-      date: '2009-11-02 02:35:57'
-      date_gmt: '2009-11-01 16:35:57'
-      id: '2042'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 72.164.184.10
-      author_url: https://djon.es/blog/
-      content: 'Actually, if there''s a problem with definitions with e-portfolios (I
-        don''t follow the literature/discussions) then it might be symptomatic of my problem
-        with e-portfolios.
-    
-    
-        The "technologists alliance''s" (https://djon.es/blog/2009/08/09/the-chasm/) fetish
-        with products.
-    
-    
-        e-portfolios are one in a long line of products/fads the alliance get hold of,
-        create a great need for and literature around its use within formal education.  Typical
-        the fad will save learning and education.
-    
-    
-        Typically the fads don''t engage with the real needs of the teachers (I''m talking
-        in university context) and so they, at best, comply with using them but on the
-        whole ignore them.
-    
-    
-        I need to work on this some more.  I''m working on a short 5 minute talk for <a
-        href="http://www.educause.edu/E2009" rel="nofollow">EDUCUASE''09</a> that might
-        cover some of this.
-    
-    
-        Sorry, have to go.
-    
-    
-        David.'
-      date: '2009-11-02 11:43:15'
-      date_gmt: '2009-11-02 01:43:15'
-      id: '2043'
-      parent: '2042'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: jswann16
-      author_email: jennie.swann@aut.ac.nz
-      author_ip: 203.184.37.12
-      author_url: http://jswann16.wordpress.com
-      content: 'We have found one or two uses for eportfolios: they''re far easier to
-        create and assess than a paper one for industrial placements, or for applying
-        for government registration as a teacher or nurse; they also provide a way of
-        getting technophobic teachers and students (yes, we still have them!) to make
-        a start. That said, I''m not sure a specific eportfolio application is necessary.
-        The argument that students can control which artefacts others see is negated when,
-        as in many cases in my university, the students open the whole thing up to their
-        teacher/supervisor at the start of semester but to no-one else, ever. For formative
-        comments, reflection on learning etc a blog or wiki is probably better.
-    
-        Jennie'
-      date: '2011-04-11 06:46:03'
-      date_gmt: '2011-04-10 20:46:03'
-      id: '2045'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: plerudulier
-      author_email: pascal.lerudulier+wordpress@gmail.com
-      author_ip: 91.88.254.216
-      author_url: http://plerudulier.wordpress.com
-      content: Reblogged this on <a href="http://thingsigrab.wordpress.com/2012/09/16/12181/"
-        rel="nofollow">Things I grab, motley collection </a>.
-      date: '2012-09-16 19:16:26'
-      date_gmt: '2012-09-16 09:16:26'
-      id: '2055'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: The Eportfolio Tug-of-war &laquo; Damo&#8217;s World
-      author_email: null
-      author_ip: 72.233.96.152
-      author_url: http://damosworld.wordpress.com/2009/02/24/the-eportfolio-tug-of-war/
-      content: "[...] cautious.\_ In fact, a colleague has highlighted an interesting\
-        \ and related point in his blog post Why am I a ePortfolio Skeptic? He draws attention\
-        \ to the ideas of Geoghegan (based on the work of Moore) where a chasm exists\
-        \ [...]"
-      date: '2009-02-24 12:41:04'
-      date_gmt: '2009-02-24 02:41:04'
-      id: '2036'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
-      content: '[...] Pick people that are likely to be good change agents. Keep in mind
-        Moore&#8217;s chasm and Geohegan&#8217;s identification of the technologists alliance.
-        [...]'
-      date: '2009-03-09 23:02:27'
-      date_gmt: '2009-03-09 13:02:27'
-      id: '2037'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Technology will *not* change the way we teach - an example why we&#8217;re
-        an amnesiac field &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/
-      content: '[...] The topic is e-portfolios. Something of which I am a self-confessed
-        skeptic. [...]'
-      date: '2009-03-19 16:26:45'
-      date_gmt: '2009-03-19 06:26:45'
-      id: '2038'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The fad cycle in learning &amp; teaching - a historical perspective &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
-      content: '[...] of learning technologies (including e-portfolios and open source
-        LMSes), the negative impacts of the technologists alliance, and an attempt to
-        learn from [...]'
-      date: '2009-04-02 14:05:33'
-      date_gmt: '2009-04-02 04:05:33'
-      id: '2039'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: ePortfolios in universities &#8211; forget it? &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/07/26/eportfolios-in-universities-forget-it/
-      content: '[...] in universities &#8211; forget&nbsp;it?  I continue to have a high
-        level of skepticism around the concept of universities investing in ePortfolios.
-        I feel that it is another example of [...]'
-      date: '2009-07-26 09:26:58'
-      date_gmt: '2009-07-25 23:26:58'
-      id: '2040'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Is there value in strategic plans for educational technology &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.31
-      author_url: https://djon.es/blog/2009/10/09/is-there-value-in-strategic-plans-for-educational-technology/
-      content: '[...] Mainly because it aligns with some of my views. [...]'
-      date: '2009-10-09 09:07:55'
-      date_gmt: '2009-10-08 23:07:55'
-      id: '2041'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Some waffle on ePortfolios &laquo; Col&#039;s Weblog
-      author_email: null
-      author_ip: 74.200.247.110
-      author_url: http://beerc.wordpress.com/2010/10/28/some-waffle-on-eportfolios/
-      content: '[...] rushing to adopt an ePortfolio solution. Some of my concerns align
-        with what David has said on his blog although I am not so scathing of their use
-        in our particular case as I think they probably do have [...]'
-      date: '2010-10-28 22:32:17'
-      date_gmt: '2010-10-28 12:32:17'
-      id: '2044'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | SteveB's Social Learning Scoop | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/steveb-s-social-learning-scoop/p/2164183145/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
-        I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
-        Another fad that will take attention away from act...&nbsp; [...]'
-      date: '2012-07-15 16:08:59'
-      date_gmt: '2012-07-15 06:08:59'
-      id: '2046'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | PLE's- what role for HE? | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/ple-s-what-role-for-he/p/2185118874/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
-        I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
-        Another fad that will take attention away from act... &nbsp; &quot;This is not
-        to suggest the elgg or e-portfolios are a bad idea, there is some value in them.&quot;&nbsp;
-        [...]'
-      date: '2012-07-17 15:54:07'
-      date_gmt: '2012-07-17 05:54:07'
-      id: '2047'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | Digital Delights | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/digital-delights/p/2700807061/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
-        I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
-        Another fad that will take attention away from act...&nbsp; [...]'
-      date: '2012-09-16 12:26:40'
-      date_gmt: '2012-09-16 02:26:40'
-      id: '2048'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | Leadership Think Tank | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/leadership-think-tank/p/2701358357/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
-        I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
-        Another fad that will take attention away from act...&nbsp; [...]'
-      date: '2012-09-16 14:47:18'
-      date_gmt: '2012-09-16 04:47:18'
-      id: '2049'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | ICT Integration | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/ict-integration/p/2701725137/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
-        I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
-        Another fad that will take attention away from act...&nbsp; [...]'
-      date: '2012-09-16 16:02:45'
-      date_gmt: '2012-09-16 06:02:45'
-      id: '2050'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | Ideias | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/ideias/p/2701830281/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
-        I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
-        Another fad that will take attention away from act...&nbsp; [...]'
-      date: '2012-09-16 17:04:32'
-      date_gmt: '2012-09-16 07:04:32'
-      id: '2051'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | e-portfolios | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-portfolios/p/2702164383/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
-        I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
-        Another fad that will take attention away from act...&nbsp; [...]'
-      date: '2012-09-16 17:57:15'
-      date_gmt: '2012-09-16 07:57:15'
-      id: '2052'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | Pedagogia Infomacional | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/pedagogia-infomacional/p/2702655501/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
-        I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
-        Another fad that will take attention away from act...&nbsp; [...]'
-      date: '2012-09-16 19:13:37'
-      date_gmt: '2012-09-16 09:13:37'
-      id: '2054'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | Educational resources | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educational-resources-1/p/2703718173/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
-        I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
-        Another fad that will take attention away from act...&nbsp; [...]'
-      date: '2012-09-16 22:16:27'
-      date_gmt: '2012-09-16 12:16:27'
-      id: '2056'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | Moderating-Facilitating elearning
-        | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/facilitating-online-learning/p/2703912365/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: It&rsquo;s not just eportfolios 16 September, 2012 &ndash;
-        for some reason today has seen a fair bit of interest in this post from over 3
-        years ago. I though I&rsquo;d take the opportunity ... (Why am I a ePortfolio
-        skeptic?&nbsp; [...]'
-      date: '2012-09-17 02:09:43'
-      date_gmt: '2012-09-16 16:09:43'
-      id: '2057'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Why am I a ePortfolio\_skeptic? &laquo; Performance by Design"
-      author_email: null
-      author_ip: 72.232.112.10
-      author_url: http://learningandeducationnewsnetwork.wordpress.com/2012/09/16/why-am-i-a-eportfolio-skeptic/
-      content: '[...] on davidtjones.wordpress.com Share this:TwitterFacebookLinkedInEmailTumblrDiggStumbleUponRedditPinterestLike
-        this:LikeBe the [...]'
-      date: '2012-09-17 02:09:44'
-      date_gmt: '2012-09-16 16:09:44'
-      id: '2058'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | Educational Technology in Higher Education
-        | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educational-technology-in-higher-education/p/2707629263/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: It&rsquo;s not just eportfolios 16 September, 2012 &ndash;
-        for some reason today has seen a fair bit of interest in this post from over 3
-        years ago. I though I&rsquo;d take the opportunity ...&nbsp; [...]'
-      date: '2012-09-17 09:48:48'
-      date_gmt: '2012-09-16 23:48:48'
-      id: '2059'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | Rubrics, Assessment and eProctoring
-        in Higher Education | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/rubrics-assessment-and-eproctoring-in-higher-education/p/2708507618/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: It&rsquo;s not just eportfolios 16 September, 2012 &ndash;
-        for some reason today has seen a fair bit of interest in this post from over 3
-        years ago. I though I&rsquo;d take the opportunity ... &nbsp; &quot;In the typical
-        e-portfolio product there is an assumption that the students&rsquo; only place
-        for learning is the host institution. It ignores the observation that students
-        attend multiple learning institutions (including work-place training) and it ignores
-        that most learning is informal. In other words, an institution that plays a very
-        small part in the learning of a student expects the student to place all of their
-        &ldquo;demonstrates, resources and accomplishments&rdquo; onto the institution&rsquo;s
-        server.&quot; &nbsp; &quot;The types of support and encouragement you give to
-        the early adopters has to be radically different than that you give to the mainstream.
-        Time and time again, I have heard senior university folk express the opinion &ldquo;We&rsquo;ll
-        concentrate on the people that are keen&rdquo;. This perspective only entrenches
-        this gap, it only makes certain that the mainstream won&rsquo;t engage. It&rsquo;s
-        a mistake.&quot;&nbsp; [...]'
-      date: '2012-09-17 12:33:55'
-      date_gmt: '2012-09-17 02:33:55'
-      id: '2060'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Why am I a ePortfolio\_skeptic? | Flexibility Enables Learning"
-      author_email: null
-      author_ip: 74.200.244.74
-      author_url: http://flexilearn.wordpress.com/2012/09/17/why-am-i-a-eportfolio-skeptic/
-      content: '[...] on davidtjones.wordpress.com Like this:LikeBe the first to like
-        this.   PermalinkLeave a [...]'
-      date: '2012-09-17 12:35:18'
-      date_gmt: '2012-09-17 02:35:18'
-      id: '2061'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | E-learning arts | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-arts/p/2709279554/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: It&rsquo;s not just eportfolios 16 September, 2012 &ndash;
-        for some reason today has seen a fair bit of interest in this post from over 3
-        years ago. I though I&rsquo;d take the opportunity ...&nbsp; [...]'
-      date: '2012-09-17 15:10:08'
-      date_gmt: '2012-09-17 05:10:08'
-      id: '2062'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | iEduc | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/ieduc/p/2710349828/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
-        I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
-        Another fad that will take attention away from act...&nbsp; [...]'
-      date: '2012-09-17 18:05:56'
-      date_gmt: '2012-09-17 08:05:56'
-      id: '2063'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio&nbsp;skeptic? | Online Content | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/online-content/p/2976729553/why-am-i-a-eportfolio-skeptic
-      content: '[...] Update: Donald Clark has 7 reasons why he doesn&rsquo;t want one.
-        I am a skeptic when it comes to ePortfolios. I believe they are a waste of time.
-        Another fad that will take attention away from act...&nbsp; [...]'
-      date: '2012-10-14 23:28:02'
-      date_gmt: '2012-10-14 13:28:02'
-      id: '2065'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A story about the failure of institutional eportfolios | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.82.33
-      author_url: https://djon.es/blog/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/
-      content: '[&#8230;] chosen eportfolio systems like Mahara, PebblePad etc. Back in
-        January 2009 I expressed my first disquiet with eportfolios in terms of how institutions
-        approach innovation around e-learning. i.e. Ohh, [&#8230;]'
-      date: '2014-02-27 10:40:02'
-      date_gmt: '2014-02-27 00:40:02'
-      id: '2066'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Me as a teacher | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 209.15.21.75
-      author_url: https://djon.es/blog/2014/07/27/me-as-a-teacher/
-      content: '[&#8230;] have long been and continue to be an eportfolio skeptic. I&#8217;m
-        not skeptical of the idea of it being important for students to use some form
-        of [&#8230;]'
-      date: '2014-07-27 11:41:23'
-      date_gmt: '2014-07-27 01:41:23'
-      id: '2067'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 ### Update: It's not just eportfolios
 
@@ -710,7 +708,7 @@ Geoghegan (1994) continued to say
 
 Geoghegan works with [Geoffrey Moore's concept of a chasm](http://en.wikipedia.org/wiki/Crossing_the_Chasm) that exists between the early adopters of a product (the enthusiasts and visonaries) and the early majority (the pragmatists). Represented something like this.
 
-![The diffusion curve with the chasm](images/Revised_technical_adoption_cycle.png)
+![The diffusion curve with the chasm](https://djon.es/assets/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/images/Revised_technical_adoption_cycle.png)
 
 **Figure 1 - [Revised technical adoption cycle](http://en.wikipedia.org/wiki/File:Revised_technical_adoption_cycle.png)**
 

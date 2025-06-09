@@ -1,112 +1,110 @@
----
+﻿---
 categories:
 - moodle
 - moodleopenbook
-date: 2015-08-13 16:22:42+10:00
+comments:
+- approved: '1'
+  author: Tim Klapdor
+  author_email: tim.klapdor@gmail.com
+  author_ip: 137.166.105.218
+  author_url: http://timklapdor.wordpress.com
+  content: 'This is a really interesting project you''re working on - lots to absorb
+    in terms of the workflow and technology and how the two interact. Over the last
+    couple of weeks I''ve been playing around with Static Site generation via GitHub
+    and Jekyll and I think there''s some techniques that could be co-opted into your
+    work. The Jekyll workflow is quite interesting as it separates site design from
+    the content and writing process itself. Templating is done via HTML and Liquid
+    templates and content is handled by something simple like markdown. Each chapter
+    (or post depending on your output) is a separate text file and media can also
+    be stored and linked to. Once you have your content and template set up you "build"
+    with Jekyll which merges the two together. When paired with GitHub this build
+    is automated, so that when there''s a new commit it triggers a build. In this
+    way you can create a "dynamic" site but without the need of a database. My site
+    www.inhal.es works this way and runs off GitHub pages with a domain pointing to
+    it. Would be interesting to see if this kind of workflow/content could be incorporated
+    into an LMS as it would be a fantastic workaround for a lot of issues.
+
+
+    One thing you might want to check out is prose.io - which is a fronted editing/posting
+    tool for GitHub. I haven''t had a chance to set it all properly but it''s a single
+    page web app that just uses HTML5, javascript and the GitHub API to allow you
+    to directly edit, add and upload new content. Editing in Moodle could perhaps
+    point to something like prose.io or use similar API calls to make commits to the
+    source.
+
+
+    Really interested to see where this goes!'
+  date: '2015-08-14 10:02:39'
+  date_gmt: '2015-08-14 00:02:39'
+  id: '1370'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 101.179.64.28
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the various pointers. Will follow up.  I''m spending much of
+    today making some initial forays in implementation.  You''re right about it being
+    complex, especially when you consider the broader workflow implications.  I''m
+    a simple guy, so I''m going to start with bricolage. i.e. scratch my own itch
+    using the bare minimum possible.  But hopefully in such a way that more complex
+    things can emerge as required.
+
+
+    Hence my current thinking is based on my current workflow<ol> <li> Create new/major
+    edits of existing "books" by editing HTML files (I use vim).<p>Based on my current
+    needs, I''m not a fan of Markdown. Currently don''t have a driving need to learn
+    another markup language. (A very simple form of) HTML is second nature to me.
+    Would take a long time for another markup language to achieve that, time I don''t
+    have </p> </li> <li> Import them into the Book module.</li> <li> Maintain them
+    there during term.<p>Changes in response to student feedback and experience.</p>
+    </li> <li> At the end of semester, the content is rolled over to the next site.<p>Moodle
+    does a very nice job of maintaining connections between content and activities.
+    My content has links to numerous Moodle activities. Much of the content is a)
+    set the context, b) explain the activity, c) go do the activity.</p> </li> <li>
+    For major changes, export a single HTML file and return to step 1. </li> </ol>
+
+
+    Github, I hope, will allow me to avoid some of the manual import/export steps
+    and also allow me to maintain another repository for the changes I make via vim.
+
+
+    At the same time, I''m hoping it will allow others to make use of the content.  Will
+    see how that all goes, part of the fun of emergence.'
+  date: '2015-08-14 11:03:00'
+  date_gmt: '2015-08-14 01:03:00'
+  id: '1371'
+  parent: '1370'
+  type: comment
+  user_id: '1'
+date: 2015-08-13 06:22:42
 next:
   text: '"Homogeneity: the inevitable result of a strategic approach?"'
   url: /blog/2015/08/14/homogeneity-the-inevitable-result-of-a-strategic-approach/
+pingbacks:
+- approved: '1'
+  author: Bringing github and the Moodle book module together &#8211; step 1 | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.14
+  author_url: https://davidtjones.wordpress.com/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/
+  content: '[&#8230;] following is the first step in actually implementing some of
+    the ideas outlined in an earlier post about bringing  and the Moodle Book module
+    together. The major steps covered here [&#8230;]'
+  date: '2015-08-14 17:36:46'
+  date_gmt: '2015-08-14 07:36:46'
+  id: '1372'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: ICT knowledge and quizzes
   url: /blog/2015/08/13/ict-knowledge-and-quizzes/
+template: blog-post.html
 title: How might github and the Moodle book module work together
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Tim Klapdor
-      author_email: tim.klapdor@gmail.com
-      author_ip: 137.166.105.218
-      author_url: http://timklapdor.wordpress.com
-      content: 'This is a really interesting project you''re working on - lots to absorb
-        in terms of the workflow and technology and how the two interact. Over the last
-        couple of weeks I''ve been playing around with Static Site generation via GitHub
-        and Jekyll and I think there''s some techniques that could be co-opted into your
-        work. The Jekyll workflow is quite interesting as it separates site design from
-        the content and writing process itself. Templating is done via HTML and Liquid
-        templates and content is handled by something simple like markdown. Each chapter
-        (or post depending on your output) is a separate text file and media can also
-        be stored and linked to. Once you have your content and template set up you "build"
-        with Jekyll which merges the two together. When paired with GitHub this build
-        is automated, so that when there''s a new commit it triggers a build. In this
-        way you can create a "dynamic" site but without the need of a database. My site
-        www.inhal.es works this way and runs off GitHub pages with a domain pointing to
-        it. Would be interesting to see if this kind of workflow/content could be incorporated
-        into an LMS as it would be a fantastic workaround for a lot of issues.
-    
-    
-        One thing you might want to check out is prose.io - which is a fronted editing/posting
-        tool for GitHub. I haven''t had a chance to set it all properly but it''s a single
-        page web app that just uses HTML5, javascript and the GitHub API to allow you
-        to directly edit, add and upload new content. Editing in Moodle could perhaps
-        point to something like prose.io or use similar API calls to make commits to the
-        source.
-    
-    
-        Really interested to see where this goes!'
-      date: '2015-08-14 10:02:39'
-      date_gmt: '2015-08-14 00:02:39'
-      id: '1370'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 101.179.64.28
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the various pointers. Will follow up.  I''m spending much of
-        today making some initial forays in implementation.  You''re right about it being
-        complex, especially when you consider the broader workflow implications.  I''m
-        a simple guy, so I''m going to start with bricolage. i.e. scratch my own itch
-        using the bare minimum possible.  But hopefully in such a way that more complex
-        things can emerge as required.
-    
-    
-        Hence my current thinking is based on my current workflow<ol> <li> Create new/major
-        edits of existing "books" by editing HTML files (I use vim).<p>Based on my current
-        needs, I''m not a fan of Markdown. Currently don''t have a driving need to learn
-        another markup language. (A very simple form of) HTML is second nature to me.
-        Would take a long time for another markup language to achieve that, time I don''t
-        have </p> </li> <li> Import them into the Book module.</li> <li> Maintain them
-        there during term.<p>Changes in response to student feedback and experience.</p>
-        </li> <li> At the end of semester, the content is rolled over to the next site.<p>Moodle
-        does a very nice job of maintaining connections between content and activities.
-        My content has links to numerous Moodle activities. Much of the content is a)
-        set the context, b) explain the activity, c) go do the activity.</p> </li> <li>
-        For major changes, export a single HTML file and return to step 1. </li> </ol>
-    
-    
-        Github, I hope, will allow me to avoid some of the manual import/export steps
-        and also allow me to maintain another repository for the changes I make via vim.
-    
-    
-        At the same time, I''m hoping it will allow others to make use of the content.  Will
-        see how that all goes, part of the fun of emergence.'
-      date: '2015-08-14 11:03:00'
-      date_gmt: '2015-08-14 01:03:00'
-      id: '1371'
-      parent: '1370'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Bringing github and the Moodle book module together &#8211; step 1 | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.14
-      author_url: https://davidtjones.wordpress.com/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/
-      content: '[&#8230;] following is the first step in actually implementing some of
-        the ideas outlined in an earlier post about bringing  and the Moodle Book module
-        together. The major steps covered here [&#8230;]'
-      date: '2015-08-14 17:36:46'
-      date_gmt: '2015-08-14 07:36:46'
-      id: '1372'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [Moodle open book project](/blog/the-moodle-open-book-module-project/) is attempting (not surprisingly) to modify the [Moodle book module](https://docs.moodle.org/29/en/Book_module) to enable it to produce open resources (educational or otherwise). The main focus is on making the content of the books open in a way that enables modification and reuse. The plan is to do this by enabling a Moodle book resource to be linked to github.
 
@@ -136,7 +134,7 @@ As a future feature, it might be possible and useful to all the import/export of
 
 Initially, it might look like the following. The _(off)_ is meant to be an indication that the connection to github is currently off. i.e. not being used.
 
-[![001_off](images/19910790803_a09eb5e037.jpg)](https://www.flickr.com/photos/david_jones/19910790803/in/dateposted-public/ "001_off")
+[![001_off](https://djon.es/assets/blog/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/images/19910790803_a09eb5e037.jpg)](https://www.flickr.com/photos/david_jones/19910790803/in/dateposted-public/ "001_off")
 
 Clicking on the GitHub link would open up a form that would be used to configure the necessary information including:
 
@@ -152,19 +150,19 @@ Clicking on the GitHub link would open up a form that would be used to configure
 
 Once this is configured, the administration link would change to indicate that a connection had been made. It would now have a link to the file on github and also some indication of the relationship between the book and the github file. In the following image "clean" implies the book and github file are a match.
 
-[![002_on](images/19909046764_02b7de4273.jpg)](https://www.flickr.com/photos/david_jones/19909046764/in/dateposted-public/ "002_on")
+[![002_on](https://djon.es/assets/blog/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/images/19909046764_02b7de4273.jpg)](https://www.flickr.com/photos/david_jones/19909046764/in/dateposted-public/ "002_on")
 
 If changes are made in the Moodle book this would mean that the book is "ahead" of the github file. The github link would change appropriately. It would also add an additional link "push". Clicking on that link should probably display a page that provides some details of the changes to be pushed and allows the author to make the choice whether to push or not.
 
-[![003_push](images/20344990589_7fd2d01519.jpg)](https://www.flickr.com/photos/david_jones/20344990589/in/dateposted-public/ "003_push")
+[![003_push](https://djon.es/assets/blog/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/images/20344990589_7fd2d01519.jpg)](https://www.flickr.com/photos/david_jones/20344990589/in/dateposted-public/ "003_push")
 
 If the version of the file on the repository had been changed, then changes are also made.
 
-[![004_out_of_date](images/20344990349_bdf9123aca.jpg)](https://www.flickr.com/photos/david_jones/20344990349/in/dateposted-public/ "004_out_of_date")
+[![004_out_of_date](https://djon.es/assets/blog/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/images/20344990349_bdf9123aca.jpg)](https://www.flickr.com/photos/david_jones/20344990349/in/dateposted-public/ "004_out_of_date")
 
 Leaving the question of what happens when both local and remote changes have been made? Both? Some thought to be given here.
 
-[![005_both](images/20531711885_3cf579c991.jpg)](https://www.flickr.com/photos/david_jones/20531711885/in/dateposted-public/ "005_both")
+[![005_both](https://djon.es/assets/blog/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/images/20531711885_3cf579c991.jpg)](https://www.flickr.com/photos/david_jones/20531711885/in/dateposted-public/ "005_both")
 
 ### Assumptions
 

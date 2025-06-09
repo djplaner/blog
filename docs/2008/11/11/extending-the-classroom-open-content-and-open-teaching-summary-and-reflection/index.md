@@ -1,49 +1,46 @@
----
+﻿---
 categories:
 - elearning
 - missingps
 - react
-date: 2008-11-11 08:57:16+10:00
+comments: []
+date: 2008-11-10 22:57:16
 next:
   text: What are the assumptions which PLEs/Learning 2.0 etc overthrow
   url: /blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/
+pingbacks:
+- approved: '1'
+  author: Why am I an ePortfolio skeptic? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/01/21/why-am-i-an-eportfolio-skeptic/
+  content: '[...] an earlier post I started some of this complaint. In the session
+    which that post reports on there were lots of [...]'
+  date: '2009-01-21 09:17:01'
+  date_gmt: '2009-01-20 23:17:01'
+  id: '1863'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Why am I a ePortfolio skeptic? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.243.210
+  author_url: https://djon.es/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/
+  content: '[...] an earlier post I started some of this complaint. In the session
+    which that post reports on there were lots of [...]'
+  date: '2009-01-21 09:20:10'
+  date_gmt: '2009-01-20 23:20:10'
+  id: '1864'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Between the idea and the reality,.... falls the shadow
   url: /blog/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/
+template: blog-post.html
 title: '"Extending the classroom: Open content and open teaching: Summary and reflection"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Why am I an ePortfolio skeptic? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/01/21/why-am-i-an-eportfolio-skeptic/
-      content: '[...] an earlier post I started some of this complaint. In the session
-        which that post reports on there were lots of [...]'
-      date: '2009-01-21 09:17:01'
-      date_gmt: '2009-01-20 23:17:01'
-      id: '1863'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Why am I a ePortfolio skeptic? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.243.210
-      author_url: https://djon.es/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/
-      content: '[...] an earlier post I started some of this complaint. In the session
-        which that post reports on there were lots of [...]'
-      date: '2009-01-21 09:20:10'
-      date_gmt: '2009-01-20 23:20:10'
-      id: '1864'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Yesterday I attended a session by [George Siemens](http://www.elearnspace.org/blog/) with the title "Extending the classroom: Open content and open teaching". The presentation was video-conferenced from the Sunshine Coast to a range of locations across Australia. I was in a room at [CQUniversity](http://www.cqu.edu.au/) in Rockhampton with quite a number of folk. What follows are my reflections on that talk.
 

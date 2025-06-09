@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - bim
 - elearning
-date: 2010-10-13 11:29:46+10:00
+date: 2010-10-13 01:29:46
 next:
   text: Change in education, failure to learn and the commodification of university
   url: /blog/2010/10/19/change-in-education-failure-to-learn-and-the-commodification-of-university/
@@ -10,9 +10,9 @@ previous:
   text: 'Making the LMS more like the Globe Theatre: distributed cognition, the extended
     mind and Moodle'
   url: /blog/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/
+template: blog-post.html
 title: The problem with blended learning
 type: post
-template: blog-post.html
 ---
 Once I get out from under the PhD, I'm hoping to expand an initial idea attacking the rhetoric of blended learning currently in vogue in some parts of higher education. The purpose of this quote is to save a quote that I've just come across for that expansion, and also to summarise the idea.
 

@@ -1,66 +1,64 @@
----
+﻿---
 categories:
 - bad
 - open
-date: 2016-03-18 07:04:32+10:00
+comments:
+- approved: '1'
+  author: 7131edn (@7131edn)
+  author_email: 7131edn@twitter.example.com
+  author_ip: 58.110.42.194
+  author_url: http://twitter.com/7131edn
+  content: One of the ragamuffins you ought to consider is Bret Victor. One of the
+    few folk who actually get "the digital" and education.
+  date: '2016-03-18 09:01:13'
+  date_gmt: '2016-03-17 23:01:13'
+  id: '3327'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2016-03-17 21:04:32
 next:
   text: What to expect/look for from SITE'2016?
   url: /blog/2016/03/22/what-to-expectlook-for-from-site2016/
+pingbacks:
+- approved: '1'
+  author: First steps in integrating LATs OER into Moodle open book &#8211; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.44
+  author_url: https://davidtjones.wordpress.com/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/
+  content: '[&#8230;] how and if this work might connect with broader work around
+    OERs, potential work here around Open Educational Practices and teacher education,
+    and work to encourage adoption and adaptation of the LAT [&#8230;]'
+  date: '2016-04-02 11:48:19'
+  date_gmt: '2016-04-02 01:48:19'
+  id: '3328'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Open Educational Practice: the boring way and more interesting ways &#8211;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.101.48
+  author_url: https://davidtjones.wordpress.com/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/
+  content: '[&#8230;] Design and technologies, and Digital technologies. This is part
+    of work that was connected with attempts earlier in the year to explore open educational
+    practices (OEP) within initial teacher education [&#8230;]'
+  date: '2016-08-07 09:04:22'
+  date_gmt: '2016-08-06 23:04:22'
+  id: '3329'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Early analysis of Moodle data
   url: /blog/2016/03/18/early-analysis-of-moodle-data/
+template: blog-post.html
 title: '"OEP and Initial Teacher Education: Moving on from the horsey, horseless carriage"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: 7131edn (@7131edn)
-      author_email: 7131edn@twitter.example.com
-      author_ip: 58.110.42.194
-      author_url: http://twitter.com/7131edn
-      content: One of the ragamuffins you ought to consider is Bret Victor. One of the
-        few folk who actually get "the digital" and education.
-      date: '2016-03-18 09:01:13'
-      date_gmt: '2016-03-17 23:01:13'
-      id: '3327'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: First steps in integrating LATs OER into Moodle open book &#8211; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.44
-      author_url: https://davidtjones.wordpress.com/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/
-      content: '[&#8230;] how and if this work might connect with broader work around
-        OERs, potential work here around Open Educational Practices and teacher education,
-        and work to encourage adoption and adaptation of the LAT [&#8230;]'
-      date: '2016-04-02 11:48:19'
-      date_gmt: '2016-04-02 01:48:19'
-      id: '3328'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Open Educational Practice: the boring way and more interesting ways &#8211;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.101.48
-      author_url: https://davidtjones.wordpress.com/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/
-      content: '[&#8230;] Design and technologies, and Digital technologies. This is part
-        of work that was connected with attempts earlier in the year to explore open educational
-        practices (OEP) within initial teacher education [&#8230;]'
-      date: '2016-08-07 09:04:22'
-      date_gmt: '2016-08-06 23:04:22'
-      id: '3329'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
-[![Horsey, Horseless Carriage](images/1899horseyhorseless-png_918790_ver1-0.png)](https://www.google.com/patents/USD30551#v=onepage&q&f=false)
+[![Horsey, Horseless Carriage](https://djon.es/assets/blog/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/images/1899horseyhorseless-png_918790_ver1-0.png)](https://www.google.com/patents/USD30551#v=onepage&q&f=false)
 
 Earlier this week four colleagues from three different Universities submitted an application to an [internal grant scheme around Open Educational Practice](http://www.usq.edu.au/learning-teaching/excellence/2016landtgrants/opened). What follows is an excerpt from that application.This idea evolved out of [some earlier thinking](/blog/2016/02/22/open-educational-practice-beyond-the-institution/). We find out how we went in April.
 

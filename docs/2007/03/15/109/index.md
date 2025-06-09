@@ -1,94 +1,92 @@
----
+﻿---
 categories:
 - elearning
-date: 2007-03-15 09:27:13+10:00
+comments:
+- approved: '1'
+  author: d.jones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.148
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'Way down deep, I think I agree.  You can''t and modeling the behaviour
+    may well be the best approach.
+
+
+    If I were to make use of what power I have within an organisation to impose/encourage
+    a descriptive/emergent sense throughout the organisation, would that mean I''m
+    starting to lean towards the normative?'
+  date: '2007-03-15 21:30:11'
+  date_gmt: '2007-03-15 11:30:11'
+  id: '1536'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Stephen Downes
+  author_email: stephen@downes.ca
+  author_ip: 74.106.27.59
+  author_url: http://www.downes.ca
+  content: '"if you agree that learning towards the descriptive/emergent sense ...
+    Then how can you create this within an organisation like a university."
+
+
+    It''s not clear to me that you can. Universities are designed to preserve existing
+    power structures, to institutionalize the imposition of one person''s will over
+    another.
+
+
+    The best (and only) approach I have been able to find is to conduct *oneself*
+    as a node in a network with as little regard as possible to the power others purport
+    to wield. Not because you will succeed. But because others will see your freedom
+    and begin to emulate it.'
+  date: '2007-03-15 20:53:57'
+  date_gmt: '2007-03-15 10:53:57'
+  id: '1537'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2007-03-14 23:27:13
 next:
   text: Does ICT provide choices of learners and learning in higher education
   url: /blog/2007/04/06/does-ict-provide-choices-of-learners-and-learning-in-higher-education/
+pingbacks:
+- approved: '1'
+  author: "OLDaily[\u4E2D\u6587\u7248] &raquo; Blog Archive &raquo; 2007\u5E743\u6708\
+    15\u65E5"
+  author_email: null
+  author_ip: 220.162.244.64
+  author_url: http://www.edu2do.com/oldaily/?p=30
+  content: "[...] \xE7\xBB\x88\xE4\xBA\x8E\xEF\xBC\x8C\xE6\x9C\x89\xE4\xBA\xBA\xE5\
+    \xBC\x95\xE7\x94\xA8\xE6\x88\x91\xE5\x86\x99\xE7\x9A\x84\xE5\N\xB3\xE4\xBA\x8E\
+    \xE7\xBD\x91\xE7\xBB\x9C\xE5\x92\x8C\xE6?\x83\xE5\x8A\x9B\xE7\x9A\x84\xE8\xB4\xB4\
+    \xE4\xBA\x86\xEF\xBC\x8C\xE6\x8E\xA5\xE7?\x80\xEF\xBC\x8C\xE4\xBB\x96\xE6??\xE8\
+    \xBF\xB0\xE4\xBA\x86\xE4\xBA\xBA\xE4\xBB\xAC\xE5\x88\xA9\xE7\x94\xA8\xE4\xBB\x96\
+    \xE4\xBB\xAC\xE6\x89\x80\xE5\xA4\x84\xE4\xBD?\xE7\xBD\xAE\xEF\xBC\x8C\xE5\x9C\xA8\
+    \xE4\xB8\x80\xE4\xB8\xAA\xE5\x88\xB6\xE5\xBA\xA6\xE5\x8C\x96\xE7\x9A\x84\xE6\x83\
+    \N\xE5\xA2\x83\xE4\xB8\xAD\xE7\xAB\xAD\xE5\xB0\xBD\xE5\N\xA8\xE5\x8A\x9B\xE8?\xBD\
+    \xE5\xAE\x9E\xE8\x87\xAA\xE8\xBA\xAB\xE6\x84?\xE6\x84\xBF\xE7\x9A\x84\xE8\xAE\xB8\
+    \xE5\xA4\x9A\xE6\x96\xB9\xE5\xBC?\xE3\x80\x82David Jones\xE9\x97\xAE\xE9?\x93\xEF\
+    \xBC\x8C\xE2\x80\x9C\xE9\x82\xA3\xE4\xB9\x88\xEF\xBC\x8C\xE6\x88\x91\xE4\xBB\xAC\
+    \xE6\x80\x8E\xE6\_\xB7\xE6\x89?\xE8\x83\xBD\xE5\x9C\xA8\xE5\xA4\xA7\xE5\xAD\xA6\
+    \xE8\xBF\x99\xE6\_\xB7\xE7\x9A\x84\xE7\xBB\x84\xE7\xBB\x87\xE4\xB8\xAD\xE5\x88\
+    \x9B\xE9\x80\_\xE8\xBF\x99\xE7\x82\xB9\xE5\x91\xA2\xE3\x80\x82\xE2\x80? \xE6\x88\
+    \x91\xE7\x9A\x84\xE5\x9B\x9E\xE7\xAD\x94\xE6\x98\xAF\xEF\xBC\x9A\xE5\x9F\xBA\xE6\
+    \x9C\xAC\xE4\xB8\x8A\xE4\xB8?\xE5?\xAF\xE8\x83\xBD\xE3\x80\x82David Jones, David&#8217;s\
+    \ WebLog March 15, 2007 [\xE5\x8E\x9F\xE6\x96\x87\xE9\x93\xBE\xE6\x8E\xA5] [\xE4\
+    \xB8\x8EStephen\xE8\xAE\xA8\xE8\xAE\xBA] [...]"
+  date: '2007-03-16 18:29:16'
+  date_gmt: '2007-03-16 08:29:16'
+  id: '1535'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Ateleological development as a &quot;better way&quot; to develop university
     e-learning systems
   url: /blog/2007/03/13/ateleological-development-as-a-better-way-to-develop-university-e-learning-systems/
+template: blog-post.html
 title: Descriptive (network) versus normative (community) based development of e-learning
   in organisations
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: d.jones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.148
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'Way down deep, I think I agree.  You can''t and modeling the behaviour
-        may well be the best approach.
-    
-    
-        If I were to make use of what power I have within an organisation to impose/encourage
-        a descriptive/emergent sense throughout the organisation, would that mean I''m
-        starting to lean towards the normative?'
-      date: '2007-03-15 21:30:11'
-      date_gmt: '2007-03-15 11:30:11'
-      id: '1536'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Stephen Downes
-      author_email: stephen@downes.ca
-      author_ip: 74.106.27.59
-      author_url: http://www.downes.ca
-      content: '"if you agree that learning towards the descriptive/emergent sense ...
-        Then how can you create this within an organisation like a university."
-    
-    
-        It''s not clear to me that you can. Universities are designed to preserve existing
-        power structures, to institutionalize the imposition of one person''s will over
-        another.
-    
-    
-        The best (and only) approach I have been able to find is to conduct *oneself*
-        as a node in a network with as little regard as possible to the power others purport
-        to wield. Not because you will succeed. But because others will see your freedom
-        and begin to emulate it.'
-      date: '2007-03-15 20:53:57'
-      date_gmt: '2007-03-15 10:53:57'
-      id: '1537'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: "OLDaily[\u4E2D\u6587\u7248] &raquo; Blog Archive &raquo; 2007\u5E743\u6708\
-        15\u65E5"
-      author_email: null
-      author_ip: 220.162.244.64
-      author_url: http://www.edu2do.com/oldaily/?p=30
-      content: "[...] \xE7\xBB\x88\xE4\xBA\x8E\xEF\xBC\x8C\xE6\x9C\x89\xE4\xBA\xBA\xE5\
-        \xBC\x95\xE7\x94\xA8\xE6\x88\x91\xE5\x86\x99\xE7\x9A\x84\xE5\N\xB3\xE4\xBA\x8E\
-        \xE7\xBD\x91\xE7\xBB\x9C\xE5\x92\x8C\xE6?\x83\xE5\x8A\x9B\xE7\x9A\x84\xE8\xB4\xB4\
-        \xE4\xBA\x86\xEF\xBC\x8C\xE6\x8E\xA5\xE7?\x80\xEF\xBC\x8C\xE4\xBB\x96\xE6??\xE8\
-        \xBF\xB0\xE4\xBA\x86\xE4\xBA\xBA\xE4\xBB\xAC\xE5\x88\xA9\xE7\x94\xA8\xE4\xBB\x96\
-        \xE4\xBB\xAC\xE6\x89\x80\xE5\xA4\x84\xE4\xBD?\xE7\xBD\xAE\xEF\xBC\x8C\xE5\x9C\xA8\
-        \xE4\xB8\x80\xE4\xB8\xAA\xE5\x88\xB6\xE5\xBA\xA6\xE5\x8C\x96\xE7\x9A\x84\xE6\x83\
-        \N\xE5\xA2\x83\xE4\xB8\xAD\xE7\xAB\xAD\xE5\xB0\xBD\xE5\N\xA8\xE5\x8A\x9B\xE8?\xBD\
-        \xE5\xAE\x9E\xE8\x87\xAA\xE8\xBA\xAB\xE6\x84?\xE6\x84\xBF\xE7\x9A\x84\xE8\xAE\xB8\
-        \xE5\xA4\x9A\xE6\x96\xB9\xE5\xBC?\xE3\x80\x82David Jones\xE9\x97\xAE\xE9?\x93\xEF\
-        \xBC\x8C\xE2\x80\x9C\xE9\x82\xA3\xE4\xB9\x88\xEF\xBC\x8C\xE6\x88\x91\xE4\xBB\xAC\
-        \xE6\x80\x8E\xE6\_\xB7\xE6\x89?\xE8\x83\xBD\xE5\x9C\xA8\xE5\xA4\xA7\xE5\xAD\xA6\
-        \xE8\xBF\x99\xE6\_\xB7\xE7\x9A\x84\xE7\xBB\x84\xE7\xBB\x87\xE4\xB8\xAD\xE5\x88\
-        \x9B\xE9\x80\_\xE8\xBF\x99\xE7\x82\xB9\xE5\x91\xA2\xE3\x80\x82\xE2\x80? \xE6\x88\
-        \x91\xE7\x9A\x84\xE5\x9B\x9E\xE7\xAD\x94\xE6\x98\xAF\xEF\xBC\x9A\xE5\x9F\xBA\xE6\
-        \x9C\xAC\xE4\xB8\x8A\xE4\xB8?\xE5?\xAF\xE8\x83\xBD\xE3\x80\x82David Jones, David&#8217;s\
-        \ WebLog March 15, 2007 [\xE5\x8E\x9F\xE6\x96\x87\xE9\x93\xBE\xE6\x8E\xA5] [\xE4\
-        \xB8\x8EStephen\xE8\xAE\xA8\xE8\xAE\xBA] [...]"
-      date: '2007-03-16 18:29:16'
-      date_gmt: '2007-03-16 08:29:16'
-      id: '1535'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As part of a conversation on the [Moodle site](http://ltc.umanitoba.ca/moodle/course/view.php?id=9) for the Online Connectivism Conference [Stephen Downes](http://www.downes.ca/) posts the following.
 

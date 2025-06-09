@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - elearning
@@ -6,63 +6,60 @@ categories:
 - reflectivealignment
 - thesis
 - webfuse
-date: 2010-06-07 13:29:24+10:00
+comments:
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: null
+  content: Bravo!  Am I understanding?  The "big" change is choice architecture and
+    the "small" change is the ability of instructor/designers to make contrary choices
+    if they so choose.
+  date: '2010-06-08 02:31:11'
+  date_gmt: '2010-06-07 16:31:11'
+  id: '3085'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'Hadn''t thought of it that way.  You can see I''m still working this through
+    myself.
+
+
+    My initial thought was that the big change is the "choice architecture" as you
+    mention. But the small change was the on-going series of small choices that the
+    architecture would encourage academics to take.
+
+
+    i.e. for me the "choice architecture" is designed to encourage academics to reflect
+    upon and tweak their courses.  Rather than just copy what has gone before. But
+    because these are changes driven by their own reflection, based on their own context,
+    within an environment that is helping them make these changes in effective ways,
+    I think the outcomes will be radically different.
+
+
+    I didn''t explain that well.  Sorry.  Back to the thesis.'
+  date: '2010-06-08 09:43:34'
+  date_gmt: '2010-06-07 23:43:34'
+  id: '3086'
+  parent: '3085'
+  type: comment
+  user_id: '1'
+date: 2010-06-07 03:29:24
 next:
   text: Default course sites and wizards
   url: /blog/2010/06/07/default-course-sites-and-wizards/
+pingbacks: []
 previous:
   text: The Wf Framework
   url: /blog/2010/06/07/the-wf-framework/
+template: blog-post.html
 title: The confusion of small and big changes
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: null
-      content: Bravo!  Am I understanding?  The "big" change is choice architecture and
-        the "small" change is the ability of instructor/designers to make contrary choices
-        if they so choose.
-      date: '2010-06-08 02:31:11'
-      date_gmt: '2010-06-07 16:31:11'
-      id: '3085'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'Hadn''t thought of it that way.  You can see I''m still working this through
-        myself.
-    
-    
-        My initial thought was that the big change is the "choice architecture" as you
-        mention. But the small change was the on-going series of small choices that the
-        architecture would encourage academics to take.
-    
-    
-        i.e. for me the "choice architecture" is designed to encourage academics to reflect
-        upon and tweak their courses.  Rather than just copy what has gone before. But
-        because these are changes driven by their own reflection, based on their own context,
-        within an environment that is helping them make these changes in effective ways,
-        I think the outcomes will be radically different.
-    
-    
-        I didn''t explain that well.  Sorry.  Back to the thesis.'
-      date: '2010-06-08 09:43:34'
-      date_gmt: '2010-06-07 23:43:34'
-      id: '3086'
-      parent: '3085'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Over the last couple of days I've enjoyed a small discussion that has arisen out of some comments Kevin has made on my blog. This post is an attempt to partially engage with [the most recent comment](/blog/2009/09/30/teaching-academic-staff-development-mastery-and-separation/#comment-3218). I echo Kevin's conclusion, I'd love to hear anyone else's take on this.
 

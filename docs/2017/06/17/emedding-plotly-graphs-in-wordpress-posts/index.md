@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - 4paths
 - indicators
 - irac
 - learninganalytics-elearning
-date: 2017-06-17 12:50:26+10:00
+date: 2017-06-17 02:50:26
 next:
   text: Nudging up MyOpinion response rates using a gamified leaderboard
   url: /blog/2017/06/17/nudging-up-myopinion-response-rates-using-a-gamified-leaderboard/
 previous:
   text: Bye, Bye Mendeley?
   url: /blog/2017/05/20/bye-bye-mendeley/
+template: blog-post.html
 title: Emedding plotly graphs in Wordpress posts
 type: post
-template: blog-post.html
 ---
 Last year I started using [with Perl to play with](http://plot.ly) [analytics around Moodle Book usage](http://djon.es/blog/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/). This year, @beerc and I have been starting to play with Jupyter Notebooks and Python to play with analytics for meso-level practitioners (Hannon, 2013). Plotly provides a fairly useful platform for generating graphs of various types and sharing the data. Works well with a range of languages and Jupyter Notebooks.
 

@@ -1,132 +1,129 @@
----
+﻿---
 categories:
 - bad
 - moodleopenbook
 - openbook
-date: 2015-04-13 22:09:57+10:00
+comments:
+- approved: '1'
+  author: Rolley
+  author_email: r.tickner@cqu.edu.au
+  author_ip: 138.77.36.77
+  author_url: http://rolleys.wordpress.com
+  content: 'Great idea, and great project.  The first series of thoughts I have about
+    using the Moodle Book module to do this, is; do you think it might be worth providing
+    some affordances or improvements in the content creation process in part of this
+    project?
+
+
+    I think something might have to be done to improve with the way many people author
+    their content in Moodle Books - at my institution most of the MBooks I''ve seen
+    have content pasted in from Word, or other sources, and each page is full of junk
+    HTML (to the point of even some times single letters of every word being wrapped
+    in span tags!), they''re also almost always devoid of any proper semantics, with
+    no real HTML structure at all (headings put in as paragraphs, or headings and
+    paragraphs under a single paragraph tag, so on).  Problems associated with content
+    authors not really knowing much about HTML.
+
+
+    Maybe your process, or software, can take care of that for people, so that they
+    don''t need to know anything about HTML semantics, but the process might allow
+    them to identify structure to their content (in terms of where defining sections
+    to articles, proper nested heading structure and so on), and it might apply the
+    formatting and mark-up behind the scenes automatically?  I feel like it might
+    lead to a better end product, and it might also make part of the technical aspects
+    for redistribution, sharing and reuse a bit more streamlined.  Not sure. What
+    do you reckon?'
+  date: '2015-04-14 11:35:57'
+  date_gmt: '2015-04-14 01:35:57'
+  id: '1242'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 101.177.129.87
+  author_url: https://djon.es/blog/
+  content: "G'day Rolley,\n\nThanks for taking the time to comment.  Really useful\
+    \ to get different perspectives, especially from different institutions and from\
+    \ people with different backgrounds and perspectives.  Much appreciated.\n\nIs\
+    \ the book module used much up there?  Might be interesting to see if my analysis\
+    \ can be expanded to include your institution. May have to talk to you guys some\
+    \ more.\n\nYou've identified one of the areas of contention and for further thought.\
+    \ Also forces me to think a bit more about the \"philosophy\" of the approach\
+    \ I'm taking.\n\nI'm trying to adopt a version of <a href=\"http://www.faqs.org/docs/artu/ch01s06.html\"\
+    \ rel=\"nofollow\">the Unix Philosophy</a> in the design of the ecosystem.\n\n\
+    I'm starting - somewhat strangely for many contexts - with the Moodle book because\
+    \ that fits my context.  From there the plan is to - where ever possible - enable\
+    \ the book module to take input from other programs and pass output to others.\n\
+    \nIn this case the \"universal interface\" is likely to be HTML, JSON and related\
+    \ technologies.\n\nBased on this approach, the current plan (which is likely to\
+    \ change) is that for the book module to get better at importing HTML.  That was\
+    \ the first change I made and it still needs some work.\n\nAt the moment, I'm\
+    \ writing my HTML in vi with some classes to indicate chapters and sub-chapters.\
+    \  That works for me, but won't scale beyond that as most people are going to\
+    \ use Word.\n\nWhich does raise the two questions you've identified\n<ol> <li>\
+    \ How do avoid/deal with the \"junk\" in some HTML? </li>\n  <li> How do you get\
+    \ people to specify the various components of their \"books\"? </li>\n</ol>\n\n\
+    These are perhaps some of the big problems facing this type of authoring process.\n\
+    \n<h3>Current book solution</h3>\n\nAt the moment, the book import process supports\
+    \ the import of a zip file that contains either a collection of separate HTML\
+    \ files or separate folders.  The idea is that the separate files/folders become\
+    \ the chapters and sub-chapters in the book.\n\nCurrent the book module doesn't\
+    \ keep any sense of order for what's imported.  What you wrote as the first chapter\
+    \ could be imported as the last chapter.  This was the thing I've tried to fix\
+    \ first.\n\nMy current \"round-trip\" authoring process is\n<ol>\n  <Li> Create\
+    \ the \"book\" as a HTML file on my computer using some specific classes to indicate\
+    \ chapters and sub-chapters; </li>\n  <li> Run a Perl script locally the splits\
+    \ the HTML files into separate files (in order) and creates a zip file to import\
+    \ into the book module; </li>\n  <li> Import the zip file into the book module;\
+    \ </li>\n  <li> Make ad hoc changes to the book during term in the book module;\
+    \ </li>\n  <li> Next term, use the \"print this book\" option to produce a HTML\
+    \ version of the book; </li>\n  <Li> Run the script over this HTML file to produce\
+    \ a version of the HTML file from Step #1 - return to step #1 </li>\n</ol>\n\n\
+    This will be the starting point.\n\n<h3>Potential evolution?</h3>\n\nSome potential\
+    \ changes to this might include\n<ul>\n  <li> Being able to link the book module\
+    \ to a github repository which becomes the holder of the authoritative source\
+    \ for the book. </li>\n  <li> Write \"import processes\" for other authoring approaches.\n\
+    \       <p>e.g. a Word template that chapters and sub-chapters (really just nested\
+    \ pages).</p> </li>\n  <li> Add some sort of \"filter\" to the HTML import of\
+    \ the book module to clean the HTML.\n       <p>The intent would be to use an\
+    \ existing tool to do this and connect the book module to it.</p> </li>\n  <Li>\
+    \ Add some sort of \"organise\" tool to the book module to allow people to specify\
+    \ where the chapters/sub-chapters should go.\n       <p>This is essentially what\
+    \ you've suggested in the last para. Not something I'd thought about previously.\
+    \ Perhaps because this liable to be relatively difficult to implement from scratch\
+    \ (and I don't need it personally), so it would be good if there was an existing\
+    \ approach/tool to doing this.</p>\n      <p>It's an important step, because the\
+    \ quality of the HTML coming in is going to be influence the quality of the ePub,\
+    \ mobi etc format that's produced at the next step.</p>\n </li>\n  <Li> Add an\
+    \ option to export the book in ePub or other \"book\" formats.\n        <p>Again,\
+    \ the aim isn't to write the code for this, but for the book Module to be able\
+    \ to produce the \"output\" that can be fed into an existing tool that will do\
+    \ this.</p> </li>\n  <li> A broader tool to create collections of books that can\
+    \ be exported.\n       <p>My course has 60+ books.  Most are quite small.  They\
+    \ are probably better described as chapters or sections of chapters, than books.\
+    \ At some stage, it would be useful to be able to group some or all of these chapters/sections\
+    \ together as a single book.  Which means having a course level tool that could\
+    \ allow me to specify which Moodle books to include and how to sequence them.\
+    \  Once that's done pass them off to github or the epub producing tool</p>\n</ul>"
+  date: '2015-04-14 17:29:12'
+  date_gmt: '2015-04-14 07:29:12'
+  id: '1243'
+  parent: '1242'
+  type: comment
+  user_id: '1'
+date: 2015-04-13 12:09:57
 next:
   text: What's good for "open content" is good for the LMS/virtual learning space?
   url: /blog/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
+pingbacks: []
 previous:
   text: Designing a Secondary Computing curriuclum &#038; pedagogy course
   url: /blog/2015/04/02/designing-a-secondary-computing-curriuclum-pedagogy-course/
+template: blog-post.html
 title: Starting the "Moodle open book" project
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Rolley
-      author_email: r.tickner@cqu.edu.au
-      author_ip: 138.77.36.77
-      author_url: http://rolleys.wordpress.com
-      content: 'Great idea, and great project.  The first series of thoughts I have about
-        using the Moodle Book module to do this, is; do you think it might be worth providing
-        some affordances or improvements in the content creation process in part of this
-        project?
-    
-    
-        I think something might have to be done to improve with the way many people author
-        their content in Moodle Books - at my institution most of the MBooks I''ve seen
-        have content pasted in from Word, or other sources, and each page is full of junk
-        HTML (to the point of even some times single letters of every word being wrapped
-        in span tags!), they''re also almost always devoid of any proper semantics, with
-        no real HTML structure at all (headings put in as paragraphs, or headings and
-        paragraphs under a single paragraph tag, so on).  Problems associated with content
-        authors not really knowing much about HTML.
-    
-    
-        Maybe your process, or software, can take care of that for people, so that they
-        don''t need to know anything about HTML semantics, but the process might allow
-        them to identify structure to their content (in terms of where defining sections
-        to articles, proper nested heading structure and so on), and it might apply the
-        formatting and mark-up behind the scenes automatically?  I feel like it might
-        lead to a better end product, and it might also make part of the technical aspects
-        for redistribution, sharing and reuse a bit more streamlined.  Not sure. What
-        do you reckon?'
-      date: '2015-04-14 11:35:57'
-      date_gmt: '2015-04-14 01:35:57'
-      id: '1242'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 101.177.129.87
-      author_url: https://djon.es/blog/
-      content: "G'day Rolley,\n\nThanks for taking the time to comment.  Really useful\
-        \ to get different perspectives, especially from different institutions and from\
-        \ people with different backgrounds and perspectives.  Much appreciated.\n\nIs\
-        \ the book module used much up there?  Might be interesting to see if my analysis\
-        \ can be expanded to include your institution. May have to talk to you guys some\
-        \ more.\n\nYou've identified one of the areas of contention and for further thought.\
-        \ Also forces me to think a bit more about the \"philosophy\" of the approach\
-        \ I'm taking.\n\nI'm trying to adopt a version of <a href=\"http://www.faqs.org/docs/artu/ch01s06.html\"\
-        \ rel=\"nofollow\">the Unix Philosophy</a> in the design of the ecosystem.\n\n\
-        I'm starting - somewhat strangely for many contexts - with the Moodle book because\
-        \ that fits my context.  From there the plan is to - where ever possible - enable\
-        \ the book module to take input from other programs and pass output to others.\n\
-        \nIn this case the \"universal interface\" is likely to be HTML, JSON and related\
-        \ technologies.\n\nBased on this approach, the current plan (which is likely to\
-        \ change) is that for the book module to get better at importing HTML.  That was\
-        \ the first change I made and it still needs some work.\n\nAt the moment, I'm\
-        \ writing my HTML in vi with some classes to indicate chapters and sub-chapters.\
-        \  That works for me, but won't scale beyond that as most people are going to\
-        \ use Word.\n\nWhich does raise the two questions you've identified\n<ol> <li>\
-        \ How do avoid/deal with the \"junk\" in some HTML? </li>\n  <li> How do you get\
-        \ people to specify the various components of their \"books\"? </li>\n</ol>\n\n\
-        These are perhaps some of the big problems facing this type of authoring process.\n\
-        \n<h3>Current book solution</h3>\n\nAt the moment, the book import process supports\
-        \ the import of a zip file that contains either a collection of separate HTML\
-        \ files or separate folders.  The idea is that the separate files/folders become\
-        \ the chapters and sub-chapters in the book.\n\nCurrent the book module doesn't\
-        \ keep any sense of order for what's imported.  What you wrote as the first chapter\
-        \ could be imported as the last chapter.  This was the thing I've tried to fix\
-        \ first.\n\nMy current \"round-trip\" authoring process is\n<ol>\n  <Li> Create\
-        \ the \"book\" as a HTML file on my computer using some specific classes to indicate\
-        \ chapters and sub-chapters; </li>\n  <li> Run a Perl script locally the splits\
-        \ the HTML files into separate files (in order) and creates a zip file to import\
-        \ into the book module; </li>\n  <li> Import the zip file into the book module;\
-        \ </li>\n  <li> Make ad hoc changes to the book during term in the book module;\
-        \ </li>\n  <li> Next term, use the \"print this book\" option to produce a HTML\
-        \ version of the book; </li>\n  <Li> Run the script over this HTML file to produce\
-        \ a version of the HTML file from Step #1 - return to step #1 </li>\n</ol>\n\n\
-        This will be the starting point.\n\n<h3>Potential evolution?</h3>\n\nSome potential\
-        \ changes to this might include\n<ul>\n  <li> Being able to link the book module\
-        \ to a github repository which becomes the holder of the authoritative source\
-        \ for the book. </li>\n  <li> Write \"import processes\" for other authoring approaches.\n\
-        \       <p>e.g. a Word template that chapters and sub-chapters (really just nested\
-        \ pages).</p> </li>\n  <li> Add some sort of \"filter\" to the HTML import of\
-        \ the book module to clean the HTML.\n       <p>The intent would be to use an\
-        \ existing tool to do this and connect the book module to it.</p> </li>\n  <Li>\
-        \ Add some sort of \"organise\" tool to the book module to allow people to specify\
-        \ where the chapters/sub-chapters should go.\n       <p>This is essentially what\
-        \ you've suggested in the last para. Not something I'd thought about previously.\
-        \ Perhaps because this liable to be relatively difficult to implement from scratch\
-        \ (and I don't need it personally), so it would be good if there was an existing\
-        \ approach/tool to doing this.</p>\n      <p>It's an important step, because the\
-        \ quality of the HTML coming in is going to be influence the quality of the ePub,\
-        \ mobi etc format that's produced at the next step.</p>\n </li>\n  <Li> Add an\
-        \ option to export the book in ePub or other \"book\" formats.\n        <p>Again,\
-        \ the aim isn't to write the code for this, but for the book Module to be able\
-        \ to produce the \"output\" that can be fed into an existing tool that will do\
-        \ this.</p> </li>\n  <li> A broader tool to create collections of books that can\
-        \ be exported.\n       <p>My course has 60+ books.  Most are quite small.  They\
-        \ are probably better described as chapters or sections of chapters, than books.\
-        \ At some stage, it would be useful to be able to group some or all of these chapters/sections\
-        \ together as a single book.  Which means having a course level tool that could\
-        \ allow me to specify which Moodle books to include and how to sequence them.\
-        \  Once that's done pass them off to github or the epub producing tool</p>\n</ul>"
-      date: '2015-04-14 17:29:12'
-      date_gmt: '2015-04-14 07:29:12'
-      id: '1243'
-      parent: '1242'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Back in February I shared [shared some thoughts](/blog/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/) about some ideas for [grants for producing an "open textbook"](http://www.usq.edu.au/learning-teaching/excellence/landtgrants/OpenTextbooks) at my current institution. In the end, these thoughts were translated into an application which has just been officially announced as being successful. The following is my first attempt to get my head back into the project and outline
 

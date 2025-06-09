@@ -1,88 +1,85 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - irac
 - learninganalytics-elearning
-date: 2013-11-19 14:01:16+10:00
+comments:
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: 'Just after posting this, I read <a href="http://www.veletsianos.com/2013/11/18/udacity-moocs-hammers-and-the-problems-of-education/"
+    rel="nofollow">this from George Veletsianos</a>. The section on hammers and problems
+    in particular resonated <blockquote>If educational technology companies (and Centers
+    for Teaching and Learning) are eager to improve education, rather than searching
+    for problems to apply their solutions, they should focus on identifying problems
+    and designing solutions to those problems. </blockquote>
+
+
+    The connection I see between this and discussion of the LMS is that the LMS and
+    the associated institutional e-learning ecosystem becomes the solution looking
+    or a problem.  Due to the cost involved, the central L&amp;T and IT folk are increasingly
+    employed and tasked with enhancing and expanding the sustainability and diffusion
+    of that ecosystem and its fixed capabilities.  Rather than discovering and responding
+    to the problems being faced by teachers and learners.'
+  date: '2013-11-19 14:12:44'
+  date_gmt: '2013-11-19 04:12:44'
+  id: '908'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: http://wilcoxonblog.wordpress.com
+  content: 'Even though the data is limiting, it is in line with my own experience
+    and anecdotal reading, especially in The Chronicle of Higher Education. Instructors
+    will try something and find it''s work or outside their comfort zone so they drop
+    it. In my own experience, instructors begin with a set of givens - lectures, assignments,
+    and quizzes - then add another element or two, adding to their workload. At this
+    point in time, very few can see beyond this "given" mindset.
+
+
+    Kevin'
+  date: '2013-11-21 03:17:38'
+  date_gmt: '2013-11-20 17:17:38'
+  id: '909'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 123.211.13.84
+  author_url: https://djon.es/blog/
+  content: G'day Kevin, Thanks for the comment.  Especially since it expands upon
+    my experience.  I've always worked and taught in universities with a significant
+    distance/online cohort (e.g. just finished teaching a course with 100 online only
+    students) so my practice - and what I've observed in others - has been a slow
+    growth in what is used.  Your experience also breaks the Malikowski et al proposition
+    that more features are explored. Hoping to do some weblog analysis shortly to
+    explore what is actually happening at a couple of institutions.  David.
+  date: '2013-11-21 07:14:04'
+  date_gmt: '2013-11-20 21:14:04'
+  id: '910'
+  parent: '909'
+  type: comment
+  user_id: '1'
+date: 2013-11-19 04:01:16
 next:
   text: The external validity problem
   url: /blog/2013/11/22/the-external-validity-problem/
+pingbacks: []
 previous:
   text: Approaches for literature analysis
   url: /blog/2013/11/15/approaches-for-literature-analysis/
+template: blog-post.html
 title: Examining diffusion and sustainability of e-learning strategies thorugh weblog
   data
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: 'Just after posting this, I read <a href="http://www.veletsianos.com/2013/11/18/udacity-moocs-hammers-and-the-problems-of-education/"
-        rel="nofollow">this from George Veletsianos</a>. The section on hammers and problems
-        in particular resonated <blockquote>If educational technology companies (and Centers
-        for Teaching and Learning) are eager to improve education, rather than searching
-        for problems to apply their solutions, they should focus on identifying problems
-        and designing solutions to those problems. </blockquote>
-    
-    
-        The connection I see between this and discussion of the LMS is that the LMS and
-        the associated institutional e-learning ecosystem becomes the solution looking
-        or a problem.  Due to the cost involved, the central L&amp;T and IT folk are increasingly
-        employed and tasked with enhancing and expanding the sustainability and diffusion
-        of that ecosystem and its fixed capabilities.  Rather than discovering and responding
-        to the problems being faced by teachers and learners.'
-      date: '2013-11-19 14:12:44'
-      date_gmt: '2013-11-19 04:12:44'
-      id: '908'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: http://wilcoxonblog.wordpress.com
-      content: 'Even though the data is limiting, it is in line with my own experience
-        and anecdotal reading, especially in The Chronicle of Higher Education. Instructors
-        will try something and find it''s work or outside their comfort zone so they drop
-        it. In my own experience, instructors begin with a set of givens - lectures, assignments,
-        and quizzes - then add another element or two, adding to their workload. At this
-        point in time, very few can see beyond this "given" mindset.
-    
-    
-        Kevin'
-      date: '2013-11-21 03:17:38'
-      date_gmt: '2013-11-20 17:17:38'
-      id: '909'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 123.211.13.84
-      author_url: https://djon.es/blog/
-      content: G'day Kevin, Thanks for the comment.  Especially since it expands upon
-        my experience.  I've always worked and taught in universities with a significant
-        distance/online cohort (e.g. just finished teaching a course with 100 online only
-        students) so my practice - and what I've observed in others - has been a slow
-        growth in what is used.  Your experience also breaks the Malikowski et al proposition
-        that more features are explored. Hoping to do some weblog analysis shortly to
-        explore what is actually happening at a couple of institutions.  David.
-      date: '2013-11-21 07:14:04'
-      date_gmt: '2013-11-20 21:14:04'
-      id: '910'
-      parent: '909'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The following is a summary and some thoughts on Lam et al (2010). It's a paper from the same authors/research from which [I summarised an earlier paper](/blog/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/).
 

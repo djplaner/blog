@@ -1,99 +1,96 @@
----
+﻿---
 categories:
 - eded20455
 - teaching
-date: 2011-03-06 14:08:10+10:00
+comments:
+- approved: '1'
+  author: suifaijohnmak
+  author_email: suifaijohnmak@yahoo.com.au
+  author_ip: 60.241.166.115
+  author_url: http://suifaijohnmak.wordpress.com
+  content: 'Hi David,
+
+    "Are there academics reading our responses to ascertain how knowledge level in
+    order to customise the course and its teaching? I doubt it." I have subscribed
+    to you blog, and so am interested in your thoughts.  Your questions about managing
+    diversity, rights and responsibility are common on the menus of vocational and
+    adult education, and in your case, school education.  Stereotyping and labelling
+    as you shared could hinder our support to our learners. Would our assumptions
+    often be borne out of our intuitions, especially when we don''t quite understand
+    the background of our learners at the start?  I have taken similar pathways back
+    in the 80s and 90s (when I did my Grad Dip in VET at UTS), so my views on rights
+    and responsibilities were based on the "constructivist" views.  However, would
+    these rights and responsibilities be different under a connectivist views?  I
+    do reckon these might sound differently, especially when learners are taking part
+    of the role of teachers on their journey of learning.  In your teaching environment,
+    to what extent would you like your learners take up such a role?  How about the
+    parents?  What are their roles and expectations?  Would these questions be answered?  May
+    be, if you set up a blog post invitation or a wiki for them to respond to you
+    quest.  But I haven''t tried these myself, as my learners are all adults, and
+    the responses from them were based on standard surveys.
+
+    Hope you would enjoy your exciting journey of teaching in school.
+
+    John'
+  date: '2011-03-06 15:28:50'
+  date_gmt: '2011-03-06 05:28:50'
+  id: '2'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.220.172.144
+  author_url: https://djon.es/blog/
+  content: 'G''day John,
+
+
+    Thanks for the comments. Much to agree with.
+
+
+    I think you''re right that our assumptions are borne out of our institutions,
+    our experiences and it can be difficult to escape from those. Theories of learning
+    are part of that.
+
+
+    Constructivism is still a big part, perhaps the main part, of what we''re being
+    told about. Connectivism is mentioned, but isn''t the primary perspective.
+
+
+    Your questions around what this would mean from a connectivist perpective is one
+    that interests me. Especially the role of the parents and how you can appropriately
+    involve them.
+
+
+    One of the schools I''m hoping to do a prac at is considered low-socio economic.
+    The parents of students in such as school are labelled as being non-participative
+    in their children''s education, as not valuing education. If this is true, how
+    you find it out and how you work with it are questions at the forefront of my
+    mind.
+
+
+    The journey has me interested so far, I find I''m engaging far more than I expected.
+
+
+    David.'
+  date: '2011-03-06 17:58:04'
+  date_gmt: '2011-03-06 07:58:04'
+  id: '3'
+  parent: '2'
+  type: comment
+  user_id: '1'
+date: 2011-03-06 04:08:10
 next:
   text: '"Literacy and Numeracy: Week 1"'
   url: /blog/2011/03/06/literacy-and-numeracy-week-1/
+pingbacks: []
 previous:
   text: A comparison of schools - enabled by MySchools v2.0
   url: /blog/2011/03/05/a-comparison-of-schools-enabled-by-myschools-v2-0/
+template: blog-post.html
 title: '"Supportive Learning Environments: Week 1"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: suifaijohnmak
-      author_email: suifaijohnmak@yahoo.com.au
-      author_ip: 60.241.166.115
-      author_url: http://suifaijohnmak.wordpress.com
-      content: 'Hi David,
-    
-        "Are there academics reading our responses to ascertain how knowledge level in
-        order to customise the course and its teaching? I doubt it." I have subscribed
-        to you blog, and so am interested in your thoughts.  Your questions about managing
-        diversity, rights and responsibility are common on the menus of vocational and
-        adult education, and in your case, school education.  Stereotyping and labelling
-        as you shared could hinder our support to our learners. Would our assumptions
-        often be borne out of our intuitions, especially when we don''t quite understand
-        the background of our learners at the start?  I have taken similar pathways back
-        in the 80s and 90s (when I did my Grad Dip in VET at UTS), so my views on rights
-        and responsibilities were based on the "constructivist" views.  However, would
-        these rights and responsibilities be different under a connectivist views?  I
-        do reckon these might sound differently, especially when learners are taking part
-        of the role of teachers on their journey of learning.  In your teaching environment,
-        to what extent would you like your learners take up such a role?  How about the
-        parents?  What are their roles and expectations?  Would these questions be answered?  May
-        be, if you set up a blog post invitation or a wiki for them to respond to you
-        quest.  But I haven''t tried these myself, as my learners are all adults, and
-        the responses from them were based on standard surveys.
-    
-        Hope you would enjoy your exciting journey of teaching in school.
-    
-        John'
-      date: '2011-03-06 15:28:50'
-      date_gmt: '2011-03-06 05:28:50'
-      id: '2'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.220.172.144
-      author_url: https://djon.es/blog/
-      content: 'G''day John,
-    
-    
-        Thanks for the comments. Much to agree with.
-    
-    
-        I think you''re right that our assumptions are borne out of our institutions,
-        our experiences and it can be difficult to escape from those. Theories of learning
-        are part of that.
-    
-    
-        Constructivism is still a big part, perhaps the main part, of what we''re being
-        told about. Connectivism is mentioned, but isn''t the primary perspective.
-    
-    
-        Your questions around what this would mean from a connectivist perpective is one
-        that interests me. Especially the role of the parents and how you can appropriately
-        involve them.
-    
-    
-        One of the schools I''m hoping to do a prac at is considered low-socio economic.
-        The parents of students in such as school are labelled as being non-participative
-        in their children''s education, as not valuing education. If this is true, how
-        you find it out and how you work with it are questions at the forefront of my
-        mind.
-    
-    
-        The journey has me interested so far, I find I''m engaging far more than I expected.
-    
-    
-        David.'
-      date: '2011-03-06 17:58:04'
-      date_gmt: '2011-03-06 07:58:04'
-      id: '3'
-      parent: '2'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 So the practice is established, I am aiming to write a single blog post per week, per course as part of my studies to become a teacher. This post if for week 1 of the supportive learning environments course.
 

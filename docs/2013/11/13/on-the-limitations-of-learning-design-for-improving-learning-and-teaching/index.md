@@ -1,182 +1,180 @@
----
+﻿---
 categories:
 - elearning
-date: 2013-11-13 14:38:53+10:00
+comments:
+- approved: '1'
+  author: Mark Smithers (@marksmithers)
+  author_email: marksmithers@twitter.example.com
+  author_ip: 60.241.194.76
+  author_url: http://twitter.com/marksmithers
+  content: 'Hi David,
+
+
+    Great post. I need to explain a little more about autonomous organisations from
+    my experience at Swinburne Online which I see as an example of what Clayton Christensen
+    was getting at (albeit more by accident than design). I don''t think I''m giving
+    anything away to say that the process of course development entails a close partnership
+    with subject matter experts and considers not just the design of content but the
+    way that the course is delivered. Effectively requiring a number of subject matter
+    experts (depending on the cohort size) working with small groups of students based
+    on activities designed with the SME at design time. The courses are designed to
+    be reused and developed upon based on user feedback from all course stakeholders
+    each time it is delivered. In so doing the courses that get  developed fulfill
+    each of the 4 requirements that you list at the start. I think it''s a viable
+    model and a scalable one.
+
+
+    On the question of training academics; I remember back in 1996 we had this mad
+    idea that we would give all of the staff at the uni I was at a copy of Hot Dog
+    Pro, FrontPage or some other WYSWIG html editor and get the staff to put their
+    content online. Of course that came to nothing but I really think we are in the
+    same position now if we expect SMEs to spend time learning the skills knowledge
+    required to deliver modern online courses. Undoubtedly some can do it and some
+    want to do it (not necessarily the same group) but that is a small proportion
+    (10%-15%*); what do you do about the rest?
+
+
+    I''ve even come round to the position that you could even question whether those
+    that can do it and want to do it actually should do it. We know it''s not in their
+    best interests. Wouldn''t it be better to do them a kindness and tell them to
+    go write a research paper instead?
+
+
+    With regard to task corruption; I don''t really see a problem. As courses get
+    developed they are done so to highest standards available at the time with the
+    resources available. Maybe I''ve misunderstood.
+
+
+    I completely agree that universities are complex systems that get managed as simple
+    systems. One thing that we can do is try and reduce that complexity. The SOL model
+    actually does this. That''s not to say it takes a reductivist approach. In fact,
+    by allowing SMEs to work with LDs and technologists a wider variety in course
+    delivery techniques can be achieved within a sensible and evidence based approach
+    to consistency in UI.
+
+
+    Cheers
+
+
+    Mark
+
+
+    * Based on figures for LMS course activity at another university which ties in
+    nicely with Rogers proportions of innovators and early adopters in a population.'
+  date: '2013-11-13 16:36:56'
+  date_gmt: '2013-11-13 06:36:56'
+  id: '901'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Kate
+  author_email: kbowles@uow.edu.au
+  author_ip: 150.101.112.6
+  author_url: http://musicfordeckchairs.wordpress.com/
+  content: 'David and Mark
+
+
+    My thought about the model Mark is proposing in his comment is the strong focus
+    on "design time" in most learning design activities. It''s a time-limited partnership:
+    lots of set up partnering well ahead of time, and then, whoosh, the SME is on
+    her own. To this extent, it''s very like other forms of industrial and habitat
+    design. I''m interested in whether it''s possible to develop a collaboration at
+    scale that positions the learning designer more in the role of midwife: in it
+    to the end.  But as I mentioned on Mark''s post, I think there are real limits
+    to the scaling of this in the way that we are currently staffing design teams.
+
+
+    Chapman''s work on task corruption looks really fascinating. David, I went back
+    over your older posts on task corruption and quality assurance, and I think you''re
+    right: the current heavy investment in business analysis in universities is generating
+    whole repertoires of task simulation, to the extent that it seems like the primary
+    function of universities is to generate reports on their primary function, which
+    is to generate reports on ...
+
+
+    I appreciated both your posts very much.
+
+
+    Kate'
+  date: '2013-11-13 17:33:30'
+  date_gmt: '2013-11-13 07:33:30'
+  id: '902'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 60.228.70.68
+  author_url: https://djon.es/blog/
+  content: 'G''day Mark,  Thanks for taking the time to reply, give more detail and
+    get me thinking.
+
+
+    The model you describe sounds very similar to what I understand as the OU model,
+    though perhaps at a different scale. I wonder how this model scales down to the
+    small course? In this new massive world order, is there any space for the class
+    with 50 students or less?
+
+
+    The "task corruption" question was not something necessarily in the Swinburne
+    Online context (where I assume the SMEs know and are some engaged with what they
+    are getting themselves in for), but more the traditional university context where
+    the SME is increasingly battling the top-down attempts to improve learning and
+    teaching. e.g. the <a href="https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/"
+    rel="nofollow">minimum standards stuff</a> I''ve been critical of previously.
+
+
+    Actually, <a href="https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/"
+    rel="nofollow">that same post</a> quotes from a paper by Cavallo which I think
+    captures a lot of what I''d be trying in a similar situation.  In fact, I''ve
+    written about it before in <a href="https://djon.es/blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/"
+    rel="nofollow">"Losing weight, improving learning and teaching and complex systems"</a>
+    and even <a href="https://djon.es/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/"
+    rel="nofollow">did a presentation way back when</a>.  This captures what I''d
+    be trying for develop further.
+
+
+    The trouble is that this sort of complex adaptive systems informed approach requires
+    management to give up the idea of being able to prescribe what is good such as
+    minimum course standards (a product emphasis) and allow good stuff to emerge (process
+    emphasis).
+
+
+    David.'
+  date: '2013-11-14 13:09:19'
+  date_gmt: '2013-11-14 03:09:19'
+  id: '903'
+  parent: '901'
+  type: comment
+  user_id: '1'
+date: 2013-11-13 04:38:53
 next:
   text: Evaluations of online learning activities based on LMS logs
   url: /blog/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/
+pingbacks:
+- approved: '1'
+  author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.161
+  author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
+  content: "[&#8230;] useful pedagogies &#8211; especially when it comes to what Goodyear\
+    \ and Dimitriatdis (2013) call &#8220;design for orchestration&#8221; &#8211;\
+    \ providing support for the teacher\u2019s work at learn [&#8230;]"
+  date: '2016-03-04 13:33:46'
+  date_gmt: '2016-03-04 03:33:46'
+  id: '904'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Exploring current institutional e-learning usage
   url: /blog/2013/11/12/exploring-current-institutional-e-learning-usage/
+template: blog-post.html
 title: On the limitations of learning design for improving learning and teaching
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Mark Smithers (@marksmithers)
-      author_email: marksmithers@twitter.example.com
-      author_ip: 60.241.194.76
-      author_url: http://twitter.com/marksmithers
-      content: 'Hi David,
-    
-    
-        Great post. I need to explain a little more about autonomous organisations from
-        my experience at Swinburne Online which I see as an example of what Clayton Christensen
-        was getting at (albeit more by accident than design). I don''t think I''m giving
-        anything away to say that the process of course development entails a close partnership
-        with subject matter experts and considers not just the design of content but the
-        way that the course is delivered. Effectively requiring a number of subject matter
-        experts (depending on the cohort size) working with small groups of students based
-        on activities designed with the SME at design time. The courses are designed to
-        be reused and developed upon based on user feedback from all course stakeholders
-        each time it is delivered. In so doing the courses that get  developed fulfill
-        each of the 4 requirements that you list at the start. I think it''s a viable
-        model and a scalable one.
-    
-    
-        On the question of training academics; I remember back in 1996 we had this mad
-        idea that we would give all of the staff at the uni I was at a copy of Hot Dog
-        Pro, FrontPage or some other WYSWIG html editor and get the staff to put their
-        content online. Of course that came to nothing but I really think we are in the
-        same position now if we expect SMEs to spend time learning the skills knowledge
-        required to deliver modern online courses. Undoubtedly some can do it and some
-        want to do it (not necessarily the same group) but that is a small proportion
-        (10%-15%*); what do you do about the rest?
-    
-    
-        I''ve even come round to the position that you could even question whether those
-        that can do it and want to do it actually should do it. We know it''s not in their
-        best interests. Wouldn''t it be better to do them a kindness and tell them to
-        go write a research paper instead?
-    
-    
-        With regard to task corruption; I don''t really see a problem. As courses get
-        developed they are done so to highest standards available at the time with the
-        resources available. Maybe I''ve misunderstood.
-    
-    
-        I completely agree that universities are complex systems that get managed as simple
-        systems. One thing that we can do is try and reduce that complexity. The SOL model
-        actually does this. That''s not to say it takes a reductivist approach. In fact,
-        by allowing SMEs to work with LDs and technologists a wider variety in course
-        delivery techniques can be achieved within a sensible and evidence based approach
-        to consistency in UI.
-    
-    
-        Cheers
-    
-    
-        Mark
-    
-    
-        * Based on figures for LMS course activity at another university which ties in
-        nicely with Rogers proportions of innovators and early adopters in a population.'
-      date: '2013-11-13 16:36:56'
-      date_gmt: '2013-11-13 06:36:56'
-      id: '901'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Kate
-      author_email: kbowles@uow.edu.au
-      author_ip: 150.101.112.6
-      author_url: http://musicfordeckchairs.wordpress.com/
-      content: 'David and Mark
-    
-    
-        My thought about the model Mark is proposing in his comment is the strong focus
-        on "design time" in most learning design activities. It''s a time-limited partnership:
-        lots of set up partnering well ahead of time, and then, whoosh, the SME is on
-        her own. To this extent, it''s very like other forms of industrial and habitat
-        design. I''m interested in whether it''s possible to develop a collaboration at
-        scale that positions the learning designer more in the role of midwife: in it
-        to the end.  But as I mentioned on Mark''s post, I think there are real limits
-        to the scaling of this in the way that we are currently staffing design teams.
-    
-    
-        Chapman''s work on task corruption looks really fascinating. David, I went back
-        over your older posts on task corruption and quality assurance, and I think you''re
-        right: the current heavy investment in business analysis in universities is generating
-        whole repertoires of task simulation, to the extent that it seems like the primary
-        function of universities is to generate reports on their primary function, which
-        is to generate reports on ...
-    
-    
-        I appreciated both your posts very much.
-    
-    
-        Kate'
-      date: '2013-11-13 17:33:30'
-      date_gmt: '2013-11-13 07:33:30'
-      id: '902'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 60.228.70.68
-      author_url: https://djon.es/blog/
-      content: 'G''day Mark,  Thanks for taking the time to reply, give more detail and
-        get me thinking.
-    
-    
-        The model you describe sounds very similar to what I understand as the OU model,
-        though perhaps at a different scale. I wonder how this model scales down to the
-        small course? In this new massive world order, is there any space for the class
-        with 50 students or less?
-    
-    
-        The "task corruption" question was not something necessarily in the Swinburne
-        Online context (where I assume the SMEs know and are some engaged with what they
-        are getting themselves in for), but more the traditional university context where
-        the SME is increasingly battling the top-down attempts to improve learning and
-        teaching. e.g. the <a href="https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/"
-        rel="nofollow">minimum standards stuff</a> I''ve been critical of previously.
-    
-    
-        Actually, <a href="https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/"
-        rel="nofollow">that same post</a> quotes from a paper by Cavallo which I think
-        captures a lot of what I''d be trying in a similar situation.  In fact, I''ve
-        written about it before in <a href="https://djon.es/blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/"
-        rel="nofollow">"Losing weight, improving learning and teaching and complex systems"</a>
-        and even <a href="https://djon.es/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/"
-        rel="nofollow">did a presentation way back when</a>.  This captures what I''d
-        be trying for develop further.
-    
-    
-        The trouble is that this sort of complex adaptive systems informed approach requires
-        management to give up the idea of being able to prescribe what is good such as
-        minimum course standards (a product emphasis) and allow good stuff to emerge (process
-        emphasis).
-    
-    
-        David.'
-      date: '2013-11-14 13:09:19'
-      date_gmt: '2013-11-14 03:09:19'
-      id: '903'
-      parent: '901'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.161
-      author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
-      content: "[&#8230;] useful pedagogies &#8211; especially when it comes to what Goodyear\
-        \ and Dimitriatdis (2013) call &#8220;design for orchestration&#8221; &#8211;\
-        \ providing support for the teacher\u2019s work at learn [&#8230;]"
-      date: '2016-03-04 13:33:46'
-      date_gmt: '2016-03-04 03:33:46'
-      id: '904'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A quick followup to some comments/replies on @marksmithers post ["Because academic freedom does not include the freedom to create a poor learning experience"](http://www.masmithers.com/2013/11/12/because-academic-freedom-does-not-include-the-freedom-to-create-a-poor-learning-experience/). In particular, on Mark's suggestion
 

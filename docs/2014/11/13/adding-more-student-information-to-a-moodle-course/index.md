@@ -1,75 +1,72 @@
----
+﻿---
 categories:
 - bad
 - elearning
-date: 2014-11-13 16:50:48+10:00
+comments: []
+date: 2014-11-13 06:50:48
 next:
   text: '"What is" and "what might be" - evidence of a problem with institutional
     e-learning?'
   url: /blog/2014/12/15/what-is-and-what-might-be-evidence-of-a-problem-with-institutional-e-learning/
+pingbacks:
+- approved: '1'
+  author: Types of e-learning projects and the problem of starvation | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.73
+  author_url: https://davidtjones.wordpress.com/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/
+  content: '[&#8230;] that are specific to a particular pedagogical design. Perhaps
+    unique to a single course. e.g. the &#8220;more student details&#8221; Greasemonkey
+    script (see more recent screenshot below) that I&#8217;ve implemented for EDC3100.
+    The pedagogical design [&#8230;]'
+  date: '2015-06-16 10:56:41'
+  date_gmt: '2015-06-16 00:56:41'
+  id: '1093'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Exploring BIM + sentiment analysis &#8211; what might it say about student
+    blog posts | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.190
+  author_url: https://davidtjones.wordpress.com/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/
+  content: '[&#8230;] But for the purpose of the talk I have to give in a couple of
+    weeks, I should be able to use this to knock up something that works with the
+    more student details script. [&#8230;]'
+  date: '2015-06-16 22:38:08'
+  date_gmt: '2015-06-16 12:38:08'
+  id: '1094'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Updating &#8220;more student details&#8221; | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.73
+  author_url: https://davidtjones.wordpress.com/2015/07/23/updating-more-student-details/
+  content: '[&#8230;] &#8220;More student details&#8221; (see image below) is the
+    most visible part of the additional systems I&#8217;ve put in place to make teaching
+    bearable (this presentation talks more about it). The problem I&#8217;m dealing
+    with here is that a new semester has started, which means I need to re-configure
+    these feral systems to work with the new semester. [&#8230;]'
+  date: '2015-07-23 12:39:15'
+  date_gmt: '2015-07-23 02:39:15'
+  id: '1095'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Established versus Affordances: part of the reason institutional e-learning
     is like teenage sex'
   url: /blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/
+template: blog-post.html
 title: Adding more student information to a Moodle course
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Types of e-learning projects and the problem of starvation | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.73
-      author_url: https://davidtjones.wordpress.com/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/
-      content: '[&#8230;] that are specific to a particular pedagogical design. Perhaps
-        unique to a single course. e.g. the &#8220;more student details&#8221; Greasemonkey
-        script (see more recent screenshot below) that I&#8217;ve implemented for EDC3100.
-        The pedagogical design [&#8230;]'
-      date: '2015-06-16 10:56:41'
-      date_gmt: '2015-06-16 00:56:41'
-      id: '1093'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Exploring BIM + sentiment analysis &#8211; what might it say about student
-        blog posts | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.190
-      author_url: https://davidtjones.wordpress.com/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/
-      content: '[&#8230;] But for the purpose of the talk I have to give in a couple of
-        weeks, I should be able to use this to knock up something that works with the
-        more student details script. [&#8230;]'
-      date: '2015-06-16 22:38:08'
-      date_gmt: '2015-06-16 12:38:08'
-      id: '1094'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Updating &#8220;more student details&#8221; | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.73
-      author_url: https://davidtjones.wordpress.com/2015/07/23/updating-more-student-details/
-      content: '[&#8230;] &#8220;More student details&#8221; (see image below) is the
-        most visible part of the additional systems I&#8217;ve put in place to make teaching
-        bearable (this presentation talks more about it). The problem I&#8217;m dealing
-        with here is that a new semester has started, which means I need to re-configure
-        these feral systems to work with the new semester. [&#8230;]'
-      date: '2015-07-23 12:39:15'
-      date_gmt: '2015-07-23 02:39:15'
-      id: '1095'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 moreStudentDetails.user.js is a Greasemonkey script I've written to provide more details about a student when I'm using Moodle. Originally intended to help when responding to a student query in a course I teach that regularly has 300+ pre-service teachers from a range of backgrounds and locations. The current version produces something like the following image (click on it to see a larger version).
 
-[![MAV-based more user details](images/15316891905_d54e182394_n.jpg)](https://www.flickr.com/photos/david_jones/15316891905 "MAV-based more user details by David Jones, on Flickr")
+[![MAV-based more user details](https://djon.es/assets/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/images/15316891905_d54e182394_n.jpg)](https://www.flickr.com/photos/david_jones/15316891905 "MAV-based more user details by David Jones, on Flickr")
 
 The script adds a link titled \[details\] to the Moodle page whenever it finds a link to a user profile (see above). When you click on that link a small dialog box pops up with some more student details. For my purposes, I'm particularly interested in what type of pre-service teacher they are and their mode/campus.
 
@@ -116,7 +113,7 @@ This will probably involve some fairly advanced jQuery work - something I'm new 
 
 The initial mockup (ugly colour scheme and all) can be seen in the following image. Or you can actually play with the [mockup here](https://dl.dropboxusercontent.com/u/14025788/BAD/jquery/my.html).
 
-[![moreStudentDetails](images/15593424040_22b19881c1_n.jpg)](https://www.flickr.com/photos/david_jones/15593424040 "moreStudentDetails by David Jones, on Flickr")
+[![moreStudentDetails](https://djon.es/assets/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/images/15593424040_22b19881c1_n.jpg)](https://www.flickr.com/photos/david_jones/15593424040 "moreStudentDetails by David Jones, on Flickr")
 
 What the mockup shows in the above is the visual representation of the activities the student has completed (or not), some explanation
 

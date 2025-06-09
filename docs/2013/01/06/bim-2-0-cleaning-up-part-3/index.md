@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2013-01-06 22:02:57+10:00
+date: 2013-01-06 12:02:57
 next:
   text: Analytics for Learning and Teaching
   url: /blog/2013/01/08/analytics-for-learning-and-teaching/
 previous:
   text: BIM 2.0 - Cleaning up issues - Part 2
   url: /blog/2013/01/04/bim-2-0-cleaning-up-issues-part-2/
+template: blog-post.html
 title: BIM 2.0 - cleaning up part 3
 type: post
-template: blog-post.html
 ---
 The third in a series of posts documenting necessary cleaning up of [issues](https://github.com/djplaner/BIM/issues?labels=immediate&state=open) with BIM. Getting closer and closer to release of 2.0b
 

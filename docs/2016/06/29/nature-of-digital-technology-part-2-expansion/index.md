@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bad
 - digitalignorance
-date: 2016-06-29 09:15:55+10:00
+date: 2016-06-28 23:15:55
 next:
   text: Any pointers to an old, ancient game?
   url: /blog/2016/06/29/any-pointers-to-an-old-ancient-game/
 previous:
   text: The nature of digital technology? Part 2
   url: /blog/2016/06/28/the-nature-of-digital-technology-part-2/
+template: blog-post.html
 title: Nature of digital technology? Part 2 - expansion
 type: post
-template: blog-post.html
 ---
 @damoclarky has [commented](/blog/2016/06/28/the-nature-of-digital-technology-part-2/#comment-7673) on yesterday's [Part 2 post](/blog/2016/06/28/the-nature-of-digital-technology-part-2/). A comment that's sparked a bit of thinking. I've moved my length response into this post, rather than as a reply to the comment.
 

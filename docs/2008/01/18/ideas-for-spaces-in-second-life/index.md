@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - secondlife
 - web3dx
-date: 2008-01-18 16:57:36+10:00
+date: 2008-01-18 06:57:36
 next:
   text: From scarcity to over abundance - paradigm change for IT departments (and
     others)
@@ -12,9 +12,9 @@ previous:
   url: /blog/2008/01/14/dealing-with-users-freedom-and-shadow-systems/
 tags:
 - cddu-web3dx-secondlife-learningspaces
+template: blog-post.html
 title: Ideas for "spaces" in Second Life
 type: post
-template: blog-post.html
 ---
 CQU has recently invested in an [island](http://cq-pan.cqu.edu.au/david-jones/blog/?p=157) in Second Life for the purposes of [finding out how it might be used within learning and teaching](http://cddu.cqu.edu.au/index.php/Web3D_Exchange_Project). One of the problems we have to face is how and what spaces do we build on the island.
 

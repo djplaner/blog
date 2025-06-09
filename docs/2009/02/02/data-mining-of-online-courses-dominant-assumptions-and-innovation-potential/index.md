@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - addie
 - elearning
-date: 2009-02-02 15:22:10+10:00
+comments: []
+date: 2009-02-02 05:22:10
 next:
   text: More detail on the money burner
   url: /blog/2009/02/03/more-detail-on-the-money-burner/
+pingbacks:
+- approved: '1'
+  author: 'Getting half-baked ideas out there: improving research and the academy
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: https://djon.es/blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
+  content: '[...] is not a new set of questions. The data mining of such logs is quite
+    a common practice and has a collection of approaches and publications. So, the
+    questions [...]'
+  date: '2009-02-16 09:46:02'
+  date_gmt: '2009-02-15 23:46:02'
+  id: '2090'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What is a PLE? More than a suite of tools? More than social media?
   url: /blog/2009/02/02/what-is-a-ple-more-than-a-suite-of-tools-more-than-social-media/
+template: blog-post.html
 title: Data mining of online courses - dominant assumptions and innovation potential
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Getting half-baked ideas out there: improving research and the academy
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: https://djon.es/blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
-      content: '[...] is not a new set of questions. The data mining of such logs is quite
-        a common practice and has a collection of approaches and publications. So, the
-        questions [...]'
-      date: '2009-02-16 09:46:02'
-      date_gmt: '2009-02-15 23:46:02'
-      id: '2090'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 For almost as long as [learning management systems](http://en.wikipedia.org/wiki/Learning_management_system) have been around their have been researchers and technologists investigating how the usage logs of these systems can be harnessed to inform and improve learning and teaching. For a little while I was sort of involved in a [project](http://cddu.cqu.edu.au/index.php/Category:Blackboard_Indicators) that would look at some of this - interest has waned in line with organisational realignments.
 

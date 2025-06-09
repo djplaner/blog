@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-03-20 10:19:24+10:00
+date: 2009-03-20 00:19:24
 next:
   text: Cognition - we're not rational and how it impacts e-learning
   url: /blog/2009/03/20/cognition-were-not-rational-and-how-it-impacts-e-learning/
@@ -10,9 +10,9 @@ previous:
   text: Technology will *not* change the way we teach - an example why we&#039;re
     an amnesiac field
   url: /blog/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/
+template: blog-post.html
 title: '"PhD Update - Week #4 - Frustration and progress"'
 type: post
-template: blog-post.html
 ---
 This week is turning out to be perhaps the most frustrating, not due to lack of program, but instead due to connections between what I'm reading/writing and what I'm seeing in my local context. As per [last week's update](/blog/2009/03/13/phd-update-week-3/) the aim this week was to complete sections of chapter 2 related to the Ps Framework. The first section I targeted was "Past Experience" and this has been the source of the frustration.
 

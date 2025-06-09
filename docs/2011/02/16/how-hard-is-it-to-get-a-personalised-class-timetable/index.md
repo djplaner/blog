@@ -1,96 +1,93 @@
----
+﻿---
 categories:
 - journey
 - teaching
 - webfuse
-date: 2011-02-16 13:56:54+10:00
+comments:
+- approved: '1'
+  author: damoclarky
+  author_email: d.clark@cqu.edu.au
+  author_ip: 118.208.6.184
+  author_url: null
+  content: 'Oh DJ you are a nerd. :)
+
+
+    While on the topic of nerds...
+
+
+    As someone who has recently taken the plunge into php programming, I am missing
+    Perl already.  Perl is a beauty, and Php is like Perl''s red-neck cousin - its
+    a crass language lacking sophistication, and what is with all the understored
+    function names...
+
+
+    Give me Perl &amp; CPAN anyday.
+
+
+    So is your point that if a student external to the organisation can spend 3hrs
+    to find a solution to a simple problem - why can''t the institution find resources
+    to do the same?  What does the student portal provide for timetabling?
+
+
+    Damo.'
+  date: '2011-02-16 14:43:42'
+  date_gmt: '2011-02-16 04:43:42'
+  id: '3260'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 143.238.197.126
+  author_url: https://djon.es/blog/
+  content: 'The student portal has a tabbed interface for all the courses you are
+    enrolled in. I''m doing four courses, so four tabs.
+
+
+    Each course tab contains a time table link. It''s the same link, <a href="http://timetabling.cqu.edu.au/FCWViewer/view.do?site=199"
+    rel="nofollow">this one</a>.
+
+
+    As <a href="https://djon.es/blog/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/"
+    rel="nofollow">I''ve pointed out previously</a> it''s a link that requires students
+    to know a lot more about the institution than they really should need to.'
+  date: '2011-02-16 14:51:09'
+  date_gmt: '2011-02-16 04:51:09'
+  id: '3261'
+  parent: '3260'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Rolley
+  author_email: r.tickner@cqu.edu.au
+  author_ip: 58.106.7.178
+  author_url: http://rolleys.wordpress.com
+  content: 'You are the master!
+
+
+    I''m totally not surprised the institution say it''s too hard or complex.  Being
+    able to creating clever and useful systems and solutions - even simple ones -
+    is certainly not a quality the institution seems to have. Sure there''s people
+    with the skills around, but the bureaucracy and idiocy (usually combined) prevent
+    most useful things from ever becoming a reality.'
+  date: '2011-02-16 19:23:15'
+  date_gmt: '2011-02-16 09:23:15'
+  id: '3262'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-02-16 03:56:54
 next:
   text: A glimmer of what I'm thinking
   url: /blog/2011/02/16/a-glimmer-of-what-im-thinking/
+pingbacks: []
 previous:
   text: Getting an overview of the term ahead
   url: /blog/2011/02/15/getting-an-overview-of-the-term-ahead/
+template: blog-post.html
 title: How hard is it to get a personalised class timetable?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: damoclarky
-      author_email: d.clark@cqu.edu.au
-      author_ip: 118.208.6.184
-      author_url: null
-      content: 'Oh DJ you are a nerd. :)
-    
-    
-        While on the topic of nerds...
-    
-    
-        As someone who has recently taken the plunge into php programming, I am missing
-        Perl already.  Perl is a beauty, and Php is like Perl''s red-neck cousin - its
-        a crass language lacking sophistication, and what is with all the understored
-        function names...
-    
-    
-        Give me Perl &amp; CPAN anyday.
-    
-    
-        So is your point that if a student external to the organisation can spend 3hrs
-        to find a solution to a simple problem - why can''t the institution find resources
-        to do the same?  What does the student portal provide for timetabling?
-    
-    
-        Damo.'
-      date: '2011-02-16 14:43:42'
-      date_gmt: '2011-02-16 04:43:42'
-      id: '3260'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 143.238.197.126
-      author_url: https://djon.es/blog/
-      content: 'The student portal has a tabbed interface for all the courses you are
-        enrolled in. I''m doing four courses, so four tabs.
-    
-    
-        Each course tab contains a time table link. It''s the same link, <a href="http://timetabling.cqu.edu.au/FCWViewer/view.do?site=199"
-        rel="nofollow">this one</a>.
-    
-    
-        As <a href="https://djon.es/blog/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/"
-        rel="nofollow">I''ve pointed out previously</a> it''s a link that requires students
-        to know a lot more about the institution than they really should need to.'
-      date: '2011-02-16 14:51:09'
-      date_gmt: '2011-02-16 04:51:09'
-      id: '3261'
-      parent: '3260'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Rolley
-      author_email: r.tickner@cqu.edu.au
-      author_ip: 58.106.7.178
-      author_url: http://rolleys.wordpress.com
-      content: 'You are the master!
-    
-    
-        I''m totally not surprised the institution say it''s too hard or complex.  Being
-        able to creating clever and useful systems and solutions - even simple ones -
-        is certainly not a quality the institution seems to have. Sure there''s people
-        with the skills around, but the bureaucracy and idiocy (usually combined) prevent
-        most useful things from ever becoming a reality.'
-      date: '2011-02-16 19:23:15'
-      date_gmt: '2011-02-16 09:23:15'
-      id: '3262'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Apparently, it is [too complex](/blog/2011/02/15/getting-an-overview-of-the-term-ahead/#comment-3835) to create a personalised class timetable for students at the institution I'm attending. I have [previously described](/blog/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/) what I (as a student) have to currently do to create my class timetable as well as explaining that I helped implement a personalised class timetable system at the same institution about 10 years ago.
 
@@ -163,11 +160,11 @@ So, what's been implemented is a script that
 
 Week 1 for me looks like the following. Click on the images to see a larger version.
 
-[![Week 1](images/5450048034_cac65d44cc_m.jpg)](http://www.flickr.com/photos/david_jones/5450048034/ "Week 1 by David T Jones, on Flickr")
+[![Week 1](https://djon.es/assets/blog/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/images/5450048034_cac65d44cc_m.jpg)](http://www.flickr.com/photos/david_jones/5450048034/ "Week 1 by David T Jones, on Flickr")
 
 The monthly view on Google calendar, with one of the events highlighted looks like this
 
-[![Monthly](images/5450068514_6ed66fc60b_m.jpg)](http://www.flickr.com/photos/david_jones/5450068514/ "Monthly by David T Jones, on Flickr")
+[![Monthly](https://djon.es/assets/blog/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/images/5450068514_6ed66fc60b_m.jpg)](http://www.flickr.com/photos/david_jones/5450068514/ "Monthly by David T Jones, on Flickr")
 
 ### Concept proven, work to do
 

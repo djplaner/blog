@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - ascilite
-date: 2013-12-02 14:33:04+10:00
+date: 2013-12-02 04:33:04
 next:
   text: '"Reviewing the past to imagine the future of elearning #ascilite"'
   url: /blog/2013/12/03/reviewing-the-past-to-imagine-the-future-of-elearning-ascilite/
 previous:
   text: 'A window into lecturers&#039; conversations #ascilite'
   url: /blog/2013/12/02/a-window-into-lecturers-conversations-ascilite/
+template: blog-post.html
 title: '"Enhancing learning analytics by understanding the needs of teachers #ascilite"'
 type: post
-template: blog-post.html
 ---
 Linda Corrin, Gregor Kennedy, Raoul Mulder, Enhancing learning analytics by understanding the needs of teachers
 

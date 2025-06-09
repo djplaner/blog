@@ -1,72 +1,70 @@
----
+﻿---
 categories:
 - thesis
-date: 2014-12-19 17:07:39+10:00
+comments:
+- approved: '1'
+  author: CogDog
+  author_email: cogdogroo@gmail.com
+  author_ip: 206.123.191.246
+  author_url: http://cogdogblog.com/
+  content: 'It''s helpful to read your notes and thoughts in blog format, much more
+    coherent to me.
+
+    From what I got listening to Ward Cunningham in today''s hangout, the breadth
+    and range of what you see in Recent Pages depends on how much wandering you have
+    been around the neighborhood (to borrow Mike''s analogy). It seems to be loading
+    activity traces of people who''s wikis you are listed on various pages.  so if
+    you are hopping around from wiki to wiki, your Recent changes will be refreshed
+    by those- I think its what they suggest going to the Wiki Happenings page first
+    (which lists everybody); having opened that page, you''ve more or less picked
+    up the stream of all those people in Recent Changes.
+
+
+    Yeah, I missed the note on proper comment style. What I should do (and maybe tomorrow)
+    is fork Kate''s article even more (if there is such a thing) and end up writing
+    my version to pick up the software development strand I tacked on, which is likely
+    different that what she is writing about.
+
+
+    I *think* the way of thinking here that is different is that most processes like
+    this (collaborative article writing, code development) is aimed towards one final
+    highly polished version. In terms of idea mining/fracking/trading/****ing it seems
+    more divergent as to what is made.
+
+
+    Now I am reading more into the Concrere Lounge, love the metaphor.'
+  date: '2014-12-19 17:26:36'
+  date_gmt: '2014-12-19 07:26:36'
+  id: '1163'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2014-12-19 07:07:39
 next:
   text: FedWiki 7, 8 and 9 - Moving, catching up and engaging
   url: /blog/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/
+pingbacks:
+- approved: '1'
+  author: 'Random #fedwikihappening ramblings | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 207.198.101.57
+  author_url: https://davidtjones.wordpress.com/2014/12/29/random-fedwikihappening-ramblings/
+  content: '[&#8230;] when I was reading about idea mining I had a vague sense of
+    deja vu. This was quickly resolved as I explored some of SFW space and came [&#8230;]'
+  date: '2014-12-29 15:19:13'
+  date_gmt: '2014-12-29 05:19:13'
+  id: '1164'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Concrete Lounge
   url: /blog/2014/12/18/concrete-lounge/
 tags:
 - fedwikihappening
+template: blog-post.html
 title: '"FedWiki Daily #6 - Mining, fracking and exploring the process"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: CogDog
-      author_email: cogdogroo@gmail.com
-      author_ip: 206.123.191.246
-      author_url: http://cogdogblog.com/
-      content: 'It''s helpful to read your notes and thoughts in blog format, much more
-        coherent to me.
-    
-        From what I got listening to Ward Cunningham in today''s hangout, the breadth
-        and range of what you see in Recent Pages depends on how much wandering you have
-        been around the neighborhood (to borrow Mike''s analogy). It seems to be loading
-        activity traces of people who''s wikis you are listed on various pages.  so if
-        you are hopping around from wiki to wiki, your Recent changes will be refreshed
-        by those- I think its what they suggest going to the Wiki Happenings page first
-        (which lists everybody); having opened that page, you''ve more or less picked
-        up the stream of all those people in Recent Changes.
-    
-    
-        Yeah, I missed the note on proper comment style. What I should do (and maybe tomorrow)
-        is fork Kate''s article even more (if there is such a thing) and end up writing
-        my version to pick up the software development strand I tacked on, which is likely
-        different that what she is writing about.
-    
-    
-        I *think* the way of thinking here that is different is that most processes like
-        this (collaborative article writing, code development) is aimed towards one final
-        highly polished version. In terms of idea mining/fracking/trading/****ing it seems
-        more divergent as to what is made.
-    
-    
-        Now I am reading more into the Concrere Lounge, love the metaphor.'
-      date: '2014-12-19 17:26:36'
-      date_gmt: '2014-12-19 07:26:36'
-      id: '1163'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Random #fedwikihappening ramblings | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 207.198.101.57
-      author_url: https://davidtjones.wordpress.com/2014/12/29/random-fedwikihappening-ramblings/
-      content: '[&#8230;] when I was reading about idea mining I had a vague sense of
-        deja vu. This was quickly resolved as I explored some of SFW space and came [&#8230;]'
-      date: '2014-12-29 15:19:13'
-      date_gmt: '2014-12-29 05:19:13'
-      id: '1164'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 And onto daily #6 of #fedwikihappening. I'm hoping this will start explore what the process might be around using fedwiki in my day-to-day thinking. To that end, I'm planning to
 
@@ -88,7 +86,7 @@ Running out of time, so perhaps straight onto catching up. Engaging is probably 
 
 ## Catching up
 
-[![Recent Changes](images/15868605699_c531e8a401.jpg)](https://www.flickr.com/photos/david_jones/15868605699 "Recent Changes by David Jones, on Flickr")
+[![Recent Changes](https://djon.es/assets/blog/2014/12/19/software-issues-for-applying-conversation-theory-for-effective-collaboration-via-the-internet/images/15868605699_c531e8a401.jpg)](https://www.flickr.com/photos/david_jones/15868605699 "Recent Changes by David Jones, on Flickr")
 
 Connect to my fedwiki and away we go.
 

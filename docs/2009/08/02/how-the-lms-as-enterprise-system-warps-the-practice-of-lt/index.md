@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - elearning
 - psframework
-date: 2009-08-02 08:17:53+10:00
+date: 2009-08-01 22:17:53
 next:
   text: '"Evaluation of Webfuse course site feature usage: 2006 through 2009"'
   url: /blog/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/
@@ -11,9 +11,9 @@ previous:
   url: /blog/2009/07/31/some-early-results-from-webfuse-evaluation/
 tags:
 - vle-lms
+template: blog-post.html
 title: '"How the LMS - as enterprise system - warps the practice of L&#038;T"'
 type: post
-template: blog-post.html
 ---
 At the start of an early day of working on the PhD I am feeling particularly old. Dealing with a teenager at home may also have contributed to it. So, I'm feeling in a particularly curmudgeonly frame of mind, i.e. grumpy old b\*stard. Please keep that in mind when reading the following, it will likely come over much more cynical/negative than it is meant.
 

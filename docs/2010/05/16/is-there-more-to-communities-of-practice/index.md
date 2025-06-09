@@ -1,14 +1,14 @@
----
-date: 2010-05-16 12:39:50+10:00
+﻿---
+date: 2010-05-16 02:39:50
 next:
   text: Moving the indicators Moodle block to a factory class
   url: /blog/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/
 previous:
   text: Some tweaks to the indicators block
   url: /blog/2010/05/14/some-tweaks-to-the-indicators-block/
+template: blog-post.html
 title: Is there more to communities of practice?
 type: post
-template: blog-post.html
 ---
 [Markus](http://mathehu.wordpress.com/) and I have been talking about behaviour change and lots more for a bit. He's about to start a new job [has been speculating](http://mathehu.wordpress.com/2010/05/13/taking-moodle-into-prison-dentistry/) about what he might do and how it connects with what we've been talking about. This post is an attempt to make explicit my initial gut reaction to the idea that
 

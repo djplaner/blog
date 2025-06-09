@@ -1,47 +1,44 @@
----
+﻿---
 categories:
 - elearning
-date: 2014-02-17 11:58:01+10:00
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 138.77.29.67
+  author_url: null
+  content: 'I suspect the problem here is that you are seeing learning and teaching
+    as the overarching purpose of universities. Its more like nuclear energy, except
+    the barely controlled chain reaction happens with bureaucracy instead of atoms
+    :)
+
+
+    In all seriousness though, its the age old problem of the hand having to be re-engineered
+    to match the hammer rather than the reverse. From an enterprise system''s perspective,
+    its far easier to push change onto the user rather than change the enterprise
+    system. And, to some extent, this makes sense. People can adapt whereas enterprise
+    systems can''t. The trouble is that this only works up to a point where the system
+    is no long fit for purpose, which is where we probably are right now.
+
+
+    Col.'
+  date: '2014-02-18 10:47:33'
+  date_gmt: '2014-02-18 00:47:33'
+  id: '950'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2014-02-17 01:58:01
 next:
   text: '"Looking for a new "icebreaker" for #edc3100"'
   url: /blog/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/
+pingbacks: []
 previous:
   text: Needed updates to cc_attrib.pl
   url: /blog/2014/02/15/needed-updates-to-cc_attrib-pl/
+template: blog-post.html
 title: It's making us stupid
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 138.77.29.67
-      author_url: null
-      content: 'I suspect the problem here is that you are seeing learning and teaching
-        as the overarching purpose of universities. Its more like nuclear energy, except
-        the barely controlled chain reaction happens with bureaucracy instead of atoms
-        :)
-    
-    
-        In all seriousness though, its the age old problem of the hand having to be re-engineered
-        to match the hammer rather than the reverse. From an enterprise system''s perspective,
-        its far easier to push change onto the user rather than change the enterprise
-        system. And, to some extent, this makes sense. People can adapt whereas enterprise
-        systems can''t. The trouble is that this only works up to a point where the system
-        is no long fit for purpose, which is where we probably are right now.
-    
-    
-        Col.'
-      date: '2014-02-18 10:47:33'
-      date_gmt: '2014-02-18 00:47:33'
-      id: '950'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 A small frustration induced rant.
 

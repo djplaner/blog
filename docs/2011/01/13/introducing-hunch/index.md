@@ -1,96 +1,93 @@
----
+﻿---
 categories:
 - indicators
 - lak11
-date: 2011-01-13 22:42:40+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.170.87
+  author_url: http://www.vrbones.com
+  content: '<blockquote>Similarly, I wonder how much these type of things would reinforce
+    existing categories/beliefs, rather than offering new paths or opportunities.</blockquote>
+
+    Yes, this would seem a problem. You will be exposed to more content than your
+    immediate sphere of knowledge initially, but as the system gains confidence in
+    the answers given and the users of the system trust the output more, where are
+    the new inputs coming from? If you do strike out on your own, how does your reaction
+    / input to new content be integrated within the system?'
+  date: '2011-01-14 10:58:17'
+  date_gmt: '2011-01-14 00:58:17'
+  id: '3220'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.170.87
+  author_url: http://www.vrbones.com
+  content: <a href="http://sites.google.com/site/vrbones/storage/hunchaccess.png"
+    rel="nofollow">Hunch access</a> for facebook was a little scary. Basic information,
+    friend's information, email address, likes, access anytime, etc. Spent more than
+    a few moments wondering whether I should really be signing up to it, but in the
+    end decided to give it a go, then remove.
+  date: '2011-01-14 11:13:19'
+  date_gmt: '2011-01-14 01:13:19'
+  id: '3221'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Cris
+  author_email: decrissm@unity.ncsu.edu
+  author_ip: 74.242.227.29
+  author_url: http://
+  content: 'Now, see, I''m just wondering if Hunch can possibly have a metrics/analytics
+    system in place that can measure the results of its hunches/recommendations for
+    the user.  I guess I''ll know if I see Star Trek merchandise following me around
+    the Web since that''s the TV show it recommended for me.
+
+
+    Thanks for the Hunch review!'
+  date: '2011-01-14 12:20:32'
+  date_gmt: '2011-01-14 02:20:32'
+  id: '3222'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.185.51.1
+  author_url: https://djon.es/blog/
+  content: 'I imagine they measure the success of recommendations based on the actions
+    of the user they were recommended for.  i.e. if you click on the link, make comments
+    about it etc.  Didn''t dig far enough to get a good feel.
+
+
+    Am wondering if Hunch, or something like it, would evolve to be site independent.  e.g.
+    a bit like Google ads, its services/recommendations would appear as part of other
+    sites and feedback metrics to Hunch.'
+  date: '2011-01-14 13:14:31'
+  date_gmt: '2011-01-14 03:14:31'
+  id: '3223'
+  parent: '3222'
+  type: comment
+  user_id: '1'
+date: 2011-01-13 12:42:40
 next:
   text: Creating a podcast for LAK11 presentations
   url: /blog/2011/01/15/creating-a-podcast-for-lak11-presentations/
+pingbacks: []
 previous:
   text: Applying &quot;learning analytics&quot; to BIM
   url: /blog/2011/01/12/applying-learning-analytics-to-bim/
 tags:
 - lak11
+template: blog-post.html
 title: Introducing Hunch
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.170.87
-      author_url: http://www.vrbones.com
-      content: '<blockquote>Similarly, I wonder how much these type of things would reinforce
-        existing categories/beliefs, rather than offering new paths or opportunities.</blockquote>
-    
-        Yes, this would seem a problem. You will be exposed to more content than your
-        immediate sphere of knowledge initially, but as the system gains confidence in
-        the answers given and the users of the system trust the output more, where are
-        the new inputs coming from? If you do strike out on your own, how does your reaction
-        / input to new content be integrated within the system?'
-      date: '2011-01-14 10:58:17'
-      date_gmt: '2011-01-14 00:58:17'
-      id: '3220'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.170.87
-      author_url: http://www.vrbones.com
-      content: <a href="http://sites.google.com/site/vrbones/storage/hunchaccess.png"
-        rel="nofollow">Hunch access</a> for facebook was a little scary. Basic information,
-        friend's information, email address, likes, access anytime, etc. Spent more than
-        a few moments wondering whether I should really be signing up to it, but in the
-        end decided to give it a go, then remove.
-      date: '2011-01-14 11:13:19'
-      date_gmt: '2011-01-14 01:13:19'
-      id: '3221'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Cris
-      author_email: decrissm@unity.ncsu.edu
-      author_ip: 74.242.227.29
-      author_url: http://
-      content: 'Now, see, I''m just wondering if Hunch can possibly have a metrics/analytics
-        system in place that can measure the results of its hunches/recommendations for
-        the user.  I guess I''ll know if I see Star Trek merchandise following me around
-        the Web since that''s the TV show it recommended for me.
-    
-    
-        Thanks for the Hunch review!'
-      date: '2011-01-14 12:20:32'
-      date_gmt: '2011-01-14 02:20:32'
-      id: '3222'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.185.51.1
-      author_url: https://djon.es/blog/
-      content: 'I imagine they measure the success of recommendations based on the actions
-        of the user they were recommended for.  i.e. if you click on the link, make comments
-        about it etc.  Didn''t dig far enough to get a good feel.
-    
-    
-        Am wondering if Hunch, or something like it, would evolve to be site independent.  e.g.
-        a bit like Google ads, its services/recommendations would appear as part of other
-        sites and feedback metrics to Hunch.'
-      date: '2011-01-14 13:14:31'
-      date_gmt: '2011-01-14 03:14:31'
-      id: '3223'
-      parent: '3222'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 One of the activities for the first week of the [lak11 MOOC](http://learninganalytics.net) is to get started with using [Hunch](http://hunch.com) and reflect on it as a model for learning.
 

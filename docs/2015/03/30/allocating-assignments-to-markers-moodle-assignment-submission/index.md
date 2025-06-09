@@ -1,74 +1,71 @@
----
+﻿---
 categories:
 - concretelounge
 - elearning
 - moodle
 - oasm
-date: 2015-03-30 17:45:51+10:00
+comments:
+- approved: '1'
+  author: Peter
+  author_email: palbion@me.com
+  author_ip: 1.121.100.234
+  author_url: http://pamatravel.wordpress.com
+  content: 'My experience with the groups/groupings in the common module settings
+    is that I was able to switch into that mode after I had work submitted and then
+    use those groups to manage allocation to markers followed by bulk download &amp;
+    upload of files by groups. I confirmed that late last week when I talked a colleague
+    through the process. I did have to create a grouping that comprised the 4 offers
+    (3 campuses + online) because what seemed logical to me was not one of the groupings
+    created by the system.
+
+    When I worked with my colleague we managed to do pseudo-random allocations within
+    groups to markers in batch sizes controlled by the number shown in the list. The
+    options are 10, 20, 50 and 100 so we could manage 30 as 20 + 10 and so on. That''s
+    not ideal but it does work.'
+  date: '2015-03-30 19:38:00'
+  date_gmt: '2015-03-30 09:38:00'
+  id: '1240'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.32
+  author_url: https://djon.es/blog/
+  content: 'In my quick dash yesterday to get this post completed before cooking dinner
+    I missed an option.  I had to select "visible groups" and the actual grouping.  I
+    missed the visible groups.  Have done that and now it works.
+
+
+    The groupings are a little indicative of the system being considered mostly from
+    the perspective of its functionality, rather than from the perspective of what
+    people would like to do with it.  I''m lucky in that the current groupings can
+    be used to meet part of my needs.
+
+
+    I''ve figured it out, but I''m a hockey player.  I really don''t see how many
+    basket ball players would be able to figure it out with what''s provided.'
+  date: '2015-03-31 07:48:49'
+  date_gmt: '2015-03-30 21:48:49'
+  id: '1241'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2015-03-30 07:45:51
 next:
   text: '"Designing a Secondary Computing curriuclum &#038; pedagogy course"'
   url: /blog/2015/04/02/designing-a-secondary-computing-curriuclum-pedagogy-course/
+pingbacks: []
 previous:
   text: Framing some project ideas around support and services for learning and teaching
   url: /blog/2015/03/25/framing-some-project-ideas-around-support-and-services-for-learning-and-teaching/
 tags:
 - moodle
 - oasm
+template: blog-post.html
 title: Concrete lounges and why basketball players aren't better hockey players
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Peter
-      author_email: palbion@me.com
-      author_ip: 1.121.100.234
-      author_url: http://pamatravel.wordpress.com
-      content: 'My experience with the groups/groupings in the common module settings
-        is that I was able to switch into that mode after I had work submitted and then
-        use those groups to manage allocation to markers followed by bulk download &amp;
-        upload of files by groups. I confirmed that late last week when I talked a colleague
-        through the process. I did have to create a grouping that comprised the 4 offers
-        (3 campuses + online) because what seemed logical to me was not one of the groupings
-        created by the system.
-    
-        When I worked with my colleague we managed to do pseudo-random allocations within
-        groups to markers in batch sizes controlled by the number shown in the list. The
-        options are 10, 20, 50 and 100 so we could manage 30 as 20 + 10 and so on. That''s
-        not ideal but it does work.'
-      date: '2015-03-30 19:38:00'
-      date_gmt: '2015-03-30 09:38:00'
-      id: '1240'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.32
-      author_url: https://djon.es/blog/
-      content: 'In my quick dash yesterday to get this post completed before cooking dinner
-        I missed an option.  I had to select "visible groups" and the actual grouping.  I
-        missed the visible groups.  Have done that and now it works.
-    
-    
-        The groupings are a little indicative of the system being considered mostly from
-        the perspective of its functionality, rather than from the perspective of what
-        people would like to do with it.  I''m lucky in that the current groupings can
-        be used to meet part of my needs.
-    
-    
-        I''ve figured it out, but I''m a hockey player.  I really don''t see how many
-        basket ball players would be able to figure it out with what''s provided.'
-      date: '2015-03-31 07:48:49'
-      date_gmt: '2015-03-30 21:48:49'
-      id: '1241'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Assignment 1 for my course is due later today. 100+ students have submitted. Time to explore the Moodle assignment submission system and how to allocate assignments to markers.
 
@@ -76,14 +73,14 @@ Assignment 1 for my course is due later today. 100+ students have submitted. Tim
 
 Why would that be interesting to anyone not using Moodle? Well because...
 
-[![Is elearning like teenage sex?](images/9861514544_01b3c7fbca_n.jpg)](https://www.flickr.com/photos/david_jones/9861514544 "Is elearning like teenage sex? by David Jones, on Flickr")
+[![Is elearning like teenage sex?](https://djon.es/assets/blog/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/images/9861514544_01b3c7fbca_n.jpg)](https://www.flickr.com/photos/david_jones/9861514544 "Is elearning like teenage sex? by David Jones, on Flickr")
 
 [One explanation](http://www.linkedin.com/pulse/train-teacher-way-she-should-go-depart-michael-sankey) for the quality of "e-learning" is
 
 > We have taken our teachers who have been really effective at face-to-face teaching and asked them to also be experts in online teaching. Get real! That’s like asking a good basket baller to become a good hockey player. Yes it’s sport and yes you have a ball and competitors, but the rules are very different. And yes, if you’re a good sportsperson, chances are you can pick-up on being good at another code, but it will take time and quite a bit of training.
 
-[![”Die Schuhe sind zu groß.” - ”The shoes by Jorbasa, on Flickr](images/15415175008_ec372eb14b_m.jpg "”Die Schuhe sind zu groß.” - ”The shoes by Jorbasa, on Flickr")](https://www.flickr.com/photos/jorbasa/15415175008/)  
-[![Creative Commons Creative Commons Attribution-No Derivative Works 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nd/2.0/)   by  [](https://www.flickr.com/people/jorbasa/)[Jorbasa](https://www.flickr.com/people/jorbasa/) [](http://www.imagecodr.org/)
+[![”Die Schuhe sind zu groß.” - ”The shoes by Jorbasa, on Flickr](https://djon.es/assets/blog/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/images/15415175008_ec372eb14b_m.jpg "”Die Schuhe sind zu groß.” - ”The shoes by Jorbasa, on Flickr")](https://www.flickr.com/photos/jorbasa/15415175008/)  
+[![Creative Commons Creative Commons Attribution-No Derivative Works 2.0 Generic License](https://djon.es/assets/blog/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/images/80x15.png "Creative Commons Creative Commons Attribution-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nd/2.0/)   by  [](https://www.flickr.com/people/jorbasa/)[Jorbasa](https://www.flickr.com/people/jorbasa/) [](http://www.imagecodr.org/)
 
 That's certainly part of the problem. But - to extend the analogy - the other part of the problem that I experience day to day is that universities are asking the good basketball players to play hockey with equipment that's quite a few sizes too small and simply doesn't help them play hockey, let alone learn how to play hockey.
 
@@ -109,8 +106,8 @@ _Background:_ I designed and implemented my first OASM system back in 1994/1995.
 
 ## Assigning some assignments - do it myself
 
-[![Documentation by mray, on Flickr](images/6060332372_78ba7e9560_m.jpg "Documentation by mray, on Flickr")](https://www.flickr.com/photos/mray/6060332372/)  
-[![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/mray/)[mray](https://www.flickr.com/people/mray/) [](http://www.imagecodr.org/)
+[![Documentation by mray, on Flickr](https://djon.es/assets/blog/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/images/6060332372_78ba7e9560_m.jpg "Documentation by mray, on Flickr")](https://www.flickr.com/photos/mray/6060332372/)  
+[![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/images/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/mray/)[mray](https://www.flickr.com/people/mray/) [](http://www.imagecodr.org/)
 
 First test, can I figure out how to do this via the interface. i.e. don't read the "manual".
 
@@ -196,7 +193,7 @@ At this stage it appears that I will have to
 1. Manually allocate all students at one campus to their marker.
 2. Use the auto-allocate feature for the remaining students.
 
-[![Edu Doggy by David T Jones, on Flickr](images/8235400311_3b1215e44e_m.jpg "Edu Doggy by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8235400311/)
+[![Edu Doggy by David T Jones, on Flickr](https://djon.es/assets/blog/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/images/8235400311_3b1215e44e_m.jpg "Edu Doggy by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8235400311/)
 
 In theory, I could negotiate with the first marker to do an auto-allocate. But I think it important that he mark the assignments of his own students. Changing that preference would be the case of the tail wagging the dog.
 

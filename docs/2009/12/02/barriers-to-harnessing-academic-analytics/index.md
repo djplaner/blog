@@ -1,201 +1,199 @@
----
+﻿---
 categories:
 - elearning
 - indicators
-date: 2009-12-02 13:30:05+10:00
+comments:
+- approved: '1'
+  author: babyshark13
+  author_email: babyshark13@hotmail.com
+  author_ip: 64.124.144.10
+  author_url: http://
+  content: 'Hi David,
+
+
+    Quite an interesting blog you have written. I would agree with you that for many
+    years the topic on institutional mining from a Course Management System has been
+    a hot topic.
+
+
+    As it relates to the Blackboard Activity Accumulator, well I would argue that
+    the data you want isn''t necessarily best found in that table. Plus, the tool
+    that Purges Data from the Activity Accumulator doesn''t delete the data. Rather
+    it moves the data in bulk from a transactional schema to an operational schema.
+
+
+    I digress...rather I think the data that is most meaningful to you comes from
+    the entities themselves. Much of the persisted data is time based. Often institutions
+    will keep more then 24 calendar months of data accessible in the system. Many
+    of the entities will keep records not just of data that has been created, but
+    also records about data that has been accessed or reviewed.
+
+
+    Not every entity maintains a record of access or view (indirectly or directly).
+    Content authors have to define tracking on an entity. I would hypothesize that
+    less then 10% of the authoring population keenly defines tracking in advance.
+
+
+    So you might have to approach your problem slightly different. You might want
+    to look at the use of an academic tool in Course Management environment over time.
+    This should help you understand the adoption curve from a usage perspective. There''s
+    a lot to be correlated from this data.
+
+
+    For example, let''s say that a new tool or application has been introduced by
+    the Course Management Vendor or Open Source Community. The tool is available system
+    wide. One of the key data points you would want to study is the adoption of the
+    tool in relation to the volume of active courses/users in the system at the time
+    the tool was introduced. You would then want to study over the next N months the
+    frequency and use of the tool. You may even generate a time series data set demonstrating
+    adoption over time. Now here''s where it gets interesting. Once you understand
+    the adoption of the tool, you may want to correlate tool usage to some other data
+    set. Maybe you want to correlate adoption of the tool to academic performance.
+    Quite a grand topic...
+
+
+    If that''s the case from a correlation perspective, I would take a sample of the
+    population prior to the tool adoption, a sample of the population that adopted
+    the tool set and a 3rd sample which did not adopt the tool set, but existed or
+    used the Course Management system during the time the tool was available. I would
+    then call-out some indicator about the three communities which could then be correlated
+    to the use of the tool.
+
+
+    There''s obviously lots of factors invovled...but when you are talking about this
+    form of passive analytics a lot must be assumed.
+
+
+    If you are interested in talking more about the topic, let me know...
+
+
+    Regards,
+
+
+    Steve'
+  date: '2009-12-08 03:06:58'
+  date_gmt: '2009-12-07 17:06:58'
+  id: '2877'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 130.216.8.163
+  author_url: https://djon.es/blog/
+  content: 'G''day Steve,
+
+
+    Thanks for the detailed and interesting comment.
+
+
+    In terms of the digression, I''m guilty of writing quickly and not checking the
+    details of the specific example in Blackboard.  Though I will mention that in
+    the above I am talking about v6.3 - not sure if that makes a difference.
+
+
+    With your question about entities, tracking etc. you have hit on one of the problems
+    facing the hope/aim of the <a href="http://indicatorsproject.wordpress.com" rel="nofollow">Indicators
+    project</a> to do cross-LMS comparisons.  What you reveal is that the internal
+    operation of Blackboard is a lot more complex than might have been assumed.
+
+
+    This is likely to be the case for many/all of the LMS we will try to look at.  Attempting
+    to generate meaningful LMS independent measures that enable apple vs apple comparisons
+    could well be quit challenging.  It probably also highlights the importance of
+    getting folk involved who are experts in the internal operation of each LMS.
+
+
+    In terms of Blackboard and other commercial LMS we assumed the experts are likely
+    to be within the companies themselves.  So we have been pondering ways in which
+    we could approach them to gauge interest.  Any pointers?
+
+
+    I''m currently at a conference, and have been talking with other folk and there
+    appears to be great interest in cross-LMS, cross-institutional comparisons.  Some
+    of the scuttlebut has been that someone did approach one such company (one you
+    may be familiar with) and was shown the door somewhat quickly.
+
+
+
+    The temporal perspective on feature adoption is not something we''ve seriously
+    thought about, but it would be very interesting.  To some extent I feel we''re
+    starting to drown under all the possible interesting projects/perspectives to
+    look at with this data.
+
+
+    This is one of the reasons we''re very keen to talk to and work with anyone interested.  It''s
+    a project way bigger than we can handle alone, so any insights you have to share
+    would be warmly welcome.
+
+
+    Thanks again.
+
+
+    David.'
+  date: '2009-12-08 07:32:32'
+  date_gmt: '2009-12-07 21:32:32'
+  id: '2878'
+  parent: '2877'
+  type: comment
+  user_id: '1'
+date: 2009-12-02 03:30:05
 next:
   text: Self-reporting considered harmful?
   url: /blog/2009/12/08/self-reporting-considered-harmful/
+pingbacks:
+- approved: '1'
+  author: 'Academic Analytics: Data rich, information poor. Who should own the data?
+    &laquo; Col&#8217;s Weblog'
+  author_email: null
+  author_ip: 72.233.69.24
+  author_url: http://beerc.wordpress.com/2010/01/24/academic-analytics-data-rich-information-poor-who-should-own-the-data/
+  content: '[...] and like David, I believe that the issue is organizational and relates
+    to the ownership of the data. Teachers, faculty and IT all have some (arguably)
+    legitimate claims to ownership of parts or all [...]'
+  date: '2010-01-24 14:18:57'
+  date_gmt: '2010-01-24 04:18:57'
+  id: '2879'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Academic Analytics: Data rich, information poor.'
+  author_email: null
+  author_ip: 96.9.25.2
+  author_url: http://www.gilfuseducationgroup.com/academic-analytics-data-rich-information-poor
+  content: '[...] and like David, I believe that the issue is organizational and relates
+    to the ownership of the data. Teachers, faculty and IT all have some (arguably)
+    legitimate claims to ownership of parts or all [...]'
+  date: '2010-06-12 01:02:02'
+  date_gmt: '2010-06-11 15:02:02'
+  id: '2880'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Functional fixedness, analytics, the LMS and the &#8220;V&#8221; word &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2010/06/12/functional-fixedness-analytics-the-lms-and-the-v-word/
+  content: '[...] made in the Gilfus post about the problem arising from ownership
+    of the data and some of the other barriers that have been proposed. The argument
+    I develop in the following that functional fixedness is a major barrier to the
+    [...]'
+  date: '2010-06-12 10:54:16'
+  date_gmt: '2010-06-12 00:54:16'
+  id: '2881'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What research groups are looking at the future of education
   url: /blog/2009/12/01/what-research-groups-are-looking-at-the-future-of-education/
+template: blog-post.html
 title: Barriers to harnessing academic analytics
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: babyshark13
-      author_email: babyshark13@hotmail.com
-      author_ip: 64.124.144.10
-      author_url: http://
-      content: 'Hi David,
-    
-    
-        Quite an interesting blog you have written. I would agree with you that for many
-        years the topic on institutional mining from a Course Management System has been
-        a hot topic.
-    
-    
-        As it relates to the Blackboard Activity Accumulator, well I would argue that
-        the data you want isn''t necessarily best found in that table. Plus, the tool
-        that Purges Data from the Activity Accumulator doesn''t delete the data. Rather
-        it moves the data in bulk from a transactional schema to an operational schema.
-    
-    
-        I digress...rather I think the data that is most meaningful to you comes from
-        the entities themselves. Much of the persisted data is time based. Often institutions
-        will keep more then 24 calendar months of data accessible in the system. Many
-        of the entities will keep records not just of data that has been created, but
-        also records about data that has been accessed or reviewed.
-    
-    
-        Not every entity maintains a record of access or view (indirectly or directly).
-        Content authors have to define tracking on an entity. I would hypothesize that
-        less then 10% of the authoring population keenly defines tracking in advance.
-    
-    
-        So you might have to approach your problem slightly different. You might want
-        to look at the use of an academic tool in Course Management environment over time.
-        This should help you understand the adoption curve from a usage perspective. There''s
-        a lot to be correlated from this data.
-    
-    
-        For example, let''s say that a new tool or application has been introduced by
-        the Course Management Vendor or Open Source Community. The tool is available system
-        wide. One of the key data points you would want to study is the adoption of the
-        tool in relation to the volume of active courses/users in the system at the time
-        the tool was introduced. You would then want to study over the next N months the
-        frequency and use of the tool. You may even generate a time series data set demonstrating
-        adoption over time. Now here''s where it gets interesting. Once you understand
-        the adoption of the tool, you may want to correlate tool usage to some other data
-        set. Maybe you want to correlate adoption of the tool to academic performance.
-        Quite a grand topic...
-    
-    
-        If that''s the case from a correlation perspective, I would take a sample of the
-        population prior to the tool adoption, a sample of the population that adopted
-        the tool set and a 3rd sample which did not adopt the tool set, but existed or
-        used the Course Management system during the time the tool was available. I would
-        then call-out some indicator about the three communities which could then be correlated
-        to the use of the tool.
-    
-    
-        There''s obviously lots of factors invovled...but when you are talking about this
-        form of passive analytics a lot must be assumed.
-    
-    
-        If you are interested in talking more about the topic, let me know...
-    
-    
-        Regards,
-    
-    
-        Steve'
-      date: '2009-12-08 03:06:58'
-      date_gmt: '2009-12-07 17:06:58'
-      id: '2877'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 130.216.8.163
-      author_url: https://djon.es/blog/
-      content: 'G''day Steve,
-    
-    
-        Thanks for the detailed and interesting comment.
-    
-    
-        In terms of the digression, I''m guilty of writing quickly and not checking the
-        details of the specific example in Blackboard.  Though I will mention that in
-        the above I am talking about v6.3 - not sure if that makes a difference.
-    
-    
-        With your question about entities, tracking etc. you have hit on one of the problems
-        facing the hope/aim of the <a href="http://indicatorsproject.wordpress.com" rel="nofollow">Indicators
-        project</a> to do cross-LMS comparisons.  What you reveal is that the internal
-        operation of Blackboard is a lot more complex than might have been assumed.
-    
-    
-        This is likely to be the case for many/all of the LMS we will try to look at.  Attempting
-        to generate meaningful LMS independent measures that enable apple vs apple comparisons
-        could well be quit challenging.  It probably also highlights the importance of
-        getting folk involved who are experts in the internal operation of each LMS.
-    
-    
-        In terms of Blackboard and other commercial LMS we assumed the experts are likely
-        to be within the companies themselves.  So we have been pondering ways in which
-        we could approach them to gauge interest.  Any pointers?
-    
-    
-        I''m currently at a conference, and have been talking with other folk and there
-        appears to be great interest in cross-LMS, cross-institutional comparisons.  Some
-        of the scuttlebut has been that someone did approach one such company (one you
-        may be familiar with) and was shown the door somewhat quickly.
-    
-    
-    
-        The temporal perspective on feature adoption is not something we''ve seriously
-        thought about, but it would be very interesting.  To some extent I feel we''re
-        starting to drown under all the possible interesting projects/perspectives to
-        look at with this data.
-    
-    
-        This is one of the reasons we''re very keen to talk to and work with anyone interested.  It''s
-        a project way bigger than we can handle alone, so any insights you have to share
-        would be warmly welcome.
-    
-    
-        Thanks again.
-    
-    
-        David.'
-      date: '2009-12-08 07:32:32'
-      date_gmt: '2009-12-07 21:32:32'
-      id: '2878'
-      parent: '2877'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Academic Analytics: Data rich, information poor. Who should own the data?
-        &laquo; Col&#8217;s Weblog'
-      author_email: null
-      author_ip: 72.233.69.24
-      author_url: http://beerc.wordpress.com/2010/01/24/academic-analytics-data-rich-information-poor-who-should-own-the-data/
-      content: '[...] and like David, I believe that the issue is organizational and relates
-        to the ownership of the data. Teachers, faculty and IT all have some (arguably)
-        legitimate claims to ownership of parts or all [...]'
-      date: '2010-01-24 14:18:57'
-      date_gmt: '2010-01-24 04:18:57'
-      id: '2879'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Academic Analytics: Data rich, information poor.'
-      author_email: null
-      author_ip: 96.9.25.2
-      author_url: http://www.gilfuseducationgroup.com/academic-analytics-data-rich-information-poor
-      content: '[...] and like David, I believe that the issue is organizational and relates
-        to the ownership of the data. Teachers, faculty and IT all have some (arguably)
-        legitimate claims to ownership of parts or all [...]'
-      date: '2010-06-12 01:02:02'
-      date_gmt: '2010-06-11 15:02:02'
-      id: '2880'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Functional fixedness, analytics, the LMS and the &#8220;V&#8221; word &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2010/06/12/functional-fixedness-analytics-the-lms-and-the-v-word/
-      content: '[...] made in the Gilfus post about the problem arising from ownership
-        of the data and some of the other barriers that have been proposed. The argument
-        I develop in the following that functional fixedness is a major barrier to the
-        [...]'
-      date: '2010-06-12 10:54:16'
-      date_gmt: '2010-06-12 00:54:16'
-      id: '2881'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [Indicators project](http://indicatorsproject.wordpress.com/) is an attempt to enable the examination, analysis and comparison of LMS usage across time, systems and institutions. The project is nothing new. Projects around academic analytics have been around for a while and I and others at [my current institution](http://www.cqu.edu.au/) have been talking about using the collective data in systems logs to inform the practice of L&T at universities for a long time.
 

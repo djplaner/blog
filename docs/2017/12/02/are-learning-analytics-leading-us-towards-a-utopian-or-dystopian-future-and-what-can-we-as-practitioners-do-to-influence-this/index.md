@@ -1,9 +1,9 @@
----
+﻿---
 categories:
 - ascilite
 - indicators
 - learninganalytics-elearning
-date: 2017-12-02 14:52:51+10:00
+date: 2017-12-02 04:52:51
 next:
   text: '"Context-Appropriate Scaffolding Assemblages: A generative learning analytics
     platform for end-user development and participatory design"'
@@ -12,10 +12,10 @@ previous:
   text: Teacher DIY learning analytics - implications & questions for institutional
     learning analytics
   url: /blog/2017/11/26/teacher-diy-learning-analytics-implications-questions-for-institutional-learning-analytics/
+template: blog-post.html
 title: Are learning analytics leading us towards a utopian or dystopian future, and
   what can we as practitioners do to influence this?
 type: post
-template: blog-post.html
 ---
 What follows will eventually be a summary of my contribution to a the ASCILITE'2017 panel titled [Are learning analytics leading us towards a utopian or dystopian future, and what can we as practitioners do to influence this?](http://2017conference.ascilite.org/program/are-learning-analytics-leading-us-towards-a-utopian-or-dystopian-future-and-what-can-we-as-practitioners-do-to-influence-this/). Below you'll find a summary of my prediction and the argument that underpins it, suggestions for more reading, the slides, and references.
 

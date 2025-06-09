@@ -1,67 +1,64 @@
----
+﻿---
 categories:
 - chapter-3
 - design-theory
 - elearning
-date: 2008-10-22 12:30:14+10:00
+comments:
+- approved: '1'
+  author: nonamuldoon
+  author_email: n.muldoon@cqu.edu.au
+  author_ip: 59.100.90.50
+  author_url: http://
+  content: 'Yes I am tracking your posts with interest :)
+
+
+    Just a quick note for now, but I can assure you we have so much to talk and debate
+    about with what you have written here.
+
+
+    Like all social sciences research, educational research is a messy field as it
+    often involves sense-making. The DBR methodology has become a systemic part of
+    my practice, if not of my being. It is through the vast arrays of collected data
+    inherent in the DBR tradition that allow me to better understand the goings on
+    within, and impacts of, the environment under study, and to make sense of the
+    views and perceptions of the players within it. It allows me and other participant-researchers
+    to make informed design decisions e.g. which aspect of the design needs refining,
+    how to improve practices in situ, what new artifact is needed, etc.
+
+
+    While some critics think it is over-methodologised,  it is simply the nature of
+    the beast. My experience suggests that it is through sense-making that DBR researchers
+    refine and develop theories that inform practice, and we need multiple sources
+    of data to make sense of this, and of our work. DBR goes beyond simply developing
+    and testing artifacts. It is part of the process, but not the sole purpose.
+
+
+    Another quick note... there are many instances where practitioners take on the
+    role of participant-researchers, and cases such as Diana Joseph''s (2004) DBR
+    project where she was a one-woman band - designer, researcher, practitioner, etc.
+    (I''ll give you her article if you''re interested). Objectivity, particularly
+    for the purpose of generalisation as you''ve highlighted here, is often challenged
+    in any fields of social science research, but the very nature of DBR with its
+    multiple sources of data enables better informed validation. At the end of the
+    day ethical and professional practice are often put to the test for people involved
+    in any type of research.'
+  date: '2008-10-24 09:21:52'
+  date_gmt: '2008-10-23 23:21:52'
+  id: '1746'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-10-22 02:30:14
 next:
   text: Look for incompetence before you go paranoid
   url: /blog/2008/10/23/look-for-incompetence-before-you-go-paranoid/
+pingbacks: []
 previous:
   text: The great website move of 2008
   url: /blog/2008/10/16/the-great-website-move-of-2008/
+template: blog-post.html
 title: '"Design Based Research vs. Mixed Methods: The Differences and Commonalities"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: nonamuldoon
-      author_email: n.muldoon@cqu.edu.au
-      author_ip: 59.100.90.50
-      author_url: http://
-      content: 'Yes I am tracking your posts with interest :)
-    
-    
-        Just a quick note for now, but I can assure you we have so much to talk and debate
-        about with what you have written here.
-    
-    
-        Like all social sciences research, educational research is a messy field as it
-        often involves sense-making. The DBR methodology has become a systemic part of
-        my practice, if not of my being. It is through the vast arrays of collected data
-        inherent in the DBR tradition that allow me to better understand the goings on
-        within, and impacts of, the environment under study, and to make sense of the
-        views and perceptions of the players within it. It allows me and other participant-researchers
-        to make informed design decisions e.g. which aspect of the design needs refining,
-        how to improve practices in situ, what new artifact is needed, etc.
-    
-    
-        While some critics think it is over-methodologised,  it is simply the nature of
-        the beast. My experience suggests that it is through sense-making that DBR researchers
-        refine and develop theories that inform practice, and we need multiple sources
-        of data to make sense of this, and of our work. DBR goes beyond simply developing
-        and testing artifacts. It is part of the process, but not the sole purpose.
-    
-    
-        Another quick note... there are many instances where practitioners take on the
-        role of participant-researchers, and cases such as Diana Joseph''s (2004) DBR
-        project where she was a one-woman band - designer, researcher, practitioner, etc.
-        (I''ll give you her article if you''re interested). Objectivity, particularly
-        for the purpose of generalisation as you''ve highlighted here, is often challenged
-        in any fields of social science research, but the very nature of DBR with its
-        multiple sources of data enables better informed validation. At the end of the
-        day ethical and professional practice are often put to the test for people involved
-        in any type of research.'
-      date: '2008-10-24 09:21:52'
-      date_gmt: '2008-10-23 23:21:52'
-      id: '1746'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 This post is a summary and some reflection on a discussion paper posted to [ITForum](http://it.coe.uga.edu/itforum/). It's by Goknur Kaplan Akilli and is titled [Design Based Research vs. Mixed Methods: The Differences and Commonalities](http://it.coe.uga.edu/itforum/paper110/Akilli_DBR_vs_MM_ITForum.pdf). The author is a PhD candidate with some interesting [research runs on the board](http://www.ed.psu.edu/news/akilli.asp).
 

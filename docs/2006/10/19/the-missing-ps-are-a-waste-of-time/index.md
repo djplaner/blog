@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - elearning
 - missingps
-date: 2006-10-19 13:41:17+10:00
+comments:
+- approved: '1'
+  author: 460758 Blog Verification
+  author_email: null
+  author_ip: 82.146.98.203
+  author_url: http://cq-pan.cqu.edu.au/david-jones/blog/wp-trackback.php?p=55
+  content: '<strong>460758 Blog Verification</strong>
+
+
+    460758'
+  date: '2006-10-19 13:46:14'
+  date_gmt: '2006-10-19 03:46:14'
+  id: '1517'
+  parent: '0'
+  type: trackback
+  user_id: '0'
+date: 2006-10-19 03:41:17
 next:
   text: The missing P - Product
   url: /blog/2006/10/19/the-missing-p-product/
+pingbacks: []
 previous:
   text: Another review of LMS Reviews
   url: /blog/2006/10/19/another-review-of-lms-reviews/
+template: blog-post.html
 title: The Missing Ps are a waste of time
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: 460758 Blog Verification
-      author_email: null
-      author_ip: 82.146.98.203
-      author_url: http://cq-pan.cqu.edu.au/david-jones/blog/wp-trackback.php?p=55
-      content: '<strong>460758 Blog Verification</strong>
-    
-    
-        460758'
-      date: '2006-10-19 13:46:14'
-      date_gmt: '2006-10-19 03:46:14'
-      id: '1517'
-      parent: '0'
-      type: trackback
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 [The missing Ps framework](http://cq-pan.cqu.edu.au/david-jones/blog/?p=52) is very much under construction attempt to identify the holes and flaws in the methods used by Universities to evaluate and select a learning management system (LMS).
 

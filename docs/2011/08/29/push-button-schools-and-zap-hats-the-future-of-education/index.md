@@ -1,76 +1,73 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-08-29 09:14:40+10:00
+comments:
+- approved: '1'
+  author: Sarah Thorneycroft (@sthcrft)
+  author_email: sthcrft@twitter.example.com
+  author_ip: 129.180.73.121
+  author_url: http://twitter.com/sthcrft
+  content: Your observation of students' lack of questioning the current system is
+    spot on - it's what leads to our current 'podcast or perish' online teaching model.
+    The more we keep treating education as a consumer-driven market the less we will
+    be able to change - any good business knows the key to success is knowing what
+    the customers want before they know they want it. It's an unfortunate trait (particularly
+    in the HE market where customers complain more loudly) that we let the bastards
+    grind us down - we design our learning based on what limits the number of student
+    complaints, and it frustrates me no end. Where's the revolutionary streak universities
+    used to have that didn't mind challenging people's perceptions and pissing a few
+    people off?
+  date: '2011-08-29 09:36:48'
+  date_gmt: '2011-08-28 23:36:48'
+  id: '124'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.183.152.66
+  author_url: https://djon.es/blog/
+  content: 'In my experience, the revolutionary streak has been driven out by the
+    increasing managerialisation of higher education. Senior executive need to meet
+    their KPIs, which are set by other senior executive, or worse influenced by government
+    policy. Evolution, let alone revolution, doesn''t seem to fit within those constraints.
+
+
+    You''re right about the students being a barrier to innovation. But I wonder if
+    some of that comes from the innovators forgetting about the need to "sell" customers
+    on the product they never thought they needed, rather than just dump it upon them.'
+  date: '2011-08-29 09:51:00'
+  date_gmt: '2011-08-28 23:51:00'
+  id: '125'
+  parent: '124'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Sarah Thorneycroft (@sthcrft)
+  author_email: sthcrft@twitter.example.com
+  author_ip: 129.180.73.121
+  author_url: http://twitter.com/sthcrft
+  content: Very true - if we're going to treat education like a business then we really
+    should try and have some decent marketing. Trying to think now about how education
+    was 'marketed' to me - can't come up with anything that wasn't a social construct...
+  date: '2011-08-29 11:09:22'
+  date_gmt: '2011-08-29 01:09:22'
+  id: '126'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-08-28 23:14:40
 next:
   text: A summary of one perspective on the Digital Education Revolution
   url: /blog/2011/09/19/a-summary-of-one-perspective-on-the-digital-education-revolution/
+pingbacks: []
 previous:
   text: Some trends with enrolments in IPT
   url: /blog/2011/08/27/some-trends-with-enrolments-in-ipt/
+template: blog-post.html
 title: Push-button schools and zap hats - The future of education
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Sarah Thorneycroft (@sthcrft)
-      author_email: sthcrft@twitter.example.com
-      author_ip: 129.180.73.121
-      author_url: http://twitter.com/sthcrft
-      content: Your observation of students' lack of questioning the current system is
-        spot on - it's what leads to our current 'podcast or perish' online teaching model.
-        The more we keep treating education as a consumer-driven market the less we will
-        be able to change - any good business knows the key to success is knowing what
-        the customers want before they know they want it. It's an unfortunate trait (particularly
-        in the HE market where customers complain more loudly) that we let the bastards
-        grind us down - we design our learning based on what limits the number of student
-        complaints, and it frustrates me no end. Where's the revolutionary streak universities
-        used to have that didn't mind challenging people's perceptions and pissing a few
-        people off?
-      date: '2011-08-29 09:36:48'
-      date_gmt: '2011-08-28 23:36:48'
-      id: '124'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.183.152.66
-      author_url: https://djon.es/blog/
-      content: 'In my experience, the revolutionary streak has been driven out by the
-        increasing managerialisation of higher education. Senior executive need to meet
-        their KPIs, which are set by other senior executive, or worse influenced by government
-        policy. Evolution, let alone revolution, doesn''t seem to fit within those constraints.
-    
-    
-        You''re right about the students being a barrier to innovation. But I wonder if
-        some of that comes from the innovators forgetting about the need to "sell" customers
-        on the product they never thought they needed, rather than just dump it upon them.'
-      date: '2011-08-29 09:51:00'
-      date_gmt: '2011-08-28 23:51:00'
-      id: '125'
-      parent: '124'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Sarah Thorneycroft (@sthcrft)
-      author_email: sthcrft@twitter.example.com
-      author_ip: 129.180.73.121
-      author_url: http://twitter.com/sthcrft
-      content: Very true - if we're going to treat education like a business then we really
-        should try and have some decent marketing. Trying to think now about how education
-        was 'marketed' to me - can't come up with anything that wasn't a social construct...
-      date: '2011-08-29 11:09:22'
-      date_gmt: '2011-08-29 01:09:22'
-      id: '126'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Yesterday I spent most of the day as a judge in the local [Opti-Minds Challenge](http://www.opti-minds.com). Opti-Minds is a problem solving event/competition. Groups of at least 4 have to develop a 10 minute presentation/play to present a solution to an open-ended question. I volunteered for the Social Sciences challenge which was to develop a new method of education because of changes in technology and the observation that no-one wants to be a teacher anymore.
 
@@ -78,7 +75,7 @@ This is a subject close to my heart and I was interested in seeing what solution
 
 I wasn't going to go any further than this but then came across this [post from PaleoFuture](http://www.paleofuture.com/blog/2011/8/24/the-push-button-school-of-tomorrow-1958.html) about "The Push-Button School of Tomorrow (1958)".
 
-[![Push-button schools](images/6090456397_5cc65e0870_m.jpg)](http://www.flickr.com/photos/david_jones/6090456397/ "Push-button schools by David T Jones, on Flickr")
+[![Push-button schools](https://djon.es/assets/blog/2011/08/29/push-button-schools-and-zap-hats-the-future-of-education/images/6090456397_5cc65e0870_m.jpg)](http://www.flickr.com/photos/david_jones/6090456397/ "Push-button schools by David T Jones, on Flickr")
 
 Almost all of the "solutions" presented by the students were similar examples of the horseless carriage approach to technology. i.e. use technology to do exactly what we've always done but with technology. In the case of the students solutions some examples included:
 

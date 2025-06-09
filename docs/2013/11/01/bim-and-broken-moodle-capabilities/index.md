@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2013-11-01 13:15:01+10:00
+date: 2013-11-01 03:15:01
 next:
   text: Big data in education - part 1
   url: /blog/2013/11/03/big-data-in-education-part-1/
 previous:
   text: Oh Academia
   url: /blog/2013/10/31/oh-academia/
+template: blog-post.html
 title: BIM and broken moodle capabilities
 type: post
-template: blog-post.html
 ---
 The following is a long overdue attempt to identify and solve an issue with [BIM](http://bit.ly/bambim).
 

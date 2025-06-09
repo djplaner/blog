@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - learninganalytics-elearning
-date: 2014-01-02 11:40:12+10:00
+comments: []
+date: 2014-01-02 01:40:12
 next:
   text: Reflective Blogging as part of ICT Professional Development to Support Pedagogical
     Change
   url: /blog/2014/01/03/reflective-blogging-as-part-of-ict-professional-development-to-support-pedagogical-change/
+pingbacks:
+- approved: '1'
+  author: Challenges in employing complex e-learning stra...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-inclusivo/p/4013535834/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities-via-pgsimoes
+  content: '[&#8230;] The following is a summary of McNaught et al (2009). This is
+    one of three papers that from the same institution around the LMS that I&#039;ve
+    looked at recently. The abstract for the paper isDespite the...&nbsp; [&#8230;]'
+  date: '2014-01-03 02:20:48'
+  date_gmt: '2014-01-02 16:20:48'
+  id: '920'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'TAM, #moodle, online assignment submission and strategic implementation'
   url: /blog/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/
+template: blog-post.html
 title: Challenges in employing complex e-learning strategies in campus-based universities
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Challenges in employing complex e-learning stra...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-inclusivo/p/4013535834/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities-via-pgsimoes
-      content: '[&#8230;] The following is a summary of McNaught et al (2009). This is
-        one of three papers that from the same institution around the LMS that I&#039;ve
-        looked at recently. The abstract for the paper isDespite the...&nbsp; [&#8230;]'
-      date: '2014-01-03 02:20:48'
-      date_gmt: '2014-01-02 16:20:48'
-      id: '920'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary of McNaught et al (2009). This is one of three papers that from the same institution around the LMS that [I've looked at recently](/blog/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/).
 

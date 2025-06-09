@@ -1,8 +1,8 @@
----
-date: 2008-12-31 13:49:44+10:00
+﻿---
+date: 2008-12-31 03:49:44
+template: blog-post.html
 title: Current practice in web-based delivery of IT courses
 type: page
-template: blog-post.html
 ---
 Tim Roberts, Celia Romm, David Jones, Current Practice in Web-based Delivery of IT Courses, APWEB 2000, Xi’an, China, 27-29 Oct 2000.
 

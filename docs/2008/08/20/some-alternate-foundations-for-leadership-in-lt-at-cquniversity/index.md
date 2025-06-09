@@ -1,78 +1,76 @@
----
+﻿---
 categories:
 - cognitiveedge
 - complexityleadership
 - design-theory
 - elearning
 - plescquni
-date: 2008-08-20 15:09:47+10:00
+comments:
+- approved: '1'
+  author: John Fitzsimmons
+  author_email: j.fitzsimmons@cqu.edu.au
+  author_ip: 192.168.13.16
+  author_url: null
+  content: 'David
+
+
+    Sorry I missed your presentation - I was at a meeting talking about workloads.
+    I notice the stream isn;t up as yet - I will try and catch it later in the week.
+
+
+    John'
+  date: '2008-08-26 22:34:36'
+  date_gmt: '2008-08-26 12:34:36'
+  id: '1592'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: d.jones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.20.100
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'G''day John,
+
+
+    I''m going to be putting a version of the video on Google Video - in the process
+    of doing it now.  Should be up later this afternoon.
+
+
+    Will let you know when it is up.
+
+
+    David.'
+  date: '2008-08-27 08:49:39'
+  date_gmt: '2008-08-26 22:49:39'
+  id: '1593'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-08-20 05:09:47
 next:
   text: Alternate foundations - the presentation
   url: /blog/2008/08/28/alternate-foundations-the-presentation/
+pingbacks:
+- approved: '1'
+  author: Alternate foundations - the presentation at David&#8217;s WebLog
+  author_email: null
+  author_ip: 138.77.94.11
+  author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=203
+  content: '[...] About        &laquo; Some alternate foundations for leadership in
+    L&#38;T at CQUniversity [...]'
+  date: '2008-08-28 14:28:22'
+  date_gmt: '2008-08-28 04:28:22'
+  id: '1594'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A new &quot;all-in-one&quot; introduction to OASIS
   url: /blog/2008/08/15/a-new-all-in-one-introduction-to-oasis/
+template: blog-post.html
 title: '"Some alternate foundations for leadership in L&#038;T at CQUniversity"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: John Fitzsimmons
-      author_email: j.fitzsimmons@cqu.edu.au
-      author_ip: 192.168.13.16
-      author_url: null
-      content: 'David
-    
-    
-        Sorry I missed your presentation - I was at a meeting talking about workloads.
-        I notice the stream isn;t up as yet - I will try and catch it later in the week.
-    
-    
-        John'
-      date: '2008-08-26 22:34:36'
-      date_gmt: '2008-08-26 12:34:36'
-      id: '1592'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: d.jones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.20.100
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'G''day John,
-    
-    
-        I''m going to be putting a version of the video on Google Video - in the process
-        of doing it now.  Should be up later this afternoon.
-    
-    
-        Will let you know when it is up.
-    
-    
-        David.'
-      date: '2008-08-27 08:49:39'
-      date_gmt: '2008-08-26 22:49:39'
-      id: '1593'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Alternate foundations - the presentation at David&#8217;s WebLog
-      author_email: null
-      author_ip: 138.77.94.11
-      author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=203
-      content: '[...] About        &laquo; Some alternate foundations for leadership in
-        L&#38;T at CQUniversity [...]'
-      date: '2008-08-28 14:28:22'
-      date_gmt: '2008-08-28 04:28:22'
-      id: '1594'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 On Monday the 25th of August I am meant to be giving a talk that attempts to link complexity theory (and related topics) to the practice of leadership of learning and teaching within a university setting. The talk is part of a broader seminar series occurring this year at [CQUniversity](http://www.cquniversity.edu.au/) as part of the institution's [learning and teaching seminars](http://learning.cqu.edu.au/staff_development/presentations/lt_seminars-presentations.htm). The leadership in L&T series is being pushed/encouraged by [Dr Peter Reaburn](http://fseh.cqu.edu.au/FCWViewer/staff.do?site=100&sid=REABURNP).
 

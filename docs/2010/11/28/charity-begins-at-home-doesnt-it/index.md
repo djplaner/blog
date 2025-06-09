@@ -1,73 +1,70 @@
----
+﻿---
 categories:
 - journey
 - teaching
-date: 2010-11-28 10:56:11+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: 'Teaching as charity is an interesting choice of words.
+
+
+    There''s a subtle difference between donating to a grateful recipient, and giving
+    a sleeping homeless person a blanket.'
+  date: '2010-12-01 16:32:30'
+  date_gmt: '2010-12-01 06:32:30'
+  id: '3206'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 60.228.228.195
+  author_url: https://djon.es/blog/
+  content: 'Actually, it is interesting, if unintended.
+
+
+    The origins of the title came from my initial, reflex reaction to hearing that
+    my colleague was heading off overseas to help folk out. My reflex reaction is
+    well summed up by the "charity begins at home" quote.
+
+
+    But it was a reflex reaction. Further reflection provides a more appropriate response,
+    I think. In all things context. For my colleague, in her context, doing what she
+    did was appropriate. For me, perhaps teaching at the local school will be appropriate.  Neither
+    is worse or better, just more fitting for the context.
+
+
+    In fact another colleague who went overseas to help encouraged me to think a bit
+    more about this.  And you offer yet another distinction.
+
+
+    In thinking about this I am definitely avoiding the "hero" complex. If I do try
+    to help out at the local school, it''s going to be a wicked problem and one requiring
+    the right group of teachers and other folk.
+
+
+    Time will tell.'
+  date: '2010-12-01 17:47:07'
+  date_gmt: '2010-12-01 07:47:07'
+  id: '3207'
+  parent: '3206'
+  type: comment
+  user_id: '1'
+date: 2010-11-28 00:56:11
 next:
   text: Schools, systems and change done to me
   url: /blog/2010/11/29/schools-systems-and-change-done-to-me/
+pingbacks: []
 previous:
   text: 8 stupidest management fads of all time
   url: /blog/2010/11/21/8-stupidest-management-fads-of-all-time/
+template: blog-post.html
 title: Charity begins at home, doesn't it?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: 'Teaching as charity is an interesting choice of words.
-    
-    
-        There''s a subtle difference between donating to a grateful recipient, and giving
-        a sleeping homeless person a blanket.'
-      date: '2010-12-01 16:32:30'
-      date_gmt: '2010-12-01 06:32:30'
-      id: '3206'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 60.228.228.195
-      author_url: https://djon.es/blog/
-      content: 'Actually, it is interesting, if unintended.
-    
-    
-        The origins of the title came from my initial, reflex reaction to hearing that
-        my colleague was heading off overseas to help folk out. My reflex reaction is
-        well summed up by the "charity begins at home" quote.
-    
-    
-        But it was a reflex reaction. Further reflection provides a more appropriate response,
-        I think. In all things context. For my colleague, in her context, doing what she
-        did was appropriate. For me, perhaps teaching at the local school will be appropriate.  Neither
-        is worse or better, just more fitting for the context.
-    
-    
-        In fact another colleague who went overseas to help encouraged me to think a bit
-        more about this.  And you offer yet another distinction.
-    
-    
-        In thinking about this I am definitely avoiding the "hero" complex. If I do try
-        to help out at the local school, it''s going to be a wicked problem and one requiring
-        the right group of teachers and other folk.
-    
-    
-        Time will tell.'
-      date: '2010-12-01 17:47:07'
-      date_gmt: '2010-12-01 07:47:07'
-      id: '3207'
-      parent: '3206'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 In the first few years of teaching information technology at university I met a number of mature age students who were returning to study to get degrees. These were amongst the most enjoyable students to teach, not to mention simply being the best students. One of those students struggled with aspects of the technology, but stuck at it and did well. So well, she ended up completing her PhD years and years before I even looked like completing [mine](/blog/research/phd-thesis/). She even ended up being the head of the school teaching IT.
 

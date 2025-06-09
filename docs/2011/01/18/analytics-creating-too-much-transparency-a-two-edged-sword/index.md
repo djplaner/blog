@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - indicators
 - lak11
-date: 2011-01-18 10:16:27+10:00
+comments: []
+date: 2011-01-18 00:16:27
 next:
   text: The difference between utopian and dystopian visions
   url: /blog/2011/01/19/the-difference-between-utopian-and-dystopian-visions/
+pingbacks:
+- approved: '1'
+  author: Analytics schmanalytics - LOOM - weaving the learning web
+  author_email: null
+  author_ip: 67.227.170.43
+  author_url: http://www.loomlearning.com/2011/analytics-schmanalytics
+  content: "[...] of moving towards transparency and an increased availability of\
+    \ data is not without its concerns.\_ David Jones calls learning analytics a \u201C\
+    two-edged sword,\u201D pointing to his early days teaching as a university academic.\
+    \ \_He [...]"
+  date: '2011-08-12 20:35:58'
+  date_gmt: '2011-08-12 10:35:58'
+  id: '3227'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Creating a podcast for LAK11 presentations
   url: /blog/2011/01/15/creating-a-podcast-for-lak11-presentations/
 tags:
 - lak11
+template: blog-post.html
 title: Analytics creating too much transparency? A two-edged sword?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Analytics schmanalytics - LOOM - weaving the learning web
-      author_email: null
-      author_ip: 67.227.170.43
-      author_url: http://www.loomlearning.com/2011/analytics-schmanalytics
-      content: "[...] of moving towards transparency and an increased availability of\
-        \ data is not without its concerns.\_ David Jones calls learning analytics a \u201C\
-        two-edged sword,\u201D pointing to his early days teaching as a university academic.\
-        \ \_He [...]"
-      date: '2011-08-12 20:35:58'
-      date_gmt: '2011-08-12 10:35:58'
-      id: '3227'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Have been listening to a [Dave Snowden podcast](http://www.cognitive-edge.com/podcasts.php) of a "101 organic KM course". Amongst many familiar themes is the mention of the pitfalls of too much transparency hurting innovation.
 

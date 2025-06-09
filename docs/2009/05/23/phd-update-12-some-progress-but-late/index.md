@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-05-23 07:20:03+10:00
+comments: []
+date: 2009-05-22 21:20:03
 next:
   text: The problem with consultants/MBAs - Dilbert's view
   url: /blog/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #13 &#8211; back after a week off &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/05/phd-update-13-back-after-a-week-off/
+  content: '[...] Last week, I said I would [...]'
+  date: '2009-06-05 16:24:12'
+  date_gmt: '2009-06-05 06:24:12'
+  id: '2527'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The perils of re-organisation - Gaius Petronius
   url: /blog/2009/05/21/the-perils-of-re-organisation-gaius-petronius/
+template: blog-post.html
 title: '"Phd Update #12 - some progress, but late"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #13 &#8211; back after a week off &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/05/phd-update-13-back-after-a-week-off/
-      content: '[...] Last week, I said I would [...]'
-      date: '2009-06-05 16:24:12'
-      date_gmt: '2009-06-05 06:24:12'
-      id: '2527'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Number 12 of the weekly PhD updates and the first one that is late - this was meant to be done yesterday afternoon. Better late than never. This has been a fairly positive week, some progress made and more importantly I may have learned a small lessons (and put it into practice) about the size and amount of stuff I'm trying to put into these sections of Chapter 2.
 

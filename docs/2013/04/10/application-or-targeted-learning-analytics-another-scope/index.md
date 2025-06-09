@@ -1,99 +1,97 @@
----
+﻿---
 categories:
 - indicators
-date: 2013-04-10 12:28:40+10:00
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: null
+  content: 'Just a couple of initial thoughts about this:
+
+    * Analytics is LMS centric at the moment as it is the sole mechanism by which
+    eLearning is implemented in Oz higher education. Like you, I believe this to be
+    a bad thing so I''m thinking that analytics has a role to play in driving the
+    evolution of eLearning away from the LMS. Eg demonstrating the LMS''s limited
+    capacity to provide effective connections may promote users to look outside this
+    particular box....
+
+    * I expect someone has already said something about this but I see analytics closely
+    linked to the PLE concept. So not only are artifacts tracked but so is their usage
+    by the person and others.
+
+
+    Hope this makes sense.
+
+
+    Col.'
+  date: '2013-04-15 08:09:50'
+  date_gmt: '2013-04-14 22:09:50'
+  id: '731'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.223.107.245
+  author_url: https://djon.es/blog/
+  content: 'I agree with much of the above.  One of the reasons I''m particularly
+    interested in BIM as the tool I''m going to use to explore this.  When I''m thinking
+    about "application specific" analytics, it''s BIM I''m thinking of as the test
+    case. BIM obviously is also an enabler of the PLE stuff in some way, potentially.
+
+
+    But as above, I wonder if too many folk are focused on the "whole" PLE. The whole
+    learning ecosystem.  Not to say that the focus on the whole learning ecosystem
+    isn''t important, but it brings its own problems. I''m thinking the application
+    level scope might reveal some other interesting insights focused more at the learning/teaching
+    aspect than the task of "unifying" the ecosystem under an API.
+
+
+    Another point is the LMS centric nature.  As I''ve said for a while, there are
+    at least two types of functionality in the LMS: learning and teaching.  From a
+    teaching/management perspective I think institutions have a need for this, but
+    the learning can occur out in the PLE land.  Another linkage to some of the rationale
+    behind BIM.
+
+
+    Hopefully will get some more time to think and do some stuff around this soon.'
+  date: '2013-04-15 10:31:39'
+  date_gmt: '2013-04-15 00:31:39'
+  id: '732'
+  parent: '731'
+  type: comment
+  user_id: '1'
+date: 2013-04-10 02:28:40
 next:
   text: And they don't even know enough to expect better
   url: /blog/2013/04/16/and-they-dont-even-know-enough-to-expect-better/
+pingbacks:
+- approved: '1'
+  author: Application or targeted learning analytics - an...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/a-new-society-a-new-education/p/3999692949/application-or-targeted-learning-analytics-another-scope
+  content: '[...] Was skimming through Mark Drechsler&#039;s slide deck from THETA
+    2013 when I came across the following slide. It&#039;s part 3 of a model of learning
+    analytics (Target, Consumer, Scope, Automation) Mark used...&nbsp; [...]'
+  date: '2013-04-10 17:45:25'
+  date_gmt: '2013-04-10 07:45:25'
+  id: '730'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: More evidence of the limits of student technical knowledge
   url: /blog/2013/04/08/more-evidence-of-the-limits-of-student-technical-knowledge/
+template: blog-post.html
 title: Application or targeted learning analytics - another scope?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: null
-      content: 'Just a couple of initial thoughts about this:
-    
-        * Analytics is LMS centric at the moment as it is the sole mechanism by which
-        eLearning is implemented in Oz higher education. Like you, I believe this to be
-        a bad thing so I''m thinking that analytics has a role to play in driving the
-        evolution of eLearning away from the LMS. Eg demonstrating the LMS''s limited
-        capacity to provide effective connections may promote users to look outside this
-        particular box....
-    
-        * I expect someone has already said something about this but I see analytics closely
-        linked to the PLE concept. So not only are artifacts tracked but so is their usage
-        by the person and others.
-    
-    
-        Hope this makes sense.
-    
-    
-        Col.'
-      date: '2013-04-15 08:09:50'
-      date_gmt: '2013-04-14 22:09:50'
-      id: '731'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.223.107.245
-      author_url: https://djon.es/blog/
-      content: 'I agree with much of the above.  One of the reasons I''m particularly
-        interested in BIM as the tool I''m going to use to explore this.  When I''m thinking
-        about "application specific" analytics, it''s BIM I''m thinking of as the test
-        case. BIM obviously is also an enabler of the PLE stuff in some way, potentially.
-    
-    
-        But as above, I wonder if too many folk are focused on the "whole" PLE. The whole
-        learning ecosystem.  Not to say that the focus on the whole learning ecosystem
-        isn''t important, but it brings its own problems. I''m thinking the application
-        level scope might reveal some other interesting insights focused more at the learning/teaching
-        aspect than the task of "unifying" the ecosystem under an API.
-    
-    
-        Another point is the LMS centric nature.  As I''ve said for a while, there are
-        at least two types of functionality in the LMS: learning and teaching.  From a
-        teaching/management perspective I think institutions have a need for this, but
-        the learning can occur out in the PLE land.  Another linkage to some of the rationale
-        behind BIM.
-    
-    
-        Hopefully will get some more time to think and do some stuff around this soon.'
-      date: '2013-04-15 10:31:39'
-      date_gmt: '2013-04-15 00:31:39'
-      id: '732'
-      parent: '731'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Application or targeted learning analytics - an...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/a-new-society-a-new-education/p/3999692949/application-or-targeted-learning-analytics-another-scope
-      content: '[...] Was skimming through Mark Drechsler&#039;s slide deck from THETA
-        2013 when I came across the following slide. It&#039;s part 3 of a model of learning
-        analytics (Target, Consumer, Scope, Automation) Mark used...&nbsp; [...]'
-      date: '2013-04-10 17:45:25'
-      date_gmt: '2013-04-10 07:45:25'
-      id: '730'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Was skimming through Mark Drechsler's [slide deck from THETA 2013](http://www.slideshare.net/mark.drechsler/theta-presentation-drechsler) when I came across the following slide.
 
-[![Analytics Scope](images/8635564725_aa4fe8978c.jpg)](http://www.flickr.com/photos/david_jones/8635564725/ "Analytics Scope by David T Jones, on Flickr")
+[![Analytics Scope](https://djon.es/assets/blog/2013/04/10/application-or-targeted-learning-analytics-another-scope/images/8635564725_aa4fe8978c.jpg)](http://www.flickr.com/photos/david_jones/8635564725/ "Analytics Scope by David T Jones, on Flickr")
 
 It's part 3 of a model of learning analytics (Target, Consumer, Scope, Automation) Mark used in his talk and got me thinking and hence the following. Still early days on this.
 

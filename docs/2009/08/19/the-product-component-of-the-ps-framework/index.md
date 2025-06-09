@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-08-19 21:36:38+10:00
+date: 2009-08-19 11:36:38
 next:
   text: '"eLearning and Innovation Specialist report #1: 4-20 August"'
   url: /blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/
 previous:
   text: Nudging as paternalism
   url: /blog/2009/08/18/nudging-as-paternalism/
+template: blog-post.html
 title: The product component of the Ps Framework
 type: post
-template: blog-post.html
 ---
 This post contains the start of the Product component of the Ps Framework that forms a section out of chapter 2 of [my thesis](/blog/research/phd-thesis/).
 

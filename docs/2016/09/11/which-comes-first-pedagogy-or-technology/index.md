@@ -1,69 +1,67 @@
----
+﻿---
 categories:
 - edc3100
 - edu8117
-date: 2016-09-11 09:39:58+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 62.30.9.76
+  author_url: http://cj13.wordpress.com/
+  content: "If by pedagogy you mean the way things are done, then pedagogy is a technology.\
+    \ It's an odd separation to make regardless of whether or not you accept the Franklin\
+    \ argument about technology as practice. It may help simplify things by thinking\
+    \ about what work is being delegated to machines. Non trivial question.\n\nThe\
+    \ quote from Franklin:\nAs a beginning let\u2019s look at technology as practice.\
+    \ Kenneth Boulding, the author of The Image and many other influential books in\
+    \ the social sciences,4 suggested that one might think of technology as ways of\
+    \ doing something. He pointed out that there is a technology of prayer as well\
+    \ as of ploughing; there are technologies to control fear as well as to control\
+    \ flood.\n\nFranklin, U. M. (2004). The Real World of Technology (Kindle ed.).\
+    \ Toronto: Anansi."
+  date: '2016-09-21 01:15:54'
+  date_gmt: '2016-09-20 15:15:54'
+  id: '3418'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.33
+  author_url: https://djon.es/blog/
+  content: So yet another way of looking at/model of the situation. Ta.
+  date: '2016-09-21 08:53:53'
+  date_gmt: '2016-09-20 22:53:53'
+  id: '3419'
+  parent: '3418'
+  type: comment
+  user_id: '1'
+date: 2016-09-10 23:39:58
 next:
   text: "Exploring Moodle Book usage \u2013 Part 7 \u2013 When are they used?"
   url: /blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/
+pingbacks:
+- approved: '1'
+  author: Which comes first? Pedagogy or technology? | Russell Pearson&#039;s Online
+    Home
+  author_email: null
+  author_ip: 192.0.113.167
+  author_url: https://rlpearson67.wordpress.com/2016/09/12/which-comes-first-pedagogy-or-technology/
+  content: '[&#8230;] on September 12, 2016 | Leave a comment    ON SEPTEMBER 11,
+    2016 BY DAVID JONESIN EDC3100, [&#8230;]'
+  date: '2016-09-13 01:58:09'
+  date_gmt: '2016-09-12 15:58:09'
+  id: '3417'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Making course activity more transparent: A proposed use of MAV'
   url: /blog/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/
+template: blog-post.html
 title: Which comes first? Pedagogy or technology?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 62.30.9.76
-      author_url: http://cj13.wordpress.com/
-      content: "If by pedagogy you mean the way things are done, then pedagogy is a technology.\
-        \ It's an odd separation to make regardless of whether or not you accept the Franklin\
-        \ argument about technology as practice. It may help simplify things by thinking\
-        \ about what work is being delegated to machines. Non trivial question.\n\nThe\
-        \ quote from Franklin:\nAs a beginning let\u2019s look at technology as practice.\
-        \ Kenneth Boulding, the author of The Image and many other influential books in\
-        \ the social sciences,4 suggested that one might think of technology as ways of\
-        \ doing something. He pointed out that there is a technology of prayer as well\
-        \ as of ploughing; there are technologies to control fear as well as to control\
-        \ flood.\n\nFranklin, U. M. (2004). The Real World of Technology (Kindle ed.).\
-        \ Toronto: Anansi."
-      date: '2016-09-21 01:15:54'
-      date_gmt: '2016-09-20 15:15:54'
-      id: '3418'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.33
-      author_url: https://djon.es/blog/
-      content: So yet another way of looking at/model of the situation. Ta.
-      date: '2016-09-21 08:53:53'
-      date_gmt: '2016-09-20 22:53:53'
-      id: '3419'
-      parent: '3418'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Which comes first? Pedagogy or technology? | Russell Pearson&#039;s Online
-        Home
-      author_email: null
-      author_ip: 192.0.113.167
-      author_url: https://rlpearson67.wordpress.com/2016/09/12/which-comes-first-pedagogy-or-technology/
-      content: '[&#8230;] on September 12, 2016 | Leave a comment    ON SEPTEMBER 11,
-        2016 BY DAVID JONESIN EDC3100, [&#8230;]'
-      date: '2016-09-13 01:58:09'
-      date_gmt: '2016-09-12 15:58:09'
-      id: '3417'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Miranda picks up on a common point around the combination of technology and pedagogy with [this post](http://www.globaledmatters.com/pedagogy-first-then-technology/) titled _Pedagogy First then Technology_. I disagree. If you have to think in simple sequential terms, then **I think pedagogy should be the last consideration**, not the first. The broader problem though is our tendency to want limit ourselves to the sequential
 
@@ -71,7 +69,7 @@ Here's why.
 
 ## The world and how we think isn't sequential
 
-[![of course, he DOES suffer from early-ons by undergroundbastard, on Flickr](images/6316737349_ebbd6475c7_m.jpg "of course, he DOES suffer from early-ons by undergroundbastard, on Flickr")](https://www.flickr.com/photos/undergroundbastard/6316737349/) "[of course, he DOES suffer from early-ons](https://www.flickr.com/photos/undergroundbastard/6316737349/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/undergroundbastard/)[undergroundbastard](https://www.flickr.com/people/undergroundbastard/) [](http://www.imagecodr.org/)
+[![of course, he DOES suffer from early-ons by undergroundbastard, on Flickr](https://djon.es/assets/blog/2016/09/11/which-comes-first-pedagogy-or-technology/images/6316737349_ebbd6475c7_m.jpg "of course, he DOES suffer from early-ons by undergroundbastard, on Flickr")](https://www.flickr.com/photos/undergroundbastard/6316737349/) "[of course, he DOES suffer from early-ons](https://www.flickr.com/photos/undergroundbastard/6316737349/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/undergroundbastard/)[undergroundbastard](https://www.flickr.com/people/undergroundbastard/) [](http://www.imagecodr.org/)
 
 The learning and teaching literature is replete with sequential processes such as [ADDIE](https://en.wikipedia.org/wiki/ADDIE_Model), [Backwards Design](https://en.wikipedia.org/wiki/Backward_design), [Constructive Alignment](https://en.wikipedia.org/wiki/Constructive_alignment) etc. It's replete with such models because that's what academics and experts tend to do. Develop models. The problem is that [all models are wrong,](/blog/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/) but some of them are useful in certain situations for certain purposes.
 

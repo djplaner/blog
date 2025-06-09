@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - bam
 - elearning
-date: 2009-02-27 09:20:03+10:00
+comments: []
+date: 2009-02-26 23:20:03
 next:
   text: Why formulaic guidance annoys experts and why they ignore the needs of the
     novice
   url: /blog/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/
+pingbacks:
+- approved: '1'
+  author: Journey of an International Pre-Service Teacher
+  author_email: null
+  author_ip: 66.155.9.155
+  author_url: http://anoukmatt.wordpress.com/2014/03/10/142/
+  content: "[&#8230;] Minute papers: done at the end of a lesson. Students take a\
+    \ minute to answer a couple of questions related to the lesson\_ [&#8230;]"
+  date: '2014-03-10 14:52:23'
+  date_gmt: '2014-03-10 04:52:23'
+  id: '2185'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Improving university teaching - learning from constructive alignment by *NOT*
     mandating it
   url: /blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/
+template: blog-post.html
 title: Minute papers - encouraging reflection?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Journey of an International Pre-Service Teacher
-      author_email: null
-      author_ip: 66.155.9.155
-      author_url: http://anoukmatt.wordpress.com/2014/03/10/142/
-      content: "[&#8230;] Minute papers: done at the end of a lesson. Students take a\
-        \ minute to answer a couple of questions related to the lesson\_ [&#8230;]"
-      date: '2014-03-10 14:52:23'
-      date_gmt: '2014-03-10 04:52:23'
-      id: '2185'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Part of the rationale for developing and using [BAM](/blog/research/bam-blog-aggregation-management/) had its origins in this unpublished paper (Jones, 2005). A part of the paper talks about minute papers, that content is reproduced below.
 

@@ -1,138 +1,135 @@
----
-date: 2007-03-04 19:44:21+10:00
+﻿---
+comments:
+- approved: '1'
+  author: d.jones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.20.69
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: "For various reasons based on my experience at CQU it's going to be very\
+    \ hard to convince me of the value of ERPs in the university context, especially\
+    \ for an organisation that is ill-defined and rapidly and continually changing.\
+    \  To some extent there is a need to separate out how it is implemented and the\
+    \ notion of an ERP.  However, to some extent, I believe that the nature and expense\
+    \ of ERPs influences how it is implemented.\n\nSome of my previous writings give\
+    \ some insights into my views\n<ul>\n  <li> <a href=\"http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/ERP_Live/\"\
+    \ rel=\"nofollow\">How to live with ERPs and Thrive</a> </li>\n  <li> <a href=\"\
+    http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/Shadow_Systems/\"\
+    \ rel=\"nofollow\">The rise and fall of a shadow system: Lessons for enterprise\
+    \ systems implementation</a> </li>\n</ul>"
+  date: '2007-03-06 09:38:20'
+  date_gmt: '2007-03-05 23:38:20'
+  id: '1530'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Bishop Hill
+  author_email: bishophill@tiscali.co.uk
+  author_ip: 88.107.251.116
+  author_url: http://bishophill.squarespace.com
+  content: 'You''re certainly right that ERP is not an automatic solution. If it''s
+    done badly it may well make things worse, although I should point out that this
+    is true of ERP in a widget factory just as much as in a University.
+
+
+    I certainly take your point about blind acceptance of an alien business model.'
+  date: '2007-03-06 05:15:25'
+  date_gmt: '2007-03-05 19:15:25'
+  id: '1531'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: d.jones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.148
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'G''day,
+
+
+    Thanks for the comment.  I have to admit that the above is a work in progress.
+
+
+    But the main problem, I was attempting to address is the tendency for universities
+    to adopt simplistic interpretations of business practices without really questioning
+    just which is the most appropriate.  It is essentially the problem of trying to
+    make a bureaucracy act like a business.
+
+
+    With respect to ERPs, I do question whether they can automatically make a place
+    not a shambles.  Many of the Universities I''ve seen haven''t really been using
+    ERP systems all that well, the technology isn''t a solution to bureaucracy.
+
+
+    Also, I think you can already see the writing on the wall with Universities questioning
+    whether they can really afford the business model encapsulated by most ERPs.
+
+
+    The last point is whether or not teaching is repetitive. In a lot of universities,
+    it probably is.  Recent experience at CQU over the last 10 years, which has been
+    feeling the brunt of many of the factors I mentioned (e.g. globalisation etc),
+    is that it shouldn''t be.  That teaching requires, in some cases, as much customisation
+    as research.
+
+
+    Another response is that, in his book, David Maister does mention that professional
+    service firms can encompass a range of tasks with varying levels of customisation.  One
+    of the problems such firms have to solve is what is the right mix of such tasks
+    for them, and how best to handle that mix. To some extent, you can see this at
+    different universities that have made decisions about the level of research they
+    perform.
+
+
+    Still early days in formulation.  Actually, on the question of whether universities
+    should formulate their own. This is a strong possibility.  BUt I also think it
+    is easier for folk to adopt and change existing models than creating an entirely
+    new model from scratch.
+
+
+    David.'
+  date: '2007-03-05 21:24:27'
+  date_gmt: '2007-03-05 11:24:27'
+  id: '1532'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Bishop Hill
+  author_email: bishophill@tiscali.co.uk
+  author_ip: 88.107.251.116
+  author_url: http://bishophill.squarespace.com
+  content: 'I think you need to distinguish the teaching and research functions of
+    a university. The teaching function <i>is</i> repetitive (at least at undergraduate
+    level) and so are most of the back office functions like enrollment, fees and
+    accomodation. I would have thought that ERP systems are just the thing. I once
+    audited a University which didn''t use ERP, and it was a complete shambles.
+
+
+    The similarity to a professional services firm is far from obvious to me. I would
+    have thought the universities would be much better off developing their own business
+    models.
+
+
+    There''s no doubt they need business disciplines but these are only going to come
+    once they are out of state ownership. Trying to make a bureaucracy behave like
+    a business never works. It just adds more layers of bureaucracy.'
+  date: '2007-03-05 19:54:36'
+  date_gmt: '2007-03-05 09:54:36'
+  id: '1533'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2007-03-04 09:44:21
 next:
   text: Open source in the education field
   url: /blog/2007/03/04/open-source-in-the-education-field/
+pingbacks: []
 previous:
   text: Slowing change and persuading academics
   url: /blog/2007/02/10/slowing-change-and-persuading-academics/
+template: blog-post.html
 title: Universities as a business - but which business
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: d.jones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.20.69
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: "For various reasons based on my experience at CQU it's going to be very\
-        \ hard to convince me of the value of ERPs in the university context, especially\
-        \ for an organisation that is ill-defined and rapidly and continually changing.\
-        \  To some extent there is a need to separate out how it is implemented and the\
-        \ notion of an ERP.  However, to some extent, I believe that the nature and expense\
-        \ of ERPs influences how it is implemented.\n\nSome of my previous writings give\
-        \ some insights into my views\n<ul>\n  <li> <a href=\"http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/ERP_Live/\"\
-        \ rel=\"nofollow\">How to live with ERPs and Thrive</a> </li>\n  <li> <a href=\"\
-        http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/Shadow_Systems/\"\
-        \ rel=\"nofollow\">The rise and fall of a shadow system: Lessons for enterprise\
-        \ systems implementation</a> </li>\n</ul>"
-      date: '2007-03-06 09:38:20'
-      date_gmt: '2007-03-05 23:38:20'
-      id: '1530'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Bishop Hill
-      author_email: bishophill@tiscali.co.uk
-      author_ip: 88.107.251.116
-      author_url: http://bishophill.squarespace.com
-      content: 'You''re certainly right that ERP is not an automatic solution. If it''s
-        done badly it may well make things worse, although I should point out that this
-        is true of ERP in a widget factory just as much as in a University.
-    
-    
-        I certainly take your point about blind acceptance of an alien business model.'
-      date: '2007-03-06 05:15:25'
-      date_gmt: '2007-03-05 19:15:25'
-      id: '1531'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: d.jones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.148
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'G''day,
-    
-    
-        Thanks for the comment.  I have to admit that the above is a work in progress.
-    
-    
-        But the main problem, I was attempting to address is the tendency for universities
-        to adopt simplistic interpretations of business practices without really questioning
-        just which is the most appropriate.  It is essentially the problem of trying to
-        make a bureaucracy act like a business.
-    
-    
-        With respect to ERPs, I do question whether they can automatically make a place
-        not a shambles.  Many of the Universities I''ve seen haven''t really been using
-        ERP systems all that well, the technology isn''t a solution to bureaucracy.
-    
-    
-        Also, I think you can already see the writing on the wall with Universities questioning
-        whether they can really afford the business model encapsulated by most ERPs.
-    
-    
-        The last point is whether or not teaching is repetitive. In a lot of universities,
-        it probably is.  Recent experience at CQU over the last 10 years, which has been
-        feeling the brunt of many of the factors I mentioned (e.g. globalisation etc),
-        is that it shouldn''t be.  That teaching requires, in some cases, as much customisation
-        as research.
-    
-    
-        Another response is that, in his book, David Maister does mention that professional
-        service firms can encompass a range of tasks with varying levels of customisation.  One
-        of the problems such firms have to solve is what is the right mix of such tasks
-        for them, and how best to handle that mix. To some extent, you can see this at
-        different universities that have made decisions about the level of research they
-        perform.
-    
-    
-        Still early days in formulation.  Actually, on the question of whether universities
-        should formulate their own. This is a strong possibility.  BUt I also think it
-        is easier for folk to adopt and change existing models than creating an entirely
-        new model from scratch.
-    
-    
-        David.'
-      date: '2007-03-05 21:24:27'
-      date_gmt: '2007-03-05 11:24:27'
-      id: '1532'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Bishop Hill
-      author_email: bishophill@tiscali.co.uk
-      author_ip: 88.107.251.116
-      author_url: http://bishophill.squarespace.com
-      content: 'I think you need to distinguish the teaching and research functions of
-        a university. The teaching function <i>is</i> repetitive (at least at undergraduate
-        level) and so are most of the back office functions like enrollment, fees and
-        accomodation. I would have thought that ERP systems are just the thing. I once
-        audited a University which didn''t use ERP, and it was a complete shambles.
-    
-    
-        The similarity to a professional services firm is far from obvious to me. I would
-        have thought the universities would be much better off developing their own business
-        models.
-    
-    
-        There''s no doubt they need business disciplines but these are only going to come
-        once they are out of state ownership. Trying to make a bureaucracy behave like
-        a business never works. It just adds more layers of bureaucracy.'
-      date: '2007-03-05 19:54:36'
-      date_gmt: '2007-03-05 09:54:36'
-      id: '1533'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Last week I gave a presentation to new academic staff at [CQU](http://www.cqu.edu.au/), a part of their "induction" process. The presentation was titled [Some possible futures of e-learning: Lessons and enablers](http://cq-pan.cqu.edu.au/david-jones/Publications/Presentations/PossibleFutures/).
 

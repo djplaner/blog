@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - academicdevelopment
 - c2d2
 - elearning
 - highereducation
-date: 2010-08-30 09:53:10+10:00
+date: 2010-08-29 23:53:10
 next:
   text: Situated shared practice, curriculum design and academic development
   url: /blog/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/
 previous:
   text: Possible uses of academic analytics
   url: /blog/2010/08/27/possible-uses-of-academic-analytics/
+template: blog-post.html
 title: The rider, elephant, and shaping the path
 type: post
-template: blog-post.html
 ---
 Listened to [this interview](http://itc.conversationsnetwork.org/shows/detail4527.html) of Chip Heath, a Stanford Professor in Organizational Behaviour about his co-authored book [Switch: How to change things when change is hard](http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752). My particular interest in this arises from [figuring out how to](/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/) improve learning and teaching in universities. From the interview and the podcast this seems to be another one in a line of "popular science" books aimed at making clear what science/research knows about the topic.
 

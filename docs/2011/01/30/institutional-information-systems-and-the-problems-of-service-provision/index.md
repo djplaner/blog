@@ -1,68 +1,65 @@
----
+﻿---
 categories:
 - journey
 - teaching
-date: 2011-01-30 22:49:19+10:00
+comments: []
+date: 2011-01-30 12:49:19
 next:
   text: My god, is it done?
   url: /blog/2011/01/31/my-god-is-it-done/
+pingbacks:
+- approved: '1'
+  author: "Tweets that mention Problems of service provision and why can\u2019t I\
+    \ have a personalised class timetable? \xAB The Weblog of (a) David Jones -- Topsy.com"
+  author_email: null
+  author_ip: 208.74.66.43
+  author_url: http://topsy.com/davidtjones.wordpress.com/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/?utm_source=pingback&utm_campaign=L2
+  content: "[...] This post was mentioned on Twitter by Paulo Sim\xF5es, Fernando\
+    \ Brandao and Bertromavich Reibold, Robert P Reibold. Robert P Reibold said: Problems\
+    \ of service provision and why can&#039;t I have a personalised ...: As a result\
+    \ the choice and use of the sup... http://bit.ly/hhfYBF [...]"
+  date: '2011-01-31 03:19:43'
+  date_gmt: '2011-01-30 17:19:43'
+  id: '3237'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Getting an overview of the term ahead &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.43
+  author_url: https://djon.es/blog/2011/02/15/getting-an-overview-of-the-term-ahead/
+  content: '[...] So there is a new look portal intended to bring everything into
+    one place, to make life easier for students. However, it is still missing some
+    fundamental elements. For example, a personalised class timetable, as I&#8217;ve
+    complained about before. [...]'
+  date: '2011-02-15 17:25:52'
+  date_gmt: '2011-02-15 07:25:52'
+  id: '3238'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How hard is it to get a personalised class timetable? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.109
+  author_url: https://djon.es/blog/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/
+  content: '[...] create a personalised class timetable for students at the institution
+    I&#8217;m attending. I have previously described what I (as a student) have to
+    currently do to create my class timetable as well as explaining that [...]'
+  date: '2011-02-16 13:57:21'
+  date_gmt: '2011-02-16 03:57:21'
+  id: '3239'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The state of educational data mining in 2009
   url: /blog/2011/01/30/the-state-of-educational-data-mining-in-2009/
+template: blog-post.html
 title: Problems of service provision and why can't I have a personalised class timetable?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: "Tweets that mention Problems of service provision and why can\u2019t I\
-        \ have a personalised class timetable? \xAB The Weblog of (a) David Jones -- Topsy.com"
-      author_email: null
-      author_ip: 208.74.66.43
-      author_url: http://topsy.com/davidtjones.wordpress.com/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/?utm_source=pingback&utm_campaign=L2
-      content: "[...] This post was mentioned on Twitter by Paulo Sim\xF5es, Fernando\
-        \ Brandao and Bertromavich Reibold, Robert P Reibold. Robert P Reibold said: Problems\
-        \ of service provision and why can&#039;t I have a personalised ...: As a result\
-        \ the choice and use of the sup... http://bit.ly/hhfYBF [...]"
-      date: '2011-01-31 03:19:43'
-      date_gmt: '2011-01-30 17:19:43'
-      id: '3237'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Getting an overview of the term ahead &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.43
-      author_url: https://djon.es/blog/2011/02/15/getting-an-overview-of-the-term-ahead/
-      content: '[...] So there is a new look portal intended to bring everything into
-        one place, to make life easier for students. However, it is still missing some
-        fundamental elements. For example, a personalised class timetable, as I&#8217;ve
-        complained about before. [...]'
-      date: '2011-02-15 17:25:52'
-      date_gmt: '2011-02-15 07:25:52'
-      id: '3238'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How hard is it to get a personalised class timetable? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.109
-      author_url: https://djon.es/blog/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/
-      content: '[...] create a personalised class timetable for students at the institution
-        I&#8217;m attending. I have previously described what I (as a student) have to
-        currently do to create my class timetable as well as explaining that [...]'
-      date: '2011-02-16 13:57:21'
-      date_gmt: '2011-02-16 03:57:21'
-      id: '3239'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The next step in my journey as a full-time Uni student happened today when I saw a notice announcing the draft class timetable. As a result I offer some commentary on the problems of "service" provision as the metaphor for many modern universities/organisations.
 

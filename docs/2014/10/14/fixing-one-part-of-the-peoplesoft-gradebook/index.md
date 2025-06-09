@@ -1,64 +1,62 @@
----
+﻿---
 categories:
 - bad
 - design-theory
-date: 2014-10-14 16:47:50+10:00
+comments:
+- approved: '1'
+  author: Peter
+  author_email: palbion@me.com
+  author_ip: 123.211.240.227
+  author_url: http://pamatravel.wordpress.com
+  content: That really should be built into any sensible system but it's nice that
+    you can make it happen regardless of the clunky system :-)
+  date: '2014-10-14 20:41:49'
+  date_gmt: '2014-10-14 10:41:49'
+  id: '1142'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 123.211.65.75
+  author_url: https://djon.es/blog/
+  content: Sums up nicely the point of one of the ASCILITE papers.  The very nature
+    of universities/organisations and the nature of the problem of e-learning (very
+    broadly speaking) is such that they will always produce clunky systems.  The proposition
+    is that the only way to get a non-clunky system is to enable this type of bricolage/digital
+    renovation.
+  date: '2014-10-15 10:58:30'
+  date_gmt: '2014-10-15 00:58:30'
+  id: '1143'
+  parent: '1142'
+  type: comment
+  user_id: '1'
+date: 2014-10-14 06:47:50
 next:
   text: Some more tweaks to gradebook
   url: /blog/2014/11/05/some-more-tweaks-to-gradebook/
+pingbacks:
+- approved: '1'
+  author: Some more tweaks to gradebook | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.101
+  author_url: https://djon.es/blog/2014/11/05/some-more-tweaks-to-gradebook/
+  content: '[&#8230;] is a development log of a few additions to the recent fixes
+    to the Peoplesoft gradebook. The following documents attempts to implement the
+    [&#8230;]'
+  date: '2014-11-05 11:12:48'
+  date_gmt: '2014-11-05 01:12:48'
+  id: '1144'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: On the difference between &quot;rational&quot;, &quot;possible&quot; and &quot;desirable&quot;
   url: /blog/2014/10/09/on-the-difference-between-rational-possible-and-desirable/
+template: blog-post.html
 title: Fixing one part of the peoplesoft gradebook
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Peter
-      author_email: palbion@me.com
-      author_ip: 123.211.240.227
-      author_url: http://pamatravel.wordpress.com
-      content: That really should be built into any sensible system but it's nice that
-        you can make it happen regardless of the clunky system :-)
-      date: '2014-10-14 20:41:49'
-      date_gmt: '2014-10-14 10:41:49'
-      id: '1142'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 123.211.65.75
-      author_url: https://djon.es/blog/
-      content: Sums up nicely the point of one of the ASCILITE papers.  The very nature
-        of universities/organisations and the nature of the problem of e-learning (very
-        broadly speaking) is such that they will always produce clunky systems.  The proposition
-        is that the only way to get a non-clunky system is to enable this type of bricolage/digital
-        renovation.
-      date: '2014-10-15 10:58:30'
-      date_gmt: '2014-10-15 00:58:30'
-      id: '1143'
-      parent: '1142'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Some more tweaks to gradebook | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.101
-      author_url: https://djon.es/blog/2014/11/05/some-more-tweaks-to-gradebook/
-      content: '[&#8230;] is a development log of a few additions to the recent fixes
-        to the Peoplesoft gradebook. The following documents attempts to implement the
-        [&#8230;]'
-      date: '2014-11-05 11:12:48'
-      date_gmt: '2014-11-05 01:12:48'
-      id: '1144'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a development log of an attempt to fix one aspect of the Peoplesoft gradebook used at my current institution.
 

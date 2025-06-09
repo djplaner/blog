@@ -1,83 +1,80 @@
----
+﻿---
 categories:
 - 4paths
 - bad
 - elearning
 - irac
-date: 2015-09-15 10:06:18+10:00
+comments: []
+date: 2015-09-15 00:06:18
 next:
   text: Computers 'do not improve' pupil results, just like wood 'does not improve'
     houses
   url: /blog/2015/09/16/computers-do-not-improve-pupil-results-just-like-wood-does-not-improve-houses/
+pingbacks:
+- approved: '1'
+  author: 'University e-learning: Removing the context and adding the sediment | The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.81.171
+  author_url: https://davidtjones.wordpress.com/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
+  content: '[&#8230;] to the &#8220;know thy student&#8221; problem that I&#8217;ve
+    used this year. Another post offers a more detailed description of that solution.
+    The above argument suggests that the BAD solution should be hugely more contextually
+    appropriate [&#8230;]'
+  date: '2015-10-01 12:50:28'
+  date_gmt: '2015-10-01 02:50:28'
+  id: '1427'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Sentiment analysis of student blog posts &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.101.131
+  author_url: https://davidtjones.wordpress.com/2016/02/14/sentiment-analysis-of-student-blog-posts/
+  content: '[&#8230;] following is a screen shot of the modified &#8220;know thy student&#8221;
+    kludge I&#8217;ve implemented for my course. The window shows some details for
+    an individual student from [&#8230;]'
+  date: '2016-02-14 11:17:10'
+  date_gmt: '2016-02-14 01:17:10'
+  id: '1428'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.161
+  author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
+  content: '[&#8230;] &#8220;Know thy student&#8221;; and [&#8230;]'
+  date: '2016-03-04 13:33:49'
+  date_gmt: '2016-03-04 03:33:49'
+  id: '1429'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'University digital technology: problems, causes, and suggested solutions
+    &#8211; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.116.169
+  author_url: https://davidtjones.wordpress.com/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
+  content: "[&#8230;] &#8220;more student details&#8221; workarounds I use could potentially\
+    \ be expanded and customised to other courses.\_ Especially if MAV sticks [&#8230;]"
+  date: '2016-09-07 13:09:09'
+  date_gmt: '2016-09-07 03:09:09'
+  id: '1430'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What might a project combining LX Design and Analaytics look like?
   url: /blog/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
+template: blog-post.html
 title: Helping teachers "know thy students"
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'University e-learning: Removing the context and adding the sediment | The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.81.171
-      author_url: https://davidtjones.wordpress.com/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
-      content: '[&#8230;] to the &#8220;know thy student&#8221; problem that I&#8217;ve
-        used this year. Another post offers a more detailed description of that solution.
-        The above argument suggests that the BAD solution should be hugely more contextually
-        appropriate [&#8230;]'
-      date: '2015-10-01 12:50:28'
-      date_gmt: '2015-10-01 02:50:28'
-      id: '1427'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Sentiment analysis of student blog posts &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.101.131
-      author_url: https://davidtjones.wordpress.com/2016/02/14/sentiment-analysis-of-student-blog-posts/
-      content: '[&#8230;] following is a screen shot of the modified &#8220;know thy student&#8221;
-        kludge I&#8217;ve implemented for my course. The window shows some details for
-        an individual student from [&#8230;]'
-      date: '2016-02-14 11:17:10'
-      date_gmt: '2016-02-14 01:17:10'
-      id: '1428'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.161
-      author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
-      content: '[&#8230;] &#8220;Know thy student&#8221;; and [&#8230;]'
-      date: '2016-03-04 13:33:49'
-      date_gmt: '2016-03-04 03:33:49'
-      id: '1429'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'University digital technology: problems, causes, and suggested solutions
-        &#8211; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.116.169
-      author_url: https://davidtjones.wordpress.com/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
-      content: "[&#8230;] &#8220;more student details&#8221; workarounds I use could potentially\
-        \ be expanded and customised to other courses.\_ Especially if MAV sticks [&#8230;]"
-      date: '2016-09-07 13:09:09'
-      date_gmt: '2016-09-07 03:09:09'
-      id: '1430'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The first key takeaway from [Motz, Teague and Shepard (2015)](http://er.educause.edu/articles/2015/3/know-thy-students-providing-aggregate-student-data-to-instructors) is
 
@@ -89,7 +86,7 @@ The following illustrates one of the problems teaching staff (at least in my ins
 
 One of the problems I identified in [this talk](https://web.archive.org/web/20160403203459/http://usq.edu.au/learning-teaching/USQSalon/previous/JonesAlbion) was what it took for me to "know thy student" during semester. For example, the following is a question asked by a student on my course website earlier this year (in an offering that included 300+ students).
 
-[![Question on a forum](images/21412057482_1aaf67c93f.jpg)](https://www.flickr.com/photos/david_jones/21412057482/in/dateposted-public/ "Question on a forum")
+[![Question on a forum](https://djon.es/assets/blog/2015/09/15/helping-teachers-know-thy-students/images/21412057482_1aaf67c93f.jpg)](https://www.flickr.com/photos/david_jones/21412057482/in/dateposted-public/ "Question on a forum")
 
 To answer this question, it would be useful "know thy student" in the following terms
 
@@ -104,7 +101,7 @@ To "know thy student" in the terms outlined above and limited to the tools provi
 - use of a number of different reports/services within those two systems; and,
 - at least 10 minutes to click through each of these.
 
-[![Norman on affordances](images/18656913650_b2a17f2513_n.jpg)](https://www.flickr.com/photos/david_jones/18656913650/in/photolist-uqDyr1 "Norman on affordances")
+[![Norman on affordances](https://djon.es/assets/blog/2015/09/15/helping-teachers-know-thy-students/images/18656913650_b2a17f2513_n.jpg)](https://www.flickr.com/photos/david_jones/18656913650/in/photolist-uqDyr1 "Norman on affordances")
 
 Given Norman's (1993) observations is it any wonder that perhaps I might not spend 10 minutes on that task every time I respond to a question from the 300+ students?
 
@@ -142,17 +139,17 @@ The technical implementation of this scratch involves
 
 As a result, when I use that browser to view the forum post at the top of this post, I actually see the following (click on the image to see a larger version). The red arrows have been added to the image to highlight what's changed. The addition of \[details\] links.
 
-[![Forum post + more student details](images/21234896670_4bc5b9523e.jpg)](https://www.flickr.com/photos/david_jones/21234896670/in/dateposted-public/ "Forum post + more student details")
+[![Forum post + more student details](https://djon.es/assets/blog/2015/09/15/helping-teachers-know-thy-students/images/21234896670_4bc5b9523e.jpg)](https://www.flickr.com/photos/david_jones/21234896670/in/dateposted-public/ "Forum post + more student details")
 
 Whenever the Greasemonkey script sees a Moodle user profile link, it adds a \[details\] link. Regardless of which page on my Moodle course sites I'm on. The following image shows an excerpt from the results page for a Quiz. It has the \[details\] links as well.
 
-[![Quiz results + more student details](images/21396732066_6bff5d9504.jpg)](https://www.flickr.com/photos/david_jones/21396732066/in/dateposted-public/ "Quiz results + more student details")
+[![Quiz results + more student details](https://djon.es/assets/blog/2015/09/15/helping-teachers-know-thy-students/images/21396732066_6bff5d9504.jpg)](https://www.flickr.com/photos/david_jones/21396732066/in/dateposted-public/ "Quiz results + more student details")
 
 It's not beautiful, but it's only something I currently use and I was after utility.
 
 Clicking on the \[details\] links results in a popup window appearing. A window that helps me "know they student". The window has three tabs. The first is labelled "Personal Details" and is visible below. It provides information from the institutional student records system, including name, email address, age, specialisation, which campus or mode the student is enrolled in, the number of prior units they've completed, their GPA, and their location and phone numbers.
 
-[![Student background](images/20800269384_7e8e57697b.jpg)](https://www.flickr.com/photos/david_jones/20800269384/in/dateposted-public/ "Student background")
+[![Student background](https://djon.es/assets/blog/2015/09/15/helping-teachers-know-thy-students/images/20800269384_7e8e57697b.jpg)](https://www.flickr.com/photos/david_jones/20800269384/in/dateposted-public/ "Student background")
 
 The second tab on "more student details" shows details of the student's activity completion. This is a Moodle idea where it tracks if and when a student has completed an activity or resource. My course site is designed as a collection of weekly "learning paths". Each path is a series of activities and resources design to help the student learn. Each week belongs to one of three modules.
 
@@ -162,11 +159,11 @@ For each activity the student has completed, it shows when they completed that a
 
 I did mention above that it's useful, rather the beautiful.
 
-[![Student activity completion](images/21396731876_a83e942ec2.jpg)](https://www.flickr.com/photos/david_jones/21396731876/in/dateposted-public/ "Student activity completion")
+[![Student activity completion](https://djon.es/assets/blog/2015/09/15/helping-teachers-know-thy-students/images/21396731876_a83e942ec2.jpg)](https://www.flickr.com/photos/david_jones/21396731876/in/dateposted-public/ "Student activity completion")
 
 The "blog posts tab shows details about all the posts the student has written on their blog for this course. Each of the blog posts include a link to that blog post and shows how long ago the post was made.
 
-[![Student blog posts](images/20800268984_f2197c722f.jpg)](https://www.flickr.com/photos/david_jones/20800268984/in/dateposted-public/ "Student blog posts")
+[![Student blog posts](https://djon.es/assets/blog/2015/09/15/helping-teachers-know-thy-students/images/20800268984_f2197c722f.jpg)](https://www.flickr.com/photos/david_jones/20800268984/in/dateposted-public/ "Student blog posts")
 
 With this tool available, when I answer a question on a discussion forum I can quickly refresh what I know about the student and their progress before answering. When I consider a request for an assignment extension, I can check on the student's progress so far. Without spending 10+ minutes doing so.
 

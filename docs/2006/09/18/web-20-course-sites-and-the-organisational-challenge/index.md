@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2006-09-18 21:24:48+10:00
+date: 2006-09-18 11:24:48
 next:
   text: '"Web 2.0: A New Wave of innovation for teaching and learning?"'
   url: /blog/2006/09/18/web-20-a-new-wave-of-innovation-for-teaching-and-learning/
 previous:
   text: Google calendar as a component to Web 2.0 course sites
   url: /blog/2006/09/18/google-calendar-as-a-component-to-web-20-course-sites/
+template: blog-post.html
 title: Web 2.0 Course Sites and the organisational challenge
 type: post
-template: blog-post.html
 ---
 Derek Morrison raises the spectre of organisational response to the idea of Web 2.0 course websites. In part, this looks like the challenge of losing control facing IT support divisions and management.
 

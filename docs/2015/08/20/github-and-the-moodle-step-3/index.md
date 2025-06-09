@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - moodleopenbook
-date: 2015-08-20 11:15:08+10:00
+date: 2015-08-20 01:15:08
 next:
   text: Refining a visualisation
   url: /blog/2015/08/21/refining-a-visualisation/
 previous:
   text: Visualising locations of students etc
   url: /blog/2015/08/18/visualising-locations-of-students-etc/
+template: blog-post.html
 title: github and the Moodle - Step 3
 type: post
-template: blog-post.html
 ---
 Time to follow up [step 2](/blog/2015/08/16/github-and-the-moodle-book-step-2/) in connecting github and the Moodle book module.
 
@@ -118,7 +118,7 @@ Let's checkout the [Output API](https://docs.moodle.org/dev/Output_API) and rend
 
 Back to more primitive approaches and have a bit of tinkering and exploring with both Moodle development and the github client we have a version of the github book tool that is talking to github. But only getting some initial information from github, not yet importing anything useful into the book. It looks like this
 
-[![github_v0](images/20769034892_6017cbf2c1.jpg)](https://www.flickr.com/photos/david_jones/20769034892/in/dateposted-public/ "github_v0")[](//embedr.flickr.com/assets/client-code.js)
+[![github_v0](https://djon.es/assets/blog/2015/08/20/github-and-the-moodle-step-3/images/20769034892_6017cbf2c1.jpg)](https://www.flickr.com/photos/david_jones/20769034892/in/dateposted-public/ "github_v0")[](//embedr.flickr.com/assets/client-code.js)
 
 The "History" section is all information retrieved from github for a specific file in a specific repository. It shows a list of all the commits on that file. When the commit was made, what the commit message was, a link to the HTML page on GitHub that shows more information on the commit, and the details of the person who made the commit.
 

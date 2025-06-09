@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-4
 - chapter-5
@@ -8,7 +8,7 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-03-07 14:21:41+10:00
+date: 2010-03-07 04:21:41
 next:
   text: The Ps Framework and the mismatch created by the product and process of industrial
     e-learning
@@ -16,9 +16,9 @@ next:
 previous:
   text: Design processes for teaching
   url: /blog/2010/03/05/design-processes-for-teaching/
+template: blog-post.html
 title: Some thinking on analysing Webfuse usage
 type: post
-template: blog-post.html
 ---
 I've been back working at the PhD thesis, hopefully down to months before submission. At this stage, I need to work on the 2 chapters that are reflecting on the usage of Webfuse during two periods: 1996 through 1999 and 1999 through 2004 (and a bit later). In doing some, the main tasks I need to achieve are:
 

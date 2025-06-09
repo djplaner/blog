@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - anu
 - design-theory
@@ -7,16 +7,16 @@ categories:
 - psframework
 - thesis
 - webfuse
-date: 2009-02-22 13:34:51+10:00
+date: 2009-02-22 03:34:51
 next:
   text: Patterns for e-learning - a lost opportunity or destined to fail
   url: /blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
 previous:
   text: An information systems design theory for e-learning
   url: /blog/2009/02/21/an-information-systems-design-theory-for-e-learning/
+template: blog-post.html
 title: '"An ISDT for e-learning" - Audio is now synchronized'
 type: post
-template: blog-post.html
 ---
 On Friday the 20th of Feb I gave a talk at [the ANU](http://www.anu.edu.au/) on my [PhD](/blog/research/phd-thesis/). A [previous post](/blog/2009/02/21/an-information-systems-design-theory-for-e-learning/) has some background and an overview of the presentation.
 

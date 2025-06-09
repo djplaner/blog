@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2010-12-19 12:17:29+10:00
+date: 2010-12-19 02:17:29
 next:
   text: Problems with naming of bim2
   url: /blog/2010/12/19/problems-with-naming-of-bim2/
 previous:
   text: A solution for BIM and special characters?
   url: /blog/2010/12/10/a-solution-for-bim-and-special-characters/
+template: blog-post.html
 title: First coding steps for bim2
 type: post
-template: blog-post.html
 ---
 The following records some of the initial steps in actually coding bim2. It includes
 

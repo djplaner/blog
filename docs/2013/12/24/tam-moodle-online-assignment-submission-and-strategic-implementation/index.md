@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - elearning
 - moodle
 - webfuse
-date: 2013-12-24 11:39:40+10:00
+comments: []
+date: 2013-12-24 01:39:40
 next:
   text: Challenges in employing complex e-learning strategies in campus-based universities
   url: /blog/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities/
+pingbacks:
+- approved: '1'
+  author: Challenges in employing complex e-learning strategies in campus-based universities
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.26
+  author_url: https://djon.es/blog/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities/
+  content: '[&#8230;] I wonder if this is evident? This links very nicely with some
+    of the ideas in my last post. [&#8230;]'
+  date: '2014-01-02 11:41:26'
+  date_gmt: '2014-01-02 01:41:26'
+  id: '919'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The adoption and acceptance of learning analytics
   url: /blog/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/
+template: blog-post.html
 title: '"TAM, #moodle, online assignment submission and strategic implementation"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Challenges in employing complex e-learning strategies in campus-based universities
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.26
-      author_url: https://djon.es/blog/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities/
-      content: '[&#8230;] I wonder if this is evident? This links very nicely with some
-        of the ideas in my last post. [&#8230;]'
-      date: '2014-01-02 11:41:26'
-      date_gmt: '2014-01-02 01:41:26'
-      id: '919'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an attempt to expand upon a mention in [the last post](/blog/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/) about exploring one set of thoughts about why/how we might extend/reuse/build upon some prior research using TAM (Technology Acceptance Model) and its application to understanding the use (or not) of Online Assignment Submission and Management (OASM) in higher education.
 

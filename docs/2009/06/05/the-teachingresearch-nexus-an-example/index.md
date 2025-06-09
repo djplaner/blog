@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bam
-date: 2009-06-05 09:47:20+10:00
+date: 2009-06-04 23:47:20
 next:
   text: '"PhD Update #13 - back after a week off"'
   url: /blog/2009/06/05/phd-update-13-back-after-a-week-off/
 previous:
   text: Ateleological processes - definition and weaknesses
   url: /blog/2009/06/05/ateleological-processes-definition-and-weaknesses/
+template: blog-post.html
 title: The teaching/research nexus - an example?
 type: post
-template: blog-post.html
 ---
 As part of my [new position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I have an accountability that involves "facilitating the teaching/research nexus across the university". The notion of a teaching/research nexus is still a fairly opaque term for me (something I'll remedy in the future). While I can see the rationale behind the idea, I have my cynical doubts about whether it will end up being a term that has a meaningful impact or becomes as abused and misused as some other "terms" - e.g. generic attributes, lifelong learning etc.
 

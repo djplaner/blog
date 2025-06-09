@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - academicdevelopment
 - highereducation
-date: 2011-02-02 11:21:28+10:00
+date: 2011-02-02 01:21:28
 next:
   text: '"bim2: registering a new blog"'
   url: /blog/2011/02/06/bim2-registering-a-new-blog/
 previous:
   text: Is there a need for research focii?
   url: /blog/2011/02/01/is-there-a-need-for-research-focii/
+template: blog-post.html
 title: Some stories from teaching awards
 type: post
-template: blog-post.html
 ---
 This particular post tells some personal stories about teaching awards within Australian higher education. It's inspired by a [tweet](http://twitter.com/#!/JonPowles/status/32563568775794688) or [two](http://twitter.com/#!/JonPowles/status/32563778675539968) from @jonpowles
 

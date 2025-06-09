@@ -1,48 +1,45 @@
----
+﻿---
 categories:
 - edc3100
 - elearning
 - highereducation
-date: 2013-06-03 10:20:38+10:00
+comments:
+- approved: '1'
+  author: Maurice A. Barry
+  author_email: maurice.a.barry@gmail.com
+  author_ip: 134.153.172.44
+  author_url: http://mauriceabarry.wordpress.com
+  content: 'Besides the idea you mentioned about fitting new ICT into the existing
+    mentality I think that two significant other considerations have been working
+    against effectiveness:
+
+    1--experimental use of new ICT is often about the device itself and not about
+    the teaching and learning. That is, the cart is often put before the horse. The
+    wrong question is being asked. Instead of the more general, "How can we improve
+    Teaching &amp; Learning in  ___(subject area or outcome)___? This is asked instead:
+    "How can I use ___(new toy)___ in the classroom?"
+
+    2--decision making around ICT integration is often based on sketchy reasoning
+    and often just by one person. The integration is ICT is a big deal and should
+    be done by a team, not a glory-seeking individual. Hope that doesn''t sound tooooo
+    cynical :&gt;)'
+  date: '2013-06-04 00:11:20'
+  date_gmt: '2013-06-03 14:11:20'
+  id: '776'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2013-06-03 00:20:38
 next:
   text: Animation over time of links between student posts
   url: /blog/2013/06/04/animation-over-time-of-links-between-student-posts/
+pingbacks: []
 previous:
   text: Changes in links between student posts
   url: /blog/2013/05/31/changes-in-links-between-student-posts/
+template: blog-post.html
 title: '"Schools and computers: Tales of a digital romance"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Maurice A. Barry
-      author_email: maurice.a.barry@gmail.com
-      author_ip: 134.153.172.44
-      author_url: http://mauriceabarry.wordpress.com
-      content: 'Besides the idea you mentioned about fitting new ICT into the existing
-        mentality I think that two significant other considerations have been working
-        against effectiveness:
-    
-        1--experimental use of new ICT is often about the device itself and not about
-        the teaching and learning. That is, the cart is often put before the horse. The
-        wrong question is being asked. Instead of the more general, "How can we improve
-        Teaching &amp; Learning in  ___(subject area or outcome)___? This is asked instead:
-        "How can I use ___(new toy)___ in the classroom?"
-    
-        2--decision making around ICT integration is often based on sketchy reasoning
-        and often just by one person. The integration is ICT is a big deal and should
-        be done by a team, not a glory-seeking individual. Hope that doesn''t sound tooooo
-        cynical :&gt;)'
-      date: '2013-06-04 00:11:20'
-      date_gmt: '2013-06-03 14:11:20'
-      id: '776'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 It's the last week of semester, EDC3100 ICTs and Pedagogy is drawing to a close and I'm putting together the last bit of activities/resources for the students in the course. Most are focused on the last assignment and in particular a final essay that asks them to evaluate their use of ICTs while on their three week Professional Experience where they were in schools and other locations teaching. Perhaps the most challenging activity I'd like them to engage in is questioning their assumptions around learning, teaching and the application of ICTs. A particularly challenging activity given that much of what passes for the use of ICTs - including much of my own work - in formal education hasn't been very effective at questioning assumptions.
 

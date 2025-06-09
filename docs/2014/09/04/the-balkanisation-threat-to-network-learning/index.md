@@ -1,22 +1,22 @@
----
+﻿---
 categories:
 - connectedcourses
 - edu8117
-date: 2014-09-04 12:24:56+10:00
+date: 2014-09-04 02:24:56
 next:
   text: Breaking BAD to bridge the e-learning reality/rhetoric chasm
   url: /blog/2014/09/05/breaking-bad-to-bridge-the-e-learning-realityrhetoric-chasm/
 previous:
   text: Learning how to make waves
   url: /blog/2014/09/03/learning-how-to-make-waves/
+template: blog-post.html
 title: The balkanisation threat to network learning
 type: post
-template: blog-post.html
 ---
 As part of [NGL](http://netgl.wordpress.com) the plan was to play with Mendely as a medium, but some [limitations of Mendeley](https://netgl.wordpress.com/2014/08/24/we-wont-be-exploring-mendeley-to-its-fullest/) meant it didn't quite fit the bill.
 
-[![Disconnected by larsomat, on Flickr](images/89614073_c1f014182d_m.jpg "Disconnected by larsomat, on Flickr")](https://www.flickr.com/photos/larsomat/89614073/)  
-[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/larsomat/)[larsomat](https://www.flickr.com/people/larsomat/) [](http://www.imagecodr.org/)
+[![Disconnected by larsomat, on Flickr](https://djon.es/assets/blog/2014/09/04/the-balkanisation-threat-to-network-learning/images/89614073_c1f014182d_m.jpg "Disconnected by larsomat, on Flickr")](https://www.flickr.com/photos/larsomat/89614073/)  
+[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2014/09/04/the-balkanisation-threat-to-network-learning/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/larsomat/)[larsomat](https://www.flickr.com/people/larsomat/) [](http://www.imagecodr.org/)
 
 Undeterred, Tracey's spent some time exploring and [sharing more about Mendeley](http://learningforinsight.wordpress.com/2014/09/03/using-mendeley/) and its possibilities for network learning. Including a journal article that explains how a tool like Mendely responds to the changes happening in science research (and perhaps research more broadly). Interesting to see Mendeley's [PKM](http://www.jarche.com/pkm/) related process (7 parts, rather than 3) -
 

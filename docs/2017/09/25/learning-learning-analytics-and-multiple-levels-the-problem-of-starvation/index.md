@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - indicators
-date: 2017-09-25 15:22:13+10:00
+date: 2017-09-25 05:22:13
 next:
   text: Exploring options for teacher DIY learning analytics
   url: /blog/2017/10/07/exploring-options-for-teacher-diy-learning-analytics/
 previous:
   text: Further developing research workflow
   url: /blog/2017/09/23/further-developing-research-workflow/
+template: blog-post.html
 title: '"Learning, learning analytics and multiple levels: The problem of starvation"'
 type: post
-template: blog-post.html
 ---
 In which I play with some analytics and use some literature in an attempt to understand why the institutional implementation of learning analytics as a starvation problem (like most institutional attempts to leverage digital technologies). In this context, I'm using the [definition of starvation](https://en.wikipedia.org/wiki/Starvation_\(computer_science\)) from computer science.
 
@@ -22,7 +22,7 @@ In a section titled "Data from learning on multiple levels: learning is complex"
 
 Digging into Nathan & Alibali (2010) reveals the following table titled "Time scales of human behaviour and the corresponding areas of study and research methods" (which is in turn adapted from elsewhere).
 
-[![Time Scales of Human Behavior and the Corresponding Areas of Study and Research Methods](images/37271669022_622941e6e0_z.jpg)](https://www.flickr.com/photos/david_jones/37271669022/in/dateposted-public/ "Time Scales of Human Behavior and the Corresponding Areas of Study and Research Methods")
+[![Time Scales of Human Behavior and the Corresponding Areas of Study and Research Methods](https://djon.es/assets/blog/2017/09/25/learning-learning-analytics-and-multiple-levels-the-problem-of-starvation/images/37271669022_622941e6e0_z.jpg)](https://www.flickr.com/photos/david_jones/37271669022/in/dateposted-public/ "Time Scales of Human Behavior and the Corresponding Areas of Study and Research Methods")
 
 What I find interesting about this is that it places the types of activities a teacher would do at a very different time scale than what an organisation would do. It also suggests that there are very different methods to be used at these very different levels. Suggesting that using a method in the wrong scale will be less than appropriate.
 

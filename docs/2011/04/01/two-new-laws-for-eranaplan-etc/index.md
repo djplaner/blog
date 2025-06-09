@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-04-01 08:04:56+10:00
+date: 2011-03-31 22:04:56
 next:
   text: Reflections on a 12 year-old course site - It would be harder now
   url: /blog/2011/04/01/reflections-on-a-12-year-old-course-site-it-would-be-harder-now/
@@ -14,9 +14,9 @@ tags:
 - education
 - scores
 - usatoday
+template: blog-post.html
 title: Two new laws for ERA/NAPLAN etc
 type: post
-template: blog-post.html
 ---
 For the last few years some colleagues and I have been watching the rise of managerialism within higher education, and more recently in K12 education.  
   

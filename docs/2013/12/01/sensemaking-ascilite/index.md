@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - ascilite
-date: 2013-12-01 14:17:44+10:00
+date: 2013-12-01 04:17:44
 next:
   text: '"Using the e-learning Maturity Model to Identify Good Practice in E-Learning
     #ascilite"'
@@ -9,9 +9,9 @@ next:
 previous:
   text: 'Interfaces for learning data visualisations - #ascilite.'
   url: /blog/2013/12/01/interfaces-for-learning-data-visualisations-ascilite/
+template: blog-post.html
 title: '"Sensemaking  - #ascilite"'
 type: post
-template: blog-post.html
 ---
 Live blogging of workshop run by [Associate Professor Gregor Kennedy](http://www.cshe.unimelb.edu.au/people/kennedy.html) - early work from MM mentioning audit trail. Something that Reeves and Hedberg (2003) criticise as being hard to impossible without the students themselves explaining.
 

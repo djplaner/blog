@@ -1,70 +1,67 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - evaluation
-date: 2009-02-13 09:29:09+10:00
+comments: []
+date: 2009-02-12 23:29:09
 next:
   text: Innovation - rendering the hitherto non-existent blindingly obvious
   url: /blog/2009/02/13/innovation-rendering-the-hitherto-non-existent-blindingly-obvious/
+pingbacks:
+- approved: '1'
+  author: Further evidence of problems with evaluation of teaching &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.243.208
+  author_url: https://djon.es/blog/2009/03/02/further-evidence-of-problems-with-evaluation-of-teaching/
+  content: '[...] White, N. (2006). &#8220;Tertiary education in the Noughties: the
+    student perspective.&#8221; Higher Education Research &amp; Development 25(3):
+    231-246. Possibly related posts: (automatically generated)The emperor has no clothes
+    - why is the learning and teaching peformance fu&#8230; [...]'
+  date: '2009-03-02 21:00:03'
+  date_gmt: '2009-03-02 11:00:03'
+  id: '2134'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Another perspective for the indicators project &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/03/12/another-perspective-for-the-indicators-project/
+  content: '[...] given that most evaluation of learning at individual Australian
+    Universities and within the entire sector rely almost entirely on &#8220;smile
+    sheets&#8221; (i.e. low level surveys that test student [...]'
+  date: '2009-03-12 13:47:46'
+  date_gmt: '2009-03-12 03:47:46'
+  id: '2135'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Tell a story about your garden &#8211; narrative and SenseMaker &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/06/04/tell-a-story-about-your-garden-narrative-and-sensemaker/
+  content: '[...] I&#8217;m interested in seeing if this might provide some interesting
+    alternatives to the evaluation of learning and teaching. However, apart from seeing
+    SenseMaker in action at the workshop I attended and reading about it, I [...]'
+  date: '2009-06-04 10:09:02'
+  date_gmt: '2009-06-04 00:09:02'
+  id: '2136'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: It&#039;s always easier to say sorry than to ask for permission
   url: /blog/2009/02/12/its-always-easier-to-say-sorry-than-to-ask-for-permission/
+template: blog-post.html
 title: The emperor has no clothes - why is the learning and teaching peformance fund
   naked
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Further evidence of problems with evaluation of teaching &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.243.208
-      author_url: https://djon.es/blog/2009/03/02/further-evidence-of-problems-with-evaluation-of-teaching/
-      content: '[...] White, N. (2006). &#8220;Tertiary education in the Noughties: the
-        student perspective.&#8221; Higher Education Research &amp; Development 25(3):
-        231-246. Possibly related posts: (automatically generated)The emperor has no clothes
-        - why is the learning and teaching peformance fu&#8230; [...]'
-      date: '2009-03-02 21:00:03'
-      date_gmt: '2009-03-02 11:00:03'
-      id: '2134'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Another perspective for the indicators project &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/03/12/another-perspective-for-the-indicators-project/
-      content: '[...] given that most evaluation of learning at individual Australian
-        Universities and within the entire sector rely almost entirely on &#8220;smile
-        sheets&#8221; (i.e. low level surveys that test student [...]'
-      date: '2009-03-12 13:47:46'
-      date_gmt: '2009-03-12 03:47:46'
-      id: '2135'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Tell a story about your garden &#8211; narrative and SenseMaker &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/06/04/tell-a-story-about-your-garden-narrative-and-sensemaker/
-      content: '[...] I&#8217;m interested in seeing if this might provide some interesting
-        alternatives to the evaluation of learning and teaching. However, apart from seeing
-        SenseMaker in action at the workshop I attended and reading about it, I [...]'
-      date: '2009-06-04 10:09:02'
-      date_gmt: '2009-06-04 00:09:02'
-      id: '2136'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 !!! warning "Broken image link"
 

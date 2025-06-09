@@ -1,10 +1,25 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-04-12 09:10:57+10:00
+comments:
+- approved: '1'
+  author: charlesnelson
+  author_email: cnelson@kean.edu
+  author_ip: 74.105.180.36
+  author_url: http://charlesnelson.wordpress.com/
+  content: '"radically influence" is too strong. Check out the Wikipedia article on
+    "Linguistic relativity", also know as the Sapir-Whorf hypothesis: http://en.wikipedia.org/wiki/Linguistic_relativity'
+  date: '2011-04-12 09:27:49'
+  date_gmt: '2011-04-11 23:27:49'
+  id: '60'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-04-11 23:10:57
 next:
   text: Group 4 Technologies - Activities
   url: /blog/2011/04/12/group-4-technologies-activities/
+pingbacks: []
 previous:
   text: A feeble first attempt at moving towards WCYDWT
   url: /blog/2011/04/11/a-feeble-first-attempt-at-moving-towards-wcydwt/
@@ -14,27 +29,9 @@ tags:
 - language
 - languages
 - lera-boroditsky
+template: blog-post.html
 title: What shapes how we think?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: charlesnelson
-      author_email: cnelson@kean.edu
-      author_ip: 74.105.180.36
-      author_url: http://charlesnelson.wordpress.com/
-      content: '"radically influence" is too strong. Check out the Wikipedia article on
-        "Linguistic relativity", also know as the Sapir-Whorf hypothesis: http://en.wikipedia.org/wiki/Linguistic_relativity'
-      date: '2011-04-12 09:27:49'
-      date_gmt: '2011-04-11 23:27:49'
-      id: '60'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 I've only listed to some of the audio of this presentation, and from that experience, watching the video is probably the advised approach.  
   

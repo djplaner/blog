@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - moodleopenbook
-date: 2015-07-19 15:07:22+10:00
+date: 2015-07-19 05:07:22
 next:
   text: How might a Book module search function work?
   url: /blog/2015/07/19/how-might-a-book-module-search-function-work/
@@ -10,9 +10,9 @@ previous:
   url: /blog/2015/07/19/predicting-system-success-using-the-technology-acceptance-model-a-case-study/
 tags:
 - moodle
+template: blog-post.html
 title: Mocking up a search facility for the Moodle book module
 type: post
-template: blog-post.html
 ---
 Time to start generating a mock up of one of the itches identified in [this presentation](http://www.slideshare.net/davidj/can-the-book-module-be-open-and-other-enhancements-what-would-you-like-to-see) and from the [Moodle "open" book project](/blog/the-moodle-open-book-module-project/). Perhaps best summed up from this comment from a past EDC3100 student
 
@@ -30,7 +30,7 @@ This post is an attempt to mock up and explore how this might work. The followin
 
 The start would be the option to include a "Search Book Block" on a Moodle course page. Current plan would that it would function exactly like the Search Forum block.
 
-[![001_SearchBooks](images/19196124183_54971e07a7_o.jpg)](https://www.flickr.com/photos/david_jones/19196124183/in/dateposted-public/ "001_SearchBooks")
+[![001_SearchBooks](https://djon.es/assets/blog/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/images/19196124183_54971e07a7_o.jpg)](https://www.flickr.com/photos/david_jones/19196124183/in/dateposted-public/ "001_SearchBooks")
 
 Just type in the words you wanted to search for and by default it would search all books in the current course site (results of the search shown below). If you wanted to be more advanced, use the Advanced Search link.
 
@@ -38,7 +38,7 @@ Just type in the words you wanted to search for and by default it would search a
 
 The advanced search functionality would also mirror the Search forum block. Click on the "Advanced Search" link and you get a page like the following.
 
-[![002_Search](images/19196124143_cf9b416c2a.jpg)](https://www.flickr.com/photos/david_jones/19196124143/in/dateposted-public/ "002_Search")
+[![002_Search](https://djon.es/assets/blog/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/images/19196124143_cf9b416c2a.jpg)](https://www.flickr.com/photos/david_jones/19196124143/in/dateposted-public/ "002_Search")
 
 The extra options being
 
@@ -51,7 +51,7 @@ The extra options being
 
 Given that a course may have quite a few books (e.g. one of mine has 70+) the ability to select which books to search might be useful. You might wish to search all the books, a few books, or all books within a given topic/module. Hence the change in how to select which books to search in the following.
 
-[![003_searchShowingBooks.tiff](images/19791024836_c51305ddbb.jpg)](https://www.flickr.com/photos/david_jones/19791024836/in/dateposted-public/ "003_searchShowingBooks.tiff")
+[![003_searchShowingBooks.tiff](https://djon.es/assets/blog/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/images/19791024836_c51305ddbb.jpg)](https://www.flickr.com/photos/david_jones/19791024836/in/dateposted-public/ "003_searchShowingBooks.tiff")
 
 The idea is that you would be able to select multiple books. All the books in the course would be displayed and would be grouped based on the topics/modules that they belong to.
 
@@ -59,7 +59,7 @@ The idea is that you would be able to select multiple books. All the books in th
 
 The search forum block returns a list of matching forum posts grouped on separate pages (if needed). For each post it displays both the "header" - the author details, the forum, date posted, and the subject line - and the content. The search Book block could mirror that, but instead showing each chapter that matched the search and the book from which those chapters belonged. Something like the following.
 
-[![004_results](images/19195121204_5d57647079.jpg)](https://www.flickr.com/photos/david_jones/19195121204/in/dateposted-public/ "004_results")
+[![004_results](https://djon.es/assets/blog/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/images/19195121204_5d57647079.jpg)](https://www.flickr.com/photos/david_jones/19195121204/in/dateposted-public/ "004_results")
 
 Some of the minor suggested changes are
 

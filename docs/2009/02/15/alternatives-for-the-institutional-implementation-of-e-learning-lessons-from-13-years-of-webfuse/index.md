@@ -1,119 +1,116 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
 - thesis
 - webfuse
-date: 2009-02-15 10:54:51+10:00
+comments: []
+date: 2009-02-15 00:54:51
 next:
   text: '"Getting half-baked ideas out there: improving research and the academy"'
   url: /blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
+pingbacks:
+- approved: '1'
+  author: Frameworks and representation - tidy versus messy &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.43
+  author_url: https://djon.es/blog/2009/02/16/frameworks-and-representation-tidy-versus-messy/
+  content: '[...] it happens, I&#8217;m currently doing a lot of work around one framework
+    and its application and the following arises out of that [...]'
+  date: '2009-02-16 00:24:57'
+  date_gmt: '2009-02-15 14:24:57'
+  id: '2116'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Common sense (the things we take for granted) is the big obstacle for innovation
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/02/16/common-sense-the-things-we-take-for-granted-is-the-big-obstacle-for-innovation/
+  content: '[...] Resonates for me because on the main aims of my research in e-learning
+    is that the &#8220;common sense&#8221; that surrounds current practice in e-learning
+    is a big obstacle for innovation (and adoption, acceptance&#8230;). A perspective
+    expanded in this post. [...]'
+  date: '2009-02-16 14:07:21'
+  date_gmt: '2009-02-16 04:07:21'
+  id: '2117'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: An information systems design theory for e-learning &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.141
+  author_url: https://djon.es/blog/2009/02/21/an-information-systems-design-theory-for-e-learning/
+  content: '[...] is focused on chapter 2 and the Ps Framework. In fact, must of it
+    is related around the content of a paper I&#8217;ve proposed for later in the
+    [...]'
+  date: '2009-02-21 03:58:39'
+  date_gmt: '2009-02-20 17:58:39'
+  id: '2118'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
+    systems might go away &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 76.74.248.177
+  author_url: https://djon.es/blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
+  content: '[...] Scarcity of understanding about how to do e-learning.To this day,
+    very few people in management roles at university have little or no understanding
+    of the complexities associated with learning and teaching, let alone e-learning
+    which adds technology (another topic they know very little about) to the mix.
+    This scarcity of understanding leads to the adoption of fads and fashions as logical
+    decision making (see some related posts: the silliness of best practice, open
+    source LMS - the latest fad, and alternatives for e-learning). [...]'
+  date: '2009-02-25 08:45:59'
+  date_gmt: '2009-02-24 22:45:59'
+  id: '2119'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Integrating BAM into Moodle &#8211; Can it be done? &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.34
+  author_url: https://djon.es/blog/2009/07/09/integrating-bam-into-moodle-can-it-be-done/
+  content: '[...] pieces loosely joined/best of breed/PLE. Currently BAM is based
+    on the infrastructure provided by Webfuse, another project of mine (which embodies
+    and enables the better product [...]'
+  date: '2009-07-09 15:14:53'
+  date_gmt: '2009-07-09 05:14:53'
+  id: '2120'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Lectures and the LMS: Alternatives and experiments &laquo; The Weblog of
+    (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/
+  content: '[...] extended abstract of the talk is also [...]'
+  date: '2009-10-05 10:29:14'
+  date_gmt: '2009-10-05 00:29:14'
+  id: '2121'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Innovation - rendering the hitherto non-existent blindingly obvious
   url: /blog/2009/02/13/innovation-rendering-the-hitherto-non-existent-blindingly-obvious/
 tags:
 - educause09
+template: blog-post.html
 title: '"Alternatives for the institutional implementation of e-learning: Lessons
   from 12 years of  Webfuse"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Frameworks and representation - tidy versus messy &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.43
-      author_url: https://djon.es/blog/2009/02/16/frameworks-and-representation-tidy-versus-messy/
-      content: '[...] it happens, I&#8217;m currently doing a lot of work around one framework
-        and its application and the following arises out of that [...]'
-      date: '2009-02-16 00:24:57'
-      date_gmt: '2009-02-15 14:24:57'
-      id: '2116'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Common sense (the things we take for granted) is the big obstacle for innovation
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/02/16/common-sense-the-things-we-take-for-granted-is-the-big-obstacle-for-innovation/
-      content: '[...] Resonates for me because on the main aims of my research in e-learning
-        is that the &#8220;common sense&#8221; that surrounds current practice in e-learning
-        is a big obstacle for innovation (and adoption, acceptance&#8230;). A perspective
-        expanded in this post. [...]'
-      date: '2009-02-16 14:07:21'
-      date_gmt: '2009-02-16 04:07:21'
-      id: '2117'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: An information systems design theory for e-learning &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.141
-      author_url: https://djon.es/blog/2009/02/21/an-information-systems-design-theory-for-e-learning/
-      content: '[...] is focused on chapter 2 and the Ps Framework. In fact, must of it
-        is related around the content of a paper I&#8217;ve proposed for later in the
-        [...]'
-      date: '2009-02-21 03:58:39'
-      date_gmt: '2009-02-20 17:58:39'
-      id: '2118'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
-        systems might go away &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 76.74.248.177
-      author_url: https://djon.es/blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
-      content: '[...] Scarcity of understanding about how to do e-learning.To this day,
-        very few people in management roles at university have little or no understanding
-        of the complexities associated with learning and teaching, let alone e-learning
-        which adds technology (another topic they know very little about) to the mix.
-        This scarcity of understanding leads to the adoption of fads and fashions as logical
-        decision making (see some related posts: the silliness of best practice, open
-        source LMS - the latest fad, and alternatives for e-learning). [...]'
-      date: '2009-02-25 08:45:59'
-      date_gmt: '2009-02-24 22:45:59'
-      id: '2119'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Integrating BAM into Moodle &#8211; Can it be done? &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.34
-      author_url: https://djon.es/blog/2009/07/09/integrating-bam-into-moodle-can-it-be-done/
-      content: '[...] pieces loosely joined/best of breed/PLE. Currently BAM is based
-        on the infrastructure provided by Webfuse, another project of mine (which embodies
-        and enables the better product [...]'
-      date: '2009-07-09 15:14:53'
-      date_gmt: '2009-07-09 05:14:53'
-      id: '2120'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Lectures and the LMS: Alternatives and experiments &laquo; The Weblog of
-        (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/
-      content: '[...] extended abstract of the talk is also [...]'
-      date: '2009-10-05 10:29:14'
-      date_gmt: '2009-10-05 00:29:14'
-      id: '2121'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is a submission to a conference later in the year. The conference has its own specific requirements for submissions, hence the structure of this post. In some cases I've left in quotes or _italics_ the directions given by the conference as to the content of the submission. It's still a work in progress. Submission is not due for a few days. More than keen to hear suggestions and criticisms.
 

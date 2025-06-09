@@ -1,170 +1,168 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-07-23 12:47:53+10:00
+comments:
+- approved: '1'
+  author: chrisbigum
+  author_email: cbigum@gmail.com
+  author_ip: 58.110.41.253
+  author_url: null
+  content: "Jim Gee is another who makes a strong comparison between the kind of \"\
+    learning\" that goes on in and with games and that of formal schooling. There\
+    \ are some good video  clips for the text averse :)\n\nSome links here also: http://small-steps.wikidot.com/james-gee\n\
+    \nI also wonder how we'd go about talking about the various practices that get\
+    \ covered with the L-(for learning)-word and not being able to use the L-word\
+    \ and, perhaps some of the other commonplace terms we use to talk about teaching,\
+    \ learning, understanding, knowledge etc. :)\n\nGee, J. P. (2003). Power Up: What\
+    \ video games have to teach us about learning and literacy. New York: Palgrave\
+    \ Macmillan.\nGee, J. P. (2005). Learning by Design: good video games as learning\
+    \ machines. E-Learning, 2(1), 5-16. Retrieved from http://www.wwwords.co.uk/pdf/freetoview.asp?j=elea&amp;vol=2&amp;issue=1&amp;year=2005&amp;article=2_gee_elea_2_1_web\n\
+    Shaffer, D. W., Squire, K. R., &amp; Gee, J. P. (2005). Video Games and The future\
+    \ of Learning. Phi Delta Kappan, 87(2), 105-111.\nGee, J. P. (2006). Why Game\
+    \ Studies Now? Video Games: A New Art Form. Games and Culture, 1(1), 58-61. doi:\
+    \ 10.1177/1555412005281788\nGee, J. P. (2008). Video Games and Embodiment. Games\
+    \ and Culture, 3(3-4), 253-263. doi: 10.1177/1555412008317309\nGee, J. (2010).\
+    \ New Digital Media and Learning as an Emerging Area and \u201CWorked Examples\u201D\
+    \ as One Way Forward. Cambridge, Massachusetts; London, England: The MIT Press\n\
+    Gee, J. P., &amp; Hayes, E. (2010). Women and gaming : the Sims and 21st century\
+    \ learning. New York: Palgrave Macmillan."
+  date: '2014-07-23 13:31:14'
+  date_gmt: '2014-07-23 03:31:14'
+  id: '992'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.222.64.50
+  author_url: https://djon.es/blog/
+  content: 'Thanks Chris.  I use a video of an interview with Gee in the undergraduate
+    course.
+
+
+    I had thought about mentioning his work, but found myself pondering whether it
+    would be too much for purpose of this post.  As expected dealing with "information
+    overload" has cropped up in a minor way from some of the students and it was in
+    my mind as I wrote this.
+
+
+    On the upside, you''ve given me a much richer collection of Gee references than
+    I had before. Ta.'
+  date: '2014-07-23 17:10:32'
+  date_gmt: '2014-07-23 07:10:32'
+  id: '993'
+  parent: '992'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Sarah Thorneycroft
+  author_email: sarahthorneycroft@me.com
+  author_ip: 129.180.72.165
+  author_url: http://sarahthorneycroft.com
+  content: You have given me a gentle kick in the pants - I had deactivated my account
+    after I had Hannah but reading this post reminded me I should get back into it
+    :).
+  date: '2014-07-25 14:47:19'
+  date_gmt: '2014-07-25 04:47:19'
+  id: '994'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Annelise Mitchell
+  author_email: annelisemitchell23@gmail.com
+  author_ip: 122.149.28.12
+  author_url: https://plus.google.com/107957743035578075753
+  content: 'Hi David,
+
+
+    WOW is awesome and I can see why it is so immersive, it is a social platform.
+    One of my best friends is on there many times a week and she plays more than her
+    sons.
+
+
+    My sons are both very big in LOL (League of Legends). One even has his own youtube
+    channel where he regularly posts videos for LOL fans. They have been playing WOW
+    for years, and even had me playing for quite a while a few years ago. The game
+    does require tremendous skill, and LOL is one of the most competitive online games,
+    even being the most popular eSport. I begin running all over the place feeling
+    like a headless chicken. :D
+
+
+    This is a link to one of his videos on his channel. As long as I don''t post to
+    his school friends he is okay with it.
+
+    http://www.youtube.com/watch?v=vMNbjSVp-F8
+
+
+    LOL!
+
+
+    Annelise'
+  date: '2014-08-09 20:58:41'
+  date_gmt: '2014-08-09 10:58:41'
+  id: '996'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: A small glimmer of the huge world of games that many folk have no idea
+    about.  I'm hoping that after the last couple of weeks I'm actually going to have
+    a chance to get into it again.  Cross fingers.  13000+ views of the video, that's
+    a respectable number.
+  date: '2014-08-11 10:53:40'
+  date_gmt: '2014-08-11 00:53:40'
+  id: '997'
+  parent: '996'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Annelise Mitchell
+  author_email: annelisemitchell23@gmail.com
+  author_ip: 122.149.28.12
+  author_url: https://plus.google.com/107957743035578075753
+  content: 'Yes, indeed, he''s wrapped about it.
+
+
+    You''ll get into it, it''ll be the stopping play that will be the hard part. :)'
+  date: '2014-08-11 21:47:21'
+  date_gmt: '2014-08-11 11:47:21'
+  id: '998'
+  parent: '997'
+  type: comment
+  user_id: '0'
+date: 2014-07-23 02:47:53
 next:
   text: '"Who are some good folk to follow re: network learning"'
   url: /blog/2014/07/25/who-are-some-good-folk-to-follow-re-network-learning/
+pingbacks:
+- approved: '1'
+  author: As Learner &#8211; Game Play | iThink, iTeach, iTeens
+  author_email: null
+  author_ip: 66.155.10.36
+  author_url: http://willocksb.wordpress.com/2014/08/03/as-learner-game-play/
+  content: '[&#8230;] David I have decided to learn how to play a game. I have decided
+    that rather than selecting the game I [&#8230;]'
+  date: '2014-08-03 10:47:27'
+  date_gmt: '2014-08-03 00:47:27'
+  id: '995'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Next step for NGL
   url: /blog/2014/07/19/next-step-for-ngl/
 tags:
 - learner
 - mmporg
+template: blog-post.html
 title: Me as learner - WoW, MMPORGs and learning
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: chrisbigum
-      author_email: cbigum@gmail.com
-      author_ip: 58.110.41.253
-      author_url: null
-      content: "Jim Gee is another who makes a strong comparison between the kind of \"\
-        learning\" that goes on in and with games and that of formal schooling. There\
-        \ are some good video  clips for the text averse :)\n\nSome links here also: http://small-steps.wikidot.com/james-gee\n\
-        \nI also wonder how we'd go about talking about the various practices that get\
-        \ covered with the L-(for learning)-word and not being able to use the L-word\
-        \ and, perhaps some of the other commonplace terms we use to talk about teaching,\
-        \ learning, understanding, knowledge etc. :)\n\nGee, J. P. (2003). Power Up: What\
-        \ video games have to teach us about learning and literacy. New York: Palgrave\
-        \ Macmillan.\nGee, J. P. (2005). Learning by Design: good video games as learning\
-        \ machines. E-Learning, 2(1), 5-16. Retrieved from http://www.wwwords.co.uk/pdf/freetoview.asp?j=elea&amp;vol=2&amp;issue=1&amp;year=2005&amp;article=2_gee_elea_2_1_web\n\
-        Shaffer, D. W., Squire, K. R., &amp; Gee, J. P. (2005). Video Games and The future\
-        \ of Learning. Phi Delta Kappan, 87(2), 105-111.\nGee, J. P. (2006). Why Game\
-        \ Studies Now? Video Games: A New Art Form. Games and Culture, 1(1), 58-61. doi:\
-        \ 10.1177/1555412005281788\nGee, J. P. (2008). Video Games and Embodiment. Games\
-        \ and Culture, 3(3-4), 253-263. doi: 10.1177/1555412008317309\nGee, J. (2010).\
-        \ New Digital Media and Learning as an Emerging Area and \u201CWorked Examples\u201D\
-        \ as One Way Forward. Cambridge, Massachusetts; London, England: The MIT Press\n\
-        Gee, J. P., &amp; Hayes, E. (2010). Women and gaming : the Sims and 21st century\
-        \ learning. New York: Palgrave Macmillan."
-      date: '2014-07-23 13:31:14'
-      date_gmt: '2014-07-23 03:31:14'
-      id: '992'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.222.64.50
-      author_url: https://djon.es/blog/
-      content: 'Thanks Chris.  I use a video of an interview with Gee in the undergraduate
-        course.
-    
-    
-        I had thought about mentioning his work, but found myself pondering whether it
-        would be too much for purpose of this post.  As expected dealing with "information
-        overload" has cropped up in a minor way from some of the students and it was in
-        my mind as I wrote this.
-    
-    
-        On the upside, you''ve given me a much richer collection of Gee references than
-        I had before. Ta.'
-      date: '2014-07-23 17:10:32'
-      date_gmt: '2014-07-23 07:10:32'
-      id: '993'
-      parent: '992'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Sarah Thorneycroft
-      author_email: sarahthorneycroft@me.com
-      author_ip: 129.180.72.165
-      author_url: http://sarahthorneycroft.com
-      content: You have given me a gentle kick in the pants - I had deactivated my account
-        after I had Hannah but reading this post reminded me I should get back into it
-        :).
-      date: '2014-07-25 14:47:19'
-      date_gmt: '2014-07-25 04:47:19'
-      id: '994'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Annelise Mitchell
-      author_email: annelisemitchell23@gmail.com
-      author_ip: 122.149.28.12
-      author_url: https://plus.google.com/107957743035578075753
-      content: 'Hi David,
-    
-    
-        WOW is awesome and I can see why it is so immersive, it is a social platform.
-        One of my best friends is on there many times a week and she plays more than her
-        sons.
-    
-    
-        My sons are both very big in LOL (League of Legends). One even has his own youtube
-        channel where he regularly posts videos for LOL fans. They have been playing WOW
-        for years, and even had me playing for quite a while a few years ago. The game
-        does require tremendous skill, and LOL is one of the most competitive online games,
-        even being the most popular eSport. I begin running all over the place feeling
-        like a headless chicken. :D
-    
-    
-        This is a link to one of his videos on his channel. As long as I don''t post to
-        his school friends he is okay with it.
-    
-        http://www.youtube.com/watch?v=vMNbjSVp-F8
-    
-    
-        LOL!
-    
-    
-        Annelise'
-      date: '2014-08-09 20:58:41'
-      date_gmt: '2014-08-09 10:58:41'
-      id: '996'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: A small glimmer of the huge world of games that many folk have no idea
-        about.  I'm hoping that after the last couple of weeks I'm actually going to have
-        a chance to get into it again.  Cross fingers.  13000+ views of the video, that's
-        a respectable number.
-      date: '2014-08-11 10:53:40'
-      date_gmt: '2014-08-11 00:53:40'
-      id: '997'
-      parent: '996'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Annelise Mitchell
-      author_email: annelisemitchell23@gmail.com
-      author_ip: 122.149.28.12
-      author_url: https://plus.google.com/107957743035578075753
-      content: 'Yes, indeed, he''s wrapped about it.
-    
-    
-        You''ll get into it, it''ll be the stopping play that will be the hard part. :)'
-      date: '2014-08-11 21:47:21'
-      date_gmt: '2014-08-11 11:47:21'
-      id: '998'
-      parent: '997'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: As Learner &#8211; Game Play | iThink, iTeach, iTeens
-      author_email: null
-      author_ip: 66.155.10.36
-      author_url: http://willocksb.wordpress.com/2014/08/03/as-learner-game-play/
-      content: '[&#8230;] David I have decided to learn how to play a game. I have decided
-        that rather than selecting the game I [&#8230;]'
-      date: '2014-08-03 10:47:27'
-      date_gmt: '2014-08-03 00:47:27'
-      id: '995'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [Week 1](https://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/) of the Networked and Global Learning (NGL) course asks the participants to think and write about what they would like to learn. It's meant to be something other than the principles of NGL and is intended to be something that can be learned through the use of NGL. What follows is my contribution and plans.
 

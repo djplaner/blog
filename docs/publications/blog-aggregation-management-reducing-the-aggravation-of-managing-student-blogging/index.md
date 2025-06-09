@@ -1,99 +1,96 @@
----
-date: 2009-04-29 21:55:50+10:00
+﻿---
+comments: []
+date: 2009-04-29 11:55:50
+pingbacks:
+- approved: '1'
+  author: First official BAM paper done &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/04/30/first-official-bam-paper-done/
+  content: '[...] the next to final version of the paper is now available. It&#8217;s
+    better than the version that was accepted, but still not [...]'
+  date: '2009-04-30 09:22:41'
+  date_gmt: '2009-04-29 23:22:41'
+  id: '2456'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #9 - spluttering out of steam &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/05/01/phd-update-9-spluttering-out-of-steam/
+  content: '[...] first BAM paperI spent at least a day this week updating a paper
+    that tells the initial story of BAM. It&#8217;s linked to PhD because BAM is an
+    extension of one of [...]'
+  date: '2009-05-01 16:08:55'
+  date_gmt: '2009-05-01 06:08:55'
+  id: '2457'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Reflections on asw2a &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/11/24/reflections-on-asw2a/
+  content: '[...] describes something similar to my first experiment with using open
+    blogs for individual student [...]'
+  date: '2009-11-24 08:43:07'
+  date_gmt: '2009-11-23 22:43:07'
+  id: '2458'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The story of BIM &#8211; Development of BAM &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.96.159
+  author_url: https://djon.es/blog/2010/03/17/the-story-of-bim-development-of-bam/
+  content: '[...] detail about the initial use of BAM in COIS20025 can be found in
+    two publications. One, written in 2006 just after completion, and another written
+    in late 2008 after a period of some [...]'
+  date: '2010-03-17 11:28:07'
+  date_gmt: '2010-03-17 01:28:07'
+  id: '2459'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Does institutional e-learning have a TPACK problem? | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 76.74.255.31
+  author_url: https://djon.es/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
+  content: '[...] Blog Aggregation Management: Reducing the Aggravation of Managing
+    Student&nbsp;Blogging [...]'
+  date: '2013-03-22 10:16:34'
+  date_gmt: '2013-03-22 00:16:34'
+  id: '2461'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How does BIM allocate blog posts to prompts &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.99.68
+  author_url: https://davidtjones.wordpress.com/2016/05/09/how-does-bim-allocate-blog-posts-to-prompts/
+  content: '[&#8230;] part of that functionality allows the teacher to create &#8220;prompts&#8221;.
+    The design of the original tool (BAM) assumed that students would write posts
+    that respond to these prompts. These posts would be marked [&#8230;]'
+  date: '2016-05-09 14:28:02'
+  date_gmt: '2016-05-09 04:28:02'
+  id: '2463'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Blog Aggregation Management: Reducing the Aggravation of Managing Student
   Blogging"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: First official BAM paper done &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/04/30/first-official-bam-paper-done/
-      content: '[...] the next to final version of the paper is now available. It&#8217;s
-        better than the version that was accepted, but still not [...]'
-      date: '2009-04-30 09:22:41'
-      date_gmt: '2009-04-29 23:22:41'
-      id: '2456'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #9 - spluttering out of steam &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/05/01/phd-update-9-spluttering-out-of-steam/
-      content: '[...] first BAM paperI spent at least a day this week updating a paper
-        that tells the initial story of BAM. It&#8217;s linked to PhD because BAM is an
-        extension of one of [...]'
-      date: '2009-05-01 16:08:55'
-      date_gmt: '2009-05-01 06:08:55'
-      id: '2457'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Reflections on asw2a &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/11/24/reflections-on-asw2a/
-      content: '[...] describes something similar to my first experiment with using open
-        blogs for individual student [...]'
-      date: '2009-11-24 08:43:07'
-      date_gmt: '2009-11-23 22:43:07'
-      id: '2458'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The story of BIM &#8211; Development of BAM &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.96.159
-      author_url: https://djon.es/blog/2010/03/17/the-story-of-bim-development-of-bam/
-      content: '[...] detail about the initial use of BAM in COIS20025 can be found in
-        two publications. One, written in 2006 just after completion, and another written
-        in late 2008 after a period of some [...]'
-      date: '2010-03-17 11:28:07'
-      date_gmt: '2010-03-17 01:28:07'
-      id: '2459'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Does institutional e-learning have a TPACK problem? | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 76.74.255.31
-      author_url: https://djon.es/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
-      content: '[...] Blog Aggregation Management: Reducing the Aggravation of Managing
-        Student&nbsp;Blogging [...]'
-      date: '2013-03-22 10:16:34'
-      date_gmt: '2013-03-22 00:16:34'
-      id: '2461'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How does BIM allocate blog posts to prompts &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.99.68
-      author_url: https://davidtjones.wordpress.com/2016/05/09/how-does-bim-allocate-blog-posts-to-prompts/
-      content: '[&#8230;] part of that functionality allows the teacher to create &#8220;prompts&#8221;.
-        The design of the original tool (BAM) assumed that students would write posts
-        that respond to these prompts. These posts would be marked [&#8230;]'
-      date: '2016-05-09 14:28:02'
-      date_gmt: '2016-05-09 04:28:02'
-      id: '2463'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [BIM](/blog/research/bam-blog-aggregation-management/) (BAM into Moodle) tool is an activity module for Moodle that implements the same functionality as BAM, the tool discussed in this paper.
 
@@ -163,22 +160,22 @@ At the time of the project the host university did not have available a blogging
 
 During the first week of the teaching term students were encouraged to create a new blog using an external blog provider. Some recommendations (Wordpress.com and Blogger) were given but students were free to choose any service that generated an RSS feed. Once they have created their blog, the students were asked to visit a university web page, login using their university credentials and register their blog by copying the URL into a form and hitting submit. From now on students were expected to post their responses to the stimulus questions to their individual blog. Some students received feedback or comments on their blog posts during the term from the teaching staff. At the end of the term, all students received a spreadsheet containing marks and comments for all posts.
 
-[![BAM blog registration](images/3268716454_42445f82f3_m.jpg)](http://www.flickr.com/photos/david_jones/3268716454/ "BAM blog registration by David T Jones, on Flickr")  
+[![BAM blog registration](https://djon.es/assets/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/images/3268716454_42445f82f3_m.jpg)](http://www.flickr.com/photos/david_jones/3268716454/ "BAM blog registration by David T Jones, on Flickr")  
 **Figure 1 - The blog registration form**
 
 #### Staff
 
 A staff member would track and mark the posts of their students via the BAM Manage system accessible from the staff portal. This system allows the staff to see whether students had registered their blog, send an email to those who hadn't, view photos and other student details, go to the student's individual blog, view posts, view when the last post had been made by each student, track which students had answered which stimulus questions and mark student posts. Figure 2 is the "details" page used to see details about students, their blogs and which students had registered their blog. Figure 3 is the "posts" page, it shows the list of stimulus questions and which students posted answers to which questions.
 
-[![BAM show student blog details](images/3268716654_2b726c85f8_m.jpg)](http://www.flickr.com/photos/david_jones/3268716654/ "BAM show student blog details by David T Jones, on Flickr")  
+[![BAM show student blog details](https://djon.es/assets/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/images/3268716654_2b726c85f8_m.jpg)](http://www.flickr.com/photos/david_jones/3268716654/ "BAM show student blog details by David T Jones, on Flickr")  
 **Figure 2 - BAM details page**
 
-[![BAM show student blog details](images/3268716654_2b726c85f8_m.jpg)](http://www.flickr.com/photos/david_jones/3268716654/ "BAM show student blog details by David T Jones, on Flickr")  
+[![BAM show student blog details](https://djon.es/assets/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/images/3268716654_2b726c85f8_m.jpg)](http://www.flickr.com/photos/david_jones/3268716654/ "BAM show student blog details by David T Jones, on Flickr")  
 Figure 3 - BAM posts page
 
 Figure 4 is the marking page that allows the staff member to mark and comment on the student posts. The detail entered on this page is intended to become part of the formal feedback to the student on the assignment. Teaching staff were encouraged, where appropriate, to use the commenting features on the students' blogs to provide formative and encouraging feedback to students during the term. The original aim was that staff would be marking and releasing formal comments on student posts throughout the term to increase interaction between staff and students. This regular feedback did not come about for a variety of reasons as explained in the Discussion section.
 
-[![BAM mark post page](images/3267891725_a7a21af026_m.jpg)](http://www.flickr.com/photos/david_jones/3267891725/ "BAM mark post page by David T Jones, on Flickr")  
+[![BAM mark post page](https://djon.es/assets/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/images/3267891725_a7a21af026_m.jpg)](http://www.flickr.com/photos/david_jones/3267891725/ "BAM mark post page by David T Jones, on Flickr")  
 Figure 4 - BAM marking page
 
 #### Implementation

@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,93 +6,90 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-03-27 11:20:36+10:00
+comments: []
+date: 2009-03-27 01:20:36
 next:
   text: '"PhD Update #5 - a new low"'
   url: /blog/2009/03/27/phd-update-5-a-new-low/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #5 - a new low &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: https://djon.es/blog/2009/03/27/phd-update-5-a-new-low/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    &#8220;One ring to rule them all&#8221;: Limitations and implications of the LMS/VLE
+    product&nbsp;mo... [...]'
+  date: '2009-03-27 13:23:47'
+  date_gmt: '2009-03-27 03:23:47'
+  id: '2334'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Performance degradation - impact of new LMS implementation &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
+  content: '[...] one ring to rule them all; [...]'
+  date: '2009-04-20 15:30:43'
+  date_gmt: '2009-04-20 05:30:43'
+  id: '2335'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "It&#8217;s:learning: &#8211; Vi trenger ikke bry oss om brukerne, s\xE5\
+    \ lenge vi tjener penger &laquo; synset &amp; skrevet &amp; laget"
+  author_email: null
+  author_ip: 74.200.244.104
+  author_url: http://idaaalen.wordpress.com/2009/05/15/itslearning-vi-trenger-ikke-bry-oss-om-brukerne-sa-lenge-vi-tjener-penger/
+  content: "[...] den som vil lese videre anbefales en solid dr\xF8fting av problemet\
+    \ med LMSer generelt p\xE5 https://djon.es/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-o...\
+    \ [...]"
+  date: '2009-05-15 18:42:39'
+  date_gmt: '2009-05-15 08:42:39'
+  id: '2336'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: You only get this type of education in class &#8211; mythic attributes of
+    the lecture &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
+  content: '[...] troubles me about this approach is that it is a &#8220;one ring
+    to rule them all&#8221; product model. The manipulation of the lecture and sharing
+    of those manipulations is still only [...]'
+  date: '2009-06-09 14:51:29'
+  date_gmt: '2009-06-09 04:51:29'
+  id: '2337'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What was first, the VLE or the lecture? On &#8216;flipping&#8217; attention
+    back to the classroom &#8211; Ernesto Priego
+  author_email: null
+  author_ip: 192.0.99.134
+  author_url: https://epriego.wordpress.com/2017/01/23/what-was-first-the-vle-or-the-lecture-on-flipping-the-attention-back-to-the-classroom/
+  content: "[&#8230;] discussion of how VLEs or LMS\_ fit within infrastructures and\
+    \ social systems, I recommend this 2009 post by David [&#8230;]"
+  date: '2017-01-24 21:27:14'
+  date_gmt: '2017-01-24 11:27:14'
+  id: '4207'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The myth of rationality in the selection of learning management systems/VLEs
   url: /blog/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/
+template: blog-post.html
 title: '""One ring to rule them all": Limitations and implications of the LMS/VLE
   product model"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #5 - a new low &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: https://djon.es/blog/2009/03/27/phd-update-5-a-new-low/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        &#8220;One ring to rule them all&#8221;: Limitations and implications of the LMS/VLE
-        product&nbsp;mo... [...]'
-      date: '2009-03-27 13:23:47'
-      date_gmt: '2009-03-27 03:23:47'
-      id: '2334'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Performance degradation - impact of new LMS implementation &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
-      content: '[...] one ring to rule them all; [...]'
-      date: '2009-04-20 15:30:43'
-      date_gmt: '2009-04-20 05:30:43'
-      id: '2335'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "It&#8217;s:learning: &#8211; Vi trenger ikke bry oss om brukerne, s\xE5\
-        \ lenge vi tjener penger &laquo; synset &amp; skrevet &amp; laget"
-      author_email: null
-      author_ip: 74.200.244.104
-      author_url: http://idaaalen.wordpress.com/2009/05/15/itslearning-vi-trenger-ikke-bry-oss-om-brukerne-sa-lenge-vi-tjener-penger/
-      content: "[...] den som vil lese videre anbefales en solid dr\xF8fting av problemet\
-        \ med LMSer generelt p\xE5 https://djon.es/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-o...\
-        \ [...]"
-      date: '2009-05-15 18:42:39'
-      date_gmt: '2009-05-15 08:42:39'
-      id: '2336'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: You only get this type of education in class &#8211; mythic attributes of
-        the lecture &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
-      content: '[...] troubles me about this approach is that it is a &#8220;one ring
-        to rule them all&#8221; product model. The manipulation of the lecture and sharing
-        of those manipulations is still only [...]'
-      date: '2009-06-09 14:51:29'
-      date_gmt: '2009-06-09 04:51:29'
-      id: '2337'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What was first, the VLE or the lecture? On &#8216;flipping&#8217; attention
-        back to the classroom &#8211; Ernesto Priego
-      author_email: null
-      author_ip: 192.0.99.134
-      author_url: https://epriego.wordpress.com/2017/01/23/what-was-first-the-vle-or-the-lecture-on-flipping-the-attention-back-to-the-classroom/
-      content: "[&#8230;] discussion of how VLEs or LMS\_ fit within infrastructures and\
-        \ social systems, I recommend this 2009 post by David [&#8230;]"
-      date: '2017-01-24 21:27:14'
-      date_gmt: '2017-01-24 11:27:14'
-      id: '4207'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As part of [the PhD](/blog/research/phd-thesis/) I'm developing the [P Frameworks](/blog/2009/03/18/the-ps-framework/) as a theory for analysing/understanding the factors the impact the organisational implementation of e-learning. Essentially, [I argued that](http://www.slideshare.net/davidj/an-information-systems-design-theory-for-elearning) that the current institutional practice of e-learning within universities demonstrates an orthodoxy. Further, I argue that this orthodoxy has a number of flaws that limit, some significantly, potential outcomes.
 
@@ -100,7 +97,7 @@ In this post, and a few following, I'm going to develop a description of what I 
 
 > What system has been chosen or designed to implement e-learning? Where system is used in the broadest possible definition to include the hardware, software and support roles.
 
-[![One ring to rule them all](images/391009102_ea6953242d_m_d.jpg)](http://www.flickr.com/photos/generalnoir/391009102/)
+[![One ring to rule them all](https://djon.es/assets/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/images/391009102_ea6953242d_m_d.jpg)](http://www.flickr.com/photos/generalnoir/391009102/)
 
 The emphasis in this post is on the "one ring to rule them all" approach characteristic of an enterprise system like a learning management system (LMS)/virtual learning environment (VLE).
 
@@ -122,15 +119,15 @@ An LMS is an integrated system. A unified collection of different services or to
 
 Based on experience (I've been trying to explain this since around 2000) the points I'm trying to make are somewhat easier made, if the argument is accompanied by graphical representations. So let's start with the next two images. These are intended to represent, at a very high level, two different LMSes. There's a different colour, a slightly different shape, however, there is some commonality in the structure. They are a collection of services, slightly different sized/shaped squares, and both have an overall shape. The overall shape is meant to represent the functionality perceived by the organisation and its users. There is some commonality in shape between the two systems, but moving from one to another does involve some negotiation, translation and change.
 
-[![Abstraction of an LMS](images/3386884755_99f8818cae_m.jpg)](http://www.flickr.com/photos/david_jones/3386884755/ "Abstraction of an LMS by David T Jones, on Flickr")
+[![Abstraction of an LMS](https://djon.es/assets/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/images/3386884755_99f8818cae_m.jpg)](http://www.flickr.com/photos/david_jones/3386884755/ "Abstraction of an LMS by David T Jones, on Flickr")
 
-[![Abstraction of an LMS](images/3386884871_8cf8f2a286_m.jpg)](http://www.flickr.com/photos/david_jones/3386884871/ "Abstraction of an LMS by David T Jones, on Flickr")
+[![Abstraction of an LMS](https://djon.es/assets/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/images/3386884871_8cf8f2a286_m.jpg)](http://www.flickr.com/photos/david_jones/3386884871/ "Abstraction of an LMS by David T Jones, on Flickr")
 
 LMS design largely focuses on satisfying certain functional requirements, such as the creation and distribution of on-line learning material and the communication and collaboration between the various actors (Avgeriou, Retalis et al. 2003) . There is a list of common functions that are now expected of an LMS (quiz tool, discussion forum, calendar, collaborative work space, grade book etc) consequently there are more similarities than differences between different LMS (Black, Beck et al, 2007). The only real difference between LMS, lie in marketing approaches (Carriere, Challborn and Moore, 2005).
 
 The following image provides an expanded view of one LMS, where the individual features have been identified. This will be revisited later.
 
-[![Expanded LMS abstraction](images/3387711218_408cac8f80_m.jpg)](http://www.flickr.com/photos/david_jones/3387711218/ "Expanded LMS abstraction by David T Jones, on Flickr")
+[![Expanded LMS abstraction](https://djon.es/assets/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/images/3387711218_408cac8f80_m.jpg)](http://www.flickr.com/photos/david_jones/3387711218/ "Expanded LMS abstraction by David T Jones, on Flickr")
 
 ### What's the product model of an LMS? - one ring to rule them all
 
@@ -185,7 +182,7 @@ First, let's look at the organisation in its pre-enterprise system state. For th
 - the infrastructure.  
     The hardware, software and other support systems and processes that support the social system and how it works.
 
-[![Pre-LMS](images/3388912582_9abf460dc5_m.jpg)](http://www.flickr.com/photos/david_jones/3388912582/ "Pre-LMS by David T Jones, on Flickr")
+[![Pre-LMS](https://djon.es/assets/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/images/3388912582_9abf460dc5_m.jpg)](http://www.flickr.com/photos/david_jones/3388912582/ "Pre-LMS by David T Jones, on Flickr")
 
 The above representation is very optimistic. It assumes that the infrastructure and the social system integrate very well. There are few gaps between the infrastructure and the social system. The reality I believe is much worse, there are usually significant gaps that require people within the social system to take on busy work to overcome the limitations.
 
@@ -193,7 +190,7 @@ If the institution is looking at adopting an LMS, then chances are the gaps - or
 
 Post LMS implementation the representation looks something like the following.
 
-[![Post LMS](images/3388116191_15140219b6_m.jpg)](http://www.flickr.com/photos/david_jones/3388116191/ "Post LMS by David T Jones, on Flickr")
+[![Post LMS](https://djon.es/assets/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/images/3388116191_15140219b6_m.jpg)](http://www.flickr.com/photos/david_jones/3388116191/ "Post LMS by David T Jones, on Flickr")
 
 Note the insertion of one of the LMS representations from above. Also note that the LMS has over-riden aspects of the structure of the Social System. This represents the necessity of the social system to be changed in order to fit with the unchanging nature of the LMS.
 
@@ -220,7 +217,7 @@ At its simplest the single vendor or community (no matter how large the communit
 
 The following graph of the above figures reinforces that we're talking about an order of magnitude difference.
 
-[![Comparison of search results for "discussion forum"](images/3388683328_fc6f86a576_m.jpg)](http://www.flickr.com/photos/david_jones/3388683328/ "Comparison of search results for \"discussion forum\" by David T Jones, on Flickr")
+[![Comparison of search results for "discussion forum"](https://djon.es/assets/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/images/3388683328_fc6f86a576_m.jpg)](http://www.flickr.com/photos/david_jones/3388683328/ "Comparison of search results for \"discussion forum\" by David T Jones, on Flickr")
 
 Given the relative sizes of the community, where do you think the best discussion forum is going to come from. One of the minute communities around a specific LMS, or the much larger general web-based community? This is one aspect of the idea of ["worldware"](http://tlt-swg.blogspot.com/2009/01/worldware-to-cloud-and-beyond.html) developed by Steve Erhman and [defined as](http://www.tltgroup.org/resources/visions/Outcomes.html)
 

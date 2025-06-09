@@ -1,66 +1,63 @@
----
+﻿---
 categories:
 - elearning
 - ilecture
 - presentations
-date: 2009-10-26 14:15:21+10:00
+comments:
+- approved: '1'
+  author: polleverywhere
+  author_email: sarah@polleverywhere.com
+  author_ip: 76.254.53.17
+  author_url: null
+  content: 'Hi David,
+
+
+    We''re glad you liked our product and features enough to mention it on your blog.  Thanks
+    for the shout out and we hope you have a great class using the service!'
+  date: '2009-10-27 03:10:28'
+  date_gmt: '2009-10-26 17:10:28'
+  id: '2862'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 115.64.241.18
+  author_url: http://www.vrbones.com
+  content: Saw from your twitter that it was postponed. Any new dates?
+  date: '2009-10-28 18:04:10'
+  date_gmt: '2009-10-28 08:04:10'
+  id: '2863'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'Currently most likely to be 10 November, same time and place.
+
+
+    I''ll announce here and on twitter once it''s confirmed.'
+  date: '2009-10-29 05:45:40'
+  date_gmt: '2009-10-28 19:45:40'
+  id: '2864'
+  parent: '2863'
+  type: comment
+  user_id: '1'
+date: 2009-10-26 04:15:21
 next:
   text: Future of universities - an age old problem
   url: /blog/2009/11/09/future-of-universities-an-age-old-problem/
+pingbacks: []
 previous:
   text: The bureaucratic model and the grammar and future of universities
   url: /blog/2009/10/26/the-bureaucratic-model-and-the-grammar-and-future-of-universities/
+template: blog-post.html
 title: Lectures, alternatives, poll everywhere and unexpected events
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: polleverywhere
-      author_email: sarah@polleverywhere.com
-      author_ip: 76.254.53.17
-      author_url: null
-      content: 'Hi David,
-    
-    
-        We''re glad you liked our product and features enough to mention it on your blog.  Thanks
-        for the shout out and we hope you have a great class using the service!'
-      date: '2009-10-27 03:10:28'
-      date_gmt: '2009-10-26 17:10:28'
-      id: '2862'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 115.64.241.18
-      author_url: http://www.vrbones.com
-      content: Saw from your twitter that it was postponed. Any new dates?
-      date: '2009-10-28 18:04:10'
-      date_gmt: '2009-10-28 08:04:10'
-      id: '2863'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'Currently most likely to be 10 November, same time and place.
-    
-    
-        I''ll announce here and on twitter once it''s confirmed.'
-      date: '2009-10-29 05:45:40'
-      date_gmt: '2009-10-28 19:45:40'
-      id: '2864'
-      parent: '2863'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 This Wednesday I'm involved with an [experiment and presentation](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) that is seeking to test out some alternatives for lectures/presentations. As it happens, the last week has brought a couple of events that are (so far) helping the case for the experiment. These are described below.
 

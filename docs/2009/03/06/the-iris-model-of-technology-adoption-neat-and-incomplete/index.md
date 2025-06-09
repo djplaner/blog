@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - innovation
 - psframework
 - thesis
-date: 2009-03-06 09:18:54+10:00
+comments: []
+date: 2009-03-05 23:18:54
 next:
   text: The weak second album (PhD update)
   url: /blog/2009/03/06/the-weak-second-album-phd-update/
+pingbacks:
+- approved: '1'
+  author: 'Virtual learning environments: three implementation perspectives &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
+  content: '[...] model, some similarities and some differences. I&#8217;ve expressed
+    some reservations about both the IRIS model and also Lewins model. A few things
+    have come together that mean I do need to revisit [...]'
+  date: '2009-03-13 21:34:49'
+  date_gmt: '2009-03-13 11:34:49'
+  id: '2229'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Place - the industrial society&#039;s impact on schools - and universities?
   url: /blog/2009/03/05/place-the-industrial-societys-impact-on-schools-and-universities/
+template: blog-post.html
 title: The IRIS model of Technology Adoption - neat and incomplete?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Virtual learning environments: three implementation perspectives &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
-      content: '[...] model, some similarities and some differences. I&#8217;ve expressed
-        some reservations about both the IRIS model and also Lewins model. A few things
-        have come together that mean I do need to revisit [...]'
-      date: '2009-03-13 21:34:49'
-      date_gmt: '2009-03-13 11:34:49'
-      id: '2229'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 George Siemens has a [post](http://www.elearnspace.org/blog/2009/03/05/iris-model/) introducing the IRIS model of technology adoption - image shown below.
 
@@ -85,11 +82,11 @@ The lack of attention paid to this _Evolution_ phase is perhaps the aspect of un
 
 This approach is based on the idea of "big up-front design" as shown in the following model from Truex et al (1999). There is a period of analysis and design which is expensive. Then, to recoup costs, there is a period of stable use until the system no longer is suitable and hence the need for replacement.
 
-[![Big up front design](images/3332001810_70d2bd8f41_m.jpg)](http://www.flickr.com/photos/david_jones/3332001810/ "Big up front design by David T Jones, on Flickr")
+[![Big up front design](https://djon.es/assets/blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/images/3332001810_70d2bd8f41_m.jpg)](http://www.flickr.com/photos/david_jones/3332001810/ "Big up front design by David T Jones, on Flickr")
 
 The major problem with this process is evident if you look at universities and their use of learning management systems and expand the timelines out to 10 years or so, you get the following.
 
-[![The long term effects of big up front design](images/3331166307_9d94437844_m.jpg)](http://www.flickr.com/photos/david_jones/3331166307/ "The long term effects of big up front design by David T Jones, on Flickr")
+[![The long term effects of big up front design](https://djon.es/assets/blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/images/3331166307_9d94437844_m.jpg)](http://www.flickr.com/photos/david_jones/3331166307/ "The long term effects of big up front design by David T Jones, on Flickr")
 
 That is, because they don't pay enough attention to _Evolution_ and because they don't treat their "Product" (i.e. the LMS) as protean, every 5 years or so they have to go through the expensive and onerous process of replacing their systems.
 

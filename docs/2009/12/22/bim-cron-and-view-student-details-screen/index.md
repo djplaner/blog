@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - bim
-date: 2009-12-22 15:42:01+10:00
+comments: []
+date: 2009-12-22 05:42:01
 next:
   text: Shaking up e-learning "design" - little help?
   url: /blog/2009/12/23/shaking-up-e-learning-design-little-help/
+pingbacks:
+- approved: '1'
+  author: BIM &#8211; minor fixes to show student details &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/12/24/bim-minor-fixes-to-show-student-details/
+  content: '[...] &#8211; minor fixes to show student&nbsp;details  This post follows
+    on from the last post in doing some minor improvements to the show student details
+    screen in BIM. This [...]'
+  date: '2009-12-24 08:18:50'
+  date_gmt: '2009-12-23 22:18:50'
+  id: '2901'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - Creating the test data, completing dbase design
   url: /blog/2009/12/22/bim-creating-the-test-data-completing-dbase-design/
+template: blog-post.html
 title: BIM - cron and view student details screen
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM &#8211; minor fixes to show student details &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/12/24/bim-minor-fixes-to-show-student-details/
-      content: '[...] &#8211; minor fixes to show student&nbsp;details  This post follows
-        on from the last post in doing some minor improvements to the show student details
-        screen in BIM. This [...]'
-      date: '2009-12-24 08:18:50'
-      date_gmt: '2009-12-23 22:18:50'
-      id: '2901'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In the [last bit of BIM work](/blog/2009/12/22/bim-creating-the-test-data-completing-dbase-design/) I'd successfully created some test data and laid out some rough plans for what is next.
 

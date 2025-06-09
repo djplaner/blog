@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim2
-date: 2012-03-30 22:40:51+10:00
+date: 2012-03-30 12:40:51
 next:
   text: bim2 - student and marker fixes
   url: /blog/2012/03/31/bim2-student-and-marker-fixes/
 previous:
   text: Curriculum innovation as an educational technology trend
   url: /blog/2012/03/30/curriculum-innovation-as-an-educational-technology-trend/
+template: blog-post.html
 title: bim2 - status check and what's next
 type: post
-template: blog-post.html
 ---
 So it appears that bim2.0 is increasingly needed (if you don't know what bim is, check [this out](/blog/research/bam-blog-aggregation-management/)). University of Canberra have gone to Moodle 2 and CQU are about to, the only two places I know that bim is being used. Most importantly, I'm now teaching at a Moodle Uni and am seriously thinking about using bim, and my Uni is about to move to Moodle 2.
 

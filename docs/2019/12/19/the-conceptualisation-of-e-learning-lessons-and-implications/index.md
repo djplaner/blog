@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - eei
-date: 2019-12-19 08:47:34+10:00
+date: 2019-12-18 22:47:34
 next:
   text: Theory of workarounds
   url: /blog/2019/12/20/theory-of-workarounds/
 previous:
   text: It's more than how you use the technology - authoring online content
   url: /blog/2019/12/10/its-more-than-how-you-use-the-technology-authoring-online-content/
+template: blog-post.html
 title: '"The conceptualisation of e-learning: Lessons and implications"'
 type: post
-template: blog-post.html
 ---
 The following is the content of my first solo journal article.
 
@@ -60,7 +60,7 @@ A work system is a system, not necessarily computer-based, in which human partic
 
 The static view of a work system, the work system framework, identifies the basic elements for understanding and evaluating a work system and is useful in describing the system, describing possible changes, identifying problems and opportunities and tracing the likely impacts of changes to the system (Alter, 2002). Figure 1 provides a representation of the structure and components of the work system framework. Table 1 offers a brief description of the components.
 
-Figure 1 - The Work System Framework (Alter, 2002)![](images/weMed2ui8SKFgAAAABJRU5ErkJggg==)
+Figure 1 - The Work System Framework (Alter, 2002)![](https://djon.es/assets/blog/2019/12/19/the-conceptualisation-of-e-learning-lessons-and-implications/images/weMed2ui8SKFgAAAABJRU5ErkJggg==)
 
 **_Table 1: Components of the work system framework_**
 

@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - indicators
 - lak11
-date: 2011-01-30 21:22:40+10:00
+comments: []
+date: 2011-01-30 11:22:40
 next:
   text: Problems of service provision and why can't I have a personalised class timetable?
   url: /blog/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/
+pingbacks:
+- approved: '1'
+  author: "Tweets that mention The state of educational data mining in 2009 \xAB The\
+    \ Weblog of (a) David Jones -- Topsy.com"
+  author_email: null
+  author_ip: 208.74.66.43
+  author_url: http://topsy.com/davidtjones.wordpress.com/2011/01/30/the-state-of-educational-data-mining-in-2009/?utm_source=pingback&utm_campaign=L2
+  content: "[...] This post was mentioned on Twitter by Paulo Sim\xF5es, Sreya Dutta.\
+    \ Sreya Dutta said: RT @pgsimoes: The state of educational data mining in 2009\
+    \ http://dlvr.it/FPZmZ #elearning [...]"
+  date: '2011-01-30 22:31:54'
+  date_gmt: '2011-01-30 12:31:54'
+  id: '3226'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The demise of ALTC and why I&#039;m not sad
   url: /blog/2011/01/28/the-demise-of-altc/
+template: blog-post.html
 title: The state of educational data mining in 2009
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: "Tweets that mention The state of educational data mining in 2009 \xAB The\
-        \ Weblog of (a) David Jones -- Topsy.com"
-      author_email: null
-      author_ip: 208.74.66.43
-      author_url: http://topsy.com/davidtjones.wordpress.com/2011/01/30/the-state-of-educational-data-mining-in-2009/?utm_source=pingback&utm_campaign=L2
-      content: "[...] This post was mentioned on Twitter by Paulo Sim\xF5es, Sreya Dutta.\
-        \ Sreya Dutta said: RT @pgsimoes: The state of educational data mining in 2009\
-        \ http://dlvr.it/FPZmZ #elearning [...]"
-      date: '2011-01-30 22:31:54'
-      date_gmt: '2011-01-30 12:31:54'
-      id: '3226'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary and some initial reflections on the paper
 

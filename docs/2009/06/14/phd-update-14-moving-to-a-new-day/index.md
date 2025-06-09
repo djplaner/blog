@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-06-14 11:35:24+10:00
+comments: []
+date: 2009-06-14 01:35:24
 next:
   text: How silly can enterprise IT get? Tools should fit the people, not the other
     way around
   url: /blog/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #15 &#8211; Some progress and an absence &laquo; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/06/21/phd-update-15-some-progress-and-an-absence/
+  content: '[...] Last week I said that I would [...]'
+  date: '2009-06-21 14:55:18'
+  date_gmt: '2009-06-21 04:55:18'
+  id: '2598'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: To all my friends and colleagues out there - PhD etiquette
   url: /blog/2009/06/14/to-all-my-friends-and-colleagues-out-there-phd-etiquette/
+template: blog-post.html
 title: '"PhD Update #14 - Moving to a new day"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #15 &#8211; Some progress and an absence &laquo; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/06/21/phd-update-15-some-progress-and-an-absence/
-      content: '[...] Last week I said that I would [...]'
-      date: '2009-06-21 14:55:18'
-      date_gmt: '2009-06-21 04:55:18'
-      id: '2598'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is the first of the updates to be sent out on a Sunday. Part of a plan to move from doing this on Friday to Sunday. Mostly because there have been a couple of Friday's I've missed. Also, this might set the reflection up as the start to a week, rather then the end and consequently encourage greater emphasis on moving forward than looking back...who knows.
 

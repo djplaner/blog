@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -7,16 +7,16 @@ categories:
 - indicators
 - phd
 - thesis
-date: 2010-09-04 22:39:57+10:00
+date: 2010-09-04 12:39:57
 next:
   text: More problems with BIM and special characters
   url: /blog/2010/09/05/more-problems-with-bim-and-special-characters/
 previous:
   text: Misc. reflections on reading about situated cognition
   url: /blog/2010/09/03/misc-reflections-on-reading-about-situated-cognition/
+template: blog-post.html
 title: Light-weight analytics tools as part of scaffolding, context-sensitive conglomerations
 type: post
-template: blog-post.html
 ---
 A couple of days ago I floated the idea of [scaffolding, context-sensitive conglomerations](/blog/2010/09/03/scaffolding-context-sensitive-conglomerations-in-e-learning-systems/) as one idea/model/suggestion for how e-learning systems (currently mostly LMS, but hopefully other models will arise).
 

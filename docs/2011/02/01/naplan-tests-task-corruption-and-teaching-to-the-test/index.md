@@ -1,23 +1,19 @@
----
+﻿---
 categories:
 - journey
 - teaching
-date: 2011-02-01 05:50:19+10:00
+comments: []
+date: 2011-01-31 19:50:19
 next:
   text: Is there a need for research focii?
   url: /blog/2011/02/01/is-there-a-need-for-research-focii/
+pingbacks: []
 previous:
   text: bim2 - Registering a new student feed
   url: /blog/2011/01/31/bim2-registering-a-new-student-feed/
+template: blog-post.html
 title: NAPLAN tests, task corruption and teaching to the test
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 In another 2 or 3 weeks I begin my formal education as a high school teacher. In preparation for doing that I've joined various online groups and started listening to K-12 education related podcasts. A common refrain in the podcasts has been the problems associated with teaching to the test. Both US and Australian education commentators have been pointing out that a major consequence of broad-scale, standardised testing - such as [the National Assessment Program: Literacy and Numeracy](http://www.naplan.edu.au/tests/tests_landing_page.html) (NAPLAN) tests in Australia - is teaching to the test. i.e. the education of students suffers because anything that doesn't contribute to the attainment of "good" test scores is ignored and other potentially harmful practices are adopted. For example, [This article](http://inside.org.au/teaching-to-the-test/) from the Australian context draws heavily on a [Diane Ravitch article in the Wall Street Journal](http://online.wsj.com/article/SB10001424052748704869304575109443305343962.html).
 

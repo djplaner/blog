@@ -1,75 +1,72 @@
----
+﻿---
 categories:
 - journey
 - teaching
-date: 2011-03-07 10:25:34+10:00
+comments:
+- approved: '1'
+  author: amesk
+  author_email: k.ames@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: null
+  content: David, I'll learn a lot from you (again) this year. I'm going back to check
+    all my links...Kate :)
+  date: '2011-03-07 14:13:15'
+  date_gmt: '2011-03-07 04:13:15'
+  id: '20'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.182.80.172
+  author_url: https://djon.es/blog/
+  content: The fact that you need to remember to do this, is my point. One of the
+    very first features of Webfuse (hell it even preceded Webfuse) back in 1995/1996
+    was an automatic link checker that examined all links on a site and emailed the
+    responsible person with the details of the broken links.  Or at the very least,
+    a button that the staff member in charge of a course could press and generate
+    a report. This stuff shouldn't be manual.
+  date: '2011-03-07 14:21:27'
+  date_gmt: '2011-03-07 04:21:27'
+  id: '21'
+  parent: '20'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.179.184
+  author_url: http://www.vrbones.com
+  content: "<blockquote>On the plus side, it\u2019s been an amazing week in terms\
+    \ of learning from the folk from twitter and the blogosphere. Arguably this has\
+    \ contributed to my going off on tangents, but it\u2019s not something I\u2019\
+    d give up.</blockquote>\nThat would be an interesting thing to review in terms\
+    \ of connectivism. Lots of learning occurring, but in a sporadic, somewhat unstructured\
+    \ way that leads off the recommended path.\n\nMaybe enhancing your PLN with people\
+    \ on the same journey may help increase the chance that stimulating learning also\
+    \ aligns with the intent of the course?\n\nPersonally I learned far more from\
+    \ those wild tangents than I ever did out of the prescribed material. Downes,\
+    \ Sirlin, Kurzweil, and even your blog were found through serendipitous jaunts\
+    \ of link-jumping. Did it help me pass the course? Maybe. Did it help me know\
+    \ more about learning and teaching? Absolutely."
+  date: '2011-03-07 14:41:36'
+  date_gmt: '2011-03-07 04:41:36'
+  id: '22'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-03-07 00:25:34
 next:
   text: '"Reflection on the profile Wiki: ICTs for Learning Design"'
   url: /blog/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/
+pingbacks: []
 previous:
   text: Multiliteracies and why weak students become teachers
   url: /blog/2011/03/07/multiliteracies-and-why-weak-students-become-teachers/
+template: blog-post.html
 title: '"End of week 1: reflections and what''s next"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: amesk
-      author_email: k.ames@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: null
-      content: David, I'll learn a lot from you (again) this year. I'm going back to check
-        all my links...Kate :)
-      date: '2011-03-07 14:13:15'
-      date_gmt: '2011-03-07 04:13:15'
-      id: '20'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.182.80.172
-      author_url: https://djon.es/blog/
-      content: The fact that you need to remember to do this, is my point. One of the
-        very first features of Webfuse (hell it even preceded Webfuse) back in 1995/1996
-        was an automatic link checker that examined all links on a site and emailed the
-        responsible person with the details of the broken links.  Or at the very least,
-        a button that the staff member in charge of a course could press and generate
-        a report. This stuff shouldn't be manual.
-      date: '2011-03-07 14:21:27'
-      date_gmt: '2011-03-07 04:21:27'
-      id: '21'
-      parent: '20'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.179.184
-      author_url: http://www.vrbones.com
-      content: "<blockquote>On the plus side, it\u2019s been an amazing week in terms\
-        \ of learning from the folk from twitter and the blogosphere. Arguably this has\
-        \ contributed to my going off on tangents, but it\u2019s not something I\u2019\
-        d give up.</blockquote>\nThat would be an interesting thing to review in terms\
-        \ of connectivism. Lots of learning occurring, but in a sporadic, somewhat unstructured\
-        \ way that leads off the recommended path.\n\nMaybe enhancing your PLN with people\
-        \ on the same journey may help increase the chance that stimulating learning also\
-        \ aligns with the intent of the course?\n\nPersonally I learned far more from\
-        \ those wild tangents than I ever did out of the prescribed material. Downes,\
-        \ Sirlin, Kurzweil, and even your blog were found through serendipitous jaunts\
-        \ of link-jumping. Did it help me pass the course? Maybe. Did it help me know\
-        \ more about learning and teaching? Absolutely."
-      date: '2011-03-07 14:41:36'
-      date_gmt: '2011-03-07 04:41:36'
-      id: '22'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 It's the start of week 2 of my studies in a post-graduate teacher education program. Time for a bit of reflection and planning.
 

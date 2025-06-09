@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - bim2
-date: 2013-05-26 09:55:43+10:00
+comments: []
+date: 2013-05-25 23:55:43
 next:
   text: One-size-fits-all formulas
   url: /blog/2013/05/29/one-size-fits-all-formulas/
+pingbacks:
+- approved: '1'
+  author: How to help improve the Moodle book module | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.62
+  author_url: https://davidtjones.wordpress.com/2015/02/10/how-to-help-improve-the-moodle-book-module/
+  content: '[&#8230;] the change using git Prior work contains an example of how to
+    get a version of the Moodle source using git and start making [&#8230;]'
+  date: '2015-02-10 19:55:51'
+  date_gmt: '2015-02-10 09:55:51'
+  id: '762'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Which Moodle (or other LMS) tool is best at support and training?
   url: /blog/2013/05/23/which-moodle-or-other-lms-tool-is-best-at-support-and-training/
+template: blog-post.html
 title: Preparing BIM for Moodle 2.4 (and beyond?)
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: How to help improve the Moodle book module | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.62
-      author_url: https://davidtjones.wordpress.com/2015/02/10/how-to-help-improve-the-moodle-book-module/
-      content: '[&#8230;] the change using git Prior work contains an example of how to
-        get a version of the Moodle source using git and start making [&#8230;]'
-      date: '2015-02-10 19:55:51'
-      date_gmt: '2015-02-10 09:55:51'
-      id: '762'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Time for a bit of coding. The following has gone on over a few weeks.
 

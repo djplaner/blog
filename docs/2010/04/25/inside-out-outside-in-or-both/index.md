@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - bim
 - elearning
@@ -7,250 +7,248 @@ categories:
 - phd
 - psframework
 - webfuse
-coverImage: 2153105227_341c4ee602_o-e1627001406797.jpg
-date: 2010-04-25 12:40:40+10:00
+comments:
+- approved: '1'
+  author: leighblackall
+  author_email: leighblackall@gmail.com
+  author_ip: 124.168.209.103
+  author_url: http://learnonline.wordpress.com/
+  content: 'Great response David! It is totally a fair call - and brings some clarity
+    to the question for me. Its true that my perspectives are driven somewhat by the
+    idea that ''outside'' learning is.. important, but that it needs recognition and
+    support by the ''inside'' or both sides miss out. I''d go further though, and
+    say that improving ''inside'' teaching and learning happens by connecting it with
+    ''outside'' teaching and learning.
+
+
+    I think BIM does this in one direction, and is the single most significant addition
+    to Moodle I have seen that has me considering the use of Moodle again. It effectively
+    brings the outside in, I just wish it could bring the inside out. Your future
+    plans could do that.
+
+
+    The ultimate (for me) is a tool that is developed on the outside, but that can
+    be used seamlessly on the inside. The people over at Wikieducator for example,
+    are working on import export extensions that try to connect Moodle with MediaWikis
+    and OpenOffice. While I think that example is futile, it is none-the-less guided
+    by thinking I can agree with.
+
+
+    Thanks for posting David. It was a great response. I look forward to seeing a
+    recording and/or notes of your MoodleMoot presentation.'
+  date: '2010-04-25 23:46:04'
+  date_gmt: '2010-04-25 13:46:04'
+  id: '3014'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'Leigh, thanks for the positive feedback.
+
+
+    I agree 100% that "inside" needs to connect with the "outside".  The really hard
+    stuff is encouraging that "connection" to happen. It has to happen in a way that
+    makes sense for those inside, without sacrificing what is important about the
+    insight from outside.
+
+
+    What frustrates me is that the nature of the "inside" environment actually makes
+    it harder to connect, not easier.
+
+
+    In terms of the future plans for BIM, I take the "immersion" approach very seriously.
+    I think any addition of further "social media" features into BIM is best accomplished
+    by responding to the real needs of someone trying to use BIM, rather than what
+    I "analyse" to be best.
+
+
+    As a result, I''m really keen to connect with someone who wants to use these types
+    of features with BIM.  I''m more likely to add them, once I engage with such folk,
+    than if I don''t.
+
+
+    So, if you know of anyone - or you yourself get serious - let me know.'
+  date: '2010-04-27 11:05:06'
+  date_gmt: '2010-04-27 01:05:06'
+  id: '3015'
+  parent: '3014'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: theteachingtomtom
+  author_email: john.benwell@rmit.edu.au
+  author_ip: 120.21.6.59
+  author_url: http://www.teachingtomtom.com
+  content: All these years on, and through another similar discussion, we're back
+    here. I'm sorry that I didn't get serious, or in all my dealings with hundreds
+    of teachers at several institutions, I didn't remember to get serious. But over
+    those 5 years since when we talked and arrived at "outside in" I think we have
+    observed significant trends. Google Apps for Education (for better and worse)  Hangouts
+    on Air and Youtube, social media generally, Creative Commons licensing, and broader
+    notions of extracurricular and experiential work place learning, indicate to me
+    that "outside in" is having a significant impact on practice. At RMIT we're even
+    starting to have directional conversations about "Bring Your Own Account" where,
+    conceivably at least, the university will accept the idea of people rejecting
+    the use of a university supplied account, and legitimately use an existing online
+    identity. BYOA, like BYOD a few years prior, are examples of Outside-in thinking...
+  date: '2015-08-28 17:29:11'
+  date_gmt: '2015-08-28 07:29:11'
+  id: '3022'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 101.179.25.109
+  author_url: https://djon.es/blog/
+  content: 'At some level I''m wondering whether the notions of what is "inside" and
+    what is "outside" is different and/or changed.  Or at least it''s more than just
+    a dichotomy.
+
+
+    e.g. I wouldn''t class myself as being (or ever have been) "inside" an organisation
+    in terms of fitting within the strategic and operational goals of a university.  There''s
+    a reason why last ASCILITE paper was titled <a href="https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/"
+    rel="nofollow">"Breaking BAD"</a>. I''ve always been on the edges of the organisation
+    and its systems/expectations, seen by some as "bad", and thus can relate to your
+    other comment about it being a lonely experience. That said, nothing I''ve done
+    has ever questioned/challenged some of the fundamental assumptions that your work
+    has. Perhaps it''s just that aim looking at changing a different set of assumptions.
+
+
+    The work you mention at RMIT is indicative of the environmental factors that will
+    continue to drive some of this. Digital technology will become more and more prevalent
+    and embedded in our lives and it will no longer make sense for them to provide
+    accounts.  It''s the same scarcity/abundance transition that happened with providing
+    Internet access.  Back in the early 1990s Universities had banks of modems to
+    which students dialed up to in order to get Internet access.  That would be silly
+    to do now.
+
+
+    But the question will be whether <a href="http://www.papert.org/articles/school_reform.html"
+    rel="nofollow">the "grammar of school"</a> as embodied by Universities will continue
+    to constrain the type of transformation that can/should happen?'
+  date: '2015-09-03 15:51:11'
+  date_gmt: '2015-09-03 05:51:11'
+  id: '3023'
+  parent: '3022'
+  type: comment
+  user_id: '1'
+coverImage: https://djon.es/assets/blog/2010/04/25/inside-out-outside-in-or-both/images/2153105227_341c4ee602_o-e1627001406797.jpg
+date: 2010-04-25 02:40:40
 next:
   text: '"The realities of the ERA and L&#038;T support services"'
   url: /blog/2010/04/28/the-realities-of-the-era-and-lt-support-services/
+pingbacks:
+- approved: '1'
+  author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.72
+  author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
+  content: '[...] this stage I come back to some thinking about inside-out versus
+    outside-in that was sparked by questions from Leigh Blackall. In my job I [...]'
+  date: '2010-05-14 14:14:49'
+  date_gmt: '2010-05-14 04:14:49'
+  id: '3016'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Using the NetSpot Innovation fund to enhance bim &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 216.151.210.18
+  author_url: https://djon.es/blog/2012/08/07/using-the-netspot-innovation-fund-to-enhance-bim/
+  content: '[...] Blackall and I had this conversation a while ago. There are minuses
+    in this approach, but there are some plusses as well and there aren&#8217;t many
+    [...]'
+  date: '2012-08-07 09:24:01'
+  date_gmt: '2012-08-06 23:24:01'
+  id: '3017'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A bit more NGL catchup | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.8.88
+  author_url: https://djon.es/blog/2014/08/21/a-bit-more-ngl-catchup/
+  content: '[&#8230;] I&#8217;ve also argued that working within the walled garden
+    and slowly opening up more holes in the wall has some promise as a [&#8230;]'
+  date: '2014-08-21 15:12:04'
+  date_gmt: '2014-08-21 05:12:04'
+  id: '3018'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: No guarantees! The realities of working with NGL? | EVEN ELMO&#039;S GOT
+    A MOBILE
+  author_email: null
+  author_ip: 192.0.80.199
+  author_url: http://astrethewey.wordpress.com/2014/08/22/no-guarantees-the-realities-of-working-with-ngl/
+  content: "[&#8230;] fight the good fight and to try to\_bring about change, working\
+    \ from the bottom up! \_Or as David puts in &#8211; the [&#8230;]"
+  date: '2014-08-22 19:24:09'
+  date_gmt: '2014-08-22 09:24:09'
+  id: '3019'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Assignment 2 &#8211; DBR Proposal | EVEN ELMO&#039;S GOT A MOBILE
+  author_email: null
+  author_ip: 192.0.83.190
+  author_url: http://astrethewey.wordpress.com/2014/11/12/assignment-2-dbr-proposal/
+  content: '[&#8230;] Jones, D. (2010, April 25). Inside out, Outside in or both?
+    [Web log post]. Retrieved from https://djon.es/blog/2010/04/25/inside-out-outside-in-or-both/
+    [&#8230;]'
+  date: '2014-11-12 11:04:00'
+  date_gmt: '2014-11-12 01:04:00'
+  id: '3020'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Kludging an authoring process with Moodle books (almost) | The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.104
+  author_url: https://davidtjones.wordpress.com/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
+  content: '[&#8230;] it at the institutional level. I&#8217;m simply aiming to enhance
+    my current practice a bit. An &#8220;inside out&#8221; approach, rather than outside
+    [&#8230;]'
+  date: '2015-02-08 13:13:41'
+  date_gmt: '2015-02-08 03:13:41'
+  id: '3021'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: OEP, institutions and culture &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.68
+  author_url: https://davidtjones.wordpress.com/2016/09/21/oep-institutions-and-culture/
+  content: '[&#8230;] end, I think we may need to draw upon the following from David
+    Wiley and Cable Green, which echoes a discussion Leigh Blackall and I had back
+    in [&#8230;]'
+  date: '2016-09-21 15:40:25'
+  date_gmt: '2016-09-21 05:40:25'
+  id: '3024'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Clarification of the alignment project
   url: /blog/2010/04/22/clarification-of-the-alignment-project/
+template: blog-post.html
 title: Inside out, Outside in or both?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: leighblackall
-      author_email: leighblackall@gmail.com
-      author_ip: 124.168.209.103
-      author_url: http://learnonline.wordpress.com/
-      content: 'Great response David! It is totally a fair call - and brings some clarity
-        to the question for me. Its true that my perspectives are driven somewhat by the
-        idea that ''outside'' learning is.. important, but that it needs recognition and
-        support by the ''inside'' or both sides miss out. I''d go further though, and
-        say that improving ''inside'' teaching and learning happens by connecting it with
-        ''outside'' teaching and learning.
-    
-    
-        I think BIM does this in one direction, and is the single most significant addition
-        to Moodle I have seen that has me considering the use of Moodle again. It effectively
-        brings the outside in, I just wish it could bring the inside out. Your future
-        plans could do that.
-    
-    
-        The ultimate (for me) is a tool that is developed on the outside, but that can
-        be used seamlessly on the inside. The people over at Wikieducator for example,
-        are working on import export extensions that try to connect Moodle with MediaWikis
-        and OpenOffice. While I think that example is futile, it is none-the-less guided
-        by thinking I can agree with.
-    
-    
-        Thanks for posting David. It was a great response. I look forward to seeing a
-        recording and/or notes of your MoodleMoot presentation.'
-      date: '2010-04-25 23:46:04'
-      date_gmt: '2010-04-25 13:46:04'
-      id: '3014'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'Leigh, thanks for the positive feedback.
-    
-    
-        I agree 100% that "inside" needs to connect with the "outside".  The really hard
-        stuff is encouraging that "connection" to happen. It has to happen in a way that
-        makes sense for those inside, without sacrificing what is important about the
-        insight from outside.
-    
-    
-        What frustrates me is that the nature of the "inside" environment actually makes
-        it harder to connect, not easier.
-    
-    
-        In terms of the future plans for BIM, I take the "immersion" approach very seriously.
-        I think any addition of further "social media" features into BIM is best accomplished
-        by responding to the real needs of someone trying to use BIM, rather than what
-        I "analyse" to be best.
-    
-    
-        As a result, I''m really keen to connect with someone who wants to use these types
-        of features with BIM.  I''m more likely to add them, once I engage with such folk,
-        than if I don''t.
-    
-    
-        So, if you know of anyone - or you yourself get serious - let me know.'
-      date: '2010-04-27 11:05:06'
-      date_gmt: '2010-04-27 01:05:06'
-      id: '3015'
-      parent: '3014'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: theteachingtomtom
-      author_email: john.benwell@rmit.edu.au
-      author_ip: 120.21.6.59
-      author_url: http://www.teachingtomtom.com
-      content: All these years on, and through another similar discussion, we're back
-        here. I'm sorry that I didn't get serious, or in all my dealings with hundreds
-        of teachers at several institutions, I didn't remember to get serious. But over
-        those 5 years since when we talked and arrived at "outside in" I think we have
-        observed significant trends. Google Apps for Education (for better and worse)  Hangouts
-        on Air and Youtube, social media generally, Creative Commons licensing, and broader
-        notions of extracurricular and experiential work place learning, indicate to me
-        that "outside in" is having a significant impact on practice. At RMIT we're even
-        starting to have directional conversations about "Bring Your Own Account" where,
-        conceivably at least, the university will accept the idea of people rejecting
-        the use of a university supplied account, and legitimately use an existing online
-        identity. BYOA, like BYOD a few years prior, are examples of Outside-in thinking...
-      date: '2015-08-28 17:29:11'
-      date_gmt: '2015-08-28 07:29:11'
-      id: '3022'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 101.179.25.109
-      author_url: https://djon.es/blog/
-      content: 'At some level I''m wondering whether the notions of what is "inside" and
-        what is "outside" is different and/or changed.  Or at least it''s more than just
-        a dichotomy.
-    
-    
-        e.g. I wouldn''t class myself as being (or ever have been) "inside" an organisation
-        in terms of fitting within the strategic and operational goals of a university.  There''s
-        a reason why last ASCILITE paper was titled <a href="https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/"
-        rel="nofollow">"Breaking BAD"</a>. I''ve always been on the edges of the organisation
-        and its systems/expectations, seen by some as "bad", and thus can relate to your
-        other comment about it being a lonely experience. That said, nothing I''ve done
-        has ever questioned/challenged some of the fundamental assumptions that your work
-        has. Perhaps it''s just that aim looking at changing a different set of assumptions.
-    
-    
-        The work you mention at RMIT is indicative of the environmental factors that will
-        continue to drive some of this. Digital technology will become more and more prevalent
-        and embedded in our lives and it will no longer make sense for them to provide
-        accounts.  It''s the same scarcity/abundance transition that happened with providing
-        Internet access.  Back in the early 1990s Universities had banks of modems to
-        which students dialed up to in order to get Internet access.  That would be silly
-        to do now.
-    
-    
-        But the question will be whether <a href="http://www.papert.org/articles/school_reform.html"
-        rel="nofollow">the "grammar of school"</a> as embodied by Universities will continue
-        to constrain the type of transformation that can/should happen?'
-      date: '2015-09-03 15:51:11'
-      date_gmt: '2015-09-03 05:51:11'
-      id: '3023'
-      parent: '3022'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.72
-      author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
-      content: '[...] this stage I come back to some thinking about inside-out versus
-        outside-in that was sparked by questions from Leigh Blackall. In my job I [...]'
-      date: '2010-05-14 14:14:49'
-      date_gmt: '2010-05-14 04:14:49'
-      id: '3016'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Using the NetSpot Innovation fund to enhance bim &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 216.151.210.18
-      author_url: https://djon.es/blog/2012/08/07/using-the-netspot-innovation-fund-to-enhance-bim/
-      content: '[...] Blackall and I had this conversation a while ago. There are minuses
-        in this approach, but there are some plusses as well and there aren&#8217;t many
-        [...]'
-      date: '2012-08-07 09:24:01'
-      date_gmt: '2012-08-06 23:24:01'
-      id: '3017'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A bit more NGL catchup | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.8.88
-      author_url: https://djon.es/blog/2014/08/21/a-bit-more-ngl-catchup/
-      content: '[&#8230;] I&#8217;ve also argued that working within the walled garden
-        and slowly opening up more holes in the wall has some promise as a [&#8230;]'
-      date: '2014-08-21 15:12:04'
-      date_gmt: '2014-08-21 05:12:04'
-      id: '3018'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: No guarantees! The realities of working with NGL? | EVEN ELMO&#039;S GOT
-        A MOBILE
-      author_email: null
-      author_ip: 192.0.80.199
-      author_url: http://astrethewey.wordpress.com/2014/08/22/no-guarantees-the-realities-of-working-with-ngl/
-      content: "[&#8230;] fight the good fight and to try to\_bring about change, working\
-        \ from the bottom up! \_Or as David puts in &#8211; the [&#8230;]"
-      date: '2014-08-22 19:24:09'
-      date_gmt: '2014-08-22 09:24:09'
-      id: '3019'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Assignment 2 &#8211; DBR Proposal | EVEN ELMO&#039;S GOT A MOBILE
-      author_email: null
-      author_ip: 192.0.83.190
-      author_url: http://astrethewey.wordpress.com/2014/11/12/assignment-2-dbr-proposal/
-      content: '[&#8230;] Jones, D. (2010, April 25). Inside out, Outside in or both?
-        [Web log post]. Retrieved from https://djon.es/blog/2010/04/25/inside-out-outside-in-or-both/
-        [&#8230;]'
-      date: '2014-11-12 11:04:00'
-      date_gmt: '2014-11-12 01:04:00'
-      id: '3020'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Kludging an authoring process with Moodle books (almost) | The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.104
-      author_url: https://davidtjones.wordpress.com/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
-      content: '[&#8230;] it at the institutional level. I&#8217;m simply aiming to enhance
-        my current practice a bit. An &#8220;inside out&#8221; approach, rather than outside
-        [&#8230;]'
-      date: '2015-02-08 13:13:41'
-      date_gmt: '2015-02-08 03:13:41'
-      id: '3021'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: OEP, institutions and culture &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.68
-      author_url: https://davidtjones.wordpress.com/2016/09/21/oep-institutions-and-culture/
-      content: '[&#8230;] end, I think we may need to draw upon the following from David
-        Wiley and Cable Green, which echoes a discussion Leigh Blackall and I had back
-        in [&#8230;]'
-      date: '2016-09-21 15:40:25'
-      date_gmt: '2016-09-21 05:40:25'
-      id: '3024'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 During the last week I have been in Canberra for various events, including [giving a presentation](/blog/2010/04/07/reducing-the-aggravation-of-student-blogging-the-story-of-bim/) on [BIM](/blog/research/bam-blog-aggregation-management/) at University of Canberra. Somewhat surprisingly (as last I knew, he was in New Zealand), [Leigh Blackall](http://leighblackall.blogspot.com/) was in "audience" at the presentation, and as is Leigh's wont, he asked some serious questions. I was troubled by those questions and needed time to reflect on what an answer might be.
 
@@ -318,7 +316,7 @@ As stated above and numerous times on this blog, I think the current approaches 
 
 The following diagram represents what I think is a fundamental mismatch (The image is taken from [this post](http://bdld.blogspot.com/2010/04/immersion-and-analysis-continuum-in.html) by Donald Clark).
 
-![im](images/immersion.jpg)
+![im](https://djon.es/assets/blog/2010/04/25/inside-out-outside-in-or-both/images/immersion.jpg)
 
 As I said above, this problem is a complex one. Based on the above diagram, the best type of solution arises from immersion in the problem. The problem is that most universities are attempting to solve this problem by analysis.
 

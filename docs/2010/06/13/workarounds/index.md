@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-06-13 09:21:39+10:00
+date: 2010-06-12 23:21:39
 next:
   text: Academics, course websites and power laws
   url: /blog/2010/06/14/academics-course-websites-and-power-laws/
 previous:
   text: Functional fixedness, analytics, and the LMS
   url: /blog/2010/06/12/functional-fixedness-analytics-the-lms-and-the-v-word/
+template: blog-post.html
 title: Workarounds
 type: post
-template: blog-post.html
 ---
 The following is a first draft of the next section of chapter 5 of [my thesis](/blog/research/phd-thesis/). The aim here is to try and illustrate how the combination of the [agile](/blog/2010/06/05/emergent-and-agile-development/) and [adopted-focused](/blog/2010/06/04/adopter-focused-development-and-diffusion-theory/) development process of Webfuse, when combined with the [design of Webfuse](/blog/2010/06/07/object-orientation-and-design-patterns/) enabled the rapid development of "workarounds" that enabled the system to adapt to changes in the environment and requirements of the systems users.
 
@@ -78,17 +78,17 @@ A major benefit of the Wf framework and its design pattern-based, object-oriente
 
 Figure 5.3 shows a part of the standard class list page provided by Webfuse. This page shows a range of details of students enrolled in a particular course and was commonly used by teaching academics. As it stands, Figure 5.3 contains a number of examples of the Webfuse ability to combine and integrate different services. For example, at the top of Figure 5.3 there is a button "Mail Merge". The email merge facility described above was designed to be able to take a list of student numbers from any application. Once the email merge facility was completed the "Mail Merge" button was added to the class list page allowing staff to email all students in the course. In addition, if staff were to narrow the class list to a particular campus, the "Mail Merge" button works as expected.
 
-[![Class list by name](images/4680647177_54fcaf497a_m.jpg)](http://www.flickr.com/photos/david_jones/4680647177/ "Class list by name by David T Jones, on Flickr")
+[![Class list by name](https://djon.es/assets/blog/2010/06/13/workarounds/images/4680647177_54fcaf497a_m.jpg)](http://www.flickr.com/photos/david_jones/4680647177/ "Class list by name by David T Jones, on Flickr")
 
 By 2006, some academic staff were using this facility to send a "welcome to the course" email to students in the course. The purpose of such an email was to create an initial social connection with the students and provide some initial guidance on what they should be doing. This "welcome" email approach was somewhat complicated by the likelihood that students could enrol in a course at times ranging from months before the start of term until two weeks (and sometimes more) after the term had started. Sending the email too early would miss some students, too late and students may already have started feeling lost and sending multiple messages may overwhelm.
 
 In Figure 5.3, the Class list is sorted by name. Prior to 2006, there was no choice, sorted by name was the only option. In 2006, the Model-View-Controller architecture of the Wf framework allowed the creation of a different view for the class list page that displayed student details sorted by date of enrolment in the course (Figure 5.4). The Wf framework's pattern-based, object-oriented design enabled the link to "Mail Merge" to work on this new view with no code modification.
 
-[![Class list by enrol date](images/4681280272_149b911a90_m.jpg)](http://www.flickr.com/photos/david_jones/4681280272/ "Class list by enrol date by David T Jones, on Flickr")
+[![Class list by enrol date](https://djon.es/assets/blog/2010/06/13/workarounds/images/4681280272_149b911a90_m.jpg)](http://www.flickr.com/photos/david_jones/4681280272/ "Class list by enrol date by David T Jones, on Flickr")
 
 In 2007, a CQU curriculum design created an instructional design for course using the Blackboard LMS that required the division of hundreds of students into small groups with each group having its own portion of the Blackboard site containing a number of different discussion forums serving very different instructional purposes. This instructional design could not be implemented with the Blackboard LMS due to an in-built limitation around the number and location of discussion forums per group. The solution adopted was to create the discussion forums for these groups within Webfuse and integrate them into Blackboard. Figure 5.5 shows the Blackboard course site and one of the Webfuse discussion forums used by one of the groups.
 
-[![Integration of Webfuse and Blackboard](images/4694042127_94bcc52257_m.jpg)](http://www.flickr.com/photos/david_jones/4694042127/ "Integration of Webfuse and Blackboard by David T Jones, on Flickr")
+[![Integration of Webfuse and Blackboard](https://djon.es/assets/blog/2010/06/13/workarounds/images/4694042127_94bcc52257_m.jpg)](http://www.flickr.com/photos/david_jones/4694042127/ "Integration of Webfuse and Blackboard by David T Jones, on Flickr")
 
 ### References
 

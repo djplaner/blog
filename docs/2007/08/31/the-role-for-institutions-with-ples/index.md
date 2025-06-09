@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - ple
-date: 2007-08-31 09:06:17+10:00
+date: 2007-08-30 23:06:17
 next:
   text: Technology scan - CQU and e-learning
   url: /blog/2007/08/31/technology-scan-cqu-and-e-learning/
 previous:
   text: Diffusion theory to guide adoption of immersive Web3D environments in learning
   url: /blog/2007/08/25/diffusion-theory-to-guide-adoption-of-immersive-web3d-environments-in-learning/
+template: blog-post.html
 title: The role for institutions with PLEs
 type: post
-template: blog-post.html
 ---
 There's an increasing rhetoric raising in the ranks of university-based education folk about the importance of [Personal Learning Environments (PLEs)](http://en.wikipedia.org/wiki/Personal_Learning_Environment). There are any number of [good resources](http://del.icio.us/davidj1/ple) on the web that mention PLEs.
 

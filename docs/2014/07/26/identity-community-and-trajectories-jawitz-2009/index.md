@@ -1,93 +1,91 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-07-26 15:44:17+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 123.211.171.245
+  author_url: http://elketeaches.wordpress.com
+  content: 'From my experience in both tertiary &amp; secondary teaching I have seen
+    the Communities of Practice approach fail.  This is always due to the higher-ups,
+    with all their experience &amp; wisdom!, deciding that the CoP approach NEEDS
+    to be adopted by ALL staff. This is problematic since, again in my experience,
+    there''s always the weakest link (usually more than one) staff member that either
+    doesn''t care or thinks the idea is ridiculous.
+
+
+    That is why I love my Personal Learning Network because I''m hanging out (digitally)
+    with people who are like-minded or at least willing to consider and criticize
+    constructively.  These people I''ve either "found" or they''ve found me via comments
+    we''ve made on Twitter, FB groups etc.
+
+
+    I''m all for cultural change in the workplace &amp; dept. system (think "red-tape")
+    but forcing people together in a CoP and expecting it to work is idealistic.'
+  date: '2014-07-26 16:15:25'
+  date_gmt: '2014-07-26 06:15:25'
+  id: '1001'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 123.211.171.245
+  author_url: http://elketeaches.wordpress.com
+  content: one more thing....I found this sentence interesting (actually it brought
+    up all sorts of emotions for me) - "But then I started building (e-learning) systems
+    to be used by other people, and they didn't."  I used basic web design with FTP
+    a decade ago and wordpress/edublogs sites today.  I've actually had colleagues
+    tell me that I'm making them look bad, like I'm trying too hard....pretty difficult
+    to feel like you belong when others think all your ideas are competitive! I find
+    this attitude startling since I thought "teaching" was about learning as much
+    as possible.
+  date: '2014-07-26 16:52:30'
+  date_gmt: '2014-07-26 06:52:30'
+  id: '1002'
+  parent: '1001'
+  type: comment
+  user_id: '0'
+date: 2014-07-26 05:44:17
 next:
   text: Me as a teacher
   url: /blog/2014/07/27/me-as-a-teacher/
+pingbacks:
+- approved: '1'
+  author: Identity, community and trajectories - Jawitz (...
+  author_email: null
+  author_ip: 89.30.118.151
+  author_url: http://www.scoop.it/t/leadership-innovation-and-creativity/p/4025306710/2014/07/26/identity-community-and-trajectories-jawitz-2009
+  content: '[&#8230;] The following is a bit of a reaction to one of the readings
+    set for Week 1 of the NGL course. The reading was actually part of the old version
+    of the course and it was brought over into this offeri...&nbsp; [&#8230;]'
+  date: '2014-07-27 10:09:51'
+  date_gmt: '2014-07-27 00:09:51'
+  id: '1003'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Me as a teacher | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 209.15.21.75
+  author_url: https://djon.es/blog/2014/07/27/me-as-a-teacher/
+  content: '[&#8230;] a previous post I give a potted history of the trajectory of
+    my University teaching career (apart from a couple of [&#8230;]'
+  date: '2014-07-27 11:41:05'
+  date_gmt: '2014-07-27 01:41:05'
+  id: '1004'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Who are some good folk to follow re: network learning'
   url: /blog/2014/07/25/who-are-some-good-folk-to-follow-re-network-learning/
+template: blog-post.html
 title: Identity, community and trajectories - Jawitz (2009)
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 123.211.171.245
-      author_url: http://elketeaches.wordpress.com
-      content: 'From my experience in both tertiary &amp; secondary teaching I have seen
-        the Communities of Practice approach fail.  This is always due to the higher-ups,
-        with all their experience &amp; wisdom!, deciding that the CoP approach NEEDS
-        to be adopted by ALL staff. This is problematic since, again in my experience,
-        there''s always the weakest link (usually more than one) staff member that either
-        doesn''t care or thinks the idea is ridiculous.
-    
-    
-        That is why I love my Personal Learning Network because I''m hanging out (digitally)
-        with people who are like-minded or at least willing to consider and criticize
-        constructively.  These people I''ve either "found" or they''ve found me via comments
-        we''ve made on Twitter, FB groups etc.
-    
-    
-        I''m all for cultural change in the workplace &amp; dept. system (think "red-tape")
-        but forcing people together in a CoP and expecting it to work is idealistic.'
-      date: '2014-07-26 16:15:25'
-      date_gmt: '2014-07-26 06:15:25'
-      id: '1001'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 123.211.171.245
-      author_url: http://elketeaches.wordpress.com
-      content: one more thing....I found this sentence interesting (actually it brought
-        up all sorts of emotions for me) - "But then I started building (e-learning) systems
-        to be used by other people, and they didn't."  I used basic web design with FTP
-        a decade ago and wordpress/edublogs sites today.  I've actually had colleagues
-        tell me that I'm making them look bad, like I'm trying too hard....pretty difficult
-        to feel like you belong when others think all your ideas are competitive! I find
-        this attitude startling since I thought "teaching" was about learning as much
-        as possible.
-      date: '2014-07-26 16:52:30'
-      date_gmt: '2014-07-26 06:52:30'
-      id: '1002'
-      parent: '1001'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Identity, community and trajectories - Jawitz (...
-      author_email: null
-      author_ip: 89.30.118.151
-      author_url: http://www.scoop.it/t/leadership-innovation-and-creativity/p/4025306710/2014/07/26/identity-community-and-trajectories-jawitz-2009
-      content: '[&#8230;] The following is a bit of a reaction to one of the readings
-        set for Week 1 of the NGL course. The reading was actually part of the old version
-        of the course and it was brought over into this offeri...&nbsp; [&#8230;]'
-      date: '2014-07-27 10:09:51'
-      date_gmt: '2014-07-27 00:09:51'
-      id: '1003'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Me as a teacher | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 209.15.21.75
-      author_url: https://djon.es/blog/2014/07/27/me-as-a-teacher/
-      content: '[&#8230;] a previous post I give a potted history of the trajectory of
-        my University teaching career (apart from a couple of [&#8230;]'
-      date: '2014-07-27 11:41:05'
-      date_gmt: '2014-07-27 01:41:05'
-      id: '1004'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a bit of a reaction to one of the readings set for Week 1 of the [NGL course](http://netgl.wordpress.com). The reading was actually part of the old version of the course and it was brought over into this offering as it gives a brief summary of some of the academic perspectives around identity, trajectories and community.
 

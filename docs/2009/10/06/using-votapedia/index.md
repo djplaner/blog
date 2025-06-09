@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - ilecture
 - votapedia
-date: 2009-10-06 15:40:49+10:00
+date: 2009-10-06 05:40:49
 next:
   text: Initial CRC investigations
   url: /blog/2009/10/07/initial-crc-investigations/
 previous:
   text: Thoughts on &quot;Insidious pedagogy&quot;
   url: /blog/2009/10/06/thoughts-on-insidiuous-pedagogy/
+template: blog-post.html
 title: Using Votapedia
 type: post
-template: blog-post.html
 ---
 In the next couple of weeks I'm going to be giving [a presentation](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) that will also serve as an experiment in alternate technologies for presentations. One of those technologies will be [Votapedia.com](http://www.votapedia.com/) - an Australian-based, free SMS/Web audience response system. This post is meant to capture the process I went through in learning about how to use Votapedia.
 
@@ -43,17 +43,17 @@ A part of the [Votapedia](http://www.votapedia.com) home page is shown in the fo
 | Identified text |  |
 | Rank expositions |  |
 
-[![Votapedia home page ](images/3985251703_aaf49623c2_o.jpg)](http://www.flickr.com/photos/david_jones/3985251703/ "Votapedia home page  by David T Jones, on Flickr")
+[![Votapedia home page ](https://djon.es/assets/blog/2009/10/06/using-votapedia/images/3985251703_aaf49623c2_o.jpg)](http://www.flickr.com/photos/david_jones/3985251703/ "Votapedia home page  by David T Jones, on Flickr")
 
 Each link takes you to a basic HTML form that guides you in the information required to create the chosen survey. The following image is for the simple survey (click on it to see more).
 
-[![Creating a simple survey on votapedia](images/3986017448_6371d6dd27_m.jpg)](http://www.flickr.com/photos/david_jones/3986017448/ "Creating a simple survey on votapedia by David T Jones, on Flickr")
+[![Creating a simple survey on votapedia](https://djon.es/assets/blog/2009/10/06/using-votapedia/images/3986017448_6371d6dd27_m.jpg)](http://www.flickr.com/photos/david_jones/3986017448/ "Creating a simple survey on votapedia by David T Jones, on Flickr")
 
 Well, that's not good. It didn't work. Filled out the form, all good, hit submit and I get "There is currently no text in this page".
 
 So, I try to create another survey. Very simple and don't do anything to upset the gods. Same error. Not good. Go looking and see there's a link "My Surveys", perhaps that might give me the link. Yep, the two surveys do show up on that page, see the following image.
 
-[![My Surveys on Votapedia](images/3986038100_c9310792b1_m.jpg)](http://www.flickr.com/photos/david_jones/3986038100/ "My Surveys on Votapedia by David T Jones, on Flickr")
+[![My Surveys on Votapedia](https://djon.es/assets/blog/2009/10/06/using-votapedia/images/3986038100_c9310792b1_m.jpg)](http://www.flickr.com/photos/david_jones/3986038100/ "My Surveys on Votapedia by David T Jones, on Flickr")
 
 Okay, if I click on the link for one of the surveys on "My Surveys" page I get a page with the same "error". Now, there is a "Choose Number" link for each survey, maybe I need to select that first.
 
@@ -67,7 +67,7 @@ Tried to create an "anonymous text" survey, same problem. There are other survey
 
 Mmmm, now they are working. The main thing that changed was that I changed the password for my account. I don't think that will have changed anything. Here's the proof.
 
-[![My first Votapedia quiz](images/3985388561_41f9ae2c1b_m.jpg)](http://www.flickr.com/photos/david_jones/3985388561/ "My first Votapedia quiz by David T Jones, on Flickr")
+[![My first Votapedia quiz](https://djon.es/assets/blog/2009/10/06/using-votapedia/images/3985388561_41f9ae2c1b_m.jpg)](http://www.flickr.com/photos/david_jones/3985388561/ "My first Votapedia quiz by David T Jones, on Flickr")
 
 Still only able to choose one phone number. Well, let's try and start the survey. Hit the "Start survey" button....that seems to start it. The numbers are already there. Let's try. Phone the number for my response, and hey presto it works. Engaged tone and the graph is updated in front of my eyes. That's neat. Time to tell some other folk.
 
@@ -86,7 +86,7 @@ Just briefly, asked a few colleagues to take the survey - all up 7 participants.
 
 Results looked like the following image. Interestingly, it seems at least some of the participants missed the **least** modifier in the question.
 
-[![Results of Votapedia question](images/3985764455_7169784299_m.jpg)](http://www.flickr.com/photos/david_jones/3985764455/ "Results of Votapedia question by David T Jones, on Flickr")
+[![Results of Votapedia question](https://djon.es/assets/blog/2009/10/06/using-votapedia/images/3985764455_7169784299_m.jpg)](http://www.flickr.com/photos/david_jones/3985764455/ "Results of Votapedia question by David T Jones, on Flickr")
 
 ### Conclusions
 

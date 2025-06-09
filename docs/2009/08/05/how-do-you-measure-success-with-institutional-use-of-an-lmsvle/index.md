@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-4
 - design-theory
@@ -7,16 +7,16 @@ categories:
 - lmsevaluation
 - phd
 - thesis
-date: 2009-08-05 11:16:44+10:00
+date: 2009-08-05 01:16:44
 next:
   text: Factors related to the breadth of use of LMS/VLE features
   url: /blog/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/
 previous:
   text: How will universities change over ten years?
   url: /blog/2009/08/04/how-will-universities-change-over-ten-years/
+template: blog-post.html
 title: How do you measure success with institutional use of an LMS/VLE?
 type: post
-template: blog-post.html
 ---
 My [PhD](/blog/research/phd-thesis/) is essentially arguing that most institutional approaches to e-learning within higher education (i.e. the adoption and long term use of an LMS) has some significant flaws. The thesis will/does describe one attempt to formulate an approach that is better. (Aside: I will not claim that the approach is the best, in fact I'll argue that the notion of there being "one best way" to support e-learning within a university is false.) The idea of "better" raises an interesting/important question, "How do you measure success with institutional use of an LMS?" How do you know if one approach is better than another?
 

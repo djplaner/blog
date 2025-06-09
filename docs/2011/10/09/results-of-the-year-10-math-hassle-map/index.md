@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - teaching
-date: 2011-10-09 14:00:54+10:00
+date: 2011-10-09 04:00:54
 next:
   text: '"Clickers", success, and why do I feel dirty?'
   url: /blog/2011/10/09/clickers-success-and-why-do-i-feel-dirty/
 previous:
   text: Social media in higher education - to read
   url: /blog/2011/09/26/4109/
+template: blog-post.html
 title: Results of the Year 10 math hassle map
 type: post
-template: blog-post.html
 ---
 A little while ago I [blogged about](/blog/2011/09/25/a-hassle-map-for-year-10-mathematics-you-cant-focus-on-the-negatives/) the idea of having the students in the Year 10 mathematics class I'm teaching generate a "hassle map". Essentially a list of the things that annoy them about the class with the aim of doing something about it. This week I implemented the idea. The following describes the week, talks about the responses from the students, and lays out some initial thoughts about what will happen next.
 

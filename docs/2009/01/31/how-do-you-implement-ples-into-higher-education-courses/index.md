@@ -1,82 +1,80 @@
----
+﻿---
 categories:
 - elearning
 - ple
 - plescquni
-date: 2009-01-31 10:18:35+10:00
+comments:
+- approved: '1'
+  author: jocene
+  author_email: j.vallack@cqu.edu.au
+  author_ip: 124.187.74.196
+  author_url: null
+  content: 'I keep trying to separate the notion of PLEs and that of Web 2.0 social
+    media tools. The latter may be used to construct various PLEs, but  even the sum
+    of these tools, in any PLE context, is still not the PLE itself. A suite of Web
+    2.0 tools is not a PLE. That''s where I stumble. If it were, then PLEs would be
+    easy to deal with. If it were, we would just add technological bits and pedagogical
+    pieces and we would be seen to be "doing" PLEs at CQU - but wait, there''s more:
+
+    As Atwell points out, individuals should be able to set their own learning goals
+    with PLEs. I think he is touching on my pet idea of PLEs being more of a concept
+    that a SUITE of tools. Conceptually, there is no reason why my PLE needs to service,
+    or make me accountable to a set course (in which I may be enrolled) if my way
+    of knowing (principle 2) does not match that of the course designer. Conceptually,
+    I will learn when I am ready to learn, and I will select the evidence I need from
+    seemingly infinite data, to bring me to the realisation that I know something.
+
+    ''Nice to be back into these mindbenders. The sentences just keep getting longer
+    and more and more and more complex. Cheers, David.'
+  date: '2009-01-31 22:53:19'
+  date_gmt: '2009-01-31 12:53:19'
+  id: '2097'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-01-31 00:18:35
 next:
   text: EasyCrop - preparing photos for the rotating banner
   url: /blog/2009/02/01/easycrop-preparing-photos-for-the-rotating-banner/
+pingbacks:
+- approved: '1'
+  author: What is a PLE? More than a suite of tools? More than social media? &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.226
+  author_url: https://djon.es/blog/2009/02/02/what-is-a-ple-more-than-a-suite-of-tools-more-than-social-media/
+  content: '[...] a PLE? More than a suite of tools? More than social&nbsp;media?  Jocene
+    and I are having a bit of a chat about PLEs and she raises a number of questions
+    or perspectives in her last comment in that discussion that [...]'
+  date: '2009-02-02 13:34:54'
+  date_gmt: '2009-02-02 03:34:54'
+  id: '2098'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Disruption and the &#8220;mythic&#8221; technologies of education &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/
+  content: '[...] is the time for experiments, lots and lots of experiments&#8221;
+    to me. Which brings me back to a previous post and the concept of safe-fail design
+    from Dave [...]'
+  date: '2009-04-14 10:58:33'
+  date_gmt: '2009-04-14 00:58:33'
+  id: '2099'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Using a blog for course design foult sessions
   url: /blog/2009/01/30/using-a-blog-for-course-design-foult-sessions/
 tags:
 - ple-elearning20
+template: blog-post.html
 title: How do you implement PLEs into higher education courses?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: jocene
-      author_email: j.vallack@cqu.edu.au
-      author_ip: 124.187.74.196
-      author_url: null
-      content: 'I keep trying to separate the notion of PLEs and that of Web 2.0 social
-        media tools. The latter may be used to construct various PLEs, but  even the sum
-        of these tools, in any PLE context, is still not the PLE itself. A suite of Web
-        2.0 tools is not a PLE. That''s where I stumble. If it were, then PLEs would be
-        easy to deal with. If it were, we would just add technological bits and pedagogical
-        pieces and we would be seen to be "doing" PLEs at CQU - but wait, there''s more:
-    
-        As Atwell points out, individuals should be able to set their own learning goals
-        with PLEs. I think he is touching on my pet idea of PLEs being more of a concept
-        that a SUITE of tools. Conceptually, there is no reason why my PLE needs to service,
-        or make me accountable to a set course (in which I may be enrolled) if my way
-        of knowing (principle 2) does not match that of the course designer. Conceptually,
-        I will learn when I am ready to learn, and I will select the evidence I need from
-        seemingly infinite data, to bring me to the realisation that I know something.
-    
-        ''Nice to be back into these mindbenders. The sentences just keep getting longer
-        and more and more and more complex. Cheers, David.'
-      date: '2009-01-31 22:53:19'
-      date_gmt: '2009-01-31 12:53:19'
-      id: '2097'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: What is a PLE? More than a suite of tools? More than social media? &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.226
-      author_url: https://djon.es/blog/2009/02/02/what-is-a-ple-more-than-a-suite-of-tools-more-than-social-media/
-      content: '[...] a PLE? More than a suite of tools? More than social&nbsp;media?  Jocene
-        and I are having a bit of a chat about PLEs and she raises a number of questions
-        or perspectives in her last comment in that discussion that [...]'
-      date: '2009-02-02 13:34:54'
-      date_gmt: '2009-02-02 03:34:54'
-      id: '2098'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Disruption and the &#8220;mythic&#8221; technologies of education &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/
-      content: '[...] is the time for experiments, lots and lots of experiments&#8221;
-        to me. Which brings me back to a previous post and the concept of safe-fail design
-        from Dave [...]'
-      date: '2009-04-14 10:58:33'
-      date_gmt: '2009-04-14 00:58:33'
-      id: '2099'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Jocene [reflects a bit](http://jocene.edublogs.org/2009/01/29/implementing-ples-like-we-are-supposed-to/) upon a [slidecast](http://www.pontydysgu.org/2009/01/personal-learning-environments-the-slidecast/) (titled "Personal Learning Environments: The future of education?") by [Graham Atwell](http://www.pontydysgu.org/blogs/waleswideweb/).
 

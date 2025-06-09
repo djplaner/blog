@@ -1,22 +1,22 @@
----
+﻿---
 categories:
 - bad
 - casa
 - digitalignorance
-date: 2021-06-04 15:57:46+10:00
+date: 2021-06-04 05:57:46
 next:
   text: Representing problems to make the solution transparent
   url: /blog/2021/10/23/representing-problems-to-make-the-solution-transparent/
 previous:
   text: On formal qualifications and improving learning and teaching
   url: /blog/2021/03/30/on-formal-qualifications-and-improving-learning-and-teaching/
+template: blog-post.html
 title: Exploring Dron's definition of educational technology
 type: post
-template: blog-post.html
 ---
 Pre-COVID the role of technology in learning and teaching in higher education was important. However, in 2020 it became core as part of the COVID response. Given the circumstances it is no surprise that chunks of that response were not that great. There was some good work. There was a lot of a "good enough for the situation" work. There was quite a bit that really sucked. For example,
 
-![Drake Hotline Bling Meme](images/privacy_proctoring.png)
+![Drake Hotline Bling Meme](https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/privacy_proctoring.png)
 
 Arugably, I'm not sure there's much difference from pre-COVID practice. Yes, COVID meant that the importance and spread of digital technology use was much, much higher. But, rapid adoption whilst responding to a pandemic was unlikely to be better (or as good?) qualitatively than previous practice. There just wasn't time for many to engage in the work required to question prior assumptions and redesign prior practices to suit the very different context and needs. Let alone harness technology transformatively.
 
@@ -38,7 +38,7 @@ Imagine you're responsible for running a tutorial at some educational institutio
 
 | Computer lab | Classroom |
 | --- | --- |
-| ![](images/640px-Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg) | ![](images/2021-05-01-07-25-50.png) |
+| ![](https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/640px-Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg) | ![](https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/2021-05-01-07-25-50.png) |
 | [Czeva](https://commons.wikimedia.org/wiki/File:Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg) , [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons | [Thedofc](https://commons.wikimedia.org/wiki/File:SWW-classroom1.jpg), Public domain, via Wikimedia Commons |
 
 Ask yourself these questions
@@ -76,7 +76,7 @@ Some assemblies of technologies are easier to orchestrate than others (e.g. the 
 
 For Dron, **pedagogies are a technology** and **education is a technology**. For some,
 
-![Them's fighting words](images/2021-05-01-13-18-26.png)
+![Them's fighting words](https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/2021-05-01-13-18-26.png)
 
 ### What is educational technology?
 
@@ -110,7 +110,7 @@ The technology that is the tutorial you are running, requires participation from
 
 Some technologies heavily pre-deterimine and restrict what form that participation takes. For example, the rigidity of the seating arrangements in the computer lab image above. There is very limited capacity to creatively orchestrate the seating arrangement in the computer lab. The students participation is largely (but not entirely) limited to sitting in rows. The constraints this type of technology places on our behaviour leads Dron to label them as **hard** technologies. But even hard technologies can orchestrated in different ways by coparticipants. Which in turn lead to different orchestrations.
 
-![](images/computerLabRules.png)
+![](https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/computerLabRules.png)
 
 Other technologies allow and may require more active and creative orchestration. As mentioned above, the classroom image includes seating that can be creatively arranged in different ways. It is a **soft** technology. The additional orchestration that soft technologies require, requires from us additional knowledge, skills, and activities (i.e additional technology) to be useful. Dron (2021) identifies "teaching methods, musical instruments and computers" as further examples of soft technologies. Technologies that require more from us in terms of orchestration. Soft technologies are harder to use.
 
@@ -124,7 +124,7 @@ For example, let's assume you want to paint a picture. The following images show
 
 | Hard is easy | Soft is hard |
 | --- | --- |
-| ![](images/paintByNumbers.png) | ![](images/blankCanvas.png) |
+| ![](https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/paintByNumbers.png) | ![](https://djon.es/assets/blog/2021/06/04/exploring-drons-definition-of-educational-technology/images/blankCanvas.png) |
 | [Aleksander Fedyanin](https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8B_%D0%BF%D0%BE_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC.jpg) [CC0](http://creativecommons.org/publicdomain/zero/1.0/), via Wikimedia Commons | [Small easel with a blank canvas](https://www.publicdomainpictures.net/en/view-image.php?image=62975&picture=small-easel-with-a-blank-canvas) [CC0](http://creativecommons.org/publicdomain/zero/1.0/) |
 
 Softness is not universally available. It can only be used if you have the awareness, permission, knowledge, and self-efficacy necessary to make use of it. Since I "know" I "can't paint", I'd almost certainly never even think of using of a blank canvas. But then if I'm painting by numbers, then I'm stuck with producing whatever painting has been embedded in this hard technology. At least as long as I expect the hardness. Nor is hard versus soft a categorisation, it's a spectrum.

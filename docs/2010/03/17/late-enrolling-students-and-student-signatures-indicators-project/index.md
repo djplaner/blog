@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - indicators
-date: 2010-03-17 11:56:34+10:00
+date: 2010-03-17 01:56:34
 next:
   text: The story of BIM - the slow expansion of BAM
   url: /blog/2010/03/17/the-story-of-bim-the-slow-expansion-of-bam/
 previous:
   text: The story of BIM - Development of BAM
   url: /blog/2010/03/17/the-story-of-bim-development-of-bam/
+template: blog-post.html
 title: Late enrolling students and student signatures - Indicators project?
 type: post
-template: blog-post.html
 ---
 Just floating another idea for a research project around the [Indicators project](http://indicatorsproject.wordpress.com/).
 

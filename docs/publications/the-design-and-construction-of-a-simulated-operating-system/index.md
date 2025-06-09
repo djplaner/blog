@@ -1,8 +1,8 @@
----
-date: 2009-01-02 13:06:50+10:00
+﻿---
+date: 2009-01-02 03:06:50
+template: blog-post.html
 title: The design and construction of a simulated operating system
 type: page
-template: blog-post.html
 ---
 Ron Chernich, David Jones. The Design and Construction of a Simulated Operating System, Asia Pacific Information Technology in Education Conference, Brisbane, July 1994.
 
@@ -94,7 +94,7 @@ With an almost total absence of global variables, each component is inherently c
 
 RCOS will currently work under the MS-DOS or Unix environments. Under MS-DOS the latest compiler from either Borland, Microsoft or Symantic is necessary. The Unix version requires X-Windows and a C++ compiler.
 
-[![RCOS CPU Scheduling screen](images/3155575043_734881cd22_m.jpg)](http://www.flickr.com/photos/david_jones/3155575043/ "RCOS CPU Scheduling screen by David T Jones, on Flickr")
+[![RCOS CPU Scheduling screen](https://djon.es/assets/blog/publications/the-design-and-construction-of-a-simulated-operating-system/images/3155575043_734881cd22_m.jpg)](http://www.flickr.com/photos/david_jones/3155575043/ "RCOS CPU Scheduling screen by David T Jones, on Flickr")
 
 Figure 1 - The CPU Scheduler Screen from RCOS.
 

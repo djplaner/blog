@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - anu
 - design-theory
 - phd
-date: 2009-02-27 15:29:33+10:00
+comments: []
+date: 2009-02-27 05:29:33
 next:
   text: '"PhD update #1 - the start of a tradition?"'
   url: /blog/2009/02/27/phd-update-1-the-start-of-a-tradition/
+pingbacks:
+- approved: '1'
+  author: 'PhD update #1 - the start of a tradition? &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 72.233.96.152
+  author_url: https://djon.es/blog/2009/02/27/phd-update-1-the-start-of-a-tradition/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Why formulaic guidance annoys experts and why they ignore the needs of the&nbsp;novice
+    [...]'
+  date: '2009-02-27 15:34:17'
+  date_gmt: '2009-02-27 05:34:17'
+  id: '2190'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Minute papers - encouraging reflection?
   url: /blog/2009/02/27/minute-papers-encouraging-relection/
+template: blog-post.html
 title: Why formulaic guidance annoys experts and why they ignore the needs of the
   novice
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD update #1 - the start of a tradition? &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 72.233.96.152
-      author_url: https://djon.es/blog/2009/02/27/phd-update-1-the-start-of-a-tradition/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Why formulaic guidance annoys experts and why they ignore the needs of the&nbsp;novice
-        [...]'
-      date: '2009-02-27 15:34:17'
-      date_gmt: '2009-02-27 05:34:17'
-      id: '2190'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [Shirley](http://www.cbe.anu.edu.au/staff/info.asp?surname=Gregor&firstname=Shirley) is keen to do some more work on the ["research note"](/blog/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/) suggesting a structure for a design theory/research thesis/paper. This was the appendix that was original part of [Gregor and Jones (2007)](http://aisel.aisnet.org/jais/vol8/iss5/1/) but which JAIS decided not to publish. The main reason was that the reviewers thought it boiled down the process of publishing to a formula, and they obviously thought this was a bad thing.
 

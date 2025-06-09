@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2006-09-28 09:11:19+10:00
+date: 2006-09-27 23:11:19
 next:
   text: UC Berkeley already using Google Video
   url: /blog/2006/09/28/uc-berkeley-already-using-google-video/
 previous:
   text: Web 2.0 - change in people and society
   url: /blog/2006/09/28/web-20-change-in-people-and-society/
+template: blog-post.html
 title: Social computing
 type: post
-template: blog-post.html
 ---
 Jeremy Geelan has a [post about "Social Computing": Oxymoron - or the biggest new thing since the web itself?](http://jeremy.linuxbloggers.com/social_computing_as_biggest_big_new_thing.htm).
 

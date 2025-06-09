@@ -1,43 +1,40 @@
----
+﻿---
 categories:
 - bad
-date: 2016-09-21 15:40:07+10:00
+comments:
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.33
+  author_url: https://djon.es/blog/
+  content: '<p>Reblogged this on <a href="https://oepuqusq.wordpress.com/2016/09/21/oep-institutions-and-culture/"
+    rel="nofollow">OEP @ UQ &amp; USQ</a> and commented: </p>
+
+    <p>Thinking about sustainability and the need to think of both our institutions
+    and teacher practice/culture. If we don''t then anything we do is likely to be
+    difficult to get started and even more difficult to maintain, especially if we
+    wander off.
+
+
+    Perhaps thinking about and identifying the sweet spots where integrating OEP into
+    our teaching and broader teacher practice is where we  need to look?</p>'
+  date: '2016-09-21 15:42:21'
+  date_gmt: '2016-09-21 05:42:21'
+  id: '3423'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2016-09-21 05:40:07
 next:
   text: Exploring Moodle Book usage - Part 8 - linking to and from
   url: /blog/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/
+pingbacks: []
 previous:
   text: What if our digital technologies were protean?
   url: /blog/2016/09/21/what-if-our-digital-technologies-were-protean/
+template: blog-post.html
 title: OEP, institutions and culture
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.33
-      author_url: https://djon.es/blog/
-      content: '<p>Reblogged this on <a href="https://oepuqusq.wordpress.com/2016/09/21/oep-institutions-and-culture/"
-        rel="nofollow">OEP @ UQ &amp; USQ</a> and commented: </p>
-    
-        <p>Thinking about sustainability and the need to think of both our institutions
-        and teacher practice/culture. If we don''t then anything we do is likely to be
-        difficult to get started and even more difficult to maintain, especially if we
-        wander off.
-    
-    
-        Perhaps thinking about and identifying the sweet spots where integrating OEP into
-        our teaching and broader teacher practice is where we  need to look?</p>'
-      date: '2016-09-21 15:42:21'
-      date_gmt: '2016-09-21 05:42:21'
-      id: '3423'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Some colleagues and I are [embarking on a project](https://oepuqusq.wordpress.com/) exploring how teacher education might move toward adoption Open Educational Practices (OEP). A project that is currently being driven by a funding from one University, and which might lead to an application for funding from another institution. In part, we're thinking about how teacher education in each of these two institutions can adopt OEP, what that might look like, what the barriers be, and how might we go about moving toward something like this that won't fade away once the money runs out or we move on.
 

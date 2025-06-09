@@ -1,65 +1,62 @@
----
+﻿---
 categories:
 - elearning
 - missingps
-date: 2006-10-25 10:59:05+10:00
+comments: []
+date: 2006-10-25 00:59:05
 next:
   text: '"Who is to blame for plagiarism: technology, lecturers or context?"'
   url: /blog/2006/10/25/who-is-to-blame-for-plagiarism-technology-lecturers-or-context/
+pingbacks:
+- approved: '1'
+  author: Patterns for e-learning - a lost opportunity or destined to fail &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
+  content: '[...] The myth that people are rational. Covering a number of limitations.
+    [...]'
+  date: '2009-02-22 21:50:48'
+  date_gmt: '2009-02-22 11:50:48'
+  id: '1519'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The myth of rationality in the selection of learning management systems/VLEs
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/
+  content: '[...] course, given what I think about people and rationality it is of
+    little surprise that I very much doubt that any of these processes could ever
+    be rational. [...]'
+  date: '2009-03-25 15:06:23'
+  date_gmt: '2009-03-25 05:06:23'
+  id: '1520'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'The life and death of Webfuse: lessons for learning and leading into the
+    future &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.2.43
+  author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+  content: '[...] model as it is applied to how people think/respond and also how
+    they are organised. (A people blog post from the [...]'
+  date: '2012-06-22 14:06:34'
+  date_gmt: '2012-06-22 04:06:34'
+  id: '1521'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The missing Ps - Past Experience
   url: /blog/2006/10/25/the-missing-ps-past-experience/
+template: blog-post.html
 title: The missing Ps - People
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Patterns for e-learning - a lost opportunity or destined to fail &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
-      content: '[...] The myth that people are rational. Covering a number of limitations.
-        [...]'
-      date: '2009-02-22 21:50:48'
-      date_gmt: '2009-02-22 11:50:48'
-      id: '1519'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The myth of rationality in the selection of learning management systems/VLEs
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/
-      content: '[...] course, given what I think about people and rationality it is of
-        little surprise that I very much doubt that any of these processes could ever
-        be rational. [...]'
-      date: '2009-03-25 15:06:23'
-      date_gmt: '2009-03-25 05:06:23'
-      id: '1520'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'The life and death of Webfuse: lessons for learning and leading into the
-        future &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.2.43
-      author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
-      content: '[...] model as it is applied to how people think/respond and also how
-        they are organised. (A people blog post from the [...]'
-      date: '2012-06-22 14:06:34'
-      date_gmt: '2012-06-22 04:06:34'
-      id: '1521'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 LMS adoption decisions are made by people. LMSes are used by people. The nature of those people who they are, how they think and what they believe, amongst other characteristics, have a significant impact.
 

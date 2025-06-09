@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-08-20 16:10:42+10:00
+date: 2010-08-20 06:10:42
 next:
   text: Off to see the dinosaurs
   url: /blog/2010/08/20/off-to-see-the-dinosaurs/
@@ -14,9 +14,9 @@ tags:
 - learning
 - learning-technology
 - technology
+template: blog-post.html
 title: The curse of simple diagrams
 type: post
-template: blog-post.html
 ---
 There is a lot I like about within this discussion of a "systems approach to e-learning". However, there is also much that I dislike.  
   
@@ -29,7 +29,7 @@ Amplify’d from [newsweaver.co.uk](http://newsweaver.co.uk/alt/e_article0014844
 > | careful |
 > | --- |
 
-> |   ![How technology fits into an organisation](images/1CEC496B-FA31-484F-B545-C9FBCAD95D1D)  [See more at newsweaver.co.uk](http://newsweaver.co.uk/alt/e_article001484468.cfm "http://newsweaver.co.uk/alt/e_article001484468.cfm") |
+> |   ![How technology fits into an organisation](https://djon.es/assets/blog/2010/08/20/the-curse-of-simple-diagrams/images/1CEC496B-FA31-484F-B545-C9FBCAD95D1D)  [See more at newsweaver.co.uk](http://newsweaver.co.uk/alt/e_article001484468.cfm "http://newsweaver.co.uk/alt/e_article001484468.cfm") |
 > | --- |
 
 See this Amp at [http://amplify.com/u/8w96](http://amplify.com/u/8w96)

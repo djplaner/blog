@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - edc3100
-date: 2015-08-13 13:02:39+10:00
+comments: []
+date: 2015-08-13 03:02:39
 next:
   text: How might github and the Moodle book module work together
   url: /blog/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/
+pingbacks:
+- approved: '1'
+  author: Who would have thought&#8230; | Eclectic Educational Experiences
+  author_email: null
+  author_ip: 192.0.86.139
+  author_url: https://samuelduffy.wordpress.com/2015/08/13/who-would-have-thought/
+  content: "[&#8230;] ICT knowledge and\_quizzes\_&#8211; A Blog from David Jones\
+    \ [&#8230;]"
+  date: '2015-08-13 18:03:00'
+  date_gmt: '2015-08-13 08:03:00'
+  id: '1373'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Possible sources of an institution&#039;s e-learning content problems
   url: /blog/2015/08/13/possible-sources-of-an-institutions-e-learning-content-problems/
+template: blog-post.html
 title: ICT knowledge and quizzes
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Who would have thought&#8230; | Eclectic Educational Experiences
-      author_email: null
-      author_ip: 192.0.86.139
-      author_url: https://samuelduffy.wordpress.com/2015/08/13/who-would-have-thought/
-      content: "[&#8230;] ICT knowledge and\_quizzes\_&#8211; A Blog from David Jones\
-        \ [&#8230;]"
-      date: '2015-08-13 18:03:00'
-      date_gmt: '2015-08-13 08:03:00'
-      id: '1373'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [Do you know more about computers than an 11-year-old?](http://www.mirror.co.uk/news/technology-science/technology/quiz-you-know-more-computers-5215618) is the title of an article from a UK newspaper. It contains an 11 question quiz that is apparently based on the primary school IT and computer science curriculum.
 

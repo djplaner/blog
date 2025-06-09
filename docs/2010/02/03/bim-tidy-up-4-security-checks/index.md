@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - bim
-date: 2010-02-03 15:37:46+10:00
+date: 2010-02-03 05:37:46
 next:
   text: '"BIM - Tidy up #4 - Getting ready for user testing"'
   url: /blog/2010/02/04/bim-tidy-up-4-getting-ready-for-user-testing/
@@ -9,9 +9,9 @@ previous:
   text: Loosing weight, nudging and changing the L&#038;T environment - early foundations
     of my work
   url: /blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
+template: blog-post.html
 title: '"BIM - Tidy up #4 - Security checks"'
 type: post
-template: blog-post.html
 ---
 The last tidy up of BIM resulted in some fairly major code changes as early design assumptions were over-turned in favour of more PHP/Moodle like approaches, not to mention general better design/structure. This tidy up turns to some of the more "housekeeping" types of tasks. This one seeks to ensure that BIM follows all of the security guidelines as [suggested on the Moodle site](http://docs.moodle.org/en/Development:Security)
 

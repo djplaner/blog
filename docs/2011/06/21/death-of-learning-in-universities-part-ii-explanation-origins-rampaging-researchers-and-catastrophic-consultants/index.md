@@ -1,44 +1,41 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-06-21 19:05:26+10:00
+comments:
+- approved: '1'
+  author: M-H
+  author_email: mhward@bigpond.net.au
+  author_ip: 124.188.144.133
+  author_url: null
+  content: Oh, I agreed with many of your comments; I wanted to point out that there
+    are  other models that are working. But yes, we are dogged with some requirements
+    that make us tend to the 'quality nazi', and it is really hard trying to avoid
+    the urge to paint the project outcomes as better than they are. But one of the
+    difficulties that I experience is 'selling' the value of eLearning to faculties
+    who aren't interested in T&amp;L at all - I guess they have a predominance of
+    'idiot academics'. It's hard not to paint them all with the same brush, and think
+    "If they'd only <i>listen</i> to us...'. My view is that there is a generational
+    change is needed, and will come. But I will be retired before it's worked its
+    way through, so I just keep plugging on.
+  date: '2011-06-21 20:23:19'
+  date_gmt: '2011-06-21 10:23:19'
+  id: '86'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-06-21 09:05:26
 next:
   text: Myself as teacher and learner
   url: /blog/2011/07/03/myself-as-teacher-and-learner/
+pingbacks: []
 previous:
   text: 'The death of learning in higher education: quality nazis, &quot;strategic&quot;
     leadership, blinkered project managers and idiot academics'
   url: /blog/2011/06/20/the-death-of-learning-in-higher-education-quality-nazis-strategic-leadership-blinkered-project-managers-and-idiot-academics/
+template: blog-post.html
 title: '"Death of learning in universities: Part II. Explanation, origins, rampaging
   researchers and catastrophic consultants"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: M-H
-      author_email: mhward@bigpond.net.au
-      author_ip: 124.188.144.133
-      author_url: null
-      content: Oh, I agreed with many of your comments; I wanted to point out that there
-        are  other models that are working. But yes, we are dogged with some requirements
-        that make us tend to the 'quality nazi', and it is really hard trying to avoid
-        the urge to paint the project outcomes as better than they are. But one of the
-        difficulties that I experience is 'selling' the value of eLearning to faculties
-        who aren't interested in T&amp;L at all - I guess they have a predominance of
-        'idiot academics'. It's hard not to paint them all with the same brush, and think
-        "If they'd only <i>listen</i> to us...'. My view is that there is a generational
-        change is needed, and will come. But I will be retired before it's worked its
-        way through, so I just keep plugging on.
-      date: '2011-06-21 20:23:19'
-      date_gmt: '2011-06-21 10:23:19'
-      id: '86'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 This is a follow-up to [a post](/blog/2011/06/20/the-death-of-learning-in-higher-education-quality-nazis-strategic-leadership-blinkered-project-managers-and-idiot-academics/) from yesterday that appears to have struck a chord. This post offers some additional explanation about the purpose and origins of the post and adds two more archetypes.
 

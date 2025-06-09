@@ -1,22 +1,18 @@
----
+﻿---
 categories:
 - alignment
-date: 2010-05-14 14:13:53+10:00
+comments: []
+date: 2010-05-14 04:13:53
 next:
   text: Some tweaks to the indicators block
   url: /blog/2010/05/14/some-tweaks-to-the-indicators-block/
+pingbacks: []
 previous:
   text: Getting started with Col&#039;s indicators block
   url: /blog/2010/05/13/getting-started-with-cols-indicators-block/
+template: blog-post.html
 title: Qualms about the alignment project
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 Yesterday, I posted a [draft of an application](/blog/2010/05/13/more-thinking-about-the-alignment-project/) for what is currently being called, the alignment project. [Stephen Downes](http://downes.ca/) has [commented](http://downes.ca/post/52394) on the alignment project in is [OLDaily](http://www.downes.ca/news/OLDaily.htm). Stephen's comments are
 

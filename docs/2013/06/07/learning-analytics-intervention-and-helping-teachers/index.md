@@ -1,182 +1,180 @@
----
+﻿---
 categories:
 - elearning
 - indicators
-date: 2013-06-07 14:12:54+10:00
+comments:
+- approved: '1'
+  author: Ian Reid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://www.facebook.com/ian.reid.9619
+  content: 'I think
+
+    "
+
+    * in the study environment.
+
+    * controllable by the user "
+
+
+    are the most important - and who''s the most important user? THE STUDENT!
+
+
+    Strange how little of the learning analytics movement focuses on students using
+    the data - so they can improve their learning. It would be a shame if LA was used
+    as another force away from student centred learning and towards entrenching the
+    ''sage on the stage'' paradigm...'
+  date: '2013-06-07 14:47:36'
+  date_gmt: '2013-06-07 04:47:36'
+  id: '778'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: 'I don''t disagree with the intent that the focus should be on student
+    learning.
+
+
+    But I''m not convinced that the most productive approach to improve student learning
+    is to focus on "performance support systems" for students.  Making a truly personal
+    performance support system (i.e. one the student makes the choice to install)
+    would be very difficult in terms of abstraction. Also, such a system is probably
+    more useful in the context of "informal" learning, rather than institutionalised
+    learning. Creating an institutionalised student system would likely raise adoption
+    and implementation issues. e.g. requiring a standardised set of approaches to
+    teaching etc.....
+
+
+    This is not to say that exploring such a path isn''t important. I hope and expect
+    others will explore it.
+
+
+    But I''m a fairly concrete, limited sort of guy.  Frankly, a lot of my rationale
+    for focusing on improving the systems for teachers is selfish. I''m currently
+    being hampered in what I can do in my own teaching because of the quality of the
+    tools and information I have access to.  A system like the above would help me
+    create and support student centered learning environments and probably end up
+    including some level of support for the student anyway.
+
+
+    In fact, in pondering this reply, I''m wondering whether the concepts of "student"
+    and "teacher" are part of the problem. Personally, I see my role as being a fellow
+    learner at some level.'
+  date: '2013-06-07 15:10:47'
+  date_gmt: '2013-06-07 05:10:47'
+  id: '779'
+  parent: '778'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Ian Reid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://www.facebook.com/ian.reid.9619
+  content: information = power :)
+  date: '2013-06-07 15:49:48'
+  date_gmt: '2013-06-07 05:49:48'
+  id: '780'
+  parent: '779'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Ian Reid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://www.facebook.com/ian.reid.9619
+  content: More food for thought... http://posthegemony.wordpress.com/2013/06/08/
+  date: '2013-06-12 11:47:31'
+  date_gmt: '2013-06-12 01:47:31'
+  id: '783'
+  parent: '779'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.185.216.39
+  author_url: https://djon.es/blog/
+  content: 'As it happens, I came across that link via another part of my PLN today.
+
+
+    I find myself in much agreement with the author re: paying the expert to provide
+    the solution. Especially, as noted, some of these experts are somewhat lacking
+    in background. Personally, I lay much of the blame at the feet of institutional
+    leadership and their search for quick, successful and universal solutions to just
+    about anything, including the quality of learning and teaching.
+
+
+    I see what I do as different. I''m not interested in universal solutions. I don''t
+    want to sell a product, but rather figure out what''s going to work for me, make
+    my job easier, more effective, more enjoyable. To a large extent to make it possible
+    to adopt some of the more radical perspectives on education within the current
+    system.  Actually, much, much more here.  Keep throwing them at me. Appreciate
+    it.'
+  date: '2013-06-13 21:17:05'
+  date_gmt: '2013-06-13 11:17:05'
+  id: '784'
+  parent: '783'
+  type: comment
+  user_id: '1'
+date: 2013-06-07 04:12:54
 next:
   text: The kludge for marking learning journals
   url: /blog/2013/06/10/the-kludge-for-marking-learning-journals/
+pingbacks:
+- approved: '1'
+  author: Learning analytics, intervention and helping te...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educacion-a-distancia-ead/p/4002860235/learning-analytics-intervention-and-helping-teachers
+  content: '[&#8230;] It seems to be the day for a backlash against learning analytics
+    or its parent big data. This morning my PLN has filtered to the top Taleb&#039;s
+    &quot;Beware the big errors of &#039;big data&#039;&quot; and Why big data i...&nbsp;
+    [&#8230;]'
+  date: '2013-06-07 16:45:12'
+  date_gmt: '2013-06-07 06:45:12'
+  id: '781'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The kludge for marking learning journals | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.232.113.11
+  author_url: https://djon.es/blog/2013/06/10/the-kludge-for-marking-learning-journals/
+  content: '[&#8230;] Not exactly a report located in &#8220;The Performance Zone&#8221;
+    talked about at the end of this post. On the plus side, this is informing some
+    further [&#8230;]'
+  date: '2013-06-10 11:09:03'
+  date_gmt: '2013-06-10 01:09:03'
+  id: '782'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: When is learning analytics not about the students? | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.232.113.87
+  author_url: https://djon.es/blog/2013/07/02/when-is-learning-analytics-not-about-the-students/
+  content: '[&#8230;] learning isn&#8217;t the only consideration. This picks up a
+    bit on the point Ian Reid made in comment on a prior [&#8230;]'
+  date: '2013-07-02 15:47:01'
+  date_gmt: '2013-07-02 05:47:01'
+  id: '785'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Animation over time of links between student posts
   url: /blog/2013/06/04/animation-over-time-of-links-between-student-posts/
+template: blog-post.html
 title: Learning analytics, intervention and helping teachers
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Ian Reid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://www.facebook.com/ian.reid.9619
-      content: 'I think
-    
-        "
-    
-        * in the study environment.
-    
-        * controllable by the user "
-    
-    
-        are the most important - and who''s the most important user? THE STUDENT!
-    
-    
-        Strange how little of the learning analytics movement focuses on students using
-        the data - so they can improve their learning. It would be a shame if LA was used
-        as another force away from student centred learning and towards entrenching the
-        ''sage on the stage'' paradigm...'
-      date: '2013-06-07 14:47:36'
-      date_gmt: '2013-06-07 04:47:36'
-      id: '778'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: 'I don''t disagree with the intent that the focus should be on student
-        learning.
-    
-    
-        But I''m not convinced that the most productive approach to improve student learning
-        is to focus on "performance support systems" for students.  Making a truly personal
-        performance support system (i.e. one the student makes the choice to install)
-        would be very difficult in terms of abstraction. Also, such a system is probably
-        more useful in the context of "informal" learning, rather than institutionalised
-        learning. Creating an institutionalised student system would likely raise adoption
-        and implementation issues. e.g. requiring a standardised set of approaches to
-        teaching etc.....
-    
-    
-        This is not to say that exploring such a path isn''t important. I hope and expect
-        others will explore it.
-    
-    
-        But I''m a fairly concrete, limited sort of guy.  Frankly, a lot of my rationale
-        for focusing on improving the systems for teachers is selfish. I''m currently
-        being hampered in what I can do in my own teaching because of the quality of the
-        tools and information I have access to.  A system like the above would help me
-        create and support student centered learning environments and probably end up
-        including some level of support for the student anyway.
-    
-    
-        In fact, in pondering this reply, I''m wondering whether the concepts of "student"
-        and "teacher" are part of the problem. Personally, I see my role as being a fellow
-        learner at some level.'
-      date: '2013-06-07 15:10:47'
-      date_gmt: '2013-06-07 05:10:47'
-      id: '779'
-      parent: '778'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Ian Reid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://www.facebook.com/ian.reid.9619
-      content: information = power :)
-      date: '2013-06-07 15:49:48'
-      date_gmt: '2013-06-07 05:49:48'
-      id: '780'
-      parent: '779'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Ian Reid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://www.facebook.com/ian.reid.9619
-      content: More food for thought... http://posthegemony.wordpress.com/2013/06/08/
-      date: '2013-06-12 11:47:31'
-      date_gmt: '2013-06-12 01:47:31'
-      id: '783'
-      parent: '779'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.185.216.39
-      author_url: https://djon.es/blog/
-      content: 'As it happens, I came across that link via another part of my PLN today.
-    
-    
-        I find myself in much agreement with the author re: paying the expert to provide
-        the solution. Especially, as noted, some of these experts are somewhat lacking
-        in background. Personally, I lay much of the blame at the feet of institutional
-        leadership and their search for quick, successful and universal solutions to just
-        about anything, including the quality of learning and teaching.
-    
-    
-        I see what I do as different. I''m not interested in universal solutions. I don''t
-        want to sell a product, but rather figure out what''s going to work for me, make
-        my job easier, more effective, more enjoyable. To a large extent to make it possible
-        to adopt some of the more radical perspectives on education within the current
-        system.  Actually, much, much more here.  Keep throwing them at me. Appreciate
-        it.'
-      date: '2013-06-13 21:17:05'
-      date_gmt: '2013-06-13 11:17:05'
-      id: '784'
-      parent: '783'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Learning analytics, intervention and helping te...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educacion-a-distancia-ead/p/4002860235/learning-analytics-intervention-and-helping-teachers
-      content: '[&#8230;] It seems to be the day for a backlash against learning analytics
-        or its parent big data. This morning my PLN has filtered to the top Taleb&#039;s
-        &quot;Beware the big errors of &#039;big data&#039;&quot; and Why big data i...&nbsp;
-        [&#8230;]'
-      date: '2013-06-07 16:45:12'
-      date_gmt: '2013-06-07 06:45:12'
-      id: '781'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The kludge for marking learning journals | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.232.113.11
-      author_url: https://djon.es/blog/2013/06/10/the-kludge-for-marking-learning-journals/
-      content: '[&#8230;] Not exactly a report located in &#8220;The Performance Zone&#8221;
-        talked about at the end of this post. On the plus side, this is informing some
-        further [&#8230;]'
-      date: '2013-06-10 11:09:03'
-      date_gmt: '2013-06-10 01:09:03'
-      id: '782'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: When is learning analytics not about the students? | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.232.113.87
-      author_url: https://djon.es/blog/2013/07/02/when-is-learning-analytics-not-about-the-students/
-      content: '[&#8230;] learning isn&#8217;t the only consideration. This picks up a
-        bit on the point Ian Reid made in comment on a prior [&#8230;]'
-      date: '2013-07-02 15:47:01'
-      date_gmt: '2013-07-02 05:47:01'
-      id: '785'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 It seems to be the day for a backlash against learning analytics or its parent big data. This morning my PLN has filtered to the top [Taleb's "Beware the big errors of 'big data'"](http://www.wired.com/opinion/2013/02/big-data-means-big-errors-people/) and [Why big data is not truth](http://mobile.nytimes.com/blogs/bits/2013/06/01/why-big-data-is-not-truth/). Not that surprising to me given that [I've argued](/blog/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/) that learning analytics in Universities has all hallmarks of yet another fad.
 
@@ -225,7 +223,7 @@ Which brings up the biggest barrier. The processes, systems, structures and peop
 
 And it's important, at least for this argument. Villachica et al (2006, p. 540) argue that the purpose of PSS is "expert-like performance from day 1 with little or no training" and that this can only occur within an appropriate zone - the "performance zone".
 
-[![The Performance Zone](images/8974958662_0a08817144.jpg)](http://www.flickr.com/photos/david_jones/8974958662/ "The Performance Zone by David T Jones, on Flickr")
+[![The Performance Zone](https://djon.es/assets/blog/2013/06/07/learning-analytics-intervention-and-helping-teachers/images/8974958662_0a08817144.jpg)](http://www.flickr.com/photos/david_jones/8974958662/ "The Performance Zone by David T Jones, on Flickr")
 
 Oh and here's a good quote that reinforces my point above
 

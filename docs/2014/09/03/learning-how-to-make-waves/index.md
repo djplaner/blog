@@ -1,83 +1,80 @@
----
+﻿---
 categories:
 - connectedcourses
 - edu8117
-date: 2014-09-03 12:33:26+10:00
+comments: []
+date: 2014-09-03 02:33:26
 next:
   text: The balkanisation threat to network learning
   url: /blog/2014/09/04/the-balkanisation-threat-to-network-learning/
+pingbacks:
+- approved: '1'
+  author: Thanks for the wave, David! | (sm)art education network
+  author_email: null
+  author_ip: 192.0.82.189
+  author_url: http://mari4art.wordpress.com/2014/09/05/thanks-for-the-wave-david/
+  content: '[&#8230;] in his course about Global and Networked Learning, I can honestly
+    say that his course has made excellent waves for me to get started as an active
+    networked and global learner/surfer in a vast ocean of knowledge. [&#8230;]'
+  date: '2014-09-06 02:33:44'
+  date_gmt: '2014-09-05 16:33:44'
+  id: '1070'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: As a student, participation in NGL was useful for me. | (sm)art education
+    network
+  author_email: null
+  author_ip: 192.0.81.100
+  author_url: http://mari4art.wordpress.com/2014/09/27/as-a-student-participation-in-ngl-was-useful-for-me/
+  content: '[&#8230;] a student, participation in NGL has provided the push of waves
+    mentioned in Jones&#8217;s (2014) blog post that I needed to get started as an
+    active networked and global learner, surfing the Web in a vast [&#8230;]'
+  date: '2014-09-27 21:01:13'
+  date_gmt: '2014-09-27 11:01:13'
+  id: '1071'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How NGL can inform my role as teacher | (sm)art education network
+  author_email: null
+  author_ip: 66.155.38.7
+  author_url: http://mari4art.wordpress.com/2014/09/27/how-ngl-can-inform-my-role-as-teacher/
+  content: '[&#8230;] also like to give my IBVA students access to a class blog and
+    my personal blog, and start some waves for them by commenting on their blogs and
+    linking their blogs to some of my posts. As I mentioned [&#8230;]'
+  date: '2014-09-27 21:33:49'
+  date_gmt: '2014-09-27 11:33:49'
+  id: '1072'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: As a learner, participation in NGL was useful for me but I now know why!
+    | EVEN ELMO&#039;S GOT A MOBILE
+  author_email: null
+  author_ip: 192.0.82.33
+  author_url: http://astrethewey.wordpress.com/2014/09/28/as-a-learner-participation-in-ngl-was-useful-for-me-but-i-now-know-why/
+  content: '[&#8230;] confronting and though I am not sure I am entirely comfortable
+    within diving head first into the wave just yet, I believe that the increasing
+    evidence I am accumulating that supports the benefits of [&#8230;]'
+  date: '2014-09-28 14:16:44'
+  date_gmt: '2014-09-28 04:16:44'
+  id: '1073'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Too much stuff, not enough time
   url: /blog/2014/09/02/too-much-stuff-not-enough-time/
+template: blog-post.html
 title: Learning how to make waves
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Thanks for the wave, David! | (sm)art education network
-      author_email: null
-      author_ip: 192.0.82.189
-      author_url: http://mari4art.wordpress.com/2014/09/05/thanks-for-the-wave-david/
-      content: '[&#8230;] in his course about Global and Networked Learning, I can honestly
-        say that his course has made excellent waves for me to get started as an active
-        networked and global learner/surfer in a vast ocean of knowledge. [&#8230;]'
-      date: '2014-09-06 02:33:44'
-      date_gmt: '2014-09-05 16:33:44'
-      id: '1070'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: As a student, participation in NGL was useful for me. | (sm)art education
-        network
-      author_email: null
-      author_ip: 192.0.81.100
-      author_url: http://mari4art.wordpress.com/2014/09/27/as-a-student-participation-in-ngl-was-useful-for-me/
-      content: '[&#8230;] a student, participation in NGL has provided the push of waves
-        mentioned in Jones&#8217;s (2014) blog post that I needed to get started as an
-        active networked and global learner, surfing the Web in a vast [&#8230;]'
-      date: '2014-09-27 21:01:13'
-      date_gmt: '2014-09-27 11:01:13'
-      id: '1071'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How NGL can inform my role as teacher | (sm)art education network
-      author_email: null
-      author_ip: 66.155.38.7
-      author_url: http://mari4art.wordpress.com/2014/09/27/how-ngl-can-inform-my-role-as-teacher/
-      content: '[&#8230;] also like to give my IBVA students access to a class blog and
-        my personal blog, and start some waves for them by commenting on their blogs and
-        linking their blogs to some of my posts. As I mentioned [&#8230;]'
-      date: '2014-09-27 21:33:49'
-      date_gmt: '2014-09-27 11:33:49'
-      id: '1072'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: As a learner, participation in NGL was useful for me but I now know why!
-        | EVEN ELMO&#039;S GOT A MOBILE
-      author_email: null
-      author_ip: 192.0.82.33
-      author_url: http://astrethewey.wordpress.com/2014/09/28/as-a-learner-participation-in-ngl-was-useful-for-me-but-i-now-know-why/
-      content: '[&#8230;] confronting and though I am not sure I am entirely comfortable
-        within diving head first into the wave just yet, I believe that the increasing
-        evidence I am accumulating that supports the benefits of [&#8230;]'
-      date: '2014-09-28 14:16:44'
-      date_gmt: '2014-09-28 04:16:44'
-      id: '1073'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
-[![Head down and making waves by Lincolnian (Brian), on Flickr](images/182268234_ec660f5e8e_m.jpg "Head down and making waves by Lincolnian (Brian), on Flickr")](https://www.flickr.com/photos/lincolnian/182268234/)  
-[![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/lincolnian/)[Lincolnian (Brian)](https://www.flickr.com/people/lincolnian/) [](http://www.imagecodr.org/)
+[![Head down and making waves by Lincolnian (Brian), on Flickr](https://djon.es/assets/blog/2014/09/03/learning-how-to-make-waves/images/182268234_ec660f5e8e_m.jpg "Head down and making waves by Lincolnian (Brian), on Flickr")](https://www.flickr.com/photos/lincolnian/182268234/)  
+[![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2014/09/03/learning-how-to-make-waves/images/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/lincolnian/)[Lincolnian (Brian)](https://www.flickr.com/people/lincolnian/) [](http://www.imagecodr.org/)
 
 Had to share this quote that I came across via [an artefact](http://aspire2teach.wordpress.com/2014/08/19/online-artefact-2/) produced by a student. Actually, the version I've found in the original is slightly different, but the intent is the same.
 
@@ -91,8 +88,8 @@ The trouble is that increasingly I'm thinking that what it means to a "knowledge
 
 ### What's missing?
 
-[![On Edge by jurvetson, on Flickr](images/1718831_994f6a403d_m.jpg "On Edge by jurvetson, on Flickr")](https://www.flickr.com/photos/jurvetson/1718831/)  
-[![Creative Commons Creative Commons Attribution 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/jurvetson/)[jurvetson](https://www.flickr.com/people/jurvetson/) [](http://www.imagecodr.org/)
+[![On Edge by jurvetson, on Flickr](https://djon.es/assets/blog/2014/09/03/learning-how-to-make-waves/images/1718831_994f6a403d_m.jpg "On Edge by jurvetson, on Flickr")](https://www.flickr.com/photos/jurvetson/1718831/)  
+[![Creative Commons Creative Commons Attribution 2.0 Generic License](https://djon.es/assets/blog/2014/09/03/learning-how-to-make-waves/images/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/jurvetson/)[jurvetson](https://www.flickr.com/people/jurvetson/) [](http://www.imagecodr.org/)
 
 Back in 2003 I wrote (Jones, 2003)
 

@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - bad
 - indicators
-date: 2016-03-18 06:10:59+10:00
+date: 2016-03-17 20:10:59
 next:
   text: '"OEP and Initial Teacher Education: Moving on from the horsey, horseless
     carriage"'
@@ -12,9 +12,9 @@ previous:
   url: /blog/2016/03/10/setting-up-an-excel-checklist/
 tags:
 - learninganalytics
+template: blog-post.html
 title: Early analysis of Moodle data
 type: post
-template: blog-post.html
 ---
 A small group of teacher educators that I work with are starting to explore some research ideas around engagement, initial teacher education, and in particular the questions that arise out of the [Quality Indicators for Learning and Teaching (QILT)](https://www.qilt.edu.au/)
 
@@ -70,17 +70,17 @@ The 4th year course was showing too many students. What's the go there?  Ahh, t
 
 ### Clicks and Grades
 
-Next question is if I can produce the slightly more useful pattern between participation and grade. [![Average student hits on course site/discussion forum for high staff participation courses](images/4037668845_dab85a9db1.jpg)](https://www.flickr.com/photos/david_jones/4037668845/in/album-72157608613577424/ "Average student hits on course site/discussion forum for high staff participation courses")
+Next question is if I can produce the slightly more useful pattern between participation and grade. [![Average student hits on course site/discussion forum for high staff participation courses](https://djon.es/assets/blog/2016/03/18/early-analysis-of-moodle-data/images/4037668845_dab85a9db1.jpg)](https://www.flickr.com/photos/david_jones/4037668845/in/album-72157608613577424/ "Average student hits on course site/discussion forum for high staff participation courses")
 
 That seems to be working, and some success with caching.
 
 Here's the first semester 2015 offering of the biggish 3rd year course from the table above (a course I teach).
 
-![EDC3100_2015_1.png](images/edc3100_2015_1.png)
+![EDC3100_2015_1.png](https://djon.es/assets/blog/2016/03/18/early-analysis-of-moodle-data/images/edc3100_2015_1.png)
 
 And here's the second semester 2015 offering of the same course.  The S1 offering has both on-campus and off-campus students.  The S2 offering is online only.
 
-![EDC3100_2015_2.png](images/edc3100_2015_2.png)
+![EDC3100_2015_2.png](https://djon.es/assets/blog/2016/03/18/early-analysis-of-moodle-data/images/edc3100_2015_2.png)
 
 ## What's left to do
 

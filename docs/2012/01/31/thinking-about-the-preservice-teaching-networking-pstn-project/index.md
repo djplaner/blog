@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - edc3100
 - pstn
 - teaching
-date: 2012-01-31 14:07:55+10:00
+comments: []
+date: 2012-01-31 04:07:55
 next:
   text: Thinking about Moodle course design
   url: /blog/2012/02/03/thinking-about-moodle-course-design/
+pingbacks:
+- approved: '1'
+  author: "#pstn \u2013 designing an in for the out | Left of the Gap"
+  author_email: null
+  author_ip: 205.186.176.16
+  author_url: http://research.sarahthorneycroft.com/2012/02/01/pstn-designing-an-in-for-the-out/
+  content: "[...] @djplaner&#8217;s post on the project\_-\_which is much more comprehensive\
+    \ and academic than I&#8217;ll ever be  . [...]"
+  date: '2012-04-19 09:19:18'
+  date_gmt: '2012-04-18 23:19:18'
+  id: '189'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Models of Teacher PD  for ICT integration
   url: /blog/2012/01/30/models-of-teacher-pd-for-ict-integration/
+template: blog-post.html
 title: '"Thinking about the Preservice teaching networking (#pstn) project"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: "#pstn \u2013 designing an in for the out | Left of the Gap"
-      author_email: null
-      author_ip: 205.186.176.16
-      author_url: http://research.sarahthorneycroft.com/2012/02/01/pstn-designing-an-in-for-the-out/
-      content: "[...] @djplaner&#8217;s post on the project\_-\_which is much more comprehensive\
-        \ and academic than I&#8217;ll ever be  . [...]"
-      date: '2012-04-19 09:19:18'
-      date_gmt: '2012-04-18 23:19:18'
-      id: '189'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 It appears that the planets have aligned to provide the opportunity to marry some of my teaching duties with the very interesting [Pre-Service Teaching Networking (#pstn) project](http://universityofawesome.org/pstn/). The [project's about](http://universityofawesome.org/pstn/about/) page gives a pretty good description and ther's more detail in a [related Google doc](https://docs.google.com/document/d/1p236nHH3Yrc9eZegHc9EYtKXj3-rPmB_I91hziEJUkE/edit?hl=en_US). There's also more in the project's outline.
 

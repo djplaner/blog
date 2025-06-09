@@ -1,76 +1,74 @@
----
+﻿---
 categories:
 - bim
-date: 2013-03-18 12:39:29+10:00
+comments:
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: Update, BIM approved at this level.  Next step the IT folk to see if the
+    module/code is "good".
+  date: '2013-03-18 13:52:43'
+  date_gmt: '2013-03-18 03:52:43'
+  id: '709'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2013-03-18 02:39:29
 next:
   text: Professional development is created, not provided
   url: /blog/2013/03/20/professional-development-is-created-not-provided/
+pingbacks:
+- approved: '1'
+  author: Does institutional e-learning have a TPACK problem? | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 76.74.255.31
+  author_url: https://djon.es/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
+  content: '[...] through the institutional processes to get BIM installed on the
+    institutional [...]'
+  date: '2013-03-22 10:16:21'
+  date_gmt: '2013-03-22 00:16:21'
+  id: '710'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Meaningless freedom and auto-marking the learning journals | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 66.155.9.108
+  author_url: https://djon.es/blog/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/
+  content: '[...] the organisational processes to consider installing it into the
+    institutional version of Moodle (this post details one step in the process). So
+    the plan [...]'
+  date: '2013-04-01 10:57:01'
+  date_gmt: '2013-04-01 00:57:01'
+  id: '711'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How to capture the &#8220;full benefits of the creative, original and imaginative
+    efforts of&#8221; teaching staff | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.232.117.18
+  author_url: https://djon.es/blog/2013/04/30/how-to-capture-the-full-benefits-of-the-creative-original-and-imaginative-efforts-of-teaching-staff/
+  content: '[...] example, as mentioned previously as part of the case for getting
+    BIM installed on the institutional version of Moodle I had to [...]'
+  date: '2013-04-30 11:54:05'
+  date_gmt: '2013-04-30 01:54:05'
+  id: '712'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Visualising the blog network of #edc3100 students'
   url: /blog/2013/03/18/visualising-the-blog-network-of-edc3100-students/
+template: blog-post.html
 title: '"BIM: Why and what?"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: Update, BIM approved at this level.  Next step the IT folk to see if the
-        module/code is "good".
-      date: '2013-03-18 13:52:43'
-      date_gmt: '2013-03-18 03:52:43'
-      id: '709'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Does institutional e-learning have a TPACK problem? | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 76.74.255.31
-      author_url: https://djon.es/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
-      content: '[...] through the institutional processes to get BIM installed on the
-        institutional [...]'
-      date: '2013-03-22 10:16:21'
-      date_gmt: '2013-03-22 00:16:21'
-      id: '710'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Meaningless freedom and auto-marking the learning journals | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 66.155.9.108
-      author_url: https://djon.es/blog/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/
-      content: '[...] the organisational processes to consider installing it into the
-        institutional version of Moodle (this post details one step in the process). So
-        the plan [...]'
-      date: '2013-04-01 10:57:01'
-      date_gmt: '2013-04-01 00:57:01'
-      id: '711'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How to capture the &#8220;full benefits of the creative, original and imaginative
-        efforts of&#8221; teaching staff | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.232.117.18
-      author_url: https://djon.es/blog/2013/04/30/how-to-capture-the-full-benefits-of-the-creative-original-and-imaginative-efforts-of-teaching-staff/
-      content: '[...] example, as mentioned previously as part of the case for getting
-        BIM installed on the institutional version of Moodle I had to [...]'
-      date: '2013-04-30 11:54:05'
-      date_gmt: '2013-04-30 01:54:05'
-      id: '712'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Have to give a 10 minute spiel to the USQ L&T Systems Advisory group soon to support a request to get BIM installed in the institutional Moodle instance. The slide set is below.
 

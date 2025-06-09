@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -7,69 +7,66 @@ categories:
 - psframework
 - reflectivealignment
 - thesis
-date: 2009-04-02 14:05:10+10:00
+comments: []
+date: 2009-04-02 04:05:10
 next:
   text: Measuring the design process - implications for learning design, e-learning
     and university teaching
   url: /blog/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
+pingbacks:
+- approved: '1'
+  author: Birnbaum&#8217;s fad cycle in higher education &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/
+  content: '[...] fad cycle in higher&nbsp;education  In a previous post I gave an
+    early conceptualisation of a cycle I was seeing in the history of educational
+    technology [...]'
+  date: '2009-04-06 15:31:57'
+  date_gmt: '2009-04-06 05:31:57'
+  id: '2365'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
+  content: '[...] Fad cycle in L&amp;T - historical viewA key result of the history
+    section of the thesis and some associated reading is the recognition that there
+    is a clear cycle at work with the application of technology to learning and teaching.
+    This post started to express some of these ideas. The cycle will be one of the
+    &#8220;lessons&#8221; arising from the &#8220;Past Experience&#8221; section of
+    Chapter 2. [...]'
+  date: '2009-04-17 14:23:04'
+  date_gmt: '2009-04-17 04:23:04'
+  id: '2366'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  content: '[...] from that time include: reflective alignment, task corruption, the
+    myth of rationality, the fad cycle and management fashions, the grammar of school,
+    nudging, the [...]'
+  date: '2013-01-24 15:06:22'
+  date_gmt: '2013-01-24 05:06:22'
+  id: '2367'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #6 - start of shortened weeks'
   url: /blog/2009/04/02/phd-update-6-start-of-shortened-weeks/
+template: blog-post.html
 title: '"The fad cycle in learning &#038; teaching - a historical perspective"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Birnbaum&#8217;s fad cycle in higher education &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/
-      content: '[...] fad cycle in higher&nbsp;education  In a previous post I gave an
-        early conceptualisation of a cycle I was seeing in the history of educational
-        technology [...]'
-      date: '2009-04-06 15:31:57'
-      date_gmt: '2009-04-06 05:31:57'
-      id: '2365'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
-      content: '[...] Fad cycle in L&amp;T - historical viewA key result of the history
-        section of the thesis and some associated reading is the recognition that there
-        is a clear cycle at work with the application of technology to learning and teaching.
-        This post started to express some of these ideas. The cycle will be one of the
-        &#8220;lessons&#8221; arising from the &#8220;Past Experience&#8221; section of
-        Chapter 2. [...]'
-      date: '2009-04-17 14:23:04'
-      date_gmt: '2009-04-17 04:23:04'
-      id: '2366'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
-      content: '[...] from that time include: reflective alignment, task corruption, the
-        myth of rationality, the fad cycle and management fashions, the grammar of school,
-        nudging, the [...]'
-      date: '2013-01-24 15:06:22'
-      date_gmt: '2013-01-24 05:06:22'
-      id: '2367'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In the next week [I've promised](/blog/2009/04/02/phd-update-6-start-of-shortened-weeks/) to get a more complete and academic version of the following onto the blog. But I have 30 minutes to spare so I thought I'd get a rough and ready version out.
 

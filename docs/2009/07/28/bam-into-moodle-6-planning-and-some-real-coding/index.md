@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - bam
-date: 2009-07-28 11:27:24+10:00
+comments: []
+date: 2009-07-28 01:27:24
 next:
   text: '"BAM into Moodle #7 - an eStudyGuide block"'
   url: /blog/2009/07/28/bam-into-moodle-7-an-estudyguide-block/
+pingbacks:
+- approved: '1'
+  author: 'BAM into Moodle #7 &#8211; an eStudyGuide block &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 66.135.48.208
+  author_url: https://djon.es/blog/2009/07/28/bam-into-moodle-7-an-estudyguide-block/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BAM into Moodle #6 &#8211; Planning and some real&nbsp;coding [...]'
+  date: '2009-07-28 15:48:27'
+  date_gmt: '2009-07-28 05:48:27'
+  id: '2667'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'BIM #1: Working on the prototype &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/08/11/bim-1-working-on-the-prototype/
+  content: '[...] A previous post outlined a list of tasks users will have to perform
+    with BAM. Each of these will have to be integrated into the prototype and decisions
+    made about how it will be implemented. In the following the tasks are divided
+    into students, coordinator and teaching staff. [...]'
+  date: '2009-08-11 14:31:21'
+  date_gmt: '2009-08-11 04:31:21'
+  id: '2668'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The intervention - Webfuse design 1996-1999
   url: /blog/2009/07/27/the-intervention-webfuse-design-1996-1999/
+template: blog-post.html
 title: '"BAM into Moodle #6 - Planning and some real coding"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'BAM into Moodle #7 &#8211; an eStudyGuide block &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 66.135.48.208
-      author_url: https://djon.es/blog/2009/07/28/bam-into-moodle-7-an-estudyguide-block/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BAM into Moodle #6 &#8211; Planning and some real&nbsp;coding [...]'
-      date: '2009-07-28 15:48:27'
-      date_gmt: '2009-07-28 05:48:27'
-      id: '2667'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'BIM #1: Working on the prototype &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/08/11/bim-1-working-on-the-prototype/
-      content: '[...] A previous post outlined a list of tasks users will have to perform
-        with BAM. Each of these will have to be integrated into the prototype and decisions
-        made about how it will be implemented. In the following the tasks are divided
-        into students, coordinator and teaching staff. [...]'
-      date: '2009-08-11 14:31:21'
-      date_gmt: '2009-08-11 04:31:21'
-      id: '2668'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [previous post](/blog/2009/07/23/bam-into-moodle-5-coding-a-block/) in this series started me along the lines of actually coding something in Moodle. It was only a pretend thing but indicated that blocks are fairly simple to implement. That previous post also pondered about the need to do some planning. Which brings me to the two main tasks for today
 

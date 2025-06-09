@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - web-20-course-sites
 - webfuse
-date: 2006-09-29 14:48:16+10:00
+date: 2006-09-29 04:48:16
 next:
   text: Today's knowledge climate - why Webfuse approach is better
   url: /blog/2006/09/30/todays-knowledge-climate-why-webfuse-approach-is-better/
 previous:
   text: FERPA as a barrier to open communication
   url: /blog/2006/09/29/ferpa-as-a-barrier-to-open-communication/
+template: blog-post.html
 title: What is online teaching
 type: post
-template: blog-post.html
 ---
 What is online teaching? asks
 

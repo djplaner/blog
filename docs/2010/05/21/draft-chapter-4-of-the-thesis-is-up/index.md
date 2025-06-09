@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - thesis
 - webfuse
-date: 2010-05-21 09:46:10+10:00
+date: 2010-05-20 23:46:10
 next:
   text: '"Understanding what teachers do: First step in improving L&#038;T"'
   url: /blog/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/
 previous:
   text: How curriculum mapping in Moodle might work
   url: /blog/2010/05/19/how-curriculum-mapping-in-moodle-might-work/
+template: blog-post.html
 title: Draft chapter 4 of the thesis is up
 type: post
-template: blog-post.html
 ---
 A couple of days ago I wrote the last few sentences for a fairly serious [first draft of chapter 4](http://davidtjones.files.wordpress.com/2010/05/chapter_4.pdf) of the [thesis](/blog/research/phd-thesis/). This chapter has to be re-read by me, read by my esteemed supervisor and then by a copy editor, so it's not finished yet. But it's a step closer.
 

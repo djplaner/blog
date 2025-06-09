@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -8,17 +8,17 @@ categories:
 - psframework
 - thesis
 - webfuse
-date: 2010-08-24 15:09:22+10:00
+date: 2010-08-24 05:09:22
 next:
   text: The end of management - lessons for universities?
   url: /blog/2010/08/24/the-end-of-management-lessons-for-universities/
 previous:
   text: Oil sheiks, Lucifer and university learning and teaching
   url: /blog/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/
+template: blog-post.html
 title: '"University e-learning systems: the need for new product and process models
   and some examples"'
 type: post
-template: blog-post.html
 ---
 I'm in the midst of the horrible task of trying to abstract what I think I know about implementing e-learning information systems within universities into the formal "language" required of an information systems design theory and a PhD thesis. This post is a welcome break from that, but is still connected in that it builds on what is perhaps fundamentally different between what most universities are currently doing, and what I think is a more effective approach. In particular, it highlights some more recent developments which are arguably a step towards what I'm thinking.
 

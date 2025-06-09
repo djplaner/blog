@@ -1,52 +1,50 @@
----
+﻿---
 categories:
 - connectedcourses
-date: 2014-09-02 10:19:25+10:00
+comments:
+- approved: '1'
+  author: KevinHodgson (@dogtrax)
+  author_email: dogtrax@twitter.example.com
+  author_ip: 159.250.64.7
+  author_url: http://twitter.com/dogtrax
+  content: 'Shiny new domains... that would be a good band name!
+
+    I think we are all struggling with time to do all that we want to do, so I figure,
+    just dip in when one can and take away what makes sense, and add to the discussions
+    when it works.
+
+    Kevin'
+  date: '2014-09-11 19:57:02'
+  date_gmt: '2014-09-11 09:57:02'
+  id: '1064'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2014-09-02 00:19:25
 next:
   text: Too much stuff, not enough time
   url: /blog/2014/09/02/too-much-stuff-not-enough-time/
+pingbacks:
+- approved: '1'
+  author: Signing up for Connected Courses | Web 2.0 Educ...
+  author_email: null
+  author_ip: 89.30.118.151
+  author_url: http://www.scoop.it/t/web-2-0-education/p/4027286360/2014/09/01/signing-up-for-connected-courses
+  content: '[&#8230;] So once again I venture into the realm of a &ldquo;MOOC&rdquo;.
+    Will be interesting to see if the organisers of Connected Courses shudder a little
+    bit when that particular label is used.&nbsp; [&#8230;]'
+  date: '2014-09-02 16:38:20'
+  date_gmt: '2014-09-02 06:38:20'
+  id: '1063'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Counting the uncountable - NGL participation
   url: /blog/2014/09/01/counting-the-uncountable-ngl-participation/
+template: blog-post.html
 title: Signing up for Connected Courses
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: KevinHodgson (@dogtrax)
-      author_email: dogtrax@twitter.example.com
-      author_ip: 159.250.64.7
-      author_url: http://twitter.com/dogtrax
-      content: 'Shiny new domains... that would be a good band name!
-    
-        I think we are all struggling with time to do all that we want to do, so I figure,
-        just dip in when one can and take away what makes sense, and add to the discussions
-        when it works.
-    
-        Kevin'
-      date: '2014-09-11 19:57:02'
-      date_gmt: '2014-09-11 09:57:02'
-      id: '1064'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Signing up for Connected Courses | Web 2.0 Educ...
-      author_email: null
-      author_ip: 89.30.118.151
-      author_url: http://www.scoop.it/t/web-2-0-education/p/4027286360/2014/09/01/signing-up-for-connected-courses
-      content: '[&#8230;] So once again I venture into the realm of a &ldquo;MOOC&rdquo;.
-        Will be interesting to see if the organisers of Connected Courses shudder a little
-        bit when that particular label is used.&nbsp; [&#8230;]'
-      date: '2014-09-02 16:38:20'
-      date_gmt: '2014-09-02 06:38:20'
-      id: '1063'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 So once again I venture into the realm of a "MOOC". Will be interesting to see if the organisers of [Connected Courses](http://connectedcourses.net/) shudder a little bit when that particular label is used. Especially given that Connected Courses is being described as
 

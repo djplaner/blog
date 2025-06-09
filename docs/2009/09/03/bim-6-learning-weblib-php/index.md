@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2009-09-03 15:56:04+10:00
+date: 2009-09-03 05:56:04
 next:
   text: '"Phd Update #23 - Getting closer to the end of chapter 2"'
   url: /blog/2009/09/03/phd-update-23-getting-closer-to-the-end-of-chapter-2/
 previous:
   text: Lessons from product for e-learning
   url: /blog/2009/09/02/lessons-from-product-for-e-learning/
+template: blog-post.html
 title: '"BIM #6 - Learning weblib.php"'
 type: post
-template: blog-post.html
 ---
 It's been a while since I [last did some work on BIM](/blog/2009/08/20/bim5-getting-a-prototype-bim-going/), various other tasks getting in the way. The main mid-term KPI is the delivery of a working prototype of BIM working within Moodle. That's what I started in the last bit of work.
 
@@ -185,4 +185,4 @@ Some questions that arise out of that:
 
 Time to get some hard-coded HTML in place. Work on the default view for students that shows their details, blog posts and other stuff. Working, alright for first step. More next week.
 
-[![BIM student details](images/3882960287_d817272c05_m.jpg)](http://www.flickr.com/photos/david_jones/3882960287/ "BIM student details by David T Jones, on Flickr")
+[![BIM student details](https://djon.es/assets/blog/2009/09/03/bim-6-learning-weblib-php/images/3882960287_d817272c05_m.jpg)](http://www.flickr.com/photos/david_jones/3882960287/ "BIM student details by David T Jones, on Flickr")

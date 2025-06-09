@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,35 +6,32 @@ categories:
 - phd
 - psframework
 - thesis
-coverImage: 3819172601_39a5a27300_o-scaled-e1590632325204.jpg
-date: 2009-08-31 14:32:56+10:00
+comments: []
+coverImage: https://djon.es/assets/blog/2009/08/31/product-models-lms-bob-and-alternatives/images/3819172601_39a5a27300_o-scaled-e1590632325204.jpg
+date: 2009-08-31 04:32:56
 next:
   text: '"e&#038;i report #2 - 20th August - 1st September"'
   url: /blog/2009/09/01/ei-report-2-20-25th-august/
+pingbacks:
+- approved: '1'
+  author: Thoughts on &#8220;Insidiuous pedagogy&#8221; &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 66.135.48.206
+  author_url: https://djon.es/blog/2009/10/06/thoughts-on-insidiuous-pedagogy/
+  content: '[...] Adopt a best of breed approach for the CMS. [...]'
+  date: '2009-10-06 11:07:39'
+  date_gmt: '2009-10-06 01:07:39'
+  id: '2738'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Procurement and software: alternate models for e-learning'
   url: /blog/2009/08/31/procurement-and-software-alternate-models-for-e-learning/
+template: blog-post.html
 title: Product models - LMS, BoB and alternatives
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Thoughts on &#8220;Insidiuous pedagogy&#8221; &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 66.135.48.206
-      author_url: https://djon.es/blog/2009/10/06/thoughts-on-insidiuous-pedagogy/
-      content: '[...] Adopt a best of breed approach for the CMS. [...]'
-      date: '2009-10-06 11:07:39'
-      date_gmt: '2009-10-06 01:07:39'
-      id: '2738'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following completes the "alternate models" section of the Product component started in a [previous post](/blog/2009/08/31/procurement-and-software-alternate-models-for-e-learning/). It's a bit rough and ready, but hopefully good enough.
 

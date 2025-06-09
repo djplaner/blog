@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - elearning
 - innovation
-date: 2009-12-11 11:42:08+10:00
+comments: []
+date: 2009-12-11 01:42:08
 next:
   text: '"Getting back into BIM: Summary and way forward"'
   url: /blog/2009/12/14/getting-back-into-bim-summary-and-way-forward/
+pingbacks:
+- approved: '1'
+  author: Communication and Blame in HE &laquo; Enable
+  author_email: null
+  author_ip: 66.135.48.201
+  author_url: http://jiscenable.wordpress.com/2009/12/14/communication-and-blame-in-he/
+  content: '[...] Jones (https://djon.es/blog/2009/12/11/the-innovation-prevention-department-why/)
+    also discusses the IPD themes, and talks about how there is a need, not to justify
+    the actions [...]'
+  date: '2009-12-16 22:24:00'
+  date_gmt: '2009-12-16 12:24:00'
+  id: '2884'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Change the environment, not the culture
   url: /blog/2009/12/09/change-the-environment-not-the-culture/
 tags:
 - ascilite09
+template: blog-post.html
 title: '"The Innovation Prevention Department: Why?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Communication and Blame in HE &laquo; Enable
-      author_email: null
-      author_ip: 66.135.48.201
-      author_url: http://jiscenable.wordpress.com/2009/12/14/communication-and-blame-in-he/
-      content: '[...] Jones (https://djon.es/blog/2009/12/11/the-innovation-prevention-department-why/)
-        also discusses the IPD themes, and talks about how there is a need, not to justify
-        the actions [...]'
-      date: '2009-12-16 22:24:00'
-      date_gmt: '2009-12-16 12:24:00'
-      id: '2884'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The final keynote at [ASCILITE'09](http://www.ascilite.org.au/conferences/auckland09/) was by [James Clay](http://elearningstuff.wordpress.com/) and was titled the [Future of Learning](http://www.slideshare.net/ULCCEvents/fote09-james-clay-future-of-learning) (this is a link to an apparently earlier presentation by same author, same topic). Many aspects of the talk resonated with many in the audience, however, the one that perhaps resonated the most was that of the Innovation Prevention Department.
 

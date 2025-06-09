@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -7,36 +7,33 @@ categories:
 - psframework
 - quotes
 - thesis
-date: 2009-07-24 15:06:39+10:00
+comments: []
+date: 2009-07-24 05:06:39
 next:
   text: ePortfolios in universities - forget it?
   url: /blog/2009/07/26/eportfolios-in-universities-forget-it/
+pingbacks:
+- approved: '1'
+  author: The dissonance between the constructivist paradigm and institutional e-learning
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.144
+  author_url: https://djon.es/blog/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
+  content: '[...] a completely different set of processes that is overly teleological
+    and can really only ever engage in interaction and negotiations at the strategic
+    level. There&#8217;s much more to say here, but for another [...]'
+  date: '2011-03-02 21:57:47'
+  date_gmt: '2011-03-02 11:57:47'
+  id: '2654'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BAM into Moodle #5 - Coding a block?'
   url: /blog/2009/07/23/bam-into-moodle-5-coding-a-block/
+template: blog-post.html
 title: Wicked problems, requirements gathering and the LMS approach to e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The dissonance between the constructivist paradigm and institutional e-learning
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.144
-      author_url: https://djon.es/blog/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
-      content: '[...] a completely different set of processes that is overly teleological
-        and can really only ever engage in interaction and negotiations at the strategic
-        level. There&#8217;s much more to say here, but for another [...]'
-      date: '2011-03-02 21:57:47'
-      date_gmt: '2011-03-02 11:57:47'
-      id: '2654'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Increasingly, the IT requirements of organisations are being met through the application of "enterprise systems". Large systems created by commercial vendors (though increasingly there are also open source variants, which while offering small improvements still suffer some of the same problems) that are meant to provide an integrated solution to a large scale system with an appraoch that combines "best practice" processes and techniques with information technology that will "scale" to meet the requirements of the organisation. Examples including ERP systems like Peoplesoft for finance, human resources and, at universities, student enrolment. In terms of e-learning at Universities the current dominant approach is also to employ "enterprise systems". With e-learning the "enterprise system" is known as the learning management system (lms), course management system (cms), virtual learning environment (vle) or some other 3 letter acronym. Examples include: Blackboard, Moodle and Sakai.
 

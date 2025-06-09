@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - enterprise-20
-date: 2006-10-10 10:21:46+10:00
+date: 2006-10-10 00:21:46
 next:
   text: Helping "NESB" students realise - there is no one answer
   url: /blog/2006/10/11/helping-nesb-students-realise-there-is-no-one-answer/
 previous:
   text: Questioning the value of group work
   url: /blog/2006/10/04/questioning-the-value-of-group-work/
+template: blog-post.html
 title: When will enterprises truly embrace Enterprise 2.0 applications?
 type: post
-template: blog-post.html
 ---
 The following reflection (you may prefer drivel, but each to their own) has been sparked by [a comment](http://cq-pan.cqu.edu.au/david-jones/blog/?p=44#comment-17) by [Susan Scrupski](http://susanitsa.wordpress.com/) on a [previous post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=44). It's also been driven along by some of the reading I've been doing in the blogosphere in the last week or so.
 

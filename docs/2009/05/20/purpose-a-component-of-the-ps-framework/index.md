@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-05-20 23:01:41+10:00
+comments: []
+date: 2009-05-20 13:01:41
 next:
   text: Where's the inspiration? Where's the desire to improve?
   url: /blog/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/
+pingbacks:
+- approved: '1'
+  author: 'Phd Update #12 &#8211; some progress, but late &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/05/23/phd-update-12-some-progress-but-late/
+  content: "[...] the same thing for \u201CPurpose\u201D. &#8211; DONEThis was the\
+    \ major task this week that resulted in this post. It&#8217;s much shorter than\
+    \ the other sections. To some extent this is due to the nature of the [...]"
+  date: '2009-05-23 07:20:36'
+  date_gmt: '2009-05-22 21:20:36'
+  id: '2520'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Another cultural conflict
   url: /blog/2009/05/20/another-cultural-conflict/
+template: blog-post.html
 title: Purpose - a component of the Ps Framework
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Phd Update #12 &#8211; some progress, but late &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/05/23/phd-update-12-some-progress-but-late/
-      content: "[...] the same thing for \u201CPurpose\u201D. &#8211; DONEThis was the\
-        \ major task this week that resulted in this post. It&#8217;s much shorter than\
-        \ the other sections. To some extent this is due to the nature of the [...]"
-      date: '2009-05-23 07:20:36'
-      date_gmt: '2009-05-22 21:20:36'
-      id: '2520'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is yet another section from chapter two of my [thesis](/blog/research/phd-thesis/). As with previous sections, this is an early first draft, it will change.
 

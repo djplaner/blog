@@ -1,54 +1,52 @@
----
+﻿---
 categories:
 - irac
 - learninganalytics-elearning
-date: 2015-02-02 12:37:18+10:00
+comments:
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://users.on.net/~iancreid/
+  content: 'David
+
+
+    Strongly support your take on this. When teachers AND LEARNERS can access and
+    act upon the information, then it MAY be useful.
+
+
+    Good to see!'
+  date: '2015-02-02 13:01:30'
+  date_gmt: '2015-02-02 03:01:30'
+  id: '1215'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2015-02-02 02:37:18
 next:
   text: '"Concrete lounge #1 - Helping learners find correct, up-to-date course information"'
   url: /blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
+pingbacks:
+- approved: '1'
+  author: This Week in Learning Analytics (Jan 31 &#8211; Feb 6, 2015) | Timothy D.
+    Harfield
+  author_email: null
+  author_ip: 173.205.127.22
+  author_url: http://timothyharfield.com/blog/2015/02/06/twila_20150206/
+  content: '[&#8230;] SOURCE: https://davidtjones.wordpress.com/2015/02/02/learning-analytics-is-better-when/
+    [&#8230;]'
+  date: '2015-02-07 05:31:46'
+  date_gmt: '2015-02-06 19:31:46'
+  id: '1216'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Using the PIRAC - Thinking about an &quot;integrated dashboard&quot;
   url: /blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
+template: blog-post.html
 title: Learning analytics is better when.....?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://users.on.net/~iancreid/
-      content: 'David
-    
-    
-        Strongly support your take on this. When teachers AND LEARNERS can access and
-        act upon the information, then it MAY be useful.
-    
-    
-        Good to see!'
-      date: '2015-02-02 13:01:30'
-      date_gmt: '2015-02-02 03:01:30'
-      id: '1215'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: This Week in Learning Analytics (Jan 31 &#8211; Feb 6, 2015) | Timothy D.
-        Harfield
-      author_email: null
-      author_ip: 173.205.127.22
-      author_url: http://timothyharfield.com/blog/2015/02/06/twila_20150206/
-      content: '[&#8230;] SOURCE: https://davidtjones.wordpress.com/2015/02/02/learning-analytics-is-better-when/
-        [&#8230;]'
-      date: '2015-02-07 05:31:46'
-      date_gmt: '2015-02-06 19:31:46'
-      id: '1216'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Trying to capture some thinking that arose during an institutional meeting re: learning analytics. The meeting was somewhat positive, but - as is not uncommon - there seemed to be some limitations around what learning analytics actually is and what it might look like. Wondering if the following framing might help it draws on points made by numerous people about learning analytics and some strong echoes of [the (P)IRAC framework](/blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/)
 

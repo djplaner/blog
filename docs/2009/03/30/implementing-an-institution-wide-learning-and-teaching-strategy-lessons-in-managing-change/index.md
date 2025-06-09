@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,134 +6,132 @@ categories:
 - reading
 - reflectivealignment
 - thesis
-date: 2009-03-30 21:41:59+10:00
+comments:
+- approved: '1'
+  author: strategic change management
+  author_email: null
+  author_ip: 64.168.96.36
+  author_url: http://blog.leadingresources.com/81/strategic-change-management
+  content: '<strong>strategic change management...</strong>
+
+
+    Great post. My approach to strategic change management says the quality of the
+    first five percent determines what happens in the rest of the process. This same
+    principle applies to many situations....'
+  date: '2009-09-12 05:09:33'
+  date_gmt: '2009-09-11 19:09:33'
+  id: '2351'
+  parent: '0'
+  type: trackback
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Eric,
+
+
+    Having looked at the post linked in your comment, I find myself disagreeing somewhat.  The
+    figure you have especially, implies to me a very <a href="https://djon.es/blog/2009/06/05/teleological-design-definition-and-weaknesses/"
+    rel="nofollow">teleological approach to change</a> which for most current contexts
+    appears to be fundamentally broken.
+
+
+    I briefly indicated that one of the flaws that I think exists with the paper I
+    was summarising, is that it recognises many of the symptoms that arise from the
+    "brokenness" of teleological processes for current contexts, but doesn''t recognise
+    the need for something different.
+
+
+    One of my themes is that <a href="https://djon.es/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/"
+    rel="nofollow">ateleological processes</a> - especially when informed by ideas
+    from complex adaptive systems - offer a more appropriate approach to change in
+    most modern organisations.
+
+
+    Your mileage may vary.
+
+
+    David.'
+  date: '2009-09-12 09:02:16'
+  date_gmt: '2009-09-11 23:02:16'
+  id: '2352'
+  parent: '2351'
+  type: comment
+  user_id: '1'
+date: 2009-03-30 11:41:59
 next:
   text: '"PhD Update #6 - start of shortened weeks"'
   url: /blog/2009/04/02/phd-update-6-start-of-shortened-weeks/
+pingbacks:
+- approved: '1'
+  author: 'Blog: Higher Education, David Jones - elearnspace'
+  author_email: null
+  author_ip: 66.230.199.234
+  author_url: http://www.elearnspace.org/blog/2009/03/30/blog-higher-education-david-jones/
+  content: '[...] For about a month or so, I&#8217;ve been following one of the more
+    thoughtful blogs on educational change, teaching, technology, and a bit of strategy
+    written by David Jones. As the blog is being used to support PhD research, the
+    author provides resources and articles with a more academic slant than found on
+    many blogs. Consider the recent post on Implementing an institution-wide learning
+    and technology strategy. [...]'
+  date: '2009-03-31 02:50:48'
+  date_gmt: '2009-03-30 16:50:48'
+  id: '2347'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Game Based Learning | Online creative communications
+  author_email: null
+  author_ip: 81.187.167.23
+  author_url: http://blog.onlinecc.co.uk/?p=236
+  content: '[...] Implementing an institution-wide learning and teaching strategy
+    &#8230; [...]'
+  date: '2009-03-31 20:57:57'
+  date_gmt: '2009-03-31 10:57:57'
+  id: '2348'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #6 - start of shortened weeks &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/04/02/phd-update-6-start-of-shortened-weeks/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Implementing an institution-wide learning and teaching strategy: lessons in managing&nbsp;change
+    [...]'
+  date: '2009-04-02 13:21:44'
+  date_gmt: '2009-04-02 03:21:44'
+  id: '2349'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Measuring the design process - implications for learning design, e-learning
+    and university teaching &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.206
+  author_url: https://djon.es/blog/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
+  content: '[...] has a nice section on some of the external factors that have contributed
+    to this rise, I&#8217;ve summarised Newton here. Further underpinning this rise
+    has been what Birnbaum (2000) calls &#8220;education&#8217;s Second [...]'
+  date: '2009-04-05 13:17:50'
+  date_gmt: '2009-04-05 03:17:50'
+  id: '2350'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Prescription, adaptation and failure around improving univeristy teaching
   url: /blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
+template: blog-post.html
 title: '"Implementing an institution-wide learning and teaching strategy: lessons
   in managing change"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: strategic change management
-      author_email: null
-      author_ip: 64.168.96.36
-      author_url: http://blog.leadingresources.com/81/strategic-change-management
-      content: '<strong>strategic change management...</strong>
-    
-    
-        Great post. My approach to strategic change management says the quality of the
-        first five percent determines what happens in the rest of the process. This same
-        principle applies to many situations....'
-      date: '2009-09-12 05:09:33'
-      date_gmt: '2009-09-11 19:09:33'
-      id: '2351'
-      parent: '0'
-      type: trackback
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Eric,
-    
-    
-        Having looked at the post linked in your comment, I find myself disagreeing somewhat.  The
-        figure you have especially, implies to me a very <a href="https://djon.es/blog/2009/06/05/teleological-design-definition-and-weaknesses/"
-        rel="nofollow">teleological approach to change</a> which for most current contexts
-        appears to be fundamentally broken.
-    
-    
-        I briefly indicated that one of the flaws that I think exists with the paper I
-        was summarising, is that it recognises many of the symptoms that arise from the
-        "brokenness" of teleological processes for current contexts, but doesn''t recognise
-        the need for something different.
-    
-    
-        One of my themes is that <a href="https://djon.es/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/"
-        rel="nofollow">ateleological processes</a> - especially when informed by ideas
-        from complex adaptive systems - offer a more appropriate approach to change in
-        most modern organisations.
-    
-    
-        Your mileage may vary.
-    
-    
-        David.'
-      date: '2009-09-12 09:02:16'
-      date_gmt: '2009-09-11 23:02:16'
-      id: '2352'
-      parent: '2351'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Blog: Higher Education, David Jones - elearnspace'
-      author_email: null
-      author_ip: 66.230.199.234
-      author_url: http://www.elearnspace.org/blog/2009/03/30/blog-higher-education-david-jones/
-      content: '[...] For about a month or so, I&#8217;ve been following one of the more
-        thoughtful blogs on educational change, teaching, technology, and a bit of strategy
-        written by David Jones. As the blog is being used to support PhD research, the
-        author provides resources and articles with a more academic slant than found on
-        many blogs. Consider the recent post on Implementing an institution-wide learning
-        and technology strategy. [...]'
-      date: '2009-03-31 02:50:48'
-      date_gmt: '2009-03-30 16:50:48'
-      id: '2347'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Game Based Learning | Online creative communications
-      author_email: null
-      author_ip: 81.187.167.23
-      author_url: http://blog.onlinecc.co.uk/?p=236
-      content: '[...] Implementing an institution-wide learning and teaching strategy
-        &#8230; [...]'
-      date: '2009-03-31 20:57:57'
-      date_gmt: '2009-03-31 10:57:57'
-      id: '2348'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #6 - start of shortened weeks &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/04/02/phd-update-6-start-of-shortened-weeks/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Implementing an institution-wide learning and teaching strategy: lessons in managing&nbsp;change
-        [...]'
-      date: '2009-04-02 13:21:44'
-      date_gmt: '2009-04-02 03:21:44'
-      id: '2349'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Measuring the design process - implications for learning design, e-learning
-        and university teaching &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.206
-      author_url: https://djon.es/blog/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
-      content: '[...] has a nice section on some of the external factors that have contributed
-        to this rise, I&#8217;ve summarised Newton here. Further underpinning this rise
-        has been what Birnbaum (2000) calls &#8220;education&#8217;s Second [...]'
-      date: '2009-04-05 13:17:50'
-      date_gmt: '2009-04-05 03:17:50'
-      id: '2350'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary and possibly some reflection on Newton (2003). I'm still trying to decide if, as I read literature associated with [the PhD](/blog/research/phd-thesis/), if I should take the time to produce these summaries. I wonder if, instead, I should concentrate on writing the thesis....
 

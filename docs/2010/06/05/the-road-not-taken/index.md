@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - herding-cats
 - reflectivealignment
-date: 2010-06-05 09:03:26+10:00
+date: 2010-06-04 23:03:26
 next:
   text: Emergent and agile development
   url: /blog/2010/06/05/emergent-and-agile-development/
 previous:
   text: Adopter focused development and diffusion theory
   url: /blog/2010/06/04/adopter-focused-development-and-diffusion-theory/
+template: blog-post.html
 title: The road not taken
 type: post
-template: blog-post.html
 ---
 A [recent post](/blog/2010/06/02/the-role-of-experience/) of mine continued the trend of reflecting on the impacts - in my mind negative impacts - of a top-down, compliance driven culture in higher education. This bit has been encouraged by [a comment](/blog/2010/06/02/the-role-of-experience/#comment-3217) on that post which makes a number of interesting points, at least in terms of encouraging some additional thinking on my part. It's also serindipitously coincided with some recent local events.
 
@@ -53,7 +53,7 @@ In terms of the third way, I should have mentioned Dave Snowden's "how to manage
 - ordered system == what management does.
 - complex system == what the teacher does.
 
-\[youtube=http://www.youtube.com/watch?v=Miwb92eZaJg\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Miwb92eZaJg?si=UPO9rvNrgNM0dBVn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### References
 

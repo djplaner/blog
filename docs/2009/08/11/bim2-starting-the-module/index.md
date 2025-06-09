@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bam
-date: 2009-08-11 15:20:00+10:00
+comments: []
+date: 2009-08-11 05:20:00
 next:
   text: '"BIM #3: Getting the module work, making some progress?"'
   url: /blog/2009/08/13/bim-3-getting-the-module-work-making-some-progress/
+pingbacks:
+- approved: '1'
+  author: 'BIM #3: Getting the module work, making some progress? &laquo; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/08/13/bim-3-getting-the-module-work-making-some-progress/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BIM#2 &#8211; Starting the&nbsp;module [...]'
+  date: '2009-08-13 11:31:25'
+  date_gmt: '2009-08-13 01:31:25'
+  id: '2710'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BIM #1: Working on the prototype'
   url: /blog/2009/08/11/bim-1-working-on-the-prototype/
+template: blog-post.html
 title: '"BIM#2 - Starting the module"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'BIM #3: Getting the module work, making some progress? &laquo; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/08/13/bim-3-getting-the-module-work-making-some-progress/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BIM#2 &#8211; Starting the&nbsp;module [...]'
-      date: '2009-08-13 11:31:25'
-      date_gmt: '2009-08-13 01:31:25'
-      id: '2710'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As outlined in the [last BIM post](/blog/2009/08/11/bim-1-working-on-the-prototype/) the aim here is to take the "template" NEWMODULE and start creating a BIM module. Initially, this will contain hard-coded HTML or perhaps some initial non-functioning forms, we might progress onto some canned examples and finally to the real thing.
 

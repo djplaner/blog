@@ -1,22 +1,18 @@
----
+﻿---
 categories:
 - quotes
-date: 2006-07-14 15:24:33+10:00
+comments: []
+date: 2006-07-14 05:24:33
 next:
   text: '"BAM Progress #1"'
   url: /blog/2006/07/23/bam-progress-1/
+pingbacks: []
 previous:
   text: Sun Tzu Strategy Quote
   url: /blog/2006/07/13/sun-tzu-strategy-quote/
+template: blog-post.html
 title: Drucker on Adaptive vs Plan-driven
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 Peter Drucker from "The Effective Executive"
 

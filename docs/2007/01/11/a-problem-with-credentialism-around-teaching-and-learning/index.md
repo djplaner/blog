@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - react
-date: 2007-01-11 10:48:05+10:00
+date: 2007-01-11 00:48:05
 next:
   text: Freeze and unfreeze - one problem with herding cats
   url: /blog/2007/01/11/freeze-and-unfreeze-one-problem-with-herding-cats/
 previous:
   text: Issues around staff development for e-learning
   url: /blog/2007/01/10/issues-around-staff-development-for-e-learning/
+template: blog-post.html
 title: A problem with credentialism around teaching and learning
 type: post
-template: blog-post.html
 ---
 For at least the last 5 years there has been an increasing drive for university academics to have formal credentials in learning and teaching. The essential argument is that you wouldn't go to a medical doctor who hadn't been trained in medicine, so why should you be taught at university by a person who has been trained in teaching.
 

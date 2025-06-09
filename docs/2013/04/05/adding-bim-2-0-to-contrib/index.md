@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2013-04-05 16:46:07+10:00
+date: 2013-04-05 06:46:07
 next:
   text: An ad hoc exploration ethnographic research
   url: /blog/2013/04/07/an-ad-hoc-exploration-ethnographic-research/
 previous:
   text: Meaningless freedom and auto-marking the learning journals
   url: /blog/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/
+template: blog-post.html
 title: Adding bim 2.0 to "CONTRIB"
 type: post
-template: blog-post.html
 ---
 Next step in the development of [bim v2.0](/blog/research/bam-blog-aggregation-management/) is to start the process of submitting it to [CONTRIB](http://docs.moodle.org/dev/contrib). i.e. essentially getting out officially into the Moodle community.
 

@@ -1,23 +1,19 @@
----
+﻿---
 categories:
 - elearning
 - web-20-course-sites
-date: 2006-09-17 14:39:55+10:00
+comments: []
+date: 2006-09-17 04:39:55
 next:
   text: Helpdesk and training - first step in SDO
   url: /blog/2006/09/18/helpdesk-and-training-first-step-in-sdo/
+pingbacks: []
 previous:
   text: Jenny Anastasi&#039; presentation
   url: /blog/2006/08/28/jenny-anastasi-presentation/
+template: blog-post.html
 title: Web 2.0 Course Sites
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 **Thesis**
 

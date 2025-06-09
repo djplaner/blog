@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - elearning
 - webfuse
-date: 2007-12-13 21:05:56+10:00
+date: 2007-12-13 11:05:56
 next:
   text: Getting started in Second Life
   url: /blog/2008/01/10/getting-started-in-second-life/
@@ -11,9 +11,9 @@ previous:
   url: /blog/2007/12/11/new-approaches-to-curriculum-design-informed-by-complexity/
 tags:
 - lms
+template: blog-post.html
 title: Why is one not necessarily cheaper than two
 type: post
-template: blog-post.html
 ---
 Not unlike many institutions, at some stage in their use of e-learning, [CQU](http://www.cqu.edu.au/) finds itself in the perceived position of having two learning management systems (LMS):
 

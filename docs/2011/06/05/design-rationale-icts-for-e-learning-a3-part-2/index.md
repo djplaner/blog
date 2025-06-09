@@ -1,126 +1,123 @@
----
+﻿---
 categories:
 - eded20491
 - ipt
 - teaching
-date: 2011-06-05 22:57:30+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.121.198
+  author_url: http://www.vrbones.com
+  content: 'Looking pretty good.
+
+
+    Do you have any small areas of WordPress in mind about where to start them off?
+    I''m expecting the next step to be the tough one where they need to jump into
+    analysing constructed code and contributing.
+
+
+    5 minute presentations for ~15 groups are going to wipe out a whole lesson. What
+    about getting each group to construct their thoughts onto their blog, and then
+    have a number of set times where they review each other''s blogs? This way the
+    good ideas of a select few can propagate through the entire class, allow teacher
+    guidance to inject missing elements into a group and let it propagate, and give
+    more opportunity for self assessment.
+
+
+    Is Edmodo going to be used more in the future? It would seem that a private classroom
+    blog done in wordpress could have the polls, and build more familiarity with the
+    wordpress capabilities. I was also hoping you might have gone for BIM or the like
+    for later assessment submission, or even a "project performance review" using
+    Basecamp at the end of the semester.
+
+
+    "Students install WordPress onto their computers."
+
+    Are you anticipating that they all have their own machines, or are these opened
+    up school machines?
+
+
+    Do you know of any Basecamp deals for education, or just planning on using the
+    free one?'
+  date: '2011-06-10 06:25:22'
+  date_gmt: '2011-06-09 20:25:22'
+  id: '75'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.222.143.156
+  author_url: https://djon.es/blog/
+  content: 'G''day Tony,
+
+
+    Thanks for taking the time to look over this.  I have to admit that I''ve benefited
+    from the slightly hypothetical nature of this plan. It''s current state is more
+    designed to suit the need of the ICTs course, rather than match what I''d do in
+    reality.
+
+
+    Some of the technology choices are more to do with variety, some aspects aren''t
+    real well thought out and I''ve made a few assumptions. That said, it''s a direction
+    I''d like to go in and this did offer an opportunity to think through some of
+    the ramifications.
+
+
+    I don''t know of any free deals from Basecamp for education. If this ever started
+    becoming a reality, one of the first things I''d do would be to approach the Basecamp
+    guys and see what they could do. In fact, I''d probably also be finding out if
+    some of them or the Wordpress folk would be happy to talk with the students.  I
+    really wanted to move me away from being the expert.
+
+
+    And yes, BIM would probably make a come back at some stage. If I followed through
+    on the Wordpress plan, I''d probably use making a BIM plugin my task for coming
+    up to speed with Wordpress development.
+
+
+    Edmodo I''m not sure about. There are a couple of folk I follow on Twitter from
+    down south who are using it and seem happy. After only a brief look, there appears
+    to be a couple of teaching specific extensions that might be nice. But the private
+    WOrdpress blog is also an idea.  I suppose one reason for not using Wordpress
+    would be to make the public/private aspects of the course very separate. i.e.
+    Edmodo is private and formal learning related. Wordpress is public and "company"
+    related.
+
+
+    And yes, getting the students into the Wordpress code and dealing with the complexity
+    could be a problem. But I am wondering just how much this would be a problem if
+    the whole "authentic learning" and connectivism thing kicked in. There''s a theory
+    that with these working, the students will take the complexity in their stride.  get
+    them engaged in problem/project-based learning.
+
+
+    The reality should be interesting.  Will see what happens next year.
+
+
+    Some of these ideas might evolve over the next few weeks.
+
+
+    David.'
+  date: '2011-06-10 19:27:49'
+  date_gmt: '2011-06-10 09:27:49'
+  id: '76'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2011-06-05 12:57:30
 next:
   text: A simple class management plan for beginning teachers
   url: /blog/2011/06/16/a-simple-class-management-plan-for-beginning-teachers/
+pingbacks: []
 previous:
   text: Learner profile - ICTs for E-Learning A3 - Part 1
   url: /blog/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/
+template: blog-post.html
 title: Design Rationale - ICTs for E-Learning A3
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.121.198
-      author_url: http://www.vrbones.com
-      content: 'Looking pretty good.
-    
-    
-        Do you have any small areas of WordPress in mind about where to start them off?
-        I''m expecting the next step to be the tough one where they need to jump into
-        analysing constructed code and contributing.
-    
-    
-        5 minute presentations for ~15 groups are going to wipe out a whole lesson. What
-        about getting each group to construct their thoughts onto their blog, and then
-        have a number of set times where they review each other''s blogs? This way the
-        good ideas of a select few can propagate through the entire class, allow teacher
-        guidance to inject missing elements into a group and let it propagate, and give
-        more opportunity for self assessment.
-    
-    
-        Is Edmodo going to be used more in the future? It would seem that a private classroom
-        blog done in wordpress could have the polls, and build more familiarity with the
-        wordpress capabilities. I was also hoping you might have gone for BIM or the like
-        for later assessment submission, or even a "project performance review" using
-        Basecamp at the end of the semester.
-    
-    
-        "Students install WordPress onto their computers."
-    
-        Are you anticipating that they all have their own machines, or are these opened
-        up school machines?
-    
-    
-        Do you know of any Basecamp deals for education, or just planning on using the
-        free one?'
-      date: '2011-06-10 06:25:22'
-      date_gmt: '2011-06-09 20:25:22'
-      id: '75'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.222.143.156
-      author_url: https://djon.es/blog/
-      content: 'G''day Tony,
-    
-    
-        Thanks for taking the time to look over this.  I have to admit that I''ve benefited
-        from the slightly hypothetical nature of this plan. It''s current state is more
-        designed to suit the need of the ICTs course, rather than match what I''d do in
-        reality.
-    
-    
-        Some of the technology choices are more to do with variety, some aspects aren''t
-        real well thought out and I''ve made a few assumptions. That said, it''s a direction
-        I''d like to go in and this did offer an opportunity to think through some of
-        the ramifications.
-    
-    
-        I don''t know of any free deals from Basecamp for education. If this ever started
-        becoming a reality, one of the first things I''d do would be to approach the Basecamp
-        guys and see what they could do. In fact, I''d probably also be finding out if
-        some of them or the Wordpress folk would be happy to talk with the students.  I
-        really wanted to move me away from being the expert.
-    
-    
-        And yes, BIM would probably make a come back at some stage. If I followed through
-        on the Wordpress plan, I''d probably use making a BIM plugin my task for coming
-        up to speed with Wordpress development.
-    
-    
-        Edmodo I''m not sure about. There are a couple of folk I follow on Twitter from
-        down south who are using it and seem happy. After only a brief look, there appears
-        to be a couple of teaching specific extensions that might be nice. But the private
-        WOrdpress blog is also an idea.  I suppose one reason for not using Wordpress
-        would be to make the public/private aspects of the course very separate. i.e.
-        Edmodo is private and formal learning related. Wordpress is public and "company"
-        related.
-    
-    
-        And yes, getting the students into the Wordpress code and dealing with the complexity
-        could be a problem. But I am wondering just how much this would be a problem if
-        the whole "authentic learning" and connectivism thing kicked in. There''s a theory
-        that with these working, the students will take the complexity in their stride.  get
-        them engaged in problem/project-based learning.
-    
-    
-        The reality should be interesting.  Will see what happens next year.
-    
-    
-        Some of these ideas might evolve over the next few weeks.
-    
-    
-        David.'
-      date: '2011-06-10 19:27:49'
-      date_gmt: '2011-06-10 09:27:49'
-      id: '76'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 ### Introduction
 

@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - eded20491
 - ipt
 - teaching
-date: 2011-06-05 22:24:40+10:00
+date: 2011-06-05 12:24:40
 next:
   text: Design Rationale - ICTs for E-Learning A3
   url: /blog/2011/06/05/design-rationale-icts-for-e-learning-a3-part-2/
 previous:
   text: A profile of learners in an IPT class
   url: /blog/2011/06/02/a-profile-of-learners-in-an-ipt-class/
+template: blog-post.html
 title: Learner profile - ICTs for E-Learning A3 - Part 1
 type: post
-template: blog-post.html
 ---
 ### Introduction
 
@@ -53,7 +53,7 @@ The 2010 Queensland Senior Syllabus (QSA, 2010) for Information and Processing T
 
 The general objectives of the syllabus are divided into four dimensions: knowledge and application; analysis and synthesis; evaluation and communication; and, attitudes and values. Course content is drawn from 8 topic areas. Figure 1 is a representation of the structure of these topic areas. Two of the eight topics – intelligent systems and computer systems – provide optional material to supplement the six core topics. Two of the core topics – social and ethical issues, and human-computer interaction – are intended to be embedded within the other topic areas. Table 2 provides an overview of each topic area.
 
-_Figure 1._ The topic structure for a senior IPT course. Adapted from "Information Processing and Technology (IPT): Senior Syllabus 2010" by QSA, 2010, p. 5. [![Topic structure for QSA course on Information and Processing Technology](images/5799902390_09338a23da_m.jpg)](http://www.flickr.com/photos/david_jones/5799902390/ "Topic structure for QSA course on Information and Processing Technology by David T Jones, on Flickr")
+_Figure 1._ The topic structure for a senior IPT course. Adapted from "Information Processing and Technology (IPT): Senior Syllabus 2010" by QSA, 2010, p. 5. [![Topic structure for QSA course on Information and Processing Technology](https://djon.es/assets/blog/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/images/5799902390_09338a23da_m.jpg)](http://www.flickr.com/photos/david_jones/5799902390/ "Topic structure for QSA course on Information and Processing Technology by David T Jones, on Flickr")
 
 _Table 2_. Summary of IPT topic areas  
 \* not a stand alone topic, should be embedded in other topics.
@@ -71,7 +71,7 @@ _Table 2_. Summary of IPT topic areas
 
 Fundamental to the presentation of the subject is the notion of the design-develop-evaluate (DDE) cycle Table 3 and one that should be embedded throughout IPT learning experiences. It is through the application of this cycle in a variety of learning experiences that an IPT class should aim to promote the teamwork, communication, and problem solving skills of students through the development of products (QSA, 2010). Learning experiences in an IPT class can include, but are not limited to: using information technology; solving problems in a variety of domains; extended writing including appropriate use of information sources, analysis and evaluation; presentation and communication of proposed solutions; and, collaboration within teams.
 
-_Table 3._ The DDE cycle and other process cycles. Adapted from "Information Processing and Technology (IPT): Senior Syllabus 2010" by QSA, 2010, p. 20. (Click on table to see large version). [![The DDE cycle](images/5799403549_8081b93c02_m.jpg)](http://www.flickr.com/photos/david_jones/5799403549/ "The DDE cycle by David T Jones, on Flickr")
+_Table 3._ The DDE cycle and other process cycles. Adapted from "Information Processing and Technology (IPT): Senior Syllabus 2010" by QSA, 2010, p. 20. (Click on table to see large version). [![The DDE cycle](https://djon.es/assets/blog/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/images/5799403549_8081b93c02_m.jpg)](http://www.flickr.com/photos/david_jones/5799403549/ "The DDE cycle by David T Jones, on Flickr")
 
 ### How does the learner best learn?
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-03-13 14:35:14+10:00
+date: 2009-03-13 04:35:14
 next:
   text: '"Virtual learning environments: three implementation perspectives"'
   url: /blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
 previous:
   text: Moving from scarcity to abundance changes things - music
   url: /blog/2009/03/12/moving-from-scarcity-to-abundance-changes-things-music/
+template: blog-post.html
 title: '"PhD update - week #3"'
 type: post
-template: blog-post.html
 ---
 A new record. A renewed interest in the PhD has lasted 3 weeks. I've even made a come back from [the weak second album problem](/blog/2009/03/06/the-weak-second-album-phd-update/) and probably had the most fulfilling week. Though I could have been more productive, perhaps that's an aim for next week.
 

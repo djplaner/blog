@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - irac
-date: 2013-10-20 22:25:38+10:00
+comments: []
+date: 2013-10-20 12:25:38
 next:
   text: Oh Academia
   url: /blog/2013/10/31/oh-academia/
+pingbacks:
+- approved: '1'
+  author: Processing and Visualizing Data in Complex Lear...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-inclusivo/p/4009572142/processing-and-visualizing-data-in-complex-learning-environments-pgsimoes
+  content: '[&#8230;] The following is a summary and some thinking aroundThompson,
+    K., Ashe, D., Carvalho, L., Goodyear, P., Kelly, N., &amp; Parisio, M. (2013).
+    Processing and Visualizing Data in Complex Learning Envir...&nbsp; [&#8230;]'
+  date: '2013-10-21 00:14:34'
+  date_gmt: '2013-10-20 14:14:34'
+  id: '887'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Creative Commons, Flickr and presentations: A bit of tinkering'
   url: /blog/2013/10/20/creative-commons-flickr-and-presentations-a-bit-of-tinkering/
+template: blog-post.html
 title: Processing and Visualizing Data in Complex Learning Environments
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Processing and Visualizing Data in Complex Lear...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-inclusivo/p/4009572142/processing-and-visualizing-data-in-complex-learning-environments-pgsimoes
-      content: '[&#8230;] The following is a summary and some thinking aroundThompson,
-        K., Ashe, D., Carvalho, L., Goodyear, P., Kelly, N., &amp; Parisio, M. (2013).
-        Processing and Visualizing Data in Complex Learning Envir...&nbsp; [&#8230;]'
-      date: '2013-10-21 00:14:34'
-      date_gmt: '2013-10-20 14:14:34'
-      id: '887'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary and some thinking around
 

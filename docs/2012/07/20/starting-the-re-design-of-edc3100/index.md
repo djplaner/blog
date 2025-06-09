@@ -1,133 +1,131 @@
----
+﻿---
 categories:
 - edc3100
-date: 2012-07-20 11:29:29+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 122.111.165.151
+  author_url: http://cj13.wordpress.com/
+  content: 'OK. Like the vision. The constraints are... well... from the 1990''s or
+    earlier.... why is education the only field still trying to embed, integrate this
+    stuff into what they do?
+
+
+    This stuff, computing and related technologies, is for doing things. So, for me,
+    the key question is what are these folk doing, what are they building/making/thinking
+    about etc. So it''s not a matter of "adding" this stuff to some pre-existing task,
+    something schools have kept doing for decades (Yes I know the Einstein line about
+    doing the same thing over and over and hoping it works "one day").
+
+
+    So a focus, a project, something useful (which might be done via a blog) is the
+    begin point. But they have to justify what they are doing, why it matters etc.
+    And, here would be a beautiful kicker, that they are encouraged to fail early
+    and often (see, e.g. http://technologyspectator.com.au/turning-failure-success
+    or if you prefer paper: Schrage, M. (1999). Serious Play: How the World''s Best
+    Companies Simulate to Innovate. Boston: Harvard Business School Press.)
+
+
+    The trick here is to ignore the technology completely, forget it, wear t-shirts
+    that ban thinking about it etc.  So the the question is what might they work on
+    - might be a project at a local school, might be a collaboration with kids in
+    other parts of the world, who knows. It might be a reading program for a group
+    of disadvantaged kids... in formal schooling there is no shortage of neat challenges
+    and problems. The only trick is to step outside the mindless orthodoxy of the
+    system and get them to think differently. Here, I''d be tempted to try the wonderful
+    piece by Cleese on creativity.
+
+
+    Then or in parallel, an audit of the current set of what I like to call <a href="http://www.chrisbigum.com/tol/DigitalHabits"
+    rel="nofollow">digital habits</a> that the kids have. My hunch is that there will
+    be a broad and surprising set "to hand". This is more to encourage a little self
+    help in groups, across groups, a little taste of how the pros operate, i.e. they
+    are damn good at a small set of stuff but that is complemented by a huge network
+    that provides support as they need it. They know who knows what. Imagining teachers
+    will build some uber set of skills knowledge simply reflects how little the powers
+    that be understand this game.
+
+
+    And, during all of this they are writing about it, thinking about what is going
+    on, what they are learning, what they are teaching, what they are stuffing up
+    etc. I wouldn''t use the P word.  :) , in short they are playing in the space
+    that is replete with pedagogy (not the weird kind so abstracted in schools) but
+    with the stuff that is the bread and butter of those who work in bit space.'
+  date: '2012-07-20 13:05:41'
+  date_gmt: '2012-07-20 03:05:41'
+  id: '401'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: An update - the institution's leader has just announced some progress on
+    the new strategic direction/vision of the institution.   It appears that "personalised
+    lifelong learning" will be an important component of this,
+  date: '2012-07-20 13:45:52'
+  date_gmt: '2012-07-20 03:45:52'
+  id: '402'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2012-07-20 01:29:29
 next:
   text: '"Enabling academics to apply learning analytics to individual pedagogical
     practice: how and with what impacts?"'
   url: /blog/2012/07/25/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts/
+pingbacks:
+- approved: '1'
+  author: Making some &#8220;3100&#8243; thinking explicit &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 216.151.210.44
+  author_url: https://djon.es/blog/2013/01/11/making-some-3100-thinking-explicit/
+  content: '[...] a bit and generally mulling over what I&#8217;ll do and how far
+    to go. Back in July I started off with this initial post. It&#8217;s now (past)
+    time to make some of this explicit, make some design decisions and implement [...]'
+  date: '2013-01-11 15:20:22'
+  date_gmt: '2013-01-11 05:20:22'
+  id: '403'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Taking a look at the &#8220;Decoding Learning&#8221; report &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.189
+  author_url: https://djon.es/blog/2013/01/23/taking-a-look-at-the-decoding-learning-report/
+  content: '[...] and some reflections on my reading of the report. I&#8217;m thinking
+    of using it as a resource for the course I&#8217;ll be teaching [...]'
+  date: '2013-01-23 13:07:19'
+  date_gmt: '2013-01-23 03:07:19'
+  id: '404'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Some pedagogical frameworks to think about | Maggies Journey
+  author_email: null
+  author_ip: 66.155.38.77
+  author_url: http://w0067707.wordpress.com/2014/04/07/some-pedagogical-frameworks-to-think-about/
+  content: "[&#8230;] through the course content for EDC3100\_ I am drawn to The &#8216;Integrating\
+    \ Socially&#8217; Model of Inquiry as this works well within [&#8230;]"
+  date: '2014-04-08 08:03:21'
+  date_gmt: '2014-04-07 22:03:21'
+  id: '405'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Is there a link between managerialisation and learning analytics?
   url: /blog/2012/07/15/is-there-a-link-between-managerialisation-and-learning-analytics/
+template: blog-post.html
 title: Starting the re-design of EDC3100
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 122.111.165.151
-      author_url: http://cj13.wordpress.com/
-      content: 'OK. Like the vision. The constraints are... well... from the 1990''s or
-        earlier.... why is education the only field still trying to embed, integrate this
-        stuff into what they do?
-    
-    
-        This stuff, computing and related technologies, is for doing things. So, for me,
-        the key question is what are these folk doing, what are they building/making/thinking
-        about etc. So it''s not a matter of "adding" this stuff to some pre-existing task,
-        something schools have kept doing for decades (Yes I know the Einstein line about
-        doing the same thing over and over and hoping it works "one day").
-    
-    
-        So a focus, a project, something useful (which might be done via a blog) is the
-        begin point. But they have to justify what they are doing, why it matters etc.
-        And, here would be a beautiful kicker, that they are encouraged to fail early
-        and often (see, e.g. http://technologyspectator.com.au/turning-failure-success
-        or if you prefer paper: Schrage, M. (1999). Serious Play: How the World''s Best
-        Companies Simulate to Innovate. Boston: Harvard Business School Press.)
-    
-    
-        The trick here is to ignore the technology completely, forget it, wear t-shirts
-        that ban thinking about it etc.  So the the question is what might they work on
-        - might be a project at a local school, might be a collaboration with kids in
-        other parts of the world, who knows. It might be a reading program for a group
-        of disadvantaged kids... in formal schooling there is no shortage of neat challenges
-        and problems. The only trick is to step outside the mindless orthodoxy of the
-        system and get them to think differently. Here, I''d be tempted to try the wonderful
-        piece by Cleese on creativity.
-    
-    
-        Then or in parallel, an audit of the current set of what I like to call <a href="http://www.chrisbigum.com/tol/DigitalHabits"
-        rel="nofollow">digital habits</a> that the kids have. My hunch is that there will
-        be a broad and surprising set "to hand". This is more to encourage a little self
-        help in groups, across groups, a little taste of how the pros operate, i.e. they
-        are damn good at a small set of stuff but that is complemented by a huge network
-        that provides support as they need it. They know who knows what. Imagining teachers
-        will build some uber set of skills knowledge simply reflects how little the powers
-        that be understand this game.
-    
-    
-        And, during all of this they are writing about it, thinking about what is going
-        on, what they are learning, what they are teaching, what they are stuffing up
-        etc. I wouldn''t use the P word.  :) , in short they are playing in the space
-        that is replete with pedagogy (not the weird kind so abstracted in schools) but
-        with the stuff that is the bread and butter of those who work in bit space.'
-      date: '2012-07-20 13:05:41'
-      date_gmt: '2012-07-20 03:05:41'
-      id: '401'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: An update - the institution's leader has just announced some progress on
-        the new strategic direction/vision of the institution.   It appears that "personalised
-        lifelong learning" will be an important component of this,
-      date: '2012-07-20 13:45:52'
-      date_gmt: '2012-07-20 03:45:52'
-      id: '402'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Making some &#8220;3100&#8243; thinking explicit &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 216.151.210.44
-      author_url: https://djon.es/blog/2013/01/11/making-some-3100-thinking-explicit/
-      content: '[...] a bit and generally mulling over what I&#8217;ll do and how far
-        to go. Back in July I started off with this initial post. It&#8217;s now (past)
-        time to make some of this explicit, make some design decisions and implement [...]'
-      date: '2013-01-11 15:20:22'
-      date_gmt: '2013-01-11 05:20:22'
-      id: '403'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Taking a look at the &#8220;Decoding Learning&#8221; report &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.189
-      author_url: https://djon.es/blog/2013/01/23/taking-a-look-at-the-decoding-learning-report/
-      content: '[...] and some reflections on my reading of the report. I&#8217;m thinking
-        of using it as a resource for the course I&#8217;ll be teaching [...]'
-      date: '2013-01-23 13:07:19'
-      date_gmt: '2013-01-23 03:07:19'
-      id: '404'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Some pedagogical frameworks to think about | Maggies Journey
-      author_email: null
-      author_ip: 66.155.38.77
-      author_url: http://w0067707.wordpress.com/2014/04/07/some-pedagogical-frameworks-to-think-about/
-      content: "[&#8230;] through the course content for EDC3100\_ I am drawn to The &#8216;Integrating\
-        \ Socially&#8217; Model of Inquiry as this works well within [&#8230;]"
-      date: '2014-04-08 08:03:21'
-      date_gmt: '2014-04-07 22:03:21'
-      id: '405'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Today marks the formal start of the process of re-designing the course [EDC3100, ICTs and Pedagogy](http://www.usq.edu.au/course/synopses/2012/EDC3100.html). This afternoon is the first meeting with the [LITE team (Learning Innovation Teaching Enhancement)](http://www.usq.edu.au/learnteach/lite) and I need to get my head around the process and think about what might make sense to do.
 

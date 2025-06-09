@@ -1,145 +1,142 @@
----
-date: 2010-02-20 10:57:03+10:00
+﻿---
+comments: []
+date: 2010-02-20 00:57:03
+pingbacks:
+- approved: '1'
+  author: The current state of curriculum mapping in/with Moodle &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.104.70
+  author_url: https://djon.es/blog/2010/02/20/the-current-state-of-curriculum-mapping-inwith-moodle/
+  content: '[...] current state of curriculum mapping in/with&nbsp;Moodle  As part
+    of looking into a project around curriculum mapping I need to take a look at the
+    current state of play around curriculum [...]'
+  date: '2010-02-20 14:33:36'
+  date_gmt: '2010-02-20 04:33:36'
+  id: '2939'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Outcomes and Moodle &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.132
+  author_url: https://djon.es/blog/2010/03/09/outcomes-and-moodle/
+  content: '[...] and&nbsp;Moodle  It&#8217;s time to think about the reality of the
+    curriculum mapping idea that&#8217;s been kicking around. i.e. how hard/impossible
+    would it be to implement this idea in [...]'
+  date: '2010-03-09 14:23:34'
+  date_gmt: '2010-03-09 04:23:34'
+  id: '2940'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: First step in &#8220;Moodle curriculum mapping&#8221; &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.138
+  author_url: https://djon.es/blog/2010/03/23/first-step-in-moodle-curriculum-mapping/
+  content: '[...] step in &#8220;Moodle curriculum&nbsp;mapping&#8221;  This is perhaps
+    the first concrete step in a project that is aiming to look at how the act of
+    curriculum mapping can be embedded into the, increasingly, [...]'
+  date: '2010-03-23 14:13:29'
+  date_gmt: '2010-03-23 04:13:29'
+  id: '2941'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Moodle curriculum mapping &#8211; Step 2 &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.244.84
+  author_url: https://djon.es/blog/2010/03/30/moodle-curriculum-mapping-step-2/
+  content: '[...] Moodle curriculum mapping &#8211; Step&nbsp;2  This is the second
+    exploration of an idea for enhancing Moodle to enable curriculum mapping. It carries
+    on from the first step and is part of a broader project. [...]'
+  date: '2010-03-30 09:46:28'
+  date_gmt: '2010-03-29 23:46:28'
+  id: '2942'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'From theory to intervention: Mapping theoretically derived behavioural
+    determinants to behaviour change techniques &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.104.14
+  author_url: https://djon.es/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
+  content: '[...] The following gives some background to this approach, summarises
+    a paper from the psychology literature around behaviour modification and then
+    explains one idea for a &#8220;signals&#8221; like application for academic staff.
+    Some of this thinking is also informing the &#8220;Moodle curriculum mapping&#8221;
+    project. [...]'
+  date: '2010-03-31 07:47:56'
+  date_gmt: '2010-03-30 21:47:56'
+  id: '2943'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Elevator pitch for curriculum mapping &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.66
+  author_url: https://djon.es/blog/2010/04/01/elevator-pitch-for-curriculum-mapping/
+  content: '[...] few weeks I am going to have a few meetings in which I&#8217;ll
+    need to explain and justify the curriculum mapping project. This post is an attempt
+    to further develop and share some of the [...]'
+  date: '2010-04-01 10:58:44'
+  date_gmt: '2010-04-01 00:58:44'
+  id: '2944'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Curriculum mapping \xC2\xAB The Weblog of (a) David Jones &laquo; LTSG"
+  author_email: null
+  author_ip: 74.200.247.239
+  author_url: http://ltsg.wordpress.com/2010/04/01/curriculum-mapping-a%c2%ab-the-weblog-of-a-david-jones/
+  content: "[...] Curriculum mapping \xC2\xAB The Weblog of (a) David&nbsp;Jones By\
+    \ mgvh@ltsg  Curriculum mapping \xC2\xAB The Weblog of (a) David Jones [...]"
+  date: '2010-04-02 11:58:47'
+  date_gmt: '2010-04-02 01:58:47'
+  id: '2945'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What are good designs/design principles for Moodle &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 72.233.127.216
+  author_url: https://djon.es/blog/2010/04/03/what-are-good-designsdesign-principles-for-moodle/
+  content: '[...] really had to think about how you best go about designing a Moodle
+    course. Now, however, due to the curriculum mapping project it is likely that
+    I am going to have to engage with this. Hence the question, what are the [...]'
+  date: '2010-04-03 23:04:12'
+  date_gmt: '2010-04-03 13:04:12'
+  id: '2946'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The alignment project as leadership &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.69.85
+  author_url: https://djon.es/blog/2010/04/29/the-alignment-project-as-leadership/
+  content: '[...] alignment project as&nbsp;leadership  The following signals a slight
+    change in direction around the curriculum mapping project. First, the project
+    is now going under the label &#8220;alignment project&#8221; (curriculum [...]'
+  date: '2010-04-30 08:58:26'
+  date_gmt: '2010-04-29 22:58:26'
+  id: '2947'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: Curriculum mapping
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The current state of curriculum mapping in/with Moodle &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.104.70
-      author_url: https://djon.es/blog/2010/02/20/the-current-state-of-curriculum-mapping-inwith-moodle/
-      content: '[...] current state of curriculum mapping in/with&nbsp;Moodle  As part
-        of looking into a project around curriculum mapping I need to take a look at the
-        current state of play around curriculum [...]'
-      date: '2010-02-20 14:33:36'
-      date_gmt: '2010-02-20 04:33:36'
-      id: '2939'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Outcomes and Moodle &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.132
-      author_url: https://djon.es/blog/2010/03/09/outcomes-and-moodle/
-      content: '[...] and&nbsp;Moodle  It&#8217;s time to think about the reality of the
-        curriculum mapping idea that&#8217;s been kicking around. i.e. how hard/impossible
-        would it be to implement this idea in [...]'
-      date: '2010-03-09 14:23:34'
-      date_gmt: '2010-03-09 04:23:34'
-      id: '2940'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: First step in &#8220;Moodle curriculum mapping&#8221; &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.138
-      author_url: https://djon.es/blog/2010/03/23/first-step-in-moodle-curriculum-mapping/
-      content: '[...] step in &#8220;Moodle curriculum&nbsp;mapping&#8221;  This is perhaps
-        the first concrete step in a project that is aiming to look at how the act of
-        curriculum mapping can be embedded into the, increasingly, [...]'
-      date: '2010-03-23 14:13:29'
-      date_gmt: '2010-03-23 04:13:29'
-      id: '2941'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Moodle curriculum mapping &#8211; Step 2 &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.244.84
-      author_url: https://djon.es/blog/2010/03/30/moodle-curriculum-mapping-step-2/
-      content: '[...] Moodle curriculum mapping &#8211; Step&nbsp;2  This is the second
-        exploration of an idea for enhancing Moodle to enable curriculum mapping. It carries
-        on from the first step and is part of a broader project. [...]'
-      date: '2010-03-30 09:46:28'
-      date_gmt: '2010-03-29 23:46:28'
-      id: '2942'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'From theory to intervention: Mapping theoretically derived behavioural
-        determinants to behaviour change techniques &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.104.14
-      author_url: https://djon.es/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
-      content: '[...] The following gives some background to this approach, summarises
-        a paper from the psychology literature around behaviour modification and then
-        explains one idea for a &#8220;signals&#8221; like application for academic staff.
-        Some of this thinking is also informing the &#8220;Moodle curriculum mapping&#8221;
-        project. [...]'
-      date: '2010-03-31 07:47:56'
-      date_gmt: '2010-03-30 21:47:56'
-      id: '2943'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Elevator pitch for curriculum mapping &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.66
-      author_url: https://djon.es/blog/2010/04/01/elevator-pitch-for-curriculum-mapping/
-      content: '[...] few weeks I am going to have a few meetings in which I&#8217;ll
-        need to explain and justify the curriculum mapping project. This post is an attempt
-        to further develop and share some of the [...]'
-      date: '2010-04-01 10:58:44'
-      date_gmt: '2010-04-01 00:58:44'
-      id: '2944'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Curriculum mapping \xC2\xAB The Weblog of (a) David Jones &laquo; LTSG"
-      author_email: null
-      author_ip: 74.200.247.239
-      author_url: http://ltsg.wordpress.com/2010/04/01/curriculum-mapping-a%c2%ab-the-weblog-of-a-david-jones/
-      content: "[...] Curriculum mapping \xC2\xAB The Weblog of (a) David&nbsp;Jones By\
-        \ mgvh@ltsg  Curriculum mapping \xC2\xAB The Weblog of (a) David Jones [...]"
-      date: '2010-04-02 11:58:47'
-      date_gmt: '2010-04-02 01:58:47'
-      id: '2945'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What are good designs/design principles for Moodle &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 72.233.127.216
-      author_url: https://djon.es/blog/2010/04/03/what-are-good-designsdesign-principles-for-moodle/
-      content: '[...] really had to think about how you best go about designing a Moodle
-        course. Now, however, due to the curriculum mapping project it is likely that
-        I am going to have to engage with this. Hence the question, what are the [...]'
-      date: '2010-04-03 23:04:12'
-      date_gmt: '2010-04-03 13:04:12'
-      id: '2946'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The alignment project as leadership &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.69.85
-      author_url: https://djon.es/blog/2010/04/29/the-alignment-project-as-leadership/
-      content: '[...] alignment project as&nbsp;leadership  The following signals a slight
-        change in direction around the curriculum mapping project. First, the project
-        is now going under the label &#8220;alignment project&#8221; (curriculum [...]'
-      date: '2010-04-30 08:58:26'
-      date_gmt: '2010-04-29 22:58:26'
-      id: '2947'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 ### Update
 

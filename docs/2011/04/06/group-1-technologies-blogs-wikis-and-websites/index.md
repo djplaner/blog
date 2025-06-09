@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-04-06 11:45:29+10:00
+date: 2011-04-06 01:45:29
 next:
   text: BIM on the back burner
   url: /blog/2011/04/07/bim-on-the-back-burner/
 previous:
   text: Building a collaborative CV09 podcast
   url: /blog/2011/04/06/building-a-collaborative-cv09-podcast/
+template: blog-post.html
 title: '"Group 1 Technologies: Blogs, Wikis and Websites"'
 type: post
-template: blog-post.html
 ---
 As part of assignment 2 for ICTs for Learning Design we're meant to examine/play with examples of four different groups of technologies. Choose one each week to analyse in a little more detail and use that as the basis for the assignment. This post is my reflection on group 1. A group that contains blogs, wikis and websites.
 
@@ -21,7 +21,7 @@ Given I've done a fair bit of work in the past with these technologies, I'm goin
 
 I'm going to start with websites, rather than end with them, as I see "websites" as being a more primitive example of this group of technologies. At least they were when I started with websites for teaching back in late 1994 and then implemented my first totally online course in 1996. The following image is a screen shot of the home page. It's taken from Wayback Machine's [archive of the course](http://replay.waybackmachine.org/19980210233455/http://mc.cqu.edu.au/subjects/85321/index.html), I thought I'd lost it.
 
-[![The 85321 (Sys Admin) home page](images/5587502238_ee27fb3ab5_m.jpg)](http://www.flickr.com/photos/david_jones/5587502238/ "The 85321 (Sys Admin) home page by David T Jones, on Flickr")
+[![The 85321 (Sys Admin) home page](https://djon.es/assets/blog/2011/04/06/group-1-technologies-blogs-wikis-and-websites/images/5587502238_ee27fb3ab5_m.jpg)](http://www.flickr.com/photos/david_jones/5587502238/ "The 85321 (Sys Admin) home page by David T Jones, on Flickr")
 
 This website was created using only a text editor and was only really possible due to a couple of years playing around with using the web for learning and teaching. It was this prior experience that taught the importance of consistency of navigation etc within the site. It also became obvious, however, during the implementation of this site that doing this with some form of automated support was difficult and time-consuming. For example, this comment comes from Jones (1996)
 
@@ -45,7 +45,7 @@ Or to put it more personally (and perhaps correctly), I don't currently see much
 
 As an example, when I needed to create a "website" for a training session I was running, I didn't use a service like Weebly. I used Wordpress.com to create [this site](http://coursedesign.wordpress.com/). The following image is a screendump of the home page for this site (click on it for a larger version). It has much in common with a standard website, especially in terms of being divided into 5 or so main sections focusing on a particular topic.
 
-[![Home page for course design blog](images/5587013539_eb95524dbd_m.jpg)](http://www.flickr.com/photos/david_jones/5587013539/ "Home page for course design blog by David T Jones, on Flickr")
+[![Home page for course design blog](https://djon.es/assets/blog/2011/04/06/group-1-technologies-blogs-wikis-and-websites/images/5587013539_eb95524dbd_m.jpg)](http://www.flickr.com/photos/david_jones/5587013539/ "Home page for course design blog by David T Jones, on Flickr")
 
 This experience showed that a blog can be used to create something that acts as a website, but retains some of the advantages of a blog. But the approach used in this course was still primarily content distribution. While a bit of interaction was used, the site was mainly aimed at providing access to content I'd developed.
 

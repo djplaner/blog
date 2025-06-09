@@ -1,58 +1,55 @@
----
+﻿---
 categories:
 - thesis
 - webfuse
-date: 2010-10-28 14:44:30+10:00
+comments:
+- approved: '1'
+  author: stuartpalmer
+  author_email: spalm@deakin.edu.au
+  author_ip: 118.209.53.141
+  author_url: null
+  content: 'Hi David, looks good!
+
+
+    There''s one sentence - "For these systems and how they are supported and used
+    to be emergent." - that seems to hang by itself a bit disconnected.
+
+
+    Is the period meant to be a comma?
+
+
+    Regards, Stuart.'
+  date: '2010-10-28 14:54:56'
+  date_gmt: '2010-10-28 04:54:56'
+  id: '3182'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.222.114.127
+  author_url: https://djon.es/blog/
+  content: Yea, this is one of the bits I wasn't fussed on.  Trying to make a point
+    and doing it badly.  Will be one of the things I look at. Thanks for taking the
+    time to read and give feedback.
+  date: '2010-10-28 15:08:18'
+  date_gmt: '2010-10-28 05:08:18'
+  id: '3183'
+  parent: '3182'
+  type: comment
+  user_id: '1'
+date: 2010-10-28 04:44:30
 next:
   text: Crisis in higher education and limitations that prevent change
   url: /blog/2010/11/01/crisis-in-higher-education-and-limitations-that-prevent-change/
+pingbacks: []
 previous:
   text: No burden for TEQSA, yea right
   url: /blog/2010/10/27/no-burden-for-teqsa-yea-right/
+template: blog-post.html
 title: Thesis abstract v1.0b
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: stuartpalmer
-      author_email: spalm@deakin.edu.au
-      author_ip: 118.209.53.141
-      author_url: null
-      content: 'Hi David, looks good!
-    
-    
-        There''s one sentence - "For these systems and how they are supported and used
-        to be emergent." - that seems to hang by itself a bit disconnected.
-    
-    
-        Is the period meant to be a comma?
-    
-    
-        Regards, Stuart.'
-      date: '2010-10-28 14:54:56'
-      date_gmt: '2010-10-28 04:54:56'
-      id: '3182'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.222.114.127
-      author_url: https://djon.es/blog/
-      content: Yea, this is one of the bits I wasn't fussed on.  Trying to make a point
-        and doing it badly.  Will be one of the things I look at. Thanks for taking the
-        time to read and give feedback.
-      date: '2010-10-28 15:08:18'
-      date_gmt: '2010-10-28 05:08:18'
-      id: '3183'
-      parent: '3182'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The following is yet another sign that [the thesis](/blog/research/phd-thesis/) is finally getting close to submission. The following is the second version of an abstract of the thesis. There have been some changes, feedback always welcome.
 

@@ -1,133 +1,131 @@
----
+﻿---
 categories:
 - bad
 - oer
 - open
-date: 2016-02-22 12:01:39+10:00
+comments:
+- approved: '1'
+  author: lenandlar
+  author_email: lenandlar@gmail.com
+  author_ip: 190.108.211.115
+  author_url: null
+  content: Thanks for sharing. I like the reference points.  Perhaps this from Prof
+    Martin Weller might be useful http://blog.edtechie.net/openness/why-open-practice/
+  date: '2016-02-22 23:45:41'
+  date_gmt: '2016-02-22 13:45:41'
+  id: '3290'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Chrissi Nerantzi
+  author_email: nerantzi@yahoo.com
+  author_ip: 78.148.127.239
+  author_url: http://about.me/chrissinerantzi
+  content: 'Hi David,
+
+
+    Enjoyed reading this post very much, All my work is in the area of open educational
+    practice in an academic development context and I am doing a PhD currently in
+    open cross-institutional collaboration in these settings exploring the learner
+    experience of collaborative learning. Would love to connect with you and colleagues.
+
+
+    Chrissi @chrissinerantzi'
+  date: '2016-04-18 07:01:20'
+  date_gmt: '2016-04-17 21:01:20'
+  id: '3293'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.33
+  author_url: https://djon.es/blog/
+  content: 'G''day Chrissi,
+
+
+    Welcome, well you''ve connected with me.  Happy to talk, learn and connect. Whatever
+    works.
+
+
+    In fact, I note from your blog that you may well have recently been much closer
+    to one of my colleagues during your time in Krakow. I''m assuming that was linked
+    with Open Education Global conference which Janice was attending.
+
+
+    I wonder if your comment arriving today is a sign?  This post turned into <a href="https://davidtjones.wordpress.com/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/"
+    rel="nofollow">a grant idea</a> and apparently today is the day we find out if
+    it was successful.  That outcome is likely to hugely influence what and how we
+    proceed from here.
+
+
+    Will follow up a bit more after we receive that news.
+
+
+    David.'
+  date: '2016-04-18 07:17:35'
+  date_gmt: '2016-04-17 21:17:35'
+  id: '3294'
+  parent: '3293'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Chrissi Nerantzi
+  author_email: nerantzi@yahoo.com
+  author_ip: 78.148.127.239
+  author_url: http://about.me/chrissinerantzi
+  content: Hi David, thank you for your reply and the info included. I met your colleague
+    during my presentation which was lovely. I have been working on open ed practices
+    in a cross-institutional context for some years now and would love to discuss
+    opportunities to collaborate if this is something you would consider. Looking
+    forward to your news regarding your project. Chrissi
+  date: '2016-04-18 07:30:29'
+  date_gmt: '2016-04-17 21:30:29'
+  id: '3295'
+  parent: '3294'
+  type: comment
+  user_id: '0'
+date: 2016-02-22 02:01:39
 next:
   text: PEBKAC, mental model mismatch and ICT
   url: /blog/2016/03/02/pebkac-mental-model-mismatch-and-ict/
+pingbacks:
+- approved: '1'
+  author: Open educational practice beyond the institutio...
+  author_email: null
+  author_ip: 185.82.148.10
+  author_url: http://www.scoop.it/t/openingupuducation/p/4060283697/2016/02/26/open-educational-practice-beyond-the-institution
+  content: '[&#8230;] The following is a continuation of prior ponderings about about
+    open educational practice (OEP) and open educational resources (OER) in the context
+    of a potential institutional grant application.&nbsp; [&#8230;]'
+  date: '2016-02-26 15:04:44'
+  date_gmt: '2016-02-26 05:04:44'
+  id: '3291'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'OEP and Initial Teacher Education: Moving on from the horsey, horseless
+    carriage &#8211; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.113.165
+  author_url: https://davidtjones.wordpress.com/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/
+  content: '[&#8230;] Educational Practice. What follows is an excerpt from that application.This
+    idea evolved out of some earlier thinking. We find out how we went in [&#8230;]'
+  date: '2016-03-18 07:04:38'
+  date_gmt: '2016-03-17 21:04:38'
+  id: '3292'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Can video be emedded in ePub exported from #moodle book?'
   url: /blog/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/
+template: blog-post.html
 title: Open educational practice beyond the institution?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: lenandlar
-      author_email: lenandlar@gmail.com
-      author_ip: 190.108.211.115
-      author_url: null
-      content: Thanks for sharing. I like the reference points.  Perhaps this from Prof
-        Martin Weller might be useful http://blog.edtechie.net/openness/why-open-practice/
-      date: '2016-02-22 23:45:41'
-      date_gmt: '2016-02-22 13:45:41'
-      id: '3290'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Chrissi Nerantzi
-      author_email: nerantzi@yahoo.com
-      author_ip: 78.148.127.239
-      author_url: http://about.me/chrissinerantzi
-      content: 'Hi David,
-    
-    
-        Enjoyed reading this post very much, All my work is in the area of open educational
-        practice in an academic development context and I am doing a PhD currently in
-        open cross-institutional collaboration in these settings exploring the learner
-        experience of collaborative learning. Would love to connect with you and colleagues.
-    
-    
-        Chrissi @chrissinerantzi'
-      date: '2016-04-18 07:01:20'
-      date_gmt: '2016-04-17 21:01:20'
-      id: '3293'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.33
-      author_url: https://djon.es/blog/
-      content: 'G''day Chrissi,
-    
-    
-        Welcome, well you''ve connected with me.  Happy to talk, learn and connect. Whatever
-        works.
-    
-    
-        In fact, I note from your blog that you may well have recently been much closer
-        to one of my colleagues during your time in Krakow. I''m assuming that was linked
-        with Open Education Global conference which Janice was attending.
-    
-    
-        I wonder if your comment arriving today is a sign?  This post turned into <a href="https://davidtjones.wordpress.com/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/"
-        rel="nofollow">a grant idea</a> and apparently today is the day we find out if
-        it was successful.  That outcome is likely to hugely influence what and how we
-        proceed from here.
-    
-    
-        Will follow up a bit more after we receive that news.
-    
-    
-        David.'
-      date: '2016-04-18 07:17:35'
-      date_gmt: '2016-04-17 21:17:35'
-      id: '3294'
-      parent: '3293'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Chrissi Nerantzi
-      author_email: nerantzi@yahoo.com
-      author_ip: 78.148.127.239
-      author_url: http://about.me/chrissinerantzi
-      content: Hi David, thank you for your reply and the info included. I met your colleague
-        during my presentation which was lovely. I have been working on open ed practices
-        in a cross-institutional context for some years now and would love to discuss
-        opportunities to collaborate if this is something you would consider. Looking
-        forward to your news regarding your project. Chrissi
-      date: '2016-04-18 07:30:29'
-      date_gmt: '2016-04-17 21:30:29'
-      id: '3295'
-      parent: '3294'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Open educational practice beyond the institutio...
-      author_email: null
-      author_ip: 185.82.148.10
-      author_url: http://www.scoop.it/t/openingupuducation/p/4060283697/2016/02/26/open-educational-practice-beyond-the-institution
-      content: '[&#8230;] The following is a continuation of prior ponderings about about
-        open educational practice (OEP) and open educational resources (OER) in the context
-        of a potential institutional grant application.&nbsp; [&#8230;]'
-      date: '2016-02-26 15:04:44'
-      date_gmt: '2016-02-26 05:04:44'
-      id: '3291'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'OEP and Initial Teacher Education: Moving on from the horsey, horseless
-        carriage &#8211; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.113.165
-      author_url: https://davidtjones.wordpress.com/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/
-      content: '[&#8230;] Educational Practice. What follows is an excerpt from that application.This
-        idea evolved out of some earlier thinking. We find out how we went in [&#8230;]'
-      date: '2016-03-18 07:04:38'
-      date_gmt: '2016-03-17 21:04:38'
-      id: '3292'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a continuation of [prior ponderings](/blog/2016/02/09/on-the-relationship-between-learning-design-and-oep/) about about open educational practice (OEP) and open educational resources (OER) in the context of a potential institutional grant application. It's an attempt to make sense of some of the relevant literature I've read and figure out how that might influence the nascent project. In particular, it suggests that some of the OER/OEP literature is limited due to its focus on: OER; the individual; the institution; and, on searching as the means of discovery.
 

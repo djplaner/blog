@@ -1,76 +1,73 @@
----
+﻿---
 categories:
 - bad
-date: 2016-02-17 10:56:53+10:00
+comments:
+- approved: '1'
+  author: Tim Klapdor
+  author_email: tim.klapdor@gmail.com
+  author_ip: 137.166.105.218
+  author_url: http://timklapdor.wordpress.com
+  content: Nice to see someone else's experience with ePub and video! To be honest
+    on paper it seems like a great standard but in reality it's terrible. The problem
+    is often less to do with the standard as it does with it's actual implementation.
+    Most "reader" software focuses on text only books and so often don't even bother
+    to implement most o the ePub3 standard which means that video, javascript and
+    a huge number of significant functions just don't work. I was interested to see
+    you trying to use the  tag from an online source. We were actually using ePub
+    for a downloadable/offline resource so packaged the video with the file... which
+    I guessed might have been the source of some of your problems. It's interesting
+    that Apple have been the only ones really supportive of ePub, but even they got
+    jack of it and developed iBooks (which is just an enhanced version of ePub). Didn't
+    have time to play with this before but started to think that something like the
+    Baker Framework might be a better idea http://www.bakerframework.com - just wrapping
+    HTML5 and losing some of the pretence of "ebooks".
+  date: '2016-02-18 08:52:43'
+  date_gmt: '2016-02-17 22:52:43'
+  id: '3288'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.33
+  author_url: https://djon.es/blog/
+  content: 'Complete and cross-platform does not appear to be characteristics of ePub.
+    Which is a bit sad as I was hoping/thinking it would be a bit more useful and
+    not require a great deal of work. Sadly not the case.
+
+
+    Thanks for the pointer to the Baker Framework.  May look at it more in the future.  Wil
+    likely need some sort of solution to this problem.'
+  date: '2016-02-18 11:54:11'
+  date_gmt: '2016-02-18 01:54:11'
+  id: '3289'
+  parent: '3288'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Bron Chandler
+  author_email: bron.chandler@gmail.com
+  author_ip: 139.86.69.34
+  author_url: null
+  content: I also had success with Video working in the Calibre reader.
+  date: '2017-01-16 10:01:06'
+  date_gmt: '2017-01-16 00:01:06'
+  id: '3941'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2016-02-17 00:56:53
 next:
   text: Open educational practice beyond the institution?
   url: /blog/2016/02/22/open-educational-practice-beyond-the-institution/
+pingbacks: []
 previous:
   text: Sentiment analysis of student blog posts
   url: /blog/2016/02/14/sentiment-analysis-of-student-blog-posts/
+template: blog-post.html
 title: '"Can video be emedded in ePub exported from #moodle book?"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Tim Klapdor
-      author_email: tim.klapdor@gmail.com
-      author_ip: 137.166.105.218
-      author_url: http://timklapdor.wordpress.com
-      content: Nice to see someone else's experience with ePub and video! To be honest
-        on paper it seems like a great standard but in reality it's terrible. The problem
-        is often less to do with the standard as it does with it's actual implementation.
-        Most "reader" software focuses on text only books and so often don't even bother
-        to implement most o the ePub3 standard which means that video, javascript and
-        a huge number of significant functions just don't work. I was interested to see
-        you trying to use the  tag from an online source. We were actually using ePub
-        for a downloadable/offline resource so packaged the video with the file... which
-        I guessed might have been the source of some of your problems. It's interesting
-        that Apple have been the only ones really supportive of ePub, but even they got
-        jack of it and developed iBooks (which is just an enhanced version of ePub). Didn't
-        have time to play with this before but started to think that something like the
-        Baker Framework might be a better idea http://www.bakerframework.com - just wrapping
-        HTML5 and losing some of the pretence of "ebooks".
-      date: '2016-02-18 08:52:43'
-      date_gmt: '2016-02-17 22:52:43'
-      id: '3288'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.33
-      author_url: https://djon.es/blog/
-      content: 'Complete and cross-platform does not appear to be characteristics of ePub.
-        Which is a bit sad as I was hoping/thinking it would be a bit more useful and
-        not require a great deal of work. Sadly not the case.
-    
-    
-        Thanks for the pointer to the Baker Framework.  May look at it more in the future.  Wil
-        likely need some sort of solution to this problem.'
-      date: '2016-02-18 11:54:11'
-      date_gmt: '2016-02-18 01:54:11'
-      id: '3289'
-      parent: '3288'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Bron Chandler
-      author_email: bron.chandler@gmail.com
-      author_ip: 139.86.69.34
-      author_url: null
-      content: I also had success with Video working in the Calibre reader.
-      date: '2017-01-16 10:01:06'
-      date_gmt: '2017-01-16 00:01:06'
-      id: '3941'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Last year my institution installed the [Lucimoo epub export tool](https://moodle.org/plugins/view/booktool_exportepub) for the [Moodle Book module](https://docs.moodle.org/28/en/Book_module). I did some of [the testing of it](/blog/2015/08/18/testing-the-lucimoo-epub-export-book-tool/). I'm particularly interested (but not overly) in its ability to export a book resource as an ePub file (see I'm innovative, I support the kiddies and their fancy new mobile devices). While the export basically works, the testing identified a number of problems. I've fixed most of those (mainly tidying up my hand-crafted HTML and that produced by a few tools I use).
 
@@ -99,7 +96,7 @@ I assumed that the problem was due to my use of Vimeo to host most of my videos.
 
 This 2010 blog post provides proof that you can play video within [an ePub file](http://www.elizabethcastro.com/pgw_extras/video.epub) on a computer (MacOSX/iBooks) and a mobile (iOS/iBooks). Some level of proof given in the image below. If I hit the play button, the video plays quite nicely thank you.
 
-[![ePub file playing video](images/24982660661_af508d4d3a.jpg)](https://www.flickr.com/photos/david_jones/24982660661/in/dateposted-public/ "ePub file playing video")
+[![ePub file playing video](https://djon.es/assets/blog/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/images/24982660661_af508d4d3a.jpg)](https://www.flickr.com/photos/david_jones/24982660661/in/dateposted-public/ "ePub file playing video")
 
 ### Let's try this with vimeo
 
@@ -131,23 +128,23 @@ Success, it works as expected when viewed on iBooks on the Mac. In addition, whe
 
 The video tag embed from the original tutorial works and I can play the video of the kittens playing.
 
-[![Video tag embed working](images/24958110342_f9356111a1.jpg)](https://www.flickr.com/photos/david_jones/24958110342/in/dateposted-public/ "Video tag embed working")
+[![Video tag embed working](https://djon.es/assets/blog/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/images/24958110342_f9356111a1.jpg)](https://www.flickr.com/photos/david_jones/24958110342/in/dateposted-public/ "Video tag embed working")
 
 As expected the standard Vimeo player embed did not work. Just an empty page. No indication that there was meant to be a video embedded.
 
-[![Vimeo embed not working](images/24708596189_8f1921bcf8.jpg)](https://www.flickr.com/photos/david_jones/24708596189/in/dateposted-public/ "Vimeo embed not working") And very interestingly the embed of a Vimeo video using the video tag did work.
+[![Vimeo embed not working](https://djon.es/assets/blog/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/images/24708596189_8f1921bcf8.jpg)](https://www.flickr.com/photos/david_jones/24708596189/in/dateposted-public/ "Vimeo embed not working") And very interestingly the embed of a Vimeo video using the video tag did work.
 
-### [![Vimeo embed working (video tag)](images/24958111662_07d59d0ac2.jpg)](https://www.flickr.com/photos/david_jones/24958111662/in/dateposted-public/ "Vimeo embed working (video tag)") But not on the phone
+### [![Vimeo embed working (video tag)](https://djon.es/assets/blog/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/images/24958111662_07d59d0ac2.jpg)](https://www.flickr.com/photos/david_jones/24958111662/in/dateposted-public/ "Vimeo embed working (video tag)") But not on the phone
 
 The problem is that it doesn't work on the phone.
 
-The first page from the original tutorial will display a "play" button indicating that a video is there. But nothing happens when the button is pressed. [![IMG_4052](images/25050031286_7c49bf5097.jpg)](https://www.flickr.com/photos/david_jones/25050031286/in/dateposted-public/ "IMG_4052")
+The first page from the original tutorial will display a "play" button indicating that a video is there. But nothing happens when the button is pressed. [![IMG_4052](https://djon.es/assets/blog/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/images/25050031286_7c49bf5097.jpg)](https://www.flickr.com/photos/david_jones/25050031286/in/dateposted-public/ "IMG_4052")
 
  
 
 The standard Vimeo embed doesn't work, as expected. But the use of the video tag to embed a Vimeo video shows a "play" button crossed out. Indicating some major problem.
 
-[![IMG_4053](images/25050031506_503a5b29d2.jpg)](https://www.flickr.com/photos/david_jones/25050031506/in/dateposted-public/ "IMG_4053")
+[![IMG_4053](https://djon.es/assets/blog/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/images/25050031506_503a5b29d2.jpg)](https://www.flickr.com/photos/david_jones/25050031506/in/dateposted-public/ "IMG_4053")
 
 ### It works if you embed the video in the ePub file
 

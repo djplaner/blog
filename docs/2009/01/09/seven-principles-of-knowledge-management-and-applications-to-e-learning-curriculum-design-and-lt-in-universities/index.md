@@ -1,41 +1,38 @@
----
+﻿---
 categories:
 - chapter-2
 - cognitiveedge
 - elearning
 - missingps
 - thesis
-date: 2009-01-09 17:50:20+10:00
+comments: []
+date: 2009-01-09 07:50:20
 next:
   text: Using metaphor to examine diversity (or lack thereof) in research
   url: /blog/2009/01/16/using-metaphor-to-examine-diversity-or-lack-thereof-in-research/
+pingbacks:
+- approved: '1'
+  author: How do you implement PLEs into higher education courses? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.94.33
+  author_url: https://djon.es/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
+  content: '[...] talked about the 7 principles of knowledge management and in particular
+    principle #2 We only know what we know when we need to know it. Human knowledge
+    [...]'
+  date: '2009-01-31 10:19:01'
+  date_gmt: '2009-01-31 00:19:01'
+  id: '2069'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Content, redirects and impact on Google ranking
   url: /blog/2009/01/07/content-redirects-and-impact-on-google-ranking/
+template: blog-post.html
 title: '"Seven principles of knowledge management and applications to e-learning,
   curriculum design and L&#038;T in universities"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: How do you implement PLEs into higher education courses? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.94.33
-      author_url: https://djon.es/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
-      content: '[...] talked about the 7 principles of knowledge management and in particular
-        principle #2 We only know what we know when we need to know it. Human knowledge
-        [...]'
-      date: '2009-01-31 10:19:01'
-      date_gmt: '2009-01-31 00:19:01'
-      id: '2069'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I've been a fan of [Dave Snowden](http://www.cognitive-edge.com/files/Dave-Snowden.pdf) and his work for a couple of years. In [this blog post](http://www.cognitive-edge.com/blogs/dave/2008/10/rendering_knowledge.php) from last year Dave shares 7 principles for "rendering knowledge". For me, these 7 principles have direct connection with the tasks I'm currently involved with e-learning, curriculum design and helping improve the quality of learning and teaching.
 

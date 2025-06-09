@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - thesis
-date: 2009-03-18 23:46:51+10:00
+comments: []
+date: 2009-03-18 13:46:51
 next:
   text: Technology will *not* change the way we teach - an example why we're an amnesiac
     field
   url: /blog/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update - Week #4 - Frustration and progress &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/03/20/phd-update-week-4-frustration-and-progress/
+  content: '[...] A post drawing on some insights from Alavi and Leidner (2001) about
+    organisational implementation of e-learning. [...]'
+  date: '2009-03-20 10:19:48'
+  date_gmt: '2009-03-20 00:19:48'
+  id: '2292'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The Ps framework
   url: /blog/2009/03/18/the-ps-framework/
+template: blog-post.html
 title: Coordination, support and knowledge sharing associated with e-learning - where
   does your organisation fit?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update - Week #4 - Frustration and progress &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/03/20/phd-update-week-4-frustration-and-progress/
-      content: '[...] A post drawing on some insights from Alavi and Leidner (2001) about
-        organisational implementation of e-learning. [...]'
-      date: '2009-03-20 10:19:48'
-      date_gmt: '2009-03-20 00:19:48'
-      id: '2292'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A [recent post](/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/) summarised a paper that was taking some insights from the information systems discipline and applied it to the implementation of a LMS/VLE. This post draws on some insights from Alavi and Leidner (2001), an influential paper (208 citations on Google Scholar) from the information systems discipline. A paper that calls for IS researchers to focus more on technology-mediated learning - i.e. e-learning.
 
@@ -43,7 +40,7 @@ Of the many ways the paper suggests IS researchers can make a contribution the f
 
 Based on a review of the literature the authors suggest a simple matrix - the figure below - to summarise four common approaches universities take to the coordination, support and knowledge sharing around e-learning at the organisational level.
 
-[![Coordination, support and knowledge sharing](images/3365509860_1015d5f39f_m.jpg)](http://www.flickr.com/photos/david_jones/3365509860/ "Coordination, support and knowledge sharing by David T Jones, on Flickr")
+[![Coordination, support and knowledge sharing](https://djon.es/assets/blog/2009/03/18/coordination-support-and-knowledge-sharing-associated-with-e-learning-where-does-your-organisation-fit/images/3365509860_1015d5f39f_m.jpg)](http://www.flickr.com/photos/david_jones/3365509860/ "Coordination, support and knowledge sharing by David T Jones, on Flickr")
 
 The four quadrants can be described as:
 

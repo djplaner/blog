@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2010-09-13 13:50:18+10:00
+date: 2010-09-13 03:50:18
 next:
   text: How strict a blueprint do ISDTs provide?
   url: /blog/2010/09/13/how-strict-a-blueprint-do-isdts-provide/
 previous:
   text: More problems with BIM and special characters
   url: /blog/2010/09/05/more-problems-with-bim-and-special-characters/
+template: blog-post.html
 title: Back into the thesis
 type: post
-template: blog-post.html
 ---
 After a week away traveling with my sons in Western Queensland, I have to get back into the thesis. This post is essentially an attempt to capture where I'm up to and plan out what I need to do for the next week or so. As with the last update, I'll start scratching these out as I complete.
 

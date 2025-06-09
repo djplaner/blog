@@ -1,10 +1,10 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - moodle
 - shadowsystems
-date: 2009-07-31 11:51:19+10:00
+date: 2009-07-31 01:51:19
 next:
   text: Thinking about evaluating Webfuse (1996 through 1999) - evaluation of an LMS?
   url: /blog/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/
@@ -13,15 +13,15 @@ previous:
   url: /blog/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/
 tags:
 - vle
+template: blog-post.html
 title: Gaps, shadow systems and the VLE/LMS
 type: post
-template: blog-post.html
 ---
 One of my continuing "rants" that long-time readers of this blog will be familiar with is the lack of fit between enterprise systems and what people want to do with them. I've [blogged about this with enterprise systems](/blog/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/), learned to [live and thrive](/blog/publications/how-to-live-with-erp-systems-and-thrive/) in spite of that gap and [drawn some lessons from it](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/) for enterprise systems.
 
 It's even become a bit of a family activity with my wife's Masters research being aimed at attempting to explain the most common response to the lack of fit between people's requirements and the enterprise systems put in place to fulfill them - shadow systems. The following image is of the model that arose out of Sandy's work (Behrens and Sedera, 2004).
 
-[![Sandy's Shadow System Model](images/2987249807_d61f55f8c8_m.jpg)](http://www.flickr.com/photos/david_jones/2987249807/ "Sandy's Shadow System Model by David T Jones, on Flickr")
+[![Sandy's Shadow System Model](https://djon.es/assets/blog/2009/07/31/gaps-shadow-systems-and-the-vlelms/images/2987249807_d61f55f8c8_m.jpg)](http://www.flickr.com/photos/david_jones/2987249807/ "Sandy's Shadow System Model by David T Jones, on Flickr")
 
 One description of the model is that a gap arises (almost inevitably in my opinion) between the enterprise system and the needs of the users. It is created by a range of conditions and can be increased or reduced by two others. The existence of this gap leads to the development of shadow systems. These might simply be employing lots of other people to perform tasks manually that a system should provide. Or it might include developing additional systems to fill the gap.
 

@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - moodle
 - moodleopenbook
-date: 2015-08-18 10:22:30+10:00
+comments: []
+date: 2015-08-18 00:22:30
 next:
   text: Understanding learning as network formation
   url: /blog/2015/08/18/understanding-learning-as-network-formation/
+pingbacks:
+- approved: '1'
+  author: 'Can video be emedded in ePub exported from #moodle book? &#8211; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.113.167
+  author_url: https://davidtjones.wordpress.com/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/
+  content: '[&#8230;] my institution installed the Lucimoo epub export tool for the
+    Moodle Book module. I did some of the testing of it. I&#8217;m particularly interested
+    (but not overly) in its ability to export a book resource as an [&#8230;]'
+  date: '2016-02-17 10:57:06'
+  date_gmt: '2016-02-17 00:57:06'
+  id: '1383'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: There&#039;s more to it than the Internet and social software
   url: /blog/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/
+template: blog-post.html
 title: Testing the Lucimoo epub export book tool
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Can video be emedded in ePub exported from #moodle book? &#8211; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.113.167
-      author_url: https://davidtjones.wordpress.com/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/
-      content: '[&#8230;] my institution installed the Lucimoo epub export tool for the
-        Moodle Book module. I did some of the testing of it. I&#8217;m particularly interested
-        (but not overly) in its ability to export a book resource as an [&#8230;]'
-      date: '2016-02-17 10:57:06'
-      date_gmt: '2016-02-17 00:57:06'
-      id: '1383'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 There's movement afoot. The [Lucimoo epub export tool](https://moodle.org/plugins/view/booktool_exportepub) for the [Moodle book module](https://docs.moodle.org/28/en/Book_module) is going through the process of being tested (and perhaps installed) on my institution's main Moodle instance. What follows is a bit of testing of that tool in the institution's test environment.
 
@@ -47,7 +44,7 @@ Of course it is never perfect. The default setting on the test environment is to
 
 Once in the book select the administration/settings block and hey presto, there's the option to "Download as ebook"
 
-[![export](images/20479389760_4d6d9c16b5.jpg)](https://www.flickr.com/photos/david_jones/20479389760/in/dateposted-public/ "export")
+[![export](https://djon.es/assets/blog/2015/08/18/testing-the-lucimoo-epub-export-book-tool/images/20479389760_4d6d9c16b5.jpg)](https://www.flickr.com/photos/david_jones/20479389760/in/dateposted-public/ "export")
 
 Select that option and I get the option to download the ePub file or view it in iBooks.
 

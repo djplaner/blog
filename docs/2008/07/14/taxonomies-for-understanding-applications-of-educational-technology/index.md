@@ -1,40 +1,37 @@
----
+﻿---
 categories:
 - secondlife
 - web3dx
-date: 2008-07-14 21:39:49+10:00
+comments:
+- approved: '1'
+  author: Damo's World
+  author_email: null
+  author_ip: 76.74.248.178
+  author_url: http://damosworld.wordpress.com/2008/07/17/taxonomy-for-application-of-social-networking-applications-to-education/
+  content: '<strong>Taxonomy for application of social-networking applications to&nbsp;education...</strong>
+
+
+    In my previous post, I discussed a project where I was asked to prepare a training
+    workshop introducing educators to Second Life and provide them with skills to
+    be able to navigate this virtual world.  Skills they could then use to explore
+    and learn mo...'
+  date: '2008-07-17 13:07:36'
+  date_gmt: '2008-07-17 03:07:36'
+  id: '1582'
+  parent: '0'
+  type: trackback
+  user_id: '0'
+date: 2008-07-14 11:39:49
 next:
   text: Scavenger hunt and other methods for getting into systems
   url: /blog/2008/07/15/scavenger-hunt-and-other-methods-for-getting-into-systems/
+pingbacks: []
 previous:
   text: What do students find useful?
   url: /blog/2008/07/12/what-do-students-find-useful/
+template: blog-post.html
 title: '"Taxonomies" for understanding applications of educational technology'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Damo's World
-      author_email: null
-      author_ip: 76.74.248.178
-      author_url: http://damosworld.wordpress.com/2008/07/17/taxonomy-for-application-of-social-networking-applications-to-education/
-      content: '<strong>Taxonomy for application of social-networking applications to&nbsp;education...</strong>
-    
-    
-        In my previous post, I discussed a project where I was asked to prepare a training
-        workshop introducing educators to Second Life and provide them with skills to
-        be able to navigate this virtual world.  Skills they could then use to explore
-        and learn mo...'
-      date: '2008-07-17 13:07:36'
-      date_gmt: '2008-07-17 03:07:36'
-      id: '1582'
-      parent: '0'
-      type: trackback
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 [The group](http://cddu.cqu.edu.au/) I work with is charged with helping [CQUniversity](http://www.cquni.edu.au/) staff make use of various innovations around educational technology. One of the difficulties if giving staff a taste of the breadth of possibilities for what a new technology might be able to do.
 

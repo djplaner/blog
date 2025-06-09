@@ -1,93 +1,91 @@
----
+﻿---
 categories:
 - edc3100
 - elearning
 - indicators
 - irac
-date: 2014-02-03 13:24:40+10:00
+comments:
+- approved: '1'
+  author: Charles Schaefer (@charlesschaefer)
+  author_email: charlesschaefer@twitter.example.com
+  author_ip: 186.213.92.22
+  author_url: http://twitter.com/charlesschaefer
+  content: 'MAV is great. I didn''t know it. It is really a great tool to increase
+    the power of teachers.
+
+
+    It''s also a great news to see people using the data they have to increase the
+    knowledge and get more insights about students and their habits.
+
+
+    Thanks!
+
+
+    Charles Schaefer
+
+    http://www.eadbuilder.com.br/'
+  date: '2014-02-04 09:55:43'
+  date_gmt: '2014-02-03 23:55:43'
+  id: '945'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2014-02-03 03:24:40
 next:
   text: Analysing EDC3100 using MAV
   url: /blog/2014/02/03/analysing-edc3100-using-mav/
+pingbacks:
+- approved: '1'
+  author: Analysing EDC3100 using MAV | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.170
+  author_url: https://djon.es/blog/2014/02/03/analysing-edc3100-using-mav/
+  content: '[&#8230;] to post their introductions. This is where MAV is particularly
+    interesting, so much so it sparked another blog post. In short, I need to revisit
+    this [&#8230;]'
+  date: '2014-02-03 15:22:47'
+  date_gmt: '2014-02-03 05:22:47'
+  id: '944'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'MAV, #moodle, process analytics and I''m an idio...'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/elearning-stuff/p/4015377360/2014/02/05/mav-moodle-process-analytics-and-i-m-an-idiot-the-weblog-of-a
+  content: '[&#8230;] I&#039;m currently analysing the structure of a course I teach
+    and have been using @damoclarky&#039;s Moodle Activity Viewer to help with that.
+    In the process, I&#039;ve discovered that I&#039;m an idiot in having missed the
+    much more interesting ...&nbsp; [&#8230;]'
+  date: '2014-02-05 16:31:05'
+  date_gmt: '2014-02-05 06:31:05'
+  id: '946'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Looking for a new &#8220;icebreaker&#8221; for #edc3100 | The Weblog of
+    (a) David Jones'
+  author_email: null
+  author_ip: 207.198.101.64
+  author_url: https://djon.es/blog/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/
+  content: '[&#8230;] mentioned previously the simplistic (lazy) introductory forum
+    for #edc3100 didn&#8217;t achieve it&#8217;s ill-defined [&#8230;]'
+  date: '2014-02-18 10:05:57'
+  date_gmt: '2014-02-18 00:05:57'
+  id: '947'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: '#moodle Activity Viewer (MAV) and the promise for bricolage'
   url: /blog/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/
 tags:
 - mav
+template: blog-post.html
 title: '"MAV, #moodle, process analytics and how I''m an idiot"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Charles Schaefer (@charlesschaefer)
-      author_email: charlesschaefer@twitter.example.com
-      author_ip: 186.213.92.22
-      author_url: http://twitter.com/charlesschaefer
-      content: 'MAV is great. I didn''t know it. It is really a great tool to increase
-        the power of teachers.
-    
-    
-        It''s also a great news to see people using the data they have to increase the
-        knowledge and get more insights about students and their habits.
-    
-    
-        Thanks!
-    
-    
-        Charles Schaefer
-    
-        http://www.eadbuilder.com.br/'
-      date: '2014-02-04 09:55:43'
-      date_gmt: '2014-02-03 23:55:43'
-      id: '945'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Analysing EDC3100 using MAV | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.170
-      author_url: https://djon.es/blog/2014/02/03/analysing-edc3100-using-mav/
-      content: '[&#8230;] to post their introductions. This is where MAV is particularly
-        interesting, so much so it sparked another blog post. In short, I need to revisit
-        this [&#8230;]'
-      date: '2014-02-03 15:22:47'
-      date_gmt: '2014-02-03 05:22:47'
-      id: '944'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'MAV, #moodle, process analytics and I''m an idio...'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/elearning-stuff/p/4015377360/2014/02/05/mav-moodle-process-analytics-and-i-m-an-idiot-the-weblog-of-a
-      content: '[&#8230;] I&#039;m currently analysing the structure of a course I teach
-        and have been using @damoclarky&#039;s Moodle Activity Viewer to help with that.
-        In the process, I&#039;ve discovered that I&#039;m an idiot in having missed the
-        much more interesting ...&nbsp; [&#8230;]'
-      date: '2014-02-05 16:31:05'
-      date_gmt: '2014-02-05 06:31:05'
-      id: '946'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Looking for a new &#8220;icebreaker&#8221; for #edc3100 | The Weblog of
-        (a) David Jones'
-      author_email: null
-      author_ip: 207.198.101.64
-      author_url: https://djon.es/blog/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/
-      content: '[&#8230;] mentioned previously the simplistic (lazy) introductory forum
-        for #edc3100 didn&#8217;t achieve it&#8217;s ill-defined [&#8230;]'
-      date: '2014-02-18 10:05:57'
-      date_gmt: '2014-02-18 00:05:57'
-      id: '947'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm currently analysing the structure of a course I teach and have been using @damoclarky's [Moodle Activity Viewer](/blog/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/) to help with that. In the process, I've discovered that I'm an idiot in having missed the much more interesting and useful application of MAV than what I've mentioned previously. The following explains (at least one example of) how I'm an idiot and how MAV can help provide a type of process analytics as defined by Lockyer et al (2013).
 

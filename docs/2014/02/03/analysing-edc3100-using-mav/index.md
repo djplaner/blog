@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - edc3100
-date: 2014-02-03 15:22:35+10:00
+date: 2014-02-03 05:22:35
 next:
   text: Identifying some immediate changes to BIM
   url: /blog/2014/02/05/identifying-some-immediate-changes-to-bim/
@@ -10,9 +10,9 @@ previous:
   url: /blog/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/
 tags:
 - mav
+template: blog-post.html
 title: Analysing EDC3100 using MAV
 type: post
-template: blog-post.html
 ---
 Now that I have the [Moodle Activity Viewer (MAV)](/blog/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/) working, I can [continue the analysis](/blog/2014/01/22/what-should-be-covered-in-edc3100/) of the course I teach, [EDC3100, ICTs and Pedagogy](http://www.usq.edu.au/course/synopses/2014/EDC3100.html). This post documents some reflections on the existing collection of activities and resources in the course informed somewhat by the insights provided by MAV.
 

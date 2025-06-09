@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bam
-date: 2009-08-13 11:31:16+10:00
+comments: []
+date: 2009-08-13 01:31:16
 next:
   text: '"PhD Update #20 - Progress, slowness and techno-rationality"'
   url: /blog/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/
+pingbacks:
+- approved: '1'
+  author: 'BIM #4: Re-jigging how BIM works &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/08/17/bim-4-re-jigging-how-bim-works/
+  content: '[...] #4: Re-jigging how BIM&nbsp;works  The last post in this series
+    saw me struggling &#8211; the long way around &#8211; to the realisation that
+    the implementation [...]'
+  date: '2009-08-17 09:07:51'
+  date_gmt: '2009-08-16 23:07:51'
+  id: '2711'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM#2 - Starting the module
   url: /blog/2009/08/11/bim2-starting-the-module/
+template: blog-post.html
 title: '"BIM #3: Getting the module work, making some progress?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'BIM #4: Re-jigging how BIM works &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/08/17/bim-4-re-jigging-how-bim-works/
-      content: '[...] #4: Re-jigging how BIM&nbsp;works  The last post in this series
-        saw me struggling &#8211; the long way around &#8211; to the realisation that
-        the implementation [...]'
-      date: '2009-08-17 09:07:51'
-      date_gmt: '2009-08-16 23:07:51'
-      id: '2711'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The story of trying to get BAM into Moodle (BIM) continues, today's saga continues on from the [last post](/blog/2009/08/11/bim2-starting-the-module/) which had progress stalled. The NEWMODULE template module was put in place, I had thought most of the necessary steps were being taken, however, the module name is not showing up as expected.
 

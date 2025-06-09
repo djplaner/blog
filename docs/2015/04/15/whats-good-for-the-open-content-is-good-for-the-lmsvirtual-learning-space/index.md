@@ -1,67 +1,64 @@
----
+﻿---
 categories:
 - 5rs
 - bad
 - elearning
 - moodleopenbook
 - openbook
-date: 2015-04-15 10:15:12+10:00
+comments: []
+date: 2015-04-15 00:15:12
 next:
   text: Where does the LMS sit in the reusability paradox
   url: /blog/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
+pingbacks:
+- approved: '1'
+  author: Where does the LMS site in the reusability paradox | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.86.73
+  author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-site-in-the-reusability-paradox/
+  content: '[&#8230;] post continues the adaptation of the original work of David
+    Wiley around the reuse and remixing of open content and applying that [&#8230;]'
+  date: '2015-04-21 15:54:49'
+  date_gmt: '2015-04-21 05:54:49'
+  id: '1263'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Where does the LMS sit in the reusability paradox | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.81.50
+  author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
+  content: '[&#8230;] post continues the adaptation of the original work of David
+    Wiley around the reuse and remixing of open content and applying that [&#8230;]'
+  date: '2015-04-21 15:57:07'
+  date_gmt: '2015-04-21 05:57:07'
+  id: '1264'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Peer review | charmedlearning
+  author_email: null
+  author_ip: 192.0.99.224
+  author_url: https://charmedlearning.wordpress.com/2015/11/08/peer-review/
+  content: "[&#8230;] and in the new LMS. Considering that it is new and that an LMS\
+    \ doesn\u2019t support open networks (David Jones blog), teachers have been unable\
+    \ to easily connect with others using this [&#8230;]"
+  date: '2015-11-08 10:58:30'
+  date_gmt: '2015-11-08 00:58:30'
+  id: '1265'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Starting the &quot;Moodle open book&quot; project
   url: /blog/2015/04/13/starting-the-moodle-open-book-project/
+template: blog-post.html
 title: What's good for "open content" is good for the LMS/virtual learning space?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Where does the LMS site in the reusability paradox | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.86.73
-      author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-site-in-the-reusability-paradox/
-      content: '[&#8230;] post continues the adaptation of the original work of David
-        Wiley around the reuse and remixing of open content and applying that [&#8230;]'
-      date: '2015-04-21 15:54:49'
-      date_gmt: '2015-04-21 05:54:49'
-      id: '1263'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Where does the LMS sit in the reusability paradox | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.81.50
-      author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
-      content: '[&#8230;] post continues the adaptation of the original work of David
-        Wiley around the reuse and remixing of open content and applying that [&#8230;]'
-      date: '2015-04-21 15:57:07'
-      date_gmt: '2015-04-21 05:57:07'
-      id: '1264'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Peer review | charmedlearning
-      author_email: null
-      author_ip: 192.0.99.224
-      author_url: https://charmedlearning.wordpress.com/2015/11/08/peer-review/
-      content: "[&#8230;] and in the new LMS. Considering that it is new and that an LMS\
-        \ doesn\u2019t support open networks (David Jones blog), teachers have been unable\
-        \ to easily connect with others using this [&#8230;]"
-      date: '2015-11-08 10:58:30'
-      date_gmt: '2015-11-08 00:58:30'
-      id: '1265'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 My tweet stream reminded me this morning that [#oer15](https://oer15.oerconf.org/) is up and running. The following tweet from @courosa was amongst the first I saw.
 

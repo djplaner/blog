@@ -1,71 +1,68 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-10-19 12:43:49+10:00
+comments: []
+date: 2010-10-19 02:43:49
 next:
   text: Time for a career change?
   url: /blog/2010/10/20/time-for-a-career-change/
+pingbacks:
+- approved: '1'
+  author: '#PLENK2010 The Elements of a Network Learning and Development Platform:
+    A Beginning | A Chronicle of a Learning Journey'
+  author_email: null
+  author_ip: 66.135.63.39
+  author_url: http://howardjohnson.edublogs.org/2010/10/27/plenk2010-the-elements-of-a-network-learning-and-development-platform-a-beginning/
+  content: '[...] looking unsustainable and it&#8217;s only increasing given the trends
+    toward what David Jones calls The Commodification of Knowledge. (The) fundamental
+    problem that I see in this (commodification) response is a limited and incorrect
+    [...]'
+  date: '2010-10-28 04:45:51'
+  date_gmt: '2010-10-27 18:45:51'
+  id: '3172'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Changing Roles of Higher Educators &laquo; Damo&#8217;s World
+  author_email: null
+  author_ip: 76.74.248.184
+  author_url: http://damosworld.wordpress.com/2011/03/13/changing-roles-of-higher-educators/
+  content: "[...] Education is increasingly a commodity in these times. More and more,\
+    \ Australian Universities are pitted against one another competing for students.\_\
+    \ The more students you have, the more money you get.\_ This is in a country where\
+    \ almost all Universities are government owned and run.\_ I think there are maybe\
+    \ 2 or 3 Universities in Australia that are privately owned.\_ While in contrast\
+    \ to the United States for example where many Universities are not Government\
+    \ owned and run, education is increasingly a customer-driven industry, and their\
+    \ products to be traded. [...]"
+  date: '2011-03-13 17:54:13'
+  date_gmt: '2011-03-13 07:54:13'
+  id: '3173'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Open education, cracks, and the crisis of higher education | Richard Hall&#039;s
+    Space
+  author_email: null
+  author_ip: 209.234.253.104
+  author_url: http://www.richard-hall.org/?p=126
+  content: "[...] need to re-focus our critique in-part on the place of technology\
+    \ in the idea of higher education. David Jones argues that \u201CIt\u2019s the\
+    \ focus on the product that has led university leaders to place less [...]"
+  date: '2011-12-07 23:24:34'
+  date_gmt: '2011-12-07 13:24:34'
+  id: '3174'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The problem with blended learning
   url: /blog/2010/10/13/the-problem-with-blended-learning/
+template: blog-post.html
 title: Change in education, failure to learn and the commodification of university
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: '#PLENK2010 The Elements of a Network Learning and Development Platform:
-        A Beginning | A Chronicle of a Learning Journey'
-      author_email: null
-      author_ip: 66.135.63.39
-      author_url: http://howardjohnson.edublogs.org/2010/10/27/plenk2010-the-elements-of-a-network-learning-and-development-platform-a-beginning/
-      content: '[...] looking unsustainable and it&#8217;s only increasing given the trends
-        toward what David Jones calls The Commodification of Knowledge. (The) fundamental
-        problem that I see in this (commodification) response is a limited and incorrect
-        [...]'
-      date: '2010-10-28 04:45:51'
-      date_gmt: '2010-10-27 18:45:51'
-      id: '3172'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Changing Roles of Higher Educators &laquo; Damo&#8217;s World
-      author_email: null
-      author_ip: 76.74.248.184
-      author_url: http://damosworld.wordpress.com/2011/03/13/changing-roles-of-higher-educators/
-      content: "[...] Education is increasingly a commodity in these times. More and more,\
-        \ Australian Universities are pitted against one another competing for students.\_\
-        \ The more students you have, the more money you get.\_ This is in a country where\
-        \ almost all Universities are government owned and run.\_ I think there are maybe\
-        \ 2 or 3 Universities in Australia that are privately owned.\_ While in contrast\
-        \ to the United States for example where many Universities are not Government\
-        \ owned and run, education is increasingly a customer-driven industry, and their\
-        \ products to be traded. [...]"
-      date: '2011-03-13 17:54:13'
-      date_gmt: '2011-03-13 07:54:13'
-      id: '3173'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Open education, cracks, and the crisis of higher education | Richard Hall&#039;s
-        Space
-      author_email: null
-      author_ip: 209.234.253.104
-      author_url: http://www.richard-hall.org/?p=126
-      content: "[...] need to re-focus our critique in-part on the place of technology\
-        \ in the idea of higher education. David Jones argues that \u201CIt\u2019s the\
-        \ focus on the product that has led university leaders to place less [...]"
-      date: '2011-12-07 23:24:34'
-      date_gmt: '2011-12-07 13:24:34'
-      id: '3174'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 20 years ago, straight from graduating, I started work as a part-time tutor within a Department of Mathematics and Computing. Within a few years it was obvious to a naive computing person that the mathematics part of the department was in trouble. Fewer and fewer people were enrolling in the mathematics programs, but they still had a fairly large group of academics (mostly doing service teaching - i.e. stats for business undergrads). At the same time, computing was exploding in enrolments. We had too few staff and too many students. The perception was that it wasn't fair on us, to carry them.
 

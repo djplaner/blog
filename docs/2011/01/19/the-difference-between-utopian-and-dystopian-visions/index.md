@@ -1,9 +1,9 @@
----
+﻿---
 categories:
 - elearning
 - lak11
 - quotes
-date: 2011-01-19 10:35:52+10:00
+date: 2011-01-19 00:35:52
 next:
   text: The power of organisational structure
   url: /blog/2011/01/25/the-power-of-organisational-structure/
@@ -12,9 +12,9 @@ previous:
   url: /blog/2011/01/18/analytics-creating-too-much-transparency-a-two-edged-sword/
 tags:
 - lak11
+template: blog-post.html
 title: The difference between utopian and dystopian visions
 type: post
-template: blog-post.html
 ---
 As part of the [LAK11](http://learninganalytics.net/) course Howard Johnson has [commented](http://howardjohnson.edublogs.org/2011/01/18/lak11-utopian-and-dystopian-visions-of-analytics-its-a-question-of-validity/) on an earlier post of mine. This post is a place holder for a really nice quote from Howard's post, an example from recent media reports, and perhaps a bit of a reflection on responses to analytics.
 

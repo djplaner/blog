@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - phd
 - reflectivealignment
 - thesis
-date: 2009-08-18 15:48:30+10:00
+comments: []
+date: 2009-08-18 05:48:30
 next:
   text: The product component of the Ps Framework
   url: /blog/2009/08/19/the-product-component-of-the-ps-framework/
+pingbacks:
+- approved: '1'
+  author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  content: '[...] corruption, the myth of rationality, the fad cycle and management
+    fashions, the grammar of school, nudging, the [...]'
+  date: '2013-01-24 15:06:29'
+  date_gmt: '2013-01-24 05:06:29'
+  id: '2722'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Herding cats, losing weight and how to improve learning and teaching
   url: /blog/2009/08/18/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching/
+template: blog-post.html
 title: Nudging as paternalism
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
-      content: '[...] corruption, the myth of rationality, the fad cycle and management
-        fashions, the grammar of school, nudging, the [...]'
-      date: '2013-01-24 15:06:29'
-      date_gmt: '2013-01-24 05:06:29'
-      id: '2722'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is a story about [serendipitous connectability](http://punya.educ.msu.edu/2009/03/23/serendipitous-connectability-a-short-history-of-an-idea/) connecting both the online and offline worlds and making me aware of a growing narrative or theory. Which makes me question whether or not nudging or [nudge theory](http://www.guardian.co.uk/politics/2008/jul/12/economy.conservatives1?gusrc=rss&feed=worldnews) is [libertarian paternalism](http://en.wikipedia.org/wiki/Libertarian_paternalism)
 

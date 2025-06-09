@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - web-20-course-sites
-date: 2006-12-23 21:39:27+10:00
+date: 2006-12-23 11:39:27
 next:
   text: Rationale for the Web 2.0 Course Site approach
   url: /blog/2006/12/23/rationale-for-the-web-20-course-site-approach-2/
 previous:
   text: SaaS, Consumer products, shadow systems and e-learning
   url: /blog/2006/12/22/saas-consumer-products-shadow-systems-and-e-learning/
+template: blog-post.html
 title: Rationale for the Web 2.0 Course Site approach
 type: post
-template: blog-post.html
 ---
 Pittard (2004) talks about the UK government's plans for e-learning (my bad description). It includes the following
 

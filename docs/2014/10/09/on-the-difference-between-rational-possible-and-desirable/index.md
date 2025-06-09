@@ -1,74 +1,71 @@
----
+﻿---
 categories:
 - bad
 - elearning
 - indicators
-date: 2014-10-09 11:24:43+10:00
+comments:
+- approved: '1'
+  author: M-H
+  author_email: mhward@bigpond.net.au
+  author_ip: 129.78.233.211
+  author_url: null
+  content: I don't disagree with anything here on the dangers of whole-of-institution
+    approaches. But there are many other ways to use analytics, and I know people
+    in my own institution who are being creative with the data from LMS sites. They
+    are using aggregated quiz results, for example, to identify concepts that they
+    aren't teaching well, that students are getting consistently wrong.They are looking
+    at how students use the site, and changing its structure to meet that better.
+    They are using LTIs and comparing levels of student use with the use of the LMS
+    and adjusting their teaching accordingly. I'm not saying these are the majority
+    of teaching staff, but they are finding good ways to use the data to improve teaching
+    and learning. In the end, teaching isn't about LMSs, LTIs, lecture capture, image
+    databases, streaming video or videoconferencing (all enterprise tools that we
+    provide). It's about the engagement between staff members and students that those
+    tools can enhance. Anything the institution does to describe or measure teaching
+    is just a (faint) reflection of that.
+  date: '2014-10-09 12:40:59'
+  date_gmt: '2014-10-09 02:40:59'
+  id: '1145'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 1.120.217.184
+  author_url: https://djon.es/blog/
+  content: 'Looks like we''re in broad agreement. I''m not arguing that there isn''t
+    useful applications of analytics. But it''s almost invariably going to be within
+    the specifics of the learning experience. Aggregated quiz results work well in
+    a learning design that includes quizzes.  What I''m increasingly seeing however
+    is a focus on the "do it to/for" path which requires a whole of institution approach,
+    rather than a "do it with" path that focuses on helping discover and leverage
+    how learning analytics can help.
+
+
+    The problem isn''t that teachers don''t want to use the available data to improve
+    student learning and their own teaching. It''s often that it''s too hard to leverage
+    the data.  For example, "looking at how students use the site".  <a href="https://djon.es/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#MAV"
+    rel="nofollow">This section</a> from another ASCILITE''14 paper talks about the
+    difficulties (and a solution) at one institution of performing this task.'
+  date: '2014-10-10 11:41:52'
+  date_gmt: '2014-10-10 01:41:52'
+  id: '1146'
+  parent: '1145'
+  type: comment
+  user_id: '1'
+date: 2014-10-09 01:24:43
 next:
   text: Fixing one part of the peoplesoft gradebook
   url: /blog/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/
+pingbacks: []
 previous:
   text: What do new views of knowledge &#038; thinking have to say about research
     on teacher learning?
   url: /blog/2014/10/03/what-do-new-views-of-knowledge-thinking-have-to-say-about-research-on-teacher-learning/
+template: blog-post.html
 title: On the difference between "rational", "possible" and "desirable"
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: M-H
-      author_email: mhward@bigpond.net.au
-      author_ip: 129.78.233.211
-      author_url: null
-      content: I don't disagree with anything here on the dangers of whole-of-institution
-        approaches. But there are many other ways to use analytics, and I know people
-        in my own institution who are being creative with the data from LMS sites. They
-        are using aggregated quiz results, for example, to identify concepts that they
-        aren't teaching well, that students are getting consistently wrong.They are looking
-        at how students use the site, and changing its structure to meet that better.
-        They are using LTIs and comparing levels of student use with the use of the LMS
-        and adjusting their teaching accordingly. I'm not saying these are the majority
-        of teaching staff, but they are finding good ways to use the data to improve teaching
-        and learning. In the end, teaching isn't about LMSs, LTIs, lecture capture, image
-        databases, streaming video or videoconferencing (all enterprise tools that we
-        provide). It's about the engagement between staff members and students that those
-        tools can enhance. Anything the institution does to describe or measure teaching
-        is just a (faint) reflection of that.
-      date: '2014-10-09 12:40:59'
-      date_gmt: '2014-10-09 02:40:59'
-      id: '1145'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 1.120.217.184
-      author_url: https://djon.es/blog/
-      content: 'Looks like we''re in broad agreement. I''m not arguing that there isn''t
-        useful applications of analytics. But it''s almost invariably going to be within
-        the specifics of the learning experience. Aggregated quiz results work well in
-        a learning design that includes quizzes.  What I''m increasingly seeing however
-        is a focus on the "do it to/for" path which requires a whole of institution approach,
-        rather than a "do it with" path that focuses on helping discover and leverage
-        how learning analytics can help.
-    
-    
-        The problem isn''t that teachers don''t want to use the available data to improve
-        student learning and their own teaching. It''s often that it''s too hard to leverage
-        the data.  For example, "looking at how students use the site".  <a href="https://djon.es/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#MAV"
-        rel="nofollow">This section</a> from another ASCILITE''14 paper talks about the
-        difficulties (and a solution) at one institution of performing this task.'
-      date: '2014-10-10 11:41:52'
-      date_gmt: '2014-10-10 01:41:52'
-      id: '1146'
-      parent: '1145'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 A couple of weeks ago @kateMfD wrote a post asking ["What next for the LMS?"](http://musicfordeckchairs.wordpress.com/2014/09/27/what-next-for-the-lms/). (one of a raft of LMS posts doing the rounds recently). Kate's point was in part that
 

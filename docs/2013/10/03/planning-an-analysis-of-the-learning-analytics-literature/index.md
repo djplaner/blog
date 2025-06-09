@@ -1,79 +1,77 @@
----
+﻿---
 categories:
 - indicators
 - irac
 - learninganalytics-elearning
-date: 2013-10-03 13:50:09+10:00
+comments:
+- approved: '1'
+  author: damoclarky
+  author_email: d.clark@cqu.edu.au
+  author_ip: 138.77.33.149
+  author_url: null
+  content: 'Hi David,
+
+
+    The Diigo API (https://www.diigo.com/api_dev/docs#section-methods) allows retrieving
+    bookmarks.  The example response shows (while empty) annotations and comments
+    fields along with tags.
+
+
+    This could be programmatically extracted after analysis in the browser.
+
+
+    Just a thought.
+
+
+    Damien.'
+  date: '2013-10-03 14:16:19'
+  date_gmt: '2013-10-03 04:16:19'
+  id: '875'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: Okay, that looks good.  Get's the data into a database.  Trouble is I'm
+    thinking something like NVIVO is probably going to have better analysis and visualisation
+    functionality of the information.  Sure we could dodgy something up, but may be
+    time to bite the bullet.  Of course, I note that NVIVO for the Mac is coming "late
+    2013".  My institution has a site licence for NVIVO, yours?
+  date: '2013-10-03 15:02:12'
+  date_gmt: '2013-10-03 05:02:12'
+  id: '876'
+  parent: '875'
+  type: comment
+  user_id: '1'
+date: 2013-10-03 03:50:09
 next:
   text: Dissenting views of institutional e-learning
   url: /blog/2013/10/09/dissenting-views-of-institutional-e-learning/
+pingbacks:
+- approved: '1'
+  author: Approaches for literature analysis | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.35
+  author_url: https://djon.es/blog/2013/11/15/approaches-for-literature-analysis/
+  content: '[&#8230;] of the on-going research projects we have underway (really just
+    starting up) is an analysis of the learning analytics literature. The following
+    is an ad hoc record of a search into the literature around different approaches
+    to [&#8230;]'
+  date: '2013-11-15 15:33:49'
+  date_gmt: '2013-11-15 05:33:49'
+  id: '877'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'The IRAC framework: Locating the performance zone for learning analytics'
   url: /blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/
+template: blog-post.html
 title: Planning an analysis of the learning analytics literature
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: damoclarky
-      author_email: d.clark@cqu.edu.au
-      author_ip: 138.77.33.149
-      author_url: null
-      content: 'Hi David,
-    
-    
-        The Diigo API (https://www.diigo.com/api_dev/docs#section-methods) allows retrieving
-        bookmarks.  The example response shows (while empty) annotations and comments
-        fields along with tags.
-    
-    
-        This could be programmatically extracted after analysis in the browser.
-    
-    
-        Just a thought.
-    
-    
-        Damien.'
-      date: '2013-10-03 14:16:19'
-      date_gmt: '2013-10-03 04:16:19'
-      id: '875'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: Okay, that looks good.  Get's the data into a database.  Trouble is I'm
-        thinking something like NVIVO is probably going to have better analysis and visualisation
-        functionality of the information.  Sure we could dodgy something up, but may be
-        time to bite the bullet.  Of course, I note that NVIVO for the Mac is coming "late
-        2013".  My institution has a site licence for NVIVO, yours?
-      date: '2013-10-03 15:02:12'
-      date_gmt: '2013-10-03 05:02:12'
-      id: '876'
-      parent: '875'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Approaches for literature analysis | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.35
-      author_url: https://djon.es/blog/2013/11/15/approaches-for-literature-analysis/
-      content: '[&#8230;] of the on-going research projects we have underway (really just
-        starting up) is an analysis of the learning analytics literature. The following
-        is an ad hoc record of a search into the literature around different approaches
-        to [&#8230;]'
-      date: '2013-11-15 15:33:49'
-      date_gmt: '2013-11-15 05:33:49'
-      id: '877'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 With the vague idea of the [IRAC framework done](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/), it's time to take the next step, i.e. "to use the framework to analyse the extant learning analytics literature". The following is some initial thinking behind why, what and how we're thinking of doing.
 
@@ -96,7 +94,7 @@ We think this is sensible because of the theory/principles we've [built the IRAC
 
 The foundation of the following image is Siemens (2013) analytics model. Over the top of that model we've applied the IRAC framework components. Not only does this suggest that the IRAC components aren't entirely divorced from learning analytics, it also suggests the potential over emphasis that we're worried about. The image shows how the Information component - gathering the information and analysing it - takes up more than three-quarters of the model. While this is an essential component of learning analytics, our argument is that the Affordances and Change components need significantly greater consideration if learning analytics is to be integrated into learning and teaching processes.
 
-[![Slide77](images/9861600413_82f7e37eea_z.jpg)](http://www.flickr.com/photos/david_jones/9861600413/ "Slide77 by David T Jones, on Flickr")
+[![Slide77](https://djon.es/assets/blog/2013/10/03/planning-an-analysis-of-the-learning-analytics-literature/images/9861600413_82f7e37eea_z.jpg)](http://www.flickr.com/photos/david_jones/9861600413/ "Slide77 by David T Jones, on Flickr")
 
 ## How?
 

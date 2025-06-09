@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - web-20-course-sites
-date: 2006-12-23 21:41:18+10:00
+date: 2006-12-23 11:41:18
 next:
   text: LMSes mostly for administrative purposes
   url: /blog/2006/12/28/lmses-mostly-for-administrative-purposes/
 previous:
   text: Rationale for the Web 2.0 Course Site approach
   url: /blog/2006/12/23/rationale-for-the-web-20-course-site-approach/
+template: blog-post.html
 title: Rationale for the Web 2.0 Course Site approach
 type: post
-template: blog-post.html
 ---
 Pittard (2004) talks about the UK government's plans for e-learning (my bad description). It includes the following
 

@@ -1,54 +1,51 @@
----
+﻿---
 categories:
 - elearning
 - ple
 - plescquni
 - react
 - react2008
-date: 2008-10-29 11:27:17+10:00
+comments: []
+date: 2008-10-29 01:27:17
 next:
   text: How do we transform institutions? Learning 2.0 and PLEs@CQUni
   url: /blog/2008/10/30/how-do-we-transform-institutions-learning-20-and-plescquni/
+pingbacks:
+- approved: '1'
+  author: Between the idea and the reality,&#8230;. falls the shadow &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.44.18
+  author_url: https://djon.es/blog/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/
+  content: '[...] development of shadow systems than exist within the development
+    arms of central IT divisions. And diversity and through it perspective shift is
+    a necessary condition for [...]'
+  date: '2008-10-31 10:39:05'
+  date_gmt: '2008-10-31 00:39:05'
+  id: '1858'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Disruption and the &#8220;mythic&#8221; technologies of education &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/
+  content: '[...] - technology becomes mythic, and my own views about the roles played
+    by consistency (bad) and diversity [...]'
+  date: '2009-04-14 10:58:16'
+  date_gmt: '2009-04-14 00:58:16'
+  id: '1859'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The gulf between users and IT departments
   url: /blog/2008/10/26/the-gulf-between-users-and-it-departments/
+template: blog-post.html
 title: The importance of diversity to improving learning and teaching
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Between the idea and the reality,&#8230;. falls the shadow &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.44.18
-      author_url: https://djon.es/blog/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/
-      content: '[...] development of shadow systems than exist within the development
-        arms of central IT divisions. And diversity and through it perspective shift is
-        a necessary condition for [...]'
-      date: '2008-10-31 10:39:05'
-      date_gmt: '2008-10-31 00:39:05'
-      id: '1858'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Disruption and the &#8220;mythic&#8221; technologies of education &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/
-      content: '[...] - technology becomes mythic, and my own views about the roles played
-        by consistency (bad) and diversity [...]'
-      date: '2009-04-14 10:58:16'
-      date_gmt: '2009-04-14 00:58:16'
-      id: '1859'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 For some time I have thought that one of the major barriers to improving/innovation in learning and teaching has been the consistency of practice and mindset held by discipline based groups. Now I've got some suggestion of a research basis for this view. This post attempts to explain my view, outline the research basis and draw implications for the practice of learning and teaching at Universities.
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - edu8117
 - psframework
-date: 2014-08-15 10:39:50+10:00
+date: 2014-08-15 00:39:50
 next:
   text: '"Joining the "swarm": what a course might be?"'
   url: /blog/2014/08/15/joining-the-swarm-what-a-course-might-be/
 previous:
   text: Feeling left out of the conversation
   url: /blog/2014/08/14/feeling-left-out-of-the-conversation/
+template: blog-post.html
 title: Strategic plans, theoretical models and just doing it
 type: post
-template: blog-post.html
 ---
 Suffering a minor malaise brought on the strategic/operational planning process currently underway at my place of work. As a process it always seems an exercise in futility and frustration, but at least the current process is significantly better than some I've observed.
 

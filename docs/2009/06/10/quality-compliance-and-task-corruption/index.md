@@ -1,51 +1,48 @@
----
+﻿---
 categories:
 - reflectivealignment
-date: 2009-06-10 10:05:19+10:00
+comments: []
+date: 2009-06-10 00:05:19
 next:
   text: Institutional learning and teaching strategies
   url: /blog/2009/06/11/institutional-learning-and-teaching-strategies/
+pingbacks:
+- approved: '1'
+  author: Why minimium standards (probably) won&#8217;t work and will probably become
+    maximum standards &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.152
+  author_url: https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
+  content: '[...] complained previously about Quality compliance and task corruption
+    and the risks run by prescription. The last post includes this quote from Knight
+    and Trowler (2000) [...]'
+  date: '2009-06-19 13:30:21'
+  date_gmt: '2009-06-19 03:30:21'
+  id: '2594'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Loosing weight, improving learning and teaching and complex systems &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.175
+  author_url: https://djon.es/blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/
+  content: '[...]  Anyone who listens to me or reads this blog (e.g. when senior management
+    loses the plot, quality compliance and task corruption, models of growth &#8211;
+    responding to the grammar of school, improving university teaching and [...]'
+  date: '2009-08-06 13:07:29'
+  date_gmt: '2009-08-06 03:07:29'
+  id: '2595'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: An ill-informed observation on connectivism and other learning theories
   url: /blog/2009/06/09/an-ill-informed-observation-on-connectivism-and-other-learning-theories/
+template: blog-post.html
 title: Quality, compliance and task corruption
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Why minimium standards (probably) won&#8217;t work and will probably become
-        maximum standards &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.152
-      author_url: https://djon.es/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
-      content: '[...] complained previously about Quality compliance and task corruption
-        and the risks run by prescription. The last post includes this quote from Knight
-        and Trowler (2000) [...]'
-      date: '2009-06-19 13:30:21'
-      date_gmt: '2009-06-19 03:30:21'
-      id: '2594'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Loosing weight, improving learning and teaching and complex systems &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.175
-      author_url: https://djon.es/blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/
-      content: '[...]  Anyone who listens to me or reads this blog (e.g. when senior management
-        loses the plot, quality compliance and task corruption, models of growth &#8211;
-        responding to the grammar of school, improving university teaching and [...]'
-      date: '2009-08-06 13:07:29'
-      date_gmt: '2009-08-06 03:07:29'
-      id: '2595'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Within the next year [AUQA](http://www.auqa.edu.au/) are coming to pay a visit to my institution to "check our quality". I am a major cynic when it comes to quality assurance or the various other associated buzz words. An organisational unit I joined was big on the whole quality stuff, and while it was certified it was my view that most of what it was certified to do was completely and utterly wrong for the organisation. Not to mention that it was inefficient, badly designed and we had consultants reports to tell us that (not just our own views).
 

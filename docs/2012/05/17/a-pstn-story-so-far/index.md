@@ -1,73 +1,70 @@
----
+﻿---
 categories:
 - elearning
 - pstn
-date: 2012-05-17 10:51:37+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 124.189.212.253
+  author_url: http://elkeschneider.com
+  content: 'Hi David.
+
+
+    I''m new to Twitter.  I had an account before the current edc3100 subject started
+    but hadn''t really used it.  It probably took at least 6 weeks, while also blogging,
+    to finally realise the potential of using Twitter.  I view Twitter everyday now
+    and actively engage sporadically.
+
+
+    You had introduced #pstn early in the semester and at the time I just didn''t
+    get it.  I wonder if adding conversations about it on forums etc throughout the
+    course might help with uptake.
+
+
+    Elke'
+  date: '2012-05-17 20:06:48'
+  date_gmt: '2012-05-17 10:06:48'
+  id: '353'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.169.205.13
+  author_url: https://djon.es/blog/
+  content: 'G''day Elke,
+
+
+    Thanks for taking the time to comment. Interesting to hear the perspective from
+    the other side - one of the tasks we have to do with the project is to engage
+    more with the student perspective.
+
+
+    I think conversations on the forums is a step in the right direction, part of
+    what we''ll try next term.  Embedding it more in the rambles and perhaps the assignments
+    are also on the cards.
+
+
+    David.'
+  date: '2012-05-27 10:19:18'
+  date_gmt: '2012-05-27 00:19:18'
+  id: '354'
+  parent: '353'
+  type: comment
+  user_id: '1'
+date: 2012-05-17 00:51:37
 next:
   text: Harnessing learning analytics to inform/improve learning and teaching
   url: /blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
+pingbacks: []
 previous:
   text: Can learning analytics make a Golf GTI
   url: /blog/2012/05/15/can-learning-analytics-make-a-golf-gti/
+template: blog-post.html
 title: '"A #pstn story, so far"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 124.189.212.253
-      author_url: http://elkeschneider.com
-      content: 'Hi David.
-    
-    
-        I''m new to Twitter.  I had an account before the current edc3100 subject started
-        but hadn''t really used it.  It probably took at least 6 weeks, while also blogging,
-        to finally realise the potential of using Twitter.  I view Twitter everyday now
-        and actively engage sporadically.
-    
-    
-        You had introduced #pstn early in the semester and at the time I just didn''t
-        get it.  I wonder if adding conversations about it on forums etc throughout the
-        course might help with uptake.
-    
-    
-        Elke'
-      date: '2012-05-17 20:06:48'
-      date_gmt: '2012-05-17 10:06:48'
-      id: '353'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.169.205.13
-      author_url: https://djon.es/blog/
-      content: 'G''day Elke,
-    
-    
-        Thanks for taking the time to comment. Interesting to hear the perspective from
-        the other side - one of the tasks we have to do with the project is to engage
-        more with the student perspective.
-    
-    
-        I think conversations on the forums is a step in the right direction, part of
-        what we''ll try next term.  Embedding it more in the rambles and perhaps the assignments
-        are also on the cards.
-    
-    
-        David.'
-      date: '2012-05-27 10:19:18'
-      date_gmt: '2012-05-27 00:19:18'
-      id: '354'
-      parent: '353'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 What follows is some reflection on forward thinking about the [Pre-Service Teacher Network (#pstn) project](http://universityofawesome.org/pstn/about/). Bits of this may end up in a paper destined for the [PLE Conference 2012](http://pleconf.org)
 

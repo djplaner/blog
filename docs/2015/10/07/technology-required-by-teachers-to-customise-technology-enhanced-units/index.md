@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - bad
 - elearning
 - tpack
-date: 2015-10-07 13:11:46+10:00
+date: 2015-10-07 03:11:46
 next:
   text: What is theory and why use theories?
   url: /blog/2015/10/08/what-is-theory-and-why-use-theories/
 previous:
   text: Teachers as designers of technology enhance learning?
   url: /blog/2015/10/06/teachers-as-digital-renovators/
+template: blog-post.html
 title: Technology required by teachers to customise technology-enhanced units
 type: post
-template: blog-post.html
 ---
 This is the 2nd post ([first here](/blog/2015/10/06/teachers-as-digital-renovators/)) looking at [Instructional Science 43(2)](http://link.springer.com/journal/11251/43/2/page/1) on the topic of "Teachers as designers of technology enhanced learning". This post looks at [Matuk et al (2015)](http://link.springer.com/article/10.1007/s11251-014-9338-1)
 
@@ -79,7 +79,7 @@ Reading the 4 types of customisation that were identified puts me in mind of the
 
 And my [current pet argument](http://bit.ly/uselessTAM) that the mindset underpinning the design and implementation of digital technologies for learning and teaching has a (strong) tendency to remove context and hence reduce pedagogical value.
 
-[![Choice1](images/19538593335_e8af6fb8ef.jpg)](https://www.flickr.com/photos/david_jones/19538593335/in/photolist-uPGesP-vLyp5T-vfo1 "Choice1")
+[![Choice1](https://djon.es/assets/blog/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/images/19538593335_e8af6fb8ef.jpg)](https://www.flickr.com/photos/david_jones/19538593335/in/photolist-uPGesP-vLyp5T-vfo1 "Choice1")
 
 What strikes me about the four customisations is that they are all about modifying the "technology-enhanced units" to insert more context. e.g. providing individual guidance, align with students' progress, better integrate content into overall curriculum plans, and better address needs. All these talk about teachers modifying the "technology" to better respond to context.
 
@@ -91,7 +91,7 @@ And also picks up a quote from this paper
 
 > The relationship between teachers and curriculum has been characterized as one between designers and their tools (Brown 2009). In designing curriculum, teachers combine available materials with their own knowledge and expertise to craft instructional experi- ences (Brown and Edelson 2003). (p. 232)
 
-![Animated gif of reusability paradox showing a trend to putting more context into the object](images/21382816484_b9e0ae07db_o_d.gif)
+![Animated gif of reusability paradox showing a trend to putting more context into the object](https://djon.es/assets/blog/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/images/21382816484_b9e0ae07db_o_d.gif)
 
 ## Summary
 

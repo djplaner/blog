@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - learninganalytics-elearning
-date: 2013-11-03 11:14:50+10:00
+date: 2013-11-03 01:14:50
 next:
   text: Big data in education - part 2
   url: /blog/2013/11/03/big-data-in-education-part-1-2/
 previous:
   text: BIM and broken moodle capabilities
   url: /blog/2013/11/01/bim-and-broken-moodle-capabilities/
+template: blog-post.html
 title: Big data in education - part 1
 type: post
-template: blog-post.html
 ---
 Yet another MOOC to start. This time ["Big data in education"](https://class.coursera.org/bigdata-edu-001/class/index) by Ryan Baker - one of the names that spring up often in the Educational Datamining field. A coursera MOOC.
 

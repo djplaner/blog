@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - ple
-date: 2007-11-05 08:41:16+10:00
+date: 2007-11-04 22:41:16
 next:
   text: Integrated VLEs/LMSs - benefits and fixes
   url: /blog/2007/11/09/integrated-vleslmss-benefits-and-fixes/
 previous:
   text: Personal learning environments @ CQU
   url: /blog/2007/10/28/personal-learning-environments-cqu/
+template: blog-post.html
 title: PLEs ("social media") and measuring/ensuring success
 type: post
-template: blog-post.html
 ---
 Murray Jennex, an information systems academic from San Diego State University, made some points about the adoption of "social media" type tools by experts by drawing on findings from the knowledge management literature (he's the editor-in-chief of the International Journal of Knowledge Management). The points are discussed further in a forthcoming paper by him in the Journal of Organisational and End-User Computing (Jan-Mar, 2008: 50-63).
 

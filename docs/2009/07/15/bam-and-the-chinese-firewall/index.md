@@ -1,85 +1,82 @@
----
+﻿---
 categories:
 - bam
-date: 2009-07-15 11:05:15+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: 'On a related note, what will happen to CQU access from China when blogging
+    and ePortfolios are publically available through Moodle? Will China block the
+    whole site? Have there been concerns raised before from Chinese students about
+    accessing all of their content through Bb that may or may not be terminated at
+    any time?
+
+
+    If there is already some arrangement toward educational institutions then it would
+    seem an easy way would be to let the student trial the new moodle system for blogging.
+    Might even help with the BAM integration?'
+  date: '2009-07-15 14:04:15'
+  date_gmt: '2009-07-15 04:04:15'
+  id: '2640'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'G''day Tony,
+
+
+    I doubt, based on my currently limited knowledge of Moodle, that blogging/ePortfolios
+    will ever be publicaly available from Moodle.  At least not as likely to be implemented
+    at CQU.
+
+
+    I expect that for the foreseeable future that Moodle@CQU will require an institutional
+    account to access information.
+
+
+    This is an important theoretical difference between BAM and Moodle - again, based
+    on my limited knowledge of Moodle.  Moodle and its services are owned by the institution
+    and generally limited to folk within the institution.
+
+
+    BAM''s assumption is that the only the bare minimum services should be institutionally
+    owned and restricted. In the case of BAM, the interface/services for marking and
+    managing the individual student blogs.
+
+
+    The blogs and their content should be open, and at the very least student owned.  Not
+    institution owned and provided.
+
+
+    The institution and its systems should focus on those services that are specific
+    to it. Not broadly available services that are better than anything they can ever
+    provide.
+
+
+    David.'
+  date: '2009-07-16 10:36:49'
+  date_gmt: '2009-07-16 00:36:49'
+  id: '2641'
+  parent: '2640'
+  type: comment
+  user_id: '1'
+date: 2009-07-15 01:05:15
 next:
   text: '"Predictably irrational - implications for L&#038;T at Universities"'
   url: /blog/2009/07/15/predictably-irrational-implications-for-lt-at-universities/
+pingbacks: []
 previous:
   text: Integrating BAM into Moodle - Can it be done?
   url: /blog/2009/07/09/integrating-bam-into-moodle-can-it-be-done/
+template: blog-post.html
 title: BAM and the Chinese "firewall"
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: 'On a related note, what will happen to CQU access from China when blogging
-        and ePortfolios are publically available through Moodle? Will China block the
-        whole site? Have there been concerns raised before from Chinese students about
-        accessing all of their content through Bb that may or may not be terminated at
-        any time?
-    
-    
-        If there is already some arrangement toward educational institutions then it would
-        seem an easy way would be to let the student trial the new moodle system for blogging.
-        Might even help with the BAM integration?'
-      date: '2009-07-15 14:04:15'
-      date_gmt: '2009-07-15 04:04:15'
-      id: '2640'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'G''day Tony,
-    
-    
-        I doubt, based on my currently limited knowledge of Moodle, that blogging/ePortfolios
-        will ever be publicaly available from Moodle.  At least not as likely to be implemented
-        at CQU.
-    
-    
-        I expect that for the foreseeable future that Moodle@CQU will require an institutional
-        account to access information.
-    
-    
-        This is an important theoretical difference between BAM and Moodle - again, based
-        on my limited knowledge of Moodle.  Moodle and its services are owned by the institution
-        and generally limited to folk within the institution.
-    
-    
-        BAM''s assumption is that the only the bare minimum services should be institutionally
-        owned and restricted. In the case of BAM, the interface/services for marking and
-        managing the individual student blogs.
-    
-    
-        The blogs and their content should be open, and at the very least student owned.  Not
-        institution owned and provided.
-    
-    
-        The institution and its systems should focus on those services that are specific
-        to it. Not broadly available services that are better than anything they can ever
-        provide.
-    
-    
-        David.'
-      date: '2009-07-16 10:36:49'
-      date_gmt: '2009-07-16 00:36:49'
-      id: '2641'
-      parent: '2640'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 [BAM (blog aggregation management)](/blog/research/bam-blog-aggregation-management/) is a tool used by a number of [CQU](http://www.cqu.edu.au/) courses. It's mainly used to help staff observe and mark individual student reflective journals. The journals are hosted on freely available blogs that the students set up and then register with BAM. Normally, we advise students to use [Wordpress.com](http://wordpress.com/) for their blog, but there's now a small problem. Any suggestions?
 

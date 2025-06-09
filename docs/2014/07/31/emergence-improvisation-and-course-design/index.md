@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-07-31 15:03:15+10:00
+date: 2014-07-31 05:03:15
 next:
   text: '"Bringing the LMS into the network - Experiment # 1 - Activity completion"'
   url: /blog/2014/08/03/bringing-the-lms-into-the-network-experiment-1-activity-completion/
 previous:
   text: Learning journal, activity completion and nudge analytics
   url: /blog/2014/07/31/learning-journal-activity-completion-and-nudge-analytics/
+template: blog-post.html
 title: Emergence, improvisation and course design
 type: post
-template: blog-post.html
 ---
 The last couple of weeks have been a bit hectic. The next few will likely be the same. But it's also been a productive type of hectic. Lots of tasks and activities generating ad hoc connections and mixing of concepts and ideas. Mostly (but not entirely) it's been the [NGL course](http://netgl.wordpress.com/) generating the interesting connections. [Anne's highlighting](http://astrethewey.wordpress.com/2014/07/29/learning-technology-through-generations-paper-summary/) of this quote from Anderson is just one example
 

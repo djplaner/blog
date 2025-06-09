@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - c2d2
 - chapter-5
@@ -9,16 +9,16 @@ categories:
 - reflectivealignment
 - thesis
 - webfuse
-date: 2010-08-08 14:00:56+10:00
+date: 2010-08-08 04:00:56
 next:
   text: Wicked problems and the need to engage with differing perspectives
   url: /blog/2010/08/08/wicked-problems-and-the-need-to-engage-with-differing-perspectives/
 previous:
   text: Usage of dynamic web applications by staff and students
   url: /blog/2010/08/05/usage-of-dynamic-web-applications-by-staff-and-students/
+template: blog-post.html
 title: 30% of information about task performance
 type: post
-template: blog-post.html
 ---
 Over on the Remote Learner blog, Jason Cole has [posted](http://info.remote-learner.net/) some information about a keynote by Dr Richard Clark at one of the US MoodleMoots. I want to focus on one key quote from that talk and its implications for Australian higher education and current trends to "improve" learning and teaching and adopt open source LMS (like Moodle).
 

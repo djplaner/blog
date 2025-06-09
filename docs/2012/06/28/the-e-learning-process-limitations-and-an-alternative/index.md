@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
@@ -6,50 +6,47 @@ categories:
 - psframework
 - thesis
 - webfuse
-date: 2012-06-28 22:30:40+10:00
+comments: []
+date: 2012-06-28 12:30:40
 next:
   text: Introducing the alternative
   url: /blog/2012/06/29/introducing-the-alternative/
+pingbacks:
+- approved: '1'
+  author: The e-learning process &ndash; limitations and an&nbsp;alternative | Language
+    and Technology | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/language-and-technology/p/2057788971/the-e-learning-process-limitations-and-an-alternative
+  content: '[...] And here&rsquo;s the followup to the well received &ldquo;LMS Product&rdquo;
+    post. This is the second section looking at the limitations of how industrial
+    e-learning is implemented, this time focus...&nbsp; [...]'
+  date: '2012-06-28 22:46:57'
+  date_gmt: '2012-06-28 12:46:57'
+  id: '381'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Introducing the alternative &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.41
+  author_url: https://djon.es/blog/2012/06/29/introducing-the-alternative/
+  content: '[...] (in the confines of an #ascilite12 paper) summarise some constraints
+    with the dominant product and process models used in industrial e-learning and
+    suggest an alternative. The following &#8211; which [...]'
+  date: '2012-06-29 12:03:25'
+  date_gmt: '2012-06-29 02:03:25'
+  id: '382'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The LMS Product - limitations and an alternative
   url: /blog/2012/06/28/the-lms-product-limitations-and-alternative/
+template: blog-post.html
 title: The e-learning process - limitations and an alternative
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The e-learning process &ndash; limitations and an&nbsp;alternative | Language
-        and Technology | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/language-and-technology/p/2057788971/the-e-learning-process-limitations-and-an-alternative
-      content: '[...] And here&rsquo;s the followup to the well received &ldquo;LMS Product&rdquo;
-        post. This is the second section looking at the limitations of how industrial
-        e-learning is implemented, this time focus...&nbsp; [...]'
-      date: '2012-06-28 22:46:57'
-      date_gmt: '2012-06-28 12:46:57'
-      id: '381'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Introducing the alternative &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.41
-      author_url: https://djon.es/blog/2012/06/29/introducing-the-alternative/
-      content: '[...] (in the confines of an #ascilite12 paper) summarise some constraints
-        with the dominant product and process models used in industrial e-learning and
-        suggest an alternative. The following &#8211; which [...]'
-      date: '2012-06-29 12:03:25'
-      date_gmt: '2012-06-29 02:03:25'
-      id: '382'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 And here's the followup to the [well received "LMS Product" post](/blog/2012/06/28/the-lms-product-limitations-and-alternative/). This is the second section looking at the limitations of how industrial e-learning is implemented, this time focusing on the process used. Not really happy with this one, space limitations are making it difficult to do a good job of description.
 

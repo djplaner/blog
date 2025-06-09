@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - eei
-date: 2019-01-18 13:50:26+10:00
+date: 2019-01-18 03:50:26
 next:
   text: Improving reuse of design knowledge in a LMS
   url: /blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/
 previous:
   text: Meso-level practitioners and generative technologies?
   url: /blog/2019/01/03/understanding-my-role-as-meso-level-practitioner/
+template: blog-post.html
 title: '"Trying out" needs agency and control'
 type: post
-template: blog-post.html
 ---
 This post is test of some technology and an opportunity to save the following quote from ([Solomon and Black, 2008](https://books.google.com.au/books?hl=en&lr=&id=9V34t8ir3yIC&oi=fnd&pg=PA73&ots=8Hj8hPG507&sig=cgIFQU_s67DXuMe411RSfsYFJVs#v=onepage&q&f=false))
 

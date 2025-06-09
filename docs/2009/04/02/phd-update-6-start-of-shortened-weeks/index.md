@@ -1,52 +1,49 @@
----
+﻿---
 categories:
 - design-theory
 - phd
 - thesis
-date: 2009-04-02 13:21:32+10:00
+comments: []
+date: 2009-04-02 03:21:32
 next:
   text: '"The fad cycle in learning &#038; teaching - a historical perspective"'
   url: /blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
+pingbacks:
+- approved: '1'
+  author: The fad cycle in learning &amp; teaching - a historical perspective &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    PhD Update #6 - start of shortened&nbsp;weeks [...]'
+  date: '2009-04-02 14:05:17'
+  date_gmt: '2009-04-02 04:05:17'
+  id: '2363'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
+  content: '[...] #7 - a fortnight in&nbsp;review  It&#8217;s now been 2 weeks since
+    my last &#8220;weekly&#8221; PhD update. The public holidays, minor surgery and
+    a general malaise contributed to by on-going issues at work [...]'
+  date: '2009-04-17 14:22:59'
+  date_gmt: '2009-04-17 04:22:59'
+  id: '2364'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Implementing an institution-wide learning and teaching strategy: lessons
     in managing change'
   url: /blog/2009/03/30/implementing-an-institution-wide-learning-and-teaching-strategy-lessons-in-managing-change/
+template: blog-post.html
 title: '"PhD Update #6 - start of shortened weeks"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The fad cycle in learning &amp; teaching - a historical perspective &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        PhD Update #6 - start of shortened&nbsp;weeks [...]'
-      date: '2009-04-02 14:05:17'
-      date_gmt: '2009-04-02 04:05:17'
-      id: '2363'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
-      content: '[...] #7 - a fortnight in&nbsp;review  It&#8217;s now been 2 weeks since
-        my last &#8220;weekly&#8221; PhD update. The public holidays, minor surgery and
-        a general malaise contributed to by on-going issues at work [...]'
-      date: '2009-04-17 14:22:59'
-      date_gmt: '2009-04-17 04:22:59'
-      id: '2364'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This update is being posted a day early due to the author being incapacitated over the next couple of days. This marks the start of a couple of shared weeks in terms of PhD effort/time. Not only does next week bring Easter, it also brings 2 days of introductory Moodle training (having designed, developed and supported LMSes for the last 13 years, I'm not sure how useful - regardless of quality - two days of basic Moodle training will be).
 

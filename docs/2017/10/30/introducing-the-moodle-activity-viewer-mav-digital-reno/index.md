@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - 4paths
 - casa
@@ -6,7 +6,7 @@ categories:
 - e-learning
 - learninganalytics-elearning
 - mav
-date: 2017-10-30 21:51:56+10:00
+date: 2017-10-30 11:51:56
 next:
   text: Improving teacher awareness, action and reflection on learner activity
   url: /blog/2017/11/12/improving-teacher-awareness-action-and-reflection-on-learner-activity/
@@ -14,9 +14,9 @@ previous:
   text: Implications and questions for institutional learning analytics implementation
     arising from teacher DIY learning analytics
   url: /blog/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/
+template: blog-post.html
 title: Introducing the Moodle Activity Viewer (MAV) & digital reno
 type: post
-template: blog-post.html
 ---
 What follows are the resources associated with a workshop being run at the University of Southern Queensland. As the title suggests, the aim is to get USQ folk started using [the Moodle Activity Viewer](https://damos.world/2013/08/30/the-moodle-activity-viewer-mav-heatmaps-of-student-activity/) to explore usage of Moodle activities and resources, and to briefly introduce the idea of digital renovation.
 

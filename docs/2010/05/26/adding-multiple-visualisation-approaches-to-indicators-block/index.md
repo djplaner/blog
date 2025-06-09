@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - moodle
-date: 2010-05-26 14:41:56+10:00
+comments: []
+date: 2010-05-26 04:41:56
 next:
   text: Fixing BIM's back up and restore
   url: /blog/2010/05/27/fixing-bims-back-up-and-restore/
+pingbacks:
+- approved: '1'
+  author: Trip report &#8211; Moodlemoot&#8217;AU 2010 &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 76.74.254.62
+  author_url: https://djon.es/blog/2010/07/16/trip-report-moodlemootau-2010/
+  content: '[...] Talk with Col, Ken and Damien about how and when we continue the
+    development of the Indicators project&#8217;s Moodle block. [...]'
+  date: '2010-07-19 14:23:26'
+  date_gmt: '2010-07-19 04:23:26'
+  id: '3055'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Understanding what teachers do: First step in improving L&#038;T'
   url: /blog/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/
+template: blog-post.html
 title: Adding multiple visualisation approaches to Indicators block
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Trip report &#8211; Moodlemoot&#8217;AU 2010 &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 76.74.254.62
-      author_url: https://djon.es/blog/2010/07/16/trip-report-moodlemootau-2010/
-      content: '[...] Talk with Col, Ken and Damien about how and when we continue the
-        development of the Indicators project&#8217;s Moodle block. [...]'
-      date: '2010-07-19 14:23:26'
-      date_gmt: '2010-07-19 04:23:26'
-      id: '3055'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This post is a summary of work being done to update the [Moodle indicators block](/blog/2010/05/09/requirements-for-an-indicators-moodle-block/) so that it can support multiple visualisation tools and approaches.
 
@@ -44,7 +41,7 @@ The indicators block is aimed (at least for me) to be a way in which various vis
 
 A simple example of this comes from the only "data" the indicators block currently visualises - the level of activity in a course site by staff or students. Currently this is shown as a "dial" or speedo (see below). The dial ranges from red through to green and a black arrow indicates the level of activity by the participant.
 
-[![Next step in indicators block](images/4602759472_713e932696_m.jpg)](http://www.flickr.com/photos/david_jones/4602759472/ "Next step in indicators block by David T Jones, on Flickr")
+[![Next step in indicators block](https://djon.es/assets/blog/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/images/4602759472_713e932696_m.jpg)](http://www.flickr.com/photos/david_jones/4602759472/ "Next step in indicators block by David T Jones, on Flickr")
 
 Alan [commented](/blog/2010/05/13/getting-started-with-cols-indicators-block/#comment-3182) that he didn't like the dial/meter visualisation in that it seems to encourage a simplistic "more is better" perception. Alan would prefer some sort of traffic light visualisation. After a very quick look, I don't think the Google chart tools provide a traffic light visualisation. Regardless, you get the idea.
 
@@ -90,7 +87,7 @@ Running out of time at the moment, so I'm going to put in a dummy protovis view 
 
 So, here's what the staff indicator looks like with the google chart view.
 
-[![Staff activity indicator](images/4640574573_f5beb54a25_o.jpg)](http://www.flickr.com/photos/david_jones/4640574573/ "Staff activity indicator by David T Jones, on Flickr")
+[![Staff activity indicator](https://djon.es/assets/blog/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/images/4640574573_f5beb54a25_o.jpg)](http://www.flickr.com/photos/david_jones/4640574573/ "Staff activity indicator by David T Jones, on Flickr")
 
 The bit of the factory that generates this view looks like this
 
@@ -102,7 +99,7 @@ Eventually, rather than a straight use of require...google\_view this would even
 
 The dummy protovis view looks like this
 
-[![Proof of concept - protovis in Moodle indicators block](images/4636913195_a8e7c6487f_o.jpg)](http://www.flickr.com/photos/david_jones/4636913195/ "Proof of concept - protovis in Moodle indicators block by David T Jones, on Flickr")
+[![Proof of concept - protovis in Moodle indicators block](https://djon.es/assets/blog/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/images/4636913195_a8e7c6487f_o.jpg)](http://www.flickr.com/photos/david_jones/4636913195/ "Proof of concept - protovis in Moodle indicators block by David T Jones, on Flickr")
 
 ### To do
 

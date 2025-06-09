@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - plagiarism
-date: 2006-10-25 12:47:32+10:00
+date: 2006-10-25 02:47:32
 next:
   text: Additional improvements to BAM
   url: /blog/2006/10/25/additional-improvements-to-bam/
 previous:
   text: The missing Ps - People
   url: /blog/2006/10/25/the-missing-ps-people/
+template: blog-post.html
 title: '"Who is to blame for plagiarism: technology, lecturers or context?"'
 type: post
-template: blog-post.html
 ---
 At the [Plagiarism Conference 2006](http://www.jiscpas.ac.uk/conference2006/index.html) Baroness Ruth Deech, the first Independent Adjudicator for Higher Education gave a [presentation](http://www.jiscpas.ac.uk/conference2006/ruth_deech.html) which has been widely reported on the Web and in the [press](http://www.timesonline.co.uk/article/0,,2-2409036,00.html). It was interesting to note that the conference was co-sponsored by Turnitin's UK arm. Rather than sound entirely negative the [conference proceedings](http://www.jiscpas.ac.uk/conference2006/proceedings.html) are online and, from the titles, there looks to be some good stuff.
 

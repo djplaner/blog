@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - elearning
-date: 2009-11-22 19:27:21+10:00
+date: 2009-11-22 09:27:21
 next:
   text: Reflections on asw2a
   url: /blog/2009/11/24/reflections-on-asw2a/
@@ -12,9 +12,9 @@ tags:
 - assessment
 - asw2a
 - web2-0-socialmedia
+template: blog-post.html
 title: Web 2.0 in assessment - an opening statement?
 type: post
-template: blog-post.html
 ---
 Tomorrow I am off to attend a ["National Roundtable"](http://web2assessmentroundtable.pbworks.com/) on Web 2.0 Authoring Tools in Higher Education Learning and Teaching: New Directions for Assessment and Academic Integrity. Quite a mouthful. I've spent some of the traveling time today reading the [discussion paper](http://web2assessmentroundtable.pbworks.com//f/ASW2A+Discussion+Paper.pdf) and trying to formulate what I might be able to contribute. We're meant to give an opening statement as the lead off. What will I say?
 

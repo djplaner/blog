@@ -1,56 +1,53 @@
----
+﻿---
 categories:
 - bim
 - chapter-2
 - design-theory
 - elearning
 - thesis
-date: 2010-08-08 20:47:51+10:00
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: http://
+  content: 'I suspect that what you have described here, at least with the organizational
+    issues, is related to the models used by organizations. Ie hierarchical, rigid
+    and causal. Like Snowden says:
+
+    * Hierarchical management structures adopted from the military without the ability
+    to delegate authority as required.
+
+    * Old paradigms persist long after their utility has been disproven.'
+  date: '2010-08-09 08:15:46'
+  date_gmt: '2010-08-08 22:15:46'
+  id: '3143'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: null
+  content: Amen, brother.  It's the Blackboard forces at work here at UNLV.
+  date: '2010-08-10 01:18:36'
+  date_gmt: '2010-08-09 15:18:36'
+  id: '3144'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-08-08 10:47:51
 next:
   text: The McNamara Fallacy and pass rates, academic analytics, and engagement
   url: /blog/2010/08/09/the-mcnamara-fallacy-and-pass-rates-academic-analytics-and-engagement/
+pingbacks: []
 previous:
   text: 30% of information about task performance
   url: /blog/2010/08/08/30-of-information-about-task-performance/
+template: blog-post.html
 title: Wicked problems and the need to engage with differing perspectives
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: http://
-      content: 'I suspect that what you have described here, at least with the organizational
-        issues, is related to the models used by organizations. Ie hierarchical, rigid
-        and causal. Like Snowden says:
-    
-        * Hierarchical management structures adopted from the military without the ability
-        to delegate authority as required.
-    
-        * Old paradigms persist long after their utility has been disproven.'
-      date: '2010-08-09 08:15:46'
-      date_gmt: '2010-08-08 22:15:46'
-      id: '3143'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: null
-      content: Amen, brother.  It's the Blackboard forces at work here at UNLV.
-      date: '2010-08-10 01:18:36'
-      date_gmt: '2010-08-09 15:18:36'
-      id: '3144'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 In writing the last post, I had the opportunity re-read the Wikipedia article on [wicked problems](http://en.wikipedia.org/wiki/Wicked_problem). This quote struck a chord with me
 

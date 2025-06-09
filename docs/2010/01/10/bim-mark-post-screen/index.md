@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-01-10 11:38:09+10:00
+date: 2010-01-10 01:38:09
 next:
   text: BIM - getting capabilities working properly
   url: /blog/2010/01/10/bim-getting-capabilities-working-properly/
 previous:
   text: BIM - Design of &quot;Manage Marking&quot; and other features for Coordinators
   url: /blog/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/
+template: blog-post.html
 title: BIM - Mark Post screen
 type: post
-template: blog-post.html
 ---
 This post is meant to document the (hopefully short) process of getting the Mark Post screen implemented in BIM.
 

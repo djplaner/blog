@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - bam
 - elearning
-date: 2009-03-11 10:49:13+10:00
+date: 2009-03-11 00:49:13
 next:
   text: Validity is subjective
   url: /blog/2009/03/11/validity-is-subjective/
@@ -10,9 +10,9 @@ previous:
   text: Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators
     projects together?
   url: /blog/2009/03/11/cooked-course-feeds-an-approach-to-bringing-the-plescquni-bam-and-indicators-projects-together/
+template: blog-post.html
 title: Initial steps toward an education aggregation taxonomy - community versus individual?
 type: post
-template: blog-post.html
 ---
 In a [previous post](/blog/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/) I talked about the rationale and need for thinking about a taxonomy of educational aggregation projects. Something that I haven't really given a lot of thought to, just yet.
 

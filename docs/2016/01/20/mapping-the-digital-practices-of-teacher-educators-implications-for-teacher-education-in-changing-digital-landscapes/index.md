@@ -1,97 +1,94 @@
----
+﻿---
 categories:
 - protean
 - publications
 - thesis
-date: 2016-01-20 15:52:11+10:00
+comments: []
+date: 2016-01-20 05:52:11
 next:
   text: What if our digital technologies were protean? Implications for computational
     thinking, learning, and teaching
   url: /blog/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/
+pingbacks:
+- approved: '1'
+  author: What if our digital technologies were protean? Implications for computational
+    thinking, learning, and teaching | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.156
+  author_url: https://davidtjones.wordpress.com/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/
+  content: '[&#8230;]  Mapping the digital practices of teacher educators: Implications
+    for teacher education in changing &#8230; [&#8230;]'
+  date: '2016-02-02 08:49:25'
+  date_gmt: '2016-02-01 22:49:25'
+  id: '1465'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What to expect/look for from SITE&#8217;2016? &#8211; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.101.31
+  author_url: https://davidtjones.wordpress.com/2016/03/22/what-to-expectlook-for-from-site2016/
+  content: "[&#8230;] our paper didn&#8217;t get an overall paper award, it was successful\
+    \ in winning a TPACK SIG Paper Award.\_ [&#8230;]"
+  date: '2016-03-22 10:02:09'
+  date_gmt: '2016-03-22 00:02:09'
+  id: '1466'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Mapping the digital practices of teacher educators: Implications for teacher
+    education in changing digital landscapes &#8211; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.81.140
+  author_url: https://davidtjones.wordpress.com/2016/03/24/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes-2/
+  content: '[&#8230;] The following slides are for a (award winning no less) paper
+    presented at SITE&#8217;2016 titled Mapping the digital practices of teacher educators:
+    Implications for teacher education in changing d&#8230;. [&#8230;]'
+  date: '2016-03-24 04:57:57'
+  date_gmt: '2016-03-23 18:57:57'
+  id: '1467'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'University digital technology: problems, causes, and suggested solutions
+    &#8211; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.116.169
+  author_url: https://davidtjones.wordpress.com/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
+  content: '[&#8230;] technologies. e.g. existing use of cloud-based technologies
+    (Google docs etc) and other forms of digital technology modification. (Jones,
+    Albion &amp; Heffernan, [&#8230;]'
+  date: '2016-09-07 13:08:53'
+  date_gmt: '2016-09-07 03:08:53'
+  id: '1468'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Making course activity more transparent: A proposed use of MAV &#8211;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.81.36
+  author_url: https://davidtjones.wordpress.com/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/
+  content: '[&#8230;] (I believe I can talk with my co-authors) found using an adapted
+    version of the mapping process for this paper to be very [&#8230;]'
+  date: '2016-09-08 13:13:07'
+  date_gmt: '2016-09-08 03:13:07'
+  id: '1469'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Finishing tweaks to Moodle book search block
   url: /blog/2016/01/17/finishing-tweaks-to-moodle-book-search-block/
+template: blog-post.html
 title: '"Mapping the digital practices of teacher educators: Implications for teacher
   education in changing digital landscapes"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: What if our digital technologies were protean? Implications for computational
-        thinking, learning, and teaching | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.156
-      author_url: https://davidtjones.wordpress.com/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/
-      content: '[&#8230;]  Mapping the digital practices of teacher educators: Implications
-        for teacher education in changing &#8230; [&#8230;]'
-      date: '2016-02-02 08:49:25'
-      date_gmt: '2016-02-01 22:49:25'
-      id: '1465'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What to expect/look for from SITE&#8217;2016? &#8211; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.101.31
-      author_url: https://davidtjones.wordpress.com/2016/03/22/what-to-expectlook-for-from-site2016/
-      content: "[&#8230;] our paper didn&#8217;t get an overall paper award, it was successful\
-        \ in winning a TPACK SIG Paper Award.\_ [&#8230;]"
-      date: '2016-03-22 10:02:09'
-      date_gmt: '2016-03-22 00:02:09'
-      id: '1466'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Mapping the digital practices of teacher educators: Implications for teacher
-        education in changing digital landscapes &#8211; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.81.140
-      author_url: https://davidtjones.wordpress.com/2016/03/24/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes-2/
-      content: '[&#8230;] The following slides are for a (award winning no less) paper
-        presented at SITE&#8217;2016 titled Mapping the digital practices of teacher educators:
-        Implications for teacher education in changing d&#8230;. [&#8230;]'
-      date: '2016-03-24 04:57:57'
-      date_gmt: '2016-03-23 18:57:57'
-      id: '1467'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'University digital technology: problems, causes, and suggested solutions
-        &#8211; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.116.169
-      author_url: https://davidtjones.wordpress.com/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
-      content: '[&#8230;] technologies. e.g. existing use of cloud-based technologies
-        (Google docs etc) and other forms of digital technology modification. (Jones,
-        Albion &amp; Heffernan, [&#8230;]'
-      date: '2016-09-07 13:08:53'
-      date_gmt: '2016-09-07 03:08:53'
-      id: '1468'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Making course activity more transparent: A proposed use of MAV &#8211;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.81.36
-      author_url: https://davidtjones.wordpress.com/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/
-      content: '[&#8230;] (I believe I can talk with my co-authors) found using an adapted
-        version of the mapping process for this paper to be very [&#8230;]'
-      date: '2016-09-08 13:13:07'
-      date_gmt: '2016-09-08 03:13:07'
-      id: '1469'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Paper presented at [SITE'2016](http://site.aace.org/conf/). One of three papers awarded the Ann Thompson TPACK Paper Award.
 
@@ -152,7 +149,7 @@ While informed by the original V&R mapping process (White et al., 2014) and atte
 
  
 
-[![V&R modification map](images/24385885192_ebdd6606b8.jpg)](https://www.flickr.com/photos/david_jones/24385885192/in/dateposted-public/ "V&R modification map")
+[![V&R modification map](https://djon.es/assets/blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/images/24385885192_ebdd6606b8.jpg)](https://www.flickr.com/photos/david_jones/24385885192/in/dateposted-public/ "V&R modification map")
 
 **Figure 1:** Axes used for mapping stories
 
@@ -160,15 +157,15 @@ While informed by the original V&R mapping process (White et al., 2014) and atte
 
 Part of the ‘wicked problem’ of ICT in education (Mishra & Koehler, 2007) is the particularity of each context. Hence it is important that teachers be able to modify or contextualize their learning environment. The mapping exercise encouraged the authors to review the various ways each of us has modified our course learning environments, and identify that while some of our practices skewed toward the ‘resident’ dimension, our behaviors generally remained primarily in the ‘visitor’ dimension. A wider spread in behavior was identified in the modification dimension, with practices evident from the lower end of the scale and the ‘use’ of tools as they were initially intended, moving through to the higher end of the scale and the ‘replacement’ of tools that were deemed to not meet our needs.
 
-[![David's V&R modification map](images/24494162975_275f00be88.jpg)](https://www.flickr.com/photos/david_jones/24494162975/in/dateposted-public/ "David's V&R modification map")
+[![David's V&R modification map](https://djon.es/assets/blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/images/24494162975_275f00be88.jpg)](https://www.flickr.com/photos/david_jones/24494162975/in/dateposted-public/ "David's V&R modification map")
 
 **Figure 2:** David's V&R modification map
 
-[![Peter's V&R modification map](images/23867368323_010d090c34.jpg)](https://www.flickr.com/photos/david_jones/23867368323/in/dateposted-public/ "Peter's V&R modification map")
+[![Peter's V&R modification map](https://djon.es/assets/blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/images/23867368323_010d090c34.jpg)](https://www.flickr.com/photos/david_jones/23867368323/in/dateposted-public/ "Peter's V&R modification map")
 
 **Figure 2:** Peter's V&R modification map
 
-[![Amanda's V&R modification map](images/24126422299_212c1035e9.jpg)](https://www.flickr.com/photos/david_jones/24126422299/in/dateposted-public/ "Amanda's V&R modification map")
+[![Amanda's V&R modification map](https://djon.es/assets/blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/images/24126422299_212c1035e9.jpg)](https://www.flickr.com/photos/david_jones/24126422299/in/dateposted-public/ "Amanda's V&R modification map")
 
 **Figure 3:** Amanda's V&R modification map
 

@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,95 +6,92 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-06-07 16:29:19+10:00
+comments: []
+date: 2010-06-07 06:29:19
 next:
   text: Should academics manually create course websites?
   url: /blog/2010/06/07/should-academics-manually-create-course-websites/
+pingbacks:
+- approved: '1'
+  author: Should academics manually create course websites? &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.107
+  author_url: https://djon.es/blog/2010/06/07/should-academics-manually-create-course-websites/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Default course sites and&nbsp;wizards [...]'
+  date: '2010-06-07 20:36:44'
+  date_gmt: '2010-06-07 10:36:44'
+  id: '3087'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Course websites and &#8220;libertarian paternalism&#8221; &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.144
+  author_url: https://djon.es/blog/2010/06/08/course-websites-and-libertarian-paternalism/
+  content: '[...] model that evolved in the early part of this decade could be described
+    as a &#8220;libertarian&#8221; paternalist [...]'
+  date: '2010-06-08 09:28:34'
+  date_gmt: '2010-06-07 23:28:34'
+  id: '3088'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Academics, course websites and power laws &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.104.119
+  author_url: https://djon.es/blog/?p=3009
+  content: '[...] focuses on statistics about how often an academic modified a course
+    site. The Webfuse model was to automatically create a default course site for
+    every course offered by the faculty. Academics could then modify that site as
+    much, or as [...]'
+  date: '2010-06-14 21:42:45'
+  date_gmt: '2010-06-14 11:42:45'
+  id: '3089'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Default course sites and wizards &#8211; version 2.0 &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.243.222
+  author_url: https://djon.es/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/
+  content: '[...] course sites and wizards &#8211; version&nbsp;2.0  This is the second
+    version of an earlier post. As I wrote more of the chapter I felt the need to
+    revisit and expand the idea (though the [...]'
+  date: '2010-06-25 11:06:38'
+  date_gmt: '2010-06-25 01:06:38'
+  id: '3090'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What might the 3 levels of organisational culture reveal about university
+    e-learning | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.38.18
+  author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+  content: '[&#8230;] 1997 through 2004 I helped design, implement and support one
+    approach to an institution doing something about this. Since then I&#8217;ve made
+    the argument for this. [&#8230;]'
+  date: '2015-01-20 10:54:19'
+  date_gmt: '2015-01-20 00:54:19'
+  id: '3091'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The confusion of small and big changes
   url: /blog/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
+template: blog-post.html
 title: Default course sites and wizards
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Should academics manually create course websites? &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.107
-      author_url: https://djon.es/blog/2010/06/07/should-academics-manually-create-course-websites/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Default course sites and&nbsp;wizards [...]'
-      date: '2010-06-07 20:36:44'
-      date_gmt: '2010-06-07 10:36:44'
-      id: '3087'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Course websites and &#8220;libertarian paternalism&#8221; &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.144
-      author_url: https://djon.es/blog/2010/06/08/course-websites-and-libertarian-paternalism/
-      content: '[...] model that evolved in the early part of this decade could be described
-        as a &#8220;libertarian&#8221; paternalist [...]'
-      date: '2010-06-08 09:28:34'
-      date_gmt: '2010-06-07 23:28:34'
-      id: '3088'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Academics, course websites and power laws &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.104.119
-      author_url: https://djon.es/blog/?p=3009
-      content: '[...] focuses on statistics about how often an academic modified a course
-        site. The Webfuse model was to automatically create a default course site for
-        every course offered by the faculty. Academics could then modify that site as
-        much, or as [...]'
-      date: '2010-06-14 21:42:45'
-      date_gmt: '2010-06-14 11:42:45'
-      id: '3089'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Default course sites and wizards &#8211; version 2.0 &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.243.222
-      author_url: https://djon.es/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/
-      content: '[...] course sites and wizards &#8211; version&nbsp;2.0  This is the second
-        version of an earlier post. As I wrote more of the chapter I felt the need to
-        revisit and expand the idea (though the [...]'
-      date: '2010-06-25 11:06:38'
-      date_gmt: '2010-06-25 01:06:38'
-      id: '3090'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What might the 3 levels of organisational culture reveal about university
-        e-learning | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.38.18
-      author_url: https://davidtjones.wordpress.com/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
-      content: '[&#8230;] 1997 through 2004 I helped design, implement and support one
-        approach to an institution doing something about this. Since then I&#8217;ve made
-        the argument for this. [&#8230;]'
-      date: '2015-01-20 10:54:19'
-      date_gmt: '2015-01-20 00:54:19'
-      id: '3091'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 There is now [a version 2.0](/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/) of this section.
 
@@ -136,7 +133,7 @@ Figure 5.1 is the home page for a default course site from July 2001. This home 
 5. Staff.  
     This provided both the personal details of the staff teaching the course as well as an area restricted to the teaching staff used for discussion or sharing resources. The personal details of teaching staff included name, contact details and where available a photo. If the teaching staff in charge of a course decided to create a real course site, then a sixth section was added under the default course site home page. The teaching staff could upload and manage their real course site within this section.
 
-[![Webfuse default course site home page](images/4677807498_7720a2a08d_m.jpg)](http://www.flickr.com/photos/david_jones/4677807498/ "Webfuse default course site home page by David T Jones, on Flickr")
+[![Webfuse default course site home page](https://djon.es/assets/blog/2010/06/07/default-course-sites-and-wizards/images/4677807498_7720a2a08d_m.jpg)](http://www.flickr.com/photos/david_jones/4677807498/ "Webfuse default course site home page by David T Jones, on Flickr")
 
 Figure 5.1 – Home page for a Webfuse default course site (July 2001) - click to make bigger
 
@@ -167,6 +164,6 @@ One advantage provided by the expanded default course site approach was the abil
 
 Due to the foundation provided by the Webfuse page types and templates it was not necessary for all default course sites to have the same structure or the same look and feel. Theoretically, every course site could be completely different. The flexibility of the default course site idea was tested in 2007 with the creation of a "Web 2.0" course site (see Figure 5.2). This "Web 2.0" course site was implemented as a Webfuse default site using Webfuse page types, however, using a different appearance and structure to a normal default site. This site is a "Web 2.0" site because all of the functionality (discussion, wiki, blog, portfolio and resource sharing) were provided by freely available Web 2.0 tools hosted on external sites. Webfuse used RSS feeds generated by these external tools to create and maintain the course site. Students used these RSS feeds to remove the need to visit the course site at all.
 
-[![Home page for Web 2.0 course site](images/4677968716_99cc6a2cd0_m.jpg)](http://www.flickr.com/photos/david_jones/4677968716/ "Home page for Web 2.0 course site by David T Jones, on Flickr")
+[![Home page for Web 2.0 course site](https://djon.es/assets/blog/2010/06/07/default-course-sites-and-wizards/images/4677968716_99cc6a2cd0_m.jpg)](http://www.flickr.com/photos/david_jones/4677968716/ "Home page for Web 2.0 course site by David T Jones, on Flickr")
 
 Figure 5.2 – Web 2.0 Course site (2007)

@@ -1,26 +1,23 @@
----
-date: 2009-01-02 01:31:01+10:00
+﻿---
+comments: []
+date: 2009-01-01 15:31:01
+pingbacks:
+- approved: '1'
+  author: Requirements, solutions, design, and who should decide | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.86.68
+  author_url: https://davidtjones.wordpress.com/2015/09/09/requirements-solutions-design-and-who-should-decide/
+  content: '[&#8230;] 1000 Users on a&nbsp;486 [&#8230;]'
+  date: '2015-09-09 18:06:38'
+  date_gmt: '2015-09-09 08:06:38'
+  id: '2031'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: 1000 Users on a 486
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Requirements, solutions, design, and who should decide | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.86.68
-      author_url: https://davidtjones.wordpress.com/2015/09/09/requirements-solutions-design-and-who-should-decide/
-      content: '[&#8230;] 1000 Users on a&nbsp;486 [&#8230;]'
-      date: '2015-09-09 18:06:38'
-      date_gmt: '2015-09-09 08:06:38'
-      id: '2031'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, 1000 Users on a 486, SAGE-AU’95, Wollongong and AUUG‘95, Sydney. (Best paper at SAGE-AU'95)
 
@@ -156,7 +153,7 @@ The off-line system was developed by Brett Carter, Jason Lockwood, Sean O'Kelly 
 - uqwk, a UNIX based program that packs email and news into SOUP (simple offline user packet) format packets that can be read by Yarn, and
 - a collection of shell scripts and batch files to automate the packing of email and news, the creation of new users and the registering of newsgroups.
 
-[![CQ-PAN Yarn Newsreader](images/3156475884_2196de4c79_m.jpg)](http://www.flickr.com/photos/david_jones/3156475884/ "CQ-PAN Yarn Newsreader by David T Jones, on Flickr")
+[![CQ-PAN Yarn Newsreader](https://djon.es/assets/blog/1000-users-on-a-486/images/3156475884_2196de4c79_m.jpg)](http://www.flickr.com/photos/david_jones/3156475884/ "CQ-PAN Yarn Newsreader by David T Jones, on Flickr")
 
 Figure 1 - The [CQ-PAN](http://cq-pan.cqu.edu.au/) Off-line Interface (the YARN newsreader).
 
@@ -202,7 +199,7 @@ During 1994, Shane Atkinson and Chris Parry imagined, designed and implemented a
 - users need not know anything about the UNIX or VMS command lines, and
 - it is considerably more secure than a command line account.
 
-[![CQ-PAN Online Interface](images/3155643337_47099f24de_m.jpg)](http://www.flickr.com/photos/david_jones/3155643337/ "CQ-PAN Online Interface by David T Jones, on Flickr")
+[![CQ-PAN Online Interface](https://djon.es/assets/blog/1000-users-on-a-486/images/3155643337_47099f24de_m.jpg)](http://www.flickr.com/photos/david_jones/3155643337/ "CQ-PAN Online Interface by David T Jones, on Flickr")
 
 Figure 2 - The [CQ-PAN](http://cq-pan.cqu.edu.au/) Menu System.
 
@@ -221,7 +218,7 @@ Providing access to the Internet is only the first step in the process. [CQ-PAN]
 - local email lists, and
 - World-Wide Web publishing.
 
-[![CQ-PAN Slip installation interface](images/3155643537_454f0d8d5f_m.jpg)](http://www.flickr.com/photos/david_jones/3155643537/ "CQ-PAN Slip installation interface by David T Jones, on Flickr")
+[![CQ-PAN Slip installation interface](https://djon.es/assets/blog/1000-users-on-a-486/images/3155643537_454f0d8d5f_m.jpg)](http://www.flickr.com/photos/david_jones/3155643537/ "CQ-PAN Slip installation interface by David T Jones, on Flickr")
 
 Figure 3 - The [CQ-PAN](http://cq-pan.cqu.edu.au/) SLIP Installation Window.
 

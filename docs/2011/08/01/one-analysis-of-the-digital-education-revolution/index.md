@@ -1,47 +1,44 @@
----
+﻿---
 categories:
 - eded20488
-date: 2011-08-01 12:35:33+10:00
+comments:
+- approved: '1'
+  author: Torn Halves
+  author_email: efl@fullspate.net
+  author_ip: 95.210.226.80
+  author_url: http://tornhalves.blogspot.com
+  content: 'What strikes me as odd here is how "revolution" has become such a buzzword.
+    Call someone a revolutionary and it still sounds like a slur. Say you support
+    the learning revolution and people invite you to their coffee mornings. Odd.
+
+
+    Part of the explanation why so many blue-rinse people are bandying around the
+    word "revolution" (I think) is that it really doesn''t amount to much of a revolution.
+    In fact it doesn''t deserve to be called a revolution. Revolutions were meant
+    to usher in a new historical epoch - one with a new set of social relations. Sir
+    Ken Robinson and his supporters are not talking about any such thing. They just
+    want education to catch up with the post-Fordist economy. The old schools were
+    slaves to the economy. The new digital schools will be slaves to the new digital
+    economy. It wasn''t about the kids (or society) then, and it''s not about the
+    kids now. It''s about business. When it''s people in pin-stripe suits who are
+    calling for the revolution, it''s time to be a little suspicious.'
+  date: '2012-08-17 20:53:37'
+  date_gmt: '2012-08-17 10:53:37'
+  id: '113'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-08-01 02:35:33
 next:
   text: Is the teaching of IT/CS in high school turning people off?
   url: /blog/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/
+pingbacks: []
 previous:
   text: Residents and visitors, are builders the forgotten category?
   url: /blog/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/
+template: blog-post.html
 title: One analysis of the Digital Education Revolution
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Torn Halves
-      author_email: efl@fullspate.net
-      author_ip: 95.210.226.80
-      author_url: http://tornhalves.blogspot.com
-      content: 'What strikes me as odd here is how "revolution" has become such a buzzword.
-        Call someone a revolutionary and it still sounds like a slur. Say you support
-        the learning revolution and people invite you to their coffee mornings. Odd.
-    
-    
-        Part of the explanation why so many blue-rinse people are bandying around the
-        word "revolution" (I think) is that it really doesn''t amount to much of a revolution.
-        In fact it doesn''t deserve to be called a revolution. Revolutions were meant
-        to usher in a new historical epoch - one with a new set of social relations. Sir
-        Ken Robinson and his supporters are not talking about any such thing. They just
-        want education to catch up with the post-Fordist economy. The old schools were
-        slaves to the economy. The new digital schools will be slaves to the new digital
-        economy. It wasn''t about the kids (or society) then, and it''s not about the
-        kids now. It''s about business. When it''s people in pin-stripe suits who are
-        calling for the revolution, it''s time to be a little suspicious.'
-      date: '2012-08-17 20:53:37'
-      date_gmt: '2012-08-17 10:53:37'
-      id: '113'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 The presentation slides below are the basis for a talk I'll be giving this Thursday as part of my study toward a Graduate Diploma in Learning and Teaching. The aim is to analyse the [Digital Education Revolution (DER)](http://www.digitaleducationrevolution.gov.au/) and identify any shortcomings and strengths (hint: I found it heavy on the former and light on the latter). The talk is being done in Elluminate to other students. Don't know the connection details, but if you wanted to participate I could chase that up. Let me know.
 

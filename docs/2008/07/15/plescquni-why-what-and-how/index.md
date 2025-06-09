@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - plescquni
-date: 2008-07-15 13:35:57+10:00
+date: 2008-07-15 03:35:57
 next:
   text: The Ps Framework - using it to think about PLE implementation at CQU
   url: /blog/2008/07/26/the-ps-framework-using-it-to-think-about-ple-implementation-at-cqu/
 previous:
   text: Encouraging use of learning networks - and dealing with me
   url: /blog/2008/07/15/encouraging-use-of-learning-networks-and-dealing-with-me/
+template: blog-post.html
 title: '"PLEs@CQUni: Why, What and How"'
 type: post
-template: blog-post.html
 ---
 We're in the process of getting serious about our [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni). The following is a copy of a submission to [CQUni's Vice-Chancellor's Executive](http://www.cqu.edu.au/) to tell them about the project. Sharing it here so others can know what we're trying to do and why and also on the off chance that others might criticise and suggest alternate approaches that improve what we're doing.
 

@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -7,38 +7,35 @@ categories:
 - psframework
 - reflectivealignment
 - thesis
-date: 2009-04-06 10:51:46+10:00
+comments: []
+date: 2009-04-06 00:51:46
 next:
   text: Quotes from Snowden and the mismatch between what univeristy e-learning does
     and what it needs
   url: /blog/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/
+pingbacks:
+- approved: '1'
+  author: 'Edupunk rules: Technology I, II and 3 - understanding and improving the
+    practice of instructional technology &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/
+  content: '[...] educational technologists/learning designer etc.One of the toughest
+    and most uncertain, in terms of position and future, jobs at universities is that
+    of learning designer or educational [...]'
+  date: '2009-04-09 13:14:55'
+  date_gmt: '2009-04-09 03:14:55'
+  id: '2383'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Measuring the design process - implications for learning design, e-learning
     and university teaching
   url: /blog/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
+template: blog-post.html
 title: '"The new educational technologists: A call for evidenced change"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Edupunk rules: Technology I, II and 3 - understanding and improving the
-        practice of instructional technology &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/
-      content: '[...] educational technologists/learning designer etc.One of the toughest
-        and most uncertain, in terms of position and future, jobs at universities is that
-        of learning designer or educational [...]'
-      date: '2009-04-09 13:14:55'
-      date_gmt: '2009-04-09 03:14:55'
-      id: '2383'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary/overview of Shurville, Browne and Whitaker (2008) - a paper title "Employing the new educational technologists: A call for evidenced change". One of the authors has a [blog](http://simonshurville.blogspot.com/2008/11/presenting-at-ascilite-08.html).
 

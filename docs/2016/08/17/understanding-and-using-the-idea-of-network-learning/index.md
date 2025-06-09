@@ -1,59 +1,57 @@
----
+﻿---
 categories:
 - edu8117
-date: 2016-08-17 15:37:05+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 144.134.192.120
+  author_url: http://elketeaches.wordpress.com
+  content: The Dylan Wiliam quote is right on mark!
+  date: '2016-09-06 05:25:45'
+  date_gmt: '2016-09-05 19:25:45'
+  id: '3393'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2016-08-17 05:37:05
 next:
   text: On the value or otherwise of SAMR, RAT etc.
   url: /blog/2016/08/23/on-the-value-or-otherwise-of-samr-rat-etc/
+pingbacks:
+- approved: '1'
+  author: David Jones&#8217;s Blog &#8211; Networked Learning | EdTech Hot Technologies
+  author_email: null
+  author_ip: 192.0.81.170
+  author_url: https://edtechhottechnologies.wordpress.com/2016/08/17/david-joness-blog-networked-learning/
+  content: '[&#8230;] Follow me [&#8230;]'
+  date: '2016-08-18 05:19:28'
+  date_gmt: '2016-08-17 19:19:28'
+  id: '3391'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Echo chamber for your own predilections | BeeLearning Blog
+  author_email: null
+  author_ip: 192.0.112.226
+  author_url: https://beelearningblog.wordpress.com/2016/08/21/echo-chamber-for-your-own-predilections/
+  content: "[&#8230;] describe the lack of community in our NGL course and in response\_\
+    to David Jones&#8217; post about Understanding and using the idea of &#8220;network\
+    \ learning&#8221;,\_I want to explore using a network for learning rather than\
+    \ a learning community. I now understand [&#8230;]"
+  date: '2016-08-21 21:40:43'
+  date_gmt: '2016-08-21 11:40:43'
+  id: '3392'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Exploring Moodle book usage - part 3 - who and how much
   url: /blog/2016/08/17/exploring-moodle-book-usage-part-3-who-and-how-much/
+template: blog-post.html
 title: Understanding and using the idea of "network learning"
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 144.134.192.120
-      author_url: http://elketeaches.wordpress.com
-      content: The Dylan Wiliam quote is right on mark!
-      date: '2016-09-06 05:25:45'
-      date_gmt: '2016-09-05 19:25:45'
-      id: '3393'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: David Jones&#8217;s Blog &#8211; Networked Learning | EdTech Hot Technologies
-      author_email: null
-      author_ip: 192.0.81.170
-      author_url: https://edtechhottechnologies.wordpress.com/2016/08/17/david-joness-blog-networked-learning/
-      content: '[&#8230;] Follow me [&#8230;]'
-      date: '2016-08-18 05:19:28'
-      date_gmt: '2016-08-17 19:19:28'
-      id: '3391'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Echo chamber for your own predilections | BeeLearning Blog
-      author_email: null
-      author_ip: 192.0.112.226
-      author_url: https://beelearningblog.wordpress.com/2016/08/21/echo-chamber-for-your-own-predilections/
-      content: "[&#8230;] describe the lack of community in our NGL course and in response\_\
-        to David Jones&#8217; post about Understanding and using the idea of &#8220;network\
-        \ learning&#8221;,\_I want to explore using a network for learning rather than\
-        \ a learning community. I now understand [&#8230;]"
-      date: '2016-08-21 21:40:43'
-      date_gmt: '2016-08-21 11:40:43'
-      id: '3392'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following seeks to engage with some thoughts [shared by Brigitte](https://beelearningblog.wordpress.com/2016/08/01/what-is-networked-learning/), bring together some earlier ramblings of my own, and connect this with R&D related work I should be doing over coming months (though it's historically rare for those plans to come to fruition).
 

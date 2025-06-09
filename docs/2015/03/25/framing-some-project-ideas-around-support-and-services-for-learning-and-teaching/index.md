@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2015-03-25 13:54:47+10:00
+date: 2015-03-25 03:54:47
 next:
   text: Concrete lounges and why basketball players aren't better hockey players
   url: /blog/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/
 previous:
   text: My example assignment 1 web-based artefact
   url: /blog/2015/03/25/my-example-assignment-1-web-based-artefact/
+template: blog-post.html
 title: Framing some project ideas around support and services for learning and teaching
 type: post
-template: blog-post.html
 ---
 When time permits I'm working with a group (one of many) that is tasked with coming up with project ideas that could support my current institution's strategic plan around learning and teaching. In particular we've been tasked to consider projects that will help build the institution's capacity to
 

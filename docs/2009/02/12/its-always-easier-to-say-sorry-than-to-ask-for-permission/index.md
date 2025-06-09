@@ -1,11 +1,11 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - thesis
 - webfuse
-date: 2009-02-12 13:32:48+10:00
+date: 2009-02-12 03:32:48
 next:
   text: The emperor has no clothes - why is the learning and teaching peformance fund
     naked
@@ -14,9 +14,9 @@ previous:
   text: 'Barriers to innovation in organisations: teleological processes, organisational
     structures and stepwise refinement'
   url: /blog/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/
+template: blog-post.html
 title: It's always easier to say sorry than to ask for permission
 type: post
-template: blog-post.html
 ---
 The [video](http://www.youtube.com/watch?v=_424YskAfew) from NASA referenced in [a post from yesterday](/blog/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/) illustrates many of the difficulties in attempting to be innovative within any largish type of organisation.
 

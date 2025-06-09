@@ -1,55 +1,52 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - phd
 - thesis
-date: 2009-07-27 14:13:34+10:00
+comments: []
+date: 2009-07-27 04:13:34
 next:
   text: '"BAM into Moodle #6 - Planning and some real coding"'
   url: /blog/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/
+pingbacks:
+- approved: '1'
+  author: The design and implementation of Webfuse &#8211; Part 1 &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/
+  content: '[...] Chapter 4 is meant to tell the story of the first iteration of Webfuse
+    from 1996 through 1999. The last section I posted describes the design guidelines
+    that informed the implementation of Webfuse. This post and [...]'
+  date: '2009-07-29 11:28:06'
+  date_gmt: '2009-07-29 01:28:06'
+  id: '2665'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Thinking about evaluating Webfuse (1996 through 1999) &#8211; evaluation
+    of an LMS? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/
+  content: '[...] worked my way through explaining the context (general context and
+    (use of e-learning), the design guidelines and the implementation (parts 1, 2
+    and 3). I&#8217;ve now reached the evaluation section, where [...]'
+  date: '2009-07-31 13:45:07'
+  date_gmt: '2009-07-31 03:45:07'
+  id: '2666'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Use of &quot;e-learning&quot; @ CQU up to 1996 (or so)
   url: /blog/2009/07/27/use-of-e-learning-cqu-up-to-1996-or-so/
+template: blog-post.html
 title: The intervention - Webfuse design 1996-1999
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The design and implementation of Webfuse &#8211; Part 1 &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/
-      content: '[...] Chapter 4 is meant to tell the story of the first iteration of Webfuse
-        from 1996 through 1999. The last section I posted describes the design guidelines
-        that informed the implementation of Webfuse. This post and [...]'
-      date: '2009-07-29 11:28:06'
-      date_gmt: '2009-07-29 01:28:06'
-      id: '2665'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Thinking about evaluating Webfuse (1996 through 1999) &#8211; evaluation
-        of an LMS? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/
-      content: '[...] worked my way through explaining the context (general context and
-        (use of e-learning), the design guidelines and the implementation (parts 1, 2
-        and 3). I&#8217;ve now reached the evaluation section, where [...]'
-      date: '2009-07-31 13:45:07'
-      date_gmt: '2009-07-31 03:45:07'
-      id: '2666'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The previous couple of posts ([one](/blog/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/) and [two](/blog/2009/07/27/use-of-e-learning-cqu-up-to-1996-or-so/)) described the context in which the Webfuse e-learning system was designed. This focused primarily on the context at CQU up to 1996 or so. These posts form the definition of the problem which Webfuse was meant to address.
 

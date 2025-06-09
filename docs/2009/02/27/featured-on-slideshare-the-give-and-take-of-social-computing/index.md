@@ -1,42 +1,39 @@
----
+﻿---
 categories:
 - elearning
 - phd
 - thesis
-date: 2009-02-27 17:31:21+10:00
+comments: []
+date: 2009-02-27 07:31:21
 next:
   text: Dimensions delimiting conceptions of online teaching - something to guide
     the indicators and the evaluation of LMS data?
   url: /blog/2009/02/28/dimensions-delimiting-conceptions-of-online-teaching-something-to-guide-the-indicators-and-the-evaluation-of-lms-data/
+pingbacks:
+- approved: '1'
+  author: The weak second album (PhD update) &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.104.49
+  author_url: https://djon.es/blog/2009/03/06/the-weak-second-album-phd-update/
+  content: '[...] highlight of the past week has been the featuring of the PhD presentation
+    at ANU on the Slideshare home page. That has seen the number of views go from
+    105 to 1373 in a [...]'
+  date: '2009-03-06 12:30:28'
+  date_gmt: '2009-03-06 02:30:28'
+  id: '2191'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD update #1 - the start of a tradition?'
   url: /blog/2009/02/27/phd-update-1-the-start-of-a-tradition/
+template: blog-post.html
 title: Featured on slideshare - the give and take of social computing
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The weak second album (PhD update) &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.104.49
-      author_url: https://djon.es/blog/2009/03/06/the-weak-second-album-phd-update/
-      content: '[...] highlight of the past week has been the featuring of the PhD presentation
-        at ANU on the Slideshare home page. That has seen the number of views go from
-        105 to 1373 in a [...]'
-      date: '2009-03-06 12:30:28'
-      date_gmt: '2009-03-06 02:30:28'
-      id: '2191'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The editorial team over at [Slideshare](http://slideshare.net/) have decided my [recent PhD presentation](/blog/2009/02/21/an-information-systems-design-theory-for-e-learning/) is worth of featuring on the Slideshare home page. The following screen shot of the Slideshare home page is included as proof and also as a record. 105 views before being featured. How high can you go?
 
-[![Featured on slideshare](images/3312821107_b2521bc35c_m.jpg)](http://www.flickr.com/photos/david_jones/3312821107/ "Featured on slideshare by David T Jones, on Flickr")
+[![Featured on slideshare](https://djon.es/assets/blog/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/images/3312821107_b2521bc35c_m.jpg)](http://www.flickr.com/photos/david_jones/3312821107/ "Featured on slideshare by David T Jones, on Flickr")
 
 This is another example of the "you scratch my back, I'll scratch your back" approach to networking, links and social software. In the email I got from Slideshare with the good news was this
 

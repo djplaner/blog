@@ -1,108 +1,105 @@
----
+﻿---
 categories:
 - addie
 - c2d2
 - coursesites
-date: 2008-07-12 16:21:09+10:00
+comments:
+- approved: '1'
+  author: d.jones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'G''day Jocene,
+
+
+    Thanks for the comment.  it''s made me re-consider the need to make it more obvious
+    I''m not trying to be dry and prosaic.
+
+
+    I agree.  The fun, attractive, cool aspect is important.
+
+
+    From my perspective the "perceived attributes" need to be very much thought of
+    from the users (where user is both student and staff) perspective. Based on that
+    view I would think that usefulness/ease of use must include the affective.  It''s
+    not solely about cognition.
+
+
+    In fact, I''d argue that the perceived attributes isn''t necessarily about cognition
+    at all, at least not mainly. It''s about whatever the students perceived to be
+    useful and provide them with advantage. A sexy interface and learning designs/environments
+    that are fun are, for me at least, part of that.
+
+
+    The feedback from students with the <a href="http://cddu.cqu.edu.au/index.php/ACCT19064_Machinima_Project"
+    rel="nofollow">machinima project</a> is that the "fun" aspect is a major plus.
+
+
+    In fact, check out the first pre-release video on the machinima project page and
+    skip through till a minute into the video.  This is where the "credits" start.  A
+    bit of fun at the end which we talked about for a bit, should we include it or
+    not?  We''ve actually had specific feedback from a student about how much they''d
+    laughed at this.
+
+
+    This reminds me somewhat of the argument between usability folk (like <a href="http://www.useit.com"
+    rel="nofollow">Jakob Nielsen</a>) and the multimedia design folk.  The usability
+    folk were essentially the boring accountants, arguing that usability was king.  The
+    multimedia folk were into pretty pictures and the benefits of engaging with the
+    affective side. (that''s a gross simplification and does neither side justice).
+
+
+    Bring on the fun.
+
+
+    David.'
+  date: '2008-07-15 22:30:14'
+  date_gmt: '2008-07-15 12:30:14'
+  id: '1579'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Jocene Vallack
+  author_email: jocene@bigpond.com
+  author_ip: 121.220.103.7
+  author_url: null
+  content: 'Hi.
+
+    The ''perceived attributes'' and TAM seem more focused on cognition than emotion.
+    They sound pretty boring. They seem to be about motivating students extringently.
+
+    On the other hand, the 7 principles are about engagement with learning and intrinsic
+    motivation.
+
+    The idea of "enhancing my job performance" is not nearly as inspiring as the notions
+    of "high expectations", "active learning" and endorsement of "diverse talents".
+
+
+    Why have 13 million (?) people signed into Second Life? Because it is perceived
+    as useful and easy? I don''t think so. Learning must be fun. Fun grabs us on an
+    emotional and sub-conscious level. Educational design need not shrink from this.
+
+    (Jocene)'
+  date: '2008-07-15 21:42:08'
+  date_gmt: '2008-07-15 11:42:08'
+  id: '1580'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2008-07-12 06:21:09
 next:
   text: What do students find useful?
   url: /blog/2008/07/12/what-do-students-find-useful/
+pingbacks: []
 previous:
   text: Creating quality course websites
   url: /blog/2008/07/12/creating-quality-course-websites/
 tags:
 - cddu-elearning-coursesite
+template: blog-post.html
 title: Creating quality course websites - the pragmatic approach
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: d.jones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'G''day Jocene,
-    
-    
-        Thanks for the comment.  it''s made me re-consider the need to make it more obvious
-        I''m not trying to be dry and prosaic.
-    
-    
-        I agree.  The fun, attractive, cool aspect is important.
-    
-    
-        From my perspective the "perceived attributes" need to be very much thought of
-        from the users (where user is both student and staff) perspective. Based on that
-        view I would think that usefulness/ease of use must include the affective.  It''s
-        not solely about cognition.
-    
-    
-        In fact, I''d argue that the perceived attributes isn''t necessarily about cognition
-        at all, at least not mainly. It''s about whatever the students perceived to be
-        useful and provide them with advantage. A sexy interface and learning designs/environments
-        that are fun are, for me at least, part of that.
-    
-    
-        The feedback from students with the <a href="http://cddu.cqu.edu.au/index.php/ACCT19064_Machinima_Project"
-        rel="nofollow">machinima project</a> is that the "fun" aspect is a major plus.
-    
-    
-        In fact, check out the first pre-release video on the machinima project page and
-        skip through till a minute into the video.  This is where the "credits" start.  A
-        bit of fun at the end which we talked about for a bit, should we include it or
-        not?  We''ve actually had specific feedback from a student about how much they''d
-        laughed at this.
-    
-    
-        This reminds me somewhat of the argument between usability folk (like <a href="http://www.useit.com"
-        rel="nofollow">Jakob Nielsen</a>) and the multimedia design folk.  The usability
-        folk were essentially the boring accountants, arguing that usability was king.  The
-        multimedia folk were into pretty pictures and the benefits of engaging with the
-        affective side. (that''s a gross simplification and does neither side justice).
-    
-    
-        Bring on the fun.
-    
-    
-        David.'
-      date: '2008-07-15 22:30:14'
-      date_gmt: '2008-07-15 12:30:14'
-      id: '1579'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Jocene Vallack
-      author_email: jocene@bigpond.com
-      author_ip: 121.220.103.7
-      author_url: null
-      content: 'Hi.
-    
-        The ''perceived attributes'' and TAM seem more focused on cognition than emotion.
-        They sound pretty boring. They seem to be about motivating students extringently.
-    
-        On the other hand, the 7 principles are about engagement with learning and intrinsic
-        motivation.
-    
-        The idea of "enhancing my job performance" is not nearly as inspiring as the notions
-        of "high expectations", "active learning" and endorsement of "diverse talents".
-    
-    
-        Why have 13 million (?) people signed into Second Life? Because it is perceived
-        as useful and easy? I don''t think so. Learning must be fun. Fun grabs us on an
-        emotional and sub-conscious level. Educational design need not shrink from this.
-    
-        (Jocene)'
-      date: '2008-07-15 21:42:08'
-      date_gmt: '2008-07-15 11:42:08'
-      id: '1580'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 In a [previous post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=184) I laid out some rationale for an organisational approach to increase the usage of course websites. In this post I provide more detail on the rationale behind the pragmatic approach, which was described this way in that previous post.
 

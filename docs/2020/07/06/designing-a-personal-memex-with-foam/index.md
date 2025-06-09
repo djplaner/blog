@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - pkm
-coverImage: birds.jpg
-date: 2020-07-06 11:11:58+10:00
+coverImage: https://djon.es/assets/blog/2020/07/06/designing-a-personal-memex-with-foam/images/birds.jpg
+date: 2020-07-06 01:11:58
 next:
   text: Getting started with memex
   url: /blog/2020/07/07/getting-started-with-memex/
@@ -11,9 +11,9 @@ previous:
   url: /blog/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/
 tags:
 - memex
+template: blog-post.html
 title: Designing a personal "memex" with Foam
 type: post
-template: blog-post.html
 ---
 **Designing potential use of Foam for PKM**
 

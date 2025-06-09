@@ -1,557 +1,555 @@
----
+﻿---
 categories:
 - 4paths
 - indicators
 - irac
 - learninganalytics-elearning
 - pirac
-date: 2015-06-01 10:04:44+10:00
+comments:
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://users.on.net/~iancreid/
+  content: 'David,
+
+
+    As always thoughtful and well reasoned! But what about students? Why not "do it
+    for students" or even "do it with students" or (heaven forbid) allow students
+    to use the data themselves? (of course with appropriate confidentiality and anonymity)  -
+    ie why not provide analytics information direct to students so they can compare
+    their learning strategies with other (successful) learners? Wouldn''t this encourage
+    more independent and deep learning rather than pretend that academic staff have
+    the time to micro-manage every learner?
+
+
+    More power to you in striving to go beyond the fad!'
+  date: '2015-06-01 10:37:00'
+  date_gmt: '2015-06-01 00:37:00'
+  id: '1275'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 101.177.136.17
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the comment Ian.  That question is one we have to cover in
+    the presentation. I''m hoping there''ll be a blog post outlining that part of
+    the argument in the coming weeks.
+
+
+    The summary of the argument is that a focus on the student shouldn''t be ignored,
+    but that a focus on the teacher provides a range of benefits that make it a better
+    initial focus.  Especially when it comes to learning analytics that are directly
+    tied to the specific learning activities designed into courses, rather than the
+    type of generic learning analytics currently being focused upon.  Those general
+    approaches to learning analytics can proceed, but when trying to get specific
+    we think there needs to be a much greater focus on the teacher.'
+  date: '2015-06-01 12:16:56'
+  date_gmt: '2015-06-01 02:16:56'
+  id: '1276'
+  parent: '1275'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://users.on.net/~iancreid/
+  content: Yes, I agree that is a good 'path' to go down. There is certainly useful
+    information in analytics for staff development and curriculum reform.
+  date: '2015-06-01 12:23:00'
+  date_gmt: '2015-06-01 02:23:00'
+  id: '1277'
+  parent: '1276'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/MikeeLtu/status/618603341719994370
+  date: '2015-07-08 15:11:07'
+  date_gmt: '2015-07-08 05:11:07'
+  id: '1278'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/catspyjamasnz/status/618603551611297792
+  date: '2015-07-08 15:11:17'
+  date_gmt: '2015-07-08 05:11:17'
+  id: '1279'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/flyingsorcrs/status/618603627092017152
+  date: '2015-07-08 15:11:29'
+  date_gmt: '2015-07-08 05:11:29'
+  id: '1280'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/salvetore/status/618603854729351168
+  date: '2015-07-08 15:11:41'
+  date_gmt: '2015-07-08 05:11:41'
+  id: '1281'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/catspyjamasnz/status/618603922656137216
+  date: '2015-07-08 15:12:43'
+  date_gmt: '2015-07-08 05:12:43'
+  id: '1282'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618603946257612801
+  date: '2015-07-08 15:12:54'
+  date_gmt: '2015-07-08 05:12:54'
+  id: '1283'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618604246473117696
+  date: '2015-07-08 15:13:15'
+  date_gmt: '2015-07-08 05:13:15'
+  id: '1284'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/redmeades/status/618604378518327296
+  date: '2015-07-08 15:13:28'
+  date_gmt: '2015-07-08 05:13:28'
+  id: '1285'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/katiedigc/status/618604469404741632
+  date: '2015-07-08 15:13:38'
+  date_gmt: '2015-07-08 05:13:38'
+  id: '1286'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618604523515310080
+  date: '2015-07-08 15:13:51'
+  date_gmt: '2015-07-08 05:13:51'
+  id: '1287'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/bronwastaken/status/618604592243150848
+  date: '2015-07-08 15:14:01'
+  date_gmt: '2015-07-08 05:14:01'
+  id: '1288'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/katiedigc/status/618604702666784769
+  date: '2015-07-08 15:14:15'
+  date_gmt: '2015-07-08 05:14:15'
+  id: '1289'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618604900994277377
+  date: '2015-07-08 15:14:26'
+  date_gmt: '2015-07-08 05:14:26'
+  id: '1290'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/Tara_Mann/status/618604933483511809
+  date: '2015-07-08 15:14:56'
+  date_gmt: '2015-07-08 05:14:56'
+  id: '1291'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618605171048873984
+  date: '2015-07-08 15:15:07'
+  date_gmt: '2015-07-08 05:15:07'
+  id: '1292'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/catspyjamasnz/status/618605233048981504
+  date: '2015-07-08 15:15:21'
+  date_gmt: '2015-07-08 05:15:21'
+  id: '1293'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618605567595159552
+  date: '2015-07-08 15:15:34'
+  date_gmt: '2015-07-08 05:15:34'
+  id: '1294'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/salvetore/status/618605679138308096
+  date: '2015-07-08 15:15:47'
+  date_gmt: '2015-07-08 05:15:47'
+  id: '1295'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/bronwastaken/status/618605808411111424
+  date: '2015-07-08 15:16:00'
+  date_gmt: '2015-07-08 05:16:00'
+  id: '1296'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618605958533656576
+  date: '2015-07-08 15:16:12'
+  date_gmt: '2015-07-08 05:16:12'
+  id: '1297'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618606454581407744
+  date: '2015-07-08 15:16:23'
+  date_gmt: '2015-07-08 05:16:23'
+  id: '1298'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/catspyjamasnz/status/618606622651326464
+  date: '2015-07-08 15:16:36'
+  date_gmt: '2015-07-08 05:16:36'
+  id: '1299'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618606694067601408
+  date: '2015-07-08 15:16:49'
+  date_gmt: '2015-07-08 05:16:49'
+  id: '1300'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/bronwastaken/status/618606839928868866
+  date: '2015-07-08 15:16:59'
+  date_gmt: '2015-07-08 05:16:59'
+  id: '1301'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618606985441705984
+  date: '2015-07-08 15:17:11'
+  date_gmt: '2015-07-08 05:17:11'
+  id: '1302'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618607340305125376
+  date: '2015-07-08 15:17:21'
+  date_gmt: '2015-07-08 05:17:21'
+  id: '1303'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/catspyjamasnz/status/618607413059452928
+  date: '2015-07-08 15:17:34'
+  date_gmt: '2015-07-08 05:17:34'
+  id: '1304'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618607853394395136
+  date: '2015-07-08 15:17:44'
+  date_gmt: '2015-07-08 05:17:44'
+  id: '1305'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618607930020073472
+  date: '2015-07-08 15:17:56'
+  date_gmt: '2015-07-08 05:17:56'
+  id: '1306'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/flyingsorcrs/status/618608159821729792
+  date: '2015-07-08 15:18:06'
+  date_gmt: '2015-07-08 05:18:06'
+  id: '1307'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/catspyjamasnz/status/618608414940213248
+  date: '2015-07-08 15:18:17'
+  date_gmt: '2015-07-08 05:18:17'
+  id: '1308'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/russellwaldron/status/618608468761554944
+  date: '2015-07-08 15:18:29'
+  date_gmt: '2015-07-08 05:18:29'
+  id: '1309'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/katiedigc/status/618626680945528833
+  date: '2015-07-08 15:18:40'
+  date_gmt: '2015-07-08 05:18:40'
+  id: '1310'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/MikeeLtu/status/618603820185219073
+  date: '2015-07-08 15:28:29'
+  date_gmt: '2015-07-08 05:28:29'
+  id: '1311'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/bronwastaken/status/618603869883527168
+  date: '2015-07-08 15:28:41'
+  date_gmt: '2015-07-08 05:28:41'
+  id: '1312'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/MikeeLtu/status/618605646078939138
+  date: '2015-07-08 15:29:17'
+  date_gmt: '2015-07-08 05:29:17'
+  id: '1313'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 59.191.216.158
+  author_url: https://djon.es/blog/
+  content: https://twitter.com/MikeeLtu/status/618606806890381312
+  date: '2015-07-08 15:29:49'
+  date_gmt: '2015-07-08 05:29:49'
+  id: '1314'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2015-06-01 00:04:44
 next:
   text: Analysing Moodle community forum discussions about the Moodle book module
   url: /blog/2015/06/09/analysing-moodle-community-forum-discussions-about-the-moodle-book-module/
+pingbacks:
+- approved: '1'
+  author: 'Me as learner: 2015 and learning analytics | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.82.85
+  author_url: https://davidtjones.wordpress.com/2015/07/16/me-as-learner-2015-and-learning-analytics/
+  content: '[&#8230;] research. I&#8217;ve written and given presentations about learning
+    analytics for sometime now. However, the focus of these have tended to be at the
+    [&#8230;]'
+  date: '2015-07-16 13:27:47'
+  date_gmt: '2015-07-16 03:27:47'
+  id: '1315'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What might a project combining LX Design and Analaytics look like? | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.190
+  author_url: https://davidtjones.wordpress.com/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
+  content: '[&#8230;] is one of the reasons behind the 4 paths for learning analytics
+    focusing on the teacher (as designer of learning, if you must) and not the [&#8230;]'
+  date: '2015-09-14 11:40:43'
+  date_gmt: '2015-09-14 01:40:43'
+  id: '1316'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: An overview of the Moodle &quot;open&quot; book project
   url: /blog/2015/04/27/an-overview-of-the-moodle-open-book-project/
+template: blog-post.html
 title: The four paths for implementing learning analytics and enhancing the quality
   of learning and teaching
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://users.on.net/~iancreid/
-      content: 'David,
-    
-    
-        As always thoughtful and well reasoned! But what about students? Why not "do it
-        for students" or even "do it with students" or (heaven forbid) allow students
-        to use the data themselves? (of course with appropriate confidentiality and anonymity)  -
-        ie why not provide analytics information direct to students so they can compare
-        their learning strategies with other (successful) learners? Wouldn''t this encourage
-        more independent and deep learning rather than pretend that academic staff have
-        the time to micro-manage every learner?
-    
-    
-        More power to you in striving to go beyond the fad!'
-      date: '2015-06-01 10:37:00'
-      date_gmt: '2015-06-01 00:37:00'
-      id: '1275'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 101.177.136.17
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the comment Ian.  That question is one we have to cover in
-        the presentation. I''m hoping there''ll be a blog post outlining that part of
-        the argument in the coming weeks.
-    
-    
-        The summary of the argument is that a focus on the student shouldn''t be ignored,
-        but that a focus on the teacher provides a range of benefits that make it a better
-        initial focus.  Especially when it comes to learning analytics that are directly
-        tied to the specific learning activities designed into courses, rather than the
-        type of generic learning analytics currently being focused upon.  Those general
-        approaches to learning analytics can proceed, but when trying to get specific
-        we think there needs to be a much greater focus on the teacher.'
-      date: '2015-06-01 12:16:56'
-      date_gmt: '2015-06-01 02:16:56'
-      id: '1276'
-      parent: '1275'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://users.on.net/~iancreid/
-      content: Yes, I agree that is a good 'path' to go down. There is certainly useful
-        information in analytics for staff development and curriculum reform.
-      date: '2015-06-01 12:23:00'
-      date_gmt: '2015-06-01 02:23:00'
-      id: '1277'
-      parent: '1276'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/MikeeLtu/status/618603341719994370
-      date: '2015-07-08 15:11:07'
-      date_gmt: '2015-07-08 05:11:07'
-      id: '1278'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/catspyjamasnz/status/618603551611297792
-      date: '2015-07-08 15:11:17'
-      date_gmt: '2015-07-08 05:11:17'
-      id: '1279'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/flyingsorcrs/status/618603627092017152
-      date: '2015-07-08 15:11:29'
-      date_gmt: '2015-07-08 05:11:29'
-      id: '1280'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/salvetore/status/618603854729351168
-      date: '2015-07-08 15:11:41'
-      date_gmt: '2015-07-08 05:11:41'
-      id: '1281'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/catspyjamasnz/status/618603922656137216
-      date: '2015-07-08 15:12:43'
-      date_gmt: '2015-07-08 05:12:43'
-      id: '1282'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618603946257612801
-      date: '2015-07-08 15:12:54'
-      date_gmt: '2015-07-08 05:12:54'
-      id: '1283'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618604246473117696
-      date: '2015-07-08 15:13:15'
-      date_gmt: '2015-07-08 05:13:15'
-      id: '1284'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/redmeades/status/618604378518327296
-      date: '2015-07-08 15:13:28'
-      date_gmt: '2015-07-08 05:13:28'
-      id: '1285'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/katiedigc/status/618604469404741632
-      date: '2015-07-08 15:13:38'
-      date_gmt: '2015-07-08 05:13:38'
-      id: '1286'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618604523515310080
-      date: '2015-07-08 15:13:51'
-      date_gmt: '2015-07-08 05:13:51'
-      id: '1287'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/bronwastaken/status/618604592243150848
-      date: '2015-07-08 15:14:01'
-      date_gmt: '2015-07-08 05:14:01'
-      id: '1288'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/katiedigc/status/618604702666784769
-      date: '2015-07-08 15:14:15'
-      date_gmt: '2015-07-08 05:14:15'
-      id: '1289'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618604900994277377
-      date: '2015-07-08 15:14:26'
-      date_gmt: '2015-07-08 05:14:26'
-      id: '1290'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/Tara_Mann/status/618604933483511809
-      date: '2015-07-08 15:14:56'
-      date_gmt: '2015-07-08 05:14:56'
-      id: '1291'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618605171048873984
-      date: '2015-07-08 15:15:07'
-      date_gmt: '2015-07-08 05:15:07'
-      id: '1292'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/catspyjamasnz/status/618605233048981504
-      date: '2015-07-08 15:15:21'
-      date_gmt: '2015-07-08 05:15:21'
-      id: '1293'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618605567595159552
-      date: '2015-07-08 15:15:34'
-      date_gmt: '2015-07-08 05:15:34'
-      id: '1294'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/salvetore/status/618605679138308096
-      date: '2015-07-08 15:15:47'
-      date_gmt: '2015-07-08 05:15:47'
-      id: '1295'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/bronwastaken/status/618605808411111424
-      date: '2015-07-08 15:16:00'
-      date_gmt: '2015-07-08 05:16:00'
-      id: '1296'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618605958533656576
-      date: '2015-07-08 15:16:12'
-      date_gmt: '2015-07-08 05:16:12'
-      id: '1297'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618606454581407744
-      date: '2015-07-08 15:16:23'
-      date_gmt: '2015-07-08 05:16:23'
-      id: '1298'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/catspyjamasnz/status/618606622651326464
-      date: '2015-07-08 15:16:36'
-      date_gmt: '2015-07-08 05:16:36'
-      id: '1299'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618606694067601408
-      date: '2015-07-08 15:16:49'
-      date_gmt: '2015-07-08 05:16:49'
-      id: '1300'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/bronwastaken/status/618606839928868866
-      date: '2015-07-08 15:16:59'
-      date_gmt: '2015-07-08 05:16:59'
-      id: '1301'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618606985441705984
-      date: '2015-07-08 15:17:11'
-      date_gmt: '2015-07-08 05:17:11'
-      id: '1302'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618607340305125376
-      date: '2015-07-08 15:17:21'
-      date_gmt: '2015-07-08 05:17:21'
-      id: '1303'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/catspyjamasnz/status/618607413059452928
-      date: '2015-07-08 15:17:34'
-      date_gmt: '2015-07-08 05:17:34'
-      id: '1304'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618607853394395136
-      date: '2015-07-08 15:17:44'
-      date_gmt: '2015-07-08 05:17:44'
-      id: '1305'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618607930020073472
-      date: '2015-07-08 15:17:56'
-      date_gmt: '2015-07-08 05:17:56'
-      id: '1306'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/flyingsorcrs/status/618608159821729792
-      date: '2015-07-08 15:18:06'
-      date_gmt: '2015-07-08 05:18:06'
-      id: '1307'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/catspyjamasnz/status/618608414940213248
-      date: '2015-07-08 15:18:17'
-      date_gmt: '2015-07-08 05:18:17'
-      id: '1308'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/russellwaldron/status/618608468761554944
-      date: '2015-07-08 15:18:29'
-      date_gmt: '2015-07-08 05:18:29'
-      id: '1309'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/katiedigc/status/618626680945528833
-      date: '2015-07-08 15:18:40'
-      date_gmt: '2015-07-08 05:18:40'
-      id: '1310'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/MikeeLtu/status/618603820185219073
-      date: '2015-07-08 15:28:29'
-      date_gmt: '2015-07-08 05:28:29'
-      id: '1311'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/bronwastaken/status/618603869883527168
-      date: '2015-07-08 15:28:41'
-      date_gmt: '2015-07-08 05:28:41'
-      id: '1312'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/MikeeLtu/status/618605646078939138
-      date: '2015-07-08 15:29:17'
-      date_gmt: '2015-07-08 05:29:17'
-      id: '1313'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 59.191.216.158
-      author_url: https://djon.es/blog/
-      content: https://twitter.com/MikeeLtu/status/618606806890381312
-      date: '2015-07-08 15:29:49'
-      date_gmt: '2015-07-08 05:29:49'
-      id: '1314'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Me as learner: 2015 and learning analytics | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.82.85
-      author_url: https://davidtjones.wordpress.com/2015/07/16/me-as-learner-2015-and-learning-analytics/
-      content: '[&#8230;] research. I&#8217;ve written and given presentations about learning
-        analytics for sometime now. However, the focus of these have tended to be at the
-        [&#8230;]'
-      date: '2015-07-16 13:27:47'
-      date_gmt: '2015-07-16 03:27:47'
-      id: '1315'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What might a project combining LX Design and Analaytics look like? | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.190
-      author_url: https://davidtjones.wordpress.com/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
-      content: '[&#8230;] is one of the reasons behind the 4 paths for learning analytics
-        focusing on the teacher (as designer of learning, if you must) and not the [&#8230;]'
-      date: '2015-09-14 11:40:43'
-      date_gmt: '2015-09-14 01:40:43'
-      id: '1316'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a place holder for two presentations that are related. They are:
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - exploring
 - moodleopenbook
-date: 2016-09-03 09:28:35+10:00
+date: 2016-09-02 23:28:35
 next:
   text: "Exploring Moodle Book usage \u2013 Part 6 \u2013 What do they contain?"
   url: /blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/
 previous:
   text: Exploring frameworks to understand OER/OEP
   url: /blog/2016/09/01/exploring-frameworks-to-understand-oeroep/
+template: blog-post.html
 title: Exploring Moodle Book usage - Part 5 - more staff and student use
 type: post
-template: blog-post.html
 ---
 Continuing the exploration of how the Moodle Book module is being used, this post picks up from the [last](/blog/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/) and will
 
@@ -34,11 +34,11 @@ With those changes fixed, the following graph emerges show how many times each o
 
 It should be noted that the following graphs do not include ~20K updates that I did in one course in one semester.
 
-[![All book updates by role](images/29114140780_dd02bb63ab.jpg)](https://www.flickr.com/photos/david_jones/29114140780/in/dateposted-public/ "All book updates by role")
+[![All book updates by role](https://djon.es/assets/blog/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/images/29114140780_dd02bb63ab.jpg)](https://www.flickr.com/photos/david_jones/29114140780/in/dateposted-public/ "All book updates by role")
 
 And I thought it would be interesting to break down the updates by year to see what if there was any growth. Given the growth in the number of courses using the Book (17 in 2012 to 152 in 2015) there should always have been some growth.
 
-[![Book updates by role by year](images/29402519415_70efc9bdbc.jpg)](https://www.flickr.com/photos/david_jones/29402519415/in/dateposted-public/ "Book updates by role by year")
+[![Book updates by role by year](https://djon.es/assets/blog/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/images/29402519415_70efc9bdbc.jpg)](https://www.flickr.com/photos/david_jones/29402519415/in/dateposted-public/ "Book updates by role by year")
 
 The graph above shows examiners making 2152 updates in 2012 and 13649 in 2015.  That's a 6.3 times growth in number of updates for 12.6 times growth in the number of updates. Or, alternatively in 2012 a course examiner (on average) made 179 updates. In 2015 a course examiner (on average) made 90 updates.
 
@@ -78,7 +78,7 @@ Given the preponderance of viewing, the graphs tends to be a little less than us
 
 The graph below shows the spread of actions by students with the books. It shows that the most common action performed by students is viewing books. The table following the graph provides the raw data for the graph.
 
-[![Student actions by year](images/29379151786_8fe5854ac6.jpg)](https://www.flickr.com/photos/david_jones/29379151786/in/dateposted-public/ "Student actions by year")
+[![Student actions by year](https://djon.es/assets/blog/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/images/29379151786_8fe5854ac6.jpg)](https://www.flickr.com/photos/david_jones/29379151786/in/dateposted-public/ "Student actions by year")
 
 Both this table and the one below for examiners show no print actions.  This suggests a bug in the analysis.
 
@@ -99,7 +99,7 @@ The graph below shows the spread of actions by examiners with the books. The tab
 
 The relative increase of modify/create actions by examiners between 2014 and 2015 is another indication of the 20000 updates I performed in 2015.
 
-[![Examiner actions by year](images/29379150796_fc4a2168b0.jpg)](https://www.flickr.com/photos/david_jones/29379150796/in/dateposted-public/ "Examiner actions by year")
+[![Examiner actions by year](https://djon.es/assets/blog/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/images/29379150796_fc4a2168b0.jpg)](https://www.flickr.com/photos/david_jones/29379150796/in/dateposted-public/ "Examiner actions by year")
 
 The views and prints by examiners drop between 2014 and 2015
 

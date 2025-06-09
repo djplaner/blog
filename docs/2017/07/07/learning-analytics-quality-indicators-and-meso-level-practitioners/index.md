@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - 4paths
 - bad
@@ -6,16 +6,16 @@ categories:
 - eei
 - indicators
 - irac
-date: 2017-07-07 16:54:17+10:00
+date: 2017-07-07 06:54:17
 next:
   text: My current context and some initial issues
   url: /blog/2017/07/09/my-current-context-and-some-initial-issues/
 previous:
   text: Nudging up MyOpinion response rates using a gamified leaderboard
   url: /blog/2017/06/17/nudging-up-myopinion-response-rates-using-a-gamified-leaderboard/
+template: blog-post.html
 title: Learning analytics, quality indicators and meso-level practitioners
 type: post
-template: blog-post.html
 ---
 [![failure by tinou bao, on Flickr](https://farm1.static.flickr.com/38/96393863_a62172a617_m.jpg "failure by tinou bao, on Flickr")](https://www.flickr.com/photos/tinou/96393863/)  
 "[failure](https://www.flickr.com/photos/tinou/96393863/)" ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)) by  
@@ -115,7 +115,7 @@ The theory is that these technologies (and the use of github to share the code o
 
 The Malikowski et al (2007) model groups LMS features by the following categories: Content, Communication, Assessment, Evaluation and Computer-Based Instruction. It also suggests that tool use occurs in a certain order and with a certain frequency. The following figure (click on it to see a larger version) is a representation of the Malikowski model.
 
-[![Malikowski Flow Chart](images/malikowski.jpg)](https://www.flickr.com/photos/david_jones/3465729160/ "Malikowski Flow Chart")
+[![Malikowski Flow Chart](https://djon.es/assets/blog/2017/07/07/learning-analytics-quality-indicators-and-meso-level-practitioners/images/malikowski.jpg)](https://www.flickr.com/photos/david_jones/3465729160/ "Malikowski Flow Chart")
 
 ### Looking for engagement?
 

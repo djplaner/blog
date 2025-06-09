@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - design-theory
-date: 2018-06-12 12:08:56+10:00
+date: 2018-06-12 02:08:56
 next:
   text: Contextual ramblings on learning analytics
   url: /blog/2018/11/30/contextual-ramblings-on-learning-analytics/
 previous:
   text: Random meandering notes on "digital" and the fourth industrial revolution
   url: /blog/2018/05/26/random-meandering-notes-on-digital-and-the-fourth-industrial-revolution/
+template: blog-post.html
 title: Explaining ISDT and its place in the research process
 type: post
-template: blog-post.html
 ---
 The following is an initial, under-construction attempt to explain (first to myself) how/what role an Information Systems Design Theory (ISDT) places in the research process. Working my way toward a decent explanation for PhD students.
 
@@ -38,7 +38,7 @@ The following uses Gregor and Jones (2007) specification of a design theory as s
 
 This explanation assumes that all research starts with a problem and a question. It's important (as for all research) that the problem/question be interesting and important. The [book "Craft of research"](https://rampages.us/univ200watson/wp-content/uploads/sites/7575/2015/06/The-Craft-of-Research-From-Topics-to-Questions-by-Wayne-C.-Booth.pdf) talks about identifying your research question.
 
-[![Problem](images/27875032127_7841632fc2.jpg)](https://www.flickr.com/photos/david_jones/27875032127/in/dateposted-public/ "Problem")
+[![Problem](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/27875032127_7841632fc2.jpg)](https://www.flickr.com/photos/david_jones/27875032127/in/dateposted-public/ "Problem")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 An ISDT is generated through design-based research (DBR), which for me at least that it tends to deal with "how" research questions. For example, the research question from my thesis
@@ -59,21 +59,21 @@ Avison and Eliot (2006) suggests that in comparison to other IT-related discipli
 
 By answering the research question, you're hoping that people can develop an information system.
 
-[![Problem & solution (IS)](images/27875031697_044712488c.jpg)](https://www.flickr.com/photos/david_jones/27875031697/in/dateposted-public/ "Problem & solution (IS)")
+[![Problem & solution (IS)](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/27875031697_044712488c.jpg)](https://www.flickr.com/photos/david_jones/27875031697/in/dateposted-public/ "Problem & solution (IS)")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## But you're not a consultant
 
 The problem with the last image is that it's a bit like what a consultant does. Someone has a problem, you come in and create something that solves their problem. DBR is not consultancy. It aims to develop generalised knowledge that can inform the development multiple different information systems. Different people in different contexts should be able to develop information systems appropriate to their requirements.
 
-[![Problem & multiple solutions](images/42694848052_4a26e3e878.jpg)](https://www.flickr.com/photos/david_jones/42694848052/in/dateposted-public/ "Problem & multiple solutions")
+[![Problem & multiple solutions](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/42694848052_4a26e3e878.jpg)](https://www.flickr.com/photos/david_jones/42694848052/in/dateposted-public/ "Problem & multiple solutions")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## How do they know how to do that?
 
 What's missing in the last diagram is the knowledge that people will use to develop any information system. This knowledge is the answer to the research question/problem that you aim to develop. This is where the ISDT enters the picture. It is a representation of that knowledge that people use to develop an appropriate information system.
 
-[![Problem and how](images/27875031367_1433eedf9b.jpg)](https://www.flickr.com/photos/david_jones/27875031367/in/dateposted-public/ "Problem and how")
+[![Problem and how](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/27875031367_1433eedf9b.jpg)](https://www.flickr.com/photos/david_jones/27875031367/in/dateposted-public/ "Problem and how")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The ISDT encapsulates knowledge about how to build a particular type of information system that effectively answers the research question/problem. i.e. it encapsulates knowledge that serves a particular purpose and scope
@@ -96,7 +96,7 @@ Your research started with a problem (turned into a question). That problem shou
 
 Your ISDT - in the form of _purpose and scope_ - overlaps/connects with your research question/problem
 
-[![Problem and purpose](images/27875031267_75ef271471.jpg)](https://www.flickr.com/photos/david_jones/27875031267/in/dateposted-public/ "Problem and purpose")
+[![Problem and purpose](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/27875031267_75ef271471.jpg)](https://www.flickr.com/photos/david_jones/27875031267/in/dateposted-public/ "Problem and purpose")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 But as illustrated by the example research question and _purpose and scope_ used here they are different. My original research question is fairly generic. The purpose and scope has a fair bit more detail. Where did that detail come from?
@@ -111,7 +111,7 @@ This gives some insight into how a different ISDT for university e-learning coul
 
 Design research aims to make use of existing knowledge and theory to construct artefacts that improve some situation (Simon, 1996). How you understand the "some situation" should be informed by your justificatory knowledge.
 
-[![Justificatory knowledge](images/42694847322_948566dca1.jpg)](https://www.flickr.com/photos/david_jones/42694847322/in/dateposted-public/ "Justificatory knowledge")
+[![Justificatory knowledge](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/42694847322_948566dca1.jpg)](https://www.flickr.com/photos/david_jones/42694847322/in/dateposted-public/ "Justificatory knowledge")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## But what do they do?
@@ -129,7 +129,7 @@ This is where the design principles enter the picture. There are two sets of des
     i.e. how should you build it? What steps should you follow to efficiently and effectively put the IS in place?
     
 
-These principles should be abstract enough that they can inform the design of different information systems. They should also be directly connected to your ISDT's justificatory knowledge. You don't just pull them out of the air, or because that's they way you do it. [![Principles](images/40933373880_d19b63ff32.jpg)](https://www.flickr.com/photos/david_jones/40933373880/in/dateposted-public/ "Principles")
+These principles should be abstract enough that they can inform the design of different information systems. They should also be directly connected to your ISDT's justificatory knowledge. You don't just pull them out of the air, or because that's they way you do it. [![Principles](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/40933373880_d19b63ff32.jpg)](https://www.flickr.com/photos/david_jones/40933373880/in/dateposted-public/ "Principles")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 For the emergent university e-learning ISDT there were 13 principles of form and function organised into three groups with explicitly links to justificatory knowledge
@@ -150,7 +150,7 @@ The premise of an ISDT is that if someone is able to successful follow the desig
 
 If people follow these principles, based on your justificatory knowledge you are claiming that certain things will happen. These are the testable propositions
 
-[![propositions](images/42694846832_7ddc889a9d.jpg)](https://www.flickr.com/photos/david_jones/42694846832/in/dateposted-public/ "propositions")
+[![propositions](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/42694846832_7ddc889a9d.jpg)](https://www.flickr.com/photos/david_jones/42694846832/in/dateposted-public/ "propositions")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The ISDT for emergent university e-learning has five testable propositions
@@ -169,7 +169,7 @@ The first testable proposition is essentially that the resulting IS will be fit 
 
 Just because you can develop a theory, doesn't mean it will work. However, if you have a working version of an information system designed using the ISDT (i.e. an instantiation of the ISDT) then it becomes a bit easier to understand. An instantiation also helps identify issues with the ISDT which can be refined (more on this below). An instantiation can also help explain the ISDT.
 
-[![Constructs](images/27875030497_f298d0abe0.jpg)](https://www.flickr.com/photos/david_jones/27875030497/in/dateposted-public/ "Constructs")
+[![Constructs](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/27875030497_f298d0abe0.jpg)](https://www.flickr.com/photos/david_jones/27875030497/in/dateposted-public/ "Constructs")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 In the above the arrows between instantiation, the design principles, and the testable propositions are intended to indicate how the instantiation should be informed/predicted by the principles and propositions, but also how the experience of building and using the instantiation can influence the principles (more of this below) and propositions.
@@ -182,7 +182,7 @@ The emergent university e-learning ISDT was based on a system called Webfuse use
 
 The research problem (and scope) and the justificatory knowledge all embody a particular perspective on the world. Rather than trying to understand everything about and every perspective on the research problem (beyond the scope of mere mortals) an ISDT focuses attention on a particular view of the research problem. There are certain elements that are deemed to be more important and more interesting to a particular ISDT than others. These more interesting elements become the _constructs_ of the ISDT. They define the meaning of these interesting elements. They become some of the fundamental building blocks of the ISDT.
 
-The following image perhaps doesn't capture the importance of constructs. [![ISDT and research process](images/42027150704_a21eaa2740.jpg)](https://www.flickr.com/photos/david_jones/42027150704/in/dateposted-public/ "ISDT and research process")
+The following image perhaps doesn't capture the importance of constructs. [![ISDT and research process](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/42027150704_a21eaa2740.jpg)](https://www.flickr.com/photos/david_jones/42027150704/in/dateposted-public/ "ISDT and research process")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The following table summarises the constructs from the ISDT for emergent university e-learning
@@ -201,7 +201,7 @@ Lee's (2001) quote above mentioned "emergent soci-technical phenomena". The idea
 
 The importance of this feature means that _artifact mutability_ - how you expect IS built following your ISDT will/should/could change - is a core component of an ISDT.
 
-[![Mutability](images/28870737798_61c2a776d0.jpg)](https://www.flickr.com/photos/david_jones/28870737798/in/dateposted-public/ "Mutability")
+[![Mutability](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/28870737798_61c2a776d0.jpg)](https://www.flickr.com/photos/david_jones/28870737798/in/dateposted-public/ "Mutability")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 As an ISDT for _emergent_ e-learning artifact mutability/what happens next was a key consideration described as
@@ -216,12 +216,12 @@ The above has tried to explain the components of an ISDT by starting with a typi
 
 My thesis work followed the iterative action research process from Markus et al (2002)
 
-[![Iterative action research for formulating ISDT](images/27836290847_c022d9b510_z.jpg)](https://www.flickr.com/photos/david_jones/27836290847/in/dateposted-public/ "Iterative action research for formulating ISDT")
+[![Iterative action research for formulating ISDT](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/27836290847_c022d9b510_z.jpg)](https://www.flickr.com/photos/david_jones/27836290847/in/dateposted-public/ "Iterative action research for formulating ISDT")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 A related but more common research process within design-based research out of the education discipline is Reeves (2006) approach. I'll expand upon this one, but there are overlaps.
 
-[![DBR cycle](images/15250772546_ba90f6ff90_z.jpg)](https://www.flickr.com/photos/david_jones/15250772546/in/photolist-peEcmf-bE8C7L "DBR cycle")
+[![DBR cycle](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/15250772546_ba90f6ff90_z.jpg)](https://www.flickr.com/photos/david_jones/15250772546/in/photolist-peEcmf-bE8C7L "DBR cycle")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 As Reeve's image sugestions, these aren't four distinct, sequential phases. Instead, they can tend toward almost to concurrent tasks that you are stepping back and forth between. As you engage in iterative cycles of testing and refinement (3rd phase) you learn something that modifies understanding of the practical problem (1st) and perhaps principles (2nd) and perhaps highlights something to reflect.
@@ -230,7 +230,7 @@ However, at least initially, I'm wondering if you should have spent some time de
 
 i.e. as you develop a specific solution (instantiation) of your ISDT you might find yourself having to undertake a particular step or develop a particular feature that isn't explained by your existing design principles.
 
-[![Approach](images/27875029947_7967f67f58.jpg)](https://www.flickr.com/photos/david_jones/27875029947/in/dateposted-public/ "Approach")
+[![Approach](https://djon.es/assets/blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/images/27875029947_7967f67f58.jpg)](https://www.flickr.com/photos/david_jones/27875029947/in/dateposted-public/ "Approach")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Similarly, you might be observing an instantiation in action by gathering/analysing data etc (Phase 3) or perhaps you might be reflecting upon what's happened and realise that a particular issue isn't covered, or that your initial assumptions were wrong. Leading to more refinement.

@@ -1,188 +1,185 @@
----
-date: 2008-10-16 22:07:34+10:00
+﻿---
+comments: []
+date: 2008-10-16 12:07:34
+pingbacks:
+- approved: '1'
+  author: How do we transform institutions? Learning 2.0 and PLEs@CQUni &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.184
+  author_url: https://djon.es/blog/2008/10/30/how-do-we-transform-institutions-learning-20-and-plescquni/
+  content: '[...] and I have expanded on the problems with this type of approach a
+    couple of times before. First in 2005 and again in [...]'
+  date: '2008-10-30 00:53:33'
+  date_gmt: '2008-10-29 14:53:33'
+  id: '1618'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How do you implement PLEs into higher education courses? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.76
+  author_url: https://djon.es/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
+  content: '[...] However, I think Jocene&#8217;s next quote highlights the difficult
+    in drawing a barrier between teleological and ateleological design. But we still
+    keep getting stuck, half way over the implementation hurdle! If we telelogically
+    [...]'
+  date: '2009-02-02 08:18:32'
+  date_gmt: '2009-02-01 22:18:32'
+  id: '1619'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The protean nature of modern technology - another limitation of most views
+    of e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.143
+  author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
+  content: '[...] Almost without exception (please let me know if you can point out
+    some exceptions) they follow the traditional teleological systems development
+    life [...]'
+  date: '2009-02-09 15:38:58'
+  date_gmt: '2009-02-09 05:38:58'
+  id: '1620'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Getting half-baked ideas out there: improving research and the academy
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
+  content: '[...] Lucas Introna&#8217;s (1996) distinction between teleological design
+    (old style) and ateleological design (new style). [...]'
+  date: '2009-02-15 21:43:48'
+  date_gmt: '2009-02-15 11:43:48'
+  id: '1621'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Branding and universities - a mismatch of purpose and place? &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.43
+  author_url: https://djon.es/blog/2009/02/24/branding-and-universities-a-mismatch-of-purpose-and-place/
+  content: '[...] me, branding and how it should be carried out is a perfect example
+    of a teleological design process and the mismatch such a process is for a &#8220;place&#8221;
+    like a university. A perspective that [...]'
+  date: '2009-02-24 00:34:46'
+  date_gmt: '2009-02-23 14:34:46'
+  id: '1622'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Task corruption in teaching @ university - negative impact of Place? &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/
+  content: '[...] isn&#8217;t limited to senior management. In an organisation that
+    places emphasis on top-down, teleological design procesess the problem is (I believe)
+    likely to occur within instructional design groups, information [...]'
+  date: '2009-03-04 08:08:49'
+  date_gmt: '2009-03-03 22:08:49'
+  id: '1623'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The IRIS model of Technology Adoption - neat and incomplete? &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: https://djon.es/blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
+  content: '[...] I hesitate to label it as such, but the IRIS model seems to have
+    a very strong basis in teleological design (Jones et al, 2005; Jones and Muldoon,
+    2007). Again, this could be the impact of perspective and [...]'
+  date: '2009-03-06 09:19:17'
+  date_gmt: '2009-03-05 23:19:17'
+  id: '1624'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
+  content: '[...] are expanded in more detail in the paper. There have been many similar
+    discussions about processes. This paper talks about Introna&#8217;s ateleological
+    design process and its principles. Kurtz and Snowden [...]'
+  date: '2009-03-09 23:02:11'
+  date_gmt: '2009-03-09 13:02:11'
+  id: '1625'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Virtual learning environments: three implementation perspectives &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
+  content: '[...] that&#8217;s a teleological view of diffusion. No surprise in guessing
+    I don&#8217;t like that characterisation. But I guess that is [...]'
+  date: '2009-03-13 21:35:03'
+  date_gmt: '2009-03-13 11:35:03'
+  id: '1626'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Prescription, adaptation and failure around improving univeristy teaching
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
+  content: '[...] prescription approach is an example of teleological design. I&#8217;m
+    suggesting that improving teaching requires a much more ateleological approach.
+    In [...]'
+  date: '2009-03-30 12:27:38'
+  date_gmt: '2009-03-30 02:27:38'
+  id: '1627'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Quotes from Snowden and the mismatch between what univeristy e-learning
+    does and what it needs &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/
+  content: '[...] design causes problems, ateleological design is a better [...]'
+  date: '2009-04-06 13:22:30'
+  date_gmt: '2009-04-06 03:22:30'
+  id: '1628'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The need for a third way &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.156
+  author_url: https://djon.es/blog/2010/05/31/the-need-for-a-third-way/
+  content: '[...] to improve learning and teaching within universities. I&#8217;ve
+    long ago accepted (Jones, 2000; Jones et al, 2005)) that universities are complex
+    adaptive systems and that any attempt to treat them as ordered [...]'
+  date: '2010-05-31 11:28:48'
+  date_gmt: '2010-05-31 01:28:48'
+  id: '1629'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: The teleological brake on ICTs in open and distance learning
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: How do we transform institutions? Learning 2.0 and PLEs@CQUni &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.184
-      author_url: https://djon.es/blog/2008/10/30/how-do-we-transform-institutions-learning-20-and-plescquni/
-      content: '[...] and I have expanded on the problems with this type of approach a
-        couple of times before. First in 2005 and again in [...]'
-      date: '2008-10-30 00:53:33'
-      date_gmt: '2008-10-29 14:53:33'
-      id: '1618'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How do you implement PLEs into higher education courses? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.76
-      author_url: https://djon.es/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
-      content: '[...] However, I think Jocene&#8217;s next quote highlights the difficult
-        in drawing a barrier between teleological and ateleological design. But we still
-        keep getting stuck, half way over the implementation hurdle! If we telelogically
-        [...]'
-      date: '2009-02-02 08:18:32'
-      date_gmt: '2009-02-01 22:18:32'
-      id: '1619'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The protean nature of modern technology - another limitation of most views
-        of e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.143
-      author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
-      content: '[...] Almost without exception (please let me know if you can point out
-        some exceptions) they follow the traditional teleological systems development
-        life [...]'
-      date: '2009-02-09 15:38:58'
-      date_gmt: '2009-02-09 05:38:58'
-      id: '1620'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Getting half-baked ideas out there: improving research and the academy
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
-      content: '[...] Lucas Introna&#8217;s (1996) distinction between teleological design
-        (old style) and ateleological design (new style). [...]'
-      date: '2009-02-15 21:43:48'
-      date_gmt: '2009-02-15 11:43:48'
-      id: '1621'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Branding and universities - a mismatch of purpose and place? &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.43
-      author_url: https://djon.es/blog/2009/02/24/branding-and-universities-a-mismatch-of-purpose-and-place/
-      content: '[...] me, branding and how it should be carried out is a perfect example
-        of a teleological design process and the mismatch such a process is for a &#8220;place&#8221;
-        like a university. A perspective that [...]'
-      date: '2009-02-24 00:34:46'
-      date_gmt: '2009-02-23 14:34:46'
-      id: '1622'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Task corruption in teaching @ university - negative impact of Place? &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/
-      content: '[...] isn&#8217;t limited to senior management. In an organisation that
-        places emphasis on top-down, teleological design procesess the problem is (I believe)
-        likely to occur within instructional design groups, information [...]'
-      date: '2009-03-04 08:08:49'
-      date_gmt: '2009-03-03 22:08:49'
-      id: '1623'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The IRIS model of Technology Adoption - neat and incomplete? &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: https://djon.es/blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
-      content: '[...] I hesitate to label it as such, but the IRIS model seems to have
-        a very strong basis in teleological design (Jones et al, 2005; Jones and Muldoon,
-        2007). Again, this could be the impact of perspective and [...]'
-      date: '2009-03-06 09:19:17'
-      date_gmt: '2009-03-05 23:19:17'
-      id: '1624'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
-      content: '[...] are expanded in more detail in the paper. There have been many similar
-        discussions about processes. This paper talks about Introna&#8217;s ateleological
-        design process and its principles. Kurtz and Snowden [...]'
-      date: '2009-03-09 23:02:11'
-      date_gmt: '2009-03-09 13:02:11'
-      id: '1625'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Virtual learning environments: three implementation perspectives &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
-      content: '[...] that&#8217;s a teleological view of diffusion. No surprise in guessing
-        I don&#8217;t like that characterisation. But I guess that is [...]'
-      date: '2009-03-13 21:35:03'
-      date_gmt: '2009-03-13 11:35:03'
-      id: '1626'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Prescription, adaptation and failure around improving univeristy teaching
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
-      content: '[...] prescription approach is an example of teleological design. I&#8217;m
-        suggesting that improving teaching requires a much more ateleological approach.
-        In [...]'
-      date: '2009-03-30 12:27:38'
-      date_gmt: '2009-03-30 02:27:38'
-      id: '1627'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Quotes from Snowden and the mismatch between what univeristy e-learning
-        does and what it needs &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/
-      content: '[...] design causes problems, ateleological design is a better [...]'
-      date: '2009-04-06 13:22:30'
-      date_gmt: '2009-04-06 03:22:30'
-      id: '1628'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The need for a third way &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.156
-      author_url: https://djon.es/blog/2010/05/31/the-need-for-a-third-way/
-      content: '[...] to improve learning and teaching within universities. I&#8217;ve
-        long ago accepted (Jones, 2000; Jones et al, 2005)) that universities are complex
-        adaptive systems and that any attempt to treat them as ordered [...]'
-      date: '2010-05-31 11:28:48'
-      date_gmt: '2010-05-31 01:28:48'
-      id: '1629'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Jo Luck, Jeanne McConachie  
 Central Queensland University

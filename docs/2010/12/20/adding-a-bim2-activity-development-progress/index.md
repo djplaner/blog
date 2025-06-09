@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2010-12-20 17:31:05+10:00
+date: 2010-12-20 07:31:05
 next:
   text: Putting the MVC structure for bim2 in place
   url: /blog/2010/12/24/putting-the-mvc-structure-for-bim2-in-place/
 previous:
   text: A Theory-Driven Design Framework for Social Recommender Systems
   url: /blog/2010/12/20/3495/
+template: blog-post.html
 title: Adding a bim2 activity - development progress
 type: post
-template: blog-post.html
 ---
 Okay, so after [fixing up the naming problems](/blog/2010/12/19/problems-with-naming-of-bim2/) with bim2 etc, it's time to actually get the code going.
 
@@ -78,7 +78,7 @@ Ahh, but the information about the BIM settings is not being saved from the form
 
 Yep, that did it.
 
-[![Evidence of bim2 activity in Moodle 2](images/5276170003_581424dee4_m.jpg)](http://www.flickr.com/photos/david_jones/5276170003/ "Evidence of bim2 activity in Moodle 2 by David T Jones, on Flickr")
+[![Evidence of bim2 activity in Moodle 2](https://djon.es/assets/blog/2010/12/20/adding-a-bim2-activity-development-progress/images/5276170003_581424dee4_m.jpg)](http://www.flickr.com/photos/david_jones/5276170003/ "Evidence of bim2 activity in Moodle 2 by David T Jones, on Flickr")
 
 ### To do
 

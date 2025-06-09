@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - research
 - teaching
-date: 2013-01-24 15:04:54+10:00
+date: 2013-01-24 05:04:54
 next:
   text: Exploring connected versus/and networked learning
   url: /blog/2013/01/27/exploring-connected-versusand-networked-learning/
 previous:
   text: Taking a look at the &quot;Decoding Learning&quot; report
   url: /blog/2013/01/23/taking-a-look-at-the-decoding-learning-report/
+template: blog-post.html
 title: 1000 blog posts - a time to look back
 type: post
-template: blog-post.html
 ---
 According to the Wordpress dashboard for this blog this is the 1000th published post (I have 100 odd drafts that I never finished or thought better of posting). Given I'm about to mark first year in a new job in a new institution in a new region, undergo my annual performance review and commence a new academic year, it would seem time to reflect and think about the future.
 
@@ -87,11 +87,11 @@ What perhaps irked me most about that move was the Google ranking. In 2008, the 
 
 Late 2008 saw us purchase a new bull.
 
-[![Wandilla Zanzibar - Big Z](images/2922425745_374a226b95_n.jpg)](http://www.flickr.com/photos/david_jones/2922425745/ "Wandilla Zanzibar - Big Z by David T Jones, on Flickr")
+[![Wandilla Zanzibar - Big Z](https://djon.es/assets/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/images/2922425745_374a226b95_n.jpg)](http://www.flickr.com/photos/david_jones/2922425745/ "Wandilla Zanzibar - Big Z by David T Jones, on Flickr")
 
 By the end of 2008 I did get to visit Paris with my wife. She presented a paper and I [got an award](/blog/2008/12/22/it-is-official-a-best-publication-for-is-in-2007/) which had more to do with my esteemed PhD supervisor (as it happens I'll meet up with her again today) than me.
 
-[![Eiffel from Trocadero](images/3117284949_3c7555e739_n.jpg)](http://www.flickr.com/photos/david_jones/3117284949/ "Eiffel from Trocadero by David T Jones, on Flickr")
+[![Eiffel from Trocadero](https://djon.es/assets/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/images/3117284949_3c7555e739_n.jpg)](http://www.flickr.com/photos/david_jones/3117284949/ "Eiffel from Trocadero by David T Jones, on Flickr")
 
 During the Paris trip I found out that I was getting a redundancy, but it wasn't entirely clear what I would be employed as.
 
@@ -101,7 +101,7 @@ During this time I did finally start working fairly [consistently on the PhD](/b
 
 Early 2009 saw us become the breeder of race horses!!
 
-[![Malina - the new money burner](images/3243174787_4422fc911b_n.jpg)](http://www.flickr.com/photos/david_jones/3243174787/ "Malina - the new money burner by David T Jones, on Flickr")
+[![Malina - the new money burner](https://djon.es/assets/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/images/3243174787_4422fc911b_n.jpg)](http://www.flickr.com/photos/david_jones/3243174787/ "Malina - the new money burner by David T Jones, on Flickr")
 
 July of 2009 also saw commencement of work on [BIM](/blog/2009/07/16/bam-into-moodle-approved-starting-the-process/)
 
@@ -115,11 +115,11 @@ By the end of [July 2010](/blog/2010/07/28/first-the-fridge-dies-and-then/) I wa
 
 Initially I became a full-time PhD student and [a Dad](/blog/2010/08/20/off-to-see-the-dinosaurs/).
 
-[![Kronosaurus corner](images/4976206856_36191f9ecf_n.jpg)](http://www.flickr.com/photos/david_jones/4976206856/ "Kronosaurus corner by David T Jones, on Flickr")
+[![Kronosaurus corner](https://djon.es/assets/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/images/4976206856_36191f9ecf_n.jpg)](http://www.flickr.com/photos/david_jones/4976206856/ "Kronosaurus corner by David T Jones, on Flickr")
 
 By the end of 2010 I'd just about finished the PhD and enrolled to become a [high school teacher](/blog/2010/11/12/a-turning-point/). By January 2011 the [thesis was finished](/blog/2011/01/31/my-god-is-it-done/), by [May it was accepted](/blog/2011/05/27/and-the-thesis-is-complete-whats-next/) and graduation was July.
 
-[![Dr Jones](images/5952694500_f2c14b2fbc_m.jpg)](http://www.flickr.com/photos/david_jones/5952694500/ "Dr Jones by David T Jones, on Flickr")
+[![Dr Jones](https://djon.es/assets/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/images/5952694500_f2c14b2fbc_m.jpg)](http://www.flickr.com/photos/david_jones/5952694500/ "Dr Jones by David T Jones, on Flickr")
 
 While I kept blogging about educational technology stuff, most of the blog for 2011 was spent reflecting on what I was doing in the Graduate Diploma of Learning and Teaching. The experience as a student of institutional e-learning was interesting.
 

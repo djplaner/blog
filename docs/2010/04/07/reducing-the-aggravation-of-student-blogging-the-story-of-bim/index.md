@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - bam
 - bim
-date: 2010-04-07 08:55:44+10:00
+comments: []
+date: 2010-04-06 22:55:44
 next:
   text: '"Phd Update #26 - Getting to first draft stage"'
   url: /blog/2010/04/09/phd-update-26-getting-to-first-draft-stage/
+pingbacks:
+- approved: '1'
+  author: Inside out, Outside in or both? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.106
+  author_url: https://djon.es/blog/2010/04/25/inside-out-outside-in-or-both/
+  content: '[...] in or&nbsp;both?  During the last week I have been in Canberra for
+    various events, including giving a presentation on BIM at University of Canberra.
+    Somewhat surprisingly (as last I knew, he was in New Zealand), [...]'
+  date: '2010-04-25 12:40:56'
+  date_gmt: '2010-04-25 02:40:56'
+  id: '2999'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What are good designs/design principles for Moodle
   url: /blog/2010/04/03/what-are-good-designsdesign-principles-for-moodle/
+template: blog-post.html
 title: '"Reducing the aggravation of student blogging: The story of BIM"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Inside out, Outside in or both? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.106
-      author_url: https://djon.es/blog/2010/04/25/inside-out-outside-in-or-both/
-      content: '[...] in or&nbsp;both?  During the last week I have been in Canberra for
-        various events, including giving a presentation on BIM at University of Canberra.
-        Somewhat surprisingly (as last I knew, he was in New Zealand), [...]'
-      date: '2010-04-25 12:40:56'
-      date_gmt: '2010-04-25 02:40:56'
-      id: '2999'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In a couple of weeks I'm off to Canberra to talk PhD, potential ALTC grants and promote the use of [BIM](/blog/research/bam-blog-aggregation-management/). As part of the latter task, I'm giving a quick talk at the University of Canberra as part of their [Stuff the works lunches](http://www.canberra.edu.au/tlc/current-events). The title of the talk is "Reducing the aggravation of student blogging: The story of BIM".
 

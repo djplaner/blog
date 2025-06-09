@@ -1,74 +1,72 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-03-06 12:30:18+10:00
+comments:
+- approved: '1'
+  author: Clarissa
+  author_email: sillyconservationist@gmail.com
+  author_ip: 60.54.22.240
+  author_url: http://sillyconservationist.wordpress.com
+  content: 'I have always wanted to start something like that but I realize that I
+    am not the kind of person/blogger who blogs on a schedule. I sometimes get too
+    busy I don''t have time to update my blog, though I really think that this is
+    a great idea. It keeps you on track, and at the end of the semester, you can look
+    back and say, "Look, this is what I have done in the past few months."
+
+
+    :)'
+  date: '2009-03-09 20:31:42'
+  date_gmt: '2009-03-09 10:31:42'
+  id: '2230'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Clarissa,
+
+
+    I''ve made failed attempts at this sort of thing.  Though this is the first time
+    I''m doing it in public on a blog. Not sure that will make a significant difference
+    to the outcome.  Time will tell.  Good luck with yours.
+
+
+    David.'
+  date: '2009-03-09 21:36:54'
+  date_gmt: '2009-03-09 11:36:54'
+  id: '2231'
+  parent: '2230'
+  type: comment
+  user_id: '1'
+date: 2009-03-06 02:30:18
 next:
   text: '"The biggest flaw in university L&#038;T/e-learning?"'
   url: /blog/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/
+pingbacks:
+- approved: '1'
+  author: 'PhD update - week #3 &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/03/13/phd-update-week-3/
+  content: '[...] new record. A renewed interest in the PhD has lasted 3 weeks. I&#8217;ve
+    even made a come back from the weak second album problem and probably had the
+    most fulfilling week. Though I could have been more productive, perhaps [...]'
+  date: '2009-03-13 14:35:37'
+  date_gmt: '2009-03-13 04:35:37'
+  id: '2232'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The IRIS model of Technology Adoption - neat and incomplete?
   url: /blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
+template: blog-post.html
 title: The weak second album (PhD update)
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Clarissa
-      author_email: sillyconservationist@gmail.com
-      author_ip: 60.54.22.240
-      author_url: http://sillyconservationist.wordpress.com
-      content: 'I have always wanted to start something like that but I realize that I
-        am not the kind of person/blogger who blogs on a schedule. I sometimes get too
-        busy I don''t have time to update my blog, though I really think that this is
-        a great idea. It keeps you on track, and at the end of the semester, you can look
-        back and say, "Look, this is what I have done in the past few months."
-    
-    
-        :)'
-      date: '2009-03-09 20:31:42'
-      date_gmt: '2009-03-09 10:31:42'
-      id: '2230'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Clarissa,
-    
-    
-        I''ve made failed attempts at this sort of thing.  Though this is the first time
-        I''m doing it in public on a blog. Not sure that will make a significant difference
-        to the outcome.  Time will tell.  Good luck with yours.
-    
-    
-        David.'
-      date: '2009-03-09 21:36:54'
-      date_gmt: '2009-03-09 11:36:54'
-      id: '2231'
-      parent: '2230'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD update - week #3 &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/03/13/phd-update-week-3/
-      content: '[...] new record. A renewed interest in the PhD has lasted 3 weeks. I&#8217;ve
-        even made a come back from the weak second album problem and probably had the
-        most fulfilling week. Though I could have been more productive, perhaps [...]'
-      date: '2009-03-13 14:35:37'
-      date_gmt: '2009-03-13 04:35:37'
-      id: '2232'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Last week I [started a new Phd tradition](/blog/2009/02/27/phd-update-1-the-start-of-a-tradition/) - weekly updates. Traditionally the second album for a successful pop group is somewhat less than successful, I feel some connection with that tradition. Hopefully it will be significant motivation for next week.
 

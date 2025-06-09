@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - web-20-course-sites
 - webfuse
-date: 2006-09-18 17:38:12+10:00
+date: 2006-09-18 07:38:12
 next:
   text: Google calendar as a component to Web 2.0 course sites
   url: /blog/2006/09/18/google-calendar-as-a-component-to-web-20-course-sites/
 previous:
   text: Quote to support the Webfuse approach
   url: /blog/2006/09/18/quote-to-support-the-webfuse-approach/
+template: blog-post.html
 title: The host your own preference argument against Web 2.0 course sites
 type: post
-template: blog-post.html
 ---
 The Web 2.0 Course Site idea has many flaws, hurdles or counter arguments.
 

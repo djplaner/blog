@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2010-12-24 10:31:11+10:00
+date: 2010-12-24 00:31:11
 next:
   text: The student controller for bim2 - models and view
   url: /blog/2010/12/28/the-student-controller-for-bim2-models-and-view/
 previous:
   text: Adding a bim2 activity - development progress
   url: /blog/2010/12/20/adding-a-bim2-activity-development-progress/
+template: blog-post.html
 title: Putting the MVC structure for bim2 in place
 type: post
-template: blog-post.html
 ---
 So, bim2 is up and going, [at least in terms of being able to create an instance of the activity within a course](/blog/2010/12/20/adding-a-bim2-activity-development-progress/). The trouble is that it can't do anything. This post starts the process of implementing the design of the user interactions with bim2. The intent is to go with a Model-View-Controller type structure in the hope that this will improve flexibility and reuse.
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - eei
-date: 2019-02-10 16:38:10+10:00
+date: 2019-02-10 06:38:10
 next:
   text: Exploring knowledge reuse in design for digital learning
   url: /blog/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/
 previous:
   text: Improving reuse of design knowledge in a LMS
   url: /blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/
+template: blog-post.html
 title: "Digital learning templates \u2013 adding context and configuration"
 type: post
-template: blog-post.html
 ---
 [My last post](/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) introduced some early steps in exploring how to increase the reuse of design knowledge in design for digital learning (i.e. designing course websites). That post outlined the specific problem, the solution and linked it to work on constructive templates and patterns from the Hypermedia Design literature (Nanard, Nanard and Kahn, 1998). It closed with observing how the current solution was limited. It only provided scaffolding for the act of creating/implementing the specific design. It didn’t offer any affordances for the local context or design for configuration. This post details some early work to address this.
 
@@ -20,7 +20,7 @@ Figure 1 shows the particular “template” that I’ve been working on. At the
 
 All well and good, it’s pretty and contemporary enough, but there’s a problem.
 
-![](images/MAAAAAElFTkSuQmCC) Figure 1: An initial card interface, including user entered data
+![](https://djon.es/assets/blog/2019/02/10/digital-learning-templates-adding-context-and-configuration/images/MAAAAAElFTkSuQmCC) Figure 1: An initial card interface, including user entered data
 
 ### The challenge of rolling over
 
@@ -34,7 +34,7 @@ Goodyear and Dimitriadis (2013) argue that design for learning should “look fo
 
 The institution has [an academic calendar](https://www.griffith.edu.au/__data/assets/pdf_file/0031/326488/2019-Academic-Calendar.pdf) that explicitly numbers each week of the trimester. These trimester numbers are used actively in other learning and teaching practices and artefacts. For example, the institutional course time table lists teaching sessions by the weeks they occur in (e.g. Weeks 1-7, 8). Beyond this the use of trimester weeks has become internalised for some staff and students. For example, Figure 2 represents the way one course convenor modified the use of the card interface in their course. In interacting with the card interface the convenor found it difficult to match the dates on the cards against the semester. The convenor was used to thinking in week numbers. Not dates. Hence the addition of “Week 3” into the title of the card (in the actual course site, the week had been added to most cards).
 
-![](images/JM5eFhz+nwkAAAAASUVORK5CYII=) Figure 2: Course convenor added week number to card title
+![](https://djon.es/assets/blog/2019/02/10/digital-learning-templates-adding-context-and-configuration/images/JM5eFhz+nwkAAAAASUVORK5CYII=) Figure 2: Course convenor added week number to card title
 
 Rather than the course convenor manually add the trimester week numbers. Why not modify the card interface so they can use the week numbers to specifiy the date? Why not include the week number in the date badge on the card?
 
@@ -44,7 +44,7 @@ Not only would this fit with the common institutional practice of using trimeste
 
 Figure 3 shows the current card interface’s support for using the trimester week numbers. The card at the top shows that both the Week number and the actual date are included in the date label in the top right hand corner of the card. (Some have commented that the date label is getting quite large. If this becomes a major issue it could be addressed by offering different versions of the label. I’ll pick this up more in a subsequent post). Below the card you will see the content provided by the course designer. Note that the date is now specified by providing a week number.
 
-![](images/B5h3wHRAddHBAAAAAElFTkSuQmCC) Figure 3: Card with date specified by using institutional trimester week number
+![](https://djon.es/assets/blog/2019/02/10/digital-learning-templates-adding-context-and-configuration/images/B5h3wHRAddHBAAAAAElFTkSuQmCC) Figure 3: Card with date specified by using institutional trimester week number
 
 Currently the card interface supports either the original date format (see first card image in this post) or the week format. Figure 3 shows that the course designer has entered _Card Date: Week 3_ into the Blackboard content item. The card interface tweak transforms this into the card interface. If the card interfaces detects a week format for the date, the card interface checks an internal data structure for the course trimester to find the start and end dates for the matching week number. These dates are then displayed.
 

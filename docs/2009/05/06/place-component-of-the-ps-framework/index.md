@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,134 +6,131 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-05-06 08:06:32+10:00
+comments: []
+date: 2009-05-05 22:06:32
 next:
   text: '"University - change or die: and another problem with the LMS model"'
   url: /blog/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/
+pingbacks:
+- approved: '1'
+  author: 'University - change or die: and another problem with the LMS model &laquo;
+    The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Place - component of the Ps&nbsp;Framework [...]'
+  date: '2009-05-06 11:12:53'
+  date_gmt: '2009-05-06 01:12:53'
+  id: '2468'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Society &#8211; an aspect of Place impacting on e-learning &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/
+  content: '[...] impacting on&nbsp;e-learning  The following, finally, is a first
+    draft of the sector section of the &#8220;Place&#8221; component of the Ps Framework.
+    This is all meant to be part of chapter 2 of my [...]'
+  date: '2009-05-08 09:34:13'
+  date_gmt: '2009-05-07 23:34:13'
+  id: '2469'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Sector &#8211; another part of Place &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/05/08/sector-another-part-of-place/
+  content: '[...] approach &#8211; soon to halt I&#8217;m sure. The following is the
+    next section of the Place component of the Ps Framework section for chapter 2
+    of the [...]'
+  date: '2009-05-08 12:17:29'
+  date_gmt: '2009-05-08 02:17:29'
+  id: '2470'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #10 &#8211; Dragging on &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/05/08/phd-update-10-dragging-on/
+  content: "[...] section on \u201CPlace\u201D &#8211; only partially done.I have\
+    \ completed and posted three parts of this: the introduction, society, and [...]"
+  date: '2009-05-08 15:59:46'
+  date_gmt: '2009-05-08 05:59:46'
+  id: '2471'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Institution &#8211; another part of place &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.244.27
+  author_url: https://djon.es/blog/2009/05/15/institution-another-part-of-place/
+  content: '[...] another part of&nbsp;place  For longer than I care to remember,
+    I&#8217;ve been working on the Place component of the Ps Framework for chapter
+    2 of my thesis. This post brings the penultimate section [...]'
+  date: '2009-05-15 15:16:16'
+  date_gmt: '2009-05-15 05:16:16'
+  id: '2472'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons from place &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/05/17/lessons-from-place/
+  content: '[...] from&nbsp;place  The following is the last part of the Place section
+    of chatper 2 of my thesis. It&#8217;s not that good, but enough has been done
+    to get it out and [...]'
+  date: '2009-05-17 21:55:51'
+  date_gmt: '2009-05-17 11:55:51'
+  id: '2473'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: University processes &#8211; management and planning &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.211
+  author_url: https://djon.es/blog/2009/06/08/university-processes-management-and-planning/
+  content: '[...] discussed in Place globalisation and its associated features of
+    a minimalist state, entrepreneurialization and [...]'
+  date: '2009-06-08 12:43:42'
+  date_gmt: '2009-06-08 02:43:42'
+  id: '2474'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Institutional e-learning strategies &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/06/17/institutional-e-learning-strategies/
+  content: '[...] by the divergent perspectives highlighted above, and external environment
+    (e.g. crossref to Place) calls for the management of e-learning to be highly adaptive
+    (Uys 2002). In order to respond and [...]'
+  date: '2009-06-17 11:41:30'
+  date_gmt: '2009-06-17 01:41:30'
+  id: '2475'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD Update #9 - spluttering out of steam'
   url: /blog/2009/05/01/phd-update-9-spluttering-out-of-steam/
+template: blog-post.html
 title: Place - component of the Ps Framework
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'University - change or die: and another problem with the LMS model &laquo;
-        The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Place - component of the Ps&nbsp;Framework [...]'
-      date: '2009-05-06 11:12:53'
-      date_gmt: '2009-05-06 01:12:53'
-      id: '2468'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Society &#8211; an aspect of Place impacting on e-learning &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/
-      content: '[...] impacting on&nbsp;e-learning  The following, finally, is a first
-        draft of the sector section of the &#8220;Place&#8221; component of the Ps Framework.
-        This is all meant to be part of chapter 2 of my [...]'
-      date: '2009-05-08 09:34:13'
-      date_gmt: '2009-05-07 23:34:13'
-      id: '2469'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Sector &#8211; another part of Place &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/05/08/sector-another-part-of-place/
-      content: '[...] approach &#8211; soon to halt I&#8217;m sure. The following is the
-        next section of the Place component of the Ps Framework section for chapter 2
-        of the [...]'
-      date: '2009-05-08 12:17:29'
-      date_gmt: '2009-05-08 02:17:29'
-      id: '2470'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #10 &#8211; Dragging on &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/05/08/phd-update-10-dragging-on/
-      content: "[...] section on \u201CPlace\u201D &#8211; only partially done.I have\
-        \ completed and posted three parts of this: the introduction, society, and [...]"
-      date: '2009-05-08 15:59:46'
-      date_gmt: '2009-05-08 05:59:46'
-      id: '2471'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Institution &#8211; another part of place &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.244.27
-      author_url: https://djon.es/blog/2009/05/15/institution-another-part-of-place/
-      content: '[...] another part of&nbsp;place  For longer than I care to remember,
-        I&#8217;ve been working on the Place component of the Ps Framework for chapter
-        2 of my thesis. This post brings the penultimate section [...]'
-      date: '2009-05-15 15:16:16'
-      date_gmt: '2009-05-15 05:16:16'
-      id: '2472'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons from place &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/05/17/lessons-from-place/
-      content: '[...] from&nbsp;place  The following is the last part of the Place section
-        of chatper 2 of my thesis. It&#8217;s not that good, but enough has been done
-        to get it out and [...]'
-      date: '2009-05-17 21:55:51'
-      date_gmt: '2009-05-17 11:55:51'
-      id: '2473'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: University processes &#8211; management and planning &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.211
-      author_url: https://djon.es/blog/2009/06/08/university-processes-management-and-planning/
-      content: '[...] discussed in Place globalisation and its associated features of
-        a minimalist state, entrepreneurialization and [...]'
-      date: '2009-06-08 12:43:42'
-      date_gmt: '2009-06-08 02:43:42'
-      id: '2474'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Institutional e-learning strategies &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/06/17/institutional-e-learning-strategies/
-      content: '[...] by the divergent perspectives highlighted above, and external environment
-        (e.g. crossref to Place) calls for the management of e-learning to be highly adaptive
-        (Uys 2002). In order to respond and [...]'
-      date: '2009-06-17 11:41:30'
-      date_gmt: '2009-06-17 01:41:30'
-      id: '2475'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the introduction to a section of Chapter 2 of my [thesis](/blog/research/phd-thesis/). It introduces the examination of the Place component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). Hopefully, the remaining sections of the section will be posted over the coming day or so.
 

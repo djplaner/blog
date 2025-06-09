@@ -1,73 +1,70 @@
----
+﻿---
 categories:
 - teaching
-date: 2011-09-21 10:54:55+10:00
+comments: []
+date: 2011-09-21 00:54:55
 next:
   text: BIM and BIM2 - Who needs it? What do you need?
   url: /blog/2011/09/22/bim-and-bim2-who-needs-it-what-do-you-need/
+pingbacks:
+- approved: '1'
+  author: 'HD_Links: Khan Academy | Networked Teaching &amp; Learning'
+  author_email: null
+  author_ip: 128.206.4.65
+  author_url: http://blog.emints.org/?p=1530
+  content: "[...] &#8220;The final plan: Khan Academy, gamification and the flipped\_\
+    classroom&#8221; (David Jones) [...]"
+  date: '2012-01-13 02:25:39'
+  date_gmt: '2012-01-12 16:25:39'
+  id: '127'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How are they going? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.8.66
+  author_url: https://djon.es/blog/2013/03/04/how-are-they-going/
+  content: '[...] taken from here [...]'
+  date: '2013-03-04 13:34:02'
+  date_gmt: '2013-03-04 03:34:02'
+  id: '128'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: dy/dan &raquo; Blog Archive &raquo; Hot Links
+  author_email: null
+  author_ip: 50.23.235.201
+  author_url: http://blog.mrmeyer.com/?p=11825
+  content: '[&#8230;] McCrea, David T. Jones, Alex Eckert, and Daniel Schneider are
+    all on my reading list and they all have a special fondness [&#8230;]'
+  date: '2013-07-03 02:04:00'
+  date_gmt: '2013-07-02 16:04:00'
+  id: '129'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'The final plan: Khan Academy, gamification and ...'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/aprendizaje-invertido/p/4005178110/the-final-plan-khan-academy-gamification-and-the-flipped-classroom
+  content: '[&#8230;] Just over a month ago I started planning a Unit of Work (UoW)
+    for Year 10 Core Mathematics. i.e. the rationale and design of about 8 or so weeks
+    of lessons for such a class. The following gives a d...&nbsp; [&#8230;]'
+  date: '2013-07-25 22:22:58'
+  date_gmt: '2013-07-25 12:22:58'
+  id: '130'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A summary of one perspective on the Digital Education Revolution
   url: /blog/2011/09/19/a-summary-of-one-perspective-on-the-digital-education-revolution/
+template: blog-post.html
 title: '"The final plan: Khan Academy, gamification and the flipped classroom"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'HD_Links: Khan Academy | Networked Teaching &amp; Learning'
-      author_email: null
-      author_ip: 128.206.4.65
-      author_url: http://blog.emints.org/?p=1530
-      content: "[...] &#8220;The final plan: Khan Academy, gamification and the flipped\_\
-        classroom&#8221; (David Jones) [...]"
-      date: '2012-01-13 02:25:39'
-      date_gmt: '2012-01-12 16:25:39'
-      id: '127'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How are they going? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.8.66
-      author_url: https://djon.es/blog/2013/03/04/how-are-they-going/
-      content: '[...] taken from here [...]'
-      date: '2013-03-04 13:34:02'
-      date_gmt: '2013-03-04 03:34:02'
-      id: '128'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: dy/dan &raquo; Blog Archive &raquo; Hot Links
-      author_email: null
-      author_ip: 50.23.235.201
-      author_url: http://blog.mrmeyer.com/?p=11825
-      content: '[&#8230;] McCrea, David T. Jones, Alex Eckert, and Daniel Schneider are
-        all on my reading list and they all have a special fondness [&#8230;]'
-      date: '2013-07-03 02:04:00'
-      date_gmt: '2013-07-02 16:04:00'
-      id: '129'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'The final plan: Khan Academy, gamification and ...'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/aprendizaje-invertido/p/4005178110/the-final-plan-khan-academy-gamification-and-the-flipped-classroom
-      content: '[&#8230;] Just over a month ago I started planning a Unit of Work (UoW)
-        for Year 10 Core Mathematics. i.e. the rationale and design of about 8 or so weeks
-        of lessons for such a class. The following gives a d...&nbsp; [&#8230;]'
-      date: '2013-07-25 22:22:58'
-      date_gmt: '2013-07-25 12:22:58'
-      id: '130'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Just over a month ago I [started planning](/blog/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/) a Unit of Work (UoW) for Year 10 Core Mathematics. i.e. the rationale and design of about 8 or so weeks of lessons for such a class. The following gives a description of the final unit of work.
 
@@ -191,7 +188,7 @@ All but the first two weekreview of the progress bar showing each group's progre
 
 Last week saw the announcement of an agreement between all the State and Federal Governments on national health reforms. The following news article from the ABC News website (http://bit.ly/ruVibw) reports on the Prime Minister’s attempts to promote the agreement.
 
-[!["Math watch" resource](images/6167458685_9845e2706c_m.jpg)](http://www.flickr.com/photos/david_jones/6167458685/ "\"Math watch\" resource by David T Jones, on Flickr")
+[!["Math watch" resource](https://djon.es/assets/blog/2011/09/21/the-final-plan-khan-academy-gamification-and-the-flipped-classroom/images/6167458685_9845e2706c_m.jpg)](http://www.flickr.com/photos/david_jones/6167458685/ "\"Math watch\" resource by David T Jones, on Flickr")
 
 The Victorian Government maintains a website (http://www.health.vic.gov.au/performance/emergency-care.htm) that provides a range of data and explanations about emergency department waiting times. Focusing on the Prime Minister’s claim that are related to percentage, consider and investigate the following questions:
 

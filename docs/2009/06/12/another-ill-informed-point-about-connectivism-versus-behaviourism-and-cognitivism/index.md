@@ -1,14 +1,14 @@
----
-date: 2009-06-12 08:23:47+10:00
+﻿---
+date: 2009-06-11 22:23:47
 next:
   text: To all my friends and colleagues out there - PhD etiquette
   url: /blog/2009/06/14/to-all-my-friends-and-colleagues-out-there-phd-etiquette/
 previous:
   text: Institutional learning and teaching strategies
   url: /blog/2009/06/11/institutional-learning-and-teaching-strategies/
+template: blog-post.html
 title: Another ill-informed point about connectivism versus behaviourism and cognitivism
 type: post
-template: blog-post.html
 ---
 In [a previous post](/blog/2009/06/09/an-ill-informed-observation-on-connectivism-and-other-learning-theories/) I made public one of my half-baked ideas about connectivism. This was sparked by a [similar public considerations](http://damosworld.wordpress.com/2009/05/26/connectivism-and-the-importance-of-context-an-example/) by a [colleague](http://damosworld.wordpress.com/about-damien/).
 

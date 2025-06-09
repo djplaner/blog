@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - bad
 - edc3100
-date: 2016-03-22 10:02:00+10:00
+date: 2016-03-22 00:02:00
 next:
   text: '"Mapping the digital practices of teacher educators: Implications for teacher
     education in changing digital landscapes"'
@@ -10,11 +10,11 @@ next:
 previous:
   text: 'OEP and Initial Teacher Education: Moving on from the horsey, horseless carriage'
   url: /blog/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/
+template: blog-post.html
 title: What to expect/look for from SITE'2016?
 type: post
-template: blog-post.html
 ---
-[![Fountain](images/25946611716_c8cd1a64d9_m.jpg)](https://www.flickr.com/photos/david_jones/25946611716/in/dateposted-public/ "Fountain")
+[![Fountain](https://djon.es/assets/blog/2016/03/22/what-to-expectlook-for-from-site2016/images/25946611716_c8cd1a64d9_m.jpg)](https://www.flickr.com/photos/david_jones/25946611716/in/dateposted-public/ "Fountain")
 
 I'm spending this week attending the [SITE'2016 conference](https://www.academicexperts.org/conf/SITE/2016/) (SITE = [Society of Information Technology and Teacher Education](http://site.aace.org/)). This is my first SITE and the following outlines some of my expectations and intent.
 

@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - casa
-coverImage: 3311829635_0080586412_o-scaled-e1601494373689.jpg
-date: 2021-03-06 17:17:06+10:00
+coverImage: https://djon.es/assets/blog/2021/03/06/do-the-little-things-matter-in-design-for-learning/images/3311829635_0080586412_o-scaled-e1601494373689.jpg
+date: 2021-03-06 07:17:06
 next:
   text: Reflecting on the spread of the Card Interface for Blackboard Learn
   url: /blog/2021/03/12/reflecting-on-the-spread-of-the-card-interface-for-blackboard-learn/
@@ -10,9 +10,9 @@ previous:
   text: Reflections on "How learning design systems can help scale and accelerate
     learning design"
   url: /blog/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/
+template: blog-post.html
 title: Do the little things matter in design for learning?
 type: post
-template: blog-post.html
 ---
 In learning what matters most is what the learner does. As people looking to help people learn we can't make them learn. The best we can do is to create learning situations - see Goodyear, Carvalho & Yeoman (2021) for why I'm using situation and not environment. We design the task, the learning space and social organisation (alone, pairs, groups etc.) that make up the situation in which they will engage in some activity. Hopefully activity that will lead to the learning outcomes we had in mind when designing the situation.
 
@@ -36,7 +36,7 @@ For better or worse, dates are important in formal education. Submit the assignm
 
 However, as pointed out in [this 2015 comment](/blog/2015/06/26/and-the-little-one-said-roll-over-roll-over/#comment-1340) the more common practice has been situation B. Since the print-based distance education days of the 80s and 90s the tendency has been to make learning materials (physical or digital) "stand-alone". i.e. independent of a particular study period so that they can be reused again and again. Generally because it's hard to ensure that the dates continue to be correct in offering after offering.
 
-![](images/2021-03-06-10-04-55.png) **Note:** These images are intended as examples of "little things" not examplars of anything else
+![](https://djon.es/assets/blog/2021/03/06/do-the-little-things-matter-in-design-for-learning/images/2021-03-06-10-04-55.png) **Note:** These images are intended as examples of "little things" not examplars of anything else
 
 ### Using web links
 
@@ -44,7 +44,7 @@ In a web-based learning situation, it's not uncommon to require students to use 
 
 But, as someone who gets to see a little of different web-based learning situations I continue to be shocked that the majority are more like situation B then sitation B in the following image.
 
-![](images/2021-03-06-10-03-36.png)
+![](https://djon.es/assets/blog/2021/03/06/do-the-little-things-matter-in-design-for-learning/images/2021-03-06-10-03-36.png)
 
 ## Is it common to ignore the "little things"?
 

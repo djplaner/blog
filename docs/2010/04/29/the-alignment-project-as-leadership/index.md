@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - addie
 - alignment
 - curriculummapping-cddu
-date: 2010-04-29 14:43:05+10:00
+comments: []
+date: 2010-04-29 04:43:05
 next:
   text: Adding "deleted" to BIM
   url: /blog/2010/04/30/adding-deleted-to-bim/
+pingbacks:
+- approved: '1'
+  author: Is there more to communities of practice? &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.44.23
+  author_url: https://djon.es/blog/2010/05/16/is-there-more-to-communities-of-practice/
+  content: '[...] about we consider what leadership is? What does it entail? Some
+    previous reading and thinking identified two functions that are thought to be
+    indispensable to leadership (Sourthwell and Morgan, [...]'
+  date: '2010-05-16 12:40:05'
+  date_gmt: '2010-05-16 02:40:05'
+  id: '3025'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The realities of the ERA and L&#038;T support services
   url: /blog/2010/04/28/the-realities-of-the-era-and-lt-support-services/
+template: blog-post.html
 title: The alignment project as leadership
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Is there more to communities of practice? &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.44.23
-      author_url: https://djon.es/blog/2010/05/16/is-there-more-to-communities-of-practice/
-      content: '[...] about we consider what leadership is? What does it entail? Some
-        previous reading and thinking identified two functions that are thought to be
-        indispensable to leadership (Sourthwell and Morgan, [...]'
-      date: '2010-05-16 12:40:05'
-      date_gmt: '2010-05-16 02:40:05'
-      id: '3025'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following signals a slight change in direction around the [curriculum mapping project](/blog/research/curriculum-mapping/). First, the project is now going under the label "alignment project" (curriculum mapping is just one aspect of the project). Second, the project is likely to be re-framed as an application for an [ALTC leadership grant](http://www.altc.edu.au/grants-funding-available#leadership-program). This post is an attempt to begin this re-framing. It's really just thinking out loud.
 

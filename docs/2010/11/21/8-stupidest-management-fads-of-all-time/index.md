@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-11-21 08:21:15+10:00
+date: 2010-11-20 22:21:15
 next:
   text: Charity begins at home, doesn't it?
   url: /blog/2010/11/28/charity-begins-at-home-doesnt-it/
 previous:
   text: Changing times and connectivism
   url: /blog/2010/11/21/changing-times-and-connectivism/
+template: blog-post.html
 title: 8 stupidest management fads of all time
 type: post
-template: blog-post.html
 ---
 Increasingly I think most of management is driven by fads. Even if the "fad" has some good underlying principles, or is perhaps simply a bit better than previous options. It is still implemented by management as a fad. As if we only implement this successfully, we will have the silver bullet that solves all our problems. Within higher education I have previously argued that [open source learning management systems](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) are one of the more recent fads.
 

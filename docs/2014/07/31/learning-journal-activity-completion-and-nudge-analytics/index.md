@@ -1,22 +1,18 @@
----
+﻿---
 categories:
 - edc3100
-date: 2014-07-31 11:06:15+10:00
+comments: []
+date: 2014-07-31 01:06:15
 next:
   text: Emergence, improvisation and course design
   url: /blog/2014/07/31/emergence-improvisation-and-course-design/
+pingbacks: []
 previous:
   text: A bit more exploration of identity
   url: /blog/2014/07/29/a-bit-more-exploration-of-identity/
+template: blog-post.html
 title: Learning journal, activity completion and nudge analytics
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 Week 2 of 2nd semester. Time to start checking how students are going and checking in with those that haven't started yet. For EDC3100, this means putting in place the various "shadow systems" that bridge what's provided by the institution and what I need in order to enact the practices I deem appropriate. What follows is a record of the ongoing evolution of [this idea](/blog/2013/06/10/the-kludge-for-marking-learning-journals/).
 

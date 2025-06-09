@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -7,7 +7,7 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-09-15 08:49:07+10:00
+date: 2010-09-14 22:49:07
 next:
   text: Alan Kay and some reasons why the educational technology revolution hasn't
     happened
@@ -15,9 +15,9 @@ next:
 previous:
   text: Portfolios often implemented poorly
   url: /blog/2010/09/14/portfolios-often-implemented-poorly/
+template: blog-post.html
 title: Principles of form and function
 type: post
-template: blog-post.html
 ---
 The aim of my [thesis](/blog/research/phd-thesis/) is to formulate an information systems design theory for e-learning. Even though I have a [publication](/blog/publications/the-formulation-of-an-isdt-for-e-learning/) or two that have described early versions of the ISDT, I've never been really happy with them. However, I'm getting close to the end of this process, at least for the purposes of getting the thesis submitted.
 

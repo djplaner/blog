@@ -1,107 +1,105 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - lmsevaluation
 - lmsreview
-date: 2008-11-18 10:32:26+10:00
+comments:
+- approved: '1'
+  author: joelcfisler
+  author_email: joel.fisler@id.uzh.ch
+  author_ip: 130.60.112.227
+  author_url: null
+  content: "From what I understand you are only evaluation Sakai and Moodle. Is there\
+    \ a particular reason why you are looking at these two LMS? I would consider also\
+    \ talking a look at OLAT, a Swiss open source LMS that we use here at the University\
+    \ of Zurich. Check www.olat.org for more information or demo.olat.org for a demo\
+    \ LMS server.\nGreetings from Zurich\nJo\xEBl"
+  date: '2008-11-25 01:54:44'
+  date_gmt: '2008-11-24 15:54:44'
+  id: '1889'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: 'G''day Joel,
+
+
+    Thanks for the comment.
+
+
+    The choice of Sakai and Moodle is out of my hands.  It was an organisational decision
+    which I have to live with.
+
+
+    Frankly, I think the whole LMS model is broken and is one of the contributing
+    factors to the current woeful state of most e-learning within universities.  If
+    I had my choice I would not have adopted any LMS.
+
+
+    So what''s the alternative, essentially something based on the information systems
+    design theory I''ve been developing over recent years.
+
+
+    https://djon.es/blog/publications/the-formulation-of-an-isdt-for-e-learning/
+
+
+    But that''s not surprising given my prejudices.
+
+
+    Some other related posts on my blog
+
+
+    https://djon.es/blog/2007/09/30/its-all-over-no-need-to-select-an-lms/
+
+
+    https://djon.es/blog/2007/06/12/cqus-first-web-20-course-site/
+
+
+    and this one
+
+
+    https://djon.es/blog/2007/03/13/ateleological-development-as-a-better-way-to-develop-university-e-learning-systems/
+
+
+    David.'
+  date: '2008-11-25 08:55:55'
+  date_gmt: '2008-11-24 22:55:55'
+  id: '1890'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2008-11-18 00:32:26
 next:
   text: The model underpinning blackboard and how ACCT19064 uses it
   url: /blog/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/
+pingbacks:
+- approved: '1'
+  author: The model underpinning blackboard and how ACCT19064 uses it &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.85
+  author_url: https://djon.es/blog/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Evaluating an LMS by understanding the underpinning&nbsp;&#8220;model&#8221; [...]'
+  date: '2008-11-19 08:43:03'
+  date_gmt: '2008-11-18 22:43:03'
+  id: '1888'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PLEs@CQUni: Origins, rationale and outcomes so far'
   url: /blog/2008/11/17/plescquni-origins-rationale-and-outcomes-so-far-2/
 tags:
 - lms
+template: blog-post.html
 title: Evaluating an LMS by understanding the underpinning "model"
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: joelcfisler
-      author_email: joel.fisler@id.uzh.ch
-      author_ip: 130.60.112.227
-      author_url: null
-      content: "From what I understand you are only evaluation Sakai and Moodle. Is there\
-        \ a particular reason why you are looking at these two LMS? I would consider also\
-        \ talking a look at OLAT, a Swiss open source LMS that we use here at the University\
-        \ of Zurich. Check www.olat.org for more information or demo.olat.org for a demo\
-        \ LMS server.\nGreetings from Zurich\nJo\xEBl"
-      date: '2008-11-25 01:54:44'
-      date_gmt: '2008-11-24 15:54:44'
-      id: '1889'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: 'G''day Joel,
-    
-    
-        Thanks for the comment.
-    
-    
-        The choice of Sakai and Moodle is out of my hands.  It was an organisational decision
-        which I have to live with.
-    
-    
-        Frankly, I think the whole LMS model is broken and is one of the contributing
-        factors to the current woeful state of most e-learning within universities.  If
-        I had my choice I would not have adopted any LMS.
-    
-    
-        So what''s the alternative, essentially something based on the information systems
-        design theory I''ve been developing over recent years.
-    
-    
-        https://djon.es/blog/publications/the-formulation-of-an-isdt-for-e-learning/
-    
-    
-        But that''s not surprising given my prejudices.
-    
-    
-        Some other related posts on my blog
-    
-    
-        https://djon.es/blog/2007/09/30/its-all-over-no-need-to-select-an-lms/
-    
-    
-        https://djon.es/blog/2007/06/12/cqus-first-web-20-course-site/
-    
-    
-        and this one
-    
-    
-        https://djon.es/blog/2007/03/13/ateleological-development-as-a-better-way-to-develop-university-e-learning-systems/
-    
-    
-        David.'
-      date: '2008-11-25 08:55:55'
-      date_gmt: '2008-11-24 22:55:55'
-      id: '1890'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: The model underpinning blackboard and how ACCT19064 uses it &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.85
-      author_url: https://djon.es/blog/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Evaluating an LMS by understanding the underpinning&nbsp;&#8220;model&#8221; [...]'
-      date: '2008-11-19 08:43:03'
-      date_gmt: '2008-11-18 22:43:03'
-      id: '1888'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Currently, CQUni is undertaking an evaluation of [Sakai](http://sakaiproject.org/portal) and [Moodle](http://moodle.org/) as a replacement for [Blackboard](http://blackboard.com/us/index.bbb) as the organisation's Learning Management System. The evaluation process includes many of the standard activities including
 

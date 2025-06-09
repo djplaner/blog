@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
@@ -6,50 +6,47 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2009-08-07 21:48:10+10:00
+comments: []
+date: 2009-08-07 11:48:10
 next:
   text: The limiting impacts of a PhD and the writing up phase
   url: /blog/2009/08/09/the-limiting-impacts-of-a-phd-and-the-writing-up-phase/
+pingbacks:
+- approved: '1'
+  author: Identifying file distribution on Webfuse course sites &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.201
+  author_url: https://djon.es/blog/2009/08/24/identifying-file-distribution-on-webfuse-course-sites/
+  content: '[...] that previous post I did not include a graph/any figures around
+    the use of Webfuse course sites to distribute content [...]'
+  date: '2009-08-24 12:04:17'
+  date_gmt: '2009-08-24 02:04:17'
+  id: '2693'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Comparisons between LMS &#8211; the need for system independence &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.104.11
+  author_url: https://djon.es/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/
+  content: '[...] talked about and used the model previously (first, second and other
+    places). For the purposes of the paper we produced a different representation
+    of the [...]'
+  date: '2010-06-27 09:31:38'
+  date_gmt: '2010-06-26 23:31:38'
+  id: '2694'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Losing weight, improving learning and teaching and complex systems
   url: /blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/
+template: blog-post.html
 title: '"Breadth of Webfuse use: 1997 through 2009"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Identifying file distribution on Webfuse course sites &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.201
-      author_url: https://djon.es/blog/2009/08/24/identifying-file-distribution-on-webfuse-course-sites/
-      content: '[...] that previous post I did not include a graph/any figures around
-        the use of Webfuse course sites to distribute content [...]'
-      date: '2009-08-24 12:04:17'
-      date_gmt: '2009-08-24 02:04:17'
-      id: '2693'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Comparisons between LMS &#8211; the need for system independence &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.104.11
-      author_url: https://djon.es/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/
-      content: '[...] talked about and used the model previously (first, second and other
-        places). For the purposes of the paper we produced a different representation
-        of the [...]'
-      date: '2010-06-27 09:31:38'
-      date_gmt: '2010-06-26 23:31:38'
-      id: '2694'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Over the last week I've posted a bit around papers and ideas about how you evaluate the use of a learning management system (LMS). This post is intended to summarise findings from an initial evaluation of the use of features in the Webfuse system from 1997 through 2009. Webfuse is the system I designed as part of my [PhD](/blog/research/phd-thesis/) and has been used at [Central Queensland University](http://www.cqu.edu.au/) since 1997. At least the "LMS" part of Webfuse will cease being used in 2010.
 
@@ -61,7 +58,7 @@ Overall, I believe these figures, even with their limitations, show that the pro
 
 The figures presented below results from an initial analysis of the archives. The figures presented below concentrate on the number of course sites supported by Webfuse and the percentage of those courses that contained various Webfuse features. The features are grouped into the categories proposed by Malikowski, Thompson and Theis (2007) and illustrated in the figure below adapted from Malikowski et al (2007).
 
-[![Malikowski Flow Chart](images/3465729160_255865ebc6_m.jpg)](http://www.flickr.com/photos/david_jones/3465729160/ "Malikowski Flow Chart by David T Jones, on Flickr")
+[![Malikowski Flow Chart](https://djon.es/assets/blog/2009/08/07/breadth-of-webfuse-use-1997-through-2009/images/3465729160_255865ebc6_m.jpg)](http://www.flickr.com/photos/david_jones/3465729160/ "Malikowski Flow Chart by David T Jones, on Flickr")
 
 An important point made in the following is related to usage levels embedded in the Malkowski et al (2007) model. The model groups LMS functionality into five categories and then, drawing on the results reported in the literature, break the five categories into three levels of usage:
 
@@ -78,7 +75,7 @@ I've included some brief comments with each graph.
 
 ### Webfuse course sites
 
-[![WebfuseCourseSites](images/3798160410_2d2399d097_m.jpg)](http://www.flickr.com/photos/david_jones/3798160410/ "WebfuseCourseSites by David T Jones, on Flickr")
+[![WebfuseCourseSites](https://djon.es/assets/blog/2009/08/07/breadth-of-webfuse-use-1997-through-2009/images/3798160410_2d2399d097_m.jpg)](http://www.flickr.com/photos/david_jones/3798160410/ "WebfuseCourseSites by David T Jones, on Flickr")
 
 - I believe that the drop in course sites in 2000 was due to some coordinators adopting WebCT which had been introduced as the "institutional" system. Within an offering or two, these courses had returned to Webfuse.
 - 1997 through 2000 were the naive years of Webfuse. The level of features in Webfuse and the default course sites was low. Familiarity with online learning with staff was relatively low.
@@ -96,7 +93,7 @@ So, from the start 100% of the Webfuse course sites were used to transmit conten
 
 ### Class interactions
 
-[![WebfuseClassInteraction](images/3798160582_b6dd6758ef_m.jpg)](http://www.flickr.com/photos/david_jones/3798160582/ "WebfuseClassInteraction by David T Jones, on Flickr")
+[![WebfuseClassInteraction](https://djon.es/assets/blog/2009/08/07/breadth-of-webfuse-use-1997-through-2009/images/3798160582_b6dd6758ef_m.jpg)](http://www.flickr.com/photos/david_jones/3798160582/ "WebfuseClassInteraction by David T Jones, on Flickr")
 
 - In 1997 Webfuse was used only for courses within the Department of Mathematics and Computing. There was a history of using mailing lists in some courses. I'm not sure all of these are included in the figure from 1997.
 - From 1998, Webfuse supported courses within the Faculty of Informatics and Communication and included courses in Journalism, Communications, Multimedia and others.
@@ -104,14 +101,14 @@ So, from the start 100% of the Webfuse course sites were used to transmit conten
 
 ### Evaluating students
 
-[![WebfuseStudentAssessment](images/3798160790_bae1c55a82_m.jpg)](http://www.flickr.com/photos/david_jones/3798160790/ "WebfuseStudentAssessment by David T Jones, on Flickr")
+[![WebfuseStudentAssessment](https://djon.es/assets/blog/2009/08/07/breadth-of-webfuse-use-1997-through-2009/images/3798160790_bae1c55a82_m.jpg)](http://www.flickr.com/photos/david_jones/3798160790/ "WebfuseStudentAssessment by David T Jones, on Flickr")
 
 - Getting into the 60/70% of courses using Webfuse to evaluate students is another result somewhat different than you would expect, certainly when compared to the level of adoption in other institutional systems at CQU.
 - A significant proportion of this is online assignment submission which has been a focus of work within Webfuse and has resulted in publications (Jones and Jamieson, 1997; Jones and Behrens, 2003; Jones et al, 2005) and a system that has been streets ahead of what's been available in LMSes.
 
 ### Evaluating courses or staff
 
-[![WebfuseCourseEvaluation](images/3798160988_2d1c2e6b2f_m.jpg)](http://www.flickr.com/photos/david_jones/3798160988/ "WebfuseCourseEvaluation by David T Jones, on Flickr")
+[![WebfuseCourseEvaluation](https://djon.es/assets/blog/2009/08/07/breadth-of-webfuse-use-1997-through-2009/images/3798160988_2d1c2e6b2f_m.jpg)](http://www.flickr.com/photos/david_jones/3798160988/ "WebfuseCourseEvaluation by David T Jones, on Flickr")
 
 - Since 1997 Webfuse has provided a feature to survey students. Initially this was based on the paper-based course evaluation form used at CQU at that time. Preceding the institutional use of online forms to survey students by a number of years.
 - The upsurge in course evaluation starting in 1999 arises because of inclusion of the course barometer feature. In 1999, I attended the EdMedia'99 conference in Seattle. One of the presentations I attended introduced the idea of the course barometer (Svensson, Andersson, Gadd and Johnsson, 1999). I thought it would be great for my course and created a Webfuse course barometer. In that first year a handful of other academic voluntarily added it to their sites.

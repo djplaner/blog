@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - eded20487
 - teaching
-date: 2011-07-03 10:55:20+10:00
+date: 2011-07-03 00:55:20
 next:
   text: '"The freedom of academia: strategised, KPI''d, and quality assured away"'
   url: /blog/2011/07/04/the-freedom-of-academia-strategised-kpid-and-quality-assured-away/
@@ -10,9 +10,9 @@ previous:
   text: 'Death of learning in universities: Part II. Explanation, origins, rampaging
     researchers and catastrophic consultants'
   url: /blog/2011/06/21/death-of-learning-in-universities-part-ii-explanation-origins-rampaging-researchers-and-catastrophic-consultants/
+template: blog-post.html
 title: Myself as teacher and learner
 type: post
-template: blog-post.html
 ---
 The following is a first draft of part of an assignment for a University course titled "Learning and Pedagogy in Secondary". A part of the assignment description is
 

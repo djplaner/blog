@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - bad
 - concretelounge
 - edc3100
-date: 2015-07-01 13:33:26+10:00
+date: 2015-07-01 03:33:26
 next:
   text: Can the Moodle book module be made open and other enhancements
   url: /blog/2015/07/03/can-the-moodle-book-module-be-made-open-and-other-enhancements/
 previous:
   text: And the little one said, &quot;roll over, roll over&quot;
   url: /blog/2015/06/26/and-the-little-one-said-roll-over-roll-over/
+template: blog-post.html
 title: Re-building results processing
 type: post
-template: blog-post.html
 ---
 It's once again time to process final results for a course and return the final assignment. A process that involves
 

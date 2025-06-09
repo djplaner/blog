@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - ple
 - plescquni
-date: 2008-11-15 08:34:34+10:00
+date: 2008-11-14 22:34:34
 next:
   text: '"Expert designer: Another assumption PLEs question"'
   url: /blog/2008/11/15/expert-designer-another-assumption-ples-question/
 previous:
   text: PLEs@CQUni - VoiceThread for Research Posters
   url: /blog/2008/11/14/plescquni-voicethread-for-research-posters/
+template: blog-post.html
 title: '"PLEs@CQUni: Origins, rationale and outcomes so far"'
 type: post
-template: blog-post.html
 ---
 Yesterday I gave a presentation on the [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni). It was a 30 minute presentation designed to give a quick overview of the origins of the project, why it is being run the way it is and what some of the outcomes have been so far. At a very brief, higher level. There are numerous talks in various aspects of this presentation.
 

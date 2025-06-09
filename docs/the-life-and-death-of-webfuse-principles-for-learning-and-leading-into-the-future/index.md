@@ -1,97 +1,94 @@
----
-date: 2012-08-30 13:41:21+10:00
+﻿---
+comments: []
+date: 2012-08-30 03:41:21
+pingbacks:
+- approved: '1'
+  author: The illusion we understand the past fosters overconfidence in our ability
+    to predict the future &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.45
+  author_url: https://djon.es/blog/2012/09/13/the-illusion-we-understand-the-past-fosters-overconfidence-in-our-ability-to-predict-the-future/
+  content: '[...] The life and death of Webfuse: principles for learning and leading
+    into the&nbsp;future [...]'
+  date: '2012-09-13 13:48:56'
+  date_gmt: '2012-09-13 03:48:56'
+  id: '440'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Compliance cultures and transforming the quality of e-learning &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.33
+  author_url: https://djon.es/blog/2012/09/29/compliance-cultures-and-transforming-the-quality-of-e-learning/
+  content: '[...] The life and death of Webfuse: principles for learning and leading
+    into the&nbsp;future [...]'
+  date: '2012-09-29 12:10:28'
+  date_gmt: '2012-09-29 02:10:28'
+  id: '441'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '#ascilite2012 technical support and the tail wagging the dog &laquo; The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 216.151.210.24
+  author_url: https://djon.es/blog/2012/12/02/tail-wagging-the-dog/
+  content: '[...] The life and death of Webfuse: principles for learning and leading
+    into the&nbsp;future [...]'
+  date: '2012-12-02 10:28:04'
+  date_gmt: '2012-12-02 00:28:04'
+  id: '443'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The network challenge to the LMS mindset | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.232.112.10
+  author_url: https://djon.es/blog/2013/08/29/the-network-challenge-to-the-lms-mindset/
+  content: '[&#8230;] The life and death of Webfuse: principles for learning and leading
+    into the&nbsp;future [&#8230;]'
+  date: '2013-08-29 06:30:10'
+  date_gmt: '2013-08-28 20:30:10'
+  id: '444'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: All models are wrong, but some are useful and its application to e-learning
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.57
+  author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+  content: '[&#8230;] The life and death of Webfuse: principles for learning and leading
+    into the&nbsp;future [&#8230;]'
+  date: '2015-08-28 09:04:53'
+  date_gmt: '2015-08-27 23:04:53'
+  id: '445'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.161
+  author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
+  content: '[&#8230;] returning to Webfuse scripts, the sad, depleted remnants of
+    my [&#8230;]'
+  date: '2016-03-04 13:33:58'
+  date_gmt: '2016-03-04 03:33:58'
+  id: '446'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"The life and death of Webfuse: principles for learning and leading into the
   future"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The illusion we understand the past fosters overconfidence in our ability
-        to predict the future &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.45
-      author_url: https://djon.es/blog/2012/09/13/the-illusion-we-understand-the-past-fosters-overconfidence-in-our-ability-to-predict-the-future/
-      content: '[...] The life and death of Webfuse: principles for learning and leading
-        into the&nbsp;future [...]'
-      date: '2012-09-13 13:48:56'
-      date_gmt: '2012-09-13 03:48:56'
-      id: '440'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Compliance cultures and transforming the quality of e-learning &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.33
-      author_url: https://djon.es/blog/2012/09/29/compliance-cultures-and-transforming-the-quality-of-e-learning/
-      content: '[...] The life and death of Webfuse: principles for learning and leading
-        into the&nbsp;future [...]'
-      date: '2012-09-29 12:10:28'
-      date_gmt: '2012-09-29 02:10:28'
-      id: '441'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '#ascilite2012 technical support and the tail wagging the dog &laquo; The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 216.151.210.24
-      author_url: https://djon.es/blog/2012/12/02/tail-wagging-the-dog/
-      content: '[...] The life and death of Webfuse: principles for learning and leading
-        into the&nbsp;future [...]'
-      date: '2012-12-02 10:28:04'
-      date_gmt: '2012-12-02 00:28:04'
-      id: '443'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The network challenge to the LMS mindset | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.232.112.10
-      author_url: https://djon.es/blog/2013/08/29/the-network-challenge-to-the-lms-mindset/
-      content: '[&#8230;] The life and death of Webfuse: principles for learning and leading
-        into the&nbsp;future [&#8230;]'
-      date: '2013-08-29 06:30:10'
-      date_gmt: '2013-08-28 20:30:10'
-      id: '444'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: All models are wrong, but some are useful and its application to e-learning
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.57
-      author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
-      content: '[&#8230;] The life and death of Webfuse: principles for learning and leading
-        into the&nbsp;future [&#8230;]'
-      date: '2015-08-28 09:04:53'
-      date_gmt: '2015-08-27 23:04:53'
-      id: '445'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.161
-      author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
-      content: '[&#8230;] returning to Webfuse scripts, the sad, depleted remnants of
-        my [&#8230;]'
-      date: '2016-03-04 13:33:58'
-      date_gmt: '2016-03-04 03:33:58'
-      id: '446'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones (University of Southern Queensland)
 
@@ -160,10 +157,10 @@ The Webfuse usage data included in Figures 1 through 4 only include actual featu
 
 (Click on the graphs to see large versions)
 
-| [![Content Transmission](images/4813375847_cec27d5abc_m.jpg)](http://www.flickr.com/photos/david_jones/4813375847/ "Content Transmission by David T Jones, on Flickr") | [![Interactions](images/4813376223_e354bdaa00_m.jpg)](http://www.flickr.com/photos/david_jones/4813376223/ "Interactions by David T Jones, on Flickr") |
+| [![Content Transmission](https://djon.es/assets/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/images/4813375847_cec27d5abc_m.jpg)](http://www.flickr.com/photos/david_jones/4813375847/ "Content Transmission by David T Jones, on Flickr") | [![Interactions](https://djon.es/assets/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/images/4813376223_e354bdaa00_m.jpg)](http://www.flickr.com/photos/david_jones/4813376223/ "Interactions by David T Jones, on Flickr") |
 | --- | --- |
 | **Figure 1: Adoption of content transmission features: Webfuse, Blackboard and Malikowski** | **Figure 2: Adoption of class interactions features: Webfuse, Blackboard and Malikowski**  _(missing archives of most pre-2002 course mailing lists)_ |
-| [![Evaluate Students](images/4813376457_8d962a70d1_m.jpg)](http://www.flickr.com/photos/david_jones/4813376457/ "Evaluate Students by David T Jones, on Flickr") | [![Evaluate Courses](images/4813376713_2e36c64d45_m.jpg)](http://www.flickr.com/photos/david_jones/4813376713/ "Evaluate Courses by David T Jones, on Flickr") |
+| [![Evaluate Students](https://djon.es/assets/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/images/4813376457_8d962a70d1_m.jpg)](http://www.flickr.com/photos/david_jones/4813376457/ "Evaluate Students by David T Jones, on Flickr") | [![Evaluate Courses](https://djon.es/assets/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/images/4813376713_2e36c64d45_m.jpg)](http://www.flickr.com/photos/david_jones/4813376713/ "Evaluate Courses by David T Jones, on Flickr") |
 | **Figure 3: Adoption of student assessment features: Webfuse, Blackboard and Malikowski** | Figure 4: Adoption of course evaluation features: Webfuse, Blackboard and Malikowski |
 
 Figures 2 and 3 indicate Webfuse adoption rates of greater than 100%. This is possible because a number of Webfuse features – including the EmailMerge and online assignment submission and management tools - were being used by Blackboard courses (i.e. non-Webfuse courses). Webfuse was seen as providing services that Blackboard did not provide, or that were significantly better than what Blackboard did provide. Similarly, the spike in Webfuse course evaluation feature adoption in 2008 to 51.6% is due to a CQU wide push to use the Webfuse course barometer tool to improve formative feedback across a range of courses regardless of the LMS. Figures 2, 3 and 4 show that adoption of Webfuse features was significantly higher than the adoption of equivalent Blackboard features at CQU. It was also significantly higher than the adoption rates found by Malikowski et al (2007) in the broader literature.

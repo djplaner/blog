@@ -1,80 +1,78 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - phd
 - thesis
-date: 2009-03-23 13:50:46+10:00
+comments:
+- approved: '1'
+  author: maximiseict
+  author_email: rjt@maximise-ict.co.uk
+  author_ip: 80.189.38.235
+  author_url: null
+  content: 'Hi, David,
+
+
+    I like your consideration of a mythic LMS/VLE.  Both as an innovator of some long
+    standing and in relation to your notes on both e-Portfolios and VLEs I feel that
+    I must respond.
+
+
+    There is nothing more heartbreaking to a craftsman than to see a good tool being
+    badly used.  Or conversely, in relation to the concept of Mythic Practice, when
+    chauffuring my guests they so often compliment me on the car rather than the driver.
+    This certainly applies to VLE implementations.
+
+
+    I suspect that there is nothing more complex than trying to match the requirements
+    of a large university with any VLE tool.  Perhaps there is a mismatch between
+    the definition of ''innovation'' and the adoption of a new tool.  If one understands
+    the purpose of innovation as meeting ''human need'', then we can clearly see that
+    in such cases the ''human need'' has not been properly identified in the first
+    place.  And certainly sufficient feedback loops have not been embedded in the
+    initial design process.
+
+
+    You can find a short paper originally produced some years ago that looks at the
+    processes of innovation and what we can learn about innovation:
+
+    www.maximise-ict.co.uk/Understanding Innovation.pdf
+
+
+    Kind Regards,
+
+    Ray T'
+  date: '2009-03-23 20:26:28'
+  date_gmt: '2009-03-23 10:26:28'
+  id: '2325'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-03-23 03:50:46
 next:
   text: Poor craftsman - or the "blame the teachers" excuse
   url: /blog/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #5 - a new low &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: https://djon.es/blog/2009/03/27/phd-update-5-a-new-low/
+  content: '[...] Making the LMS mythic;More criticisms of the LMS approach to e-learning,
+    drawing on some literature and Postman&#8217;s ideas about 5 things to know about
+    technological change. [...]'
+  date: '2009-03-27 13:23:55'
+  date_gmt: '2009-03-27 03:23:55'
+  id: '2326'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Postman's - 5 things to know about technological change and e-learning
   url: /blog/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/
+template: blog-post.html
 title: Making the LMS/VLE "mythic"
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: maximiseict
-      author_email: rjt@maximise-ict.co.uk
-      author_ip: 80.189.38.235
-      author_url: null
-      content: 'Hi, David,
-    
-    
-        I like your consideration of a mythic LMS/VLE.  Both as an innovator of some long
-        standing and in relation to your notes on both e-Portfolios and VLEs I feel that
-        I must respond.
-    
-    
-        There is nothing more heartbreaking to a craftsman than to see a good tool being
-        badly used.  Or conversely, in relation to the concept of Mythic Practice, when
-        chauffuring my guests they so often compliment me on the car rather than the driver.
-        This certainly applies to VLE implementations.
-    
-    
-        I suspect that there is nothing more complex than trying to match the requirements
-        of a large university with any VLE tool.  Perhaps there is a mismatch between
-        the definition of ''innovation'' and the adoption of a new tool.  If one understands
-        the purpose of innovation as meeting ''human need'', then we can clearly see that
-        in such cases the ''human need'' has not been properly identified in the first
-        place.  And certainly sufficient feedback loops have not been embedded in the
-        initial design process.
-    
-    
-        You can find a short paper originally produced some years ago that looks at the
-        processes of innovation and what we can learn about innovation:
-    
-        www.maximise-ict.co.uk/Understanding Innovation.pdf
-    
-    
-        Kind Regards,
-    
-        Ray T'
-      date: '2009-03-23 20:26:28'
-      date_gmt: '2009-03-23 10:26:28'
-      id: '2325'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #5 - a new low &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: https://djon.es/blog/2009/03/27/phd-update-5-a-new-low/
-      content: '[...] Making the LMS mythic;More criticisms of the LMS approach to e-learning,
-        drawing on some literature and Postman&#8217;s ideas about 5 things to know about
-        technological change. [...]'
-      date: '2009-03-27 13:23:55'
-      date_gmt: '2009-03-27 03:23:55'
-      id: '2326'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In my last post I pointed to a talk by Postman that outlined [five things we should know about technological change](http://www.mat.upm.es/~jcm/neil-postman--five-things.html). This list has resonated me due to my involvement with elearning within universities and feelings that it is failing, often due to naive views of how technology can be implemented and what effects it will have on teaching and learning. This post continues/starts an attempt to make connections with Postman's list and elearning.
 

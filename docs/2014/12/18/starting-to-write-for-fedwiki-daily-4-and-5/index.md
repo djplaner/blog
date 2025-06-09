@@ -1,51 +1,49 @@
----
+﻿---
 categories:
 - thesis
-date: 2014-12-18 17:45:37+10:00
+comments:
+- approved: '1'
+  author: Maha Bali
+  author_email: bali@aucegypt.edu
+  author_ip: 41.34.61.191
+  author_url: http://blog.mahabali.me
+  content: Really cool that u wrote this and it echoes my steps. I started about 2
+    wks ago on sandbox then Mike made me my own space last wk and it all felt off
+    until i figured out the forking and neighborhooding then it clicked! So cool of
+    u to write out all those details. Will be important one day when we are "used
+    to it" to explain to newbies!
+  date: '2014-12-18 22:19:39'
+  date_gmt: '2014-12-18 12:19:39'
+  id: '1155'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2014-12-18 07:45:37
 next:
   text: Concrete Lounge
   url: /blog/2014/12/18/concrete-lounge/
+pingbacks:
+- approved: '1'
+  author: FedWiki 7, 8 and 9 &#8211; Moving, catching up and engaging | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.86.62
+  author_url: https://davidtjones.wordpress.com/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/
+  content: '[&#8230;] One approach is the one I stumbled across earlier [&#8230;]'
+  date: '2014-12-26 11:29:28'
+  date_gmt: '2014-12-26 01:29:28'
+  id: '1156'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Can I roll my own federated wiki? (not yet)
   url: /blog/2014/12/18/can-i-roll-my-own-federated-wiki-not-yet/
 tags:
 - federatedwikihappening
+template: blog-post.html
 title: '"Starting to write for Fedwiki - Daily #4 (and 5)"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Maha Bali
-      author_email: bali@aucegypt.edu
-      author_ip: 41.34.61.191
-      author_url: http://blog.mahabali.me
-      content: Really cool that u wrote this and it echoes my steps. I started about 2
-        wks ago on sandbox then Mike made me my own space last wk and it all felt off
-        until i figured out the forking and neighborhooding then it clicked! So cool of
-        u to write out all those details. Will be important one day when we are "used
-        to it" to explain to newbies!
-      date: '2014-12-18 22:19:39'
-      date_gmt: '2014-12-18 12:19:39'
-      id: '1155'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: FedWiki 7, 8 and 9 &#8211; Moving, catching up and engaging | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.86.62
-      author_url: https://davidtjones.wordpress.com/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/
-      content: '[&#8230;] One approach is the one I stumbled across earlier [&#8230;]'
-      date: '2014-12-26 11:29:28'
-      date_gmt: '2014-12-26 01:29:28'
-      id: '1156'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Time to start using Fedwiki to do some writing.
 
@@ -112,7 +110,7 @@ There's more here than meets the eye. Time perhaps to jump to the set task which
 
 ## Happening folks
 
-[![My Generation by thjordan, on Flickr](images/8754264737_12ac6b7da3_m.jpg](https://www.flickr.com/photos/thjordan/8754264737/)  
+[![My Generation by thjordan, on Flickr](https://djon.es/assets/blog/2014/12/18/starting-to-write-for-fedwiki-daily-4-and-5/images/8754264737_12ac6b7da3_m.jpg](https://www.flickr.com/photos/thjordan/8754264737/)  
 
 But first, perhaps see if I can link to the happening folks.
 

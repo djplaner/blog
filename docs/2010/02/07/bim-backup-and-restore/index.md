@@ -1,62 +1,59 @@
----
+﻿---
 categories:
 - bim
-date: 2010-02-07 11:53:36+10:00
+comments: []
+date: 2010-02-07 01:53:36
 next:
   text: BIM - talking to the gradebook
   url: /blog/2010/02/07/bim-talking-to-the-gradebook/
+pingbacks:
+- approved: '1'
+  author: 'BIM &#8211; Tidy up #4 &#8211; Getting ready for user testing &laquo; The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2010/02/04/bim-tidy-up-4-getting-ready-for-user-testing/
+  content: '[...] Backing BIMs up/restoring &#8211; Leave till later [...]'
+  date: '2010-02-07 17:47:45'
+  date_gmt: '2010-02-07 07:47:45'
+  id: '2927'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Fixing BIM&#8217;s back up and restore &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.228
+  author_url: https://djon.es/blog/2010/05/27/fixing-bims-back-up-and-restore/
+  content: '[...] BIM&#8217;s back up and&nbsp;restore  The following outlines steps
+    to continue work on BIM&#8217;s backup and restore functionality. As per this
+    issue the user part of the back up has [...]'
+  date: '2010-05-27 15:44:25'
+  date_gmt: '2010-05-27 05:44:25'
+  id: '2928'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Backup for BIM 2.0 &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.9.113
+  author_url: https://djon.es/blog/2012/12/29/backup-for-bim-2-0/
+  content: '[...] following is based on this 2010 post documenting the development
+    work on the backup process for BIM 1.0. With some extra work based on [...]'
+  date: '2012-12-29 17:46:12'
+  date_gmt: '2012-12-29 07:46:12'
+  id: '2929'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Challenges in developing innovative pedagogy in blended learning: The case
     of BIM'
   url: /blog/2010/02/06/challenges-in-developing-innovative-pedagogy-in-blended-learning-the-case-of-bim/
+template: blog-post.html
 title: BIM - backup and restore
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'BIM &#8211; Tidy up #4 &#8211; Getting ready for user testing &laquo; The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2010/02/04/bim-tidy-up-4-getting-ready-for-user-testing/
-      content: '[...] Backing BIMs up/restoring &#8211; Leave till later [...]'
-      date: '2010-02-07 17:47:45'
-      date_gmt: '2010-02-07 07:47:45'
-      id: '2927'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Fixing BIM&#8217;s back up and restore &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.228
-      author_url: https://djon.es/blog/2010/05/27/fixing-bims-back-up-and-restore/
-      content: '[...] BIM&#8217;s back up and&nbsp;restore  The following outlines steps
-        to continue work on BIM&#8217;s backup and restore functionality. As per this
-        issue the user part of the back up has [...]'
-      date: '2010-05-27 15:44:25'
-      date_gmt: '2010-05-27 05:44:25'
-      id: '2928'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Backup for BIM 2.0 &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.9.113
-      author_url: https://djon.es/blog/2012/12/29/backup-for-bim-2-0/
-      content: '[...] following is based on this 2010 post documenting the development
-        work on the backup process for BIM 1.0. With some extra work based on [...]'
-      date: '2012-12-29 17:46:12'
-      date_gmt: '2012-12-29 07:46:12'
-      id: '2929'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Just about done with development of version 1.0 of the module. A couple of important, but hopefully straight forward tasks to do. One of these is adding the ability for BIM activities to be backed up and restored. That's the purpose of this post. The plan is to find out how it is meant to work and plan how it can be done for BIM.
 

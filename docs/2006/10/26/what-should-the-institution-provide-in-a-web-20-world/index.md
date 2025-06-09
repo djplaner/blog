@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2006-10-26 16:18:57+10:00
+date: 2006-10-26 06:18:57
 next:
   text: The missing Ps - Process
   url: /blog/2006/10/27/the-missing-ps-process/
 previous:
   text: Starting my &quot;blogs for learning&quot; article about BAM
   url: /blog/2006/10/26/starting-my-blogs-for-learning-article-about-bam/
+template: blog-post.html
 title: What should the institution provide in a Web 2.0 world?
 type: post
-template: blog-post.html
 ---
 Clarence Fisher has an interesting [experiential post](http://remoteaccess.typepad.com/remote_access/2006/10/small_pieces_ve.html) about the difficulties that start to arise when using a lot of cool, new "Web 2.0" apps in a teaching/learning context. Free(ish) services he lists are blogs, wikis, podcasts/vlogs, superglu, flickr etc.
 

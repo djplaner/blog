@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - curriculummapping-cddu
@@ -7,39 +7,36 @@ categories:
 - herding-cats
 - indicators
 - reflectivealignment
-date: 2010-03-25 14:19:40+10:00
+comments: []
+date: 2010-03-25 04:19:40
 next:
   text: Moodle, Oracle, blobs and MS-Word - problem and solution?
   url: /blog/2010/03/26/moodle-oracle-blobs-and-ms-word-problem-and-solution/
+pingbacks:
+- approved: '1'
+  author: Identifying and designing interventions to improve L&amp;T &#8211; a behaviour
+    change framework? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.32
+  author_url: https://djon.es/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
+  content: '[...] Identifying and designing interventions to improve L&amp;T &#8211;
+    a behaviour change&nbsp;framework?  The following is an attempt to describe early
+    attempts at developing a framework for evaluating existing and developing new
+    interventions aimed at improving learning and teaching within universities. It
+    builds on some ideas from an earlier post. [...]'
+  date: '2010-04-14 13:02:37'
+  date_gmt: '2010-04-14 03:02:37'
+  id: '2988'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Limits in developing innovative pedagogy with Moodle: The story of BIM'
   url: /blog/2010/03/25/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim-2/
+template: blog-post.html
 title: '"From theory to intervention: Mapping theoretically derived behavioural determinants
   to behaviour change techniques"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Identifying and designing interventions to improve L&amp;T &#8211; a behaviour
-        change framework? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.32
-      author_url: https://djon.es/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
-      content: '[...] Identifying and designing interventions to improve L&amp;T &#8211;
-        a behaviour change&nbsp;framework?  The following is an attempt to describe early
-        attempts at developing a framework for evaluating existing and developing new
-        interventions aimed at improving learning and teaching within universities. It
-        builds on some ideas from an earlier post. [...]'
-      date: '2010-04-14 13:02:37'
-      date_gmt: '2010-04-14 03:02:37'
-      id: '2988'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following draws on principles/theory from psychology to guide thinking about how to incorporate "data" from "academic analytics" into an LMS in a way that encourages and enables academic staff to improve their learning and teaching. It's based on some of the ideas that underpin similar approaches that have been used for students such as [this Moodle dashboard](http://lewiscarr.co.uk/dashboard) and the [signals work](http://minutebio.com/blog/2009/08/31/signals-at-purdue-u-increasing-student-success/) at University of Purdue.
 
@@ -112,7 +109,7 @@ There's a basic model process embedded here, something along the lines of:
 - Draw on a behavioural technique or two to design an intervention in the LMS that can encourage a behaviour change. i.e. that addresses the negative in the determinants.  
     In terms of increasing staff participation you might embed into the LMS a graph like the following. Embed it in such a way as the first thing an academic sees when they login, is the graph - perhaps on part of the screen.  
     
-    [![Example staff posts feedback](images/4461804962_77ba92bc47_m.jpg)](http://www.flickr.com/photos/david_jones/4461804962/ "Example staff posts feedback by David T Jones, on Flickr")
+    [![Example staff posts feedback](https://djon.es/assets/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/images/4461804962_77ba92bc47_m.jpg)](http://www.flickr.com/photos/david_jones/4461804962/ "Example staff posts feedback by David T Jones, on Flickr")
     
     What this graph shows is for a single (hypothetical) staff member the number of replies they have made in course discussion forums for the three courses the staff member has taught. The number of replies is shown per term, in reality it might be shown by week of term - as the term progresses.
     
@@ -133,7 +130,7 @@ There's a basic model process embedded here, something along the lines of:
 
 It's fairly easy to see how the waterfall visualisation (shown below) and developed by David Wiley and his group could be used this way.
 
-[![education,data,visualization](images/waterfall-version-01.png)](http://s75.photobucket.com/albums/i291/opencontent/DataViz/?action=view&current=waterfall-version-01.png)
+[![education,data,visualization](https://djon.es/assets/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/images/waterfall-version-01.png)](http://s75.photobucket.com/albums/i291/opencontent/DataViz/?action=view&current=waterfall-version-01.png)
 
 ### Their mapping
 

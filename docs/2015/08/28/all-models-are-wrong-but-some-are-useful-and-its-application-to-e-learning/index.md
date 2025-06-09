@@ -1,277 +1,275 @@
----
+﻿---
 categories:
 - bad
 - dejavu
 - elearning
-date: 2015-08-28 09:03:40+10:00
+comments:
+- approved: '1'
+  author: leighblackall
+  author_email: leighblackall@gmail.com
+  author_ip: 131.170.90.4
+  author_url: http://learnonline.wordpress.com/
+  content: There is an intersting qualifier throughout your post here David, suggesting
+    to me that you know (or at least suspect) unexplored territory for 'new' or alternative
+    models. You use the phrase "institutional e-learning", which to me signals a massive
+    subtext you're using to qualify everything else you say in this post. I do the
+    same. Might you point me to where you elaborate on non, un, de institutionalised
+    elearning?
+  date: '2015-08-28 15:26:48'
+  date_gmt: '2015-08-28 05:26:48'
+  id: '1396'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 101.179.64.28
+  author_url: https://djon.es/blog/
+  content: My direct involvement in e-learning is within the context of institutional
+    e-learning. As I have to figure out how to do something meaningful within that
+    context, that's where my focus is. There really isn't much (if anything) that
+    I write which is focused beyond the confines of institutional e-learning.
+  date: '2015-08-28 16:48:07'
+  date_gmt: '2015-08-28 06:48:07'
+  id: '1397'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 101.179.64.28
+  author_url: https://djon.es/blog/
+  content: It touches on the "outside in" or "insight out" <a href="https://davidtjones.wordpress.com/2010/04/25/inside-out-outside-in-or-both/"
+    rel="nofollow">discussion</a> we had at UC all those many years ago. Which as
+    another type of model, is wrong, not sure it's useful.
+  date: '2015-08-28 16:50:26'
+  date_gmt: '2015-08-28 06:50:26'
+  id: '1398'
+  parent: '1396'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: leighblackall
+  author_email: leighblackall@gmail.com
+  author_ip: 120.21.6.59
+  author_url: http://learnonline.wordpress.com/
+  content: What an excellent memory you have, to return to that discussion from 5
+    years ago. I thought it was a very relevant connection and I've left a comment
+    there too. I find it most interesting that we both work inside an institution,
+    in similar job descriptions, yet each interpret the scope and limitations quite
+    differently. Admittedly, my "outside in" principle is a lonely existence, despite
+    it  gradually becoming the mainstream mode of practice (if you accept my comment
+    at the post you link to).  At RMIT there appears to be quite a distinct and vocal
+    group of teachers struggling with inside/outside paradoxes.
+  date: '2015-08-28 17:40:11'
+  date_gmt: '2015-08-28 07:40:11'
+  id: '1399'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2015-08-27 23:03:40
 next:
   text: It's not how bad you start, but how quickly you get better
   url: /blog/2015/09/03/its-not-how-bad-you-start-but-how-quickly-you-get-better/
+pingbacks:
+- approved: '1'
+  author: My bit on digital literacy | Student Reflections
+  author_email: null
+  author_ip: 192.0.83.198
+  author_url: https://lisaaurisch.wordpress.com/2015/08/29/my-bit-on-digital-literacy/
+  content: "[&#8230;] I\u2019m all for using chunking as both a design and learning\
+    \ tool, I\u2019ve just this morning read David\u2019s post on models, so I\u2019\
+    m feeling challenged to contemplate the subject in a slightly different way and\
+    \ incorporate [&#8230;]"
+  date: '2015-08-29 11:06:24'
+  date_gmt: '2015-08-29 01:06:24'
+  id: '1400'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Models | charmedlearning
+  author_email: null
+  author_ip: 192.0.83.100
+  author_url: https://charmedlearning.wordpress.com/2015/08/31/models/
+  content: "[&#8230;] had to reflect a bit on this as there were some great points\
+    \ mentioned by David\_in his post &#8220;All models are wrong, but some are useful\
+    \ and its application to [&#8230;]"
+  date: '2015-08-31 19:11:17'
+  date_gmt: '2015-08-31 09:11:17'
+  id: '1401'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: It&#8217;s not how bad you start, but how quickly you get better | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.86.78
+  author_url: https://davidtjones.wordpress.com/2015/09/03/its-not-how-bad-you-start-but-how-quickly-you-get-better/
+  content: '[&#8230;] Which has obvious links to my last post, &#8220;All models are
+    wrong&#8221;. [&#8230;]'
+  date: '2015-09-03 14:27:15'
+  date_gmt: '2015-09-03 04:27:15'
+  id: '1402'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Drinking the Kool-Aid: Desire, models and metaphors | Student Reflections'
+  author_email: null
+  author_ip: 192.0.81.171
+  author_url: https://lisaaurisch.wordpress.com/2015/09/10/drinking-the-kool-aid-desire-models-and-metaphors/
+  content: "[&#8230;] 7 course notes, David asks us to be critical of NGL, not drink\
+    \ the Kool-Aid, and understand that \u2018all models are wrong but some are useful\u2019\
+    . Perversely, and coincidentally, my favourite cult leaders at Apple have, just\
+    \ this morning, [&#8230;]"
+  date: '2015-09-10 18:37:16'
+  date_gmt: '2015-09-10 08:37:16'
+  id: '1403'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Model fatigue | Student Reflections
+  author_email: null
+  author_ip: 192.0.81.74
+  author_url: https://lisaaurisch.wordpress.com/2015/09/11/model-fatigue/
+  content: "[&#8230;] been thinking some more about David\u2019s post on models and\
+    \ linking it up with the last couple of paragraphs from my post on Coil pots,\
+    \ Impressionism and [&#8230;]"
+  date: '2015-09-11 08:31:40'
+  date_gmt: '2015-09-10 22:31:40'
+  id: '1404'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Many sizes fit many | Student Reflections
+  author_email: null
+  author_ip: 192.0.80.54
+  author_url: https://lisaaurisch.wordpress.com/2015/09/11/many-sizes-fit-many/
+  content: "[&#8230;] Keith Brennan says\_there is no one size fits all. As David\
+    \ says, there is no &#8216;the&#8217; ideal model. Global learning means embracing\
+    \ multiplicity and [&#8230;]"
+  date: '2015-09-11 12:20:26'
+  date_gmt: '2015-09-11 02:20:26'
+  id: '1405'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What might a project combining LX Design and Analaytics look like? | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.190
+  author_url: https://davidtjones.wordpress.com/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
+  content: '[&#8230;] be on the learner has been the broadly accepted in higher education
+    for some time now. But then all models are wrong, but some are useful. In critiquing
+    the raise of the term Technology Enhanced Learning, Bayne (2014) draws on a range
+    of [&#8230;]'
+  date: '2015-09-14 11:40:37'
+  date_gmt: '2015-09-14 01:40:37'
+  id: '1406'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What is theory and why use theories? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.116
+  author_url: https://davidtjones.wordpress.com/2015/10/08/what-is-theory-and-why-use-theories/
+  content: '[&#8230;] theory is just a model and All models are wrong, but some are
+    useful (Box, [&#8230;]'
+  date: '2015-10-08 12:18:04'
+  date_gmt: '2015-10-08 02:18:04'
+  id: '1407'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: My understanding of &#8220;All models are wrong, but some are useful and
+    its application to e-learning&#8221; | Adam Does NGL
+  author_email: null
+  author_ip: 192.0.116.3
+  author_url: https://adamngl.wordpress.com/2016/09/08/my-understanding-of-all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+  content: '[&#8230;] Jones, D. (2015). All models are wrong, but some are useful
+    and its application to e-learning. The Weblog of (a) David Jones. Retrieved from
+    https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-applic&#8230;
+    [&#8230;]'
+  date: '2016-09-08 12:25:35'
+  date_gmt: '2016-09-08 02:25:35'
+  id: '1408'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Quick Thoughts on Critical Theory | Adam Does NGL
+  author_email: null
+  author_ip: 192.0.113.6
+  author_url: https://adamngl.wordpress.com/2016/09/09/quick-thoughts-on-critical-theory/
+  content: "[&#8230;] can see connections between this topic and David\u2019s post\_\
+    (2015) about the importance of frameworks that incorporate solutions from a variety\
+    \ of models, [&#8230;]"
+  date: '2016-09-09 11:02:29'
+  date_gmt: '2016-09-09 01:02:29'
+  id: '1409'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Which comes first? Pedagogy or technology? &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.118.3
+  author_url: https://davidtjones.wordpress.com/2016/09/11/which-comes-first-pedagogy-or-technology/
+  content: '[&#8230;] because that&#8217;s what academics and experts tend to do.
+    Develop models. The problem is that all models are wrong, but some of them are
+    useful in certain situations for certain [&#8230;]'
+  date: '2016-09-11 09:40:14'
+  date_gmt: '2016-09-10 23:40:14'
+  id: '1410'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Exploring more frameworks to understand OER/OEP &#8211; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 192.0.99.57
+  author_url: https://davidtjones.wordpress.com/2016/10/10/exploring-more-frameworks-to-understand-oeroep/
+  content: '[&#8230;] are identified, but I wonder how much of this is simply weaknesses
+    inherent in all models (they are all wrong at some level/perspective). For example,
+    the following from Coughlan and Perryman [&#8230;]'
+  date: '2016-10-10 15:19:12'
+  date_gmt: '2016-10-10 05:19:12'
+  id: '1411'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Tensions and reflections &#8211; Open Pages
+  author_email: null
+  author_ip: 192.0.116.166
+  author_url: https://openpagesweb.wordpress.com/2017/08/27/tensions-and-reflections/
+  content: "[&#8230;] the articles \u201CTechnology and education \u2013 why it\u2019\
+    s crucial to be critical\u201D and \u201CAll models are wrong \u2013 but some\
+    \ are useful\u201D made me realise that there is an absence of critical thinking\
+    \ within NGL. This made me question [&#8230;]"
+  date: '2017-08-27 17:06:58'
+  date_gmt: '2017-08-27 07:06:58'
+  id: '9474'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Refining a visualisation
   url: /blog/2015/08/21/refining-a-visualisation/
+template: blog-post.html
 title: All models are wrong, but some are useful and its application to e-learning
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: leighblackall
-      author_email: leighblackall@gmail.com
-      author_ip: 131.170.90.4
-      author_url: http://learnonline.wordpress.com/
-      content: There is an intersting qualifier throughout your post here David, suggesting
-        to me that you know (or at least suspect) unexplored territory for 'new' or alternative
-        models. You use the phrase "institutional e-learning", which to me signals a massive
-        subtext you're using to qualify everything else you say in this post. I do the
-        same. Might you point me to where you elaborate on non, un, de institutionalised
-        elearning?
-      date: '2015-08-28 15:26:48'
-      date_gmt: '2015-08-28 05:26:48'
-      id: '1396'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 101.179.64.28
-      author_url: https://djon.es/blog/
-      content: My direct involvement in e-learning is within the context of institutional
-        e-learning. As I have to figure out how to do something meaningful within that
-        context, that's where my focus is. There really isn't much (if anything) that
-        I write which is focused beyond the confines of institutional e-learning.
-      date: '2015-08-28 16:48:07'
-      date_gmt: '2015-08-28 06:48:07'
-      id: '1397'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 101.179.64.28
-      author_url: https://djon.es/blog/
-      content: It touches on the "outside in" or "insight out" <a href="https://davidtjones.wordpress.com/2010/04/25/inside-out-outside-in-or-both/"
-        rel="nofollow">discussion</a> we had at UC all those many years ago. Which as
-        another type of model, is wrong, not sure it's useful.
-      date: '2015-08-28 16:50:26'
-      date_gmt: '2015-08-28 06:50:26'
-      id: '1398'
-      parent: '1396'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: leighblackall
-      author_email: leighblackall@gmail.com
-      author_ip: 120.21.6.59
-      author_url: http://learnonline.wordpress.com/
-      content: What an excellent memory you have, to return to that discussion from 5
-        years ago. I thought it was a very relevant connection and I've left a comment
-        there too. I find it most interesting that we both work inside an institution,
-        in similar job descriptions, yet each interpret the scope and limitations quite
-        differently. Admittedly, my "outside in" principle is a lonely existence, despite
-        it  gradually becoming the mainstream mode of practice (if you accept my comment
-        at the post you link to).  At RMIT there appears to be quite a distinct and vocal
-        group of teachers struggling with inside/outside paradoxes.
-      date: '2015-08-28 17:40:11'
-      date_gmt: '2015-08-28 07:40:11'
-      id: '1399'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: My bit on digital literacy | Student Reflections
-      author_email: null
-      author_ip: 192.0.83.198
-      author_url: https://lisaaurisch.wordpress.com/2015/08/29/my-bit-on-digital-literacy/
-      content: "[&#8230;] I\u2019m all for using chunking as both a design and learning\
-        \ tool, I\u2019ve just this morning read David\u2019s post on models, so I\u2019\
-        m feeling challenged to contemplate the subject in a slightly different way and\
-        \ incorporate [&#8230;]"
-      date: '2015-08-29 11:06:24'
-      date_gmt: '2015-08-29 01:06:24'
-      id: '1400'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Models | charmedlearning
-      author_email: null
-      author_ip: 192.0.83.100
-      author_url: https://charmedlearning.wordpress.com/2015/08/31/models/
-      content: "[&#8230;] had to reflect a bit on this as there were some great points\
-        \ mentioned by David\_in his post &#8220;All models are wrong, but some are useful\
-        \ and its application to [&#8230;]"
-      date: '2015-08-31 19:11:17'
-      date_gmt: '2015-08-31 09:11:17'
-      id: '1401'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: It&#8217;s not how bad you start, but how quickly you get better | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.86.78
-      author_url: https://davidtjones.wordpress.com/2015/09/03/its-not-how-bad-you-start-but-how-quickly-you-get-better/
-      content: '[&#8230;] Which has obvious links to my last post, &#8220;All models are
-        wrong&#8221;. [&#8230;]'
-      date: '2015-09-03 14:27:15'
-      date_gmt: '2015-09-03 04:27:15'
-      id: '1402'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Drinking the Kool-Aid: Desire, models and metaphors | Student Reflections'
-      author_email: null
-      author_ip: 192.0.81.171
-      author_url: https://lisaaurisch.wordpress.com/2015/09/10/drinking-the-kool-aid-desire-models-and-metaphors/
-      content: "[&#8230;] 7 course notes, David asks us to be critical of NGL, not drink\
-        \ the Kool-Aid, and understand that \u2018all models are wrong but some are useful\u2019\
-        . Perversely, and coincidentally, my favourite cult leaders at Apple have, just\
-        \ this morning, [&#8230;]"
-      date: '2015-09-10 18:37:16'
-      date_gmt: '2015-09-10 08:37:16'
-      id: '1403'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Model fatigue | Student Reflections
-      author_email: null
-      author_ip: 192.0.81.74
-      author_url: https://lisaaurisch.wordpress.com/2015/09/11/model-fatigue/
-      content: "[&#8230;] been thinking some more about David\u2019s post on models and\
-        \ linking it up with the last couple of paragraphs from my post on Coil pots,\
-        \ Impressionism and [&#8230;]"
-      date: '2015-09-11 08:31:40'
-      date_gmt: '2015-09-10 22:31:40'
-      id: '1404'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Many sizes fit many | Student Reflections
-      author_email: null
-      author_ip: 192.0.80.54
-      author_url: https://lisaaurisch.wordpress.com/2015/09/11/many-sizes-fit-many/
-      content: "[&#8230;] Keith Brennan says\_there is no one size fits all. As David\
-        \ says, there is no &#8216;the&#8217; ideal model. Global learning means embracing\
-        \ multiplicity and [&#8230;]"
-      date: '2015-09-11 12:20:26'
-      date_gmt: '2015-09-11 02:20:26'
-      id: '1405'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What might a project combining LX Design and Analaytics look like? | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.190
-      author_url: https://davidtjones.wordpress.com/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
-      content: '[&#8230;] be on the learner has been the broadly accepted in higher education
-        for some time now. But then all models are wrong, but some are useful. In critiquing
-        the raise of the term Technology Enhanced Learning, Bayne (2014) draws on a range
-        of [&#8230;]'
-      date: '2015-09-14 11:40:37'
-      date_gmt: '2015-09-14 01:40:37'
-      id: '1406'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What is theory and why use theories? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.116
-      author_url: https://davidtjones.wordpress.com/2015/10/08/what-is-theory-and-why-use-theories/
-      content: '[&#8230;] theory is just a model and All models are wrong, but some are
-        useful (Box, [&#8230;]'
-      date: '2015-10-08 12:18:04'
-      date_gmt: '2015-10-08 02:18:04'
-      id: '1407'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: My understanding of &#8220;All models are wrong, but some are useful and
-        its application to e-learning&#8221; | Adam Does NGL
-      author_email: null
-      author_ip: 192.0.116.3
-      author_url: https://adamngl.wordpress.com/2016/09/08/my-understanding-of-all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
-      content: '[&#8230;] Jones, D. (2015). All models are wrong, but some are useful
-        and its application to e-learning. The Weblog of (a) David Jones. Retrieved from
-        https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-applic&#8230;
-        [&#8230;]'
-      date: '2016-09-08 12:25:35'
-      date_gmt: '2016-09-08 02:25:35'
-      id: '1408'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Quick Thoughts on Critical Theory | Adam Does NGL
-      author_email: null
-      author_ip: 192.0.113.6
-      author_url: https://adamngl.wordpress.com/2016/09/09/quick-thoughts-on-critical-theory/
-      content: "[&#8230;] can see connections between this topic and David\u2019s post\_\
-        (2015) about the importance of frameworks that incorporate solutions from a variety\
-        \ of models, [&#8230;]"
-      date: '2016-09-09 11:02:29'
-      date_gmt: '2016-09-09 01:02:29'
-      id: '1409'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Which comes first? Pedagogy or technology? &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.118.3
-      author_url: https://davidtjones.wordpress.com/2016/09/11/which-comes-first-pedagogy-or-technology/
-      content: '[&#8230;] because that&#8217;s what academics and experts tend to do.
-        Develop models. The problem is that all models are wrong, but some of them are
-        useful in certain situations for certain [&#8230;]'
-      date: '2016-09-11 09:40:14'
-      date_gmt: '2016-09-10 23:40:14'
-      id: '1410'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Exploring more frameworks to understand OER/OEP &#8211; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 192.0.99.57
-      author_url: https://davidtjones.wordpress.com/2016/10/10/exploring-more-frameworks-to-understand-oeroep/
-      content: '[&#8230;] are identified, but I wonder how much of this is simply weaknesses
-        inherent in all models (they are all wrong at some level/perspective). For example,
-        the following from Coughlan and Perryman [&#8230;]'
-      date: '2016-10-10 15:19:12'
-      date_gmt: '2016-10-10 05:19:12'
-      id: '1411'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Tensions and reflections &#8211; Open Pages
-      author_email: null
-      author_ip: 192.0.116.166
-      author_url: https://openpagesweb.wordpress.com/2017/08/27/tensions-and-reflections/
-      content: "[&#8230;] the articles \u201CTechnology and education \u2013 why it\u2019\
-        s crucial to be critical\u201D and \u201CAll models are wrong \u2013 but some\
-        \ are useful\u201D made me realise that there is an absence of critical thinking\
-        \ within NGL. This made me question [&#8230;]"
-      date: '2017-08-27 17:06:58'
-      date_gmt: '2017-08-27 07:06:58'
-      id: '9474'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In a section with the heading "ALL MODELS ARE WRONG BUT SOME ARE USEFUL", Box (1979) wrote
 

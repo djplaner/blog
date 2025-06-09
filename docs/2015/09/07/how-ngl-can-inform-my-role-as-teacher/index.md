@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - netgl
-date: 2015-09-07 12:04:08+10:00
+date: 2015-09-07 02:04:08
 next:
   text: Requirements, solutions, design, and who should decide
   url: /blog/2015/09/09/requirements-solutions-design-and-who-should-decide/
 previous:
   text: Design of a BAD approach to developing TPACK
   url: /blog/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
+template: blog-post.html
 title: How NGL can inform my role as teacher
 type: post
-template: blog-post.html
 ---
 The students in [a course](http://netgl.wordpress.com) I'm teaching are asked to reflect on their own work and respond to the question embedded in the title to this post. What follows is mostly a test post to illustrate how it will all work, but also captures some of my views.
 

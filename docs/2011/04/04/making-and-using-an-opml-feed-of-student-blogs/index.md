@@ -1,61 +1,58 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-04-04 11:00:56+10:00
+comments:
+- approved: '1'
+  author: cloudpollen
+  author_email: cloudpollen@gmail.com
+  author_ip: 212.166.167.83
+  author_url: http://www.cloudpollen.com
+  content: I did something very similar with WordPress, I used the multi user functionality
+    to create all the student blogs. They simply signed up which made it easier, then
+    I gathered the feeds and displayed them all on one page, worked very well. 2 years
+    later and its still going strong.
+  date: '2011-04-04 17:06:21'
+  date_gmt: '2011-04-04 07:06:21'
+  id: '41'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'G''day Neil,
+
+
+    I''m a Perl programmer from way back, so <a href="http://en.wikipedia.org/wiki/There''s_more_than_one_way_to_do_it"
+    rel="nofollow">TIMTOWDI</a> is important to me.  Always good to see alternatives,
+    sure there are many more.
+
+
+    In my case, I couldn''t expect my fellow students sign up once again with their
+    blogs.
+
+
+    David.'
+  date: '2011-04-05 09:42:13'
+  date_gmt: '2011-04-04 23:42:13'
+  id: '42'
+  parent: '41'
+  type: comment
+  user_id: '1'
+date: 2011-04-04 01:00:56
 next:
   text: How do you analyse and select an educational technology
   url: /blog/2011/04/04/how-do-you-analyse-and-select-an-educational-technology/
+pingbacks: []
 previous:
   text: Reflections on a 12 year-old course site - It would be harder now
   url: /blog/2011/04/01/reflections-on-a-12-year-old-course-site-it-would-be-harder-now/
+template: blog-post.html
 title: Making and using an OPML feed of student blogs
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cloudpollen
-      author_email: cloudpollen@gmail.com
-      author_ip: 212.166.167.83
-      author_url: http://www.cloudpollen.com
-      content: I did something very similar with WordPress, I used the multi user functionality
-        to create all the student blogs. They simply signed up which made it easier, then
-        I gathered the feeds and displayed them all on one page, worked very well. 2 years
-        later and its still going strong.
-      date: '2011-04-04 17:06:21'
-      date_gmt: '2011-04-04 07:06:21'
-      id: '41'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'G''day Neil,
-    
-    
-        I''m a Perl programmer from way back, so <a href="http://en.wikipedia.org/wiki/There''s_more_than_one_way_to_do_it"
-        rel="nofollow">TIMTOWDI</a> is important to me.  Always good to see alternatives,
-        sure there are many more.
-    
-    
-        In my case, I couldn''t expect my fellow students sign up once again with their
-        blogs.
-    
-    
-        David.'
-      date: '2011-04-05 09:42:13'
-      date_gmt: '2011-04-04 23:42:13'
-      id: '42'
-      parent: '41'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The ICTs for Learning Design course requires each student to create a blog. The blog is then a key part of the assessment, it's actually how we're meant to submit assignments. The public nature of the blogs has caused some concern, but we are now being encouraged to read and comment on our peer's blogs.
 
@@ -67,13 +64,13 @@ The plan is to let the other students in the course know about this and see if a
 
 The folk at [Commoncraft](http://www.commoncraft.com/rss_plain_english) have a good video that gives the idea of RSS. The Youtube version is embedded below
 
-\[youtube=http://www.youtube.com/watch?v=0klgLsSxGsU\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0klgLsSxGsU?si=4WuNvRzqtDvimOlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [OPML](http://en.wikipedia.org/wiki/OPML) is a way of gathering a large collection of feeds into one place. It's just a text file with a special format.
 
 But when you import an OPML file into a news reader, you get a single place to observe and track what is going on. The following image shows the OPML file generated here imported into my news reader (a Mac application called [NetNewsWire](http://netnewswireapp.com/)). Click on the image to see it larger. The smudged areas represent where I've applied a bit of privacy to the blog URLs for other students.
 
-[![newsreader](images/5587355582_21bc0847bf_m.jpg)](http://www.flickr.com/photos/david_jones/5587355582/ "newsreader by David T Jones, on Flickr")
+[![newsreader](https://djon.es/assets/blog/2011/04/04/making-and-using-an-opml-feed-of-student-blogs/images/5587355582_21bc0847bf_m.jpg)](http://www.flickr.com/photos/david_jones/5587355582/ "newsreader by David T Jones, on Flickr")
 
 I find this a useful way to keep track of who is posting what. I'm guessing that most of the other students in the course will probably use [Google reader](http://www.google.com/reader/view/) as their news reader.
 
@@ -100,7 +97,7 @@ To use the OPML file you have to import it into your news reader. This means you
 
 There [are some instructions](http://www.google.com/support/reader/bin/answer.py?hl=en&answer=69982) for importing an OPML file into Google reader. If I follow those instructions I get an image like the following.
 
-[![Google reader and EDED20491 feeds](images/5587398880_f4ef0fb30f_m.jpg)](http://www.flickr.com/photos/david_jones/5587398880/ "Google reader and EDED20491 feeds by David T Jones, on Flickr")
+[![Google reader and EDED20491 feeds](https://djon.es/assets/blog/2011/04/04/making-and-using-an-opml-feed-of-student-blogs/images/5587398880_f4ef0fb30f_m.jpg)](http://www.flickr.com/photos/david_jones/5587398880/ "Google reader and EDED20491 feeds by David T Jones, on Flickr")
 
 ### Further possibilities
 

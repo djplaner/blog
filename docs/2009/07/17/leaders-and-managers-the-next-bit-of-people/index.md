@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,49 +6,46 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-07-17 14:42:07+10:00
+comments: []
+date: 2009-07-17 04:42:07
 next:
   text: '"PhD update #17 - You know you''re losing your way when...."'
   url: /blog/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/
+pingbacks:
+- approved: '1'
+  author: 'PhD update #17 &#8211; You know you&#8217;re losing your way when&#8230;.
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Leaders and managers &#8211; the next bit of&nbsp;People [...]'
+  date: '2009-07-19 14:33:00'
+  date_gmt: '2009-07-19 04:33:00'
+  id: '2647'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons for e-learning from people &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.201
+  author_url: https://djon.es/blog/2009/08/17/lessons-for-e-learning-from-people/
+  content: '[...] This has included descriptions of the characteristics of the people
+    (Students, Academic Staff, Leaders and Managers and Support Staff) involved with
+    e-learning (Section 2.1.1); the chasm (Section 2.1.2) that exists [...]'
+  date: '2009-12-22 21:58:50'
+  date_gmt: '2009-12-22 11:58:50'
+  id: '2648'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Occupational stress in Australian University Staff
   url: /blog/2009/07/17/occupational-stress-in-australian-university-staff/
+template: blog-post.html
 title: Leaders and managers - the next bit of People
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD update #17 &#8211; You know you&#8217;re losing your way when&#8230;.
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Leaders and managers &#8211; the next bit of&nbsp;People [...]'
-      date: '2009-07-19 14:33:00'
-      date_gmt: '2009-07-19 04:33:00'
-      id: '2647'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons for e-learning from people &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.201
-      author_url: https://djon.es/blog/2009/08/17/lessons-for-e-learning-from-people/
-      content: '[...] This has included descriptions of the characteristics of the people
-        (Students, Academic Staff, Leaders and Managers and Support Staff) involved with
-        e-learning (Section 2.1.1); the chasm (Section 2.1.2) that exists [...]'
-      date: '2009-12-22 21:58:50'
-      date_gmt: '2009-12-22 11:58:50'
-      id: '2648'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 After a bit of an absence, time to get back to the [thesis](/blog/research/phd-thesis/). The following continues the recent work on the People component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). So far, I've done [students](/blog/2009/06/29/students-and-e-learning-a-start-to-the-people-section/) and [teaching/academic staff](/blog/2009/07/07/academics-the-next-part-of-the-people-section/). This post looks at leaders and managers (badly). I'm working on a section or two on technical and instructional design staff.
 

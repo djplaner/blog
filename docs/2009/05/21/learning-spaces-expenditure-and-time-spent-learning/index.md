@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - ilecture
 - innovation
-date: 2009-05-21 16:48:22+10:00
+date: 2009-05-21 06:48:22
 next:
   text: The perils of re-organisation - Gaius Petronius
   url: /blog/2009/05/21/the-perils-of-re-organisation-gaius-petronius/
 previous:
   text: Where&#039;s the inspiration? Where&#039;s the desire to improve?
   url: /blog/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/
+template: blog-post.html
 title: '"Learning spaces: expenditure and time spent learning"'
 type: post
-template: blog-post.html
 ---
 I've just been listening [to this podcast](http://www.gardnercampbell.net/blog1/?p=770) of a keynote by [Dr Phil Long](http://edtechtrends.blogspot.com/). Apart from the content of the talk, this is interesting because Dr Long has just recently [started work at the University of Queensland](http://www.uq.edu.au/news/?article=16664) (which is just down the road from here) at the [Centre for Educational Innovation and Technology](http://www.uq.edu.au/ceit/).
 

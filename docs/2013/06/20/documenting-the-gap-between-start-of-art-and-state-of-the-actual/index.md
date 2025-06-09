@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - bim
 - design-theory
@@ -6,137 +6,135 @@ categories:
 - edc3100
 - elearning
 - indicators
-date: 2013-06-20 11:33:17+10:00
+comments:
+- approved: '1'
+  author: Maurice A. Barry
+  author_email: maurice.a.barry@gmail.com
+  author_ip: 47.54.209.81
+  author_url: http://mauriceabarry.wordpress.com
+  content: A worthy task. In the end the rich data may come from things that are not
+    shiny; things that do not make headlines--the smaller things that really do make
+    a difference in the long run. Right now, a lot of the reporting I hear relates
+    to acquisition of gear such as apple tablets and not to the teaching and learning
+    they are supposed to promote. I think the real issue that people forget is that
+    teaching is so demanding that just the professional equivalent of 'keeping the
+    lights on' is more than enough to fill the day. Little time is really available
+    to pursue large scale improvements and hard-pressed governments are reluctant
+    to devote extra resources to help this along. So it's therefore likely that the
+    real success stories lie in the smaller, less hyped practices that focus on students
+    and learning--things not likely to find their way into reports or news stories.
+    They are still the real things.
+  date: '2013-06-20 19:13:38'
+  date_gmt: '2013-06-20 09:13:38'
+  id: '790'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 58.106.132.20
+  author_url: http://cj13.wordpress.com/
+  content: 'It''s a good post (I put on garlic for the TPACK comments :) )  In all
+    the hoopla around tech in schools and universities, it is the teachers/lecturers
+    who are the heroes. Putting up with all the silly nonsense of someone higher up
+    (the digitally homeless) and actually making something decent out of it for the
+    kids with whom they work. The game (IT and Ed) was naturally immature when it
+    all began way back when. I see no signs of maturation. I doubt there can be when
+    you have "system" thinking folk trying to run/drive things. The folk at the pointy
+    end have little room to be the professionals they would prefer to be (all that
+    ballast that should have been jettisoned, aka managers).  Instead of requiring
+    the workers to demo they have done something, I think the very first question
+    to ask is for each and every manager to point to the hard evidence that the policies
+    they have put in place have actually improved anything. If any business ran their
+    IT like this. They''d be out of business so quickly. Get rid of the bloated bureaucracies
+    and you could support teachers be the professionals they are. '
+  date: '2013-06-22 08:44:15'
+  date_gmt: '2013-06-21 22:44:15'
+  id: '791'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.223.2.105
+  author_url: https://djon.es/blog/
+  content: 'I had wondered whether the TPACK stuff might spark a reaction. In this
+    context, I think it can play a useful role.  Time will tell.
+
+
+    In terms of your comments re: managers I agree.  Did you see the <a href="http://www.mindingthecampus.com/originals/2013/06/forget_moocslets_use_mooa.html"
+    rel="nofollow">MOOA post</a>? Not sure whether I came to it via you or someone
+    else.
+
+
+    Which connects to the link Taleb tweeted recently on <a href="http://hintjens.com/blog:25"
+    rel="nofollow">The myth of intelligent design</a> and his ideas that innovation
+    arises out of experience and bricolage. The "moving beyond" part of my Moodlemoot
+    presentation will be on enabling that.  Trying to argue that all the systems folk
+    need to make a space for coal-face bricolage rather than getting on the version
+    train (e.g. USQ about to upgrade to Moodle 2.4, when Moodle 2.5 has <a href="http://docs.moodle.org/dev/Moodle_2.5_release_notes"
+    rel="nofollow">just been released</a>.
+
+
+    A big part of that is having some idea about the state of the actual
+
+
+    Time to work on that presentation.'
+  date: '2013-06-22 13:33:56'
+  date_gmt: '2013-06-22 03:33:56'
+  id: '792'
+  parent: '791'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 58.106.132.20
+  author_url: http://cj13.wordpress.com/
+  content: 'Yeah you know how to get me to bite! :) Had not seen the MOOA post- what
+    a gem!  And yes Taleb no dill. The line running there echoes Johansson''s argument
+    (Johansson, F. (2012). The click moment : seizing opportunity in an unpredictable
+    world. New York: Portfolio/Penguin), i.e. [prepared mind, heaps of affordable
+    experiments (Taleb) and you can luck into a biggie.] Stephen Johnson''s argument
+    about where good idea come from is also resonant here as well. You could easily
+    make a strong case that one of the last places to find innovation is in a university,
+    well of the Oz over-managed variety. Skunk works rule ok?  ;)'
+  date: '2013-06-22 16:55:21'
+  date_gmt: '2013-06-22 06:55:21'
+  id: '793'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2013-06-20 01:33:17
 next:
   text: Identifying and filling some TPACK holes
   url: /blog/2013/07/02/identifying-and-filling-some-tpack-holes/
+pingbacks:
+- approved: '1'
+  author: Identifying and filling some TPACK holes | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.9.119
+  author_url: https://djon.es/blog/2013/07/02/identifying-and-filling-some-tpack-holes/
+  content: '[&#8230;] I&#8217;d be surprised if anyone thought this was an earth breaking
+    insight. It&#8217;s kind of obvious. If this was the case then I wouldn&#8217;t
+    expect institutional e-learning to be replete with examples of this. The following
+    is an attempt to document some of the TPACK holes I&#8217;m experiencing in the
+    tasks I have to complete this weekend. It&#8217;s also an example of recording
+    the gap outlined in this post. [&#8230;]'
+  date: '2013-07-02 15:00:55'
+  date_gmt: '2013-07-02 05:00:55'
+  id: '794'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Comparing Automatically Detected Reflective Texts with Human Judgements
   url: /blog/2013/06/19/comparing-automatically-detected-reflective-texts-with-human-judgements/
+template: blog-post.html
 title: Documenting the gap between "start of art" and "state of the actual"
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Maurice A. Barry
-      author_email: maurice.a.barry@gmail.com
-      author_ip: 47.54.209.81
-      author_url: http://mauriceabarry.wordpress.com
-      content: A worthy task. In the end the rich data may come from things that are not
-        shiny; things that do not make headlines--the smaller things that really do make
-        a difference in the long run. Right now, a lot of the reporting I hear relates
-        to acquisition of gear such as apple tablets and not to the teaching and learning
-        they are supposed to promote. I think the real issue that people forget is that
-        teaching is so demanding that just the professional equivalent of 'keeping the
-        lights on' is more than enough to fill the day. Little time is really available
-        to pursue large scale improvements and hard-pressed governments are reluctant
-        to devote extra resources to help this along. So it's therefore likely that the
-        real success stories lie in the smaller, less hyped practices that focus on students
-        and learning--things not likely to find their way into reports or news stories.
-        They are still the real things.
-      date: '2013-06-20 19:13:38'
-      date_gmt: '2013-06-20 09:13:38'
-      id: '790'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 58.106.132.20
-      author_url: http://cj13.wordpress.com/
-      content: 'It''s a good post (I put on garlic for the TPACK comments :) )  In all
-        the hoopla around tech in schools and universities, it is the teachers/lecturers
-        who are the heroes. Putting up with all the silly nonsense of someone higher up
-        (the digitally homeless) and actually making something decent out of it for the
-        kids with whom they work. The game (IT and Ed) was naturally immature when it
-        all began way back when. I see no signs of maturation. I doubt there can be when
-        you have "system" thinking folk trying to run/drive things. The folk at the pointy
-        end have little room to be the professionals they would prefer to be (all that
-        ballast that should have been jettisoned, aka managers).  Instead of requiring
-        the workers to demo they have done something, I think the very first question
-        to ask is for each and every manager to point to the hard evidence that the policies
-        they have put in place have actually improved anything. If any business ran their
-        IT like this. They''d be out of business so quickly. Get rid of the bloated bureaucracies
-        and you could support teachers be the professionals they are. '
-      date: '2013-06-22 08:44:15'
-      date_gmt: '2013-06-21 22:44:15'
-      id: '791'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.223.2.105
-      author_url: https://djon.es/blog/
-      content: 'I had wondered whether the TPACK stuff might spark a reaction. In this
-        context, I think it can play a useful role.  Time will tell.
-    
-    
-        In terms of your comments re: managers I agree.  Did you see the <a href="http://www.mindingthecampus.com/originals/2013/06/forget_moocslets_use_mooa.html"
-        rel="nofollow">MOOA post</a>? Not sure whether I came to it via you or someone
-        else.
-    
-    
-        Which connects to the link Taleb tweeted recently on <a href="http://hintjens.com/blog:25"
-        rel="nofollow">The myth of intelligent design</a> and his ideas that innovation
-        arises out of experience and bricolage. The "moving beyond" part of my Moodlemoot
-        presentation will be on enabling that.  Trying to argue that all the systems folk
-        need to make a space for coal-face bricolage rather than getting on the version
-        train (e.g. USQ about to upgrade to Moodle 2.4, when Moodle 2.5 has <a href="http://docs.moodle.org/dev/Moodle_2.5_release_notes"
-        rel="nofollow">just been released</a>.
-    
-    
-        A big part of that is having some idea about the state of the actual
-    
-    
-        Time to work on that presentation.'
-      date: '2013-06-22 13:33:56'
-      date_gmt: '2013-06-22 03:33:56'
-      id: '792'
-      parent: '791'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 58.106.132.20
-      author_url: http://cj13.wordpress.com/
-      content: 'Yeah you know how to get me to bite! :) Had not seen the MOOA post- what
-        a gem!  And yes Taleb no dill. The line running there echoes Johansson''s argument
-        (Johansson, F. (2012). The click moment : seizing opportunity in an unpredictable
-        world. New York: Portfolio/Penguin), i.e. [prepared mind, heaps of affordable
-        experiments (Taleb) and you can luck into a biggie.] Stephen Johnson''s argument
-        about where good idea come from is also resonant here as well. You could easily
-        make a strong case that one of the last places to find innovation is in a university,
-        well of the Oz over-managed variety. Skunk works rule ok?  ;)'
-      date: '2013-06-22 16:55:21'
-      date_gmt: '2013-06-22 06:55:21'
-      id: '793'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Identifying and filling some TPACK holes | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.9.119
-      author_url: https://djon.es/blog/2013/07/02/identifying-and-filling-some-tpack-holes/
-      content: '[&#8230;] I&#8217;d be surprised if anyone thought this was an earth breaking
-        insight. It&#8217;s kind of obvious. If this was the case then I wouldn&#8217;t
-        expect institutional e-learning to be replete with examples of this. The following
-        is an attempt to document some of the TPACK holes I&#8217;m experiencing in the
-        tasks I have to complete this weekend. It&#8217;s also an example of recording
-        the gap outlined in this post. [&#8230;]'
-      date: '2013-07-02 15:00:55'
-      date_gmt: '2013-07-02 05:00:55'
-      id: '794'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Came across Perrotta et al (2013) in my morning random ramblings through my PLN and was particular struck by this
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - emd
-date: 2007-03-05 15:28:19+10:00
+date: 2007-03-05 05:28:19
 next:
   text: Thesis 1.1 - Introduction
   url: /blog/2007/03/10/thesis-11-introduction/
 previous:
   text: Open source in the education field
   url: /blog/2007/03/04/open-source-in-the-education-field/
+template: blog-post.html
 title: Aims of a curriculum design group at a university
 type: post
-template: blog-post.html
 ---
 This is a collection of rough ideas about what the overall aim should be for a curriculum design group at a University. In particular, a University like [Central Queensland University](http://www.cqu.edu.au/).
 

@@ -1,9 +1,9 @@
----
+﻿---
 categories:
 - bad
 - oep
 - site2016
-date: 2016-03-26 02:40:52+10:00
+date: 2016-03-25 16:40:52
 next:
   text: LATs, OER, TPACK, and GitHub
   url: /blog/2016/03/26/lats-oer-tpack-and-github/
@@ -11,9 +11,9 @@ previous:
   text: 'Mapping the digital practices of teacher educators: Implications for teacher
     education in changing digital landscapes'
   url: /blog/2016/03/24/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes-2/
+template: blog-post.html
 title: '"SITE''2016: LATs, OER, and SPLOTs?"'
 type: post
-template: blog-post.html
 ---
 [SITE'2016](https://www.academicexperts.org/conf/site/2016/) is almost finished, so it's past time I started sharing some of the finds and thoughts that have arisen. There's been a (very small) bit of movement around the notion of open. I'll write about LATs and OER and some possibilities in another post. This post is meant to explore the possibility of adapting some of the TPACK learning activities shared by @Keane\_Kelly during [her session](https://www.academicexperts.org/conf/site/2016/papers/48707/) into [SPLOTs](http://cogdog.trubox.ca/2015/02/17/splot-tpc-2015/).
 
@@ -39,7 +39,7 @@ i.e. a single web page that anyone could download and start using. No need for a
 
 ### Vocabulary target review
 
-[![archery target by Leo Reynolds, on Flickr](images/13000817174_a6bf6b698c_m.jpg "archery target by Leo Reynolds, on Flickr")](https://www.flickr.com/photos/lwr/13000817174/) "[archery target](https://www.flickr.com/photos/lwr/13000817174/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/lwr/)[Leo Reynolds](https://www.flickr.com/people/lwr/) [](http://www.imagecodr.org/)
+[![archery target by Leo Reynolds, on Flickr](https://djon.es/assets/blog/2016/03/26/site2016-lats-oer-and-splots/images/13000817174_a6bf6b698c_m.jpg "archery target by Leo Reynolds, on Flickr")](https://www.flickr.com/photos/lwr/13000817174/) "[archery target](https://www.flickr.com/photos/lwr/13000817174/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/lwr/)[Leo Reynolds](https://www.flickr.com/people/lwr/) [](http://www.imagecodr.org/)
 
 In this activity the students are presented with a target (using a Google drawing) and a list of vocabulary related to TPACK (though this could be used for anything). The students then place the vocab words on the target. The more certain they are of the definition, the more "on target" the place the words. This then feeds into discussions.
 

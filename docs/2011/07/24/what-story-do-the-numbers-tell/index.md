@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-07-24 15:14:51+10:00
+date: 2011-07-24 05:14:51
 next:
   text: Residents and visitors, are builders the forgotten category?
   url: /blog/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/
 previous:
   text: Can you be a native in a world that is always changing?
   url: /blog/2011/07/20/4033/
+template: blog-post.html
 title: What story do the numbers tell?
 type: post
-template: blog-post.html
 ---
 So the Australian Federal Government recognises that there is something going on (DEEWR, 2010)
 
@@ -22,7 +22,7 @@ So the Australian Federal Government recognises that there is something going on
 
 That has to be good news doesn't it? Of course, the devil is in the detail and from what I've been able to find, it doesn't look good.The following graph shows the respective amounts of money allocated by the government to various projects.
 
-[![Budgets of four government projects](images/5968662887_fff18af9ac_m.jpg)](http://www.flickr.com/photos/david_jones/5968662887/ "Budgets of four government projects by David T Jones, on Flickr")
+[![Budgets of four government projects](https://djon.es/assets/blog/2011/07/24/what-story-do-the-numbers-tell/images/5968662887_fff18af9ac_m.jpg)](http://www.flickr.com/photos/david_jones/5968662887/ "Budgets of four government projects by David T Jones, on Flickr")
 
 Can you guess which of those projects is aimed at providing funds to teachers and teacher educators to develop the skills and practices necessary to "live and work in a digital world"?
 

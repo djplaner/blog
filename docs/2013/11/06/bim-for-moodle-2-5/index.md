@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2013-11-06 14:50:19+10:00
+date: 2013-11-06 04:50:19
 next:
   text: Exploring current institutional e-learning usage
   url: /blog/2013/11/12/exploring-current-institutional-e-learning-usage/
 previous:
   text: Big data in education - part 2
   url: /blog/2013/11/03/big-data-in-education-part-1-2/
+template: blog-post.html
 title: BIM for Moodle 2.5
 type: post
-template: blog-post.html
 ---
 Earlier this week @sthcrft asked https://twitter.com/sthcrft/status/397143586178756608
 

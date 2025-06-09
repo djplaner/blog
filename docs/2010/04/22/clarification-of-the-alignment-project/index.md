@@ -1,64 +1,61 @@
----
+﻿---
 categories:
 - curriculummapping-cddu
-date: 2010-04-22 13:55:48+10:00
+comments:
+- approved: '1'
+  author: fergalm
+  author_email: spamfergal@yahoo.com
+  author_ip: 89.100.232.89
+  author_url: http://fergalm.wordpress.com
+  content: 'David,
+
+
+    I was trawling around looking for curriculum mapping tools, did your proposal
+    go anywhere? It seemed like an excellent approach and would be a phenonemal resource
+    for Moodle.
+
+
+    Fergal'
+  date: '2011-03-22 07:13:46'
+  date_gmt: '2011-03-21 21:13:46'
+  id: '3011'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.216.101.17
+  author_url: https://djon.es/blog/
+  content: 'G''day Fergal,
+
+
+    I''m sad to report that the proposal didn''t go anywhere. The main spark for my
+    interest in the proposal was based around working at a University. Not long after
+    I developed the proposal there was a restructure and I chose not to work there
+    anymore. Hence the curriculum mapping proposal has entered limbo.
+
+
+    David.'
+  date: '2011-03-22 07:44:39'
+  date_gmt: '2011-03-21 21:44:39'
+  id: '3013'
+  parent: '3011'
+  type: comment
+  user_id: '1'
+date: 2010-04-22 03:55:48
 next:
   text: Inside out, Outside in or both?
   url: /blog/2010/04/25/inside-out-outside-in-or-both/
+pingbacks: []
 previous:
   text: Framing a body of research and innovation
   url: /blog/2010/04/15/framing-a-body-of-research-and-innovation/
 tags:
 - altc
+template: blog-post.html
 title: Clarification of the alignment project
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: fergalm
-      author_email: spamfergal@yahoo.com
-      author_ip: 89.100.232.89
-      author_url: http://fergalm.wordpress.com
-      content: 'David,
-    
-    
-        I was trawling around looking for curriculum mapping tools, did your proposal
-        go anywhere? It seemed like an excellent approach and would be a phenonemal resource
-        for Moodle.
-    
-    
-        Fergal'
-      date: '2011-03-22 07:13:46'
-      date_gmt: '2011-03-21 21:13:46'
-      id: '3011'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.216.101.17
-      author_url: https://djon.es/blog/
-      content: 'G''day Fergal,
-    
-    
-        I''m sad to report that the proposal didn''t go anywhere. The main spark for my
-        interest in the proposal was based around working at a University. Not long after
-        I developed the proposal there was a restructure and I chose not to work there
-        anymore. Hence the curriculum mapping proposal has entered limbo.
-    
-    
-        David.'
-      date: '2011-03-22 07:44:39'
-      date_gmt: '2011-03-21 21:44:39'
-      id: '3013'
-      parent: '3011'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Am at [the University of Canberra](http://www.canberra.edu.au/) for a second day today talking about the possibility of an ALTC grant application around alignment/[curriculum mapping](/blog/research/curriculum-mapping/). The aim today is to try and clarify where the project would go and this post is an attempt to make concrete some of **my** thinking. The final ideas for the project may be radically different.
 

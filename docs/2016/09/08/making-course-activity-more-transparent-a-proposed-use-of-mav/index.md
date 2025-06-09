@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bad
 - pirac
-date: 2016-09-08 13:04:01+10:00
+comments: []
+date: 2016-09-08 03:04:01
 next:
   text: Which comes first? Pedagogy or technology?
   url: /blog/2016/09/11/which-comes-first-pedagogy-or-technology/
+pingbacks:
+- approved: '1'
+  author: Some MAV tasters &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.143
+  author_url: https://davidtjones.wordpress.com/2016/10/28/some-mav-tasters/
+  content: '[&#8230;] we&#8217;ll get an opportunity to use this type of process to
+    support others to use MAV to explore what&#8217;s happening in their [&#8230;]'
+  date: '2016-10-28 11:47:21'
+  date_gmt: '2016-10-28 01:47:21'
+  id: '3415'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'University digital technology: problems, causes, and suggested solutions'
   url: /blog/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
+template: blog-post.html
 title: '"Making course activity more transparent: A proposed use of MAV"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Some MAV tasters &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.143
-      author_url: https://davidtjones.wordpress.com/2016/10/28/some-mav-tasters/
-      content: '[&#8230;] we&#8217;ll get an opportunity to use this type of process to
-        support others to use MAV to explore what&#8217;s happening in their [&#8230;]'
-      date: '2016-10-28 11:47:21'
-      date_gmt: '2016-10-28 01:47:21'
-      id: '3415'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As part of the USQ Technology Demonstrator Project (a bit more [here](https://www.usq.edu.au/news-events/news/2016/07/new-dimension-of-learning-3d-printing)) we'll soon be able to play with [the Moodle Activity Viewer](https://github.com/damoclark/mav-enterprise). As described the VC, the Technology Demonstrator Project entails
 
@@ -49,7 +46,7 @@ Digital technologies are opaque. Turkle (1995) talks about how what is going on 
 
 For example, testing at USQ in 2014 (for this presentation) found that once you knew which reports to run on Moodle you had to step through a number of different reports. Many of these reports include waiting for minutes (in 2016 the speed is better) with a blank page while the server responds to the request. After that delay, you can't actually focus only on student activity (staff activity is included) and it won't work for all modules. In addition, the visualisation that is provided is limited to tabular data - like the following.
 
-[![EDC3100 2016 S1 - Week 0 activity](images/28907723364_9349dc4229.jpg)](https://www.flickr.com/photos/david_jones/28907723364/in/dateposted-public/ "EDC3100 2016 S1 - Week 0 activity")
+[![EDC3100 2016 S1 - Week 0 activity](https://djon.es/assets/blog/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/images/28907723364_9349dc4229.jpg)](https://www.flickr.com/photos/david_jones/28907723364/in/dateposted-public/ "EDC3100 2016 S1 - Week 0 activity")
 
 Other limitations of the standard reports, include:
 
@@ -67,13 +64,13 @@ MAV modifies any standard Moodle page by overlaying a heat map on it.  The foll
 
 A switch of a MAV option will modify the heatmap to show the number of students, rather than clicks. If you [visit this page](https://www.flickr.com/photos/david_jones/12259871663/sizes/o/), you will see an image of the entire course site with a MAV heatmap showing the number of students.
 
-[![EDC3100 S2, 2013 - heat map](images/12259211486_913cefea74_z.jpg)](https://www.flickr.com/photos/david_jones/12259211486/in/photostream/ "EDC3100 S2, 2013 - heat map")
+[![EDC3100 S2, 2013 - heat map](https://djon.es/assets/blog/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/images/12259211486_913cefea74_z.jpg)](https://www.flickr.com/photos/david_jones/12259211486/in/photostream/ "EDC3100 S2, 2013 - heat map")
 
 The current major advantage of MAV is that the heatmap will work on any standard Moodle links that appear on any Moodle page. Meaning you can view a specific resource (e.g. a Moodle Book resource) or an activity (e.g. a discussion forum) and use the MAV heatmap to understand student engagement with that activity.
 
 The following image (click on it to see larger versions) shows the MAV heatmap on a discussion forum from the 2013 course site above.  This forum is the "introduce yourself" activity for the course. It shows that the most visited forum post was my introduction, visited by 87 students. Most of the other introductions were visited by significantly less students.
 
-This illustrate a potential failure for this activity design. Students aren't reading many other introductions. Perhaps suggesting a need to redesign this activity. [![Forum students](images/12280500854_2b378f6777_z.jpg)](https://www.flickr.com/photos/david_jones/12280500854/ "Forum students")
+This illustrate a potential failure for this activity design. Students aren't reading many other introductions. Perhaps suggesting a need to redesign this activity. [![Forum students](https://djon.es/assets/blog/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/images/12280500854_2b378f6777_z.jpg)](https://www.flickr.com/photos/david_jones/12280500854/ "Forum students")
 
 ## Using MAV
 

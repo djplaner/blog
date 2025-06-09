@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - indicators
-date: 2017-03-13 15:16:32+10:00
+date: 2017-03-13 05:16:32
 next:
   text: Adding a custom library and a semi-real application - Indicators notebook(s)
   url: /blog/2017/03/16/adding-a-custom-library-and-a-semi-real-application-indicators-notebooks/
 previous:
   text: 'Jupyter notebook indicators platform: Baby step #1 - Finding an ORM'
   url: /blog/2017/03/12/jupyter-notebook-indicators-platform-baby-step-1-finding-an-orm/
+template: blog-post.html
 title: Sharing "indicators platform" via github
 type: post
-template: blog-post.html
 ---
 Following on from [the last post](http://djon.es/blog/2017/03/12/jupyter-notebook-indicators-platform-baby-step-1-finding-an-orm/) the following documents how to share the "indicators platform" for analytics via github. It's largely intended to help @beerc. I doubt there's nothing (at the moment) that makes this inherently interesting for anyone else.
 

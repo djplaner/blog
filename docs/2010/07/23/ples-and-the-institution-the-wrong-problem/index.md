@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - elearning
 - plescquni
-date: 2010-07-23 10:04:20+10:00
+date: 2010-07-23 00:04:20
 next:
   text: First the fridge dies, and then...
   url: /blog/2010/07/28/first-the-fridge-dies-and-then/
 previous:
   text: How to handle the marriage of PLEs and institutions
   url: /blog/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/
+template: blog-post.html
 title: '"PLEs and the institution: the wrong problem"'
 type: post
-template: blog-post.html
 ---
 Yesterday, I [rehashed/summarised](/blog/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/) some earlier thoughts about "handling the marriage of PLEs and institutions. Since then, I've been reflecting on that post. Am coming to the belief that this is just the wrong problem, or perhaps just a symptom of a deeper problem. (Signal the start of the broken record).
 

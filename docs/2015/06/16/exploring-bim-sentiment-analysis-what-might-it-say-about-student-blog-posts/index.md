@@ -1,51 +1,48 @@
----
+﻿---
 categories:
 - 4paths
 - bad
 - bim
 - indicators
-date: 2015-06-16 22:35:51+10:00
+comments: []
+date: 2015-06-16 12:35:51
 next:
   text: Revisiting the IRAC framework and looking for insights
   url: /blog/2015/06/18/revisiting-the-irac-framework-and-looking-for-insights/
+pingbacks:
+- approved: '1'
+  author: Updating &#8220;more student details&#8221; | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.73
+  author_url: https://davidtjones.wordpress.com/2015/07/23/updating-more-student-details/
+  content: '[&#8230;] while I&#8217;m at it, I&#8217;m hoping I might be able to add
+    a bit of sentiment analysis to [&#8230;]'
+  date: '2015-07-23 12:39:20'
+  date_gmt: '2015-07-23 02:39:20'
+  id: '1335'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Sentiment analysis of student blog posts &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.101.131
+  author_url: https://davidtjones.wordpress.com/2016/02/14/sentiment-analysis-of-student-blog-posts/
+  content: '[&#8230;] June last year I started an exploration into the value of sentiment
+    analysis of student blog posts. This morning I&#8217;ve actually gotten [&#8230;]'
+  date: '2016-02-14 11:17:07'
+  date_gmt: '2016-02-14 01:17:07'
+  id: '1336'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Types of e-learning projects and the problem of starvation
   url: /blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/
+template: blog-post.html
 title: Exploring BIM + sentiment analysis - what might it say about student blog posts
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Updating &#8220;more student details&#8221; | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.73
-      author_url: https://davidtjones.wordpress.com/2015/07/23/updating-more-student-details/
-      content: '[&#8230;] while I&#8217;m at it, I&#8217;m hoping I might be able to add
-        a bit of sentiment analysis to [&#8230;]'
-      date: '2015-07-23 12:39:20'
-      date_gmt: '2015-07-23 02:39:20'
-      id: '1335'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Sentiment analysis of student blog posts &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.101.131
-      author_url: https://davidtjones.wordpress.com/2016/02/14/sentiment-analysis-of-student-blog-posts/
-      content: '[&#8230;] June last year I started an exploration into the value of sentiment
-        analysis of student blog posts. This morning I&#8217;ve actually gotten [&#8230;]'
-      date: '2016-02-14 11:17:07'
-      date_gmt: '2016-02-14 01:17:07'
-      id: '1336'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following documents some initial exploration into why, if, and how sentiment analysis might be added to the [BIM module](/blog/research/bam-blog-aggregation-management/) for Moodle. BIM is a tool that helps manage and mirror blog posts from individual student blogs. [Sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) is an application of algorithms to identify the sentiment/emotions/polarity of a person/author through their writing and other artefacts. The theory is that sentiment analysis can alert a teacher if a student has written something that is deemed sad, worried, or confused; but also happy, confident etc.
 

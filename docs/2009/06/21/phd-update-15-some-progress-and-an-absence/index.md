@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-06-21 14:55:15+10:00
+comments: []
+date: 2009-06-21 04:55:15
 next:
   text: Confirmation bias, the Tolstoy Syndrome and pattern entrainment
   url: /blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #16 &#8211; return from a break &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/07/05/phd-update-16-return-from-a-break/
+  content: '[...] Update #16 &#8211; return from a&nbsp;break  As mentioned a fortnight
+    ago I&#8217;ve had much of the last two weeks doing non-PhD stuff including a
+    road trip to Longreach. [...]'
+  date: '2009-07-05 14:03:40'
+  date_gmt: '2009-07-05 04:03:40'
+  id: '2618'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Lessons from process for university e-learning
   url: /blog/2009/06/21/lessons-from-process-for-university-e-learning/
+template: blog-post.html
 title: '"PhD Update #15 - Some progress and an absence"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #16 &#8211; return from a break &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/07/05/phd-update-16-return-from-a-break/
-      content: '[...] Update #16 &#8211; return from a&nbsp;break  As mentioned a fortnight
-        ago I&#8217;ve had much of the last two weeks doing non-PhD stuff including a
-        road trip to Longreach. [...]'
-      date: '2009-07-05 14:03:40'
-      date_gmt: '2009-07-05 04:03:40'
-      id: '2618'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Some progress made this week, but it comes as a prelude to a week in which not much, if anything will be done. This week, after a couple of days at work, the family and I are off to visit Longreach, my sister and her family. We won't get back until after my normal "updates" day. So, I'll miss the updates for next week.
 

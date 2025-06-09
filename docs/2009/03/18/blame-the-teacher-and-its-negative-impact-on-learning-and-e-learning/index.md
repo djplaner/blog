@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -7,127 +7,124 @@ categories:
 - psframework
 - reflectivealignment
 - thesis
-date: 2009-03-18 09:38:34+10:00
+comments: []
+date: 2009-03-17 23:38:34
 next:
   text: The Ps framework
   url: /blog/2009/03/18/the-ps-framework/
+pingbacks:
+- approved: '1'
+  author: Poor craftsman - or the &#8220;blame the teachers&#8221; excuse &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/
+  content: '[...] craftsman&#8221; assumption too far. When this happens it becomes
+    what I&#8217;ve called the &#8220;blame the teacher&#8221; approach to university
+    management. (This earlier post explains the origins of the &#8220;blame the [...]'
+  date: '2009-03-23 17:07:45'
+  date_gmt: '2009-03-23 07:07:45'
+  id: '2257'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The myth of rationality in the selection of learning management systems/VLEs
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/
+  content: '[...] course, that&#8217;s forgetting the SNAFU principle and the tension
+    between innovation and accountability and its effects on [...]'
+  date: '2009-03-25 15:06:28'
+  date_gmt: '2009-03-25 05:06:28'
+  id: '2258'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Pondering a new position - request for help &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/05/07/pondering-a-new-position/
+  content: '[...] Accountability and innovation in higher education: a disabling tension?  (Findlow,
+    2008)A paper that empirically explores the tension between accountability and
+    innovation within UK higher education (very closely related to the Australian
+    context). The link above is to a previous post that draws on some of the ideas
+    from the paper. [...]'
+  date: '2009-05-07 10:21:59'
+  date_gmt: '2009-05-07 00:21:59'
+  id: '2259'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Some initial thoughts on e-learning and innovation &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/
+  content: '[...] This is probably where traditional university &#8220;innovation&#8221;
+    grants sit. Probably have to engage with these but the cartoon below stikes me
+    as saying a few things about these grants and there&#8217;s also the work of Findlow.
+    [...]'
+  date: '2009-05-13 22:11:58'
+  date_gmt: '2009-05-13 12:11:58'
+  id: '2260'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What are the conditions that are conducive to the creation of a variety
+    of new ideas? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/05/25/what-are-the-conditions-that-are-conducive-to-the-creation-of-a-variety-of-new-ideas/
+  content: '[...] Given the growing influence of managerialization within society
+    and the increasing moves to standardisation and accountability within higher education
+    it is not difficult to identify some tensions. Indeed, the tension between accountability
+    and innovation and its negative ramifications within universities is the topic
+    of Findlow (2008) [...]'
+  date: '2009-05-25 14:52:00'
+  date_gmt: '2009-05-25 04:52:00'
+  id: '2261'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What can history tell us about e-learning and its future? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+  content: '[...] Innovation, accountability and task corruption [...]'
+  date: '2009-06-18 10:50:15'
+  date_gmt: '2009-06-18 00:50:15'
+  id: '2262'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The external validity problem | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 207.198.101.50
+  author_url: https://djon.es/blog/2013/11/22/the-external-validity-problem/
+  content: '[&#8230;] discrepancy in outlook can result in the &#8220;blame the teacher&#8221;
+    approach. Rather than value the difference that means their pet approach doesn&#8217;t
+    work, most often [&#8230;]'
+  date: '2013-11-22 14:37:49'
+  date_gmt: '2013-11-22 04:37:49'
+  id: '2263'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Comparing VLEs/LMS to the past: flaws and implications for development models'
   url: /blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
+template: blog-post.html
 title: '"Blame the teacher" and its negative impact on learning and e-learning'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Poor craftsman - or the &#8220;blame the teachers&#8221; excuse &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/
-      content: '[...] craftsman&#8221; assumption too far. When this happens it becomes
-        what I&#8217;ve called the &#8220;blame the teacher&#8221; approach to university
-        management. (This earlier post explains the origins of the &#8220;blame the [...]'
-      date: '2009-03-23 17:07:45'
-      date_gmt: '2009-03-23 07:07:45'
-      id: '2257'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The myth of rationality in the selection of learning management systems/VLEs
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/
-      content: '[...] course, that&#8217;s forgetting the SNAFU principle and the tension
-        between innovation and accountability and its effects on [...]'
-      date: '2009-03-25 15:06:28'
-      date_gmt: '2009-03-25 05:06:28'
-      id: '2258'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Pondering a new position - request for help &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/05/07/pondering-a-new-position/
-      content: '[...] Accountability and innovation in higher education: a disabling tension?  (Findlow,
-        2008)A paper that empirically explores the tension between accountability and
-        innovation within UK higher education (very closely related to the Australian
-        context). The link above is to a previous post that draws on some of the ideas
-        from the paper. [...]'
-      date: '2009-05-07 10:21:59'
-      date_gmt: '2009-05-07 00:21:59'
-      id: '2259'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Some initial thoughts on e-learning and innovation &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/
-      content: '[...] This is probably where traditional university &#8220;innovation&#8221;
-        grants sit. Probably have to engage with these but the cartoon below stikes me
-        as saying a few things about these grants and there&#8217;s also the work of Findlow.
-        [...]'
-      date: '2009-05-13 22:11:58'
-      date_gmt: '2009-05-13 12:11:58'
-      id: '2260'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What are the conditions that are conducive to the creation of a variety
-        of new ideas? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/05/25/what-are-the-conditions-that-are-conducive-to-the-creation-of-a-variety-of-new-ideas/
-      content: '[...] Given the growing influence of managerialization within society
-        and the increasing moves to standardisation and accountability within higher education
-        it is not difficult to identify some tensions. Indeed, the tension between accountability
-        and innovation and its negative ramifications within universities is the topic
-        of Findlow (2008) [...]'
-      date: '2009-05-25 14:52:00'
-      date_gmt: '2009-05-25 04:52:00'
-      id: '2261'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What can history tell us about e-learning and its future? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
-      content: '[...] Innovation, accountability and task corruption [...]'
-      date: '2009-06-18 10:50:15'
-      date_gmt: '2009-06-18 00:50:15'
-      id: '2262'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The external validity problem | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 207.198.101.50
-      author_url: https://djon.es/blog/2013/11/22/the-external-validity-problem/
-      content: '[&#8230;] discrepancy in outlook can result in the &#8220;blame the teacher&#8221;
-        approach. Rather than value the difference that means their pet approach doesn&#8217;t
-        work, most often [&#8230;]'
-      date: '2013-11-22 14:37:49'
-      date_gmt: '2013-11-22 04:37:49'
-      id: '2263'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following post is sparked by reading Findlow (2008) as part of my [PhD work](/blog/research/phd-thesis/). I'm about halfway through it and finding it very interesting. In particular, this post is sparked by the following paragraph from the paper
 

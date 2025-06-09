@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - indicators
-date: 2011-12-04 15:19:57+10:00
+comments: []
+date: 2011-12-04 05:19:57
 next:
   text: The failures of intuition in education
   url: /blog/2011/12/05/the-failures-of-intuition-in-education/
+pingbacks:
+- approved: '1'
+  author: 'Some of the learning analytics&nbsp;literature | OpenCourse 2012 #opco12
+    | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/opencourse-2012-opco12/p/1606350896/some-of-the-learning-analytics-literature
+  content: '[...] background-position: 50% 0px; background-color:#222222; background-repeat
+    : no-repeat; }           davidtjones.wordpress.com  - Today, 7:24 [...]'
+  date: '2012-04-16 10:24:07'
+  date_gmt: '2012-04-16 00:24:07'
+  id: '167'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Twitter, pre-service teachers and creating networks
   url: /blog/2011/11/21/twitter-pre-service-teachers-and-creating-networks/
 tags:
 - analytics
+template: blog-post.html
 title: Some of the learning analytics literature
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Some of the learning analytics&nbsp;literature | OpenCourse 2012 #opco12
-        | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/opencourse-2012-opco12/p/1606350896/some-of-the-learning-analytics-literature
-      content: '[...] background-position: 50% 0px; background-color:#222222; background-repeat
-        : no-repeat; }           davidtjones.wordpress.com  - Today, 7:24 [...]'
-      date: '2012-04-16 10:24:07'
-      date_gmt: '2012-04-16 00:24:07'
-      id: '167'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Am trying to slowly get back into the learning analytics literature as part of writing a paper. The following is an ad hoc collection of comments/reflections on a few learning analytics papers.
 

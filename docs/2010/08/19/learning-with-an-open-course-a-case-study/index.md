@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - ocw
 - oer
 - open
 - opencase
-date: 2010-08-19 11:28:09+10:00
+date: 2010-08-19 01:28:09
 next:
   text: '"Lessons learned from Webfuse: 2000 onwards"'
   url: /blog/2010/08/19/lessons-learned-from-webfuse-2000-onwards/
 previous:
   text: How people learn and implications for academic development
   url: /blog/2010/08/19/how-people-learn-and-implications-for-academic-development/
+template: blog-post.html
 title: Learning with an open course - a case study?
 type: post
-template: blog-post.html
 ---
 It seems the open educational resources and open courses are one of the next big fads. I realise that they've been around for a long time. There is the formalisation of open courses arising out of the MIT and similar projects leading to the [OCW consortium](http://ocwconsortium.org/) and more recently there's been idea of a [MOOC idea](http://www.educause.edu/EDUCAUSE%2BReview/EDUCAUSEReviewMagazineVolume45/ThroughtheOpenDoorOpenCoursesa/209320) arising from work by Seimens, Cormier, Downes and others. Even before all that there were various ad hoc examples of open courses (of different types) made available through the work of various "lone rangers". The fad cycle around OER/OCW has been in an upswing for a while, lots of formal institutional interest and increasingly there are grants being awarded. In fact, it appears that including OER/OCW in a grant title seems to be a good thing at the moment. Sure sign of a fad?
 

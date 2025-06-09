@@ -1,80 +1,77 @@
----
+﻿---
 categories:
 - elearning
 - ple
 - plescquni
-date: 2008-11-13 09:31:06+10:00
+comments: []
+date: 2008-11-12 23:31:06
 next:
   text: PLEs@CQUni - VoiceThread for Research Posters
   url: /blog/2008/11/14/plescquni-voicethread-for-research-posters/
+pingbacks:
+- approved: '1'
+  author: Common sense (the things we take for granted) is the big obstacle for innovation
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/02/16/common-sense-the-things-we-take-for-granted-is-the-big-obstacle-for-innovation/
+  content: '[...] through consistency has been one of my bug bears for over 10 years.
+    Talked about briefly here. I&#8217;m a fan of Oscar Wilde&#8217;s take on consistency
+    Consistency is the last refuge of the [...]'
+  date: '2009-02-16 21:56:01'
+  date_gmt: '2009-02-16 11:56:01'
+  id: '1869'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Measuring the design process - implications for learning design, e-learning
+    and university teaching &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.206
+  author_url: https://djon.es/blog/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
+  content: '[...] attempt to achieve quality through consistency. This is such a fundamentally
+    flawed idea, but it is still around. Sometimes it is proposed by people who should
+    know better. The idea that a [...]'
+  date: '2009-04-05 13:18:01'
+  date_gmt: '2009-04-05 03:18:01'
+  id: '1870'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Disruption and the &#8220;mythic&#8221; technologies of education &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/
+  content: '[...] about technology change - technology becomes mythic, and my own
+    views about the roles played by consistency (bad) and diversity [...]'
+  date: '2009-04-14 10:58:14'
+  date_gmt: '2009-04-14 00:58:14'
+  id: '1871'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Thoughts on Consistency &raquo; static id
+  author_email: null
+  author_ip: 69.175.2.234
+  author_url: http://www.tduggan.com/2009/06/16/thoughts-on-consistency/
+  content: "[...] just finished reading a couple of posts (here and here) by a colleague\_\
+    on the idea of consistency in university teaching and learning and it got [...]"
+  date: '2009-06-16 12:54:03'
+  date_gmt: '2009-06-16 02:54:03'
+  id: '1872'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What are the assumptions which PLEs/Learning 2.0 etc overthrow
   url: /blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/
+template: blog-post.html
 title: Another assumption which PLEs over throws
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Common sense (the things we take for granted) is the big obstacle for innovation
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/02/16/common-sense-the-things-we-take-for-granted-is-the-big-obstacle-for-innovation/
-      content: '[...] through consistency has been one of my bug bears for over 10 years.
-        Talked about briefly here. I&#8217;m a fan of Oscar Wilde&#8217;s take on consistency
-        Consistency is the last refuge of the [...]'
-      date: '2009-02-16 21:56:01'
-      date_gmt: '2009-02-16 11:56:01'
-      id: '1869'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Measuring the design process - implications for learning design, e-learning
-        and university teaching &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.206
-      author_url: https://djon.es/blog/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
-      content: '[...] attempt to achieve quality through consistency. This is such a fundamentally
-        flawed idea, but it is still around. Sometimes it is proposed by people who should
-        know better. The idea that a [...]'
-      date: '2009-04-05 13:18:01'
-      date_gmt: '2009-04-05 03:18:01'
-      id: '1870'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Disruption and the &#8220;mythic&#8221; technologies of education &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/
-      content: '[...] about technology change - technology becomes mythic, and my own
-        views about the roles played by consistency (bad) and diversity [...]'
-      date: '2009-04-14 10:58:14'
-      date_gmt: '2009-04-14 00:58:14'
-      id: '1871'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Thoughts on Consistency &raquo; static id
-      author_email: null
-      author_ip: 69.175.2.234
-      author_url: http://www.tduggan.com/2009/06/16/thoughts-on-consistency/
-      content: "[...] just finished reading a couple of posts (here and here) by a colleague\_\
-        on the idea of consistency in university teaching and learning and it got [...]"
-      date: '2009-06-16 12:54:03'
-      date_gmt: '2009-06-16 02:54:03'
-      id: '1872'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In a [previous post](/blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/) I started developing some ideas about the current assumptions associated with university learning and teaching which the concepts surrounding the nebulous term of PLEs bring into question. This post struggles with suggesting another one - consistency.
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-02-10 14:36:35+10:00
+date: 2010-02-10 04:36:35
 next:
   text: Implications arising from the absence of the "sameness of meaning"
   url: /blog/2010/02/11/implications-arising-from-the-absence-of-the-sameness-of-meaning/
 previous:
   text: BIM - Allowing staff to change student registrations
   url: /blog/2010/02/09/bim-allowing-staff-to-change-student-registrations/
+template: blog-post.html
 title: BIM - misc changes from moodle-train
 type: post
-template: blog-post.html
 ---
 Currently testing BIM on the training/testing environment of my current institution. This is where I find all of the problems from the institution's non-vanilla implementation of Moodle.
 

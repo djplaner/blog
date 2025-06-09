@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,139 +6,136 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-06-05 09:08:50+10:00
+comments: []
+date: 2009-06-04 23:08:50
 next:
   text: The teaching/research nexus - an example?
   url: /blog/2009/06/05/the-teachingresearch-nexus-an-example/
+pingbacks:
+- approved: '1'
+  author: The teaching/research nexus &#8211; an example? &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 66.135.48.210
+  author_url: https://djon.es/blog/2009/06/05/the-teachingresearch-nexus-an-example/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Ateleological processes &#8211; definition and&nbsp;weaknesses [...]'
+  date: '2009-06-05 09:48:05'
+  date_gmt: '2009-06-04 23:48:05'
+  id: '2569'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #13 &#8211; back after a week off &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/05/phd-update-13-back-after-a-week-off/
+  content: '[...] a description of ateleological processes and their weaknesses. [...]'
+  date: '2009-06-05 16:24:26'
+  date_gmt: '2009-06-05 06:24:26'
+  id: '2570'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Institutional learning and teaching strategies &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.245.226
+  author_url: https://djon.es/blog/2009/06/11/institutional-learning-and-teaching-strategies/
+  content: '[...] Process component of the Ps Framework section of my thesis. I have
+    an inkling that my bias towards ateleological processes comes through a bit strong
+    in this. May have to balance it up with some additions later [...]'
+  date: '2009-06-11 11:36:00'
+  date_gmt: '2009-06-11 01:36:00'
+  id: '2571'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: To all my friends and colleagues out there &#8211; PhD etiquette &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/06/14/to-all-my-friends-and-colleagues-out-there-phd-etiquette/
+  content: '[...] feel free to read other sections of the thesis completed recently
+    on teleological processes and ateleological processes) &#8211; see some progress
+    is being [...]'
+  date: '2009-06-14 11:30:30'
+  date_gmt: '2009-06-14 01:30:30'
+  id: '2572'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Questions about alternatives to curriculum mapping &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.248.141
+  author_url: https://djon.es/blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
+  content: '[...] I have previously, briefly described the mechanics of such a solution.
+    There is more to it than just this, but it provides one concrete example. The
+    theory behind bottom-up or emergent approaches is discussed in more detail in
+    a sequence of posts: overview, teleological and ateleological. [...]'
+  date: '2010-01-19 13:20:13'
+  date_gmt: '2010-01-19 03:20:13'
+  id: '2573'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Challenges in developing innovative pedagogy in blended learning: The case
+    of BIM &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.201
+  author_url: https://djon.es/blog/2010/02/06/challenges-in-developing-innovative-pedagogy-in-blended-learning-the-case-of-bim/
+  content: '[...] inductive and deductive, which are inappropriate for the nature
+    of the problem.Alternatives include ateleological processes, bricolage (especially
+    in terms of Papert &#8211; education &#8211; and Ciborra &#8211; information [...]'
+  date: '2010-02-07 16:46:48'
+  date_gmt: '2010-02-07 06:46:48'
+  id: '2574'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.72
+  author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
+  content: '[...] have a long standing preference for ateleological design processes
+    and have a (potentially forlorn) hope that the alignment project might be more
+    ateleological than [...]'
+  date: '2010-05-14 14:14:18'
+  date_gmt: '2010-05-14 04:14:18'
+  id: '2575'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Reading &#8211; Embracing Big Data in Complex Educational Systems: The
+    Learning Analytics Imperative and the Policy Challenge | The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 192.0.83.69
+  author_url: https://davidtjones.wordpress.com/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
+  content: '[&#8230;] the need for institutional to be enabling actors within institutions
+    to integrate greater use of ateleological processes (see Clegg, 2002). Of course,
+    Clegg goes onto do the obvious and develop a &#8220;dialectical [&#8230;]'
+  date: '2015-06-14 18:05:15'
+  date_gmt: '2015-06-14 08:05:15'
+  id: '2576'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Teleological design - definition and weaknesses
   url: /blog/2009/06/05/teleological-design-definition-and-weaknesses/
+template: blog-post.html
 title: Ateleological processes - definition and weaknesses
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The teaching/research nexus &#8211; an example? &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 66.135.48.210
-      author_url: https://djon.es/blog/2009/06/05/the-teachingresearch-nexus-an-example/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Ateleological processes &#8211; definition and&nbsp;weaknesses [...]'
-      date: '2009-06-05 09:48:05'
-      date_gmt: '2009-06-04 23:48:05'
-      id: '2569'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #13 &#8211; back after a week off &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/05/phd-update-13-back-after-a-week-off/
-      content: '[...] a description of ateleological processes and their weaknesses. [...]'
-      date: '2009-06-05 16:24:26'
-      date_gmt: '2009-06-05 06:24:26'
-      id: '2570'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Institutional learning and teaching strategies &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.245.226
-      author_url: https://djon.es/blog/2009/06/11/institutional-learning-and-teaching-strategies/
-      content: '[...] Process component of the Ps Framework section of my thesis. I have
-        an inkling that my bias towards ateleological processes comes through a bit strong
-        in this. May have to balance it up with some additions later [...]'
-      date: '2009-06-11 11:36:00'
-      date_gmt: '2009-06-11 01:36:00'
-      id: '2571'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: To all my friends and colleagues out there &#8211; PhD etiquette &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/06/14/to-all-my-friends-and-colleagues-out-there-phd-etiquette/
-      content: '[...] feel free to read other sections of the thesis completed recently
-        on teleological processes and ateleological processes) &#8211; see some progress
-        is being [...]'
-      date: '2009-06-14 11:30:30'
-      date_gmt: '2009-06-14 01:30:30'
-      id: '2572'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Questions about alternatives to curriculum mapping &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.248.141
-      author_url: https://djon.es/blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
-      content: '[...] I have previously, briefly described the mechanics of such a solution.
-        There is more to it than just this, but it provides one concrete example. The
-        theory behind bottom-up or emergent approaches is discussed in more detail in
-        a sequence of posts: overview, teleological and ateleological. [...]'
-      date: '2010-01-19 13:20:13'
-      date_gmt: '2010-01-19 03:20:13'
-      id: '2573'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Challenges in developing innovative pedagogy in blended learning: The case
-        of BIM &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.201
-      author_url: https://djon.es/blog/2010/02/06/challenges-in-developing-innovative-pedagogy-in-blended-learning-the-case-of-bim/
-      content: '[...] inductive and deductive, which are inappropriate for the nature
-        of the problem.Alternatives include ateleological processes, bricolage (especially
-        in terms of Papert &#8211; education &#8211; and Ciborra &#8211; information [...]'
-      date: '2010-02-07 16:46:48'
-      date_gmt: '2010-02-07 06:46:48'
-      id: '2574'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.72
-      author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
-      content: '[...] have a long standing preference for ateleological design processes
-        and have a (potentially forlorn) hope that the alignment project might be more
-        ateleological than [...]'
-      date: '2010-05-14 14:14:18'
-      date_gmt: '2010-05-14 04:14:18'
-      id: '2575'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Reading &#8211; Embracing Big Data in Complex Educational Systems: The
-        Learning Analytics Imperative and the Policy Challenge | The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 192.0.83.69
-      author_url: https://davidtjones.wordpress.com/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
-      content: '[&#8230;] the need for institutional to be enabling actors within institutions
-        to integrate greater use of ateleological processes (see Clegg, 2002). Of course,
-        Clegg goes onto do the obvious and develop a &#8220;dialectical [&#8230;]'
-      date: '2015-06-14 18:05:15'
-      date_gmt: '2015-06-14 08:05:15'
-      id: '2576'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following post offers a description of ateleological processes and their weaknesses. It's a version 1 draft from the process components of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) for chapter 2 of my [thesis](/blog/research/phd-thesis/). A [previous post](/blog/2009/05/25/teleological-and-ateleological-processes/) gave a brief overview of teleological and ateleological processes and another [described teleological processes and their weaknesses](/blog/2009/06/05/teleological-design-definition-and-weaknesses/).
 

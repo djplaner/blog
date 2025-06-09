@@ -1,133 +1,131 @@
----
+﻿---
 categories:
 - bad
 - digitalignorance
-date: 2016-06-27 09:35:23+10:00
+comments:
+- approved: '1'
+  author: lenandlar
+  author_email: lenandlar@gmail.com
+  author_ip: 190.108.211.115
+  author_url: null
+  content: "Thanks for starting this. Looking forward to more. One thing I'd say is\
+    \ that most of digital technologies remain a black box for many many educators\
+    \ because they simply use it as is largely because well most of the technologies\
+    \ do not allow reprogramming.\n\n I'm not suggesting educators make their own\
+    \ technology tho that'd be cool. But when I see the stuff you do with noodle for\
+    \ example I think that's a model that could work very well."
+  date: '2016-06-27 20:33:10'
+  date_gmt: '2016-06-27 10:33:10'
+  id: '3368'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 101.177.172.248
+  author_url: https://djon.es/blog/
+  content: We're in firm agreement then, about the value of tinkering.  That is one
+    of the arguments I'm going to make in the next post.  It will also touch on the
+    black box problem.
+  date: '2016-06-28 07:05:14'
+  date_gmt: '2016-06-27 21:05:14'
+  id: '3369'
+  parent: '3368'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 101.183.230.143
+  author_url: http://elketeaches.wordpress.com
+  content: 'Hey David.
+
+
+    Thanks for explaining data homogenisation here, this is the best explanation I''ve
+    read in a while.
+
+
+    For far too long I suspect that there have been too many ''middle men'' between
+    digital programmers and system''s users, thereby developing a disconnect between
+    them through a general attitude of disrespect. I have read that in the IT industry
+    there has been a growing trend of removing the traditional ''Business Analyst''
+    role and moving to a Programmer (speaks to) User model. However, educational organisations
+    are usually behind industry trends and given the general mistrust shown to the
+    users (teachers) the ''middle men'' still exist and still help create systems
+    that don''t work for ''every'' user &amp; can''t be updated by the user.'
+  date: '2016-07-02 14:27:04'
+  date_gmt: '2016-07-02 04:27:04'
+  id: '3371'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 101.177.172.248
+  author_url: https://djon.es/blog/
+  content: 'Each time I practice it''s getting better.  By the time of the presentation
+    it might be polished a bit more.  Need to get some of the later parts of this
+    completed, some more interesting stuff comes up there.
+
+
+    For a long time I''ve thought that the business analyst role is a problem. Adds
+    another layer of interpretation that can cause problems.  That''s a general observation,
+    there are always examples of where that doesn''t always work - simply because
+    of the distance between the user and the programmer.
+
+
+    What I find a little frightening is that some organisations are doing away with
+    programmers all together. They''ve forgone the protean nature of digital technology.'
+  date: '2016-07-02 16:29:22'
+  date_gmt: '2016-07-02 06:29:22'
+  id: '3372'
+  parent: '3371'
+  type: comment
+  user_id: '1'
+date: 2016-06-26 23:35:23
 next:
   text: The nature of digital technology? Part 2
   url: /blog/2016/06/28/the-nature-of-digital-technology-part-2/
+pingbacks:
+- approved: '1'
+  author: The nature of digital technology? Part 2 &#8211; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.100.241
+  author_url: https://davidtjones.wordpress.com/2016/06/28/the-nature-of-digital-technology-part-2/
+  content: '[&#8230;] is a followup to yesterday&#8217;s Part 1 post and a continuation
+    of an attempt to describe the nature of digital technology and to think about
+    [&#8230;]'
+  date: '2016-06-28 11:38:18'
+  date_gmt: '2016-06-28 01:38:18'
+  id: '3370'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What is the nature of digital technology? Part ...
+  author_email: null
+  author_ip: 185.82.148.10
+  author_url: http://www.scoop.it/t/21st-century-school-libraries-by-sarah-betteridge/p/4067109768/2016/08/03/what-is-the-nature-of-digital-technology-part-1
+  content: '[&#8230;] Formal education in most of its forms is still struggling to
+    effectively harness digital technology to enhance and transform learning and teaching.
+    Even with a history for 40+ years of various attempts. The reasons for this are
+    numerous and diverse. The following is an attempt to look at one of the reasons.
+    A reason, at&hellip;&nbsp; [&#8230;]'
+  date: '2016-08-03 14:08:32'
+  date_gmt: '2016-08-03 04:08:32'
+  id: '3373'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Learn to code for data analyis - step 1
   url: /blog/2016/06/19/learn-to-code-for-data-analyis-step-1/
+template: blog-post.html
 title: What is the nature of digital technology? Part 1
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: lenandlar
-      author_email: lenandlar@gmail.com
-      author_ip: 190.108.211.115
-      author_url: null
-      content: "Thanks for starting this. Looking forward to more. One thing I'd say is\
-        \ that most of digital technologies remain a black box for many many educators\
-        \ because they simply use it as is largely because well most of the technologies\
-        \ do not allow reprogramming.\n\n I'm not suggesting educators make their own\
-        \ technology tho that'd be cool. But when I see the stuff you do with noodle for\
-        \ example I think that's a model that could work very well."
-      date: '2016-06-27 20:33:10'
-      date_gmt: '2016-06-27 10:33:10'
-      id: '3368'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 101.177.172.248
-      author_url: https://djon.es/blog/
-      content: We're in firm agreement then, about the value of tinkering.  That is one
-        of the arguments I'm going to make in the next post.  It will also touch on the
-        black box problem.
-      date: '2016-06-28 07:05:14'
-      date_gmt: '2016-06-27 21:05:14'
-      id: '3369'
-      parent: '3368'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 101.183.230.143
-      author_url: http://elketeaches.wordpress.com
-      content: 'Hey David.
-    
-    
-        Thanks for explaining data homogenisation here, this is the best explanation I''ve
-        read in a while.
-    
-    
-        For far too long I suspect that there have been too many ''middle men'' between
-        digital programmers and system''s users, thereby developing a disconnect between
-        them through a general attitude of disrespect. I have read that in the IT industry
-        there has been a growing trend of removing the traditional ''Business Analyst''
-        role and moving to a Programmer (speaks to) User model. However, educational organisations
-        are usually behind industry trends and given the general mistrust shown to the
-        users (teachers) the ''middle men'' still exist and still help create systems
-        that don''t work for ''every'' user &amp; can''t be updated by the user.'
-      date: '2016-07-02 14:27:04'
-      date_gmt: '2016-07-02 04:27:04'
-      id: '3371'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 101.177.172.248
-      author_url: https://djon.es/blog/
-      content: 'Each time I practice it''s getting better.  By the time of the presentation
-        it might be polished a bit more.  Need to get some of the later parts of this
-        completed, some more interesting stuff comes up there.
-    
-    
-        For a long time I''ve thought that the business analyst role is a problem. Adds
-        another layer of interpretation that can cause problems.  That''s a general observation,
-        there are always examples of where that doesn''t always work - simply because
-        of the distance between the user and the programmer.
-    
-    
-        What I find a little frightening is that some organisations are doing away with
-        programmers all together. They''ve forgone the protean nature of digital technology.'
-      date: '2016-07-02 16:29:22'
-      date_gmt: '2016-07-02 06:29:22'
-      id: '3372'
-      parent: '3371'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: The nature of digital technology? Part 2 &#8211; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.100.241
-      author_url: https://davidtjones.wordpress.com/2016/06/28/the-nature-of-digital-technology-part-2/
-      content: '[&#8230;] is a followup to yesterday&#8217;s Part 1 post and a continuation
-        of an attempt to describe the nature of digital technology and to think about
-        [&#8230;]'
-      date: '2016-06-28 11:38:18'
-      date_gmt: '2016-06-28 01:38:18'
-      id: '3370'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What is the nature of digital technology? Part ...
-      author_email: null
-      author_ip: 185.82.148.10
-      author_url: http://www.scoop.it/t/21st-century-school-libraries-by-sarah-betteridge/p/4067109768/2016/08/03/what-is-the-nature-of-digital-technology-part-1
-      content: '[&#8230;] Formal education in most of its forms is still struggling to
-        effectively harness digital technology to enhance and transform learning and teaching.
-        Even with a history for 40+ years of various attempts. The reasons for this are
-        numerous and diverse. The following is an attempt to look at one of the reasons.
-        A reason, at&hellip;&nbsp; [&#8230;]'
-      date: '2016-08-03 14:08:32'
-      date_gmt: '2016-08-03 04:08:32'
-      id: '3373'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Formal education in most of its forms is still struggling to effectively harness digital technology to enhance and transform learning and teaching. Even with a history for 40+ years of various attempts. The reasons for this are numerous and diverse. The following is an attempt to look at one of the reasons. A reason, at least to me, which seems to have be somewhat ignored.
 
@@ -139,7 +137,7 @@ The following is a first attempt to frame some thinking that is moving towards [
 
 For most people digital technology is a black box. Regardless of what type of digital technology, it's a black box.
 
-[![DT black box](images/27923205425_cc665e0972_m.jpg)](https://www.flickr.com/photos/david_jones/27923205425/in/dateposted-public/ "DT black box") Orlikowski and Iacono (2001) label this the tool view of technology which
+[![DT black box](https://djon.es/assets/blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/images/27923205425_cc665e0972_m.jpg)](https://www.flickr.com/photos/david_jones/27923205425/in/dateposted-public/ "DT black box") Orlikowski and Iacono (2001) label this the tool view of technology which
 
 represents the common, received wisdom about what technology is and means. Technology, from this view is the engineered artifact, expected to do what its designers intend it to do. (p. 123)
 
@@ -149,7 +147,7 @@ My attempt here at opening up the black box of digital technology perhaps best f
 
 ## Fundamental properties of digital technology
 
-Yoo, Boland, Lyytinen, and Majchrzak (2012) argue that the "fundamental properties of digital technology are reprogrammability and data homogenization" (p. 1398) [![Fundamental Properties](images/27923903105_4d8b529e0f.jpg)](https://www.flickr.com/photos/david_jones/27923903105/in/dateposted-public/ "Fundamental Properties")
+Yoo, Boland, Lyytinen, and Majchrzak (2012) argue that the "fundamental properties of digital technology are reprogrammability and data homogenization" (p. 1398) [![Fundamental Properties](https://djon.es/assets/blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/images/27923903105_4d8b529e0f.jpg)](https://www.flickr.com/photos/david_jones/27923903105/in/dateposted-public/ "Fundamental Properties")
 
 ### Data homogenization
 
@@ -159,7 +157,7 @@ Analog technologies, on the other hand, have a tight coupling between content an
 
 Data homogenization is the primary reason why you - as per the standard meme - can now carry all of the following in your pocket.
 
-![convergence.jpg](images/convergence.jpg)
+![convergence.jpg](https://djon.es/assets/blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/images/convergence.jpg)
 
  
 

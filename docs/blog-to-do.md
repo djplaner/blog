@@ -1,9 +1,8 @@
----
-title: Blog todo
+﻿---
 categories:
-    - colophon
+- colophon
+title: Blog todo
 ---
-
 See also: [[about]]
 
 A nascent todo list

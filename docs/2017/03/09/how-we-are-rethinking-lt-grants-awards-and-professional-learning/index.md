@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - eei
-date: 2017-03-09 14:21:51+10:00
+date: 2017-03-09 04:21:51
 next:
   text: Reflecting on playing with learning analytics
   url: /blog/2017/03/10/reflecting-on-playing-with-analytics/
 previous:
   text: Communication and professional learning for teaching at Universities
   url: /blog/2017/03/09/communication-and-professional-learning-for-teaching-at-universities/
+template: blog-post.html
 title: How we are rethinking L&T grants, awards and professional learning
 type: post
-template: blog-post.html
 ---
 The team I work with have been tasked to rethink how our institution does teaching awards, grants, and professional learning opportunities. i.e. the funding our institution provides to teaching focused staff in recognition of quality work (awards), to develop a good idea (grants), or learn something new (professional learning opportunities). Since I'm strange, we're using a slightly different approach (at least based on reactions so far) to what others are used to. The following is an attempt to explain the approach and what passes for the thinking behind it.
 

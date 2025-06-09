@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - c2d2
-date: 2007-12-11 16:06:33+10:00
+date: 2007-12-11 06:06:33
 next:
   text: Why is one not necessarily cheaper than two
   url: /blog/2007/12/13/why-is-one-not-necessarily-cheaper-than-two/
@@ -10,9 +10,9 @@ previous:
   url: /blog/2007/11/21/extreme-learning-and-teaching/
 tags:
 - cddu-curriculumdesign-complexity-c2d2
+template: blog-post.html
 title: New approaches to curriculum design informed by complexity
 type: post
-template: blog-post.html
 ---
 For a long time I've felt disquiet about the "super-rational" approach to design and development. I'm including both for information systems development (my original discipline and interest) and curriculum design/e-learning (my current job).
 

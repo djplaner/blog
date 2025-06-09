@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - edc3100
 - pstn
 - teaching
-date: 2012-01-30 15:29:12+10:00
+date: 2012-01-30 05:29:12
 next:
   text: '"Thinking about the Preservice teaching networking (#pstn) project"'
   url: /blog/2012/01/31/thinking-about-the-preservice-teaching-networking-pstn-project/
 previous:
   text: Understanding trends around ICTs
   url: /blog/2012/01/26/understanding-trends-around-icts/
+template: blog-post.html
 title: Models of Teacher PD  for ICT integration
 type: post
-template: blog-post.html
 ---
 The following is a summary/reflection upon "[Making better connections: Models of teacher professional development for the integration of information and communication technology into classroom practice](http://www.dest.gov.au/archive/schools/publications/2002/MBC.pdf)". A report funded by the Australian Federal Department of Education written by a range of folk, including a few names I recognise.
 

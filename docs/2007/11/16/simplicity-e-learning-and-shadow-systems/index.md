@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - design-theory
 - herding-cats
 - ple
-date: 2007-11-16 08:34:01+10:00
+date: 2007-11-15 22:34:01
 next:
   text: Extreme learning and teaching
   url: /blog/2007/11/21/extreme-learning-and-teaching/
 previous:
   text: Integrated VLEs/LMSs - benefits and fixes
   url: /blog/2007/11/09/integrated-vleslmss-benefits-and-fixes/
+template: blog-post.html
 title: Simplicity, e-learning and shadow systems
 type: post
-template: blog-post.html
 ---
 [BJ Fogg](http://www.bjfogg.com/) looks like an interesting sort of guy, particularly with the work [CDDU](http://cddu.cqu.edu.au/) may be doing over coming years with e-learning, PLEs etc. From his home page, he is a psychologist who investigates how people use technology.
 

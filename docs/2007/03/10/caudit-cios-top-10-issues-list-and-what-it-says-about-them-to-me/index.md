@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - elearning
 - information-systems
-date: 2007-03-10 21:06:25+10:00
+date: 2007-03-10 11:06:25
 next:
   text: Ateleological development as a "better way" to develop university e-learning
     systems
@@ -10,9 +10,9 @@ next:
 previous:
   text: Thesis 1.2 - Background to the research
   url: /blog/2007/03/10/thesis-12-background-to-the-research/
+template: blog-post.html
 title: CAUDIT CIO's top 10 issues list - and what it says about them (to me)
 type: post
-template: blog-post.html
 ---
 According to their website [CAUDIT](http://www.caudit.edu.au/) is described as
 

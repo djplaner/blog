@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - webfuse
-date: 2006-09-30 22:50:50+10:00
+date: 2006-09-30 12:50:50
 next:
   text: Examples of free content (Universitites)
   url: /blog/2006/10/02/examples-of-free-content-universitites/
 previous:
   text: What is online teaching
   url: /blog/2006/09/29/what-is-online-teaching/
+template: blog-post.html
 title: Today's knowledge climate - why Webfuse approach is better
 type: post
-template: blog-post.html
 ---
 George Siemens has a [online presentation](http://www.icwe.net/oeb_special/downloads/siemens/online_educa/player.html) intended to introduce key concepts for a [presentation](http://www.elearnspace.org/blog/archives/002636.html) he is giving at [Online Educa](http://www.online-educa.com/).
 

@@ -1,71 +1,68 @@
----
+﻿---
 categories:
 - elearning
 - highereducation
 - indicators
 - irac
-date: 2013-07-14 21:58:00+10:00
+comments: []
+date: 2013-07-14 11:58:00
 next:
   text: How are they feeling - Semester 2 - Part 1
   url: /blog/2013/07/18/how-are-they-feeling-semester-2-part-1/
+pingbacks:
+- approved: '1'
+  author: IRAC - Four questions for learning analytics in...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/learning-analytics-by-floyd-figures/p/4004637120/irac-four-questions-for-learning-analytics-interventions
+  content: '[&#8230;] The following is an early description of work arising out of
+    The Indicators Project an ongoing attempt to think about learning analytics. With
+    IRAC (Information, Representation, Affordances and Cha...&nbsp; [&#8230;]'
+  date: '2013-07-15 02:58:41'
+  date_gmt: '2013-07-14 16:58:41'
+  id: '808'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: IRAC - Four questions for learning analytics in...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/sna-social-network-analysis/p/4004681838/irac-four-questions-for-learning-analytics-interventions
+  content: '[&#8230;] &quot;The following is an early description of work arising
+    out of The Indicators Project an ongoing attempt to think about learning analytics.
+    With IRAC (Information, Representation, Affordances and Change) Colin Beer, Damien
+    Clark and I are trying to develop a set of questions that can guide the use of
+    learning analytics to improve learning and teaching. The following briefly describes:Why
+    we&rsquo;re doing this?Introduces some of our assumptions.Touches on the origins
+    of IRAC.Describes the four questions.A very early and rough attempt to use the
+    four questions to think about existing approaches to learning analytics.&quot;...&nbsp;
+    [&#8230;]'
+  date: '2013-07-16 00:48:40'
+  date_gmt: '2013-07-15 14:48:40'
+  id: '809'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Learning Analytics: The Emergence of a Discipline | The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/09/04/learning-analytics-the-emergence-of-a-discipline/
+  content: '[&#8230;] I prefer IRAC, but then I&#8217;m [&#8230;]'
+  date: '2013-09-04 09:15:25'
+  date_gmt: '2013-09-03 23:15:25'
+  id: '810'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A quick search for a Google reader alternative
   url: /blog/2013/07/07/a-quick-search-for-a-google-reader-alternative/
+template: blog-post.html
 title: IRAC - Four questions for learning analytics interventions
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: IRAC - Four questions for learning analytics in...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/learning-analytics-by-floyd-figures/p/4004637120/irac-four-questions-for-learning-analytics-interventions
-      content: '[&#8230;] The following is an early description of work arising out of
-        The Indicators Project an ongoing attempt to think about learning analytics. With
-        IRAC (Information, Representation, Affordances and Cha...&nbsp; [&#8230;]'
-      date: '2013-07-15 02:58:41'
-      date_gmt: '2013-07-14 16:58:41'
-      id: '808'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: IRAC - Four questions for learning analytics in...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/sna-social-network-analysis/p/4004681838/irac-four-questions-for-learning-analytics-interventions
-      content: '[&#8230;] &quot;The following is an early description of work arising
-        out of The Indicators Project an ongoing attempt to think about learning analytics.
-        With IRAC (Information, Representation, Affordances and Change) Colin Beer, Damien
-        Clark and I are trying to develop a set of questions that can guide the use of
-        learning analytics to improve learning and teaching. The following briefly describes:Why
-        we&rsquo;re doing this?Introduces some of our assumptions.Touches on the origins
-        of IRAC.Describes the four questions.A very early and rough attempt to use the
-        four questions to think about existing approaches to learning analytics.&quot;...&nbsp;
-        [&#8230;]'
-      date: '2013-07-16 00:48:40'
-      date_gmt: '2013-07-15 14:48:40'
-      id: '809'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Learning Analytics: The Emergence of a Discipline | The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/09/04/learning-analytics-the-emergence-of-a-discipline/
-      content: '[&#8230;] I prefer IRAC, but then I&#8217;m [&#8230;]'
-      date: '2013-09-04 09:15:25'
-      date_gmt: '2013-09-03 23:15:25'
-      id: '810'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an early description of work arising out of [The Indicators Project](http://indicatorsproject.wordpress.com/) an ongoing attempt to think about learning analytics. With IRAC (Information, Representation, Affordances and Change) [Colin Beer](http://beerc.wordpress.com/), [Damien Clark](http://damosworld.wordpress.com/) and I are trying to develop a set of questions that can guide the use of learning analytics to improve learning and teaching. The following briefly describes:
 

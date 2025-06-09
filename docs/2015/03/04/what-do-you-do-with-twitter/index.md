@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - edc3100
 - pkm
 - twitter
-date: 2015-03-04 10:18:53+10:00
+comments:
+- approved: '1'
+  author: debliriges
+  author_email: liriges@usq.edu.au
+  author_ip: 139.86.9.85
+  author_url: http://debliriges.wordpress.com
+  content: Thanks for the digital literacy link David - helping out our EEP working
+    group
+  date: '2015-03-04 17:34:37'
+  date_gmt: '2015-03-04 07:34:37'
+  id: '1235'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.32
+  author_url: https://djon.es/blog/
+  content: Deb, came across the <a href="http://digitalstudent.jiscinvolve.org/wp/fe-and-skills-digital-student-study/"
+    rel="nofollow">JISC Digital Student project</a> this morning.  Seems related,
+    might be useful. You may already know of it.
+  date: '2015-03-05 07:49:40'
+  date_gmt: '2015-03-04 21:49:40'
+  id: '1236'
+  parent: '1235'
+  type: comment
+  user_id: '1'
+date: 2015-03-04 00:18:53
 next:
   text: Ways to raise visiblity of unit planning
   url: /blog/2015/03/23/ways-to-raise-visiblity-of-unit-planning/
+pingbacks: []
 previous:
   text: The edc3100 &quot;inspirational posters&quot;
   url: /blog/2015/03/01/the-edc3100-inspirational-posters/
+template: blog-post.html
 title: What do you do with Twitter?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: debliriges
-      author_email: liriges@usq.edu.au
-      author_ip: 139.86.9.85
-      author_url: http://debliriges.wordpress.com
-      content: Thanks for the digital literacy link David - helping out our EEP working
-        group
-      date: '2015-03-04 17:34:37'
-      date_gmt: '2015-03-04 07:34:37'
-      id: '1235'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.32
-      author_url: https://djon.es/blog/
-      content: Deb, came across the <a href="http://digitalstudent.jiscinvolve.org/wp/fe-and-skills-digital-student-study/"
-        rel="nofollow">JISC Digital Student project</a> this morning.  Seems related,
-        might be useful. You may already know of it.
-      date: '2015-03-05 07:49:40'
-      date_gmt: '2015-03-04 21:49:40'
-      id: '1236'
-      parent: '1235'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 I was sitting in the first tutorial for EDC3100, ICT and Pedagogy yesterday when I overheard a student ask another, "What do you do with Twitter?". There are many answers to this, this is what I did with Twitter this morning.
 

@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - 4paths
 - indicators
 - irac
 - moodle
-date: 2015-06-18 22:48:06+10:00
+comments: []
+date: 2015-06-18 12:48:06
 next:
   text: '"Dashboards suck: learning analytics'' broken metaphor"'
   url: /blog/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/
+pingbacks:
+- approved: '1'
+  author: Complicated or Complex Article | Col&#039;s Weblog
+  author_email: null
+  author_ip: 192.0.83.69
+  author_url: https://beerc.wordpress.com/2015/09/04/complicated-or-complex-article/
+  content: "[&#8230;] is something we were alluding to in our complexity paper some\
+    \ time ago and is a key part of the IRAC framework. Information needs to be represented\
+    \ appropriately in context with the task it\u2019s associated with, [&#8230;]"
+  date: '2015-09-04 16:52:30'
+  date_gmt: '2015-09-04 06:52:30'
+  id: '1337'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Exploring BIM + sentiment analysis - what might it say about student blog
     posts
   url: /blog/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/
+template: blog-post.html
 title: Revisiting the IRAC framework and looking for insights
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Complicated or Complex Article | Col&#039;s Weblog
-      author_email: null
-      author_ip: 192.0.83.69
-      author_url: https://beerc.wordpress.com/2015/09/04/complicated-or-complex-article/
-      content: "[&#8230;] is something we were alluding to in our complexity paper some\
-        \ time ago and is a key part of the IRAC framework. Information needs to be represented\
-        \ appropriately in context with the task it\u2019s associated with, [&#8230;]"
-      date: '2015-09-04 16:52:30'
-      date_gmt: '2015-09-04 06:52:30'
-      id: '1337'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The Moodlemoot'AU 2015 conference is running [working groups](https://mootau15.moodlemoot.org/mod/page/view.php?id=108) one of which is looking at assessment analytics. In essence, trying to think about what can be done in the Moodle LMS code to enhance assessment.
 
@@ -66,11 +63,11 @@ Once you've got your particular context and task in mind, then you can start thi
 
 Interestingly, not long after we'd submitted the paper for reviewing, Siemens (2013) came out and that paper included the following Learning Analytics (LA) Model (LAM) (click on the image to see a larger version). LAM was meant to help move LA from small scale "bottom-up" approaches into a more systemic and institutional approach. The "data team" was given significant emphasis in this.
 
-[![Siemens (2013) Learning Analytics Model](images/9662456144_51b12d6057_n.jpg)](https://www.flickr.com/photos/david_jones/9662456144 "Siemens (2013) Learning Analytics Model by David Jones, on Flickr")
+[![Siemens (2013) Learning Analytics Model](https://djon.es/assets/blog/2015/06/18/revisiting-the-irac-framework-and-looking-for-insights/images/9662456144_51b12d6057_n.jpg)](https://www.flickr.com/photos/david_jones/9662456144 "Siemens (2013) Learning Analytics Model by David Jones, on Flickr")
 
 Hopefully you can see how the Siemens' LAM and the IRAC framework, at least on the surface, seem to cover much of the same ground. In case you can't, the following image (click on it to see a larger version) makes that connection explicit.
 
-[![IRAC and LAM](images/18916535115_a05043fcb0_n.jpg)](https://www.flickr.com/photos/david_jones/18916535115 "IRAC and LAM by David Jones, on Flickr")
+[![IRAC and LAM](https://djon.es/assets/blog/2015/06/18/revisiting-the-irac-framework-and-looking-for-insights/images/18916535115_a05043fcb0_n.jpg)](https://www.flickr.com/photos/david_jones/18916535115 "IRAC and LAM by David Jones, on Flickr")
 
 ### Gathering insights from IRAC and LAM
 
@@ -120,7 +117,7 @@ The [abstract for the Moot presentation](https://mootau15.moodlemoot.org/mod/dat
     (and I really do need to revisit the Wise paper).
     
 
-[![Norman on affordances](images/18656913650_b2a17f2513_n.jpg)](https://www.flickr.com/photos/david_jones/18656913650 "Norman on affordances by David Jones, on Flickr")
+[![Norman on affordances](https://djon.es/assets/blog/2015/06/18/revisiting-the-irac-framework-and-looking-for-insights/images/18656913650_b2a17f2513_n.jpg)](https://www.flickr.com/photos/david_jones/18656913650 "Norman on affordances by David Jones, on Flickr")
 
 ### References
 

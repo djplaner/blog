@@ -1,70 +1,67 @@
----
+﻿---
 categories:
 - edc3100
 - teaching
-date: 2013-01-23 13:07:08+10:00
+comments: []
+date: 2013-01-23 03:07:08
 next:
   text: 1000 blog posts - a time to look back
   url: /blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
+pingbacks:
+- approved: '1'
+  author: Taking a look at the &ldquo;Decoding Learning&rdquo; report | A New Society,
+    a new education! | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/a-new-society-a-new-education/p/3995369672/taking-a-look-at-the-decoding-learning-report
+  content: '[...] Late last year Nesta &ndash; a UK-based charity &ndash; released
+    the report Decoding learning: The proof promise and potential of digital education.
+    Nesta commissioned the London Knowledge Lab and ...&nbsp; [...]'
+  date: '2013-01-23 18:46:32'
+  date_gmt: '2013-01-23 08:46:32'
+  id: '589'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Taking a look at the &ldquo;Decoding Learning&rdquo; report | Personal e-Learning
+    Environments | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educational-landscapes/p/3995520155/taking-a-look-at-the-decoding-learning-report
+  content: '[...] Late last year Nesta &ndash; a UK-based charity &ndash; released
+    the report Decoding learning: The proof promise and potential of digital education.
+    Nesta commissioned the London Knowledge Lab and ...&nbsp; [...]'
+  date: '2013-01-26 18:34:23'
+  date_gmt: '2013-01-26 08:34:23'
+  id: '590'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Fuera de campo &mdash; [cita] Tecnolog\xEDa, educaci\xF3n y transformaci\xF3\
+    n"
+  author_email: null
+  author_ip: 173.236.169.240
+  author_url: http://www.danieljimenez.org/blog/cita-tecnologia-educacion-y-transformacion/
+  content: "[&#8230;] Digital technologies have a profound impact on management of\
+    \ learning but \u201Cevidence of digital technologies producing real transformation\
+    \ in learning and teaching remains elusive\u201D (p. 8)  \u2014 Taking a look\
+    \ at the \u201CDecoding Learning\u201D report \xAB\_The Weblog of (a) David Jones\
+    \ [&#8230;]"
+  date: '2015-03-06 12:25:30'
+  date_gmt: '2015-03-06 02:25:30'
+  id: '591'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A sign of limitations of institution hosted e-portfolios? And cost as the
     ultimate driver
   url: /blog/2013/01/21/a-sign-of-limitations-of-institution-hosted-e-portfolios-and-cost-as-the-ultimate-driver/
+template: blog-post.html
 title: Taking a look at the "Decoding Learning" report
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Taking a look at the &ldquo;Decoding Learning&rdquo; report | A New Society,
-        a new education! | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/a-new-society-a-new-education/p/3995369672/taking-a-look-at-the-decoding-learning-report
-      content: '[...] Late last year Nesta &ndash; a UK-based charity &ndash; released
-        the report Decoding learning: The proof promise and potential of digital education.
-        Nesta commissioned the London Knowledge Lab and ...&nbsp; [...]'
-      date: '2013-01-23 18:46:32'
-      date_gmt: '2013-01-23 08:46:32'
-      id: '589'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Taking a look at the &ldquo;Decoding Learning&rdquo; report | Personal e-Learning
-        Environments | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educational-landscapes/p/3995520155/taking-a-look-at-the-decoding-learning-report
-      content: '[...] Late last year Nesta &ndash; a UK-based charity &ndash; released
-        the report Decoding learning: The proof promise and potential of digital education.
-        Nesta commissioned the London Knowledge Lab and ...&nbsp; [...]'
-      date: '2013-01-26 18:34:23'
-      date_gmt: '2013-01-26 08:34:23'
-      id: '590'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Fuera de campo &mdash; [cita] Tecnolog\xEDa, educaci\xF3n y transformaci\xF3\
-        n"
-      author_email: null
-      author_ip: 173.236.169.240
-      author_url: http://www.danieljimenez.org/blog/cita-tecnologia-educacion-y-transformacion/
-      content: "[&#8230;] Digital technologies have a profound impact on management of\
-        \ learning but \u201Cevidence of digital technologies producing real transformation\
-        \ in learning and teaching remains elusive\u201D (p. 8)  \u2014 Taking a look\
-        \ at the \u201CDecoding Learning\u201D report \xAB\_The Weblog of (a) David Jones\
-        \ [&#8230;]"
-      date: '2015-03-06 12:25:30'
-      date_gmt: '2015-03-06 02:25:30'
-      id: '591'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Late last year Nesta - a UK-based charity - released the report [Decoding learning: The proof promise and potential of digital education](http://www.nesta.org.uk/about_us/assets/features/decoding_learning_report). Nesta commissioned the London Knowledge Lab and the Learning Sciences Research Institute at the University of Nottingham to "analyse how technology has been used in the UK education systems and lessons from around the world. Uniquely, we wanted this to be set within a clear framework for better understanding the impact on learning experiences".
 

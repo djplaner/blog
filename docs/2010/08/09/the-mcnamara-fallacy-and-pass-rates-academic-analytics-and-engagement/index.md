@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - highereducation
 - indicators
-date: 2010-08-09 22:33:20+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.179.184
+  author_url: http://www.vrbones.com
+  content: I'm interested in Col's analysis of engagement, but the link to the writeup
+    seems to be broken (no href).
+  date: '2010-08-10 14:44:58'
+  date_gmt: '2010-08-10 04:44:58'
+  id: '3145'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-08-09 12:33:20
 next:
   text: Background to the thesis
   url: /blog/2010/08/12/background-to-the-thesis/
+pingbacks: []
 previous:
   text: Wicked problems and the need to engage with differing perspectives
   url: /blog/2010/08/08/wicked-problems-and-the-need-to-engage-with-differing-perspectives/
+template: blog-post.html
 title: The McNamara Fallacy and pass rates, academic analytics, and engagement
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.179.184
-      author_url: http://www.vrbones.com
-      content: I'm interested in Col's analysis of engagement, but the link to the writeup
-        seems to be broken (no href).
-      date: '2010-08-10 14:44:58'
-      date_gmt: '2010-08-10 04:44:58'
-      id: '3145'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 In some reading for the thesis today I came across the concept of McNamara's fallacy. I hadn't heard this before. This is somewhat surprising as it points out another common problem with some of the more simplistic approaches to improving learning and teaching that are going around at the moment. It's also likely to be a problem with any simplistic implementation of academic analytics.
 

@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - reflectivealignment
-date: 2009-08-06 13:07:08+10:00
+comments: []
+date: 2009-08-06 03:07:08
 next:
   text: '"Breadth of Webfuse use: 1997 through 2009"'
   url: /blog/2009/08/07/breadth-of-webfuse-use-1997-through-2009/
+pingbacks:
+- approved: '1'
+  author: Herding cats, losing weight and how to improve learning and teaching &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/
+  content: '[...] This blog post outlines some early thinking on the structure and
+    purpose of the presentation. [...]'
+  date: '2009-09-14 14:09:46'
+  date_gmt: '2009-09-14 04:09:46'
+  id: '2692'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: External factors associated with CMS adoption
   url: /blog/2009/08/05/external-factors-associated-with-cms-adoption/
+template: blog-post.html
 title: Losing weight, improving learning and teaching and complex systems
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Herding cats, losing weight and how to improve learning and teaching &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/
-      content: '[...] This blog post outlines some early thinking on the structure and
-        purpose of the presentation. [...]'
-      date: '2009-09-14 14:09:46'
-      date_gmt: '2009-09-14 04:09:46'
-      id: '2692'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Anyone who listens to me or reads this blog (e.g. [when senior management loses the plot](/blog/2009/07/17/when-senior-management-lose-the-plot/), [quality compliance and task corruption](/blog/2009/06/10/quality-compliance-and-task-corruption/), [models of growth - responding to the grammar of school](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/), [improving university teaching and learning: learning from constructive alignment by **not** mandating it](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/)) knows that I think there are fundamental mistakes being made at most universities when it comes to how they try and improve or change the practice of learning and teaching. The following is an attempt to explain why I think it's very badly broken and offer an alternative approach based on different theoretical underpinnings.
 
@@ -79,11 +76,11 @@ I'm trying to make small changes in what I do from day to day. I'm trying to est
 
 There is a lot of research literature from education/L&T that suggests that the quality and type of learning and teaching an academic/teacher can engage in is limited by their conceptions of learning and teaching. This is something that is hinted at in the following diagram from Trigwell (2001) - and one I've used before.
 
-[![Trigwell's model of teaching](images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
+[![Trigwell's model of teaching](https://djon.es/assets/blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
 
 Typically this is talked about in terms of the conception of teaching in terms of Kember's (1997) main orientations - teacher-centered/content-oriented, or student-centered/learning oriented - or something similar and can be represented graphical as follows.
 
-[![Kember categorisation model of conceptions of teaching](images/3463514963_1cd78fa364_m.jpg)](http://www.flickr.com/photos/david_jones/3463514963/ "Kember categorisation model of conceptions of teaching by David T Jones, on Flickr")
+[![Kember categorisation model of conceptions of teaching](https://djon.es/assets/blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/images/3463514963_1cd78fa364_m.jpg)](http://www.flickr.com/photos/david_jones/3463514963/ "Kember categorisation model of conceptions of teaching by David T Jones, on Flickr")
 
 Then there's other work that finds that there are also disciplinary differences in how people teach. For example, Harpe and Radloff (2006)
 

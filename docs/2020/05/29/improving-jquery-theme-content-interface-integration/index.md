@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - casa
-coverImage: hotel.jpg
-date: 2020-05-29 15:55:24+10:00
+coverImage: https://djon.es/assets/blog/2020/05/29/improving-jquery-theme-content-interface-integration/images/hotel.jpg
+date: 2020-05-29 05:55:24
 next:
   text: What are the impediments to quality teaching and what can be done to remove
     them?
@@ -10,15 +10,15 @@ next:
 previous:
   text: Learning to think in React
   url: /blog/2020/05/22/learning-to-think-in-react/
+template: blog-post.html
 title: Improving jQuery theme/Content Interface integration
 type: post
-template: blog-post.html
 ---
 ### The Problem
 
 One of the benefits of using jQuery as the initial framework for [the Content Interface](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface) is that you can leverage the existing ecosystem. e.g. jQuery’s themes enable a default Content Interface (on the left) to be “themed” (on the right) by changing a single line of CSS.
 
-| ![](images/j90m7Kbs5MWAgAAAABJRU5ErkJggg==) | ![](images/9Hy3ClDoUNZcXSuV26LyOkB0L1rFea9l+9r3y+ImIYRAj03AIEwSimkCU6UHF3f8PiLqb+WQ147IAAAAASUVORK5CYII=) |
+| ![](https://djon.es/assets/blog/2020/05/29/improving-jquery-theme-content-interface-integration/images/j90m7Kbs5MWAgAAAABJRU5ErkJggg==) | ![](https://djon.es/assets/blog/2020/05/29/improving-jquery-theme-content-interface-integration/images/9Hy3ClDoUNZcXSuV26LyOkB0L1rFea9l+9r3y+ImIYRAj03AIEwSimkCU6UHF3f8PiLqb+WQ147IAAAAASUVORK5CYII=) |
 | --- | --- |
 
 The problem is visually obvious in the above. The _Reviewed_ and _Not Reviewed_ additions to the accordion bars have not changed colours to fit the themes. Not to mention being pretty horribly designed regardless of the colour.
@@ -31,9 +31,9 @@ Exploring the [jQuery theme roller](https://jqueryui.com/themeroller/) and the [
 
 After a bit of experimentation .ui-state-active (Not Reviewed) and .ui-state-disabled (Reviewed) appear to be the best options. Giving the following results.
 
-![](images/v8Bc2mtWun8VBUAAAAASUVORK5CYII=)
+![](https://djon.es/assets/blog/2020/05/29/improving-jquery-theme-content-interface-integration/images/v8Bc2mtWun8VBUAAAAASUVORK5CYII=)
 
-![](images/EAABEAABEACBh48AFNjDN2bwGARAAARAAARA4GEn8P8DOfjL7Cg8N50AAAAASUVORK5CYII=)
+![](https://djon.es/assets/blog/2020/05/29/improving-jquery-theme-content-interface-integration/images/EAABEAABEACBh48AFNjDN2bwGARAAARAAARA4GEn8P8DOfjL7Cg8N50AAAAASUVORK5CYII=)
 
 ### Can the Content Interface be modified to support this?
 

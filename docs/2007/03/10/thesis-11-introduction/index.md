@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - chapter-1
 - design-theory
 - thesis
 - webfuse
-date: 2007-03-10 19:58:51+10:00
+date: 2007-03-10 09:58:51
 next:
   text: Thesis 1.2 - Background to the research
   url: /blog/2007/03/10/thesis-12-background-to-the-research/
 previous:
   text: Aims of a curriculum design group at a university
   url: /blog/2007/03/05/aims-of-a-curriculum-design-group-at-a-university/
+template: blog-post.html
 title: Thesis 1.1 - Introduction
 type: post
-template: blog-post.html
 ---
 In the traditions of open source's "release early, release often" and in an attempt to get me writing, I am going to start releasing parts of my PhD thesis. Almost certainly of limited use to others and likely to demonstrate various flaws, but hopefully the public release might generate some fixes and encourage some progress.
 

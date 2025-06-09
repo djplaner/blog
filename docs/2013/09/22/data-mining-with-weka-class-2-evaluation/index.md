@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - learninganalytics-elearning
-date: 2013-09-22 17:13:36+10:00
+date: 2013-09-22 07:13:36
 next:
   text: '"The IRAC framework: Locating the performance zone for learning analytics"'
   url: /blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/
 previous:
   text: 'Moving beyond a fashion: Likely paths and pitfalls for learning analytics'
   url: /blog/2013/09/22/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-3/
+template: blog-post.html
 title: Data mining with Weka - Class 2 - Evaluation
 type: post
-template: blog-post.html
 ---
 Now onto class 2 with the [Data Mining with Weka](https://weka.waikato.ac.nz/dataminingwithweka/) MOOC.
 
@@ -24,7 +24,7 @@ The idea is that this tree still yet needs be tested - which is coming up.
 
 Basic machine learning situation.
 
-[![The data mining process?](images/9867971713_ac3c2a1269_n.jpg)](http://www.flickr.com/photos/david_jones/9867971713/ "The data mining process? by David T Jones, on Flickr")
+[![The data mining process?](https://djon.es/assets/blog/2013/09/22/data-mining-with-weka-class-2-evaluation/images/9867971713_ac3c2a1269_n.jpg)](http://www.flickr.com/photos/david_jones/9867971713/ "The data mining process? by David T Jones, on Flickr")
 
 We're developing a classifer on the basis of machine learning algorithm.
 

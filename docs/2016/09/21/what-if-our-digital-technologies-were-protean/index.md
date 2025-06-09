@@ -1,43 +1,40 @@
----
+﻿---
 categories:
 - bad
 - digitalignorance
-date: 2016-09-21 12:12:34+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 144.134.192.120
+  author_url: http://elketeaches.wordpress.com
+  content: 'Reblogged this on <a href="https://elketeaches.wordpress.com/2016/09/21/what-if-our-digital-technologies-were-protean/"
+    rel="nofollow">elketeaches</a> and commented:
+
+    I''m looking forward to attending this presentation @ACCE2016
+
+    Please take a minute to participate in the Poll
+
+    ______________________________________________________________________'
+  date: '2016-09-21 15:36:32'
+  date_gmt: '2016-09-21 05:36:32'
+  id: '3424'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2016-09-21 02:12:34
 next:
   text: OEP, institutions and culture
   url: /blog/2016/09/21/oep-institutions-and-culture/
+pingbacks: []
 previous:
   text: Exploring Moodle Book usage - Part 7a) - when are they modified
   url: /blog/2016/09/20/exploring-moodle-book-usage-part-7a-when-are-they-modified/
+template: blog-post.html
 title: What if our digital technologies were protean?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 144.134.192.120
-      author_url: http://elketeaches.wordpress.com
-      content: 'Reblogged this on <a href="https://elketeaches.wordpress.com/2016/09/21/what-if-our-digital-technologies-were-protean/"
-        rel="nofollow">elketeaches</a> and commented:
-    
-        I''m looking forward to attending this presentation @ACCE2016
-    
-        Please take a minute to participate in the Poll
-    
-        ______________________________________________________________________'
-      date: '2016-09-21 15:36:32'
-      date_gmt: '2016-09-21 05:36:32'
-      id: '3424'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
-[![Proteus by skooksie, on Flickr](images/16539525746_c241fd7be8_m.jpg "Proteus by skooksie, on Flickr")](https://www.flickr.com/photos/skooksie/16539525746/) "[Proteus](https://www.flickr.com/photos/skooksie/16539525746/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by [skooksie](https://www.flickr.com/people/skooksie/)
+[![Proteus by skooksie, on Flickr](https://djon.es/assets/blog/2016/09/21/what-if-our-digital-technologies-were-protean/images/16539525746_c241fd7be8_m.jpg "Proteus by skooksie, on Flickr")](https://www.flickr.com/photos/skooksie/16539525746/) "[Proteus](https://www.flickr.com/photos/skooksie/16539525746/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by [skooksie](https://www.flickr.com/people/skooksie/)
 
 On Friday the 30th September 2016 I will present the paper - [What if our digital technologies were protean? Implications for computational thinking, learning, and teaching](/blog/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/) - co-written by [Elke Schneider](http://elketeaches.wordpress.com/) and I at the [ACCE'2016 conference](http://www.aomevents.com/ACCE2016).
 

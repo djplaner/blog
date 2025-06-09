@@ -1,34 +1,31 @@
----
-date: 2009-08-20 09:18:07+10:00
+﻿---
+comments: []
+date: 2009-08-19 23:18:07
 next:
   text: '"BIM#5: Getting a prototype BIM going"'
   url: /blog/2009/08/20/bim5-getting-a-prototype-bim-going/
+pingbacks:
+- approved: '1'
+  author: 'e&amp;i report #2 &#8211; 20-25th August &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 66.135.48.211
+  author_url: https://djon.es/blog/2009/09/01/ei-report-2-20-25th-august/
+  content: '[...] the second in the fortnightly reports of what I&#8217;ve been doing
+    in my current position &#8211; here&#8217;s the first. These posts are made just
+    before the meeting with my supervisor. Due to a change in date for the [...]'
+  date: '2009-09-01 09:42:07'
+  date_gmt: '2009-08-31 23:42:07'
+  id: '2723'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The product component of the Ps Framework
   url: /blog/2009/08/19/the-product-component-of-the-ps-framework/
+template: blog-post.html
 title: '"eLearning and Innovation Specialist report #1: 4-20 August"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'e&amp;i report #2 &#8211; 20-25th August &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 66.135.48.211
-      author_url: https://djon.es/blog/2009/09/01/ei-report-2-20-25th-august/
-      content: '[...] the second in the fortnightly reports of what I&#8217;ve been doing
-        in my current position &#8211; here&#8217;s the first. These posts are made just
-        before the meeting with my supervisor. Due to a change in date for the [...]'
-      date: '2009-09-01 09:42:07'
-      date_gmt: '2009-08-31 23:42:07'
-      id: '2723'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 One of the problems within universities with the types of role I've been performing in the last couple of years is the out-of-sight, out-of-mind, problem. As a L&T "support" person the folk in the faculties, especially those in senior management, aren't always aware of exactly what it is you're doing. At the same time, they are aware of all sorts of problems they are seeing with L&T, have specific ideas how those should be addressed and don't see folk like me implementing those ideas. Consequently, they don't see any value in what we do.
 

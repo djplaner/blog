@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - cqulearninghistory
@@ -7,36 +7,33 @@ categories:
 - indicators
 - thesis
 - webfuse
-date: 2009-08-02 13:09:04+10:00
+comments: []
+date: 2009-08-02 03:09:04
 next:
   text: '"PhD Update #19 - Falling just a little short"'
   url: /blog/2009/08/02/phd-update-19-falling-just-a-little-short/
+pingbacks:
+- approved: '1'
+  author: Comparisons between LMS &#8211; the need for system independence &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.104.11
+  author_url: https://djon.es/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/
+  content: '[...] talked about and used the model previously (first, second and other
+    places). For the purposes of the paper we produced a different representation
+    of [...]'
+  date: '2010-06-27 09:31:36'
+  date_gmt: '2010-06-26 23:31:36'
+  id: '2681'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: How the LMS - as enterprise system - warps the practice of L&#038;T
   url: /blog/2009/08/02/how-the-lms-as-enterprise-system-warps-the-practice-of-lt/
+template: blog-post.html
 title: '"Evaluation of Webfuse course site feature usage: 2006 through 2009"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Comparisons between LMS &#8211; the need for system independence &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.104.11
-      author_url: https://djon.es/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/
-      content: '[...] talked about and used the model previously (first, second and other
-        places). For the purposes of the paper we produced a different representation
-        of [...]'
-      date: '2010-06-27 09:31:36'
-      date_gmt: '2010-06-26 23:31:36'
-      id: '2681'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In a [recent post](/blog/2009/07/31/some-early-results-from-webfuse-evaluation/) I messily wrote about the start of the process of evaluating the use of Webfuse for my thesis. This post takes the ideas/process from that post and applies it to the course websites produced by Webfuse from 2006 through 2007. The data in here is in a similar time frame to the work being done by Col and Ken on their [indicators project](http://beerc.wordpress.com/2009/07/28/quick-indicators-update-2/).
 
@@ -44,7 +41,7 @@ In a [recent post](/blog/2009/07/31/some-early-results-from-webfuse-evaluation/)
 
 The basic idea is to use the categories proposed by Malikowski et al (2007) as a way to examine the level of feature usage within the Webfuse course sites from 2006 through 2009 (or as much as 2009 that has completed). The following diagram is adapted from Malikowski et al (2007) and it summarises their five categories and also gives an indication of the level of feature usage they have found in their survey of the LMS/VLE literature.
 
-[![Malikowski Flow Chart](images/3465729160_255865ebc6.jpg)](http://www.flickr.com/photos/david_jones/3465729160/ "Malikowski Flow Chart by David T Jones, on Flickr")
+[![Malikowski Flow Chart](https://djon.es/assets/blog/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/images/3465729160_255865ebc6.jpg)](http://www.flickr.com/photos/david_jones/3465729160/ "Malikowski Flow Chart by David T Jones, on Flickr")
 
 Webfuse is the web-based e-learning system that is the basis for my PhD and some description of that is available [here](/blog/publications/an-information-systems-design-theory-for-e-learning/). Most of the course sites hosted on Webfuse are not password protected - you can see the [latest list here](http://webfuse.cqu.edu.au/Courses/2009/T2/)
 

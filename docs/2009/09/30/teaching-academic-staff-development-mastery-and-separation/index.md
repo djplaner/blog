@@ -1,112 +1,110 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - reflectivealignment
-date: 2009-09-30 10:21:48+10:00
+comments:
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: null
+  content: 'From above: My suggested solution is that such a unit needs to be embedded
+    into the act of teaching and learning. It needs to be providing support, observing
+    what is working and what is not and identifying/developing opportunities for increasing
+    academic staff mastery . . .
+
+
+    So far I''m with you!
+
+
+    . . . via small changes that are contextually based.
+
+
+    You lost me there.  In my experience, especially at a large institution, taking
+    the "small changes" route is the road to perdition.  For me, this means I have
+    to engage in a million little negotiations to get the small to accumulate to something
+    significant.  At the rate I''m going it will take me two lifetimes to bring about
+    real change in the English Department.
+
+
+    My approach, that I''m trying to sell around here, is to create and then present
+    a sales pitch of the big picture to anyone who will listen.  From there, we will
+    see takers and not.  I want to put my effort with a department willing to work
+    as a team to make the improvements.  The rest get minimal support until they are
+    ready to work.
+
+
+    I''d love to hear (a) David''s and anyone else''s take on this.'
+  date: '2010-06-05 08:44:31'
+  date_gmt: '2010-06-04 22:44:31'
+  id: '2773'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Kevin,
+
+
+    Thanks for the comments.  You''re encouraging me to think through and explain
+    my ideas a bit more.  Much appreciate.
+
+
+    I''ve just added a post in response to your first comment.  Will probably blog
+    another based on your question here.
+
+
+    I think that response will be along the lines of "size is in the eye of the beholder".  I
+    think the change has to appear to be small to the academic, but probably should
+    be somewhat large for the organisation.
+
+
+    The reason change has to be small for the academic is based on how we learn.  But
+    also the reason why I believe small changes can work is that I believe that the
+    teaching and learning environment in a university is a complex system. In such
+    a system, the right small changes can have very large outcomes.
+
+
+    Need to explain that better.
+
+
+    David.'
+  date: '2010-06-05 09:08:01'
+  date_gmt: '2010-06-04 23:08:01'
+  id: '2774'
+  parent: '2773'
+  type: comment
+  user_id: '1'
+date: 2009-09-30 00:21:48
 next:
   text: What is there to know about clickers?
   url: /blog/2009/09/30/what-is-there-to-know-about-clickers/
+pingbacks:
+- approved: '1'
+  author: 'The confusion of small and big changes: input versus output and types of
+    systems &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.14
+  author_url: https://djon.es/blog/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
+  content: '[...] out of some comments Kevin has made on my blog. This post is an
+    attempt to partially engage with the most recent comment. I echo Kevin&#8217;s
+    conclusion, I&#8217;d love to hear anyone else&#8217;s take on [...]'
+  date: '2010-06-07 13:29:39'
+  date_gmt: '2010-06-07 03:29:40'
+  id: '2775'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: What&#039;s the best route for improving your teaching (post-thesis)?
   url: /blog/2009/09/29/whats-the-best-route-for-improving-your-teaching-post-thesis/
+template: blog-post.html
 title: Teaching, academic staff development, mastery and separation
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: null
-      content: 'From above: My suggested solution is that such a unit needs to be embedded
-        into the act of teaching and learning. It needs to be providing support, observing
-        what is working and what is not and identifying/developing opportunities for increasing
-        academic staff mastery . . .
-    
-    
-        So far I''m with you!
-    
-    
-        . . . via small changes that are contextually based.
-    
-    
-        You lost me there.  In my experience, especially at a large institution, taking
-        the "small changes" route is the road to perdition.  For me, this means I have
-        to engage in a million little negotiations to get the small to accumulate to something
-        significant.  At the rate I''m going it will take me two lifetimes to bring about
-        real change in the English Department.
-    
-    
-        My approach, that I''m trying to sell around here, is to create and then present
-        a sales pitch of the big picture to anyone who will listen.  From there, we will
-        see takers and not.  I want to put my effort with a department willing to work
-        as a team to make the improvements.  The rest get minimal support until they are
-        ready to work.
-    
-    
-        I''d love to hear (a) David''s and anyone else''s take on this.'
-      date: '2010-06-05 08:44:31'
-      date_gmt: '2010-06-04 22:44:31'
-      id: '2773'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Kevin,
-    
-    
-        Thanks for the comments.  You''re encouraging me to think through and explain
-        my ideas a bit more.  Much appreciate.
-    
-    
-        I''ve just added a post in response to your first comment.  Will probably blog
-        another based on your question here.
-    
-    
-        I think that response will be along the lines of "size is in the eye of the beholder".  I
-        think the change has to appear to be small to the academic, but probably should
-        be somewhat large for the organisation.
-    
-    
-        The reason change has to be small for the academic is based on how we learn.  But
-        also the reason why I believe small changes can work is that I believe that the
-        teaching and learning environment in a university is a complex system. In such
-        a system, the right small changes can have very large outcomes.
-    
-    
-        Need to explain that better.
-    
-    
-        David.'
-      date: '2010-06-05 09:08:01'
-      date_gmt: '2010-06-04 23:08:01'
-      id: '2774'
-      parent: '2773'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'The confusion of small and big changes: input versus output and types of
-        systems &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.14
-      author_url: https://djon.es/blog/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
-      content: '[...] out of some comments Kevin has made on my blog. This post is an
-        attempt to partially engage with the most recent comment. I echo Kevin&#8217;s
-        conclusion, I&#8217;d love to hear anyone else&#8217;s take on [...]'
-      date: '2010-06-07 13:29:39'
-      date_gmt: '2010-06-07 03:29:40'
-      id: '2775'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In a [recent post](/blog/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/) reflecting on a presentation I referenced a [TED talk by Dan Pink](http://www.ted.com/talks/dan_pink_on_motivation.html) in which he proposed a new operating system for companies based on staff having:
 

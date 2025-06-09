@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - curriculumdesign
-date: 2010-01-22 10:43:03+10:00
+date: 2010-01-22 00:43:03
 next:
   text: BIM - Allocating markers
   url: /blog/2010/01/24/bim-allocating-markers/
@@ -10,9 +10,9 @@ previous:
   url: /blog/2010/01/20/plans-for-a-ajet-paper-around-the-indicators-project/
 tags:
 - dehub
+template: blog-post.html
 title: Thoughts on DEHub research themes
 type: post
-template: blog-post.html
 ---
 My [current institution](http://www.cqu.edu.au/) is currently a member of the [DEHub](http://www.dehub.edu.au/) - "A community for learning and teaching, research and Innovation in Distance Education". The exact connection with my current institution and more importantly the folk doing work in distance education/learning and teaching remains somewhat vague. However, it is probably time for me to actively see what connections exist with my work and interests, there should probably be a lot.
 

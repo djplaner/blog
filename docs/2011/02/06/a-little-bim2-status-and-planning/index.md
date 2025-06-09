@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2011-02-06 21:43:23+10:00
+comments: []
+date: 2011-02-06 11:43:23
 next:
   text: '"bim2: the greater coordinator conversion"'
   url: /blog/2011/02/06/bim2-the-greater-coordinator-conversion/
+pingbacks:
+- approved: '1'
+  author: "Tweets that mention A little bim2 status and planning \xAB The Weblog of\
+    \ (a) David Jones -- Topsy.com"
+  author_email: null
+  author_ip: 208.74.66.43
+  author_url: http://topsy.com/davidtjones.wordpress.com/2011/02/06/a-little-bim2-status-and-planning/?utm_source=pingback&utm_campaign=L2
+  content: "[...] This post was mentioned on Twitter by Paulo Sim\xF5es, David Jones\
+    \ and NURIA COSTA, juandoming. juandoming said: RT @pgsimoes: A little bim2 status\
+    \ and planning http://dlvr.it/FwNnS #elearning [...]"
+  date: '2011-02-07 02:36:33'
+  date_gmt: '2011-02-06 16:36:34'
+  id: '3245'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'bim2: registering a new blog'
   url: /blog/2011/02/06/bim2-registering-a-new-blog/
+template: blog-post.html
 title: A little bim2 status and planning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: "Tweets that mention A little bim2 status and planning \xAB The Weblog of\
-        \ (a) David Jones -- Topsy.com"
-      author_email: null
-      author_ip: 208.74.66.43
-      author_url: http://topsy.com/davidtjones.wordpress.com/2011/02/06/a-little-bim2-status-and-planning/?utm_source=pingback&utm_campaign=L2
-      content: "[...] This post was mentioned on Twitter by Paulo Sim\xF5es, David Jones\
-        \ and NURIA COSTA, juandoming. juandoming said: RT @pgsimoes: A little bim2 status\
-        \ and planning http://dlvr.it/FwNnS #elearning [...]"
-      date: '2011-02-07 02:36:33'
-      date_gmt: '2011-02-06 16:36:34'
-      id: '3245'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The purpose of this post is to make concrete the status and future plans around bim2. The update of [bim](/blog/research/bam-blog-aggregation-management/) for Moodle 2.0.
 
@@ -45,11 +42,11 @@ I've just finished the first major stage of bim2 development tonight. The [code 
     Though I've just discovered a minor bug. Will fix that.
 - Implements the complete student interface including registering and processing a new blog and viewing details. Some images follow (click on the images to see a larger version).
 
-[![Activity details](images/5420817243_8d2744874c_m.jpg)](http://www.flickr.com/photos/david_jones/5420817243/ "Activity details by David T Jones, on Flickr")
+[![Activity details](https://djon.es/assets/blog/2011/02/06/a-little-bim2-status-and-planning/images/5420817243_8d2744874c_m.jpg)](http://www.flickr.com/photos/david_jones/5420817243/ "Activity details by David T Jones, on Flickr")
 
-[![Questions](images/5420817593_50536864c3_m.jpg)](http://www.flickr.com/photos/david_jones/5420817593/ "Questions by David T Jones, on Flickr")
+[![Questions](https://djon.es/assets/blog/2011/02/06/a-little-bim2-status-and-planning/images/5420817593_50536864c3_m.jpg)](http://www.flickr.com/photos/david_jones/5420817593/ "Questions by David T Jones, on Flickr")
 
-[![Posts](images/5421424240_a0ec5d67ee_m.jpg)](http://www.flickr.com/photos/david_jones/5421424240/ "Posts by David T Jones, on Flickr")
+[![Posts](https://djon.es/assets/blog/2011/02/06/a-little-bim2-status-and-planning/images/5421424240_a0ec5d67ee_m.jpg)](http://www.flickr.com/photos/david_jones/5421424240/ "Posts by David T Jones, on Flickr")
 
 This doesn't sound much, that's because the more important stuff is what has gone on behind the scenes, including
 

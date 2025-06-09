@@ -1,9 +1,9 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - reflectivealignment
-date: 2009-06-19 10:19:52+10:00
+date: 2009-06-19 00:19:52
 next:
   text: Why minimium standards (probably) won't work and will probably become maximum
     standards
@@ -11,9 +11,9 @@ next:
 previous:
   text: The planning fallacy, innovation and ateleological design
   url: /blog/2009/06/18/the-planning-fallacy-innovation-and-ateleological-design/
+template: blog-post.html
 title: Examination focus and what it might tell us about learning and teaching
 type: post
-template: blog-post.html
 ---
 Phillips (2005) includes the following quote
 

@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,49 +6,46 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-07-27 12:08:04+10:00
+comments: []
+date: 2009-07-27 02:08:04
 next:
   text: The intervention - Webfuse design 1996-1999
   url: /blog/2009/07/27/the-intervention-webfuse-design-1996-1999/
+pingbacks:
+- approved: '1'
+  author: The intervention &#8211; Webfuse design 1996-1999 &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.152
+  author_url: https://djon.es/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Use of &#8220;e-learning&#8221; @ CQU up to 1996 (or&nbsp;so) [...]'
+  date: '2009-07-27 14:18:16'
+  date_gmt: '2009-07-27 04:18:16'
+  id: '2663'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #19 &#8211; Falling just a little short &laquo; The Weblog of
+    (a) David Jones'
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/08/02/phd-update-19-falling-just-a-little-short/
+  content: '[...] (4.1) and problem definition (4.2) &#8211; done. The e-learning@CQU
+    post this week was the last part of section [...]'
+  date: '2009-08-02 13:44:48'
+  date_gmt: '2009-08-02 03:44:48'
+  id: '2664'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'PhD update #18 - moving along'
   url: /blog/2009/07/26/phd-update-18-moving-along/
+template: blog-post.html
 title: Use of "e-learning" @ CQU up to 1996 (or so)
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The intervention &#8211; Webfuse design 1996-1999 &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.152
-      author_url: https://djon.es/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Use of &#8220;e-learning&#8221; @ CQU up to 1996 (or&nbsp;so) [...]'
-      date: '2009-07-27 14:18:16'
-      date_gmt: '2009-07-27 04:18:16'
-      id: '2663'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #19 &#8211; Falling just a little short &laquo; The Weblog of
-        (a) David Jones'
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/08/02/phd-update-19-falling-just-a-little-short/
-      content: '[...] (4.1) and problem definition (4.2) &#8211; done. The e-learning@CQU
-        post this week was the last part of section [...]'
-      date: '2009-08-02 13:44:48'
-      date_gmt: '2009-08-02 03:44:48'
-      id: '2664'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the next completed (to a rough first draft stage) section of chapter 4 of my thesis. It follows on from [a post](/blog/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/) from yesterday that started defining the problem being faced. This section completes the definition of this problem by giving a broad summary of the use of "e-learning" at CQU up until 1996.
 

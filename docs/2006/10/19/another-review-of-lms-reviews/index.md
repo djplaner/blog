@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - elearning
-date: 2006-10-19 13:30:49+10:00
+comments: []
+date: 2006-10-19 03:30:49
 next:
   text: The Missing Ps are a waste of time
   url: /blog/2006/10/19/the-missing-ps-are-a-waste-of-time/
+pingbacks:
+- approved: '1'
+  author: The Missing Ps are a waste of time at David&#8217;s WebLog
+  author_email: null
+  author_ip: 138.77.94.11
+  author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=55
+  content: '[...]        &laquo; Another review of LMS Reviews  The missing P - Product
+    [...]'
+  date: '2007-08-06 14:51:02'
+  date_gmt: '2007-08-06 04:51:02'
+  id: '1516'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Question allocation difficulties - BAM
   url: /blog/2006/10/16/question-allocation-difficulties-bam/
+template: blog-post.html
 title: Another review of LMS Reviews
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The Missing Ps are a waste of time at David&#8217;s WebLog
-      author_email: null
-      author_ip: 138.77.94.11
-      author_url: http://cq-pan.cqu.edu.au/david-jones/blog/?p=55
-      content: '[...]        &laquo; Another review of LMS Reviews  The missing P - Product
-        [...]'
-      date: '2007-08-06 14:51:02'
-      date_gmt: '2007-08-06 04:51:02'
-      id: '1516'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 George Siemens has posted a [document](http://ltc.umanitoba.ca/wordpress/?p=15) entitled "Learning or Management System? A Review of Learning Management System Reviews" which, as the title suggests, reviews a recent collection of reviews of LMSes in an attempt to offer a more nuanced view.
 

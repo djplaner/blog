@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - quotes
-date: 2006-07-13 10:16:12+10:00
+date: 2006-07-13 00:16:12
 next:
   text: Drucker on Adaptive vs Plan-driven
   url: /blog/2006/07/14/drucker-on-adaptive-vs-plan-driven/
 previous:
   text: Hello World
   url: /blog/2006/07/12/hello-world-2/
+template: blog-post.html
 title: Sun Tzu Strategy Quote
 type: post
-template: blog-post.html
 ---
 > The essence of strategy is the close view of distant things and the distant view of close things -- Sun Tzu
 

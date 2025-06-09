@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - moodle
-date: 2010-06-01 14:04:04+10:00
+date: 2010-06-01 04:04:04
 next:
   text: The role of experience
   url: /blog/2010/06/02/the-role-of-experience/
 previous:
   text: The need for a third way
   url: /blog/2010/05/31/the-need-for-a-third-way/
+template: blog-post.html
 title: Adding OPML feeds to BIM
 type: post
-template: blog-post.html
 ---
 The following describes the process of adding support for the provision of [OPML](http://en.wikipedia.org/wiki/OPML) files to the Moodle activity module [BIM](/blog/research/bam-blog-aggregation-management/).
 
@@ -54,4 +54,4 @@ Okay, still want to do various checks, so have to go through normal BIM process.
 
 Need a help file, some lang entries. Cleaning things up. Done. Looks like the following
 
-[![BIM with opml generation added](images/4658306149_32b3098c3f_m.jpg)](http://www.flickr.com/photos/david_jones/4658306149/ "BIM with opml generation added by David T Jones, on Flickr")
+[![BIM with opml generation added](https://djon.es/assets/blog/2010/06/01/adding-opml-feeds-to-bim/images/4658306149_32b3098c3f_m.jpg)](http://www.flickr.com/photos/david_jones/4658306149/ "BIM with opml generation added by David T Jones, on Flickr")

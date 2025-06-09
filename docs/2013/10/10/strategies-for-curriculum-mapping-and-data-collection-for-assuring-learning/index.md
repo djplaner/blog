@@ -1,51 +1,48 @@
----
+﻿---
 categories:
 - curriculummapping-cddu
 - elearning
-date: 2013-10-10 15:39:39+10:00
+comments: []
+date: 2013-10-10 05:39:39
 next:
   text: Supporting Action Research with Learning Analytics
   url: /blog/2013/10/13/supporting-action-research-with-learning-analytics/
+pingbacks:
+- approved: '1'
+  author: Strategies for curriculum mapping and data coll...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/curriculum-resources/p/4009333179/strategies-for-curriculum-mapping-and-data-collection-for-assuring-learning
+  content: '[&#8230;] The following is a summary of and some reaction to the final
+    report of an OLT funded project titled &quot;Hunters and gatherers: strategies
+    for curriculum mapping and data collection for assuring learni...&nbsp; [&#8230;]'
+  date: '2013-10-16 15:27:11'
+  date_gmt: '2013-10-16 05:27:11'
+  id: '881'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Strategies for curriculum mapping and data coll...
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/school-education-by-dr-solomon-basimalla/p/4015169138/2014/02/01/strategies-for-curriculum-mapping-and-data-collection-for-assuring-learning
+  content: '[&#8230;] &ldquo; The following is a summary of and some reaction to the
+    final report of an OLT funded project titled &quot;Hunters and gatherers: strategies
+    for curriculum mapping and data collection for assuring learni...&rdquo;&nbsp;
+    [&#8230;]'
+  date: '2014-02-01 16:58:21'
+  date_gmt: '2014-02-01 06:58:21'
+  id: '882'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Technology-enhanced learning - workloads and costs
   url: /blog/2013/10/09/technology-enhanced-learning-workloads-and-costs/
+template: blog-post.html
 title: Strategies for curriculum mapping and data collection for assuring learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Strategies for curriculum mapping and data coll...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/curriculum-resources/p/4009333179/strategies-for-curriculum-mapping-and-data-collection-for-assuring-learning
-      content: '[&#8230;] The following is a summary of and some reaction to the final
-        report of an OLT funded project titled &quot;Hunters and gatherers: strategies
-        for curriculum mapping and data collection for assuring learni...&nbsp; [&#8230;]'
-      date: '2013-10-16 15:27:11'
-      date_gmt: '2013-10-16 05:27:11'
-      id: '881'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Strategies for curriculum mapping and data coll...
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/school-education-by-dr-solomon-basimalla/p/4015169138/2014/02/01/strategies-for-curriculum-mapping-and-data-collection-for-assuring-learning
-      content: '[&#8230;] &ldquo; The following is a summary of and some reaction to the
-        final report of an OLT funded project titled &quot;Hunters and gatherers: strategies
-        for curriculum mapping and data collection for assuring learni...&rdquo;&nbsp;
-        [&#8230;]'
-      date: '2014-02-01 16:58:21'
-      date_gmt: '2014-02-01 06:58:21'
-      id: '882'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary of and some reaction to the final report of an [OLT funded project](http://www.olt.gov.au/project-hunters-and-gatherers-strategies-curriculum-mapping-and-data-collection-assuring-learning-20) titled "Hunters and gatherers: strategies for curriculum mapping and data collection for assuring learning". This appears to be the [project website](http://assuringlearning.com/).
 

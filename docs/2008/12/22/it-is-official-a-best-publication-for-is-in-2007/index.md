@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - chapter-3
 - design-theory
 - thesis
-date: 2008-12-22 10:03:39+10:00
+comments:
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: http://cq-pan.cqu.edu.au/david-jones/
+  content: There is a supplement to the paper which the JAIS reviewers didn't wish
+    to include, but we've made it available online https://djon.es/blog/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/
+  date: '2008-12-30 08:52:42'
+  date_gmt: '2008-12-29 22:52:42'
+  id: '1919'
+  parent: '0'
+  type: comment
+  user_id: '1'
+date: 2008-12-22 00:03:39
 next:
   text: An introduction to Linux Systems administration - 1st and 4th editions
   url: /blog/2008/12/22/an-introduction-to-linux-systems-administration-4th-edition/
+pingbacks: []
 previous:
   text: Sunday (Dec 14) - Welcoming guests and Notre Dame
   url: /blog/2008/12/16/sunday-dec-14-welcoming-guests-and-notre-dame/
 tags:
 - isdt-is
+template: blog-post.html
 title: It is official - a best publication for IS in 2007
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: http://cq-pan.cqu.edu.au/david-jones/
-      content: There is a supplement to the paper which the JAIS reviewers didn't wish
-        to include, but we've made it available online https://djon.es/blog/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/
-      date: '2008-12-30 08:52:42'
-      date_gmt: '2008-12-29 22:52:42'
-      id: '1919'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 I don't like to brag, but you don't get this sort of thing all that often.
 

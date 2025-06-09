@@ -1,44 +1,41 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - phd
 - psframework
 - thesis
-date: 2009-05-10 13:12:22+10:00
+comments: []
+date: 2009-05-10 03:12:22
 next:
   text: Quotes about innovation and creativity
   url: /blog/2009/05/13/quotes-about-innovation-and-creativity/
+pingbacks:
+- approved: '1'
+  author: 'Phd Update #11 &#8211; very short week &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/05/15/phd-update-11-very-short-week/
+  content: '[...] Everything old is new again &#8211; sparked by one of the texts
+    I used in the Institution section. It examines how much of the concern shown today
+    about universities, has been going on for sometime. [...]'
+  date: '2009-05-15 15:38:59'
+  date_gmt: '2009-05-15 05:38:59'
+  id: '2499'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Why don&#039;t we (e-)learn - over emphasis on rationality and defensive routines
   url: /blog/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/
+template: blog-post.html
 title: Everything old is new again - universities should be more business like
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Phd Update #11 &#8211; very short week &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/05/15/phd-update-11-very-short-week/
-      content: '[...] Everything old is new again &#8211; sparked by one of the texts
-        I used in the Institution section. It examines how much of the concern shown today
-        about universities, has been going on for sometime. [...]'
-      date: '2009-05-15 15:38:59'
-      date_gmt: '2009-05-15 05:38:59'
-      id: '2499'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In [a previous post](/blog/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/) I mentioned the current raft of "the university will die" discussions going on online and soon in print. Many of these, and especially [this one](http://www.popecenter.org/clarion_call/article.html?id=2161), embody some sort of argument along the lines of "those silly, impractical academics will only be helped if they become more like business". This is not a new perspective.
 
-[![Cover of Academic and Industrial Efficiency](images/3516650893_7d4e95724d_m.jpg)](http://www.flickr.com/photos/david_jones/3516650893/ "Cover of Academic and Industrial Efficiency by David T Jones, on Flickr")
+[![Cover of Academic and Industrial Efficiency](https://djon.es/assets/blog/2009/05/10/everything-old-is-new-again-universities-should-be-more-business-like/images/3516650893_7d4e95724d_m.jpg)](http://www.flickr.com/photos/david_jones/3516650893/ "Cover of Academic and Industrial Efficiency by David T Jones, on Flickr")
 
 The book cover to the left is from Cooke (1910), the full text of which is available on the [Internet archive](http://www.archive.org/details/academicindustri05cookuoft). I'm aware of it because of Birnbaum (2000). Cooke (1910) illustrates that there have been "huge problems" for universities and that they will be saved by those wonderful business men (and yes, I'd say that in 1910 they were mostly men) has a long history.
 

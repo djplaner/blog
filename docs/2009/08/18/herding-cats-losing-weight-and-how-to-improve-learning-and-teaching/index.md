@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - reflectivealignment
-date: 2009-08-18 09:32:02+10:00
+date: 2009-08-17 23:32:02
 next:
   text: Nudging as paternalism
   url: /blog/2009/08/18/nudging-as-paternalism/
 previous:
   text: Lessons for e-learning from people
   url: /blog/2009/08/17/lessons-for-e-learning-from-people/
+template: blog-post.html
 title: Herding cats, losing weight and how to improve learning and teaching
 type: post
-template: blog-post.html
 ---
 The purpose of this post is to work out some initial ideas for a presentation I'll be giving at [CQUniversity](http://www.cqu.edu.au/) in the next month or so. The title of the presentation is probably going to be "Herding cats, losing weight and how to improve learning and teaching". The talk is related to my [current position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ and is the first step in making the position better known within the organisation.
 
@@ -22,7 +22,7 @@ If you have an comments on the following please contribute. I'm particularly int
 
 The talk will draw on many of the perspectives I've recently read and shared on this blog. The basic argument is that most of what Universities, at least those of my experience, have been doing to improve learning and teaching (quality, implementation of learning management systems, L&T innovation grants, graduate certificates in learning and teaching, curriculum design, over emphasis on discipline based teaching etc.) can be characterised as attempting to herd cats. For those of you unfamiliar with the idea, it's best summarised in an old EDS commercial (YouTube video included below).
 
-\[youtube=http://www.youtube.com/watch?v=m\_MaJDK3VNE&feature=fvste3\]
+!!! warning "Video no longer available"
 
 #### The problem
 

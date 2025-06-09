@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2016-02-05 12:41:47+10:00
+date: 2016-02-05 02:41:47
 next:
   text: Exploring the relationship between learning design and OEP
   url: /blog/2016/02/09/on-the-relationship-between-learning-design-and-oep/
@@ -12,9 +12,9 @@ tags:
 - bad
 - elearning
 - personalisation
+template: blog-post.html
 title: Extending a little thought experiment
 type: post
-template: blog-post.html
 ---
 David Wiley has posed a [little thought experiment](http://opencontent.org/blog/archives/4430) that encourages reflection around levels of automation and "personalisation" within a University course. Judging by my Twitter stream it appears to have arisen out of a session or happening from the [ELI conference](http://www.educause.edu/events/eli-annual-meeting-2016). The experiment describes a particular teacher purpose, outlines four options for fulfilling that purpose, and offers a standard against which to consider those options.
 

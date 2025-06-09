@@ -1,170 +1,168 @@
----
+﻿---
 categories:
 - presentations
-date: 2009-09-14 14:09:28+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 150.101.181.34
+  author_url: http://www.vrbones.com
+  content: You going to try the 20second slide thing again?
+  date: '2009-09-15 08:34:17'
+  date_gmt: '2009-09-14 22:34:17'
+  id: '2760'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'Perhaps not to that extreme, but the basic approach will be much the same.  It''s
+    become the way I give presentations, it''s how I think about giving them.
+
+
+    There are 48 slides in the presentation so far, more will get added.'
+  date: '2009-09-15 09:45:13'
+  date_gmt: '2009-09-14 23:45:13'
+  id: '2761'
+  parent: '2760'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: aldreds
+  author_email: s.aldred@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: http://
+  content: 'Hi David,
+
+
+    Congrats on an excellent presentation.  I''m sorry that I was not there to hear
+    the Management conversation (LOL).
+
+
+    Hey, I thought were not going to promote some solutions?  Sounds like you offered
+    quite a few.
+
+
+    The 75% figure is a disgrace, but explainable given the context of your talk.
+
+
+    Once again, well done.
+
+
+    Scot.'
+  date: '2009-10-02 12:53:00'
+  date_gmt: '2009-10-02 02:53:00'
+  id: '2765'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'Thanks Scott.
+
+
+    It''s somewhat expected of me to offer potential solutions, it''s what I get paid
+    for.
+
+
+    It would be nice to be allowed to implement some of them.'
+  date: '2009-10-02 12:57:48'
+  date_gmt: '2009-10-02 02:57:48'
+  id: '2766'
+  parent: '2765'
+  type: comment
+  user_id: '1'
+date: 2009-09-14 04:09:28
 next:
   text: '"e&#038;i report #3 - 1st-15th September"'
   url: /blog/2009/09/15/ei-report-3-1st-15th-september/
+pingbacks:
+- approved: '1'
+  author: Reflection and moving on &#8211; herding cats and losing weight &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/
+  content: '[...]  For the last couple of weeks I have been focused on developing
+    and giving a presentation titled Herding cats and losing weight: How to improve
+    learning and teaching. The abstract, slides and video of the talk are all available
+    on the presentation page. The [...]'
+  date: '2009-09-29 09:56:38'
+  date_gmt: '2009-09-28 23:56:38'
+  id: '2762'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'e&amp;i report #4 &#8211; 15th to 29th September, 2009 &laquo; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/09/29/ei-report-4-15th-to-29th-september-2009/
+  content: '[...] The last couple of weeks have mainly been spent on the herding cats
+    presentation [...]'
+  date: '2009-09-29 10:34:55'
+  date_gmt: '2009-09-29 00:34:55'
+  id: '2763'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Herding cats and behaviour change &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/10/02/herding-cats-and-behaviour-change/
+  content: '[...] cats and behaviour&nbsp;change  My focus for the last couple of
+    weeks was a presentation &#8211; Herding cats and losing weight: How to improve
+    learning and teaching. One description of the argument of that presentation [...]'
+  date: '2009-10-02 09:11:37'
+  date_gmt: '2009-10-01 23:11:37'
+  id: '2764'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'The confusion of small and big changes: input versus output and types of
+    systems &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.14
+  author_url: https://djon.es/blog/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
+  content: '[...] I year I gave a presentation called Herding cats, losing weight
+    and how to improve learning and teaching (slides and video are available). In
+    that presentation, the analogy used is that revolutionary [...]'
+  date: '2010-06-07 13:29:49'
+  date_gmt: '2010-06-07 03:29:49'
+  id: '2767'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The future of OERs and the current publishing paradigm &laquo; Damo&#8217;s
+    World
+  author_email: null
+  author_ip: 216.151.210.19
+  author_url: http://damosworld.wordpress.com/2012/02/27/the-future-of-oers-and-the-current-publishing-paradigm/
+  content: "[...] of a comment made by a colleague who described the management of\
+    \ academic staff (faculty) akin to herding cats.\_ So my gut tells me the answer\
+    \ is &#8220;No!&#8221;\_ More seriously, while managing people who [...]"
+  date: '2012-02-27 21:05:44'
+  date_gmt: '2012-02-27 11:05:44'
+  id: '2768'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Getting started with CCK09
   url: /blog/2009/09/14/getting-started-with-cck09/
+template: blog-post.html
 title: Herding cats, losing weight and how to improve learning and teaching
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 150.101.181.34
-      author_url: http://www.vrbones.com
-      content: You going to try the 20second slide thing again?
-      date: '2009-09-15 08:34:17'
-      date_gmt: '2009-09-14 22:34:17'
-      id: '2760'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'Perhaps not to that extreme, but the basic approach will be much the same.  It''s
-        become the way I give presentations, it''s how I think about giving them.
-    
-    
-        There are 48 slides in the presentation so far, more will get added.'
-      date: '2009-09-15 09:45:13'
-      date_gmt: '2009-09-14 23:45:13'
-      id: '2761'
-      parent: '2760'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: aldreds
-      author_email: s.aldred@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: http://
-      content: 'Hi David,
-    
-    
-        Congrats on an excellent presentation.  I''m sorry that I was not there to hear
-        the Management conversation (LOL).
-    
-    
-        Hey, I thought were not going to promote some solutions?  Sounds like you offered
-        quite a few.
-    
-    
-        The 75% figure is a disgrace, but explainable given the context of your talk.
-    
-    
-        Once again, well done.
-    
-    
-        Scot.'
-      date: '2009-10-02 12:53:00'
-      date_gmt: '2009-10-02 02:53:00'
-      id: '2765'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'Thanks Scott.
-    
-    
-        It''s somewhat expected of me to offer potential solutions, it''s what I get paid
-        for.
-    
-    
-        It would be nice to be allowed to implement some of them.'
-      date: '2009-10-02 12:57:48'
-      date_gmt: '2009-10-02 02:57:48'
-      id: '2766'
-      parent: '2765'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Reflection and moving on &#8211; herding cats and losing weight &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/
-      content: '[...]  For the last couple of weeks I have been focused on developing
-        and giving a presentation titled Herding cats and losing weight: How to improve
-        learning and teaching. The abstract, slides and video of the talk are all available
-        on the presentation page. The [...]'
-      date: '2009-09-29 09:56:38'
-      date_gmt: '2009-09-28 23:56:38'
-      id: '2762'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'e&amp;i report #4 &#8211; 15th to 29th September, 2009 &laquo; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/09/29/ei-report-4-15th-to-29th-september-2009/
-      content: '[...] The last couple of weeks have mainly been spent on the herding cats
-        presentation [...]'
-      date: '2009-09-29 10:34:55'
-      date_gmt: '2009-09-29 00:34:55'
-      id: '2763'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Herding cats and behaviour change &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/10/02/herding-cats-and-behaviour-change/
-      content: '[...] cats and behaviour&nbsp;change  My focus for the last couple of
-        weeks was a presentation &#8211; Herding cats and losing weight: How to improve
-        learning and teaching. One description of the argument of that presentation [...]'
-      date: '2009-10-02 09:11:37'
-      date_gmt: '2009-10-01 23:11:37'
-      id: '2764'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'The confusion of small and big changes: input versus output and types of
-        systems &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.14
-      author_url: https://djon.es/blog/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
-      content: '[...] I year I gave a presentation called Herding cats, losing weight
-        and how to improve learning and teaching (slides and video are available). In
-        that presentation, the analogy used is that revolutionary [...]'
-      date: '2010-06-07 13:29:49'
-      date_gmt: '2010-06-07 03:29:49'
-      id: '2767'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The future of OERs and the current publishing paradigm &laquo; Damo&#8217;s
-        World
-      author_email: null
-      author_ip: 216.151.210.19
-      author_url: http://damosworld.wordpress.com/2012/02/27/the-future-of-oers-and-the-current-publishing-paradigm/
-      content: "[...] of a comment made by a colleague who described the management of\
-        \ academic staff (faculty) akin to herding cats.\_ So my gut tells me the answer\
-        \ is &#8220;No!&#8221;\_ More seriously, while managing people who [...]"
-      date: '2012-02-27 21:05:44'
-      date_gmt: '2012-02-27 11:05:44'
-      id: '2768'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 On the 24th of September, 2009 I gave a presentation at [CQUniversity](http://www.cqu.edu.au) entitled "Herding cats, losing weight and how to improve learning and teaching". The resources that arose from that presentation are included below. At the moment, that includes:
 

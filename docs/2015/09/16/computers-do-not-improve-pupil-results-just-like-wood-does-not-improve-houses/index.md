@@ -1,41 +1,38 @@
----
+﻿---
 categories:
 - bad
 - edc3100
 - elearning
-date: 2015-09-16 09:59:07+10:00
+comments:
+- approved: '1'
+  author: elketeaches
+  author_email: elkeclarissa@hotmail.com
+  author_ip: 101.183.110.103
+  author_url: http://elketeaches.wordpress.com
+  content: Computers that are falling apart, put together with masking tape, with
+    missing keys and a broken mouse, plus horrible access to the Internet, do not
+    improve student results. Yet, I see a lot of this in secondary Education Qld!
+    Many non-IT specific teachers just give up on the idea of integrating digital
+    tech in authentic ways; it's hard not to sympathise with them.
+  date: '2015-09-16 10:39:19'
+  date_gmt: '2015-09-16 00:39:19'
+  id: '1431'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2015-09-15 23:59:07
 next:
   text: Self-assertive and integrative tendencies and the connection to the BAD/SET
     mindsets
   url: /blog/2015/09/17/self-assertive-and-integrative-tendencies-and-the-connection-to-the-badset-mindsets/
+pingbacks: []
 previous:
   text: Helping teachers &quot;know thy students&quot;
   url: /blog/2015/09/15/helping-teachers-know-thy-students/
+template: blog-post.html
 title: Computers 'do not improve' pupil results, just like wood 'does not improve'
   houses
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: elketeaches
-      author_email: elkeclarissa@hotmail.com
-      author_ip: 101.183.110.103
-      author_url: http://elketeaches.wordpress.com
-      content: Computers that are falling apart, put together with masking tape, with
-        missing keys and a broken mouse, plus horrible access to the Internet, do not
-        improve student results. Yet, I see a lot of this in secondary Education Qld!
-        Many non-IT specific teachers just give up on the idea of integrating digital
-        tech in authentic ways; it's hard not to sympathise with them.
-      date: '2015-09-16 10:39:19'
-      date_gmt: '2015-09-16 00:39:19'
-      id: '1431'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Here we go again. There's an OECD report on ["Students, Computers and Learning"](http://www.oecd.org/education/students-computers-and-learning-9789264239555-en.htm) that is doing the rounds. @palbion points to one media report
 
@@ -99,7 +96,7 @@ The [summary of the report](http://www.oecd.org/education/students-computers-and
 
 Okay, so learning is being measured by a test on "reading, mathematics and science" and results indicate that "a good grasp of reading and maths is a more effective way to close the gap".
 
-https://www.youtube.com/watch?t=2&v=Fnn0dC0kViE
+!!! warning "Video is no longer available"
 
 ### Using the available data, not the meaningful data
 
@@ -107,7 +104,7 @@ Lastly, it appears that report seems to have taken the available data (i.e. PISA
 
 Data about how students actually use ICT. Data about the culture within schools around learning, teaching, and the use of ICT doesn't seem to have been available and hence it wasn't considered.
 
-\[youtube=https://www.youtube.com/watch?v=4PLvdmifDSk&start=99\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4PLvdmifDSk?si=XndXM1BXjIJ5FQIh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Disclaimer
 

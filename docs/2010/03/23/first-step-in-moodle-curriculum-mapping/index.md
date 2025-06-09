@@ -1,63 +1,60 @@
----
+﻿---
 categories:
 - curriculummapping-cddu
-date: 2010-03-23 14:13:24+10:00
+comments: []
+date: 2010-03-23 04:13:24
 next:
   text: The suffocating straightjackets of liberating ideas
   url: /blog/2010/03/24/the-suffocating-straightjackets-of-liberating-ideas/
+pingbacks:
+- approved: '1'
+  author: Moodle curriculum mapping &#8211; Step 2 &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.244.84
+  author_url: https://djon.es/blog/2010/03/30/moodle-curriculum-mapping-step-2/
+  content: '[...] exploration of an idea for enhancing Moodle to enable curriculum
+    mapping. It carries on from the first step and is part of a broader [...]'
+  date: '2010-03-30 09:46:23'
+  date_gmt: '2010-03-29 23:46:23'
+  id: '2983'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Moodle curriculum mapping &#8211; Step 3 &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.244.41
+  author_url: https://djon.es/blog/2010/04/02/moodle-curriculum-mapping-step-3/
+  content: '[...] outlined earlier there are some elements of a Moodle course site
+    to which you can&#8217;t map outcomes. The outcomes [...]'
+  date: '2010-04-02 13:58:49'
+  date_gmt: '2010-04-02 03:58:49'
+  id: '2984'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How curriculum mapping in Moodle might work &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 76.74.255.104
+  author_url: https://djon.es/blog/2010/05/19/how-curriculum-mapping-in-moodle-might-work/
+  content: '[...] is being done as part of the alignment project and picks up from
+    some earlier examination of Moodle&#8217;s existing outcomes [...]'
+  date: '2010-05-19 21:05:33'
+  date_gmt: '2010-05-19 11:05:33'
+  id: '2985'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Why is University/LMS e-learning so ugly?
   url: /blog/2010/03/23/why-is-universitylms-e-learning-so-ugly/
+template: blog-post.html
 title: First step in "Moodle curriculum mapping"
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Moodle curriculum mapping &#8211; Step 2 &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.244.84
-      author_url: https://djon.es/blog/2010/03/30/moodle-curriculum-mapping-step-2/
-      content: '[...] exploration of an idea for enhancing Moodle to enable curriculum
-        mapping. It carries on from the first step and is part of a broader [...]'
-      date: '2010-03-30 09:46:23'
-      date_gmt: '2010-03-29 23:46:23'
-      id: '2983'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Moodle curriculum mapping &#8211; Step 3 &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.244.41
-      author_url: https://djon.es/blog/2010/04/02/moodle-curriculum-mapping-step-3/
-      content: '[...] outlined earlier there are some elements of a Moodle course site
-        to which you can&#8217;t map outcomes. The outcomes [...]'
-      date: '2010-04-02 13:58:49'
-      date_gmt: '2010-04-02 03:58:49'
-      id: '2984'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How curriculum mapping in Moodle might work &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 76.74.255.104
-      author_url: https://djon.es/blog/2010/05/19/how-curriculum-mapping-in-moodle-might-work/
-      content: '[...] is being done as part of the alignment project and picks up from
-        some earlier examination of Moodle&#8217;s existing outcomes [...]'
-      date: '2010-05-19 21:05:33'
-      date_gmt: '2010-05-19 11:05:33'
-      id: '2985'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is perhaps the first concrete step in a [project](/blog/research/curriculum-mapping/) that is aiming to look at how the act of curriculum mapping can be embedded into the, increasingly, most common task and tool used by academics. That is, how can an LMS (like [Moodle](http://moodle.org/)) be used/modified to make curriculum mapping a part of what academics do, both in terms of maintaining the mapping, but more importantly using the mapping in interesting and useful ways.
 

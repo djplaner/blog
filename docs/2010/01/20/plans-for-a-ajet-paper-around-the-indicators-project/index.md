@@ -1,24 +1,20 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - lmsevaluation
-date: 2010-01-20 10:14:14+10:00
+comments: []
+date: 2010-01-20 00:14:14
 next:
   text: Thoughts on DEHub research themes
   url: /blog/2010/01/22/thoughts-on-dehub-research-themes/
+pingbacks: []
 previous:
   text: Questions about alternatives to curriculum mapping
   url: /blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
+template: blog-post.html
 title: Plans for a AJET paper around the indicators project
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 The following is an attempt to make concrete some idea and tasks associated with writing a journal paper for the [Australian Journal of Educational Technology](http://ascilite.org.au/ajet/ajet.html) (AJET) based on the [ASCILITE'09 paper](http://www.ascilite.org.au/conferences/auckland09/procs/beer.pdf) based on the work of the [Indicators project](http://indicatorsproject.wordpress.com/). The paper will be co-authored by a group and the aim of this post is to start discussion about content of the paper and the tasks we need to do to get it written.
 

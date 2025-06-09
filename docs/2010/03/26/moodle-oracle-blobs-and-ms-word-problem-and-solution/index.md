@@ -1,51 +1,48 @@
----
+﻿---
 categories:
 - bim
 - moodle
-date: 2010-03-26 12:55:19+10:00
+comments:
+- approved: '1'
+  author: Susan
+  author_email: susan.fisher@turner.com
+  author_ip: 157.166.159.230
+  author_url: http://money.cnn.com
+  content: This worked beautifully, thanks!
+  date: '2010-05-11 05:38:05'
+  date_gmt: '2010-05-10 19:38:05'
+  id: '2989'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'Glad it helped Susan.
+
+
+    Though when I wrote the post, I did hope it might help some folk.  I didn''t think
+    it would be CNN!  ;)'
+  date: '2010-05-11 09:02:04'
+  date_gmt: '2010-05-10 23:02:04'
+  id: '2990'
+  parent: '2989'
+  type: comment
+  user_id: '1'
+date: 2010-03-26 02:55:19
 next:
   text: Moodle curriculum mapping - Step 2
   url: /blog/2010/03/30/moodle-curriculum-mapping-step-2/
+pingbacks: []
 previous:
   text: 'From theory to intervention: Mapping theoretically derived behavioural determinants
     to behaviour change techniques'
   url: /blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
+template: blog-post.html
 title: Moodle, Oracle, blobs and MS-Word - problem and solution?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Susan
-      author_email: susan.fisher@turner.com
-      author_ip: 157.166.159.230
-      author_url: http://money.cnn.com
-      content: This worked beautifully, thanks!
-      date: '2010-05-11 05:38:05'
-      date_gmt: '2010-05-10 19:38:05'
-      id: '2989'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'Glad it helped Susan.
-    
-    
-        Though when I wrote the post, I did hope it might help some folk.  I didn''t think
-        it would be CNN!  ;)'
-      date: '2010-05-11 09:02:04'
-      date_gmt: '2010-05-10 23:02:04'
-      id: '2990'
-      parent: '2989'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 This documents a problem, and hopefully an initial solution, around the combination of technologies that is Moodle, an Oracle database, and content that is copy and pasted from Word.
 

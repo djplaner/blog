@@ -1,42 +1,39 @@
----
-date: 2008-11-16 10:08:29+10:00
+﻿---
+comments: []
+date: 2008-11-16 00:08:29
+pingbacks:
+- approved: '1'
+  author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
+  content: '[...] are completely and utterly inappropriate for learning and teaching
+    in universities. Since at least this paper (Jones, 2000) I&#8217;ve been arguing
+    for different design processes based on emergent development [...]'
+  date: '2009-03-09 23:02:05'
+  date_gmt: '2009-03-09 13:02:05'
+  id: '1883'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The need for a third way &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.156
+  author_url: https://djon.es/blog/2010/05/31/the-need-for-a-third-way/
+  content: '[...] about how best to improve learning and teaching within universities.
+    I&#8217;ve long ago accepted (Jones, 2000; Jones et al, 2005)) that universities
+    are complex adaptive systems and that any attempt to treat [...]'
+  date: '2010-05-31 11:28:42'
+  date_gmt: '2010-05-31 01:28:42'
+  id: '1884'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: Emergent Development and the Virtual University
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: How to improve L&amp;T and e-learning at universities &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
-      content: '[...] are completely and utterly inappropriate for learning and teaching
-        in universities. Since at least this paper (Jones, 2000) I&#8217;ve been arguing
-        for different design processes based on emergent development [...]'
-      date: '2009-03-09 23:02:05'
-      date_gmt: '2009-03-09 13:02:05'
-      id: '1883'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The need for a third way &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.156
-      author_url: https://djon.es/blog/2010/05/31/the-need-for-a-third-way/
-      content: '[...] about how best to improve learning and teaching within universities.
-        I&#8217;ve long ago accepted (Jones, 2000; Jones et al, 2005)) that universities
-        are complex adaptive systems and that any attempt to treat [...]'
-      date: '2010-05-31 11:28:42'
-      date_gmt: '2010-05-31 01:28:42'
-      id: '1884'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Emergent Development and the Virtual University, Paper presented at Learning’2000, Roanoke, Virginia
 

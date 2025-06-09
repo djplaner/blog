@@ -1,121 +1,118 @@
----
+﻿---
 categories:
 - mathematics
 - teaching
-date: 2011-05-03 21:59:44+10:00
+comments:
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://users.on.net/~iancreid/
+  content: 'What I used to use (and still do with my 14-year old son) was:
+
+
+    If you worked in a factory, would you want to be the guy on the production line
+    or the engineer who designed the car? Well, if you have some mathematics you can
+    design things, manage things, and be in charge. Without mathematics you are limited
+    to ''dumb'' jobs and can''t change your situation
+
+
+    Statistics has also given us good arguments - if you want to understand those
+    stats that are used to change your life (unemployment, finance, elections, etc)
+    then you need maths. Otherwise you can''t argue back.'
+  date: '2011-05-04 12:23:06'
+  date_gmt: '2011-05-04 02:23:06'
+  id: '64'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: tjhunt
+  author_email: t.j.hunt@open.ac.uk
+  author_ip: 212.159.111.211
+  author_url: null
+  content: "I really would not use your \"it\u2019s important to industry\" argument.\
+    \ The argument I would construct from it goes:\n1. almost all bricklayers have\
+    \ minimal knowledge of maths (your data)\n2. all newly built buildings do not\
+    \ fall down (personal observation)\n3. therefore, maths really is irrelevant.\n\
+    4. oh, and the Australian Skills Council are clearly incompetent. They are measuring\
+    \ irrelevant things. Who cares.\n\nPerhaps at this point I had better point out\
+    \ that I am a mathematician myself. Well, lapsed mathematician. These days I am\
+    \ a software developer. Anyway, I am on your side.\n\nHow about this line of argument.\n\
+    1. Start with a photograph of any prominent sports person. (Choose the one that\
+    \ you think they will respect the most.)\n2. Ask them how they got that good.\
+    \ Hopefully in the ensuing dialogue you can get someone to mention working out\
+    \ in the gym.\n3. Make the point that [sports person] does not actually lift weights\
+    \ / run on a treadmill / do press-ups in the middle of the sports field.\n4. Ask\
+    \ them whether they think that it is pointless for [sports person] to spend their\
+    \ time in the gym.\n5. Perhaps then show a photo of an ordinary unhealthy mortal\
+    \ sweating it out in the gym. Ask them if that person is engaged in a pointless\
+    \ activity.\n6. Ask them if that answers their question about why they should\
+    \ study maths. This might be the point to show the XKCD cartoon. The mental fitness\
+    \ you build in the maths classroom is vital to anything at all scientific, just\
+    \ like the basic fitness you build in the gym is vital to almost any type of sport."
+  date: '2011-05-05 06:04:50'
+  date_gmt: '2011-05-04 20:04:50'
+  id: '65'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.165.108.236
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the comment Tim. I had thought about the exercise analogy,
+    but hadn''t included it. It''s a good one.
+
+
+    I take you point about the industry argument. In the end, I think the argument(s)
+    to be used will depend on the students. At the moment, I don''t know the students
+    I''m teaching that well. Different arguments will work better for different groups.
+    What value there is in the industry argument is in the fact that there is someone/group
+    that is not a teacher and not a mathematician arguing for the importance of mathematics.
+    I get the feeling that some students antenna get activated more by apparent self-interest.
+
+
+    Am sure to try these out at some stage this year. Will see how it goes and report
+    back.'
+  date: '2011-05-05 06:13:26'
+  date_gmt: '2011-05-04 20:13:26'
+  id: '66'
+  parent: '65'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 58.165.108.236
+  author_url: https://djon.es/blog/
+  content: Thanks for the comment Ian.  The impression I'm getting from schools at
+    the moment, is that we're meant to be valuing all career paths. A lot's changed
+    in the 20+ years since I was last in high school. There's a strong path for students
+    into vocational education. I can see myself getting in trouble by the powers that
+    be at schools if I start talking about "dumb" jobs. There's also the additional
+    barrier of the mining industry being quite strong in the local area. Which means
+    that a lot of the "dumb" jobs are generating a lot more income than many of the
+    "smart" jobs. And I imagine salary is likely to be the most important KPI for
+    many students.
+  date: '2011-05-05 06:16:19'
+  date_gmt: '2011-05-04 20:16:19'
+  id: '67'
+  parent: '64'
+  type: comment
+  user_id: '1'
+date: 2011-05-03 11:59:44
 next:
   text: Real life, mathematics, partial proportion and race horses
   url: /blog/2011/05/07/real-life-mathematics-partial-proportion-and-race-horses/
+pingbacks: []
 previous:
   text: Supportive Learning Environments - Week 7
   url: /blog/2011/05/02/supportive-learning-environments-week-7/
+template: blog-post.html
 title: Sir, when are we going to use this?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://users.on.net/~iancreid/
-      content: 'What I used to use (and still do with my 14-year old son) was:
-    
-    
-        If you worked in a factory, would you want to be the guy on the production line
-        or the engineer who designed the car? Well, if you have some mathematics you can
-        design things, manage things, and be in charge. Without mathematics you are limited
-        to ''dumb'' jobs and can''t change your situation
-    
-    
-        Statistics has also given us good arguments - if you want to understand those
-        stats that are used to change your life (unemployment, finance, elections, etc)
-        then you need maths. Otherwise you can''t argue back.'
-      date: '2011-05-04 12:23:06'
-      date_gmt: '2011-05-04 02:23:06'
-      id: '64'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: tjhunt
-      author_email: t.j.hunt@open.ac.uk
-      author_ip: 212.159.111.211
-      author_url: null
-      content: "I really would not use your \"it\u2019s important to industry\" argument.\
-        \ The argument I would construct from it goes:\n1. almost all bricklayers have\
-        \ minimal knowledge of maths (your data)\n2. all newly built buildings do not\
-        \ fall down (personal observation)\n3. therefore, maths really is irrelevant.\n\
-        4. oh, and the Australian Skills Council are clearly incompetent. They are measuring\
-        \ irrelevant things. Who cares.\n\nPerhaps at this point I had better point out\
-        \ that I am a mathematician myself. Well, lapsed mathematician. These days I am\
-        \ a software developer. Anyway, I am on your side.\n\nHow about this line of argument.\n\
-        1. Start with a photograph of any prominent sports person. (Choose the one that\
-        \ you think they will respect the most.)\n2. Ask them how they got that good.\
-        \ Hopefully in the ensuing dialogue you can get someone to mention working out\
-        \ in the gym.\n3. Make the point that [sports person] does not actually lift weights\
-        \ / run on a treadmill / do press-ups in the middle of the sports field.\n4. Ask\
-        \ them whether they think that it is pointless for [sports person] to spend their\
-        \ time in the gym.\n5. Perhaps then show a photo of an ordinary unhealthy mortal\
-        \ sweating it out in the gym. Ask them if that person is engaged in a pointless\
-        \ activity.\n6. Ask them if that answers their question about why they should\
-        \ study maths. This might be the point to show the XKCD cartoon. The mental fitness\
-        \ you build in the maths classroom is vital to anything at all scientific, just\
-        \ like the basic fitness you build in the gym is vital to almost any type of sport."
-      date: '2011-05-05 06:04:50'
-      date_gmt: '2011-05-04 20:04:50'
-      id: '65'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.165.108.236
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the comment Tim. I had thought about the exercise analogy,
-        but hadn''t included it. It''s a good one.
-    
-    
-        I take you point about the industry argument. In the end, I think the argument(s)
-        to be used will depend on the students. At the moment, I don''t know the students
-        I''m teaching that well. Different arguments will work better for different groups.
-        What value there is in the industry argument is in the fact that there is someone/group
-        that is not a teacher and not a mathematician arguing for the importance of mathematics.
-        I get the feeling that some students antenna get activated more by apparent self-interest.
-    
-    
-        Am sure to try these out at some stage this year. Will see how it goes and report
-        back.'
-      date: '2011-05-05 06:13:26'
-      date_gmt: '2011-05-04 20:13:26'
-      id: '66'
-      parent: '65'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 58.165.108.236
-      author_url: https://djon.es/blog/
-      content: Thanks for the comment Ian.  The impression I'm getting from schools at
-        the moment, is that we're meant to be valuing all career paths. A lot's changed
-        in the 20+ years since I was last in high school. There's a strong path for students
-        into vocational education. I can see myself getting in trouble by the powers that
-        be at schools if I start talking about "dumb" jobs. There's also the additional
-        barrier of the mining industry being quite strong in the local area. Which means
-        that a lot of the "dumb" jobs are generating a lot more income than many of the
-        "smart" jobs. And I imagine salary is likely to be the most important KPI for
-        many students.
-      date: '2011-05-05 06:16:19'
-      date_gmt: '2011-05-04 20:16:19'
-      id: '67'
-      parent: '64'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 My first two days of prac teaching last week included three mathematics classes. In two of the classes I heard students ask the teacher, "Sir, when are we going to use this? Why are we studying it?". The other mathematics class was grade 12, obviously they benefited from their longer experience and were more pragmatic when they asked, "Will this be on the test?". Since that time I've been wondering how I might answer this question when it is asked of me.
 
@@ -140,7 +137,7 @@ At this stage I'm thinking of an exercise where the students write their future 
 
 Then show a bit of the Did You Know video that mentions various trends like numerous common jobs didn't exist 6 years ago, and that a new worker today will have on average 14 different jobs.
 
-http://www.youtube.com/watch?v=cL9Wu2kWwSY&start=0:37
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cL9Wu2kWwSY?si=uuvD-5id92Fd9Gvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Now, are you sure that is the only thing you'll be doing?
 

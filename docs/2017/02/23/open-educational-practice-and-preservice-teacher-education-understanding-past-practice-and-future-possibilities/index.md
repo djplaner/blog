@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - eei
-date: 2017-02-23 13:53:06+10:00
+date: 2017-02-23 03:53:06
 next:
   text: L&T Orientation for new Academic staff (S1, 2017)
   url: /blog/2017/02/24/lt-orientation-for-new-academic-staff-s1-2017/
@@ -12,10 +12,10 @@ tags:
 - oep
 - oer
 - papers
+template: blog-post.html
 title: '"Open Educational Practice and Preservice Teacher Education: Understanding
   past practice and future possibilities"'
 type: post
-template: blog-post.html
 ---
 Albion, P., Jones, D., Jones, J., & Campbell, C. (2017). [Open Educational Practice and Preservice Teacher Education: Understanding past practice and future possibilities](http://learntechlib.org/p/177356). In Proceedings of Society for Information Technology & Teacher Education International Conference 2017. **Outstanding paper award**
 
@@ -59,7 +59,7 @@ Thus, if teacher graduates are to engage in OEP, it is important for teacher edu
 
 As noted above, ‘open’ has been used as a descriptor for a wide variety of initiatives and with many different meanings. Pomerantz and Peek (2016) adopted ‘fifty shades of open’ as an amusing working title but eventually found at least that many terms using ‘open’. These commonly draw on concepts of freedom but the wide variation in meanings challenges those using the terminology of ‘open’ to clarify both terms and intentions. The status of ‘open’ as a fashionable marker has resulted in ‘openwashing’, the use of ‘open’ to describe things that really are not open. Although this presents risks for the unwary, Pomerantz and Peek suggest that it may ultimately benefit the field as criteria for ‘open’ are clarified in response to inappropriate use.
 
-[![Constitutive Elements of OEP (Ehlers, 2011)](images/33063546395_a65a3d8374.jpg)](https://www.flickr.com/photos/david_jones/33063546395/in/dateposted-public/ "Constitutive Elements of OEP (Ehlers, 2011)")
+[![Constitutive Elements of OEP (Ehlers, 2011)](https://djon.es/assets/blog/2017/02/23/open-educational-practice-and-preservice-teacher-education-understanding-past-practice-and-future-possibilities/images/33063546395_a65a3d8374.jpg)](https://www.flickr.com/photos/david_jones/33063546395/in/dateposted-public/ "Constitutive Elements of OEP (Ehlers, 2011)")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Figure 1: Constitutive Elements of OEP (Ehlers, 2011)
@@ -72,7 +72,7 @@ Ehlers (2011) suggested a second matrix to be used for examining the diffusion o
 
 A recent effort to develop a tool for evaluating progress toward OEP (Stagg, 2014) reviewed the literature and proposed a continuum of open practice against which practices might be evaluated. It represented the continuum as shown in Figure 2 and provided examples of practices that might appear at each stage. At the first stage OER the behavior is essentially consumption with OER being used to support instruction, possibly replacing other material, but without sharing original or adapted resources. Such practice is similar to the first example described by Ehlers (2011) in zone H of the matrix. The other end of the continuum corresponds broadly to zone B or C in the matrix with learners contributing to the adaptation and/or creation of OER. The remaining stages in Stagg’s continuum correspond to sharing a locally created original resource, modifying a single OER for local context, and blending multiple OER for enhancement. Depending on details of implementation they would fit in intermediate zones within the matrix.
 
-[![Continuum of open practice (Stagg, 2014)](images/33063546495_1f58eab6f6.jpg)](https://www.flickr.com/photos/david_jones/33063546495/in/dateposted-public/ "Continuum of open practice (Stagg, 2014)")
+[![Continuum of open practice (Stagg, 2014)](https://djon.es/assets/blog/2017/02/23/open-educational-practice-and-preservice-teacher-education-understanding-past-practice-and-future-possibilities/images/33063546495_1f58eab6f6.jpg)](https://www.flickr.com/photos/david_jones/33063546495/in/dateposted-public/ "Continuum of open practice (Stagg, 2014)")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Figure 2: Continuum of open practice (Stagg, 2014)
@@ -83,7 +83,7 @@ If that adjustment is made to the matrix, it becomes possible to anchor the end 
 
 The framework in Figure 3 is not without problems for interpretation but the combination of matrix and continuum offers a basis for examining how the practices of teacher educators have progressed toward OEP. As noted previously, graduating teachers inclined to open and collaborative ‘professional practice’ will be facilitated by teacher education programs that expose PSTs to OEP. Understanding the extent to which current practice is tending toward OEP is a valuable step toward increasing the prevalence of OEP in a teacher education program. Hence this paper will proceed by describing some examples of teacher education practice and evaluating them against the framework in Figure 3.
 
-[![Continuum of OEP overlaid on adapted matrix (after Ehlers, 2011; Stagg, 2014)](images/32217864334_a0e7657480.jpg)](https://www.flickr.com/photos/david_jones/32217864334/in/dateposted-public/ "Continuum of OEP overlaid on adapted matrix (after Ehlers, 2011; Stagg, 2014)")
+[![Continuum of OEP overlaid on adapted matrix (after Ehlers, 2011; Stagg, 2014)](https://djon.es/assets/blog/2017/02/23/open-educational-practice-and-preservice-teacher-education-understanding-past-practice-and-future-possibilities/images/32217864334_a0e7657480.jpg)](https://www.flickr.com/photos/david_jones/32217864334/in/dateposted-public/ "Continuum of OEP overlaid on adapted matrix (after Ehlers, 2011; Stagg, 2014)")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Figure 3: Continuum of OEP overlaid on adapted matrix (after Ehlers, 2011; Stagg, 2014)

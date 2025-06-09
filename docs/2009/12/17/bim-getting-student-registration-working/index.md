@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2009-12-17 10:02:31+10:00
+date: 2009-12-17 00:02:31
 next:
   text: BIM - Getting "show student details" working
   url: /blog/2009/12/17/bim-getting-show-student-details-working/
 previous:
   text: BIM and Moodle development - a more coherent overview found?
   url: /blog/2009/12/15/bim-and-moodle-a-more-coherent-overview/
+template: blog-post.html
 title: BIM - getting student registration working
 type: post
-template: blog-post.html
 ---
 So, getting back into BIM development. [The last post](/blog/2009/12/14/getting-back-into-bim-summary-and-way-forward/) reminded me where I'm up to. The following is an attempt to plan, implement and document some code. Am starting where I left off, with the registration process for students. As part of this process I am finally starting to use the [to do list](/blog/research/bam-blog-aggregation-management/bim-to-do-list/) for what it was meant to be used for.
 

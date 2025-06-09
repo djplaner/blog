@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - bim
-date: 2009-12-15 15:53:40+10:00
+comments: []
+date: 2009-12-15 05:53:40
 next:
   text: BIM - getting student registration working
   url: /blog/2009/12/17/bim-getting-student-registration-working/
+pingbacks:
+- approved: '1'
+  author: BIM &#8211; getting student registration working &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.245.226
+  author_url: https://djon.es/blog/2009/12/17/bim-getting-student-registration-working/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BIM and Moodle development &#8211; a more coherent overview&nbsp;found? [...]'
+  date: '2009-12-17 10:03:03'
+  date_gmt: '2009-12-17 00:03:03'
+  id: '2894'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Here come the indicators, wait for the task corruption
   url: /blog/2009/12/15/here-come-the-indicators-wait-for-the-task-corruption/
 tags:
 - moodle
+template: blog-post.html
 title: BIM and Moodle development - a more coherent overview found?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM &#8211; getting student registration working &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.245.226
-      author_url: https://djon.es/blog/2009/12/17/bim-getting-student-registration-working/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BIM and Moodle development &#8211; a more coherent overview&nbsp;found? [...]'
-      date: '2009-12-17 10:03:03'
-      date_gmt: '2009-12-17 00:03:03'
-      id: '2894'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Today has been a fairly frustrating today with a mixture of organisational "stuff" and an increasing level of annoyance at the state of the public documentation around Moodle development slowing down [BIM](/blog/2009/12/14/getting-back-into-bim-summary-and-way-forward/) development. That state is essentially with stuff all over the place, no coherent path through it and regularly discrepancies between advice from different sources, or sometimes the same. But that's the nature of documentation and open source projects.
 

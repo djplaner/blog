@@ -1,155 +1,152 @@
----
+﻿---
 categories:
 - edc3100
 - teaching
-date: 2012-12-14 12:00:18+10:00
+comments: []
+date: 2012-12-14 02:00:18
 next:
   text: '"Beyond the early adopters of online instruction: Motivating the reluctant
     majority"'
   url: /blog/2012/12/14/beyond-the-early-adopters-of-online-instruction-motivating-the-reluctant-majority/
+pingbacks:
+- approved: '1'
+  author: Developing personal learning networks for open and social&nbsp;learning
+    | Educaci&oacute;n Expandida y Aumentada | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educacion-expandida-aumentada/p/3711979263/developing-personal-learning-networks-for-open-and-social-learning
+  content: '[...] The following is a summary and touch of reflection on Couros (2010)
+    and is the another step in thinking about the design/implementation of a course
+    I&rsquo;m working on. Thoughts and to do As expec...&nbsp; [...]'
+  date: '2012-12-14 22:26:47'
+  date_gmt: '2012-12-14 12:26:47'
+  id: '528'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Developing personal learning networks for open and social\_learning &laquo;\
+    \ Mi Blog"
+  author_email: null
+  author_ip: 74.200.247.227
+  author_url: http://ravsirius.wordpress.com/2012/12/14/developing-personal-learning-networks-for-open-and-social-learning/
+  content: '[...] See on davidtjones.wordpress.com [...]'
+  date: '2012-12-14 22:33:22'
+  date_gmt: '2012-12-14 12:33:22'
+  id: '529'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Developing personal learning networks for open and social&nbsp;learning
+    | New Learning - Ny l&aelig;ring | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/new-learning-ny-laering/p/3718445926/developing-personal-learning-networks-for-open-and-social-learning
+  content: '[...] The following is a summary and touch of reflection on Couros (2010)
+    and is the another step in thinking about the design/implementation of a course
+    I&rsquo;m working on. Thoughts and to do As expec...&nbsp; [...]'
+  date: '2012-12-15 07:22:23'
+  date_gmt: '2012-12-14 21:22:23'
+  id: '530'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Developing personal learning networks for open and social&nbsp;learning
+    | E-Learning 2.0 | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/e-learning-2-0/p/3747128945/developing-personal-learning-networks-for-open-and-social-learning
+  content: '[...] The following is a summary and touch of reflection on Couros (2010)
+    and is the another step in thinking about the design/implementation of a course
+    I&rsquo;m working on. Thoughts and to do As expec...&nbsp; [...]'
+  date: '2012-12-17 22:23:48'
+  date_gmt: '2012-12-17 12:23:48'
+  id: '531'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'BIM: another restart? &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.232.113.86
+  author_url: https://djon.es/blog/2012/12/19/bim-another-restart/
+  content: '[...] first steps of getting back into work on BIM. I&#8217;m hoping to
+    have it ready to work with some course redesign I&#8217;m working on, but timelines
+    may make that [...]'
+  date: '2012-12-19 08:10:00'
+  date_gmt: '2012-12-18 22:10:00'
+  id: '532'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: ICT and teacher education | DrAlb
+  author_email: null
+  author_ip: 117.55.226.121
+  author_url: http://www.pama.net.au/dralb/?p=3445
+  content: "[...] support their own and others&#8217; learning is important and will\
+    \ be supported by initiatives like working with personal learning networks and\
+    \ contributing to professional communities through activities like content curation\_\
+    as David and [...]"
+  date: '2013-01-05 14:05:36'
+  date_gmt: '2013-01-05 04:05:36'
+  id: '533'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Making some &#8220;3100&#8243; thinking explicit &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 216.151.210.44
+  author_url: https://djon.es/blog/2013/01/11/making-some-3100-thinking-explicit/
+  content: '[...] engaging with the course EDC3100, ICTs and Pedagogy. For the last
+    3 or 4 months I&#8217;ve been reading a bit and generally mulling over what I&#8217;ll
+    do and how far to go. Back in July I started off with [...]'
+  date: '2013-01-11 15:20:19'
+  date_gmt: '2013-01-11 05:20:19'
+  id: '534'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: ICT and teacher education | DrAlb
+  author_email: null
+  author_ip: 117.55.235.21
+  author_url: http://dralb.albion.id.au/?p=3445
+  content: "[&#8230;] support their own and others&#8217; learning is important and\
+    \ will be supported by initiatives like working with personal learning networks\
+    \ and contributing to professional communities through activities like content\
+    \ curation\_as David and [&#8230;]"
+  date: '2015-01-01 11:38:18'
+  date_gmt: '2015-01-01 01:38:18'
+  id: '535'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The Writing Hub &#8211; As a student, participation in NGL was useful to
+    me
+  author_email: null
+  author_ip: 203.98.95.2
+  author_url: https://lifechanginglearning.com.au/uncategorized/as-student-participation-in-ngl-was/
+  content: '[&#8230;] the traditional educational settings do not nurture. Lastly,
+    David also wanted to encourage &#8220;open sharing,&#8221; the sharing of information
+    and expertise to create knowledge collaboratively, rather than [&#8230;]'
+  date: '2015-11-18 06:29:11'
+  date_gmt: '2015-11-17 20:29:11'
+  id: '536'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Understanding management students&#039; reflective practice through blogging
   url: /blog/2012/12/12/understanding-management-students-reflective-practice-through-blogging/
+template: blog-post.html
 title: Developing personal learning networks for open and social learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Developing personal learning networks for open and social&nbsp;learning
-        | Educaci&oacute;n Expandida y Aumentada | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educacion-expandida-aumentada/p/3711979263/developing-personal-learning-networks-for-open-and-social-learning
-      content: '[...] The following is a summary and touch of reflection on Couros (2010)
-        and is the another step in thinking about the design/implementation of a course
-        I&rsquo;m working on. Thoughts and to do As expec...&nbsp; [...]'
-      date: '2012-12-14 22:26:47'
-      date_gmt: '2012-12-14 12:26:47'
-      id: '528'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Developing personal learning networks for open and social\_learning &laquo;\
-        \ Mi Blog"
-      author_email: null
-      author_ip: 74.200.247.227
-      author_url: http://ravsirius.wordpress.com/2012/12/14/developing-personal-learning-networks-for-open-and-social-learning/
-      content: '[...] See on davidtjones.wordpress.com [...]'
-      date: '2012-12-14 22:33:22'
-      date_gmt: '2012-12-14 12:33:22'
-      id: '529'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Developing personal learning networks for open and social&nbsp;learning
-        | New Learning - Ny l&aelig;ring | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/new-learning-ny-laering/p/3718445926/developing-personal-learning-networks-for-open-and-social-learning
-      content: '[...] The following is a summary and touch of reflection on Couros (2010)
-        and is the another step in thinking about the design/implementation of a course
-        I&rsquo;m working on. Thoughts and to do As expec...&nbsp; [...]'
-      date: '2012-12-15 07:22:23'
-      date_gmt: '2012-12-14 21:22:23'
-      id: '530'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Developing personal learning networks for open and social&nbsp;learning
-        | E-Learning 2.0 | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/e-learning-2-0/p/3747128945/developing-personal-learning-networks-for-open-and-social-learning
-      content: '[...] The following is a summary and touch of reflection on Couros (2010)
-        and is the another step in thinking about the design/implementation of a course
-        I&rsquo;m working on. Thoughts and to do As expec...&nbsp; [...]'
-      date: '2012-12-17 22:23:48'
-      date_gmt: '2012-12-17 12:23:48'
-      id: '531'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'BIM: another restart? &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.232.113.86
-      author_url: https://djon.es/blog/2012/12/19/bim-another-restart/
-      content: '[...] first steps of getting back into work on BIM. I&#8217;m hoping to
-        have it ready to work with some course redesign I&#8217;m working on, but timelines
-        may make that [...]'
-      date: '2012-12-19 08:10:00'
-      date_gmt: '2012-12-18 22:10:00'
-      id: '532'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: ICT and teacher education | DrAlb
-      author_email: null
-      author_ip: 117.55.226.121
-      author_url: http://www.pama.net.au/dralb/?p=3445
-      content: "[...] support their own and others&#8217; learning is important and will\
-        \ be supported by initiatives like working with personal learning networks and\
-        \ contributing to professional communities through activities like content curation\_\
-        as David and [...]"
-      date: '2013-01-05 14:05:36'
-      date_gmt: '2013-01-05 04:05:36'
-      id: '533'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Making some &#8220;3100&#8243; thinking explicit &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 216.151.210.44
-      author_url: https://djon.es/blog/2013/01/11/making-some-3100-thinking-explicit/
-      content: '[...] engaging with the course EDC3100, ICTs and Pedagogy. For the last
-        3 or 4 months I&#8217;ve been reading a bit and generally mulling over what I&#8217;ll
-        do and how far to go. Back in July I started off with [...]'
-      date: '2013-01-11 15:20:19'
-      date_gmt: '2013-01-11 05:20:19'
-      id: '534'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: ICT and teacher education | DrAlb
-      author_email: null
-      author_ip: 117.55.235.21
-      author_url: http://dralb.albion.id.au/?p=3445
-      content: "[&#8230;] support their own and others&#8217; learning is important and\
-        \ will be supported by initiatives like working with personal learning networks\
-        \ and contributing to professional communities through activities like content\
-        \ curation\_as David and [&#8230;]"
-      date: '2015-01-01 11:38:18'
-      date_gmt: '2015-01-01 01:38:18'
-      id: '535'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The Writing Hub &#8211; As a student, participation in NGL was useful to
-        me
-      author_email: null
-      author_ip: 203.98.95.2
-      author_url: https://lifechanginglearning.com.au/uncategorized/as-student-participation-in-ngl-was/
-      content: '[&#8230;] the traditional educational settings do not nurture. Lastly,
-        David also wanted to encourage &#8220;open sharing,&#8221; the sharing of information
-        and expertise to create knowledge collaboratively, rather than [&#8230;]'
-      date: '2015-11-18 06:29:11'
-      date_gmt: '2015-11-17 20:29:11'
-      id: '536'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary and touch of reflection on Couros (2010) and is the [another step](/blog/2012/12/12/understanding-management-students-reflective-practice-through-blogging/) in thinking about the design/implementation of a course I'm working on.
 

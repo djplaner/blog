@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - eei
-date: 2017-01-25 13:16:45+10:00
+date: 2017-01-25 03:16:45
 next:
   text: The PEBKAC problems of digital L&T and how to solve it?
   url: /blog/2017/02/10/the-pebkac-problem-of-ict-support-and-training/
@@ -12,9 +12,9 @@ tags:
 - bad
 - mav
 - moodle
+template: blog-post.html
 title: Exploring course site resource usage using MAV
 type: post
-template: blog-post.html
 ---
 The following starts with the following question raised from a colleague about a Moodle course site they have designed.
 
@@ -40,12 +40,12 @@ For example, I can explore usage of the Assessment, Study Schedule and Teaching 
 
 I can see how many times they clicked on the resources. (Click on the images to see larger versions)
 
-[![EDC3100 2016, S1, Clicks](images/31699623433_98661677ec.jpg)](https://www.flickr.com/photos/david_jones/31699623433/in/dateposted-public/ "EDC3100 2016, S1, Clicks")
+[![EDC3100 2016, S1, Clicks](https://djon.es/assets/blog/2017/01/25/exploring-course-resource-usage-using-mav/images/31699623433_98661677ec.jpg)](https://www.flickr.com/photos/david_jones/31699623433/in/dateposted-public/ "EDC3100 2016, S1, Clicks")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I can see the number of students who clicked on the resources
 
-[![EDC3100 2016, S1, Students](images/32389239801_17021db029.jpg)](https://www.flickr.com/photos/david_jones/32389239801/in/dateposted-public/ "EDC3100 2016, S1, Students")
+[![EDC3100 2016, S1, Students](https://djon.es/assets/blog/2017/01/25/exploring-course-resource-usage-using-mav/images/32389239801_17021db029.jpg)](https://www.flickr.com/photos/david_jones/32389239801/in/dateposted-public/ "EDC3100 2016, S1, Students")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Unsurprisingly, the Assessment tab was the most used. The following table summarises.
@@ -68,12 +68,12 @@ Using a standard Moodle plugin and combining that with MAV allows me to quickly 
 
 Number of clicks on each section.
 
-[![Screen Shot 2017-01-25 at 1.11.05 pm](images/32470708926_693b0bbcf1.jpg)](https://www.flickr.com/photos/david_jones/32470708926/in/dateposted-public/ "Screen Shot 2017-01-25 at 1.11.05 pm")
+[![Screen Shot 2017-01-25 at 1.11.05 pm](https://djon.es/assets/blog/2017/01/25/exploring-course-resource-usage-using-mav/images/32470708926_693b0bbcf1.jpg)](https://www.flickr.com/photos/david_jones/32470708926/in/dateposted-public/ "Screen Shot 2017-01-25 at 1.11.05 pm")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Number of students using each section.
 
-[![EDC3100 Assessment contents by student](images/32470707516_fa4471b1c7.jpg)](https://www.flickr.com/photos/david_jones/32470707516/in/dateposted-public/ "EDC3100 Assessment contents by student")
+[![EDC3100 Assessment contents by student](https://djon.es/assets/blog/2017/01/25/exploring-course-resource-usage-using-mav/images/32470707516_fa4471b1c7.jpg)](https://www.flickr.com/photos/david_jones/32470707516/in/dateposted-public/ "EDC3100 Assessment contents by student")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The most clicked on information in this book are the three pages specifying what the students had to do for the three assignments. The next closest was the "learning journal" information which outlines one of the _different_ practices in the course. The nature of which causes some consternation early in the course. But even with that, a good 10% of students never visit that information.

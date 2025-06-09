@@ -1,53 +1,50 @@
----
+﻿---
 categories:
 - indicators
 - irac
 - pirac
-date: 2015-06-24 17:49:54+10:00
+comments: []
+date: 2015-06-24 07:49:54
 next:
   text: And the little one said, "roll over, roll over"
   url: /blog/2015/06/26/and-the-little-one-said-roll-over-roll-over/
+pingbacks:
+- approved: '1'
+  author: What might a project combining LX Design and Analaytics look like? | The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.190
+  author_url: https://davidtjones.wordpress.com/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
+  content: '[&#8230;] It hardly ever does anything about affordances or change. This
+    is why dashboards suck and are a broken metaphor. A dashboard without the ability
+    to do anything to control the car are no value [&#8230;]'
+  date: '2015-09-14 11:40:48'
+  date_gmt: '2015-09-14 01:40:48'
+  id: '1338'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Situation awareness, complex adaptive systems and learning analytics | Col&#039;s
+    Weblog
+  author_email: null
+  author_ip: 192.0.86.68
+  author_url: https://beerc.wordpress.com/2015/09/29/situation-awareness-complex-adaptive-systems-and-learning-analytics/
+  content: "[&#8230;] I see a role for learning analytics data and I think it links\
+    \ to David\u2019s sentiments about why dashboards suck. The retrospective nature\
+    \ of business intelligence style dashboards limits their usefulness in the [&#8230;]"
+  date: '2015-09-29 14:50:57'
+  date_gmt: '2015-09-29 04:50:57'
+  id: '1339'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Revisiting the IRAC framework and looking for insights
   url: /blog/2015/06/18/revisiting-the-irac-framework-and-looking-for-insights/
+template: blog-post.html
 title: '"Dashboards suck: learning analytics'' broken metaphor"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: What might a project combining LX Design and Analaytics look like? | The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.190
-      author_url: https://davidtjones.wordpress.com/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
-      content: '[&#8230;] It hardly ever does anything about affordances or change. This
-        is why dashboards suck and are a broken metaphor. A dashboard without the ability
-        to do anything to control the car are no value [&#8230;]'
-      date: '2015-09-14 11:40:48'
-      date_gmt: '2015-09-14 01:40:48'
-      id: '1338'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Situation awareness, complex adaptive systems and learning analytics | Col&#039;s
-        Weblog
-      author_email: null
-      author_ip: 192.0.86.68
-      author_url: https://beerc.wordpress.com/2015/09/29/situation-awareness-complex-adaptive-systems-and-learning-analytics/
-      content: "[&#8230;] I see a role for learning analytics data and I think it links\
-        \ to David\u2019s sentiments about why dashboards suck. The retrospective nature\
-        \ of business intelligence style dashboards limits their usefulness in the [&#8230;]"
-      date: '2015-09-29 14:50:57'
-      date_gmt: '2015-09-29 04:50:57'
-      id: '1339'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I started playing around with what became learning analytics in 2007 or so. Since then every/any time "learning analytics" is mentioned in a university there's almost an automatic mention of dashboards. So much so I was lead to tweet.
 
@@ -85,7 +82,7 @@ What's worse, the dashboards provided by most data warehouses aren't even locate
 
 Picking up on the argument of Don Norman (see quote in image below), the difficulty of this process would seem likely to reduce the chances of any of those potential actions being taken. Especially if we're talking about (casual) teaching staff working within a large course with limited training, support and tools.
 
-[![Norman on affordances](images/18656913650_b2a17f2513_n.jpg)](https://www.flickr.com/photos/david_jones/18656913650 "Norman on affordances by David Jones, on Flickr")
+[![Norman on affordances](https://djon.es/assets/blog/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/images/18656913650_b2a17f2513_n.jpg)](https://www.flickr.com/photos/david_jones/18656913650 "Norman on affordances by David Jones, on Flickr")
 
 ### Affordances improve learning analytics
 

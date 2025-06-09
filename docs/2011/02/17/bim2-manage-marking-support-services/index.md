@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2011-02-17 20:55:29+10:00
+date: 2011-02-17 10:55:29
 next:
   text: '"bim2: manage marking services - Part II"'
   url: /blog/2011/02/19/bim2-manage-marking-services-part-ii/
 previous:
   text: 'bim2: Coordinator&#039;s manage marking tab'
   url: /blog/2011/02/16/bim2-coordinators-manage-marking-tab/
+template: blog-post.html
 title: '"bim2: manage marking support services"'
 type: post
-template: blog-post.html
 ---
 As per [the last post](/blog/2011/02/16/bim2-coordinators-manage-marking-tab/) time to complete some support services for manage marking.
 
@@ -86,7 +86,7 @@ The problem is that the keys for the two different arrays (user\_details and fee
 
 Time to put in the criteria blurb at the top, basically tells the user what criteria is being used to search for students. So, that's working. Here's an example, the breadcrumb navigation will need looking at.
 
-[![bim2: View details](images/5452716083_e2129e08cf_m.jpg)](http://www.flickr.com/photos/david_jones/5452716083/)
+[![bim2: View details](https://djon.es/assets/blog/2011/02/17/bim2-manage-marking-support-services/images/5452716083_e2129e08cf_m.jpg)](http://www.flickr.com/photos/david_jones/5452716083/)
 
 ### What's next
 

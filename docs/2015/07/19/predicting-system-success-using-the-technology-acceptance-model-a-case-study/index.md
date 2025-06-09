@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - publications
 - tam
-date: 2015-07-19 10:33:14+10:00
+date: 2015-07-19 00:33:14
 next:
   text: Mocking up a search facility for the Moodle book module
   url: /blog/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/
 previous:
   text: 'Import and the Book module: a case of knowledge loss?'
   url: /blog/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/
+template: blog-post.html
 title: '"Predicting System Success using the Technology Acceptance Model: A Case Study"'
 type: post
-template: blog-post.html
 ---
 Behrens, S., Jamieson, K., Jones, D., & Cranston, M. (2005). Predicting system success using the Technology Acceptance Model: A case study. In 16th Australasian Conference on Information Systems (Paper 70). Sydney. Retrieved from http://aisel.aisnet.org/acis2005/70/
 
@@ -66,13 +66,13 @@ Online Assignment Submission, Infocom System (OASIS) arose out of early experime
 
 Students enrolled in Infocom courses are distributed across a number of campuses as well as being enrolled via distance education. There are five regional Central Queensland (CQ) campuses in Bundaberg, Emerald, Gladstone, Mackay and Rockhampton. Four other Australian International campuses (AICs) in Brisbane, Gold Coast, Sydney and Melbourne managed by a commercial partner. Campuses are also located overseas in Fiji, Singapore, Malaysia, Hong Kong and China. Students may also study from any location in the world via distance education (FLEX). Figure 1 provides a summary of Infocom student numbers from 1996 to 2005.
 
-[![OASIS usage in percentage](images/19624495158_4415db664a.jpg)](https://www.flickr.com/photos/david_jones/19624495158/in/dateposted-public/ "OASIS usage in percentage")
+[![OASIS usage in percentage](https://djon.es/assets/blog/2015/07/19/predicting-system-success-using-the-technology-acceptance-model-a-case-study/images/19624495158_4415db664a.jpg)](https://www.flickr.com/photos/david_jones/19624495158/in/dateposted-public/ "OASIS usage in percentage")
 
 Figure 1. Number and type of students enrolled in Infocom Courses (1996-2005)
 
 Since its inception Infocom has had a small development team responsible for its online presence. In 2001, partly in response to increasing numbers, this team was expanded and additional effort placed on providing services that would help support Infocom's teaching operations. Using an agile development methodology (Jones and Gregor, 2004) this group, in response to direct user feedback, made a range of additions to OASIS to improve its functionality. The combination of increasing complexity and this on-going development of OASIS appears to have had an impact on usage of OASIS. Figure 2 shows percentage of Infocom students, staff and courses using OASIS from 2000-2005. Specific staff figures are only available from 2002 onwards when a markers' database was added to the system.
 
-[![Number and type of students enrolled in Infocom Courses](images/19786335116_abfc158ebd.jpg)](https://www.flickr.com/photos/david_jones/19786335116/in/dateposted-public/ "Number and type of students enrolled in Infocom Courses")
+[![Number and type of students enrolled in Infocom Courses](https://djon.es/assets/blog/2015/07/19/predicting-system-success-using-the-technology-acceptance-model-a-case-study/images/19786335116_abfc158ebd.jpg)](https://www.flickr.com/photos/david_jones/19786335116/in/dateposted-public/ "Number and type of students enrolled in Infocom Courses")
 
 Figure 2: OASIS usage in percentages of Infocom students, courses, and staff (\* figures as of September 30, 2005)
 

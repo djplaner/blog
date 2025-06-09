@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bad
-date: 2016-09-07 13:08:23+10:00
+date: 2016-09-07 03:08:23
 next:
   text: '"Making course activity more transparent: A proposed use of MAV"'
   url: /blog/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/
 previous:
   text: "Exploring Moodle Book usage \u2013 Part 6 \u2013 What do they contain?"
   url: /blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/
+template: blog-post.html
 title: '"University digital technology: problems, causes, and suggested solutions"'
 type: post
-template: blog-post.html
 ---
 The level of support provided by digital technologies to broad learning and teaching tasks within my little part of my current institution is extremely limited. The following is one explanation why this is the case, and one set of suggestions for what might be done, both immediately and longer term.
 
@@ -29,13 +29,13 @@ While there is a logic behind those principles, these principles also create at 
 
 ### Lowest common denominator
 
-[![Making Omelettes by PhotoGraham, on Flickr](images/260939952_63b19e2128_m.jpg "Making Omelettes by PhotoGraham, on Flickr")](https://www.flickr.com/photos/photograham/260939952/) "[Making Omelettes](https://www.flickr.com/photos/photograham/260939952/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/photograham/)[PhotoGraham](https://www.flickr.com/people/photograham/) [](http://www.imagecodr.org/)
+[![Making Omelettes by PhotoGraham, on Flickr](https://djon.es/assets/blog/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/images/260939952_63b19e2128_m.jpg "Making Omelettes by PhotoGraham, on Flickr")](https://www.flickr.com/photos/photograham/260939952/) "[Making Omelettes](https://www.flickr.com/photos/photograham/260939952/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/photograham/)[PhotoGraham](https://www.flickr.com/people/photograham/) [](http://www.imagecodr.org/)
 
 If you work for my institution and you need to create a website for some purpose then you have two options: Moodle or [Sitecore](http://www.sitecore.net/). Moodle is the LMS and Sitecore is the content experience (really sitecore, experience?) management system used by marketing to manage the corporate website. This is what we have, so every request to have a website must use one of these.
 
 This has lead to a huge number of Moodle courses sites being created for purposes that are so far removed from the intent of Moodle (or sitecore). Not surprisingly these sites tend to be largely inactive, largely because Moodle (or sitecore) does not make it easy to complete the sort of activities that the purpose required. Those activities become too hard, so they don't get done. They work as well as using a hammer to open a boiled egg.
 
-[![Choice1](images/19538593335_e8af6fb8ef_m.jpg)](https://www.flickr.com/photos/david_jones/19538593335/in/photolist-vfo1-vLyp5T-uPGesP "Choice1")
+[![Choice1](https://djon.es/assets/blog/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/images/19538593335_e8af6fb8ef_m.jpg)](https://www.flickr.com/photos/david_jones/19538593335/in/photolist-vfo1-vLyp5T-uPGesP "Choice1")
 
 The focus on the **whole** organisation means that enterprise IT suffers from a version of [the reusability paradox](http://cnx.org/contents/2tQZVsKy@19/The-Reusability-Paradox). As they focus more and more on making a digital technology reusable across the entire organisation, they must remove from that digital technology anything that provides value within specific contexts. Anything that helps pre-service teachers learn, gets removed because they don't represent the **whole** organisation.
 

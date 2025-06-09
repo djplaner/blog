@@ -1,108 +1,106 @@
----
+﻿---
 categories:
 - netgl
-date: 2015-08-17 17:17:14+10:00
+comments:
+- approved: '1'
+  author: lenandlar
+  author_email: lenandlar@gmail.com
+  author_ip: 200.7.148.253
+  author_url: null
+  content: Thanks for sharing. Is there an aggregate of students blogs  (assuming
+    they are sharing online ) and to the course outline or so (for free ie ). Thanks
+    again. Love the way you connected to those different papers and ideas - Barabasi,
+    Downes etc. That makes your point further even if implicitly so
+  date: '2015-08-17 21:03:01'
+  date_gmt: '2015-08-17 11:03:01'
+  id: '1377'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.69.32
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the feedback.  Have a few more of these to write.
+
+
+    The entire course content etc is being hosted on <a href="https://netgl.wordpress.com/"
+    rel="nofollow">this blog</a>.  You can see the list of participant blogs in the
+    blogroll, but there''s also <a href="https://dl.dropboxusercontent.com/u/14025788/edu8117/2015/edu8117_Participant_Blogs.opml"
+    rel="nofollow">an OPML file</a> with all the participant blogs.'
+  date: '2015-08-18 10:36:55'
+  date_gmt: '2015-08-18 00:36:55'
+  id: '1378'
+  parent: '1377'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: lenandlar
+  author_email: lenandlar@gmail.com
+  author_ip: 200.7.148.252
+  author_url: null
+  content: Thanks for sharing these links too. Looking forward to checking them out
+  date: '2015-08-18 10:49:48'
+  date_gmt: '2015-08-18 00:49:48'
+  id: '1379'
+  parent: '1378'
+  type: comment
+  user_id: '0'
+date: 2015-08-17 07:17:14
 next:
   text: Testing the Lucimoo epub export book tool
   url: /blog/2015/08/18/testing-the-lucimoo-epub-export-book-tool/
+pingbacks:
+- approved: '1'
+  author: Understanding learning as network formation | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.116
+  author_url: https://davidtjones.wordpress.com/2015/08/18/understanding-learning-as-network-formation/
+  content: '[&#8230;] is a follow on from yesterday&#8217;s post weaving in a few
+    posts from netgl [&#8230;]'
+  date: '2015-08-18 14:31:55'
+  date_gmt: '2015-08-18 04:31:55'
+  id: '1380'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: As a student, participation in NGL was useful for me. | teachfacilitatelearngrow
+  author_email: null
+  author_ip: 192.0.81.142
+  author_url: https://teachfacilitatelearngrow.wordpress.com/2015/09/19/as-a-student-participation-in-ngl-was-useful-for-me/
+  content: '[&#8230;] Jones, D. (2015, August 17). There&#8217;s more to it than the
+    Internet and social software. Retrieved from The Weblog of (a) David Jones: https://davidtjones.wordpress.com/2015/08/17/theres-more-to-it-than-the-internet-and-social-software&#8230;
+    [&#8230;]'
+  date: '2015-09-19 14:07:40'
+  date_gmt: '2015-09-19 04:07:40'
+  id: '1381'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Understanding and using the idea of &#8220;network learning&#8221; &#8211;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.118.102
+  author_url: https://davidtjones.wordpress.com/2016/08/17/understanding-and-using-the-idea-of-network-learning/
+  content: "[&#8230;] This post from last year &#8211; titled &#8220;There\u2019s\
+    \ more to it than the Internet and social\_software&#8221; &#8211; picks up a\
+    \ similar refrain and links it to various thoughts from 2015 NGL participants\
+    \ and beyond, including the idea that everything is a network. [&#8230;]"
+  date: '2016-08-17 15:37:14'
+  date_gmt: '2016-08-17 05:37:14'
+  id: '1382'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: github and the Moodle book - Step 2
   url: /blog/2015/08/16/github-and-the-moodle-book-step-2/
+template: blog-post.html
 title: There's more to it than the Internet and social software
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: lenandlar
-      author_email: lenandlar@gmail.com
-      author_ip: 200.7.148.253
-      author_url: null
-      content: Thanks for sharing. Is there an aggregate of students blogs  (assuming
-        they are sharing online ) and to the course outline or so (for free ie ). Thanks
-        again. Love the way you connected to those different papers and ideas - Barabasi,
-        Downes etc. That makes your point further even if implicitly so
-      date: '2015-08-17 21:03:01'
-      date_gmt: '2015-08-17 11:03:01'
-      id: '1377'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.69.32
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the feedback.  Have a few more of these to write.
-    
-    
-        The entire course content etc is being hosted on <a href="https://netgl.wordpress.com/"
-        rel="nofollow">this blog</a>.  You can see the list of participant blogs in the
-        blogroll, but there''s also <a href="https://dl.dropboxusercontent.com/u/14025788/edu8117/2015/edu8117_Participant_Blogs.opml"
-        rel="nofollow">an OPML file</a> with all the participant blogs.'
-      date: '2015-08-18 10:36:55'
-      date_gmt: '2015-08-18 00:36:55'
-      id: '1378'
-      parent: '1377'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: lenandlar
-      author_email: lenandlar@gmail.com
-      author_ip: 200.7.148.252
-      author_url: null
-      content: Thanks for sharing these links too. Looking forward to checking them out
-      date: '2015-08-18 10:49:48'
-      date_gmt: '2015-08-18 00:49:48'
-      id: '1379'
-      parent: '1378'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Understanding learning as network formation | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.116
-      author_url: https://davidtjones.wordpress.com/2015/08/18/understanding-learning-as-network-formation/
-      content: '[&#8230;] is a follow on from yesterday&#8217;s post weaving in a few
-        posts from netgl [&#8230;]'
-      date: '2015-08-18 14:31:55'
-      date_gmt: '2015-08-18 04:31:55'
-      id: '1380'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: As a student, participation in NGL was useful for me. | teachfacilitatelearngrow
-      author_email: null
-      author_ip: 192.0.81.142
-      author_url: https://teachfacilitatelearngrow.wordpress.com/2015/09/19/as-a-student-participation-in-ngl-was-useful-for-me/
-      content: '[&#8230;] Jones, D. (2015, August 17). There&#8217;s more to it than the
-        Internet and social software. Retrieved from The Weblog of (a) David Jones: https://davidtjones.wordpress.com/2015/08/17/theres-more-to-it-than-the-internet-and-social-software&#8230;
-        [&#8230;]'
-      date: '2015-09-19 14:07:40'
-      date_gmt: '2015-09-19 04:07:40'
-      id: '1381'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Understanding and using the idea of &#8220;network learning&#8221; &#8211;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.118.102
-      author_url: https://davidtjones.wordpress.com/2016/08/17/understanding-and-using-the-idea-of-network-learning/
-      content: "[&#8230;] This post from last year &#8211; titled &#8220;There\u2019s\
-        \ more to it than the Internet and social\_software&#8221; &#8211; picks up a\
-        \ similar refrain and links it to various thoughts from 2015 NGL participants\
-        \ and beyond, including the idea that everything is a network. [&#8230;]"
-      date: '2016-08-17 15:37:14'
-      date_gmt: '2016-08-17 05:37:14'
-      id: '1382'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a bit of reflection and curation of various posts from participants in the [netgl course](https://netgl.wordpress.com/). There'll be a few of these coming. The aim for this post is to suggest that there might be more to the "networked" part of Networked and Global Learning than just the Internet and social media. This is an important point to make because the interventions design by the folk from last year's offering of the course were a little too limited in their focus on the Internet and various forms of social media.
 

@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - webfuse
-date: 2006-12-16 13:39:18+10:00
+date: 2006-12-16 03:39:18
 next:
   text: Social capital, REACT, Trust - misc resources
   url: /blog/2006/12/19/social-capital-react-trust-misc-resources/
 previous:
   text: Adoption of innovations and the &quot;not invented here&quot; syndrome
   url: /blog/2006/12/16/adoption-of-innovations-and-the-not-invented-here-syndrome/
+template: blog-post.html
 title: Social capital - outcome and aim
 type: post
-template: blog-post.html
 ---
 The following comes from 'Lessons for Education: Creating a Learning System' (Hargreaves, 2000). It talks about social capital and the role it might play in innovations in higher education.
 

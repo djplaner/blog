@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - indicators
 - lak11
-date: 2011-01-10 23:56:30+10:00
+date: 2011-01-10 13:56:30
 next:
   text: Applying "learning analytics" to BIM
   url: /blog/2011/01/12/applying-learning-analytics-to-bim/
@@ -10,9 +10,9 @@ previous:
   text: A start to the &quot;Introduction to Learning and Knowledge Analytics&quot;
     MOOC
   url: /blog/2011/01/10/a-start-to-the-introduction-to-learning-and-knowledge-analytics-mooc/
+template: blog-post.html
 title: '"Learning analytics: Definitions, processes and potential"'
 type: post
-template: blog-post.html
 ---
 The following is the summary of my first reading for the [LAK11 MOOC](http://www.learninganalytics.net/) and follows on from [my initial thoughts](/blog/2011/01/10/a-start-to-the-introduction-to-learning-and-knowledge-analytics-mooc/).
 
@@ -27,7 +27,7 @@ The paper essentially
 - Identifies four types of resources; and
 - combines them in the following model.
 
-[![A model for learning analytics](images/5342991372_7f242925ea_m.jpg)](http://www.flickr.com/photos/david_jones/5342991372/ "A model for learning analytics by David T Jones, on Flickr")
+[![A model for learning analytics](https://djon.es/assets/blog/2011/01/10/learning-analytics-definitions-processes-and-potential/images/5342991372_7f242925ea_m.jpg)](http://www.flickr.com/photos/david_jones/5342991372/ "A model for learning analytics by David T Jones, on Flickr")
 
 The paper closes with what seems to be the ultimate goal of most of the folk involved with learning analytics - automated, individualised education. I'm not sure that this is a helpful aim. First, because I have my doubts that it can ever be achieved in the real world as opposed to a closed system (i.e. laboratory experiment). Second, because I think that there is a chance that having this as the ultimate aim will result in less focus on, what I think is the more fruitful approach of, working out how analytics can supplement the role of human beings in the teaching process.
 

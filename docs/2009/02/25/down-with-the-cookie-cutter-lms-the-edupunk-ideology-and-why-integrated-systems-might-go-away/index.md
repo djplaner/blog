@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,65 +6,62 @@ categories:
 - plescquni
 - psframework
 - thesis
-date: 2009-02-25 08:45:32+10:00
+comments: []
+date: 2009-02-24 22:45:32
 next:
   text: Improving university teaching - learning from constructive alignment by *NOT*
     mandating it
   url: /blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/
+pingbacks:
+- approved: '1'
+  author: 'Edupunk: Rebelling Against Constraints in Learning Management | Workplace
+    Learning Today'
+  author_email: null
+  author_ip: 204.10.64.90
+  author_url: http://www.brandon-hall.com/workplacelearningtoday/?p=3205
+  content: "[...] Down with the cookie-cutter LMS: the Edupunk ideology and why integrated\
+    \ systems might go away | The Weblog of (a) David Jones | David Jones \_| 25 February\
+    \ 2009 [...]"
+  date: '2009-02-26 23:03:19'
+  date_gmt: '2009-02-26 13:03:19'
+  id: '2182'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Edu-Punk: In search of a new LMS &laquo; We eVision It'
+  author_email: null
+  author_ip: 76.74.248.177
+  author_url: http://evisiondesign.wordpress.com/2009/03/02/edu-punk-in-search-of-a-new-lms/
+  content: '[...] Edu-Punk: In search of a new&nbsp;LMS By dwiggi  https://djon.es/blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and...
+    [...]'
+  date: '2009-03-03 05:07:52'
+  date_gmt: '2009-03-02 19:07:52'
+  id: '2183'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Performance degradation - impact of new LMS implementation &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
+  content: '[...] Edupunk versus &#8220;vanilla implementation&#8221;; [...]'
+  date: '2009-04-20 15:30:51'
+  date_gmt: '2009-04-20 05:30:51'
+  id: '2184'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Blogs in E-Learning: BAM, Moodle and a taxonomy of educational aggregation
     projects?'
   url: /blog/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/
+template: blog-post.html
 title: '"Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
   systems might go away"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Edupunk: Rebelling Against Constraints in Learning Management | Workplace
-        Learning Today'
-      author_email: null
-      author_ip: 204.10.64.90
-      author_url: http://www.brandon-hall.com/workplacelearningtoday/?p=3205
-      content: "[...] Down with the cookie-cutter LMS: the Edupunk ideology and why integrated\
-        \ systems might go away | The Weblog of (a) David Jones | David Jones \_| 25 February\
-        \ 2009 [...]"
-      date: '2009-02-26 23:03:19'
-      date_gmt: '2009-02-26 13:03:19'
-      id: '2182'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Edu-Punk: In search of a new LMS &laquo; We eVision It'
-      author_email: null
-      author_ip: 76.74.248.177
-      author_url: http://evisiondesign.wordpress.com/2009/03/02/edu-punk-in-search-of-a-new-lms/
-      content: '[...] Edu-Punk: In search of a new&nbsp;LMS By dwiggi  https://djon.es/blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and...
-        [...]'
-      date: '2009-03-03 05:07:52'
-      date_gmt: '2009-03-02 19:07:52'
-      id: '2183'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Performance degradation - impact of new LMS implementation &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
-      content: '[...] Edupunk versus &#8220;vanilla implementation&#8221;; [...]'
-      date: '2009-04-20 15:30:51'
-      date_gmt: '2009-04-20 05:30:51'
-      id: '2184'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [Edupunk](http://en.wikipedia.org/wiki/Edupunk) as a term has been circulating since May last year. D'Arcy Norman has [posted](http://www.darcynorman.net/2009/02/24/now-this-is-edupunk/) the YouTube video from below with a couple of folk talking about Edupunk, including Jim Groom the guy who [originated the idea](http://bavatuesdays.com/the-glass-bees/)
 

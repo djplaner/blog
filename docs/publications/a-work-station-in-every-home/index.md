@@ -1,8 +1,8 @@
----
-date: 2009-01-02 12:57:34+10:00
+﻿---
+date: 2009-01-02 02:57:34
+template: blog-post.html
 title: A work station in every home!
 type: page
-template: blog-post.html
 ---
 David Jones. A Workstation in Every Home!, Asia Pacific Information Technology in Education Conference, Brisbane, July 1994.
 

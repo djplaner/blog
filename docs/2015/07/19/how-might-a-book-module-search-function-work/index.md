@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - moodleopenbook
-date: 2015-07-19 16:22:41+10:00
+date: 2015-07-19 06:22:41
 next:
   text: Updating "more student details"
   url: /blog/2015/07/23/updating-more-student-details/
 previous:
   text: Mocking up a search facility for the Moodle book module
   url: /blog/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/
+template: blog-post.html
 title: How might a Book module search function work?
 type: post
-template: blog-post.html
 ---
 What follows is some explorations of the technology behind Moodle to see how [the mockups of a Book module search function](/blog/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/) might be implemented. Building my own knowledge of how it works and testing whether it might be possible. It's largely an exploration of how the Search forum block works on the assumption that mirroring that will be a reasonable way to implement a search facility for the Book module.
 
@@ -72,11 +72,11 @@ Given that the Book module doesn't have the same variety and complexity in terms
 
 Would seem to be fairly straight forward and easy to implement.
 
-[![001_SearchBooks](images/19196124183_54971e07a7_o.jpg)](https://www.flickr.com/photos/david_jones/19196124183/in/dateposted-public/ "001_SearchBooks")
+[![001_SearchBooks](https://djon.es/assets/blog/2015/07/19/how-might-a-book-module-search-function-work/images/19196124183_54971e07a7_o.jpg)](https://www.flickr.com/photos/david_jones/19196124183/in/dateposted-public/ "001_SearchBooks")
 
 ### Advanced search form
 
-[![003_searchShowingBooks.tiff](images/19791024836_c51305ddbb.jpg)](https://www.flickr.com/photos/david_jones/19791024836/in/dateposted-public/ "003_searchShowingBooks.tiff")
+[![003_searchShowingBooks.tiff](https://djon.es/assets/blog/2015/07/19/how-might-a-book-module-search-function-work/images/19791024836_c51305ddbb.jpg)](https://www.flickr.com/photos/david_jones/19791024836/in/dateposted-public/ "003_searchShowingBooks.tiff")
 
 The main additional complexity here would be to generate the list of course topics and the books that belong to each topic.
 
@@ -95,7 +95,7 @@ The modules (activities) that are included in each course section is stored in *
 
 ### Searching and displaying the book and its chapters
 
-[![004_results](images/19195121204_5d57647079.jpg)](https://www.flickr.com/photos/david_jones/19195121204/in/dateposted-public/ "004_results")
+[![004_results](https://djon.es/assets/blog/2015/07/19/how-might-a-book-module-search-function-work/images/19195121204_5d57647079.jpg)](https://www.flickr.com/photos/david_jones/19195121204/in/dateposted-public/ "004_results")
 
 **book** table includes the name and introduction to the book. No indication of who created it.
 

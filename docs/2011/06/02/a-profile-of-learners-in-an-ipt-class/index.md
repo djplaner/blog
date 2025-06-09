@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - eded20491
 - ipt
 - teaching
-date: 2011-06-02 10:00:56+10:00
+date: 2011-06-02 00:00:56
 next:
   text: Learner profile - ICTs for E-Learning A3 - Part 1
   url: /blog/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/
 previous:
   text: Requirements and ideas for an eLearning design for IPT
   url: /blog/2011/06/01/requirements-and-ideas-for-an-elearning-design-for-ipt/
+template: blog-post.html
 title: A profile of learners in an IPT class
 type: post
-template: blog-post.html
 ---
 [The last post](http://bit.ly/jskPGq) was the first step in designing a unit of work for a senior IPT (Information and Processing Technology) course as part of an assignment for a course titled ICTs for Learning Design. The intent is to show an ability to integrate e-learning into learning design in effective ways. The first part of the assignment requires a profile of the learners. The following is my first attempt at such a profile. I'm very interested to hear comments from those folk who are currently teaching IPT. Am I on the right track? What have I missed?
 

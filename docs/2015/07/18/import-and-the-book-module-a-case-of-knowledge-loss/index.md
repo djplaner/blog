@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - moodleopenbook
 - openbook
-date: 2015-07-18 15:53:46+10:00
+comments: []
+date: 2015-07-18 05:53:46
 next:
   text: '"Predicting System Success using the Technology Acceptance Model: A Case
     Study"'
   url: /blog/2015/07/19/predicting-system-success-using-the-technology-acceptance-model-a-case-study/
+pingbacks:
+- approved: '1'
+  author: How to help improve the Moodle book module | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.86.61
+  author_url: https://davidtjones.wordpress.com/2015/02/10/how-to-help-improve-the-moodle-book-module/
+  content: '[&#8230;] Update: The &#8220;bug&#8221; in the Book module reported below
+    is not a bug. There&#8217;s actually functionality in the Book module to support
+    this, it&#8217;s just not obvious. More explanation is available. [&#8230;]'
+  date: '2015-08-13 14:00:29'
+  date_gmt: '2015-08-13 04:00:29'
+  id: '1364'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Testing the Lucimoo epub export book tool | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.24
+  author_url: https://davidtjones.wordpress.com/2015/08/18/testing-the-lucimoo-epub-export-book-tool/
+  content: '[&#8230;] books from my main course. Something that&#8217;s much easier
+    now that @jonof helped identify some lost knowledge (and my [&#8230;]'
+  date: '2015-08-18 10:22:38'
+  date_gmt: '2015-08-18 00:22:38'
+  id: '1365'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Me as learner: 2015 and learning analytics'
   url: /blog/2015/07/16/me-as-learner-2015-and-learning-analytics/
+template: blog-post.html
 title: '"Import and the Book module: a case of knowledge loss?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: How to help improve the Moodle book module | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.86.61
-      author_url: https://davidtjones.wordpress.com/2015/02/10/how-to-help-improve-the-moodle-book-module/
-      content: '[&#8230;] Update: The &#8220;bug&#8221; in the Book module reported below
-        is not a bug. There&#8217;s actually functionality in the Book module to support
-        this, it&#8217;s just not obvious. More explanation is available. [&#8230;]'
-      date: '2015-08-13 14:00:29'
-      date_gmt: '2015-08-13 04:00:29'
-      id: '1364'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Testing the Lucimoo epub export book tool | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.24
-      author_url: https://davidtjones.wordpress.com/2015/08/18/testing-the-lucimoo-epub-export-book-tool/
-      content: '[&#8230;] books from my main course. Something that&#8217;s much easier
-        now that @jonof helped identify some lost knowledge (and my [&#8230;]'
-      date: '2015-08-18 10:22:38'
-      date_gmt: '2015-08-18 00:22:38'
-      id: '1365'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The ability to modify open source software (like Moodle) is often identified as one of its strengths. The ability to scratch your own itch, to modify the software to fit your needs is seen as a major plus. Especially when - as with Moodle - that software has an inherently modular (the M in Moodle stands for modulear) architecture that makes it easier for people to scratch their own itch. But making modifications to large bits of software like Moodle requires a fair bit of specific knowledge.
 
@@ -54,7 +51,7 @@ Costello (2014) points out that the "perception that Moodle is easier for instit
 
 As outlined in [this post](/blog/2015/02/10/how-to-help-improve-the-moodle-book-module/) I had a problem with the [Moodle Book module](https://docs.moodle.org/28/en/Book_module) and its import functionality. A problem illustrated by the following image. In short, the import functionality allows you to provide a zip file containing multiple HTML files. The import should unpack that zip file and place each of the HTML files into the book as separate chapters.
 
-[![Problem with Moodle book import](images/19397517716_5a80851d0f.jpg)](https://www.flickr.com/photos/david_jones/19397517716/in/dateposted-public/ "Problem with Moodle book import")
+[![Problem with Moodle book import](https://djon.es/assets/blog/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/images/19397517716_5a80851d0f.jpg)](https://www.flickr.com/photos/david_jones/19397517716/in/dateposted-public/ "Problem with Moodle book import")
 
 But as the image above shows I found two problems
 

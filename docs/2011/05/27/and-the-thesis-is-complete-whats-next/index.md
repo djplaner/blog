@@ -1,107 +1,105 @@
----
+﻿---
 categories:
 - design-theory
 - phd
 - thesis
 - webfuse
-date: 2011-05-27 16:04:27+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.78.68
+  author_url: http://www.vrbones.com
+  content: '<blockquote>Celebrations, like blogging, had become victim of circumstance.
+    Circumstances that included: being a student teacher placed at a local high school
+    4 days a week and having to prepare and deliver an increasing number of lessons,
+    at the same time having to complete University assignments, spend time with my
+    family, and most recently recover from the flu. </blockquote>
+
+    I know how you feel. My Friday reflections didn''t make it past a couple of weeks
+    in, and the weekend gone I managed 20 out of the estimated 34 hours I needed to
+    get stuff ready for this week.
+
+
+    First year seems harder than prac as there is no limit on how much preparation
+    time you''re expected to do (apart from your willingness to do it), and there
+    are many, MANY reporting pressures that suck the daylight from your schedule.
+
+
+    Hang in there.'
+  date: '2011-05-30 20:22:15'
+  date_gmt: '2011-05-30 10:22:15'
+  id: '70'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'I have heard about the workloads of first year teachers from a range of
+    folk. For that reason, I''m not looking forward to it. The last few weeks have
+    been difficult, but I am finding that as time proceeds it is getting a bit easier.
+
+
+    I imagine that feeling turning around quite sharply by the time of the internship
+    later in the year and again during first year. Time will tell.
+
+
+    One of the other problems I''m finding with blogging directly about school is
+    the question of anonymity. There are somethings I can''t blog about simply because
+    it would be too easy to identify the folk involved.
+
+
+    Hope to see more your reflections Tony, when you can afford it.'
+  date: '2011-05-30 20:32:03'
+  date_gmt: '2011-05-30 10:32:03'
+  id: '71'
+  parent: '70'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 58.106.134.77
+  author_url: http://cj13.wordpress.com/
+  content: Hey Doc. Congrats. What's yer bloody email addy? The world needs your skepticism.
+    EQ won't appreciate it but like all dinosaurs all they think of is where is the
+    next meal coming from.  Really like your work. Others would say you are wasted
+    in schools - no you ain't ... my bet is there will be a serious number of really
+    amazing kids coming out of your classes.
+  date: '2011-11-03 21:12:32'
+  date_gmt: '2011-11-03 11:12:32'
+  id: '72'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-05-27 06:04:27
 next:
   text: Requirements and ideas for an eLearning design for IPT
   url: /blog/2011/06/01/requirements-and-ideas-for-an-elearning-design-for-ipt/
+pingbacks:
+- approved: '1'
+  author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  content: '[...] the PhD and enrolled to become a high school teacher. By January
+    2011 the thesis was finished, by May it was accepted and graduation was [...]'
+  date: '2013-01-24 15:06:59'
+  date_gmt: '2013-01-24 05:06:59'
+  id: '73'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Where are all the innovative high school IT/CS classes?
   url: /blog/2011/05/14/where-are-all-the-innovative-high-school-itcs-classes/
+template: blog-post.html
 title: And the thesis is complete, what's next?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.78.68
-      author_url: http://www.vrbones.com
-      content: '<blockquote>Celebrations, like blogging, had become victim of circumstance.
-        Circumstances that included: being a student teacher placed at a local high school
-        4 days a week and having to prepare and deliver an increasing number of lessons,
-        at the same time having to complete University assignments, spend time with my
-        family, and most recently recover from the flu. </blockquote>
-    
-        I know how you feel. My Friday reflections didn''t make it past a couple of weeks
-        in, and the weekend gone I managed 20 out of the estimated 34 hours I needed to
-        get stuff ready for this week.
-    
-    
-        First year seems harder than prac as there is no limit on how much preparation
-        time you''re expected to do (apart from your willingness to do it), and there
-        are many, MANY reporting pressures that suck the daylight from your schedule.
-    
-    
-        Hang in there.'
-      date: '2011-05-30 20:22:15'
-      date_gmt: '2011-05-30 10:22:15'
-      id: '70'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'I have heard about the workloads of first year teachers from a range of
-        folk. For that reason, I''m not looking forward to it. The last few weeks have
-        been difficult, but I am finding that as time proceeds it is getting a bit easier.
-    
-    
-        I imagine that feeling turning around quite sharply by the time of the internship
-        later in the year and again during first year. Time will tell.
-    
-    
-        One of the other problems I''m finding with blogging directly about school is
-        the question of anonymity. There are somethings I can''t blog about simply because
-        it would be too easy to identify the folk involved.
-    
-    
-        Hope to see more your reflections Tony, when you can afford it.'
-      date: '2011-05-30 20:32:03'
-      date_gmt: '2011-05-30 10:32:03'
-      id: '71'
-      parent: '70'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 58.106.134.77
-      author_url: http://cj13.wordpress.com/
-      content: Hey Doc. Congrats. What's yer bloody email addy? The world needs your skepticism.
-        EQ won't appreciate it but like all dinosaurs all they think of is where is the
-        next meal coming from.  Really like your work. Others would say you are wasted
-        in schools - no you ain't ... my bet is there will be a serious number of really
-        amazing kids coming out of your classes.
-      date: '2011-11-03 21:12:32'
-      date_gmt: '2011-11-03 11:12:32'
-      id: '72'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
-      content: '[...] the PhD and enrolled to become a high school teacher. By January
-        2011 the thesis was finished, by May it was accepted and graduation was [...]'
-      date: '2013-01-24 15:06:59'
-      date_gmt: '2013-01-24 05:06:59'
-      id: '73'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Just after 9:30pm last Wednesday I read an email from the Dean and Director of the ANU College of Business and Economics congratulating me on the fact that my thesis had been accepted without revision by the examiners and the institution. Needless to say that it was good news.
 
@@ -131,7 +129,7 @@ In the end, the value of my PhD comes down to a purely personal value. After tak
 
 While, as described above, I can see the great impact a quality high school teacher can make, I can also see how difficult it might be. I wonder about whether or not I have the energy required to make the impact. Even though my experience is limited, I can already see the mismatch between the nature of schools, their curriculum and the needs of the students. NAPLAN and QCS testing is driving an increased focus on intellectual pursuits, somewhat like the point Sir Ken makes in the well known video below. Interestingly, this video was shown at the weekly staff meeting at the school I'm currently placed at.
 
-http://www.youtube.com/watch?v=zDZFcDGpL4U
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zDZFcDGpL4U?si=0WVstueodZ21puQ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Yes, there is some moves to broadening school with the offering of vocational education as part of high school. But the pressure of NAPLAN seems to be particularly limiting on mathematics. Especially within the constraints of existing curriculum and resources such as textbooks. The kids that are prepared to fit within the expectations of school are a joy to work with and get a lot out of this approach. But there are other kids who, for a variety of reasons, don't fit and subsequently are ill-served by the system. Trying to help those students within the constraints of the system sounds like a recipe for frustration and burn out.
 

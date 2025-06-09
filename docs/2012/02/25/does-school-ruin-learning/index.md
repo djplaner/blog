@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - edc3100
 - teaching
-date: 2012-02-25 16:48:41+10:00
+date: 2012-02-25 06:48:41
 next:
   text: Defining the digital age and its influence on work integrated learning
   url: /blog/2012/02/26/defining-the-digital-age-and-its-influence-on-work-integrated-learning/
 previous:
   text: 'One Moodle course design: approach and trade-offs'
   url: /blog/2012/02/22/one-moodle-course-design-approach-ad-trade-offs/
+template: blog-post.html
 title: Does school ruin learning?
 type: post
-template: blog-post.html
 ---
 As the semester starts warming up the online students are starting to post their introductions using [Popplet](http://popplet.com/) (essentially a simplified Prezi, but one which is being a little unreliable today), [Prezi](http://prezi.com/) or other tools. One of the interesting threads that run through many of these posts has been the amazement at how young children, as young as 1 or 2, quickly become proficient at using information technology. My two young suns are currently getting into [pocket edition of Minecraft](http://www.minecraftwiki.net/wiki/Pocket_Edition) on their iPads with no advice from me.
 

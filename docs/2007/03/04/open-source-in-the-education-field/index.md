@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - elearning
-date: 2007-03-04 20:13:17+10:00
+date: 2007-03-04 10:13:17
 next:
   text: Aims of a curriculum design group at a university
   url: /blog/2007/03/05/aims-of-a-curriculum-design-group-at-a-university/
 previous:
   text: Universities as a business - but which business
   url: /blog/2007/03/04/universities-as-a-business-but-which-business/
+template: blog-post.html
 title: Open source in the education field
 type: post
-template: blog-post.html
 ---
 [Dave Tosh](http://elgg.net/dtosh/dashboard/), project manager of the [elgg project](http://www.elgg.org/), has a [post](http://elgg.net/dtosh/weblog/156809.html) suggesting that the open source model doesn't work. He should know, given his three years working on elgg.
 

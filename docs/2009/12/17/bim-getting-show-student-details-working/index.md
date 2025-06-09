@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bim
-date: 2009-12-17 15:58:31+10:00
+comments: []
+date: 2009-12-17 05:58:31
 next:
   text: BIM - Saving/manipulating RSS files
   url: /blog/2009/12/20/bim-savingmanipulating-rss-files/
+pingbacks:
+- approved: '1'
+  author: BIM &#8211; Saving/manipulating RSS files &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.135.48.164
+  author_url: https://djon.es/blog/2009/12/20/bim-savingmanipulating-rss-files/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BIM &#8211; Getting &#8220;show student details&#8221;&nbsp;working [...]'
+  date: '2009-12-20 18:03:41'
+  date_gmt: '2009-12-20 08:03:41'
+  id: '2895'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - getting student registration working
   url: /blog/2009/12/17/bim-getting-student-registration-working/
+template: blog-post.html
 title: BIM - Getting "show student details" working
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM &#8211; Saving/manipulating RSS files &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.135.48.164
-      author_url: https://djon.es/blog/2009/12/20/bim-savingmanipulating-rss-files/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BIM &#8211; Getting &#8220;show student details&#8221;&nbsp;working [...]'
-      date: '2009-12-20 18:03:41'
-      date_gmt: '2009-12-20 08:03:41'
-      id: '2895'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This post summarises the work necessary to take the next step in BIM development. As summarised in [the last post](/blog/2009/12/17/bim-getting-student-registration-working/) the plan is to implement the remaining [screens](/blog/2009/12/14/getting-back-into-bim-summary-and-way-forward/#screens) roughly complete so that potential users can interact and give feedback. This included the need to start designing and populating remaining database tables.
 

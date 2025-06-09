@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2010-08-03 23:59:01+10:00
+date: 2010-08-03 13:59:01
 next:
   text: '"Innovation in L&#038;T - where is the evidence"'
   url: /blog/2010/08/04/innovation-in-lt-where-is-the-evidence/
@@ -14,9 +14,9 @@ tags:
 - atlantic-magazine
 - tanehisi-coates
 - wrong-with
+template: blog-post.html
 title: Can you cancerize your research - task corruption at work
 type: post
-template: blog-post.html
 ---
 I think I came across this via amplify, and am now using amplify to see how this posts back to the blog.  
   

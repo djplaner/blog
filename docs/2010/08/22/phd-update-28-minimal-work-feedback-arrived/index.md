@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2010-08-22 10:31:06+10:00
+date: 2010-08-22 00:31:06
 next:
   text: Extracting case study research and multiple contexts?
   url: /blog/2010/08/22/extracting-case-study-research-and-multiple-contexts/
 previous:
   text: Minimum course presence and the tension between centralisation and de-centralisation
   url: /blog/2010/08/21/minimum-course-presence-and-the-tension-between-centralisation-and-de-centralisation/
+template: blog-post.html
 title: '"PhD Update #28 - minimal work, feedback arrived"'
 type: post
-template: blog-post.html
 ---
 Am attempting to keep this weekly update thing going within the new context. Not much to report this week as I was out of town for three days, baby sitting and recovering for another, and thinking about jobs and family-based travel on the other.
 

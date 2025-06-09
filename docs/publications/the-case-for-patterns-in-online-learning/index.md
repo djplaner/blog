@@ -1,119 +1,117 @@
----
-date: 2008-12-31 22:55:47+10:00
+﻿---
+comments:
+- approved: '1'
+  author: leighblackall
+  author_email: leighblackall@gmail.com
+  author_ip: 124.171.100.77
+  author_url: http://learnonline.wordpress.com/
+  content: Where to now? Someone like me might outright reject almost all 'wisdom'
+    from the 2nd generation elearning crowd (LMS, Learning Objects, IMS, etc), which
+    if such prejudice is right, would render a catalog mute if that rejection grew
+    across the field. But then, it comes down to the quality of the abstraction you'd
+    say. To which I'd dig in deeper and point to the ultimate flaw in the whole concept
+    of education as we have been practicing it... what I'm getting at is, like Alexander
+    et al, we'd have to look at teaching and learning in all its forms, ages true,
+    and find the patterns from them. To do this, as I'm sure they did in their project,
+    we might reject almost all modernist forms, and look to pre and post industrial
+    traditions. Thankfully, Illich has done most of that work for us. We just need
+    to apply it!
+  date: '2010-10-14 18:10:59'
+  date_gmt: '2010-10-14 08:10:59'
+  id: '2018'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.222.161.1
+  author_url: https://djon.es/blog/
+  content: 'God, I hope no-one is looking for wisdom in the above stuff.  All very
+    naive, novice and ill-informed, and to some extent that was the point.  I''m pretty
+    sure you''d agree that university e-learning circa 1999 was very limited, and
+    I think we''d probably agree that much hasn''t changed.
+
+
+    My primary interest in the patterns stuff wasn''t the catalogue, it was the process
+    that could be used to arrive at the catalogue.  This is the writers workshop stuff,
+    which wasn''t an Alexander thing and arose instead from the OO design crowd.
+
+
+    I was hoping that the writers workshops could get teaching staff together, thinking
+    and talking about what they were doing, what didn''t work and what did and go
+    from there.  i.e. through talking together the quality might get better.
+
+
+    Never went very far, at least in part because the pattern abstraction was a step
+    too far for many.  Probably even me.'
+  date: '2010-10-14 19:03:42'
+  date_gmt: '2010-10-14 09:03:42'
+  id: '2019'
+  parent: '2018'
+  type: comment
+  user_id: '1'
+date: 2008-12-31 12:55:47
+pingbacks:
+- approved: '1'
+  author: Patterns for e-learning - a lost opportunity or destined to fail &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
+  content: '[...] for the project explains the rationale. We wrote a couple of papers
+    explaining the project (Jones and Stewart, 1999; Jones, Stewart and Power, 1999),
+    gave a presentation (the audio for the presentation is there in [...]'
+  date: '2009-02-22 21:50:18'
+  date_gmt: '2009-02-22 11:50:18'
+  id: '2016'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Limits in developing innovative pedagogy with Moodle: The story of BIM
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.104.8
+  author_url: https://djon.es/blog/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
+  content: '[...] design theory for e-learning. For example, as far back as 1999 I
+    have three publications (1, 2, 3 where recognising and reusing the positives is
+    a key feature. It has been my argument that the [...]'
+  date: '2010-03-19 10:51:07'
+  date_gmt: '2010-03-19 00:51:07'
+  id: '2017'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Michael Starenko: track chair -blended learning'
+  author_email: null
+  author_ip: 184.173.232.44
+  author_url: http://www.lusiada.org/michael-starenko-track-chair-blended-learning/
+  content: '[...] originally in this paper davidtjones.wordpress.com/publications/the-case-for-patte&#8230;   This
+    entry was posted in Online Learning and tagged Blended, chair, Learning, Michael,
+    Starenko, [...]'
+  date: '2011-10-08 15:54:07'
+  date_gmt: '2011-10-08 05:54:07'
+  id: '2020'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Random #fedwikihappening ramblings | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 207.198.101.57
+  author_url: https://davidtjones.wordpress.com/2014/12/29/random-fedwikihappening-ramblings/
+  content: '[&#8230;] The case for patterns in online&nbsp;learning [&#8230;]'
+  date: '2014-12-29 15:19:17'
+  date_gmt: '2014-12-29 05:19:17'
+  id: '2021'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: The case for patterns in online learning
 type: page
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: leighblackall
-      author_email: leighblackall@gmail.com
-      author_ip: 124.171.100.77
-      author_url: http://learnonline.wordpress.com/
-      content: Where to now? Someone like me might outright reject almost all 'wisdom'
-        from the 2nd generation elearning crowd (LMS, Learning Objects, IMS, etc), which
-        if such prejudice is right, would render a catalog mute if that rejection grew
-        across the field. But then, it comes down to the quality of the abstraction you'd
-        say. To which I'd dig in deeper and point to the ultimate flaw in the whole concept
-        of education as we have been practicing it... what I'm getting at is, like Alexander
-        et al, we'd have to look at teaching and learning in all its forms, ages true,
-        and find the patterns from them. To do this, as I'm sure they did in their project,
-        we might reject almost all modernist forms, and look to pre and post industrial
-        traditions. Thankfully, Illich has done most of that work for us. We just need
-        to apply it!
-      date: '2010-10-14 18:10:59'
-      date_gmt: '2010-10-14 08:10:59'
-      id: '2018'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.222.161.1
-      author_url: https://djon.es/blog/
-      content: 'God, I hope no-one is looking for wisdom in the above stuff.  All very
-        naive, novice and ill-informed, and to some extent that was the point.  I''m pretty
-        sure you''d agree that university e-learning circa 1999 was very limited, and
-        I think we''d probably agree that much hasn''t changed.
-    
-    
-        My primary interest in the patterns stuff wasn''t the catalogue, it was the process
-        that could be used to arrive at the catalogue.  This is the writers workshop stuff,
-        which wasn''t an Alexander thing and arose instead from the OO design crowd.
-    
-    
-        I was hoping that the writers workshops could get teaching staff together, thinking
-        and talking about what they were doing, what didn''t work and what did and go
-        from there.  i.e. through talking together the quality might get better.
-    
-    
-        Never went very far, at least in part because the pattern abstraction was a step
-        too far for many.  Probably even me.'
-      date: '2010-10-14 19:03:42'
-      date_gmt: '2010-10-14 09:03:42'
-      id: '2019'
-      parent: '2018'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Patterns for e-learning - a lost opportunity or destined to fail &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
-      content: '[...] for the project explains the rationale. We wrote a couple of papers
-        explaining the project (Jones and Stewart, 1999; Jones, Stewart and Power, 1999),
-        gave a presentation (the audio for the presentation is there in [...]'
-      date: '2009-02-22 21:50:18'
-      date_gmt: '2009-02-22 11:50:18'
-      id: '2016'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Limits in developing innovative pedagogy with Moodle: The story of BIM
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.104.8
-      author_url: https://djon.es/blog/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
-      content: '[...] design theory for e-learning. For example, as far back as 1999 I
-        have three publications (1, 2, 3 where recognising and reusing the positives is
-        a key feature. It has been my argument that the [...]'
-      date: '2010-03-19 10:51:07'
-      date_gmt: '2010-03-19 00:51:07'
-      id: '2017'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Michael Starenko: track chair -blended learning'
-      author_email: null
-      author_ip: 184.173.232.44
-      author_url: http://www.lusiada.org/michael-starenko-track-chair-blended-learning/
-      content: '[...] originally in this paper davidtjones.wordpress.com/publications/the-case-for-patte&#8230;   This
-        entry was posted in Online Learning and tagged Blended, chair, Learning, Michael,
-        Starenko, [...]'
-      date: '2011-10-08 15:54:07'
-      date_gmt: '2011-10-08 05:54:07'
-      id: '2020'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Random #fedwikihappening ramblings | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 207.198.101.57
-      author_url: https://davidtjones.wordpress.com/2014/12/29/random-fedwikihappening-ramblings/
-      content: '[&#8230;] The case for patterns in online&nbsp;learning [&#8230;]'
-      date: '2014-12-29 15:19:17'
-      date_gmt: '2014-12-29 05:19:17'
-      id: '2021'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Sharonn Stewart, The case for patterns in online learning, Proceedings of Webnet’99 Conference, De Bar, P. & Legget, J. (eds), Association for the Advancement of Computing in Education, Honolulu, Hawaii, Oct 24-30, pp 592-597
 
@@ -127,7 +125,7 @@ Central Queensland University (CQU) is a multi-campus regional institution with 
 
 Diagram 1 is a representation of the current implementation of online learning at CQU. The innovators and standard practitioners are separated by a wall which represents the lack of appropriation by the majority of innovations in teaching and learning. The innovators, also individually separated by walls, are creating learning experiences individually with limited sharing and reuse of experience. Likewise, the standard practitioners are producing standard learning experiences again with little or no collegial sharing of experience and ideas. This paper offers patterns as a possible solution to the lack of reuse and appropriation in the practice of online learning.
 
-[![Current practice of online learning - 1999](images/3153631452_7140a1dd19_o.jpg)](http://www.flickr.com/photos/david_jones/3153631452/ "Current practice of online learning - 1999 by David T Jones, on Flickr")
+[![Current practice of online learning - 1999](https://djon.es/assets/blog/publications/the-case-for-patterns-in-online-learning/images/3153631452_7140a1dd19_o.jpg)](http://www.flickr.com/photos/david_jones/3153631452/ "Current practice of online learning - 1999 by David T Jones, on Flickr")
 
 ## Current practice and the problem
 
@@ -236,7 +234,7 @@ A pattern catalogue could also provide a resource for training. The object orien
 
 A pattern catalogue also offers a number of advantages to the practice of creating online learning envirionments. Its presence could make it easier design such experiences, significantly reduce the need to reinvent the wheel and enable more people to learn from the experience of others. Patterns can channel creativity into more innovative channels. The results of this innovativeness can in turn be fed back into the pattern catalogue for the benefit of colleagues.
 
-[![patterns in elearning](images/3152822497_7f0e2c3fb4_m.jpg)](http://www.flickr.com/photos/david_jones/3152822497/ "patterns in elearning by David T Jones, on Flickr")
+[![patterns in elearning](https://djon.es/assets/blog/publications/the-case-for-patterns-in-online-learning/images/3152822497_7f0e2c3fb4_m.jpg)](http://www.flickr.com/photos/david_jones/3152822497/ "patterns in elearning by David T Jones, on Flickr")
 
 Diagram 2 is a modification of the earlier diagram and shows how patterns might be applied to the production of online learning. The basic constructs are the same: the small number of innovators continue to do their own thing while the majority use existing practice. The difference is that what the innovators are doing is being pattern mined. Somebody, whether it be the innovators themselves or somebody else, is looking at, reflecting on and evaluating what the innovators are doing and trying to construct patterns. In a further modification constructive templates would also be created to enable the easy implementation of patterns.
 

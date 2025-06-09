@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - casa
-coverImage: EuIQOqjU0AIci64-e1629593563872.jpeg
-date: 2019-11-28 15:00:19+10:00
+coverImage: https://djon.es/assets/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/images/EuIQOqjU0AIci64-e1629593563872.jpeg
+date: 2019-11-28 05:00:19
 next:
   text: It's more than how you use the technology - authoring online content
   url: /blog/2019/12/10/its-more-than-how-you-use-the-technology-authoring-online-content/
@@ -10,9 +10,9 @@ previous:
   text: 'Exploring knowledge reuse in design for digital learning: tweaks, H5P, constructive
     templates and CASA'
   url: /blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/
+template: blog-post.html
 title: How to share design knowledge in design for digital learning?
 type: post
-template: blog-post.html
 ---
 Using Blackboard Learn to design and manage a quality learning environment is hard. Managing the web content alone is [hard to do well](/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/). To do so requires significant HTML, CSS and related web design knowledge. Knowledge that not everyone has, or should have, or can have. That's why there are so many ugly Blackboard sites.
 

@@ -1,8 +1,8 @@
----
-date: 2012-01-12 07:17:13+10:00
+﻿---
+date: 2012-01-11 21:17:13
+template: blog-post.html
 title: ICT and teaching resources
 type: page
-template: blog-post.html
 ---
 ### Journals
 

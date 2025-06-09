@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bam
-date: 2009-07-30 11:39:02+10:00
+comments: []
+date: 2009-07-30 01:39:02
 next:
   text: '"BAM into Moodle #9 - a working eStudyGuide block?"'
   url: /blog/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/
+pingbacks:
+- approved: '1'
+  author: 'BAM into Moodle #9 &#8211; a working eStudyGuide block? &laquo; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BAM into Moodle #8 &#8211; finishing the eStudyGuide building&nbsp;block [...]'
+  date: '2009-07-30 15:54:10'
+  date_gmt: '2009-07-30 05:54:10'
+  id: '2676'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The design and implementation of Webfuse - Part 3
   url: /blog/2009/07/29/the-design-and-implementation-of-webfuse-part-3/
+template: blog-post.html
 title: '"BAM into Moodle #8 - finishing the eStudyGuide building block"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'BAM into Moodle #9 &#8211; a working eStudyGuide block? &laquo; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BAM into Moodle #8 &#8211; finishing the eStudyGuide building&nbsp;block [...]'
-      date: '2009-07-30 15:54:10'
-      date_gmt: '2009-07-30 05:54:10'
-      id: '2676'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [last post](/blog/2009/07/28/bam-into-moodle-7-an-estudyguide-block/) in this series described the start of a little project to learn more about PHP/Moodle programming in order to get BAM into [Moodle](http://www.moodle.org/). Essentially everything is done, there are two main tasks left:
 

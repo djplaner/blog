@@ -1,51 +1,48 @@
----
+﻿---
 categories:
 - bim
-date: 2009-12-20 18:03:32+10:00
+comments: []
+date: 2009-12-20 08:03:32
 next:
   text: Supporting curriculum mapping?
   url: /blog/2009/12/21/supporting-curriculum-mapping/
+pingbacks:
+- approved: '1'
+  author: BIM &#8211; Creating the test data, completing dbase design &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.67
+  author_url: https://djon.es/blog/2009/12/22/bim-creating-the-test-data-completing-dbase-design/
+  content: '[...] &#8211; Creating the test data, completing dbase&nbsp;design  The
+    last bit of BIM work resulted in getting the show student details screen up and
+    going, mostly. Any more of these screens [...]'
+  date: '2009-12-22 11:30:07'
+  date_gmt: '2009-12-22 01:30:07'
+  id: '2896'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: BIM &#8211; cron and view student details screen &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.244.88
+  author_url: https://djon.es/blog/2009/12/22/bim-cron-and-view-student-details-screen/
+  content: '[...] the bit of work done on the show details screen up and going. The
+    initial work on the screen was documented here. This post draws on the test data,
+    adds some support functions to manipulate it and improves the [...]'
+  date: '2009-12-22 15:42:17'
+  date_gmt: '2009-12-22 05:42:17'
+  id: '2897'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - Getting &quot;show student details&quot; working
   url: /blog/2009/12/17/bim-getting-show-student-details-working/
+template: blog-post.html
 title: BIM - Saving/manipulating RSS files
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM &#8211; Creating the test data, completing dbase design &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.67
-      author_url: https://djon.es/blog/2009/12/22/bim-creating-the-test-data-completing-dbase-design/
-      content: '[...] &#8211; Creating the test data, completing dbase&nbsp;design  The
-        last bit of BIM work resulted in getting the show student details screen up and
-        going, mostly. Any more of these screens [...]'
-      date: '2009-12-22 11:30:07'
-      date_gmt: '2009-12-22 01:30:07'
-      id: '2896'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: BIM &#8211; cron and view student details screen &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.244.88
-      author_url: https://djon.es/blog/2009/12/22/bim-cron-and-view-student-details-screen/
-      content: '[...] the bit of work done on the show details screen up and going. The
-        initial work on the screen was documented here. This post draws on the test data,
-        adds some support functions to manipulate it and improves the [...]'
-      date: '2009-12-22 15:42:17'
-      date_gmt: '2009-12-22 05:42:17'
-      id: '2897'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In the [last post](/blog/2009/12/17/bim-getting-show-student-details-working/) I'd gotten started having the show student details screen actually getting data from the database. One data source this screen needs is not in the database, it's in the RSS file from the student's blog that is mirrored on the Moodle site. This post talks about the process about how BIM will be saving, reading and using that RSS file in its operation.
 

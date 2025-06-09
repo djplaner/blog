@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-04-06 10:00:47+10:00
+date: 2011-04-06 00:00:47
 next:
   text: '"Group 1 Technologies: Blogs, Wikis and Websites"'
   url: /blog/2011/04/06/group-1-technologies-blogs-wikis-and-websites/
 previous:
   text: How do you analyse and select an educational technology
   url: /blog/2011/04/04/how-do-you-analyse-and-select-an-educational-technology/
+template: blog-post.html
 title: Building a collaborative CV09 podcast
 type: post
-template: blog-post.html
 ---
 Another task related to the ICTs for Learning Design assignment is in examining podcasts. Rather than access existing podcasts, I'm going to reuse an idea first generated for a "Web 2.0 course site" and which I've reused a couple of times in [MOOCs](http://mooc.ca/). The use of social-bookmarking and a feed aggregator to enable the creation of a collaborative podcast.
 
@@ -73,7 +73,7 @@ _IMPORTANT:_ Don't bookmark the web page.
 
 The process I've been using is simply to play the audio file (in this case click on the "DOWNLOAD AUDIO" link) in my browser and then click on the Diigo tool in my browser to bookmark it. The following image is what it looks like (click on it to see a bigger version).
 
-[![Bookmarking a podcast episode](images/5593185025_5fcdab0083_m.jpg)](http://www.flickr.com/photos/david_jones/5593185025/ "Bookmarking a podcast episode by David T Jones, on Flickr")
+[![Bookmarking a podcast episode](https://djon.es/assets/blog/2011/04/06/building-a-collaborative-cv09-podcast/images/5593185025_5fcdab0083_m.jpg)](http://www.flickr.com/photos/david_jones/5593185025/ "Bookmarking a podcast episode by David T Jones, on Flickr")
 
 As you can see from the image I haven't filled in the description yet. Mainly because the original description is on the previous page and I can't see it. I need to go back and update this to give appropriate attribution.
 
@@ -85,7 +85,7 @@ To update the description and fix other aspects of my new bookmark, I go to my D
 
 The following image shows the edit interface as I'm updating the description
 
-[![Updating podcast entry](images/5593201819_f5f9b4b781_m.jpg)](http://www.flickr.com/photos/david_jones/5593201819/ "Updating podcast entry by David T Jones, on Flickr")
+[![Updating podcast entry](https://djon.es/assets/blog/2011/04/06/building-a-collaborative-cv09-podcast/images/5593201819_f5f9b4b781_m.jpg)](http://www.flickr.com/photos/david_jones/5593201819/ "Updating podcast entry by David T Jones, on Flickr")
 
 You can see some of the other entries in the podcast - "Howard Gardner", "Mitch Resnick" - in the background.
 
@@ -99,7 +99,7 @@ You may note that the "e-education" episode isn't appearing yet. This is one of 
 
 The real value in a podcast for me is that I regularly use iTunes and my mp3 player to listen to podcasts. So I've added this podcast to my iTunes. At this stage I can choose to listen to the podcast. The following image shows the podcast in my iTunes podcast list.
 
-[![cv09 podcast in itunes](images/5593236787_59e8526565_m.jpg)](http://www.flickr.com/photos/david_jones/5593236787/ "cv09 podcast in itunes by David T Jones, on Flickr")
+[![cv09 podcast in itunes](https://djon.es/assets/blog/2011/04/06/building-a-collaborative-cv09-podcast/images/5593236787_59e8526565_m.jpg)](http://www.flickr.com/photos/david_jones/5593236787/ "cv09 podcast in itunes by David T Jones, on Flickr")
 
 No, I haven't downloaded any of the audio files from the CV09 podcast as I've actually listened to them in other podcasts I've subscribed to. You can see in the above image that the "Mitch Resnick" episode from the CV09 podcast is already included in the "EdTechLive" podcast directly under the CV09 podcast.
 

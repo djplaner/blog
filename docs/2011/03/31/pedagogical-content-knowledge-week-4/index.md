@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20456
 - teaching
-date: 2011-03-31 10:06:48+10:00
+date: 2011-03-31 00:06:48
 next:
   text: '"Pedagogical Content Knowledge: Weeks 5/6"'
   url: /blog/2011/03/31/pedagogical-content-knowledge-weeks-56/
 previous:
   text: The next step for the LMS?
   url: /blog/2011/03/31/the-next-step-for-the-lms/
+template: blog-post.html
 title: '"Pedagogical Content Knowledge: Week 4"'
 type: post
-template: blog-post.html
 ---
 So, only two weeks to catch up on this course.
 
@@ -80,4 +80,4 @@ Oh dear, there are powerpoint slides that examine the ICT KLA, which is position
 
 Of course the really interesting thing is that within a year or two all of the above might be somewhat less than important. Mainly due to the rise of the national curriculum.
 
-[![Problem graph](images/5575077033_9a8fd30655_m.jpg)](http://www.flickr.com/photos/david_jones/5575077033/ "Problem graph by David T Jones, on Flickr")
+[![Problem graph](https://djon.es/assets/blog/2011/03/31/pedagogical-content-knowledge-week-4/images/5575077033_9a8fd30655_m.jpg)](http://www.flickr.com/photos/david_jones/5575077033/ "Problem graph by David T Jones, on Flickr")

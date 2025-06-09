@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-08-04 10:28:02+10:00
+date: 2010-08-04 00:28:02
 next:
   text: Usage of dynamic web applications by staff and students
   url: /blog/2010/08/05/usage-of-dynamic-web-applications-by-staff-and-students/
 previous:
   text: Innovation in L&#038;T - where is the evidence
   url: /blog/2010/08/04/innovation-in-lt-where-is-the-evidence/
+template: blog-post.html
 title: Usage of Wf applications
 type: post
-template: blog-post.html
 ---
 Have spent the last day or so doing some more data munging of access logs trying to determine the level of usage of Wf applications within Webfuse. Wf was the framework for developing dynamic web applications within Webfuse - the topic/outcome of my [PhD](/blog/research/phd-thesis/). The following is an initial summary of that munging with some initial reflection. This will get further polished and re-worked for inclusion in chapter 5 of the thesis.
 

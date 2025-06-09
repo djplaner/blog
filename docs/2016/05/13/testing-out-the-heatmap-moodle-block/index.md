@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bad
-date: 2016-05-13 12:19:52+10:00
+date: 2016-05-13 02:19:52
 next:
   text: Organizing for Innovation in the Digitized world
   url: /blog/2016/05/16/organizing-for-innovation-in-the-digitized-world/
 previous:
   text: Testing out the Moodle search book block
   url: /blog/2016/05/10/testing-out-the-moodle-book-search/
+template: blog-post.html
 title: '"Testing out the Heatmap #moodle block"'
 type: post
-template: blog-post.html
 ---
 Following is a quick report on installing and playing with [the Moodle Heatmap block](https://moodle.org/plugins/block_heatmap) by Michael de Raadt. It's inspired by @damoclarky's [Moodle Activity Viewer (MAV)](https://github.com/damoclark/mav). Both tools modify Moodle web pages by overlaying [a heatmap](https://en.wikipedia.org/wiki/Heat_map).
 
@@ -22,23 +22,23 @@ Heatmap is a Moodle block, so installation should be just a case of downloading 
 
 Easy and straight forward.  3 settings to configure - I'll stick with the default and done.
 
-![Screen Shot 2016-05-13 at 11.35.56 am.png](images/screen-shot-2016-05-13-at-11-35-56-am.png)
+![Screen Shot 2016-05-13 at 11.35.56 am.png](https://djon.es/assets/blog/2016/05/13/testing-out-the-heatmap-moodle-block/images/screen-shot-2016-05-13-at-11-35-56-am.png)
 
 ### Use
 
 To actually use the block all I should have to do is add the block to a course page and away we go.I'm testing this on a local server that only I use.
 
-Here's the before "Heatmap is turned on" shot covering a small part of the site![Screen Shot 2016-05-13 at 11.39.38 am.png](images/screen-shot-2016-05-13-at-11-39-38-am.png)
+Here's the before "Heatmap is turned on" shot covering a small part of the site![Screen Shot 2016-05-13 at 11.39.38 am.png](https://djon.es/assets/blog/2016/05/13/testing-out-the-heatmap-moodle-block/images/screen-shot-2016-05-13-at-11-39-38-am.png)
 
 Turn editing on, add the block and hey presto the heatmap is displayed.
 
-![Screen Shot 2016-05-13 at 11.40.52 am.png](images/screen-shot-2016-05-13-at-11-40-52-am.png)
+![Screen Shot 2016-05-13 at 11.40.52 am.png](https://djon.es/assets/blog/2016/05/13/testing-out-the-heatmap-moodle-block/images/screen-shot-2016-05-13-at-11-40-52-am.png)
 
 "Who are you" is more "popular". Been clicked on 67 times by 1 user.  Where as "What you will learn" has only been clicked on 6 times.  The one use is me, the only user that can use this Moodle server.
 
 The Heatmap block looks like this - providing a few extra stats
 
-![Screen Shot 2016-05-13 at 11.44.36 am.png](images/screen-shot-2016-05-13-at-11-44-36-am.png)
+![Screen Shot 2016-05-13 at 11.44.36 am.png](https://djon.es/assets/blog/2016/05/13/testing-out-the-heatmap-moodle-block/images/screen-shot-2016-05-13-at-11-44-36-am.png)
 
 ### On other pages
 
@@ -46,7 +46,7 @@ The question I have is will it work on other pages? Apparently blocks can be mad
 
 What I'm hoping is that when I view the "Who are you book" I'll see the heatmap appear there. But no.
 
-![Screen Shot 2016-05-13 at 12.14.28 pm.png](images/screen-shot-2016-05-13-at-12-14-28-pm.png)
+![Screen Shot 2016-05-13 at 12.14.28 pm.png](https://djon.es/assets/blog/2016/05/13/testing-out-the-heatmap-moodle-block/images/screen-shot-2016-05-13-at-12-14-28-pm.png)
 
  
 

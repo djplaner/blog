@@ -1,46 +1,43 @@
----
-date: 2008-10-22 08:15:16+10:00
+﻿---
+comments: []
+date: 2008-10-21 22:15:16
+pingbacks:
+- approved: '1'
+  author: 'Getting half-baked ideas out there: improving research and the academy
+    &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: https://djon.es/blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
+  content: '[...] people to participate and comment on the blogs? Should we make use
+    of some of the ideas Col has identified around learning networks? For example,
+    agree on common tags for blog posts and del.icio.us etc. Provide a central point
+    to [...]'
+  date: '2009-02-16 09:46:05'
+  date_gmt: '2009-02-15 23:46:05'
+  id: '1741'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '&#8220;One ring to rule them all&#8221;: Limitations and implications of
+    the LMS/VLE product model &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.3
+  author_url: https://djon.es/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/
+  content: '[...] C. and D. Jones (2008). Learning networks: harnessing the power
+    of online communities for discipline and lifelong learning. Lifelong Learning:
+    reflecting on successes and framing futures. Keynote and refereed papers from
+    [...]'
+  date: '2009-03-27 11:21:25'
+  date_gmt: '2009-03-27 01:21:25'
+  id: '1742'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Learning networks: Harnessing the power of online communities for discipline
   and lifelong learning"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Getting half-baked ideas out there: improving research and the academy
-        &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: https://djon.es/blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
-      content: '[...] people to participate and comment on the blogs? Should we make use
-        of some of the ideas Col has identified around learning networks? For example,
-        agree on common tags for blog posts and del.icio.us etc. Provide a central point
-        to [...]'
-      date: '2009-02-16 09:46:05'
-      date_gmt: '2009-02-15 23:46:05'
-      id: '1741'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '&#8220;One ring to rule them all&#8221;: Limitations and implications of
-        the LMS/VLE product model &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.3
-      author_url: https://djon.es/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/
-      content: '[...] C. and D. Jones (2008). Learning networks: harnessing the power
-        of online communities for discipline and lifelong learning. Lifelong Learning:
-        reflecting on successes and framing futures. Keynote and refereed papers from
-        [...]'
-      date: '2009-03-27 11:21:25'
-      date_gmt: '2009-03-27 01:21:25'
-      id: '1742'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Colin Beer, David Jones, Learning networks: Harnessing the power of online communities for discipline and lifelong learning, to appear in the proceedings of the [2008 Lifelong Learning Conference](http://lifelonglearning.cqu.edu.au/2008/)
 

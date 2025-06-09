@@ -1,67 +1,64 @@
----
+﻿---
 categories:
 - bad
-date: 2015-01-20 10:53:58+10:00
+comments: []
+date: 2015-01-20 00:53:58
 next:
   text: Learning to live with a standard look and feel
   url: /blog/2015/01/21/learning-to-live-with-a-standard-look-and-feel/
+pingbacks:
+- approved: '1'
+  author: 'Concrete lounge #1 &#8211; Helping learners find correct, up-to-date course
+    information | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.99.86
+  author_url: https://davidtjones.wordpress.com/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
+  content: '[&#8230;] There are suggestions that finding such information at my current
+    institution is a concern that has driven some institutional practices. [&#8230;]'
+  date: '2015-02-03 12:26:50'
+  date_gmt: '2015-02-03 02:26:50'
+  id: '1203'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Where does the LMS site in the reusability paradox | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.86.73
+  author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-site-in-the-reusability-paradox/
+  content: '[&#8230;] into the Reusability Paradox and causes no end of trouble. Especially
+    for those of us expected to step backwards to meet the minimal [&#8230;]'
+  date: '2015-04-21 15:55:08'
+  date_gmt: '2015-04-21 05:55:08'
+  id: '1204'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Where does the LMS sit in the reusability paradox | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.81.50
+  author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
+  content: '[&#8230;] into the Reusability Paradox and causes no end of trouble. Especially
+    for those of us expected to step backwards to meet the minimal [&#8230;]'
+  date: '2015-04-21 15:57:27'
+  date_gmt: '2015-04-21 05:57:27'
+  id: '1205'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Learning about case study methodology to research higher education
   url: /blog/2015/01/16/learning-about-case-study-methodology-to-research-higher-education/
+template: blog-post.html
 title: What might the 3 levels of organisational culture reveal about university e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Concrete lounge #1 &#8211; Helping learners find correct, up-to-date course
-        information | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.99.86
-      author_url: https://davidtjones.wordpress.com/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
-      content: '[&#8230;] There are suggestions that finding such information at my current
-        institution is a concern that has driven some institutional practices. [&#8230;]'
-      date: '2015-02-03 12:26:50'
-      date_gmt: '2015-02-03 02:26:50'
-      id: '1203'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Where does the LMS site in the reusability paradox | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.86.73
-      author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-site-in-the-reusability-paradox/
-      content: '[&#8230;] into the Reusability Paradox and causes no end of trouble. Especially
-        for those of us expected to step backwards to meet the minimal [&#8230;]'
-      date: '2015-04-21 15:55:08'
-      date_gmt: '2015-04-21 05:55:08'
-      id: '1204'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Where does the LMS sit in the reusability paradox | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.81.50
-      author_url: https://davidtjones.wordpress.com/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
-      content: '[&#8230;] into the Reusability Paradox and causes no end of trouble. Especially
-        for those of us expected to step backwards to meet the minimal [&#8230;]'
-      date: '2015-04-21 15:57:27'
-      date_gmt: '2015-04-21 05:57:27'
-      id: '1205'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I have fulfilled my organisational duty and attended and participated in a 3 hour workshop intended to achieve some level of shared vision within the organisation. As always I remain cynical about likely impact such sessions will have on the organisation and my experience of it. There was, however, some benefit in making me aware of Schein's three levels of organisational culture (apparently from this book) and summarised in the following table (and more on [wikipedia](http://en.wikipedia.org/wiki/Edgar_Schein)).
 
-[![Schein's Model.JPG](images/Schein%27s_Model.JPG)](http://commons.wikimedia.org/wiki/File:Schein%27s_Model.JPG#mediaviewer/File:Schein%27s_Model.JPG) "
+[![Schein's Model.JPG](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/Schein%27s_Model.JPG)](http://commons.wikimedia.org/wiki/File:Schein%27s_Model.JPG#mediaviewer/File:Schein%27s_Model.JPG) "
 
 
 
@@ -82,11 +79,11 @@ What follows is a quick application of this to my next task - starting the prepa
 
 The artifact I need to deal with is the new look and feel for the institutional LMS. This means that every course will not only look the same, there are some expectations about what is expected to be on the course site. For my course, this means it will look something like the following
 
-[![Home page](images/15957952599_594365d7d9_n.jpg)](https://www.flickr.com/photos/david_jones/15957952599 "Home page by David Jones, on Flickr")
+[![Home page](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/15957952599_594365d7d9_n.jpg)](https://www.flickr.com/photos/david_jones/15957952599 "Home page by David Jones, on Flickr")
 
 Everything at the top of the page and in the left hand column is part of the new, standardised look and feel. Everything under the "Welcome to EDC3100: ICT and Pedagogy" heading is what was copied over from the last offering of the course. Hence the "Right now:" message suggestion the course has ended. The following is what the 2014 course site looked like.
 
-[![edc3100 2014](images/15692340534_2b5437ee13_n.jpg)](https://www.flickr.com/photos/david_jones/15692340534 "edc3100 2014 by David Jones, on Flickr")
+[![edc3100 2014](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/15692340534_2b5437ee13_n.jpg)](https://www.flickr.com/photos/david_jones/15692340534 "edc3100 2014 by David Jones, on Flickr")
 
 Broadly speaking the changes involved in this project were
 
@@ -126,9 +123,9 @@ The absence of these points from the new look and feel suggest that there is an 
 
 Interestingly, I've just found the following slide on Flickr that purports to represent Schein's cognitive transformation model for analysing organisational cultures. I'm guessing this was the basis for the consultant/facilitator. What I find particularly relevant to the specific decision is the circle around the outside labelled "organisation iteratively adapts" which I see as resonating with the adopter-focused and emergent development approach mentioned above.
 
-[![3 Levels of Organization Culture (Schein by MizzD, on Flickr](images/3543282128_fae3c2ed86.jpg)]](https://www.flickr.com/photos/ctcvistaqueen/3543282128/) 
+[![3 Levels of Organization Culture (Schein by MizzD, on Flickr](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/3543282128_fae3c2ed86.jpg)]](https://www.flickr.com/photos/ctcvistaqueen/3543282128/) 
 
-[![](images/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/2.0/)  
+[![](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/2.0/)  
 
 ## What are the limitations of the new look and feel?
 
@@ -138,7 +135,7 @@ The following explores the dissonances that exist between the new look and feel 
 
 The following image is a partial screen shot of the "Resources" page for my course.
 
-[![Resources](images/16315315905_0a2b021e6f_n.jpg)](https://www.flickr.com/photos/david_jones/16315315905)
+[![Resources](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/16315315905_0a2b021e6f_n.jpg)](https://www.flickr.com/photos/david_jones/16315315905)
 
 This partially illustrates that my course is designed so that each week contains a learning path. A collection of activities and resources that all students are expected to work through. The "resources" page only shows the resources, but at least it does show you that there are quite a few Moodle books amongst those resources.
 
@@ -160,7 +157,7 @@ However, I wonder if it's going to create some duplication/confusion, especially
 
 The image above shows part of the resources view for my course site, including most of the initial resources for Week 1. The following image shows the learning path for week 1.
 
-[![Week1](images/16315335515_b91c408c98_n.jpg)](https://www.flickr.com/photos/david_jones/16315335515)
+[![Week1](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/16315335515_b91c408c98_n.jpg)](https://www.flickr.com/photos/david_jones/16315335515)
 
 The resources page offers essentially the same view as the learning path, but it misses two components. First, it doesn't include the activities (e.g. the discussion forums "Share you introduction" and "Where you fill in the blanks" are missing). Second, the headings are missing. These are used to group the resources and activities into meaningful groups.
 
@@ -172,7 +169,7 @@ Adding a study schedule page is potentially a useful addition. Something that is
 
 Take a look at the "Course content" box in the middle of the page below. Do you see the link "study schedule"?
 
-[![Home page](images/15957952599_594365d7d9_n.jpg)](https://www.flickr.com/photos/david_jones/15957952599)
+[![Home page](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/15957952599_594365d7d9_n.jpg)](https://www.flickr.com/photos/david_jones/15957952599)
 
 The following image shows part of the study schedule I've created. A problem I have is that there are some features of this study schedule that the new look and feel won't support
 
@@ -181,7 +178,7 @@ The following image shows part of the study schedule I've created. A problem I h
 
 Not major problems, but illustrations of how a consistent approach to course design breaks down when it meets the design decisions made by individual teachers. If those design decisions are bad, there may not be a problem. But what if those design decisions are valid? Is it appropriate that those design decisions should be thrown our and the course revert to the norm?
 
-[![studySchedule](images/16135176729_054efae82e_n.jpg)](https://www.flickr.com/photos/david_jones/16135176729)
+[![studySchedule](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/16135176729_054efae82e_n.jpg)](https://www.flickr.com/photos/david_jones/16135176729)
 
 ### Limited assessment information
 
@@ -191,7 +188,7 @@ The new look and feel assessment page does have some advantages. For example, it
 
 The new look and feel's approach to assessment creates a single page for assessment. Everything about assessment for a course on a single page. This is a problem as the following shows.
 
-[![Assessment](images/16135346529_e46cba812e_n.jpg)](https://www.flickr.com/photos/david_jones/16135346529)
+[![Assessment](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/16135346529_e46cba812e_n.jpg)](https://www.flickr.com/photos/david_jones/16135346529)
 
 Can you see the "Table of Contents" heading in the left-hand menu? That's the start of the list of information I provide on Assessment. It includes the following
 
@@ -217,7 +214,7 @@ The new look and feel does attempt to implement something like this "nice way", 
 
 Exploring the difference with assessment has revealed some additional problems around the use of Moodle books and the new look and feel. The following image is that Assessment overview page in the old course site as it would be seen by students.
 
-[![Old Assessment](images/16135829577_523cfddf19_n.jpg)](https://www.flickr.com/photos/david_jones/16135829577)
+[![Old Assessment](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/16135829577_523cfddf19_n.jpg)](https://www.flickr.com/photos/david_jones/16135829577)
 
 In the above image, look for the following components
 
@@ -226,14 +223,14 @@ In the above image, look for the following components
 
 Now, look below. This is the same assessment book in the new look and feel. What do you notice about the "Table of Contents" and the "Book administration" components?
 
-[![Assessment](images/16135346529_e46cba812e_n.jpg)](https://www.flickr.com/photos/david_jones/16135346529)
+[![Assessment](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/16135346529_e46cba812e_n.jpg)](https://www.flickr.com/photos/david_jones/16135346529)
 
 The two problems that I see are
 
 1. Table of contents is partially below the fold; and Due to the new look and feel's use of a larger font, more whitespace, a single column on the left-hand side, and retaining the standard menu at the top of the left-hand menu the Table of Contents for the book gets pushed down. So that large parts of it aren't visible. I should note that I have a large monitor and keep my browser windows open in a longer format than most. There will be some students for whom the Table of Contents will not be visible.
 2. There is no "book adminsitration" component. Actually, there is. It just doesn't appear in the image above and I've only just know found where it is located after a concerted effort to find it. i.e. I knew it had to be there, so I went looking. The following image shows the "Forums" page in the new look and feel. IN the black bar at the top of the page you should be able to see "Forum administration". When viewing a Moodle book this is where "Book administration" will appear.
 
-[![DiscussionForum](images/15524303393_1e579d512e_n.jpg)](https://www.flickr.com/photos/david_jones/15524303393)
+[![DiscussionForum](https://djon.es/assets/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/images/15524303393_1e579d512e_n.jpg)](https://www.flickr.com/photos/david_jones/15524303393)
 
 ## What do I need to do?
 

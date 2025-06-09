@@ -1,54 +1,51 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - thesis
 - webfuse
-date: 2009-01-25 13:53:47+10:00
+comments: []
+date: 2009-01-25 03:53:47
 next:
   text: Some possible reasons why comparison of information systems are broken
   url: /blog/2009/01/27/some-possible-reasons-why-comparison-of-information-systems-are-broken/
+pingbacks:
+- approved: '1'
+  author: Place - the industrial society&#8217;s impact on schools - and universities?
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/03/05/place-the-industrial-societys-impact-on-schools-and-universities/
+  content: '[...] intent of the Ps Framework is to help identify and lightly organise
+    the different components, and the different perspectives [...]'
+  date: '2009-03-05 10:17:36'
+  date_gmt: '2009-03-05 00:17:36'
+  id: '2088'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The protean nature of modern technology - another limitation of most views
+    of e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.24
+  author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
+  content: '[...] views of&nbsp;e-learning  A part of my thinking around the Ps Framework
+    I suggest that there are a number of dominant assumptions that underpin the current
+    implementation of e-learning within institutions of higher education. I [...]'
+  date: '2009-03-06 08:54:08'
+  date_gmt: '2009-03-05 22:54:08'
+  id: '2089'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Somethings that are broken with evaluation of university teaching
   url: /blog/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/
+template: blog-post.html
 title: '"The "dominant" assumptions underlying university-based e-learning: an introduction"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Place - the industrial society&#8217;s impact on schools - and universities?
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/03/05/place-the-industrial-societys-impact-on-schools-and-universities/
-      content: '[...] intent of the Ps Framework is to help identify and lightly organise
-        the different components, and the different perspectives [...]'
-      date: '2009-03-05 10:17:36'
-      date_gmt: '2009-03-05 00:17:36'
-      id: '2088'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The protean nature of modern technology - another limitation of most views
-        of e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.24
-      author_url: https://djon.es/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
-      content: '[...] views of&nbsp;e-learning  A part of my thinking around the Ps Framework
-        I suggest that there are a number of dominant assumptions that underpin the current
-        implementation of e-learning within institutions of higher education. I [...]'
-      date: '2009-03-06 08:54:08'
-      date_gmt: '2009-03-05 22:54:08'
-      id: '2089'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 As part of working on my [thesis](/blog/research/phd-thesis/) I'm working on chapter 2. As the traditional literature review one purpose of the chapter is to demonstrate what I know about the topic and to highlight what I think are the flaws or holes in current research and practice that I believe my research will address. The following builds on some initial ideas from a [previous blog post](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) and serves as some practice in formulating my ideas. So it will still be rough. Feel free to suggest improvements, point out problems and disagree.
 

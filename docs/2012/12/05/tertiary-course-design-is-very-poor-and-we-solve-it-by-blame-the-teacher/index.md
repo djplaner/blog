@@ -1,57 +1,54 @@
----
+﻿---
 categories:
 - thesis
-date: 2012-12-05 09:13:27+10:00
+comments:
+- approved: '1'
+  author: Stephen Harlow (@stephenharlow)
+  author_email: stephenharlow@twitter.example.com
+  author_ip: 130.217.60.8
+  author_url: http://twitter.com/stephenharlow
+  content: "Well you certainly rose to the occasion David. Context is indeed king.\
+    \ My point, admittedly made rather sheepishly (cue NZ joke), was the poor quality\
+    \ of the journalism, which amounted to cheap self-promotion, an advertorial. Where\
+    \ was the \u201Cjournalistic truth\u201D, the verification of facts? The writer\
+    \ seems to have happily taken unsubstantiated claims: \u201Cup to 70 per cent\
+    \ [of the tertiary sector] is underperforming\u201D... \u201Cby 25% on average\u201D\
+    \ as fact. I think I\u2019d have rather have read another piece of churnalism.\
+    \ Nevertheless, I\u2019m glad to have inspired you :-)"
+  date: '2012-12-05 14:01:05'
+  date_gmt: '2012-12-05 04:01:05'
+  id: '522'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: Thanks for the inspiration Stephen.  Though I don't need much help, the
+    saviour status of formal teaching qualifications for academics is a bug bear of
+    mine. I've even some people making distinctions about the type of formal teaching
+    qualification making a difference.  Good point about the percentages, would be
+    interesting to see the evidence for those claims.
+  date: '2012-12-05 14:15:58'
+  date_gmt: '2012-12-05 04:15:58'
+  id: '523'
+  parent: '522'
+  type: comment
+  user_id: '1'
+date: 2012-12-04 23:13:27
 next:
   text: Can/will learning analytics challenge the current QA mentality of university
     teaching
   url: /blog/2012/12/11/canwill-learning-analytics-challenge-the-current-qa-mentality-of-university-teaching/
+pingbacks: []
 previous:
   text: '#ascilite2012 technical support and the tail wagging the dog'
   url: /blog/2012/12/02/tail-wagging-the-dog/
+template: blog-post.html
 title: Tertiary course design is very poor, and we solve it by "blame the teacher"
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Stephen Harlow (@stephenharlow)
-      author_email: stephenharlow@twitter.example.com
-      author_ip: 130.217.60.8
-      author_url: http://twitter.com/stephenharlow
-      content: "Well you certainly rose to the occasion David. Context is indeed king.\
-        \ My point, admittedly made rather sheepishly (cue NZ joke), was the poor quality\
-        \ of the journalism, which amounted to cheap self-promotion, an advertorial. Where\
-        \ was the \u201Cjournalistic truth\u201D, the verification of facts? The writer\
-        \ seems to have happily taken unsubstantiated claims: \u201Cup to 70 per cent\
-        \ [of the tertiary sector] is underperforming\u201D... \u201Cby 25% on average\u201D\
-        \ as fact. I think I\u2019d have rather have read another piece of churnalism.\
-        \ Nevertheless, I\u2019m glad to have inspired you :-)"
-      date: '2012-12-05 14:01:05'
-      date_gmt: '2012-12-05 04:01:05'
-      id: '522'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: Thanks for the inspiration Stephen.  Though I don't need much help, the
-        saviour status of formal teaching qualifications for academics is a bug bear of
-        mine. I've even some people making distinctions about the type of formal teaching
-        qualification making a difference.  Good point about the percentages, would be
-        interesting to see the evidence for those claims.
-      date: '2012-12-05 14:15:58'
-      date_gmt: '2012-12-05 04:15:58'
-      id: '523'
-      parent: '522'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 The following is inspired by this tweet
 
@@ -67,7 +64,7 @@ This is not to suggest there is no value in these courses. But it's not the solu
 
 The following figure is from Richardson (2005)
 
-[![Integrated model of teachers' approaches to teaching](images/4407496847_0e08f8fe8c_m.jpg)](http://www.flickr.com/photos/david_jones/4407496847/ "Integrated model of teachers' approaches to teaching by David T Jones, on Flickr")
+[![Integrated model of teachers' approaches to teaching](https://djon.es/assets/blog/2012/12/05/tertiary-course-design-is-very-poor-and-we-solve-it-by-blame-the-teacher/images/4407496847_0e08f8fe8c_m.jpg)](http://www.flickr.com/photos/david_jones/4407496847/ "Integrated model of teachers' approaches to teaching by David T Jones, on Flickr")
 
 The findings from this research is that there can be significant differences between the espoused theories information teaching and learning and the theories in use (Leveson, 2004). Teachers can know all the "best" learning theory but not use that in their teaching. While teachers may hold higher-level views of teaching, other contextual factors may prevent the use of those conceptions (Leveson, 2004). Environmental, institutional, or other issues may impel teachers to teach in a way that is against their preferred approach (Samuelowicz & Bain, 2001). Prosser and Trigwell (1997) found that teachers with a student-focused approach were more likely to report that their departments valued teaching, that their class sizes were not too large, and that they had control over what was taught and how it was taught. In examining conceptions of e-learning held by academic staff, Gonzalez (2009) found that institutional factors and the nature of the students were the most relevant contextual factors influencing teaching.
 

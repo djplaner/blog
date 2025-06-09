@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
 - missingps
 - ple
-date: 2008-10-24 15:48:13+10:00
+comments: []
+date: 2008-10-24 05:48:13
 next:
   text: The many Ps
   url: /blog/2008/10/25/the-many-ps/
+pingbacks:
+- approved: '1'
+  author: The many Ps &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.142
+  author_url: https://djon.es/blog/2008/10/25/the-many-ps/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    The Ps Framework - avoiding perceptual&nbsp;blindness? [...]'
+  date: '2008-10-25 21:20:35'
+  date_gmt: '2008-10-25 11:20:35'
+  id: '1851'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Look for incompetence before you go paranoid
   url: /blog/2008/10/23/look-for-incompetence-before-you-go-paranoid/
+template: blog-post.html
 title: The Ps Framework - avoiding perceptual blindness?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: The many Ps &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.142
-      author_url: https://djon.es/blog/2008/10/25/the-many-ps/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        The Ps Framework - avoiding perceptual&nbsp;blindness? [...]'
-      date: '2008-10-25 21:20:35'
-      date_gmt: '2008-10-25 11:20:35'
-      id: '1851'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The Ps Framework is a taxonomy/framework that has arisen out of my attempts to understand the literature around e-learning within universities. It's main aim is to serve as the structure for chapter 2 of [my thesis](/blog/research/phd-thesis/). This blog post seeks to summarise some of the origins and potential futures of the Ps framework and also to explain why I think it might be useful.
 
@@ -115,11 +112,11 @@ An increasingly regular request is for a pretty diagram or table to summarise th
 
 The very first version, from the first presentation tried to establish some sort of order or hierarchy.
 
-[![Version 1 of the Ps Framework](images/2968889380_eba4bb5ace_m.jpg)](http://www.flickr.com/photos/david_jones/2968889380/ "Version 1 of the Ps Framework by David T Jones, on Flickr")
+[![Version 1 of the Ps Framework](https://djon.es/assets/blog/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/images/2968889380_eba4bb5ace_m.jpg)](http://www.flickr.com/photos/david_jones/2968889380/ "Version 1 of the Ps Framework by David T Jones, on Flickr")
 
 The 2008 version keeps some of that, tries to emphasise the on-going impact each of the Ps have on each other and that place is the fundamental underlying consideration
 
-[![Version 2 of the Ps Framework](images/2968044617_c3a10fd3d0_m.jpg)](http://www.flickr.com/photos/david_jones/2968044617/ "Version 2 of the Ps Framework by David T Jones, on Flickr")
+[![Version 2 of the Ps Framework](https://djon.es/assets/blog/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/images/2968044617_c3a10fd3d0_m.jpg)](http://www.flickr.com/photos/david_jones/2968044617/ "Version 2 of the Ps Framework by David T Jones, on Flickr")
 
 One source of my reluctance to have a diagram is that there is an expectation to show relationships between the components. I believe there are problems with that. In the latest paper I wrote
 

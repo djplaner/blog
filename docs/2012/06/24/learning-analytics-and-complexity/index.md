@@ -1,10 +1,10 @@
----
+﻿---
 categories:
 - complexityleadership
 - elearning
 - indicators
 - learninganalytics-elearning
-date: 2012-06-24 17:58:30+10:00
+date: 2012-06-24 07:58:30
 next:
   text: The LMS Product - limitations and an alternative
   url: /blog/2012/06/28/the-lms-product-limitations-and-alternative/
@@ -12,9 +12,9 @@ previous:
   text: 'The life and death of Webfuse: lessons for learning and leading into the
     future'
   url: /blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+template: blog-post.html
 title: Learning analytics and complexity
 type: post
-template: blog-post.html
 ---
 Another day and another #ascilite12 paper to think about. This is the one where my periodic engagement is potentially driving my co-author slightly crazy. I'm sure this contribution will add further to that.
 

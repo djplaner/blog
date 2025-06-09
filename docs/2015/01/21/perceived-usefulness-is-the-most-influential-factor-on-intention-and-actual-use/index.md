@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - bad
 - bambimbad
-date: 2015-01-21 15:18:15+10:00
+comments: []
+date: 2015-01-21 05:18:15
 next:
   text: Trying out a new writing process
   url: /blog/2015/01/21/trying-out-a-new-writing-process/
+pingbacks:
+- approved: '1'
+  author: Trying out a new writing process | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.147
+  author_url: https://davidtjones.wordpress.com/2015/01/21/trying-out-a-new-writing-process/
+  content: '[&#8230;] At least one of the papers I skimmed resonated with a negative
+    local experience and generated a rant. [&#8230;]'
+  date: '2015-01-21 16:28:26'
+  date_gmt: '2015-01-21 06:28:26'
+  id: '1206'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A proposal for fixing what&#8217;s broken with ed tech support in some universities
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.81.31
+  author_url: https://davidtjones.wordpress.com/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
+  content: '[&#8230;] what passes for ed tech support/academic staff development in
+    some universities. Picking up on yesterday&#8217;s post, the paper reports on
+    academics harnessing their digital fluency to address the almost complete [&#8230;]'
+  date: '2015-01-22 11:57:56'
+  date_gmt: '2015-01-22 01:57:56'
+  id: '1207'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Learning to live with a standard look and feel
   url: /blog/2015/01/21/learning-to-live-with-a-standard-look-and-feel/
+template: blog-post.html
 title: '"Barriers to higher education technology adoption: Digital fluency or usefulness?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Trying out a new writing process | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.147
-      author_url: https://davidtjones.wordpress.com/2015/01/21/trying-out-a-new-writing-process/
-      content: '[&#8230;] At least one of the papers I skimmed resonated with a negative
-        local experience and generated a rant. [&#8230;]'
-      date: '2015-01-21 16:28:26'
-      date_gmt: '2015-01-21 06:28:26'
-      id: '1206'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A proposal for fixing what&#8217;s broken with ed tech support in some universities
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.81.31
-      author_url: https://davidtjones.wordpress.com/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
-      content: '[&#8230;] what passes for ed tech support/academic staff development in
-        some universities. Picking up on yesterday&#8217;s post, the paper reports on
-        academics harnessing their digital fluency to address the almost complete [&#8230;]'
-      date: '2015-01-22 11:57:56'
-      date_gmt: '2015-01-22 01:57:56'
-      id: '1207'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Motaghian et al (2013) in talking about "web-based learning systems" (LMS) conclude that (p. 167)
 

@@ -1,162 +1,159 @@
----
+﻿---
 categories:
 - elearning
 - herding-cats
 - reflectivealignment
-date: 2010-07-30 10:49:27+10:00
+comments:
+- approved: '1'
+  author: dveness
+  author_email: deborah.veness@anu.edu.au
+  author_ip: 150.203.145.36
+  author_url: null
+  content: 'Fantastic. This is the best thing I''ve read this week, and possibly the
+    most sensible comment on change in universities I''ve read for some considerable
+    time.
+
+
+    Enjoy your last afternoon at CQU.'
+  date: '2010-07-30 12:51:41'
+  date_gmt: '2010-07-30 02:51:41'
+  id: '3138'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.42.225
+  author_url: https://djon.es/blog/
+  content: 'G''day Deborah,
+
+
+    Thanks for the comment.
+
+
+    Reflecting on this post, has got me thinking about a bit of potential hypocrisy.
+
+
+    Management often do trot out the "guide on the side" as a model of good teaching.
+    But they don''t apparently think it''s a good model for management.
+
+
+    I''m really keen to hear stories of institutions who think they have this problem
+    licked. Would love to see it in action.
+
+
+    David.'
+  date: '2010-07-30 17:08:39'
+  date_gmt: '2010-07-30 07:08:39'
+  id: '3139'
+  parent: '3138'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: suifaijohnmak
+  author_email: suifaijohnmak@yahoo.com.au
+  author_ip: 60.241.166.115
+  author_url: http://suifaijohnmak.wordpress.com
+  content: 'Hi David,
+
+    Well said.  I resonate with your experience and thinking.  It seems to be a complex
+    problem, when it comes to the use of Web 2.0 in teaching and learning, blended
+    with politics and educational "ideals" when technology enhanced learning and online
+    learning are available out there in the web and social media competing with the
+    4 walls beautiful garden.
+
+    Who is leading the change?  Who is in power for ensuring the change is "embraced",
+    "adapted" or "dealt with"? Like you, I am keen to hear stories of institutions
+    who have been successful in introducing technology into learning and teaching.  Could
+    we learn from both successes and FAILURES?
+
+    I have written a response post to http://diyubook.com/2010/07/vast-majority-of-professors-are-rather-ludditical/
+    too.
+
+    My blog: http://suifaijohnmak.wordpress.com
+
+    Many thanks David for you insights into this.
+
+    John'
+  date: '2010-07-31 15:13:16'
+  date_gmt: '2010-07-31 05:13:16'
+  id: '3140'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.42.225
+  author_url: https://djon.es/blog/
+  content: 'G''day John,
+
+
+    I like your comment on the "rather ludditical" post.  The conservatism of students
+    is yet another part of the "frame of reference" of academics which contributes
+    to their reluctance to change. Many students are themselves highly pragmatic and
+    come to university with expectations, which you point out clearly.
+
+
+    I think we could learn from successes and failures, however, increasingly I am
+    having some problems with the "self-reporting" that is the common approach to
+    reporting on institutional interventions for improving learning and teaching.   Generally,
+    the folk who drove the intervention are responsible for the evaluation and its
+    presentation.  It''s honest conversations we need, not sure we''re getting that.
+
+
+    David.'
+  date: '2010-07-31 20:47:57'
+  date_gmt: '2010-07-31 10:47:57'
+  id: '3141'
+  parent: '3140'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: leighblackall
+  author_email: leighblackall@gmail.com
+  author_ip: 124.171.102.2
+  author_url: http://learnonline.wordpress.com/
+  content: 'Hi Dave, everyone. My question is in the depth and detail of what you
+    say. If I understand you, it is basically a more sophisticated reasoning for the
+    cliche in our circles: "take small steps, start from where they are at".
+
+
+    As a proponent of so-called radical practices in ed development, ive always struggled
+    with the contradictions in these statements. It seems to me that all educational
+    development to date, has ignored it! The institutions take the advice from their
+    ed development centres, and adopt learning management systems, a device that bore
+    no resemblance to online experience that most people had, and were going to have.
+    Same for learning objects, repositories, databases, etc.
+
+
+    So, I guess I''d like you to go further and be more specific. In my view, the
+    problem you outline is fundamental to the nature of institutionalisation - creating
+    and preserving problems only they can serve.
+
+
+    so rather than taking small steps from a fundamentally flawed being, set up an
+    alternative and enable it to compete, or demonstrate itself at least. I''m attempting
+    this at UC.'
+  date: '2010-08-07 14:36:06'
+  date_gmt: '2010-08-07 04:36:06'
+  id: '3142'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-07-30 00:49:27
 next:
   text: Usage of Webfuse course sites
   url: /blog/2010/08/01/usage-of-webfuse-course-sites/
+pingbacks: []
 previous:
   text: First the fridge dies, and then...
   url: /blog/2010/07/28/first-the-fridge-dies-and-then/
+template: blog-post.html
 title: The grammar of school, psychological dissonance and all professors are rather
   ludditical
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: dveness
-      author_email: deborah.veness@anu.edu.au
-      author_ip: 150.203.145.36
-      author_url: null
-      content: 'Fantastic. This is the best thing I''ve read this week, and possibly the
-        most sensible comment on change in universities I''ve read for some considerable
-        time.
-    
-    
-        Enjoy your last afternoon at CQU.'
-      date: '2010-07-30 12:51:41'
-      date_gmt: '2010-07-30 02:51:41'
-      id: '3138'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.42.225
-      author_url: https://djon.es/blog/
-      content: 'G''day Deborah,
-    
-    
-        Thanks for the comment.
-    
-    
-        Reflecting on this post, has got me thinking about a bit of potential hypocrisy.
-    
-    
-        Management often do trot out the "guide on the side" as a model of good teaching.
-        But they don''t apparently think it''s a good model for management.
-    
-    
-        I''m really keen to hear stories of institutions who think they have this problem
-        licked. Would love to see it in action.
-    
-    
-        David.'
-      date: '2010-07-30 17:08:39'
-      date_gmt: '2010-07-30 07:08:39'
-      id: '3139'
-      parent: '3138'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: suifaijohnmak
-      author_email: suifaijohnmak@yahoo.com.au
-      author_ip: 60.241.166.115
-      author_url: http://suifaijohnmak.wordpress.com
-      content: 'Hi David,
-    
-        Well said.  I resonate with your experience and thinking.  It seems to be a complex
-        problem, when it comes to the use of Web 2.0 in teaching and learning, blended
-        with politics and educational "ideals" when technology enhanced learning and online
-        learning are available out there in the web and social media competing with the
-        4 walls beautiful garden.
-    
-        Who is leading the change?  Who is in power for ensuring the change is "embraced",
-        "adapted" or "dealt with"? Like you, I am keen to hear stories of institutions
-        who have been successful in introducing technology into learning and teaching.  Could
-        we learn from both successes and FAILURES?
-    
-        I have written a response post to http://diyubook.com/2010/07/vast-majority-of-professors-are-rather-ludditical/
-        too.
-    
-        My blog: http://suifaijohnmak.wordpress.com
-    
-        Many thanks David for you insights into this.
-    
-        John'
-      date: '2010-07-31 15:13:16'
-      date_gmt: '2010-07-31 05:13:16'
-      id: '3140'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.42.225
-      author_url: https://djon.es/blog/
-      content: 'G''day John,
-    
-    
-        I like your comment on the "rather ludditical" post.  The conservatism of students
-        is yet another part of the "frame of reference" of academics which contributes
-        to their reluctance to change. Many students are themselves highly pragmatic and
-        come to university with expectations, which you point out clearly.
-    
-    
-        I think we could learn from successes and failures, however, increasingly I am
-        having some problems with the "self-reporting" that is the common approach to
-        reporting on institutional interventions for improving learning and teaching.   Generally,
-        the folk who drove the intervention are responsible for the evaluation and its
-        presentation.  It''s honest conversations we need, not sure we''re getting that.
-    
-    
-        David.'
-      date: '2010-07-31 20:47:57'
-      date_gmt: '2010-07-31 10:47:57'
-      id: '3141'
-      parent: '3140'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: leighblackall
-      author_email: leighblackall@gmail.com
-      author_ip: 124.171.102.2
-      author_url: http://learnonline.wordpress.com/
-      content: 'Hi Dave, everyone. My question is in the depth and detail of what you
-        say. If I understand you, it is basically a more sophisticated reasoning for the
-        cliche in our circles: "take small steps, start from where they are at".
-    
-    
-        As a proponent of so-called radical practices in ed development, ive always struggled
-        with the contradictions in these statements. It seems to me that all educational
-        development to date, has ignored it! The institutions take the advice from their
-        ed development centres, and adopt learning management systems, a device that bore
-        no resemblance to online experience that most people had, and were going to have.
-        Same for learning objects, repositories, databases, etc.
-    
-    
-        So, I guess I''d like you to go further and be more specific. In my view, the
-        problem you outline is fundamental to the nature of institutionalisation - creating
-        and preserving problems only they can serve.
-    
-    
-        so rather than taking small steps from a fundamentally flawed being, set up an
-        alternative and enable it to compete, or demonstrate itself at least. I''m attempting
-        this at UC.'
-      date: '2010-08-07 14:36:06'
-      date_gmt: '2010-08-07 04:36:06'
-      id: '3142'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 Yesterday, via a tweet from [@marksmithers](http://twitter.com/marksmithers) I read [this post](http://diyubook.com/2010/07/vast-majority-of-professors-are-rather-ludditical/) from the author of the DIYU book titled "Vast Majority of Professors Are Rather Ludditical". This is somewhat typical of the [defict model](/blog/2009/12/09/change-the-environment-not-the-culture/) of academics which is fairly prevalent and rather pointless. It's pointless for a number of reasons, but the main one is that it is not a helpful starting point for bringing a out change as it ignores the broader problem and consequently most solutions that arise from a deficit model won't work.
 

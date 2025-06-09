@@ -1,53 +1,50 @@
----
+﻿---
 categories:
 - indicators
-date: 2011-02-19 23:45:47+10:00
+comments: []
+date: 2011-02-19 13:45:47
 next:
   text: How many pages of a course profile are necessary?
   url: /blog/2011/02/20/how-many-pages-of-a-course-profile-are-necessary/
+pingbacks:
+- approved: '1'
+  author: "Tweets that mention A proposed link between academic involvement and student\
+    \ evaluation response rate \xAB The Weblog of (a) David Jones -- Topsy.com"
+  author_email: null
+  author_ip: 208.74.66.43
+  author_url: http://topsy.com/davidtjones.wordpress.com/2011/02/19/a-proposed-link-between-academic-involvement-and-student-evaluation-response-rate/?utm_source=pingback&utm_campaign=L2
+  content: "[...] This post was mentioned on Twitter by Paulo Sim\xF5es and David\
+    \ Jones, Digital Fingerprint. Digital Fingerprint said: RT @pgsimoes: A proposed\
+    \ link between academic involvement and student evaluation response rate http://dlvr.it/H19tc\
+    \ #elearning [...]"
+  date: '2011-02-20 00:13:40'
+  date_gmt: '2011-02-19 14:13:40'
+  id: '3263'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Instructor participation and evaluation response rates &laquo; Col&#039;s
+    Weblog
+  author_email: null
+  author_ip: 74.200.247.41
+  author_url: http://beerc.wordpress.com/2011/02/20/instructor-participation-and-evaluation-response-rates/
+  content: '[...] participation and evaluation response&nbsp;rates David raised an
+    interesting point in a recent blog post where he wondered about the possible correlation
+    between academic participation in a course and the [...]'
+  date: '2011-02-20 13:46:32'
+  date_gmt: '2011-02-20 03:46:32'
+  id: '3264'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'bim2: manage marking services - Part II'
   url: /blog/2011/02/19/bim2-manage-marking-services-part-ii/
+template: blog-post.html
 title: A proposed link between academic involvement and student evaluation response
   rate
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: "Tweets that mention A proposed link between academic involvement and student\
-        \ evaluation response rate \xAB The Weblog of (a) David Jones -- Topsy.com"
-      author_email: null
-      author_ip: 208.74.66.43
-      author_url: http://topsy.com/davidtjones.wordpress.com/2011/02/19/a-proposed-link-between-academic-involvement-and-student-evaluation-response-rate/?utm_source=pingback&utm_campaign=L2
-      content: "[...] This post was mentioned on Twitter by Paulo Sim\xF5es and David\
-        \ Jones, Digital Fingerprint. Digital Fingerprint said: RT @pgsimoes: A proposed\
-        \ link between academic involvement and student evaluation response rate http://dlvr.it/H19tc\
-        \ #elearning [...]"
-      date: '2011-02-20 00:13:40'
-      date_gmt: '2011-02-19 14:13:40'
-      id: '3263'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Instructor participation and evaluation response rates &laquo; Col&#039;s
-        Weblog
-      author_email: null
-      author_ip: 74.200.247.41
-      author_url: http://beerc.wordpress.com/2011/02/20/instructor-participation-and-evaluation-response-rates/
-      content: '[...] participation and evaluation response&nbsp;rates David raised an
-        interesting point in a recent blog post where he wondered about the possible correlation
-        between academic participation in a course and the [...]'
-      date: '2011-02-20 13:46:32'
-      date_gmt: '2011-02-20 03:46:32'
-      id: '3264'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In the following I ruminate on a possible correlation between academic participation in a course and response rates on end of term student evaluation. There are two points:
 
@@ -64,13 +61,13 @@ For example, in [an early publication](http://indicatorsproject.wordpress.com/20
 
 We found this pattern with distance education students. As shown in the following graph that shows the connection between participation in a course discussion forum and student grades. (Click on the graph to see it bigger)
 
-[![Average posts & replies for FLEX students](images/4096268313_da8131d5c7_m.jpg)](http://www.flickr.com/photos/david_jones/4096268313/ "Average posts & replies for FLEX students by David T Jones, on Flickr")
+[![Average posts & replies for FLEX students](https://djon.es/assets/blog/2011/02/19/a-proposed-link-between-academic-involvement-and-student-evaluation-response-rate/images/4096268313_da8131d5c7_m.jpg)](http://www.flickr.com/photos/david_jones/4096268313/ "Average posts & replies for FLEX students by David T Jones, on Flickr")
 
 HD (high distinction - the top grade) distance education students were, on average, posting 13 replies per course discussion forum compared to 11, 9, 6, 5 and 3 for the lower grades.
 
 But we didn't find that on-campus, international students. As shown in the following graph using the same measure.
 
-[![Average posts & replies for AIC students](images/4097026702_80b2548c57_m.jpg)](http://www.flickr.com/photos/david_jones/4097026702/ "Average posts & replies for AIC students by David T Jones, on Flickr")
+[![Average posts & replies for AIC students](https://djon.es/assets/blog/2011/02/19/a-proposed-link-between-academic-involvement-and-student-evaluation-response-rate/images/4097026702_80b2548c57_m.jpg)](http://www.flickr.com/photos/david_jones/4097026702/ "Average posts & replies for AIC students by David T Jones, on Flickr")
 
 The HD AIC students were actually making, on average, less replies than all other students except those that failed.
 
@@ -80,11 +77,11 @@ Another interesting pattern we established was that increase staff participation
 
 Students in courses with high staff participation (staff clicked on the course site more than 3000 times in a term) gave this pattern.
 
-[![Average student posts/replies on discussion forums for high staff participation courses](images/4037668889_8ccb1d63cc_m.jpg)](http://www.flickr.com/photos/david_jones/4037668889/ "Average student posts/replies on discussion forums for high staff participation courses by David T Jones, on Flickr")
+[![Average student posts/replies on discussion forums for high staff participation courses](https://djon.es/assets/blog/2011/02/19/a-proposed-link-between-academic-involvement-and-student-evaluation-response-rate/images/4037668889_8ccb1d63cc_m.jpg)](http://www.flickr.com/photos/david_jones/4037668889/ "Average student posts/replies on discussion forums for high staff participation courses by David T Jones, on Flickr")
 
 Students in courses with super-low staff participation (staff clicked on the course site less than 100 times in a term) gave this pattern.
 
-[![Average student posts/replies on discussion forums for super low staff participation courses](images/4038417332_8be6f549f4_m.jpg)](http://www.flickr.com/photos/david_jones/4038417332/ "Average student posts/replies on discussion forums for super low staff participation courses by David T Jones, on Flickr")
+[![Average student posts/replies on discussion forums for super low staff participation courses](https://djon.es/assets/blog/2011/02/19/a-proposed-link-between-academic-involvement-and-student-evaluation-response-rate/images/4038417332_8be6f549f4_m.jpg)](http://www.flickr.com/photos/david_jones/4038417332/ "Average student posts/replies on discussion forums for super low staff participation courses by David T Jones, on Flickr")
 
 ### Student evaluation response rates
 

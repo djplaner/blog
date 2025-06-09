@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-03-17 15:44:52+10:00
+date: 2010-03-17 05:44:52
 next:
   text: Embedding behaviour modification - paper summary
   url: /blog/2010/03/17/embedding-behaviour-modification-paper-summary/
 previous:
   text: Late enrolling students and student signatures - Indicators project?
   url: /blog/2010/03/17/late-enrolling-students-and-student-signatures-indicators-project/
+template: blog-post.html
 title: The story of BIM - the slow expansion of BAM
 type: post
-template: blog-post.html
 ---
 Episode 3 of the story of BIM
 

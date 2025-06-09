@@ -1,20 +1,20 @@
----
+﻿---
 categories:
 - bad
 - bricolage
 - elearning
 - information-systems
 - innovation
-date: 2014-05-08 13:40:46+10:00
+date: 2014-05-08 03:40:46
 next:
   text: Does my course suffer from semester droop?
   url: /blog/2014/05/09/does-my-course-suffer-from-semester-droop/
 previous:
   text: How much reblogging is &quot;bad&quot;?
   url: /blog/2014/05/05/how-much-reblogging-is-bad/
+template: blog-post.html
 title: '"From thinking to tinkering: The grassroots of strategic information systems"'
 type: post
-template: blog-post.html
 ---
 What follows is a long overdue summary of Ciborra (1992). I think it will have a lot of insight for how universities implement e-learning. The abstract for Ciborra (1992) is
 

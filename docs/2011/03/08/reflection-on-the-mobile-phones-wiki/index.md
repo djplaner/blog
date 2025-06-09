@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-03-08 10:40:54+10:00
+comments: []
+date: 2011-03-08 00:40:54
 next:
   text: Creating a framework for eLearning design
   url: /blog/2011/03/08/creating-a-framework-for-elearning-design/
+pingbacks:
+- approved: '1'
+  author: 'Reflection and conclusions: Learning brief &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 72.233.61.84
+  author_url: https://djon.es/blog/2011/03/15/reflection-and-conclusions-learning-brief/
+  content: '[...] Mobile phones wiki [...]'
+  date: '2011-03-15 17:24:37'
+  date_gmt: '2011-03-15 07:24:37'
+  id: '24'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'ICTs for Learning Design: Week 2'
   url: /blog/2011/03/08/icts-for-learning-design-week-2/
+template: blog-post.html
 title: Reflection on the mobile phones wiki
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Reflection and conclusions: Learning brief &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 72.233.61.84
-      author_url: https://djon.es/blog/2011/03/15/reflection-and-conclusions-learning-brief/
-      content: '[...] Mobile phones wiki [...]'
-      date: '2011-03-15 17:24:37'
-      date_gmt: '2011-03-15 07:24:37'
-      id: '24'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 During week two for the ICTs for Learning Design course we are required to post a reflective blog post on the "Mobile phones wiki" exercise. This is mine.
 

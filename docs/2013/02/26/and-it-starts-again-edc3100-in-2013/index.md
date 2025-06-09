@@ -1,84 +1,81 @@
----
+﻿---
 categories:
 - edc3100
 - teaching
-date: 2013-02-26 11:31:57+10:00
+comments:
+- approved: '1'
+  author: David Martin (@DavidUSQ)
+  author_email: DavidUSQ@twitter.example.com
+  author_ip: 139.86.2.15
+  author_url: http://twitter.com/DavidUSQ
+  content: 'Just completing the first week of on-campus teaching of EDC3100 I have
+    a perspective to contribute. The HIGHLIGHTS:
+
+    First off, I use a blended 3 hour workshop approach. Therefore, there is no separate
+    lecture and tute. Rather, we engage in some bi-lateral communication regarding
+    the structure of the course, the assessments and the related modules. A strategic
+    tour of the Learning Journey for week 1 allowed me to move into targeting the
+    intended concepts we are trying to instil in the students regarding ICT and pedagogy.
+    Once I felt the proper scaffolding was completed and key questions were answered,  I
+    let them work on some of the tutorial activities such as looking at the Diigo
+    and edublogs site and having discussions about their potential for use in enhancing
+    learning. Then I set them free to teach each other how to create their blogs,
+    invite others, subscribe to feeders etc, etc.. The buzz in the classroom was amazing
+    to witness. Then we went into the activity for the Postmans'' 5 things to know
+    about technological change. This created some interesting reflections. I pointed
+    out that they should be remembering all their reflections from today and consider
+    using some of them in their blogs and posts. Then we looked into the CPF section
+    of the learning path. All in all, a great start for this on-campus cohort with
+    no problems using the on-line material to run the f-t-f workshop.'
+  date: '2013-02-27 17:53:46'
+  date_gmt: '2013-02-27 07:53:46'
+  id: '637'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 123.211.52.248
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the update.  Good to hear the semester is off to a good start.
+    I''m hoping/planning to reflect a fair bit more about the course on this blog
+    this semester.  In large part, to model to the students what is expected of them.  Us
+    interacting like this only adds to that.
+
+
+    The 3 hour workshop approach sounds like a good way to run this. Pity the Toowoomba
+    cohort, timetable and rooms don''t allow it.'
+  date: '2013-02-27 18:16:42'
+  date_gmt: '2013-02-27 08:16:42'
+  id: '638'
+  parent: '637'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 123.211.52.248
+  author_url: https://djon.es/blog/
+  content: And David, I should also point to <a href="http://davidmartin2.edublogs.org/"
+    rel="nofollow">your blog</a> as well.
+  date: '2013-02-27 21:07:02'
+  date_gmt: '2013-02-27 11:07:02'
+  id: '639'
+  parent: '637'
+  type: comment
+  user_id: '1'
+date: 2013-02-26 01:31:57
 next:
   text: Diagnosing a BIM problem
   url: /blog/2013/02/27/diagnosing-a-bim-problem/
+pingbacks: []
 previous:
   text: The assessment of learning journals - ideas for BIM
   url: /blog/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/
+template: blog-post.html
 title: And it starts again, edc3100 in 2013
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: David Martin (@DavidUSQ)
-      author_email: DavidUSQ@twitter.example.com
-      author_ip: 139.86.2.15
-      author_url: http://twitter.com/DavidUSQ
-      content: 'Just completing the first week of on-campus teaching of EDC3100 I have
-        a perspective to contribute. The HIGHLIGHTS:
-    
-        First off, I use a blended 3 hour workshop approach. Therefore, there is no separate
-        lecture and tute. Rather, we engage in some bi-lateral communication regarding
-        the structure of the course, the assessments and the related modules. A strategic
-        tour of the Learning Journey for week 1 allowed me to move into targeting the
-        intended concepts we are trying to instil in the students regarding ICT and pedagogy.
-        Once I felt the proper scaffolding was completed and key questions were answered,  I
-        let them work on some of the tutorial activities such as looking at the Diigo
-        and edublogs site and having discussions about their potential for use in enhancing
-        learning. Then I set them free to teach each other how to create their blogs,
-        invite others, subscribe to feeders etc, etc.. The buzz in the classroom was amazing
-        to witness. Then we went into the activity for the Postmans'' 5 things to know
-        about technological change. This created some interesting reflections. I pointed
-        out that they should be remembering all their reflections from today and consider
-        using some of them in their blogs and posts. Then we looked into the CPF section
-        of the learning path. All in all, a great start for this on-campus cohort with
-        no problems using the on-line material to run the f-t-f workshop.'
-      date: '2013-02-27 17:53:46'
-      date_gmt: '2013-02-27 07:53:46'
-      id: '637'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 123.211.52.248
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the update.  Good to hear the semester is off to a good start.
-        I''m hoping/planning to reflect a fair bit more about the course on this blog
-        this semester.  In large part, to model to the students what is expected of them.  Us
-        interacting like this only adds to that.
-    
-    
-        The 3 hour workshop approach sounds like a good way to run this. Pity the Toowoomba
-        cohort, timetable and rooms don''t allow it.'
-      date: '2013-02-27 18:16:42'
-      date_gmt: '2013-02-27 08:16:42'
-      id: '638'
-      parent: '637'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 123.211.52.248
-      author_url: https://djon.es/blog/
-      content: And David, I should also point to <a href="http://davidmartin2.edublogs.org/"
-        rel="nofollow">your blog</a> as well.
-      date: '2013-02-27 21:07:02'
-      date_gmt: '2013-02-27 11:07:02'
-      id: '639'
-      parent: '637'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 It's that time of year again - week 1, semester 1 - and after almost three-quarters of a year there are face-to-face students to tutor and lecture. Have to love the pedagogical assumptions built into the fabric of the technology that is a University education (a good example of technology becoming [mythic](/blog/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/)). The following captures a few thoughts from the first lecture/tutorial.
 

@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bim
-date: 2010-01-17 22:20:26+10:00
+date: 2010-01-17 12:20:26
 next:
   text: Questions about alternatives to curriculum mapping
   url: /blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
 previous:
   text: BIM - Manage Marking
   url: /blog/2010/01/17/bim-manage-marking/
+template: blog-post.html
 title: BIM - manage marking - view and release
 type: post
-template: blog-post.html
 ---
 This post continues on from [the manage marking](/blog/2010/01/17/bim-manage-marking/) work and describes the design/implementation of the view and release operations of manage marking. There are strong similarities in what both operations do and how they do it, so doing them in one.
 

@@ -1,91 +1,88 @@
----
+﻿---
 categories:
 - ascilitementor
 - elearning
-date: 2007-05-17 21:59:05+10:00
+comments:
+- approved: '1'
+  author: Michael Crisp
+  author_email: michael.crisp@unisa.edu.au
+  author_ip: 130.220.79.178
+  author_url: http://www.unisa.edu.au/research/
+  content: 'Thankfully journal ranking metrics and bibliometrics are only one measure
+    of quality being used in the RQF. If this were not the case then half of the disciplines
+    involved would be disadvantaged. The RQF is also looking at impact of research
+    in the community along with quality so possibly some disciplines will have an
+    easier time assessing their impact than their quality.
+
+
+    Quality ratings of non-traditional research outputs is also an interesting case
+    and I am interested in how this will unfold.
+
+
+    It is also interesting to note that the UK''s RAE2008 is not including journal
+    impact factors as part of its quality assessment but rather moving towards peer
+    assessment. I wonder if the RQF will follow this path?
+
+
+    Looking forward to the release of the final RQF guidelines sometime soon.'
+  date: '2007-05-18 09:18:18'
+  date_gmt: '2007-05-17 23:18:18'
+  id: '1540'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Kathleen Gray
+  author_email: kgray@unimelb.edu.au
+  author_ip: 128.250.6.244
+  author_url: null
+  content: "A few pointers to work done on the question of education journal rankings:\n\
+    The work being done at Newcastle is reported in abstract BOU0733X at\nhttp://www.aare.edu.au/07xpap/abs07x.htm\n\
+    Also, some earlier work done at Monash\nhttp://www.aare.edu.au/05pap/gil05744.pdf\n\
+    \nIn my unit, we keep an eye on ISI journal citation reports http://scientific.thomson.com/products/jcr/\
+    \ for education, educational technology, and for IT and health sciences journals\
+    \ that publish education.  Journal impact factors are strongly emphasised in the\
+    \ faculty where we\u2019re based, but of course, because we are educators in a\
+    \ life sciences faculty, we are never going to accrue the high-impact publications\
+    \ of our colleagues publishing in Nature, for instance.  So work has to be done\
+    \ to group like with like researchers for RQF purposes.\n\nI personally find a\
+    \ lot of appeal, on moral rights and knowledge transfer grounds, for publishing\
+    \ in open access publication, cf the aims of the Scholarly Publishing and Academic\
+    \ Resources Coalition http://www.arl.org/sparc/  and the Public Knowledge Project\
+    \ - http://pkp.sfu.ca/\n\nGiving papers at a variety of conferences, nationally\
+    \ and internationally, must be seen as having other merits for a researcher and\
+    \ a researcher's unit or department: the exchange of ideas that influence your\
+    \ publications well before you send them for review, the networking to build the\
+    \ teams to collaborate successfully in cross-institutional research, the ways\
+    \ that prospective PhD students and postdocs find opportunities, the links to\
+    \ the people who can be asked to sit on steering committees, conduct external\
+    \ evaluations, etc. And sometimes you make good friends!  The down side is that\
+    \ it\u2019s self-plagiarism to publish the same work once as a refereed conference\
+    \ paper and then again as a refereed journal article, so there\u2019s some judgement\
+    \ involved in deciding what you publish where.\n\nBut the bottom line for me is\
+    \ that if you don\u2019t support research and development in your community of\
+    \ practice in various ways (membership, conference work, committee work, journal\
+    \ reviewing, etc.), you lose that community, and you can't do much research as\
+    \ a sole operator. We would probably all identify with at least a couple of CoPs,\
+    \ without necessarily having the budget to go to lots of conferences, so you have\
+    \ to distribute your efforts in the manner that suits you best, I reckon."
+  date: '2007-05-18 16:02:56'
+  date_gmt: '2007-05-18 06:02:56'
+  id: '1541'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2007-05-17 11:59:05
 next:
   text: Carrick success - a pleasant surprise and now the fun begins
   url: /blog/2007/05/23/carrick-success-a-pleasant-surprise-and-now-the-fun-begins/
+pingbacks: []
 previous:
   text: A model for evaluating teaching - a useful lens?
   url: /blog/2007/04/29/a-model-for-evaluating-teaching-a-useful-lens/
+template: blog-post.html
 title: University learning and teaching publications - rankings and RQF
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Michael Crisp
-      author_email: michael.crisp@unisa.edu.au
-      author_ip: 130.220.79.178
-      author_url: http://www.unisa.edu.au/research/
-      content: 'Thankfully journal ranking metrics and bibliometrics are only one measure
-        of quality being used in the RQF. If this were not the case then half of the disciplines
-        involved would be disadvantaged. The RQF is also looking at impact of research
-        in the community along with quality so possibly some disciplines will have an
-        easier time assessing their impact than their quality.
-    
-    
-        Quality ratings of non-traditional research outputs is also an interesting case
-        and I am interested in how this will unfold.
-    
-    
-        It is also interesting to note that the UK''s RAE2008 is not including journal
-        impact factors as part of its quality assessment but rather moving towards peer
-        assessment. I wonder if the RQF will follow this path?
-    
-    
-        Looking forward to the release of the final RQF guidelines sometime soon.'
-      date: '2007-05-18 09:18:18'
-      date_gmt: '2007-05-17 23:18:18'
-      id: '1540'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Kathleen Gray
-      author_email: kgray@unimelb.edu.au
-      author_ip: 128.250.6.244
-      author_url: null
-      content: "A few pointers to work done on the question of education journal rankings:\n\
-        The work being done at Newcastle is reported in abstract BOU0733X at\nhttp://www.aare.edu.au/07xpap/abs07x.htm\n\
-        Also, some earlier work done at Monash\nhttp://www.aare.edu.au/05pap/gil05744.pdf\n\
-        \nIn my unit, we keep an eye on ISI journal citation reports http://scientific.thomson.com/products/jcr/\
-        \ for education, educational technology, and for IT and health sciences journals\
-        \ that publish education.  Journal impact factors are strongly emphasised in the\
-        \ faculty where we\u2019re based, but of course, because we are educators in a\
-        \ life sciences faculty, we are never going to accrue the high-impact publications\
-        \ of our colleagues publishing in Nature, for instance.  So work has to be done\
-        \ to group like with like researchers for RQF purposes.\n\nI personally find a\
-        \ lot of appeal, on moral rights and knowledge transfer grounds, for publishing\
-        \ in open access publication, cf the aims of the Scholarly Publishing and Academic\
-        \ Resources Coalition http://www.arl.org/sparc/  and the Public Knowledge Project\
-        \ - http://pkp.sfu.ca/\n\nGiving papers at a variety of conferences, nationally\
-        \ and internationally, must be seen as having other merits for a researcher and\
-        \ a researcher's unit or department: the exchange of ideas that influence your\
-        \ publications well before you send them for review, the networking to build the\
-        \ teams to collaborate successfully in cross-institutional research, the ways\
-        \ that prospective PhD students and postdocs find opportunities, the links to\
-        \ the people who can be asked to sit on steering committees, conduct external\
-        \ evaluations, etc. And sometimes you make good friends!  The down side is that\
-        \ it\u2019s self-plagiarism to publish the same work once as a refereed conference\
-        \ paper and then again as a refereed journal article, so there\u2019s some judgement\
-        \ involved in deciding what you publish where.\n\nBut the bottom line for me is\
-        \ that if you don\u2019t support research and development in your community of\
-        \ practice in various ways (membership, conference work, committee work, journal\
-        \ reviewing, etc.), you lose that community, and you can't do much research as\
-        \ a sole operator. We would probably all identify with at least a couple of CoPs,\
-        \ without necessarily having the budget to go to lots of conferences, so you have\
-        \ to distribute your efforts in the manner that suits you best, I reckon."
-      date: '2007-05-18 16:02:56'
-      date_gmt: '2007-05-18 06:02:56'
-      id: '1541'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 I've been somewhat pre-occupied this week with producing a presentation that will form the basis for a submission to [ASCILITE'2007](http://www.ascilite.org.au/conferences/singapore07/).
 

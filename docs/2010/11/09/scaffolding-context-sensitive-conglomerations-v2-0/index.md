@@ -1,81 +1,78 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
 - phd
 - thesis
-date: 2010-11-09 10:27:42+10:00
+comments: []
+date: 2010-11-09 00:27:42
 next:
   text: Initial plans for BIM 2.0
   url: /blog/2010/11/09/initial-plans-for-bim-2-0/
+pingbacks:
+- approved: '1'
+  author: On the potential flexibility of open source LMS and its limits &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.69.93
+  author_url: https://djon.es/blog/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
+  content: '[...] need in this case, at least to me, sounds like an example of what
+    I termed scaffolding, context-sensitive conglomerations. Rather than necessarily
+    requiring a brand new Moodle module or block, this problem sounds like [...]'
+  date: '2011-02-13 17:26:19'
+  date_gmt: '2011-02-13 07:26:19'
+  id: '3189'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Harnessing learning analytics to inform/improve learning and teaching &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.18
+  author_url: https://djon.es/blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
+  content: '[...] Scaffolding, context-sensitive conglomerations &#8211; one of the
+    related/underpinning ideas for the above. [...]'
+  date: '2012-05-20 15:10:09'
+  date_gmt: '2012-05-20 05:10:09'
+  id: '3190'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: This year it&#8217;s all about the connections | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 192.0.83.81
+  author_url: https://davidtjones.wordpress.com/2015/01/13/this-year-its-all-about-the-connections/
+  content: '[&#8230;] is not a new idea. My PhD work suggested the idea of scaffolding,
+    context-sensitive conglomerations. There are two reasons for the shift to [&#8230;]'
+  date: '2015-01-13 10:55:33'
+  date_gmt: '2015-01-13 00:55:33'
+  id: '3191'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Playing with Wikity &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.129
+  author_url: https://davidtjones.wordpress.com/2016/04/23/playing-with-wikity/
+  content: '[&#8230;] are some potentially interesting contributions Wikity can help
+    with ideas around the BAD mindset, CASA, and some sort of foundation for a &#8220;distributed
+    TPACK&#8221; [&#8230;]'
+  date: '2016-04-23 16:29:14'
+  date_gmt: '2016-04-23 06:29:14'
+  id: '3192'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: A story of the power of intrinsic motivation
   url: /blog/2010/11/07/a-story-of-the-power-of-intrinsic-motivation/
+template: blog-post.html
 title: Scaffolding, context-sensitive conglomerations - v2.0
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: On the potential flexibility of open source LMS and its limits &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.69.93
-      author_url: https://djon.es/blog/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
-      content: '[...] need in this case, at least to me, sounds like an example of what
-        I termed scaffolding, context-sensitive conglomerations. Rather than necessarily
-        requiring a brand new Moodle module or block, this problem sounds like [...]'
-      date: '2011-02-13 17:26:19'
-      date_gmt: '2011-02-13 07:26:19'
-      id: '3189'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Harnessing learning analytics to inform/improve learning and teaching &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.18
-      author_url: https://djon.es/blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
-      content: '[...] Scaffolding, context-sensitive conglomerations &#8211; one of the
-        related/underpinning ideas for the above. [...]'
-      date: '2012-05-20 15:10:09'
-      date_gmt: '2012-05-20 05:10:09'
-      id: '3190'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: This year it&#8217;s all about the connections | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 192.0.83.81
-      author_url: https://davidtjones.wordpress.com/2015/01/13/this-year-its-all-about-the-connections/
-      content: '[&#8230;] is not a new idea. My PhD work suggested the idea of scaffolding,
-        context-sensitive conglomerations. There are two reasons for the shift to [&#8230;]'
-      date: '2015-01-13 10:55:33'
-      date_gmt: '2015-01-13 00:55:33'
-      id: '3191'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Playing with Wikity &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.129
-      author_url: https://davidtjones.wordpress.com/2016/04/23/playing-with-wikity/
-      content: '[&#8230;] are some potentially interesting contributions Wikity can help
-        with ideas around the BAD mindset, CASA, and some sort of foundation for a &#8220;distributed
-        TPACK&#8221; [&#8230;]'
-      date: '2016-04-23 16:29:14'
-      date_gmt: '2016-04-23 06:29:14'
-      id: '3192'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is an excerpt from Chapter 5 of the thesis. It's a re-do of an earlier post, I'm a bit happier with it than v1.0. I'm posting it here because it connects with some work I'm doing preparing to work on BIM v2.0 and also because it summarises what I think may areas of further research in e-learning would be, if I were to do any.
 

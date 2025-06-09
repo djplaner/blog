@@ -1,8 +1,8 @@
----
-date: 2009-12-15 11:05:34+10:00
+﻿---
+date: 2009-12-15 01:05:34
+template: blog-post.html
 title: Moodle dev resources
 type: page
-template: blog-post.html
 ---
 Getting back into Moodle development has reinforced the need to put links to the resources I use in the one place.
 

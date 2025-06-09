@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bad
 - edc3100
-date: 2016-03-30 11:16:45+10:00
+date: 2016-03-30 01:16:45
 next:
   text: '"Competence with digital technology: Teacher or environment?"'
   url: /blog/2016/03/31/competence-with-digital-technology-do-they-see-the-point/
 previous:
   text: Setting up the analysis of student submissions
   url: /blog/2016/03/29/setting-up-the-analysis-of-student-submissions/
+template: blog-post.html
 title: Some simple analysis of student submissions
 type: post
-template: blog-post.html
 ---
 The [last post](/blog/2016/03/29/setting-up-the-analysis-of-student-submissions/) outlined the process for extracting data from ~300 student submissions. This one outlines what was done to actually do some analysis on that data.
 

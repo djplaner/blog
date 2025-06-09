@@ -1,49 +1,46 @@
----
+﻿---
 categories:
 - bim
-date: 2010-03-17 11:27:49+10:00
+comments: []
+date: 2010-03-17 01:27:49
 next:
   text: Late enrolling students and student signatures - Indicators project?
   url: /blog/2010/03/17/late-enrolling-students-and-student-signatures-indicators-project/
+pingbacks:
+- approved: '1'
+  author: Late enrolling students and student signatures &#8211; Indicators project?
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.76
+  author_url: https://djon.es/blog/2010/03/17/late-enrolling-students-and-student-signatures-indicators-project/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    The story of BIM &#8211; Development of&nbsp;BAM [...]'
+  date: '2010-03-17 11:56:45'
+  date_gmt: '2010-03-17 01:56:45'
+  id: '2968'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The story of BIM &#8211; the slow expansion of BAM &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 72.233.104.94
+  author_url: https://djon.es/blog/2010/03/17/the-story-of-bim-the-slow-expansion-of-bam/
+  content: '[...] initial development and use of BAM was in a single course that finished
+    around November, 2006. This was the last course I was to [...]'
+  date: '2010-03-17 15:45:03'
+  date_gmt: '2010-03-17 05:45:03'
+  id: '2969'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The story of BIM - Origins - blogs and minute papers
   url: /blog/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/
+template: blog-post.html
 title: The story of BIM - Development of BAM
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Late enrolling students and student signatures &#8211; Indicators project?
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.76
-      author_url: https://djon.es/blog/2010/03/17/late-enrolling-students-and-student-signatures-indicators-project/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        The story of BIM &#8211; Development of&nbsp;BAM [...]'
-      date: '2010-03-17 11:56:45'
-      date_gmt: '2010-03-17 01:56:45'
-      id: '2968'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The story of BIM &#8211; the slow expansion of BAM &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 72.233.104.94
-      author_url: https://djon.es/blog/2010/03/17/the-story-of-bim-the-slow-expansion-of-bam/
-      content: '[...] initial development and use of BAM was in a single course that finished
-        around November, 2006. This was the last course I was to [...]'
-      date: '2010-03-17 15:45:03'
-      date_gmt: '2010-03-17 05:45:03'
-      id: '2969'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is the second episode in the continuing story of BIM. This episode picks up the story late in the first half of 2006. The [initial foray](/blog/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/) into using individual student blogs to encourage reflection and make student learning more visible was bumbling along. It was now time to think about what I'd be teaching the following term.
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bad
-date: 2014-10-03 10:20:06+10:00
+date: 2014-10-03 00:20:06
 next:
   text: On the difference between "rational", "possible" and "desirable"
   url: /blog/2014/10/09/on-the-difference-between-rational-possible-and-desirable/
 previous:
   text: Unintended consequences of technology in education
   url: /blog/2014/10/02/unintended-consequences-of-technology-in-education/
+template: blog-post.html
 title: '"What do new views of knowledge &#038; thinking have to say about research
   on teacher learning?"'
 type: post
-template: blog-post.html
 ---
 I'm finally getting/creating a smidgin of time to continue exploring what "distributed" views of knowledge and learning might say about understanding and helping teachers (of all ilks) learn more about what they do. The following is a summary of Putnam and Borko (2000)
 

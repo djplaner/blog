@@ -1,8 +1,8 @@
----
-date: 2013-11-04 09:36:58+10:00
+﻿---
+date: 2013-11-03 23:36:58
+template: blog-post.html
 title: Current research projects
 type: page
-template: blog-post.html
 ---
 The following is an ad hoc collection of what I class as my current research projects. At any one stage some or all of these may be slightly inactive.
 

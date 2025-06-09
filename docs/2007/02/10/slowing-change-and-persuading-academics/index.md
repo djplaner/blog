@@ -1,14 +1,14 @@
----
-date: 2007-02-10 21:01:38+10:00
+﻿---
+date: 2007-02-10 11:01:38
 next:
   text: Universities as a business - but which business
   url: /blog/2007/03/04/universities-as-a-business-but-which-business/
 previous:
   text: Should the learner always be the focus?
   url: /blog/2007/02/09/should-the-learner-always-be-the-focus/
+template: blog-post.html
 title: Slowing change and persuading academics
 type: post
-template: blog-post.html
 ---
 Linda Larsen has posted a [summary](http://connect.educause.edu/blog/llarsen/summary_aligning_it_innovation_with_institutional_strategic_priorities/16748) of a presentation - "Aligning IT Innovation with Institutional Strategic Priorities" by [Freeman Hrabowski](http://www.umbc.edu/AboutUMBC/president/) (his bio is somewhat impressive), the President of the University of Maryland.
 

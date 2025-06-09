@@ -1,103 +1,101 @@
----
+﻿---
 categories:
 - edc3100
 - teaching
-date: 2012-02-22 23:10:36+10:00
+comments:
+- approved: '1'
+  author: Frankie Kam
+  author_email: frankie@stamford.edu.my
+  author_ip: 203.82.90.15
+  author_url: http://www.facebook.com/kam.frankie
+  content: Nice design, and I really like your method of beating the "Scroll Of Death".
+    As for the migration to Moodle 2.x, all the best with that!
+  date: '2012-02-26 03:08:59'
+  date_gmt: '2012-02-25 17:08:59'
+  id: '232'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.156.238
+  author_url: http://www.vrbones.com
+  content: 'I like the "Right Now:" topic above the jump. Is this automatically going
+    to move through the topics, or require a manual edit?
+
+
+    At my schoool I''m going through a similar process of designing a framework for
+    courses using Google Sites (we''ve abandoned moodle as I was the only one using
+    it effectively). The home page has been left intentionally simple, but I''m considering
+    adding the last announcement and a "Right now:" jump to smooth out the navigation.
+    Manual changes for relied upon navigation is going to be fraught with danger though.'
+  date: '2012-02-26 08:56:34'
+  date_gmt: '2012-02-25 22:56:34'
+  id: '233'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.168.177.155
+  author_url: https://djon.es/blog/
+  content: Thanks. Will be interesting to see what the students think.
+  date: '2012-02-26 08:56:53'
+  date_gmt: '2012-02-25 22:56:53'
+  id: '234'
+  parent: '232'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.168.177.155
+  author_url: https://djon.es/blog/
+  content: 'Sadly, the "Right now" will involve a manual edit.  It''s not that much
+    of a hassle and it is connected into part of my process, but....
+
+
+    The major problem with this design is that it involves numerous work arounds to
+    Moodle''s operation. This means that when we roll over into next term, there is
+    going to have to be a lot of manual editing.
+
+
+    It''s interesting that the students have already set up a facebook page for the
+    course, still wondering what, if anything, my role will be with that. That has
+    some interesting implications going forward.'
+  date: '2012-02-26 09:08:37'
+  date_gmt: '2012-02-25 23:08:37'
+  id: '235'
+  parent: '233'
+  type: comment
+  user_id: '1'
+date: 2012-02-22 13:10:36
 next:
   text: Does school ruin learning?
   url: /blog/2012/02/25/does-school-ruin-learning/
+pingbacks:
+- approved: '1'
+  author: 'One Moodle course design: approach and&nbsp;tra...'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/moodleuk/p/4014598466/2014/01/22/one-moodle-course-design-approach-and-trade-offs
+  content: '[&#8230;] Almost 20 days ago I started thinking about the design of the
+    Moodle (1.9.x) site (called a StudyDesk at my institution) for my course. As O-Week
+    draws to a close, the following describes the curre...&nbsp; [&#8230;]'
+  date: '2014-01-22 18:59:49'
+  date_gmt: '2014-01-22 08:59:49'
+  id: '236'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Faculty-centered, peer-reviewed online course development models
   url: /blog/2012/02/19/faculty-centered-peer-reviewed-online-course-development-models/
+template: blog-post.html
 title: '"One Moodle course design: approach and trade-offs"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Frankie Kam
-      author_email: frankie@stamford.edu.my
-      author_ip: 203.82.90.15
-      author_url: http://www.facebook.com/kam.frankie
-      content: Nice design, and I really like your method of beating the "Scroll Of Death".
-        As for the migration to Moodle 2.x, all the best with that!
-      date: '2012-02-26 03:08:59'
-      date_gmt: '2012-02-25 17:08:59'
-      id: '232'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.156.238
-      author_url: http://www.vrbones.com
-      content: 'I like the "Right Now:" topic above the jump. Is this automatically going
-        to move through the topics, or require a manual edit?
-    
-    
-        At my schoool I''m going through a similar process of designing a framework for
-        courses using Google Sites (we''ve abandoned moodle as I was the only one using
-        it effectively). The home page has been left intentionally simple, but I''m considering
-        adding the last announcement and a "Right now:" jump to smooth out the navigation.
-        Manual changes for relied upon navigation is going to be fraught with danger though.'
-      date: '2012-02-26 08:56:34'
-      date_gmt: '2012-02-25 22:56:34'
-      id: '233'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.168.177.155
-      author_url: https://djon.es/blog/
-      content: Thanks. Will be interesting to see what the students think.
-      date: '2012-02-26 08:56:53'
-      date_gmt: '2012-02-25 22:56:53'
-      id: '234'
-      parent: '232'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.168.177.155
-      author_url: https://djon.es/blog/
-      content: 'Sadly, the "Right now" will involve a manual edit.  It''s not that much
-        of a hassle and it is connected into part of my process, but....
-    
-    
-        The major problem with this design is that it involves numerous work arounds to
-        Moodle''s operation. This means that when we roll over into next term, there is
-        going to have to be a lot of manual editing.
-    
-    
-        It''s interesting that the students have already set up a facebook page for the
-        course, still wondering what, if anything, my role will be with that. That has
-        some interesting implications going forward.'
-      date: '2012-02-26 09:08:37'
-      date_gmt: '2012-02-25 23:08:37'
-      id: '235'
-      parent: '233'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'One Moodle course design: approach and&nbsp;tra...'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/moodleuk/p/4014598466/2014/01/22/one-moodle-course-design-approach-and-trade-offs
-      content: '[&#8230;] Almost 20 days ago I started thinking about the design of the
-        Moodle (1.9.x) site (called a StudyDesk at my institution) for my course. As O-Week
-        draws to a close, the following describes the curre...&nbsp; [&#8230;]'
-      date: '2014-01-22 18:59:49'
-      date_gmt: '2014-01-22 08:59:49'
-      id: '236'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Almost 20 days ago I started [thinking about](/blog/2012/02/03/thinking-about-moodle-course-design/) the design of the Moodle (1.9.x) site (called a StudyDesk at my institution) for my course. As O-Week draws to a close, the following describes the current final product.
 
@@ -107,7 +105,7 @@ _Note:_ The focus here is on the (pragmatic) physical design and layout of the s
 
 The following photo (click on the photo to see it larger) is what it looks like.
 
-[![EDC3100 home page (Sem 1, 2012)](images/6774180370_7c227b4c51.jpg)](http://www.flickr.com/photos/david_jones/6774180370/ "EDC3100 home page (Sem 1, 2012) by David T Jones, on Flickr")
+[![EDC3100 home page (Sem 1, 2012)](https://djon.es/assets/blog/2012/02/22/one-moodle-course-design-approach-ad-trade-offs/images/6774180370_7c227b4c51.jpg)](http://www.flickr.com/photos/david_jones/6774180370/ "EDC3100 home page (Sem 1, 2012) by David T Jones, on Flickr")
 
 ### Non-topic based resources
 

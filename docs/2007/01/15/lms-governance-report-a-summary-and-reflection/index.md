@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - elearning
 - webfuse
-date: 2007-01-15 14:35:21+10:00
+date: 2007-01-15 04:35:21
 next:
   text: '"Enterprise systems and shadow systems: What can the miner''s canary tell
     us?"'
@@ -10,9 +10,9 @@ next:
 previous:
   text: Metaphors and models considered harmful for e-learning
   url: /blog/2007/01/15/metaphors-and-models-considered-harmful-for-e-learning/
+template: blog-post.html
 title: LMS Governance Report - a summary and reflection
 type: post
-template: blog-post.html
 ---
 It's that time in my thesis work (trawling through references for the lit review) when I have finally come back to the "LMS Governance report" written by Lisa Wise and James Quealy. This went through the blogosphere a while back. You can access the PDF of the report and a MediaWiki based annotated bibliography from this [blog post](http://wisebytes.net/wordpress/2006/07/03/lms-governance-final-report/).
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - ipt
 - teaching
-date: 2011-05-14 16:05:45+10:00
+date: 2011-05-14 06:05:45
 next:
   text: And the thesis is complete, what's next?
   url: /blog/2011/05/27/and-the-thesis-is-complete-whats-next/
 previous:
   text: Looking for &quot;learning objects&quot; measurement, perimeter etc.
   url: /blog/2011/05/08/looking-for-learning-objects-measurement-perimeter-etc/
+template: blog-post.html
 title: Where are all the innovative high school IT/CS classes?
 type: post
-template: blog-post.html
 ---
 This post is a request for pointers to the examples of really innovative/effective/different high school classes in Information Technology (IT/IPT) or Computer Science (CS). Even with just 10 days of prac teaching within a school setting, I can recognise the rationale and constraints that contribute to the use of the apparently typical curriculum. I would, however, like to break that mould and do something different. I'm assuming/hoping that I'm not the first and would like to benefit from the experience and ideas of others.
 

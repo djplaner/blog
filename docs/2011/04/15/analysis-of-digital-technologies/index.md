@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-04-15 15:33:44+10:00
+comments: []
+date: 2011-04-15 05:33:44
 next:
   text: Starting on a "student diversity report"
   url: /blog/2011/04/16/starting-on-a-student-diversity-report/
+pingbacks:
+- approved: '1'
+  author: Starting on a &#8220;student diversity report&#8221; &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.106
+  author_url: https://djon.es/blog/2011/04/16/starting-on-a-student-diversity-report/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Analysis of digital&nbsp;technologies [...]'
+  date: '2011-04-16 22:20:07'
+  date_gmt: '2011-04-16 12:20:07'
+  id: '63'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Safe, legal and ethical practice for ICTs in schools
   url: /blog/2011/04/13/safe-legal-and-ethical-practice-for-icts-in-schools/
+template: blog-post.html
 title: Analysis of digital technologies
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Starting on a &#8220;student diversity report&#8221; &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.106
-      author_url: https://djon.es/blog/2011/04/16/starting-on-a-student-diversity-report/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Analysis of digital&nbsp;technologies [...]'
-      date: '2011-04-16 22:20:07'
-      date_gmt: '2011-04-16 12:20:07'
-      id: '63'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 What follows is a ~1600 word reflective blog post required for assessment purposes. I find myself less than pleased with this assignment. In part because I don't think 1600 words is enough to do justice to the problem. But also because of my own limitations in terms of knowledge of the context and content.
 

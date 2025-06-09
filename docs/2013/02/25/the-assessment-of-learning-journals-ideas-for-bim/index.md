@@ -1,132 +1,129 @@
----
+﻿---
 categories:
 - bim2
-date: 2013-02-25 09:53:59+10:00
+comments: []
+date: 2013-02-24 23:53:59
 next:
   text: And it starts again, edc3100 in 2013
   url: /blog/2013/02/26/and-it-starts-again-edc3100-in-2013/
+pingbacks:
+- approved: '1'
+  author: "Driving learning through blogging: Students\u2019 perceptions of a reading\
+    \ journal blog assessment task. | My Mind Bursts"
+  author_email: null
+  author_ip: 72.232.112.47
+  author_url: http://mymindbursts.com/2013/02/28/driving-learning-through-blogging-students-perceptions-of-a-reading-journal-blog-assessment-task/
+  content: '[...] The assessment of learning journals &#8211; ideas for BIM (davidtjones.wordpress.com)
+    [...]'
+  date: '2013-02-28 19:52:56'
+  date_gmt: '2013-02-28 09:52:56'
+  id: '628'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How much of a cage should I build? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.187
+  author_url: https://djon.es/blog/2013/03/06/how-much-of-a-cage-should-i-build/
+  content: '[...] to how many of these activities they complete. Activity completion
+    is actually linked to keeping a learning journal and contributes 15% of the total
+    course mark (5% for each of the 3 [...]'
+  date: '2013-03-06 11:36:35'
+  date_gmt: '2013-03-06 01:36:35'
+  id: '629'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Icy Tea - Proof of learning
+  author_email: null
+  author_ip: 66.135.42.93
+  author_url: http://vivienclark.edublogs.org/2013/03/10/proof-of-learning/
+  content: '[...] is concerning others, I refer to the dilemma our course examiner
+    David Jones expressed in a recent post. Although I have faith in his methods to
+    assess our learning I want to make sure that I am aiding [...]'
+  date: '2013-03-10 12:39:30'
+  date_gmt: '2013-03-10 02:39:30'
+  id: '630'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Many of our students are neither digital natives nor digitally literate
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.8.88
+  author_url: https://djon.es/blog/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/
+  content: '[...] Students are required to set up their own blog and use it as a reflective
+    journal. [...]'
+  date: '2013-03-13 11:35:16'
+  date_gmt: '2013-03-13 01:35:16'
+  id: '631'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Does institutional e-learning have a TPACK problem? | The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 76.74.255.31
+  author_url: https://djon.es/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
+  content: '[...] BIM in my own teaching and the resulting changes (and maybe something
+    along these lines) that will be [...]'
+  date: '2013-03-22 10:16:28'
+  date_gmt: '2013-03-22 00:16:28'
+  id: '632'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Handing marking over to the computer&#8230;. | Almost a teacher&#8230;
+  author_email: null
+  author_ip: 66.135.42.93
+  author_url: http://almostateacher.edublogs.org/2013/03/06/handing-marking-over-to-the-computer/
+  content: '[...] I&#8217;m half way thru completing week two&#8217;s activities,
+    and have finished reading David&#8217;s post about way to mark our learning [...]'
+  date: '2013-03-23 06:32:40'
+  date_gmt: '2013-03-22 20:32:40'
+  id: '633'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The kludge for marking learning journals | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.232.113.11
+  author_url: https://djon.es/blog/2013/06/10/the-kludge-for-marking-learning-journals/
+  content: '[&#8230;] following is a description of the kludge I put in place to mark
+    the learning journals &#8211; see here for a description of initial thinking behind
+    the journal &#8211; folk in the EDC3100 course this semester had to [&#8230;]'
+  date: '2013-06-10 11:08:58'
+  date_gmt: '2013-06-10 01:08:58'
+  id: '635'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Driving learning through blogging: Students\u2019 perceptions of a reading\
+    \ journal blog assessment task. | My Mind Bursts"
+  author_email: null
+  author_ip: 66.135.48.199
+  author_url: http://mymindbursts.com/2013/02/28/blog1/
+  content: '[&#8230;] The assessment of learning journals &#8211; ideas for BIM (davidtjones.wordpress.com)
+    [&#8230;]'
+  date: '2014-02-15 13:52:15'
+  date_gmt: '2014-02-15 03:52:15'
+  id: '636'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Exploring using the Wii/Augmented Reality to teach proportion
   url: /blog/2013/02/20/exploring-using-the-wiiaugmented-reality-to-teach-proportion/
+template: blog-post.html
 title: The assessment of learning journals - ideas for BIM
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: "Driving learning through blogging: Students\u2019 perceptions of a reading\
-        \ journal blog assessment task. | My Mind Bursts"
-      author_email: null
-      author_ip: 72.232.112.47
-      author_url: http://mymindbursts.com/2013/02/28/driving-learning-through-blogging-students-perceptions-of-a-reading-journal-blog-assessment-task/
-      content: '[...] The assessment of learning journals &#8211; ideas for BIM (davidtjones.wordpress.com)
-        [...]'
-      date: '2013-02-28 19:52:56'
-      date_gmt: '2013-02-28 09:52:56'
-      id: '628'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How much of a cage should I build? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.187
-      author_url: https://djon.es/blog/2013/03/06/how-much-of-a-cage-should-i-build/
-      content: '[...] to how many of these activities they complete. Activity completion
-        is actually linked to keeping a learning journal and contributes 15% of the total
-        course mark (5% for each of the 3 [...]'
-      date: '2013-03-06 11:36:35'
-      date_gmt: '2013-03-06 01:36:35'
-      id: '629'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Icy Tea - Proof of learning
-      author_email: null
-      author_ip: 66.135.42.93
-      author_url: http://vivienclark.edublogs.org/2013/03/10/proof-of-learning/
-      content: '[...] is concerning others, I refer to the dilemma our course examiner
-        David Jones expressed in a recent post. Although I have faith in his methods to
-        assess our learning I want to make sure that I am aiding [...]'
-      date: '2013-03-10 12:39:30'
-      date_gmt: '2013-03-10 02:39:30'
-      id: '630'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Many of our students are neither digital natives nor digitally literate
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.8.88
-      author_url: https://djon.es/blog/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/
-      content: '[...] Students are required to set up their own blog and use it as a reflective
-        journal. [...]'
-      date: '2013-03-13 11:35:16'
-      date_gmt: '2013-03-13 01:35:16'
-      id: '631'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Does institutional e-learning have a TPACK problem? | The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 76.74.255.31
-      author_url: https://djon.es/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
-      content: '[...] BIM in my own teaching and the resulting changes (and maybe something
-        along these lines) that will be [...]'
-      date: '2013-03-22 10:16:28'
-      date_gmt: '2013-03-22 00:16:28'
-      id: '632'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Handing marking over to the computer&#8230;. | Almost a teacher&#8230;
-      author_email: null
-      author_ip: 66.135.42.93
-      author_url: http://almostateacher.edublogs.org/2013/03/06/handing-marking-over-to-the-computer/
-      content: '[...] I&#8217;m half way thru completing week two&#8217;s activities,
-        and have finished reading David&#8217;s post about way to mark our learning [...]'
-      date: '2013-03-23 06:32:40'
-      date_gmt: '2013-03-22 20:32:40'
-      id: '633'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The kludge for marking learning journals | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.232.113.11
-      author_url: https://djon.es/blog/2013/06/10/the-kludge-for-marking-learning-journals/
-      content: '[&#8230;] following is a description of the kludge I put in place to mark
-        the learning journals &#8211; see here for a description of initial thinking behind
-        the journal &#8211; folk in the EDC3100 course this semester had to [&#8230;]'
-      date: '2013-06-10 11:08:58'
-      date_gmt: '2013-06-10 01:08:58'
-      id: '635'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Driving learning through blogging: Students\u2019 perceptions of a reading\
-        \ journal blog assessment task. | My Mind Bursts"
-      author_email: null
-      author_ip: 66.135.48.199
-      author_url: http://mymindbursts.com/2013/02/28/blog1/
-      content: '[&#8230;] The assessment of learning journals &#8211; ideas for BIM (davidtjones.wordpress.com)
-        [&#8230;]'
-      date: '2014-02-15 13:52:15'
-      date_gmt: '2014-02-15 03:52:15'
-      id: '636'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In the course I'm currently teaching the students will be expected to keep a learning journal. They'll be keeping this on a personal blog that they register on the course Moodle site (but not with [BIMM](/blog/research/bam-blog-aggregation-management/), the institutional process to get BIM installed is underway). The following floats some initial ideas about how the "assessment" of the learning journal will be automated.
 

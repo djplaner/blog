@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,92 +6,90 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-07-26 14:26:01+10:00
+comments:
+- approved: '1'
+  author: jffsunrise
+  author_email: jffsunrise@me.com
+  author_ip: 124.177.159.64
+  author_url: null
+  content: 'David
+
+    I was having a conversation at Council regarding the closure of the Printing,
+    Registration &amp; Despatch unit. My comment was that this was the last of the
+    ''print'' distance ed., and sadly an index of the decline in CQU''s status as
+    a first rate distance ed. provider (USQ now claim that status). The instructional
+    designers provided the interface between cutting edge pedagogy, academics and
+    the students. Unfortunately, the online world (and the loss of the IDs) turned
+    all this on its head, and the whole thing got away from us. Lots of room to debate
+    all this, of course. However, I was wondering whether in anything you''ve written,
+    or anyone else, whether this story has been told - I mean in a way that might
+    be convincing for the boffins to invest a bit more in the DE/ Online arena. If
+    you know of anything, I would appreciate it. What you have written above is a
+    good start.
+
+
+    John Fitzsimmons'
+  date: '2009-07-26 18:08:26'
+  date_gmt: '2009-07-26 08:08:26'
+  id: '2660'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day John,
+
+
+    Given the amount of feedback I gave during the "DTLS" process and the somewhat
+    less than successful impact of that feedback, I don''t think I''m the one to ask.  I''m
+    also not sure that there would be any thing that would work.   One of the currently
+    unwritten parts of the people section of chapter 2 looks at what the literature
+    says about people not being rational decision makers. Personally, I think this
+    is a situation where rationality doesn''t apply.
+
+
+    Personally, I think most of the literature and certainly most of what is happening
+    draws on fairly traditional, out-dated and inappropriate models of systems and
+    processes. I''ve been trying to make that point for almost 10 years, without any
+    noticeable success, especially recently.  Not sure I''m the one to ask.
+
+
+    David.'
+  date: '2009-07-26 21:14:20'
+  date_gmt: '2009-07-26 11:14:20'
+  id: '2661'
+  parent: '2660'
+  type: comment
+  user_id: '1'
+date: 2009-07-26 04:26:01
 next:
   text: '"PhD update #18 - moving along"'
   url: /blog/2009/07/26/phd-update-18-moving-along/
+pingbacks:
+- approved: '1'
+  author: The intervention &#8211; Webfuse design 1996-1999 &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.227
+  author_url: https://djon.es/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/
+  content: '[...] intervention &#8211; Webfuse design&nbsp;1996-1999  The previous
+    couple of posts (one and two) described the context in which the Webfuse e-learning
+    system was designed. This focused [...]'
+  date: '2009-07-27 14:13:55'
+  date_gmt: '2009-07-27 04:13:55'
+  id: '2662'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: ePortfolios in universities - forget it?
   url: /blog/2009/07/26/eportfolios-in-universities-forget-it/
+template: blog-post.html
 title: Build it and they will come - starting with the institution
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: jffsunrise
-      author_email: jffsunrise@me.com
-      author_ip: 124.177.159.64
-      author_url: null
-      content: 'David
-    
-        I was having a conversation at Council regarding the closure of the Printing,
-        Registration &amp; Despatch unit. My comment was that this was the last of the
-        ''print'' distance ed., and sadly an index of the decline in CQU''s status as
-        a first rate distance ed. provider (USQ now claim that status). The instructional
-        designers provided the interface between cutting edge pedagogy, academics and
-        the students. Unfortunately, the online world (and the loss of the IDs) turned
-        all this on its head, and the whole thing got away from us. Lots of room to debate
-        all this, of course. However, I was wondering whether in anything you''ve written,
-        or anyone else, whether this story has been told - I mean in a way that might
-        be convincing for the boffins to invest a bit more in the DE/ Online arena. If
-        you know of anything, I would appreciate it. What you have written above is a
-        good start.
-    
-    
-        John Fitzsimmons'
-      date: '2009-07-26 18:08:26'
-      date_gmt: '2009-07-26 08:08:26'
-      id: '2660'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day John,
-    
-    
-        Given the amount of feedback I gave during the "DTLS" process and the somewhat
-        less than successful impact of that feedback, I don''t think I''m the one to ask.  I''m
-        also not sure that there would be any thing that would work.   One of the currently
-        unwritten parts of the people section of chapter 2 looks at what the literature
-        says about people not being rational decision makers. Personally, I think this
-        is a situation where rationality doesn''t apply.
-    
-    
-        Personally, I think most of the literature and certainly most of what is happening
-        draws on fairly traditional, out-dated and inappropriate models of systems and
-        processes. I''ve been trying to make that point for almost 10 years, without any
-        noticeable success, especially recently.  Not sure I''m the one to ask.
-    
-    
-        David.'
-      date: '2009-07-26 21:14:20'
-      date_gmt: '2009-07-26 11:14:20'
-      id: '2661'
-      parent: '2660'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: The intervention &#8211; Webfuse design 1996-1999 &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.227
-      author_url: https://djon.es/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/
-      content: '[...] intervention &#8211; Webfuse design&nbsp;1996-1999  The previous
-        couple of posts (one and two) described the context in which the Webfuse e-learning
-        system was designed. This focused [...]'
-      date: '2009-07-27 14:13:55'
-      date_gmt: '2009-07-27 04:13:55'
-      id: '2662'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In the [last PhD update](/blog/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/) I outlined a change to tack. I've moved from working on chapter 2 (the lit review) to working on chapter 4. Chapter 4 is the first of two chapters, each describing one iteration of the 2 action research cycles that make up the core contribution of the thesis. Chapter 4 focuses on the period from 1996 through to 1999 and is titled "Build it and they will come".
 

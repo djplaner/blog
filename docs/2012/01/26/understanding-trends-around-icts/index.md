@@ -1,75 +1,72 @@
----
+﻿---
 categories:
 - edc3100
 - teaching
-date: 2012-01-26 14:52:39+10:00
+comments:
+- approved: '1'
+  author: Justin (@grubbypandas)
+  author_email: grubbypandas@twitter.example.com
+  author_ip: 110.174.29.163
+  author_url: http://twitter.com/grubbypandas
+  content: "So with the bottom up sharing society that has established through social\
+    \ media will this effect the teaching pedagogy? Right now Social Media is the\
+    \ \"In\" thing as email was but by relating pedagogy rather then practical experience\
+    \ will this make a difference on use of ICT in the classroom?\n\n I personally\
+    \ don't think it will make them(Teachers) more adept at using technology in the\
+    \ classroom as at the end of the day it comes down to Interest level of the person.\n\
+    \nJust as a side note: in a more southern state the public school system have\
+    \ a firewall like the Great Firewall of China where there is a lot of things blocked\
+    \ (Understandably) how would you get a teacher engaged in using ICT if it's blocked?"
+  date: '2012-01-27 13:59:05'
+  date_gmt: '2012-01-27 03:59:05'
+  id: '186'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: 'I agree with you re: the interest level of the person.
+
+
+    My interest in PSTN is primarily because I see it as a way to increase the interest
+    level of pre-service teachers in using ICTs in their learning and teaching. The
+    benefits that accrue from having a good network of folk on Twitter (or other social
+    media) is, I hope, something that will raise interest. I''m hoping it might create
+    a few more <a href="http://www.conted.ox.ac.uk/news/index.php?post=2011-06-01:165653:951"
+    rel="nofollow">digital residents</a> amongst teachers.
+
+
+    I believe/hope that different in the use of ICTs in the classroom will then arise
+    indirectly from the teachers becoming digital residents and their interactions
+    with their Twitter PLNs. Mainly because they will be driven by what is of interest
+    to them, rather than the current flavour of the month that is being filtered down
+    into professional development programs.
+
+
+    Queensland has the same problem with firewalls. Add to that a whole <a href="http://www.flickr.com/photos/david_jones/5992748532/"
+    rel="nofollow">range of other problems</a> that act as a drag on teachers intentions
+    around using ICTs. Some of these can be battled against, some can''t, you just
+    have to try and ensure that there are positive factors pushing the other way.'
+  date: '2012-01-27 16:00:27'
+  date_gmt: '2012-01-27 06:00:27'
+  id: '187'
+  parent: '186'
+  type: comment
+  user_id: '1'
+date: 2012-01-26 04:52:39
 next:
   text: Models of Teacher PD  for ICT integration
   url: /blog/2012/01/30/models-of-teacher-pd-for-ict-integration/
+pingbacks: []
 previous:
   text: Reflections on understanding context
   url: /blog/2012/01/23/reflections-on-understanding-context/
+template: blog-post.html
 title: Understanding trends around ICTs
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Justin (@grubbypandas)
-      author_email: grubbypandas@twitter.example.com
-      author_ip: 110.174.29.163
-      author_url: http://twitter.com/grubbypandas
-      content: "So with the bottom up sharing society that has established through social\
-        \ media will this effect the teaching pedagogy? Right now Social Media is the\
-        \ \"In\" thing as email was but by relating pedagogy rather then practical experience\
-        \ will this make a difference on use of ICT in the classroom?\n\n I personally\
-        \ don't think it will make them(Teachers) more adept at using technology in the\
-        \ classroom as at the end of the day it comes down to Interest level of the person.\n\
-        \nJust as a side note: in a more southern state the public school system have\
-        \ a firewall like the Great Firewall of China where there is a lot of things blocked\
-        \ (Understandably) how would you get a teacher engaged in using ICT if it's blocked?"
-      date: '2012-01-27 13:59:05'
-      date_gmt: '2012-01-27 03:59:05'
-      id: '186'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: 'I agree with you re: the interest level of the person.
-    
-    
-        My interest in PSTN is primarily because I see it as a way to increase the interest
-        level of pre-service teachers in using ICTs in their learning and teaching. The
-        benefits that accrue from having a good network of folk on Twitter (or other social
-        media) is, I hope, something that will raise interest. I''m hoping it might create
-        a few more <a href="http://www.conted.ox.ac.uk/news/index.php?post=2011-06-01:165653:951"
-        rel="nofollow">digital residents</a> amongst teachers.
-    
-    
-        I believe/hope that different in the use of ICTs in the classroom will then arise
-        indirectly from the teachers becoming digital residents and their interactions
-        with their Twitter PLNs. Mainly because they will be driven by what is of interest
-        to them, rather than the current flavour of the month that is being filtered down
-        into professional development programs.
-    
-    
-        Queensland has the same problem with firewalls. Add to that a whole <a href="http://www.flickr.com/photos/david_jones/5992748532/"
-        rel="nofollow">range of other problems</a> that act as a drag on teachers intentions
-        around using ICTs. Some of these can be battled against, some can''t, you just
-        have to try and ensure that there are positive factors pushing the other way.'
-      date: '2012-01-27 16:00:27'
-      date_gmt: '2012-01-27 06:00:27'
-      id: '187'
-      parent: '186'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 And so it's onto chapter 2 of the set text for the ICTs and Pedagogy courses I'm going to be teaching.
 

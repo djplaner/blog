@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - complexityleadership
@@ -7,65 +7,62 @@ categories:
 - lmsevaluation
 - psframework
 - thesis
-date: 2009-04-05 13:17:26+10:00
+comments: []
+date: 2009-04-05 03:17:26
 next:
   text: '"The new educational technologists: A call for evidenced change"'
   url: /blog/2009/04/06/the-new-educational-technologists-a-call-for-evidenced-change/
+pingbacks:
+- approved: '1'
+  author: Conceptguy &raquo; Blog Archive &raquo; Measuring the design process - implications
+    for learning design, e &#8230;
+  author_email: null
+  author_ip: 75.125.219.50
+  author_url: http://www.conceptguy.co.uk/?p=324
+  content: '[...] Read the original post: Measuring the design process - implications
+    for learning design, e &#8230; [...]'
+  date: '2009-04-05 17:37:26'
+  date_gmt: '2009-04-05 07:37:26'
+  id: '2368'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
+  content: '[...] Measuring the design processWhile not directly related to the PhD
+    in content, the intent is. The &#8220;People&#8221; section of chapter 2 will
+    make a similar point to this post. i.e. that the common understanding/practice
+    of IT professionals and &#8220;corporate&#8221; management are inappropriate for
+    something like e-learning. [...]'
+  date: '2009-04-17 14:23:07'
+  date_gmt: '2009-04-17 04:23:07'
+  id: '2369'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Thoughts on Consistency &raquo; static id
+  author_email: null
+  author_ip: 69.175.2.234
+  author_url: http://www.tduggan.com/2009/06/16/thoughts-on-consistency/
+  content: "[...] just finished reading a couple of posts (here and here) by a colleague\_\
+    on the idea of consistency in university teaching and learning and it got me [...]"
+  date: '2009-06-16 12:54:08'
+  date_gmt: '2009-06-16 02:54:08'
+  id: '2370'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The fad cycle in learning &#038; teaching - a historical perspective
   url: /blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
+template: blog-post.html
 title: Measuring the design process - implications for learning design, e-learning
   and university teaching
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Conceptguy &raquo; Blog Archive &raquo; Measuring the design process - implications
-        for learning design, e &#8230;
-      author_email: null
-      author_ip: 75.125.219.50
-      author_url: http://www.conceptguy.co.uk/?p=324
-      content: '[...] Read the original post: Measuring the design process - implications
-        for learning design, e &#8230; [...]'
-      date: '2009-04-05 17:37:26'
-      date_gmt: '2009-04-05 07:37:26'
-      id: '2368'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
-      content: '[...] Measuring the design processWhile not directly related to the PhD
-        in content, the intent is. The &#8220;People&#8221; section of chapter 2 will
-        make a similar point to this post. i.e. that the common understanding/practice
-        of IT professionals and &#8220;corporate&#8221; management are inappropriate for
-        something like e-learning. [...]'
-      date: '2009-04-17 14:23:07'
-      date_gmt: '2009-04-17 04:23:07'
-      id: '2369'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Thoughts on Consistency &raquo; static id
-      author_email: null
-      author_ip: 69.175.2.234
-      author_url: http://www.tduggan.com/2009/06/16/thoughts-on-consistency/
-      content: "[...] just finished reading a couple of posts (here and here) by a colleague\_\
-        on the idea of consistency in university teaching and learning and it got me [...]"
-      date: '2009-06-16 12:54:08'
-      date_gmt: '2009-06-16 02:54:08'
-      id: '2370'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I came across the discussion underpinning these thoughts via a [post](http://theocacao.com/document.page/600) by [Scott Stevenson](http://theocacao.com/document.page/296). His [post](http://theocacao.com/document.page/600) was titled "Measuring the design process". It is his take on a [post titled "Goodbye Google"](http://stopdesign.com/archive/2009/03/20/goodbye-google.html) by [Doug Bowman](http://stopdesign.com/about). Bowman was the "Visual Design Lead" at Google and has recently moved to Twitter as Creative Director.
 

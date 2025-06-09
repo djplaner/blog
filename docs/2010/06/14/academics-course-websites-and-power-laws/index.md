@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - coursesites
@@ -9,49 +9,46 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-06-14 21:42:27+10:00
+comments: []
+date: 2010-06-14 11:42:27
 next:
   text: Some rough Webfuse usage statistics - 2001 through 2009
   url: /blog/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/
+pingbacks:
+- approved: '1'
+  author: Further analysis of wf application usage &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.135.48.169
+  author_url: https://djon.es/blog/2010/06/18/further-analysis-of-wf-application-usage/
+  content: '[...] recently talked about the similarity between the 1999 and 2005 graphs
+    representing how often academics had modified [...]'
+  date: '2010-06-18 15:48:47'
+  date_gmt: '2010-06-18 05:48:47'
+  id: '3100'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Default course sites and wizards &#8211; version 2.0 &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.243.222
+  author_url: https://djon.es/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/
+  content: '[...] I still have to work on this some more, hopefully in coming weeks,
+    but I&#8217;ve put some early thoughts out [...]'
+  date: '2010-06-25 11:06:55'
+  date_gmt: '2010-06-25 01:06:55'
+  id: '3101'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Workarounds
   url: /blog/2010/06/13/workarounds/
+template: blog-post.html
 title: Academics, course websites and power laws
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Further analysis of wf application usage &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.135.48.169
-      author_url: https://djon.es/blog/2010/06/18/further-analysis-of-wf-application-usage/
-      content: '[...] recently talked about the similarity between the 1999 and 2005 graphs
-        representing how often academics had modified [...]'
-      date: '2010-06-18 15:48:47'
-      date_gmt: '2010-06-18 05:48:47'
-      id: '3100'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Default course sites and wizards &#8211; version 2.0 &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.243.222
-      author_url: https://djon.es/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/
-      content: '[...] I still have to work on this some more, hopefully in coming weeks,
-        but I&#8217;ve put some early thoughts out [...]'
-      date: '2010-06-25 11:06:55'
-      date_gmt: '2010-06-25 01:06:55'
-      id: '3101'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Last week I was thinking [that academics shouldn't manually create course sites](/blog/2010/06/07/should-academics-manually-create-course-websites/). That arose out of the process of writing up the why/what behind what we did with Webfuse from 1999 through 2004. Today, I've been continuing that and looking at the usage statistics from that period.
 
@@ -59,11 +56,11 @@ The following focuses on statistics about how often an academic modified a cours
 
 1999
 
-[![Updates 1999](images/4698588259_c73999d47a_m.jpg)](http://www.flickr.com/photos/david_jones/4698588259/ "Updates 1999 by David T Jones, on Flickr")
+[![Updates 1999](https://djon.es/assets/blog/2010/06/14/academics-course-websites-and-power-laws/images/4698588259_c73999d47a_m.jpg)](http://www.flickr.com/photos/david_jones/4698588259/ "Updates 1999 by David T Jones, on Flickr")
 
 2005
 
-[![Webfuse page updates  2005](images/4699219306_b37ef30a43_m.jpg)](http://www.flickr.com/photos/david_jones/4699219306/ "Webfuse page updates  2005 by David T Jones, on Flickr")
+[![Webfuse page updates  2005](https://djon.es/assets/blog/2010/06/14/academics-course-websites-and-power-laws/images/4699219306_b37ef30a43_m.jpg)](http://www.flickr.com/photos/david_jones/4699219306/ "Webfuse page updates  2005 by David T Jones, on Flickr")
 
 In terms of the 2005, the top 22 academic staff performed 21,298 updates on course sites. That's over 8,000 more updates than the remaining 127 academic staff (13,472 updates in total). 17% of the academic staff performed 61% of the updates of course websites.
 

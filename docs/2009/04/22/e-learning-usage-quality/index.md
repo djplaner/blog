@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,159 +6,157 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-04-22 12:36:39+10:00
+comments:
+- approved: '1'
+  author: novice9
+  author_email: soaringorb@yahoo.com
+  author_ip: 129.210.146.32
+  author_url: http://novice9.wordpress.com/
+  content: 'Minor typo: "The focus in on the learning process and most associated
+    with a focus on what the student does. Students are seen as actively involved
+    in the construction of their own learning" should be "The focus is on..." instead
+    of "The focus in on." I''m not done reading this, but it''s been an interesting
+    read thus far.'
+  date: '2009-04-23 07:58:09'
+  date_gmt: '2009-04-22 21:58:09'
+  id: '2422'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: https://djon.es/blog/
+  content: Thanks muchly.  Have fixed this up in the post and in my thesis.
+  date: '2009-04-23 08:48:49'
+  date_gmt: '2009-04-22 22:48:49'
+  id: '2423'
+  parent: '2422'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Julia
+  author_email: juliaitani@gmail.com
+  author_ip: 130.156.1.75
+  author_url: http://
+  content: Interesting piece. American community colleges make a great profit out
+    of online courses because most of their students are located remotely or have
+    schedule conflicts. And these colleges are expanding their online course offerings
+    every semester. The school has one faculty to develop content (with or without
+    any instructional design preparation) and then they hire an adjunct, that makes
+    money out of teaching, to teach different sessions online. The model works fine.
+    The faculty who developed that material is still faculty- or content-centered
+    and mostly of what they do is to upload HTML files filled with texts and handouts.
+    Sad for learners. (juliaitani.wordpress.com)
+  date: '2009-04-24 01:28:41'
+  date_gmt: '2009-04-23 15:28:41'
+  id: '2425'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Julia,
+
+
+    There''s an approach used by a number of Australian universities that, while somewhat
+    different, comes from the same pedigree and has a similar effect. But that approach
+    has become so ingrained into the operations of those institutions it''s very difficult
+    to break. And yet, while it can''t be broken I don''t think there''ll be any major
+    changes in the quality of learning - let alone e-learning.
+
+
+    David.'
+  date: '2009-04-24 07:40:38'
+  date_gmt: '2009-04-23 21:40:38'
+  id: '2426'
+  parent: '2425'
+  type: comment
+  user_id: '1'
+date: 2009-04-22 02:36:39
 next:
   text: Usage of e-learning - quantity
   url: /blog/2009/04/23/usage-of-e-learning-quantity/
+pingbacks:
+- approved: '1'
+  author: Usage of e-learning - quantity &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/04/23/usage-of-e-learning-quantity/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    E-learning usage -&nbsp;quality [...]'
+  date: '2009-04-23 13:44:32'
+  date_gmt: '2009-04-23 03:44:32'
+  id: '2424'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.85
+  author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
+  content: '[...] of e-learning: quantity and quality (which has had a couple of comments
+    - including a typo fix). [...]'
+  date: '2009-04-24 15:01:39'
+  date_gmt: '2009-04-24 05:01:39'
+  id: '2427'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons for e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/04/25/lessons-for-e-learning/
+  content: '[...] already on the blog, including: History of technology-mediated learning,
+    Paradigms of e-learning, e-learning usage - quality, and e-learning usage - [...]'
+  date: '2009-04-25 16:10:21'
+  date_gmt: '2009-04-25 06:10:21'
+  id: '2428'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What can history tell us about e-learning and its future? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+  content: '[...] of what we know from the literature and also from the local institution
+    about the quantity and quality of past usage of e-learning. With a particular
+    focus on the [...]'
+  date: '2009-06-18 10:49:59'
+  date_gmt: '2009-06-18 00:49:59'
+  id: '2429'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The adoption and acceptance of learning analytics | The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/
+  content: '[&#8230;] 10+ years later that usage of the LMS by academics was limited
+    in terms of both quantity and quality, and more recent reports that understanding
+    the information provided by learning analytics is [&#8230;]'
+  date: '2013-12-12 16:35:11'
+  date_gmt: '2013-12-12 06:35:11'
+  id: '2430'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Pedagogy of the impressed - how teachers become victims of technology vision
   url: /blog/2009/04/22/pedagogy-of-the-impressed-how-teachers-become-victims-of-technology-vision/
+template: blog-post.html
 title: E-learning usage - quality
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: novice9
-      author_email: soaringorb@yahoo.com
-      author_ip: 129.210.146.32
-      author_url: http://novice9.wordpress.com/
-      content: 'Minor typo: "The focus in on the learning process and most associated
-        with a focus on what the student does. Students are seen as actively involved
-        in the construction of their own learning" should be "The focus is on..." instead
-        of "The focus in on." I''m not done reading this, but it''s been an interesting
-        read thus far.'
-      date: '2009-04-23 07:58:09'
-      date_gmt: '2009-04-22 21:58:09'
-      id: '2422'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: https://djon.es/blog/
-      content: Thanks muchly.  Have fixed this up in the post and in my thesis.
-      date: '2009-04-23 08:48:49'
-      date_gmt: '2009-04-22 22:48:49'
-      id: '2423'
-      parent: '2422'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Julia
-      author_email: juliaitani@gmail.com
-      author_ip: 130.156.1.75
-      author_url: http://
-      content: Interesting piece. American community colleges make a great profit out
-        of online courses because most of their students are located remotely or have
-        schedule conflicts. And these colleges are expanding their online course offerings
-        every semester. The school has one faculty to develop content (with or without
-        any instructional design preparation) and then they hire an adjunct, that makes
-        money out of teaching, to teach different sessions online. The model works fine.
-        The faculty who developed that material is still faculty- or content-centered
-        and mostly of what they do is to upload HTML files filled with texts and handouts.
-        Sad for learners. (juliaitani.wordpress.com)
-      date: '2009-04-24 01:28:41'
-      date_gmt: '2009-04-23 15:28:41'
-      id: '2425'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Julia,
-    
-    
-        There''s an approach used by a number of Australian universities that, while somewhat
-        different, comes from the same pedigree and has a similar effect. But that approach
-        has become so ingrained into the operations of those institutions it''s very difficult
-        to break. And yet, while it can''t be broken I don''t think there''ll be any major
-        changes in the quality of learning - let alone e-learning.
-    
-    
-        David.'
-      date: '2009-04-24 07:40:38'
-      date_gmt: '2009-04-23 21:40:38'
-      id: '2426'
-      parent: '2425'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Usage of e-learning - quantity &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/04/23/usage-of-e-learning-quantity/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        E-learning usage -&nbsp;quality [...]'
-      date: '2009-04-23 13:44:32'
-      date_gmt: '2009-04-23 03:44:32'
-      id: '2424'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.85
-      author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
-      content: '[...] of e-learning: quantity and quality (which has had a couple of comments
-        - including a typo fix). [...]'
-      date: '2009-04-24 15:01:39'
-      date_gmt: '2009-04-24 05:01:39'
-      id: '2427'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons for e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/04/25/lessons-for-e-learning/
-      content: '[...] already on the blog, including: History of technology-mediated learning,
-        Paradigms of e-learning, e-learning usage - quality, and e-learning usage - [...]'
-      date: '2009-04-25 16:10:21'
-      date_gmt: '2009-04-25 06:10:21'
-      id: '2428'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What can history tell us about e-learning and its future? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
-      content: '[...] of what we know from the literature and also from the local institution
-        about the quantity and quality of past usage of e-learning. With a particular
-        focus on the [...]'
-      date: '2009-06-18 10:49:59'
-      date_gmt: '2009-06-18 00:49:59'
-      id: '2429'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The adoption and acceptance of learning analytics | The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/
-      content: '[&#8230;] 10+ years later that usage of the LMS by academics was limited
-        in terms of both quantity and quality, and more recent reports that understanding
-        the information provided by learning analytics is [&#8230;]'
-      date: '2013-12-12 16:35:11'
-      date_gmt: '2013-12-12 06:35:11'
-      id: '2430'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following post is a continuation of posts from the "Past Experience" section of chapter 2 of [my thesis](/blog/research/phd-thesis/). It follows on from previous posts including: [Ps Framework](/blog/2009/03/18/the-ps-framework/), [History of technology-mediated learning](/blog/2009/04/17/a-history-of-technology-mediated-learning/), and [the paradigms of e-learning](/blog/2009/04/20/the-paradigms-of-e-learning/).
 
@@ -183,7 +181,7 @@ Research into teaching within higher education has developed a rich body of know
 
 Figure insert cross ref is a representation of Kember's (1997) multiple-level categorisation model. An important point is that a transition from content-oriented to learning-oriented is a significant transition, while moving along the spectrum between the two conceptions under-pinning each orientation is relatively easy (Kember 1997).
 
-[![Kember categorisation model of conceptions of teaching](images/3463514963_1cd78fa364_m.jpg)](http://www.flickr.com/photos/david_jones/3463514963/ "Kember categorisation model of conceptions of teaching by David T Jones, on Flickr")
+[![Kember categorisation model of conceptions of teaching](https://djon.es/assets/blog/2009/04/22/e-learning-usage-quality/images/3463514963_1cd78fa364_m.jpg)](http://www.flickr.com/photos/david_jones/3463514963/ "Kember categorisation model of conceptions of teaching by David T Jones, on Flickr")
 
 _Figure 1 – A multiple-level categorisation model of conceptions of teaching (Kember 1997)_
 

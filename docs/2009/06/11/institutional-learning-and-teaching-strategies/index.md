@@ -1,52 +1,49 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - phd
 - psframework
 - thesis
-date: 2009-06-11 11:35:26+10:00
+comments: []
+date: 2009-06-11 01:35:26
 next:
   text: Another ill-informed point about connectivism versus behaviourism and cognitivism
   url: /blog/2009/06/12/another-ill-informed-point-about-connectivism-versus-behaviourism-and-cognitivism/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #14 &#8211; Moving to a new day &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 74.200.246.66
+  author_url: https://djon.es/blog/2009/06/14/phd-update-14-moving-to-a-new-day/
+  content: '[...] Institutional learning and teaching strategies [...]'
+  date: '2009-06-14 11:35:44'
+  date_gmt: '2009-06-14 01:35:44'
+  id: '2596'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Institutional e-learning strategies &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: https://djon.es/blog/2009/06/17/institutional-e-learning-strategies/
+  content: '[...] the next section from chapter 2 of my thesis and the section on
+    Processes. It follows on from the section on institutional learning and teaching
+    strategies and seeks to talk a bit about institutional strategies for [...]'
+  date: '2009-06-17 11:41:25'
+  date_gmt: '2009-06-17 01:41:25'
+  id: '2597'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Quality, compliance and task corruption
   url: /blog/2009/06/10/quality-compliance-and-task-corruption/
+template: blog-post.html
 title: Institutional learning and teaching strategies
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #14 &#8211; Moving to a new day &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 74.200.246.66
-      author_url: https://djon.es/blog/2009/06/14/phd-update-14-moving-to-a-new-day/
-      content: '[...] Institutional learning and teaching strategies [...]'
-      date: '2009-06-14 11:35:44'
-      date_gmt: '2009-06-14 01:35:44'
-      id: '2596'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Institutional e-learning strategies &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: https://djon.es/blog/2009/06/17/institutional-e-learning-strategies/
-      content: '[...] the next section from chapter 2 of my thesis and the section on
-        Processes. It follows on from the section on institutional learning and teaching
-        strategies and seeks to talk a bit about institutional strategies for [...]'
-      date: '2009-06-17 11:41:25'
-      date_gmt: '2009-06-17 01:41:25'
-      id: '2597'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the next section of the [Process](/blog/2009/05/25/teleological-and-ateleological-processes/) component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) section of my [thesis](/blog/research/phd-thesis). I have an inkling that my bias towards [ateleological processes](/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/) comes through a bit strong in this. May have to balance it up with some additions later on.
 

@@ -1,73 +1,70 @@
----
+﻿---
 categories:
 - bim
-date: 2010-05-02 16:56:18+10:00
+comments:
+- approved: '1'
+  author: Mark Pearson
+  author_email: markp@earlham.edu
+  author_ip: 159.28.7.95
+  author_url: http://markpea.wordpress.com/
+  content: 'I think that this is a very sensible approach. IMHO the Moodle blogs notion
+    is a chimera -- personally I switch it off completely on Earlham''s moodle site.
+    Blogging by it''s very nature is open and RSS feeds rely on open access and  as
+    far as I''m aware there is not even a standard available for ''secure'' RSS feed.
+    It seems to me that there are 3 options for those who would like to use Moodle
+    blogs:
+
+    1. Use Moodle blogs with open RSS (but it may be that the Magpie RSS feed generation
+    is broken)
+
+    2. If privacy is essential then use a discussion Forum or online Assignment.
+
+    3. Rustle up resources to commission a Moodle blog BIM equivalent.
+
+    By bringing external blog feeds into Moodle in a manageable way BIM in it''s current
+    form admirably fits the ''Outside in'' (https://djon.es/blog/2010/04/25/inside-out-outside-in-or-both/)
+    paradigm.'
+  date: '2010-05-06 02:20:58'
+  date_gmt: '2010-05-05 16:20:58'
+  id: '3026'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: https://djon.es/blog/
+  content: 'G''day Mark,
+
+
+    I agree with your comments re: blogging in Moodle.
+
+
+    And as far as I know, there is no standard for a secure RSS feed.  I had been
+    hoping that some sites would just use basic HTTP auth - the type which pops up
+    a box for username/password - because I could code BIM to support that.  Some
+    RSS readers support this, but sadly Wordpress (as one example) don''t.
+
+
+    David.'
+  date: '2010-05-06 13:16:42'
+  date_gmt: '2010-05-06 03:16:42'
+  id: '3027'
+  parent: '3026'
+  type: comment
+  user_id: '1'
+date: 2010-05-02 06:56:18
 next:
   text: Leadership as appreciating resistance
   url: /blog/2010/05/03/leadership-as-appreciating-resistance/
+pingbacks: []
 previous:
   text: Adding &quot;deleted&quot; to BIM
   url: /blog/2010/04/30/adding-deleted-to-bim/
+template: blog-post.html
 title: Can BIM support the use of Moodle blogs?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Mark Pearson
-      author_email: markp@earlham.edu
-      author_ip: 159.28.7.95
-      author_url: http://markpea.wordpress.com/
-      content: 'I think that this is a very sensible approach. IMHO the Moodle blogs notion
-        is a chimera -- personally I switch it off completely on Earlham''s moodle site.
-        Blogging by it''s very nature is open and RSS feeds rely on open access and  as
-        far as I''m aware there is not even a standard available for ''secure'' RSS feed.
-        It seems to me that there are 3 options for those who would like to use Moodle
-        blogs:
-    
-        1. Use Moodle blogs with open RSS (but it may be that the Magpie RSS feed generation
-        is broken)
-    
-        2. If privacy is essential then use a discussion Forum or online Assignment.
-    
-        3. Rustle up resources to commission a Moodle blog BIM equivalent.
-    
-        By bringing external blog feeds into Moodle in a manageable way BIM in it''s current
-        form admirably fits the ''Outside in'' (https://djon.es/blog/2010/04/25/inside-out-outside-in-or-both/)
-        paradigm.'
-      date: '2010-05-06 02:20:58'
-      date_gmt: '2010-05-05 16:20:58'
-      id: '3026'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: https://djon.es/blog/
-      content: 'G''day Mark,
-    
-    
-        I agree with your comments re: blogging in Moodle.
-    
-    
-        And as far as I know, there is no standard for a secure RSS feed.  I had been
-        hoping that some sites would just use basic HTTP auth - the type which pops up
-        a box for username/password - because I could code BIM to support that.  Some
-        RSS readers support this, but sadly Wordpress (as one example) don''t.
-    
-    
-        David.'
-      date: '2010-05-06 13:16:42'
-      date_gmt: '2010-05-06 03:16:42'
-      id: '3027'
-      parent: '3026'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 ### Problem
 

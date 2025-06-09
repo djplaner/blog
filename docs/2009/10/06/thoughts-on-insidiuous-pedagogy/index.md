@@ -1,83 +1,81 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - phd
 - psframework
 - thesis
-date: 2009-10-06 11:04:04+10:00
+comments:
+- approved: '1'
+  author: wendymad
+  author_email: w.madsen@cqu.edu.au
+  author_ip: 124.185.187.64
+  author_url: http://wendymad.wordpress.com
+  content: 'Hi David,
+
+
+    Thanks for putting this very early draft up. It helps me make sense of why I generally
+    find training sessions less then helpful. I do not have a head for technology.
+    There is only enough head space to deal with the content areas I teach into and
+    research (which in my case are pretty broad in their perspectives) and a bit of
+    a dabble in the pedagogy. At a recent Moodle workshop I attended, I was pretty
+    much lost after the first 15 minutes and then spent the next 2 weekends trying
+    to work out how to make the thing do what I wanted it to do - very frustrating
+    to say the least - and I still can''t say I''m happy with things. I can understand
+    why many of us simply give up. Starting with the pedagogy might just be the thing
+    to start to engage academics in thinking about their teaching and maybe learning
+    a new LMS won''t be quite so demoralising. A crash course on html wouldn''t go
+    astray either.
+
+
+    Wendy (a not-quite-so-novice-technophobic academic)'
+  date: '2009-10-06 17:28:22'
+  date_gmt: '2009-10-06 07:28:22'
+  id: '2790'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-10-06 01:04:04
 next:
   text: Using Votapedia
   url: /blog/2009/10/06/using-votapedia/
+pingbacks:
+- approved: '1'
+  author: Insidious Pedagogy &ndash; some thoughts on Lisa Lane&rsquo;s paper | Mark
+    Smithers
+  author_email: null
+  author_ip: 66.147.242.157
+  author_url: http://www.masmithers.com/2009/10/07/insidious-pedagogy-some-thoughts-on-lisa-lanes-paper/
+  content: "[...] Jones has provided an interesting response to Lane\u2019s article\
+    \ on his blog and I agree with some of his thoughts regarding the \u2018start\
+    \ with pedagogy\u2019 approach. It is [...]"
+  date: '2009-10-07 10:48:27'
+  date_gmt: '2009-10-07 00:48:27'
+  id: '2791'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'First Monday article: Insidious Pedagogy &laquo; Lisa&#8217;s (Online)
+    Teaching Blog'
+  author_email: null
+  author_ip: 74.50.0.40
+  author_url: http://lisahistory.net/wordpress/?p=345
+  content: '[...] via such emails, but that isn&#8217;t shared, although one from
+    David Jones did alert me to his fabulous blog post. And I even got an email from
+    our tech Karen Korstad at MiraCosta, noting how Blackboard can be [...]'
+  date: '2009-10-08 15:25:35'
+  date_gmt: '2009-10-08 05:25:35'
+  id: '2792'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Lectures and the LMS: Alternatives and experiments'
   url: /blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/
+template: blog-post.html
 title: Thoughts on "Insidious pedagogy"
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: wendymad
-      author_email: w.madsen@cqu.edu.au
-      author_ip: 124.185.187.64
-      author_url: http://wendymad.wordpress.com
-      content: 'Hi David,
-    
-    
-        Thanks for putting this very early draft up. It helps me make sense of why I generally
-        find training sessions less then helpful. I do not have a head for technology.
-        There is only enough head space to deal with the content areas I teach into and
-        research (which in my case are pretty broad in their perspectives) and a bit of
-        a dabble in the pedagogy. At a recent Moodle workshop I attended, I was pretty
-        much lost after the first 15 minutes and then spent the next 2 weekends trying
-        to work out how to make the thing do what I wanted it to do - very frustrating
-        to say the least - and I still can''t say I''m happy with things. I can understand
-        why many of us simply give up. Starting with the pedagogy might just be the thing
-        to start to engage academics in thinking about their teaching and maybe learning
-        a new LMS won''t be quite so demoralising. A crash course on html wouldn''t go
-        astray either.
-    
-    
-        Wendy (a not-quite-so-novice-technophobic academic)'
-      date: '2009-10-06 17:28:22'
-      date_gmt: '2009-10-06 07:28:22'
-      id: '2790'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: Insidious Pedagogy &ndash; some thoughts on Lisa Lane&rsquo;s paper | Mark
-        Smithers
-      author_email: null
-      author_ip: 66.147.242.157
-      author_url: http://www.masmithers.com/2009/10/07/insidious-pedagogy-some-thoughts-on-lisa-lanes-paper/
-      content: "[...] Jones has provided an interesting response to Lane\u2019s article\
-        \ on his blog and I agree with some of his thoughts regarding the \u2018start\
-        \ with pedagogy\u2019 approach. It is [...]"
-      date: '2009-10-07 10:48:27'
-      date_gmt: '2009-10-07 00:48:27'
-      id: '2791'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'First Monday article: Insidious Pedagogy &laquo; Lisa&#8217;s (Online)
-        Teaching Blog'
-      author_email: null
-      author_ip: 74.50.0.40
-      author_url: http://lisahistory.net/wordpress/?p=345
-      content: '[...] via such emails, but that isn&#8217;t shared, although one from
-        David Jones did alert me to his fabulous blog post. And I even got an email from
-        our tech Karen Korstad at MiraCosta, noting how Blackboard can be [...]'
-      date: '2009-10-08 15:25:35'
-      date_gmt: '2009-10-08 05:25:35'
-      id: '2792'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a reflection on and response to a paper by [Lisa Lane](http://lisahistory.net/wordpress/) (2009) in [First Monday](http://firstmonday.org/) titled ["Insidious pedagogy: How course management systems impact teaching"](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2530/2303). I've been struggling with keeping up with reading, but this topics is closely connected to [my thesis](/blog/research/phd-thesis/) and [the presentation](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) I'll be giving soon.
 

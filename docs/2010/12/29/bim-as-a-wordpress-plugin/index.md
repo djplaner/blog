@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2010-12-29 18:44:05+10:00
+comments:
+- approved: '1'
+  author: leighblackall
+  author_email: leighblackall@gmail.com
+  author_ip: 61.69.179.221
+  author_url: http://learnonline.wordpress.com/
+  content: Good to hear! :)
+  date: '2010-12-30 15:28:06'
+  date_gmt: '2010-12-30 05:28:06'
+  id: '3217'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-12-29 08:44:05
 next:
   text: Progressing the student interface for bim2
   url: /blog/2010/12/30/progressing-the-student-interface-for-bim2/
+pingbacks: []
 previous:
   text: The student controller for bim2 - models and view
   url: /blog/2010/12/28/the-student-controller-for-bim2-models-and-view/
+template: blog-post.html
 title: BIM as a Wordpress plugin?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: leighblackall
-      author_email: leighblackall@gmail.com
-      author_ip: 61.69.179.221
-      author_url: http://learnonline.wordpress.com/
-      content: Good to hear! :)
-      date: '2010-12-30 15:28:06'
-      date_gmt: '2010-12-30 05:28:06'
-      id: '3217'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 I'm currently programming up bim2, a new version [of BIM](/blog/research/bam-blog-aggregation-management/) to work with Moodle 2.0. I'm wondering whether a version of BIM for [Wordpress](http://wordpress.org/) might be an idea.
 

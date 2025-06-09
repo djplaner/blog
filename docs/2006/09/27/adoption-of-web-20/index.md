@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2006-09-27 08:16:11+10:00
+date: 2006-09-26 22:16:11
 next:
   text: Web 2.0 - change in people and society
   url: /blog/2006/09/28/web-20-change-in-people-and-society/
 previous:
   text: groups and networks
   url: /blog/2006/09/27/groups-and-networks/
+template: blog-post.html
 title: Adoption of Web 2.0
 type: post
-template: blog-post.html
 ---
 [A post](http://elearningtech.blogspot.com/2006/09/adoption-of-web-20-and-elearning-20.html) that looks at how/if the adoption of Web 2.0/eLearning will occur. Will they or won't they?
 

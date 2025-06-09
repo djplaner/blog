@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - bad
 - casa
-coverImage: race.jpg
-date: 2019-12-23 10:58:01+10:00
+coverImage: https://djon.es/assets/blog/2019/12/23/is-training-the-barrier-to-quality-online-learning-in-higher-ed/images/race.jpg
+date: 2019-12-23 00:58:01
 next:
   text: Office365, charismatic technologies, and the ecological perspective
   url: /blog/2020/01/13/office365-charismatic-technologies-and-the-ecological-perspective/
 previous:
   text: Theory of workarounds
   url: /blog/2019/12/20/theory-of-workarounds/
+template: blog-post.html
 title: Is training the barrier to quality online learning in higher ed?
 type: post
-template: blog-post.html
 ---
 ## TL;DR
 
@@ -44,7 +44,7 @@ To answer this question, the following digs a bit deeper into [the report](https
 
 The following is graph won’t be found in the report, but it is drawn from data presented in the report.
 
-![](images/graph.png)
+![](https://djon.es/assets/blog/2019/12/23/is-training-the-barrier-to-quality-online-learning-in-higher-ed/images/graph.png)
 
 It shows that 94% of the institutions responding to the survey identified online learning as being of strategic importance of the institution. A variety of reasons is given. Growing continuing/professional education, increasing student access, and attracting students from outside traditional catchment areas are reported as the most important.
 
@@ -62,7 +62,7 @@ In a organisation espousing a strategic management approach the absence of strat
 
 It was interesting to note that training was NOT “the most significant barrier to the adoption of online learning” (p. 40) from institutions responding to the survey. The following graph shows the top two responses from responding institutions to the barreirs to online education (from both the 2018 and 2019 surveys)
 
-![](images/barriers.png)
+![](https://djon.es/assets/blog/2019/12/23/is-training-the-barrier-to-quality-online-learning-in-higher-ed/images/barriers.png)
 
 
 Much of the discussion mentions the need for more _support_ for teaching staff, but most of the discussion appears to have focused on the _training_. Rather than pondering if the absence of appropriate supports might be exacerbating the training problem. i.e. more training is being called for because the systems and supports currently available to teaching staff are insufficient and inappropriate for the task being asked.
@@ -71,7 +71,7 @@ Much of the discussion mentions the need for more _support_ for teaching staff, 
 
 Based on the responses so far, it appears that many institutions recognise the strategic importance of online learning, know they don’t have a plan, and are aware that there are significant barriers in terms of workload and preparation for our teaching staff. So, obviously institutions are focused on taking action to address these problems, right?
 
-![](images/action.png)
+![](https://djon.es/assets/blog/2019/12/23/is-training-the-barrier-to-quality-online-learning-in-higher-ed/images/action.png)
 
 From the report
 

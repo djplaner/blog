@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-5
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - thesis
 - webfuse
-date: 2010-06-21 13:28:45+10:00
+date: 2010-06-21 03:28:45
 next:
   text: Webfuse as a web publishing tool - 2000 through 2004
   url: /blog/2010/06/22/webfuse-as-a-web-publishing-tool-2000-through-2004/
 previous:
   text: Further analysis of wf application usage
   url: /blog/2010/06/18/further-analysis-of-wf-application-usage/
+template: blog-post.html
 title: Flexible and support diversity
 type: post
-template: blog-post.html
 ---
 This is one part of the Evaluation section of Chapter 5 of [my PhD thesis](/blog/research/phd-thesis/). It's actually the fourth section, but it's the first to have reached a rough first draft stage. The basic aim is to show how the Webfuse interventions from 2000 through 2004 (and beyond) increased the flexibility and diversity of the system.
 
@@ -42,14 +42,14 @@ Table 5.18 - Wf applications: number, requests and users (2000-2004)
 
 In terms of the application usage shown in Figure 5.8 and the total number of wf applications shown in Table 5.18 it is noticeable that the majority of Wf application usage is dominated by a few applications. For example, in 2004, 94.9% of Wf application requests arose from just 4 applications: student "portal" (51%); staff "portal" (24.9%); the take quiz application (13.5%); and, assignment management (5.5%). Of the remaining 20 Wf applications used in 2004, all but one contributed less than 1% of overall Wf application usage.
 
-[![Usage of Wf applications 2000-2004](images/4719807166_def9b8ae6e_m.jpg)](http://www.flickr.com/photos/david_jones/4719807166/ "Usage of Wf applications 2000-2004 by David T Jones, on Flickr")
+[![Usage of Wf applications 2000-2004](https://djon.es/assets/blog/2010/06/21/flexible-and-support-diversity/images/4719807166_def9b8ae6e_m.jpg)](http://www.flickr.com/photos/david_jones/4719807166/ "Usage of Wf applications 2000-2004 by David T Jones, on Flickr")
 
 The significant disparities in the amount of usage between the Wf applications, is indicative of the diversity of the applications and how they are used. The Results Upload application mentioned in Section 5.3.6 handled only 4956 requests during 2004, or just 0.7% of all Wf application requests. Unlike a general purpose, regular use application like a "portal", the results upload application is only used at certain times by a small sub-set of users – teaching staff in charge of a course offering. In addition, the upload application's comparatively small overall use hides a significant saving in time on the part of academic staff.
 
 Figure 5.8 offers a comparison between three different Wf applications: student portal, take quiz, and results upload. It shows how much each application was used per month during 2004 (Note: usage data for December 2004 is not included). All three applications have two main peaks, representing CQU having two main terms in which the majority of students are enrolled. However, the peaks appear at different times of the year for the different applications. Student portal usage peaks towards the final weeks of the two main terms, as students submit and complete final assessment. Usage of the quiz application peaks earlier in term, especially in the first term, as quizzes were being used mostly as formative assessment items (though usage is much flatter in Term 2). The upload application peaks at the very end of the two major terms (actually in the first few weeks of the next term).
 
 Figure 5.8 – Comparison of annual usage peaks for student portal, take quiz, and upload Wf applications in 2004 \* \* - missing usage data from December
-| [![Usage by month of webfuse student "portal" (2004)](images/4719808010_cbdbbf7857_t.jpg)](http://www.flickr.com/photos/david_jones/4719808010/ "Usage by month of webfuse student \"portal\" (2004) by David T Jones, on Flickr") | [![Usage results by month of take quiz](images/4719158021_1cd716a46b_t.jpg)](http://www.flickr.com/photos/david_jones/4719158021/ "Usage results by month of take quiz by David T Jones, on Flickr") | [![Usage by month of results upload](images/4719158357_065173803f_t.jpg)](http://www.flickr.com/photos/david_jones/4719158357/ "Usage by month of results upload by David T Jones, on Flickr") |
+| [![Usage by month of webfuse student "portal" (2004)](https://djon.es/assets/blog/2010/06/21/flexible-and-support-diversity/images/4719808010_cbdbbf7857_t.jpg)](http://www.flickr.com/photos/david_jones/4719808010/ "Usage by month of webfuse student \"portal\" (2004) by David T Jones, on Flickr") | [![Usage results by month of take quiz](https://djon.es/assets/blog/2010/06/21/flexible-and-support-diversity/images/4719158021_1cd716a46b_t.jpg)](http://www.flickr.com/photos/david_jones/4719158021/ "Usage results by month of take quiz by David T Jones, on Flickr") | [![Usage by month of results upload](https://djon.es/assets/blog/2010/06/21/flexible-and-support-diversity/images/4719158357_065173803f_t.jpg)](http://www.flickr.com/photos/david_jones/4719158357/ "Usage by month of results upload by David T Jones, on Flickr") |
 | --- | --- | --- |
 
 The Blog Aggregation Management (BAM) Wf application briefly mentioned in Section 5.3.6 represents a different type of diversity. Before BAM, all software services used by Webfuse were hosted on institutional computers. BAM assumed students would use external hosted blog engines of their own choice and register them with BAM. BAM would use the RSS files generated by the blogs to mirror and track student blog posts. In reviewing BAM in the ELI Guide to Blogging, Coghlan et al (2007) suggest that
@@ -62,7 +62,7 @@ As described in Section 5.3.5, Webfuse – like most other LMS – essentially s
 
 The default course site approach ensured that an organisationally approved default course site was automatically available for every course offered by the Faculty. The make up of this default course site – in terms of the appearance, structure and tools used - could be modified for different groups of courses. For example, three very different Webfuse course sites can be seen in: Figure 5.1, the original 2001 default course site home page; Figure 5.2, the home page for the 2007 Web 2.0 course site; and Figure 5.9, the home page for a commercial course offered by CQU at the end of 2007.
 
-[![EPG02 Course home page](images/4719809904_a605153518_m.jpg)](http://www.flickr.com/photos/david_jones/4719809904/ "EPG02 Course home page by David T Jones, on Flickr")
+[![EPG02 Course home page](https://djon.es/assets/blog/2010/06/21/flexible-and-support-diversity/images/4719809904_a605153518_m.jpg)](http://www.flickr.com/photos/david_jones/4719809904/ "EPG02 Course home page by David T Jones, on Flickr")
 
 In addition, make up of a default course site could evolve over time in response to organisational priorities or other changes. Examples of the changes to default course sites that could be performed automatically based on organisational requirements, included:
 

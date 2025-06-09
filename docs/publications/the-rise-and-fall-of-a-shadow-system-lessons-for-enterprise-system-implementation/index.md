@@ -1,936 +1,933 @@
----
-date: 2008-12-29 15:48:40+10:00
+﻿---
+comments: []
+date: 2008-12-29 05:48:40
+pingbacks:
+- approved: '1'
+  author: 'Comparing VLEs/LMS to the past: flaws and implications for development
+    models &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
+  content: '[...] D., S. Behrens, et al. (2004). The rise and fall of a shadow system:
+    Lessons for enterprise system implementation. Managing New Wave Information Systems:
+    Enterprise, Government and Society, Proceedings of the 15th [...]'
+  date: '2009-03-15 23:20:37'
+  date_gmt: '2009-03-15 13:20:37'
+  id: '1935'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Prescription, adaptation and failure around improving univeristy teaching
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
+  content: '[...] approach ignores the findings from work on workarounds (Ferneley
+    and Sobreperez, 2006), shadow systems (Jones et al, 2004) and task corruption.
+    It ignores that nature of academics and teaching [...]'
+  date: '2009-03-30 12:27:22'
+  date_gmt: '2009-03-30 02:27:22'
+  id: '1936'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The need for a third way &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.156
+  author_url: https://djon.es/blog/2010/05/31/the-need-for-a-third-way/
+  content: '[...] particularly liked the row on shadow systems as it corresponds with
+    what some colleagues and I (Jones et al, 2004) suggested sometime [...]'
+  date: '2010-05-31 11:28:53'
+  date_gmt: '2010-05-31 01:28:53'
+  id: '1937'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 &laquo; ERP Insights |
+  author_email: null
+  author_ip: 74.200.247.247
+  author_url: http://erpinsight.wordpress.com/2012/07/15/week-2/
+  content: "[...] written by Sandy Behrens in the Communications of the ACM (DOI:\
+    \ 10.1145/1461928.1461960). This\_article from the weblog of David Jones also\
+    \ provides a great overview of a publication which explores this [...]"
+  date: '2012-07-15 20:29:21'
+  date_gmt: '2012-07-15 10:29:21'
+  id: '1938'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | erpjomsy
+  author_email: null
+  author_ip: 72.233.61.88
+  author_url: http://erpjomsy.wordpress.com/2012/08/16/week-2/
+  content: '[...] https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter...
+    Share this:TwitterFacebookLike this:LikeBe the first to like this. [...]'
+  date: '2012-08-16 14:36:56'
+  date_gmt: '2012-08-16 04:36:56'
+  id: '1939'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 6 | erpjomsy
+  author_email: null
+  author_ip: 69.170.134.34
+  author_url: http://erpjomsy.wordpress.com/2012/09/13/week-6/
+  content: '[...] https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter...
+    [...]'
+  date: '2012-09-13 23:21:19'
+  date_gmt: '2012-09-13 13:21:19'
+  id: '1940'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: COIS12073 &#8211; Week 2 &laquo; Tom loves Jerry
+  author_email: null
+  author_ip: 69.170.134.164
+  author_url: http://andy171.wordpress.com/2012/12/06/cois12073-week-2/
+  content: '[...] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The rise
+    and fall of a shadow system: lessons for enterprise system implementation, pp.
+    1-15, viewed 12 July 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter...
+    [...]'
+  date: '2012-12-06 13:52:43'
+  date_gmt: '2012-12-06 03:52:43'
+  id: '1941'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week TWO (2) | muzammilsiraj
+  author_email: null
+  author_ip: 72.232.112.14
+  author_url: http://muzammilsiraj.wordpress.com/2012/12/13/week-two-2/
+  content: "[...] WordPress 2003, The rise and fall of a shadow system: Lessons for\
+    \ enterprise system implementation, Viewed 10th December 2012,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter...\
+    \ [...]"
+  date: '2012-12-13 23:29:15'
+  date_gmt: '2012-12-13 13:29:15'
+  id: '1942'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: COIS12073 Week 2 | aligosean
+  author_email: null
+  author_ip: 69.170.134.165
+  author_url: http://aligosean.wordpress.com/2012/12/14/cois12073-week-2/
+  content: '[...] Jones, D. (2004). The rise and fall of a shadow system: Lessons
+    for enterprise system implementation. [online] Available at: https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter...
+    [...]'
+  date: '2012-12-14 21:48:47'
+  date_gmt: '2012-12-14 11:48:47'
+  id: '1943'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 &laquo; jolieluong
+  author_email: null
+  author_ip: 69.170.134.167
+  author_url: http://jolieluong.wordpress.com/2012/11/15/week-2/
+  content: '[...] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The rise
+    and fall of a shadow system: lessons for enterprise system implementation, pp.
+    1-15, viewed 12 July 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter...
+    [...]'
+  date: '2012-12-20 14:46:54'
+  date_gmt: '2012-12-20 04:46:54'
+  id: '1944'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Janos&#039;s ERP Blog | Week 2
+  author_email: null
+  author_ip: 66.155.8.67
+  author_url: http://janos52erp.wordpress.com/2013/07/11/week-2/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2012,\_The\
+    \ rise and fall of a shadow system: lessons for enterprise system implementation,\
+    \ pp. 1-15, viewed 10 July 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2013-07-12 11:22:10'
+  date_gmt: '2013-07-12 01:22:10'
+  id: '1945'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '&#8220;Week 2&#8243; | jamesbunyanblog'
+  author_email: null
+  author_ip: 66.155.38.17
+  author_url: http://jamesbunyanblog.wordpress.com/2013/07/13/week-2/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    viewed 12 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-07-14 00:00:30'
+  date_gmt: '2013-07-13 14:00:30'
+  id: '1946'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Week 2 | COIS12073: Enterprise Systems'
+  author_email: null
+  author_ip: 72.233.69.75
+  author_url: http://katcois12073.wordpress.com/2013/07/14/week-2/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E, The rise
+    and fall of a shadow systems: lessons for enterprise systems implementation, viewed
+    12 July 2013 https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-07-14 23:59:22'
+  date_gmt: '2013-07-14 13:59:22'
+  id: '1947'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Question1 Week 2 \u2013 Shadow systems | Enterprise Resource Planning Concepts"
+  author_email: null
+  author_ip: 66.155.38.41
+  author_url: http://chuthathipeve.wordpress.com/2013/07/16/question1-week-2-shadow-systems/
+  content: '[&#8230;] Jones, D., Behrens, S., Jamieson, K., &amp; Tansley, E., 2013,
+    The Rise and Fall of a Shadow System, Lessons for Enterprise System Implementation,
+    viewed 13 July 2013,https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-07-16 21:12:18'
+  date_gmt: '2013-07-16 11:12:18'
+  id: '1948'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | Jawad khan blog
+  author_email: null
+  author_ip: 72.233.127.211
+  author_url: http://jawadkhanblog.wordpress.com/2013/07/17/week-2/
+  content: '[&#8230;] https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-07-18 00:54:52'
+  date_gmt: '2013-07-17 14:54:52'
+  id: '1949'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | sumanshresthaerp
+  author_email: null
+  author_ip: 72.232.7.21
+  author_url: http://sumanshresthacqu.wordpress.com/2013/07/19/week-2/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    pp. 1-15, viewed 12 July 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-07-19 21:34:45'
+  date_gmt: '2013-07-19 11:34:45'
+  id: '1950'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Shadow System | pincesingh3
+  author_email: null
+  author_ip: 66.155.8.196
+  author_url: http://pincesingh3.wordpress.com/2013/07/21/shadow-system/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, \u2018\
+    The Rise and Fall of a Shadow System: Lessons for Enterprise System Implementation,\
+    \ pp. 1-15, viewed 21 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2013-07-21 20:39:35'
+  date_gmt: '2013-07-21 10:39:35'
+  id: '1951'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 &#8211; Shadow Systems | brookehigginsblog
+  author_email: null
+  author_ip: 66.155.38.6
+  author_url: http://brookehigginsblog.wordpress.com/2013/07/23/week-2-shadow-systems/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    pp. 1-15, viewed 10 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-07-23 23:59:54'
+  date_gmt: '2013-07-23 13:59:54'
+  id: '1952'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | amen&#039;s blog
+  author_email: null
+  author_ip: 72.232.7.23
+  author_url: http://amenpullen.wordpress.com/2013/07/23/week-2/
+  content: "[&#8230;] \_Jones, D, Behrens, S , Jamieson, K &amp; Tansley, E 2004,\
+    \ The rise and fall of a shadow system: Lessons or Enterprise system Implementation,\
+    \ viewed 20 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2013-07-24 08:06:27'
+  date_gmt: '2013-07-23 22:06:27'
+  id: '1953'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2_Shadow Systems | muhammadakhtarerp
+  author_email: null
+  author_ip: 72.233.127.215
+  author_url: http://muhammadakhtarerp.wordpress.com/2013/07/24/week-2_shadow-systems/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d.,\_The\
+    \ rise and fall of a shadow system:lessons for enterprise system implementation,\
+    \ pp. 1-15, viewed 12 July 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2013-07-24 12:59:14'
+  date_gmt: '2013-07-24 02:59:14'
+  id: '1954'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "Week 2 \u2013 Shadow Systems | gqes"
+  author_email: null
+  author_ip: 72.232.7.103
+  author_url: http://gqes.wordpress.com/2013/07/28/week-2-shadow-systems/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    pp. 1-15, viewed 20 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-07-28 15:47:35'
+  date_gmt: '2013-07-28 05:47:35'
+  id: '1955'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | Enterprise Resource Planning Concepts
+  author_email: null
+  author_ip: 72.233.69.24
+  author_url: http://rabindra302.wordpress.com/2013/07/29/week-2/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E, The rise
+    and fall of a shadow system: lessons for enterprise system implementation, viewed
+    16 July 2013, http:// https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-07-29 11:24:44'
+  date_gmt: '2013-07-29 01:24:44'
+  id: '1956'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | COIT20230-Enterprise Resource Planning Concepts Blogs
+  author_email: null
+  author_ip: 66.155.9.143
+  author_url: http://skerp.wordpress.com/2013/08/10/week-2/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    pp. 1-15, viewed 2 August 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-08-10 19:28:10'
+  date_gmt: '2013-08-10 09:28:10'
+  id: '1957'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Week 2: Shadow System | 2blog4u'
+  author_email: null
+  author_ip: 72.232.7.50
+  author_url: http://teablogged.wordpress.com/2013/08/12/week-2-shadow-system/
+  content: '[&#8230;] https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-08-12 21:30:00'
+  date_gmt: '2013-08-12 11:30:00'
+  id: '1958'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week2 | sugamgautam
+  author_email: null
+  author_ip: 66.135.48.191
+  author_url: http://sugamgautam.wordpress.com/2013/07/08/week2/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
+    rise and fall of shadow system: Lessons for Enterprise System Implementation,
+    viewed 30 June 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;.
+    [&#8230;]'
+  date: '2013-08-12 22:45:09'
+  date_gmt: '2013-08-12 12:45:09'
+  id: '1959'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Week 2: Shadow System | Nimish Shrestha: Blog'
+  author_email: null
+  author_ip: 66.155.8.59
+  author_url: http://nstha2013.wordpress.com/2013/08/11/week-2-shadow-system/
+  content: '[&#8230;] The Weblog of (a) David Jones 2004, &#8220;The rise and fall
+    of a shadow system: Lessons for Enterprise System Implementation&#8221;, blog
+    post, viewed 3 August 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-08-14 17:10:21'
+  date_gmt: '2013-08-14 07:10:21'
+  id: '1960'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: muhammadakhtarcqu
+  author_email: null
+  author_ip: 216.151.210.49
+  author_url: http://muhammadakhtarcqu.wordpress.com/2013/08/14/6/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E, \u2018The\
+    \ rise and fall of a shadow system:lessons for enterprise system implementation,\
+    \ pp. 1-15, viewed 12 July 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2013-08-14 18:27:31'
+  date_gmt: '2013-08-14 08:27:31'
+  id: '1961'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | rishablalerp
+  author_email: null
+  author_ip: 76.74.254.8
+  author_url: http://rishablalerp.wordpress.com/2013/08/14/week-2/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
+    rise and fall of a shadow system: lessons for enterprise systems implementation,
+    https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-08-14 21:12:48'
+  date_gmt: '2013-08-14 11:12:48'
+  id: '1962'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: WEEK 2 | Pramod Rishal
+  author_email: null
+  author_ip: 66.135.48.189
+  author_url: http://pramodrishal.wordpress.com/2013/08/14/week-2/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d.,\_The\
+    \ rise and fall of a shadow system: lessons for enterprise system implementation,\
+    \ pp. 1-15, viewed 12 July 2012,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2013-08-14 21:18:29'
+  date_gmt: '2013-08-14 11:18:29'
+  id: '1963'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Neither strategy nor &#8220;space&#8221; to innovate is enough | The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.232.7.36
+  author_url: https://djon.es/blog/2013/08/16/neither-strategy-nor-space-to-innovate-is-enough/
+  content: '[&#8230;] The rise and fall of a shadow system: Lessons for Enterprise
+    System&nbsp;Implementation [&#8230;]'
+  date: '2013-08-16 15:33:59'
+  date_gmt: '2013-08-16 05:33:59'
+  id: '1964'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | kataevalex
+  author_email: null
+  author_ip: 66.155.8.98
+  author_url: http://kataevalex.wordpress.com/2013/11/10/week-2/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K, Tansley E, 2004,\_The rise\
+    \ and fall of a shadow system: Lessons for Enterprise System Implementation,\_\
+    viewed at 11 November 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2013-11-10 15:08:02'
+  date_gmt: '2013-11-10 05:08:02'
+  id: '1965'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: WEEK 2 COIS12073 | RASHIM ARORA
+  author_email: null
+  author_ip: 192.0.80.143
+  author_url: http://rockstarrishu.wordpress.com/2013/11/12/week-1-cois12073/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
+    \ rise and fall of a shadow system: lessons for enterprise system implementation,\
+    \ pp. 1-15, viewed 20 July 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2013-11-16 22:27:56'
+  date_gmt: '2013-11-16 12:27:56'
+  id: '1966'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: WEEK 2 SHADOW SYSTEMS | RASHIM ARORA
+  author_email: null
+  author_ip: 66.155.38.53
+  author_url: http://rockstarrishu.wordpress.com/2013/11/17/week-2/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
+    \ rise and fall of a shadow system: lessons for enterprise system implementation,\
+    \ pp. 1-15, viewed 20 July 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2013-11-17 21:36:56'
+  date_gmt: '2013-11-17 11:36:56'
+  id: '1967'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 3 | kataevalex
+  author_email: null
+  author_ip: 192.0.82.150
+  author_url: http://kataevalex.wordpress.com/2013/11/19/week-3/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K, Tansley E, 2004, The rise
+    and fall of a shadow system: Lessons for Enterprise System Implementation, viewed
+    at 11 November 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-11-19 13:08:37'
+  date_gmt: '2013-11-19 03:08:37'
+  id: '1968'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | reybop
+  author_email: null
+  author_ip: 66.135.48.166
+  author_url: http://reybop.wordpress.com/2013/11/04/erp-journal-week-1/
+  content: '[&#8230;] Jones, D et al (n.d) The rise and fall of a shadow system: lesson
+    for enterprise system implementation,available at https://davidtjones.wordpress.com/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-ente&#8230;
+    [&#8230;]'
+  date: '2013-11-22 17:18:49'
+  date_gmt: '2013-11-22 07:18:49'
+  id: '1969'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | reybop
+  author_email: null
+  author_ip: 66.155.38.25
+  author_url: http://reybop.wordpress.com/2013/11/25/week-2/
+  content: "[&#8230;] Jones, D et al (n.d) The rise and fall of a shadow system: lesson\
+    \ for enterprise system implementation,available at\_https://davidtjones.wordpress.com/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-ente&#8230;\
+    \ [&#8230;]"
+  date: '2013-11-25 10:09:19'
+  date_gmt: '2013-11-25 00:09:19'
+  id: '1970'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Week 2: COIS 12073 (ERP and shadow systems) | priyankakhan'
+  author_email: null
+  author_ip: 66.155.8.64
+  author_url: http://priyankakhan.wordpress.com/2013/11/28/week-2-cois-12073-erp-and-shadow-systems/
+  content: '[&#8230;] https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2013-11-28 17:17:06'
+  date_gmt: '2013-11-28 07:17:06'
+  id: '1971'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | Enterprise Resource Planning Concepts T3
+  author_email: null
+  author_ip: 66.155.8.186
+  author_url: http://ripsofskyerpt3.wordpress.com/2013/12/04/week-2/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
+    \ rise and fall of a shadow system: lessons for enterprise system implementation,\
+    \ pp. 1-15, viewed 02 Dec 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2013-12-05 03:54:08'
+  date_gmt: '2013-12-04 17:54:08'
+  id: '1972'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | rngokhang
+  author_email: null
+  author_ip: 76.74.255.91
+  author_url: http://rngokhang.wordpress.com/2013/12/09/week-2-2/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
+    \ rise and fall of a shadow system: lessons for enterprise system implementation,\
+    \ pp. 1-15, viewed 20 July 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2013-12-09 17:04:32'
+  date_gmt: '2013-12-09 07:04:32'
+  id: '1973'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Enterprise System- Week 2 | cuong200383
+  author_email: null
+  author_ip: 66.135.48.199
+  author_url: http://cuong200383.wordpress.com/2013/11/18/enterprise-system-week-2/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d, The\
+    \ rise and fall of a shadow system: lessons for enterprise system implementation,\
+    \ pp. 1-15, viewed 12th\_ December 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2013-12-23 07:34:53'
+  date_gmt: '2013-12-22 21:34:53'
+  id: '1974'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 9 | kataevalex
+  author_email: null
+  author_ip: 66.155.8.230
+  author_url: http://kataevalex.wordpress.com/2014/01/15/week-9/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K, Tansley E, 2004, The rise
+    and fall of a shadow system: Lessons for Enterprise System Implementation, viewed
+    06 January 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2014-01-15 10:37:26'
+  date_gmt: '2014-01-15 00:37:26'
+  id: '1975'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | susanconnolly2
+  author_email: null
+  author_ip: 192.0.80.48
+  author_url: http://susanconnolly2.wordpress.com/2014/06/23/week-2/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    pp. 1-15, viewed 10 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2014-06-23 22:12:04'
+  date_gmt: '2014-06-23 12:12:04'
+  id: '1976'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | dp167
+  author_email: null
+  author_ip: 192.0.82.155
+  author_url: http://dp167.wordpress.com/2014/07/10/week-2/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
+    \ rise and fall of a shadow system: lessons for enterprise system implementation,\
+    \ pp. 1-15, viewed 20 July 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2014-07-10 10:51:15'
+  date_gmt: '2014-07-10 00:51:15'
+  id: '1977'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | gagzassessment
+  author_email: null
+  author_ip: 192.0.82.135
+  author_url: http://gagzassessment.wordpress.com/2014/07/11/week-2/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
+    \ rise and fall of a shadow system: lessons for enterprise system implementation,\
+    \ pp. 1-15, viewed 20 July 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2014-07-11 19:30:05'
+  date_gmt: '2014-07-11 09:30:05'
+  id: '1978'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | syederpblog
+  author_email: null
+  author_ip: 192.0.81.105
+  author_url: http://syederpblog.wordpress.com/2014/07/12/week-2/
+  content: "[&#8230;] Jones, D., Behrens, S., Jamieson, K. &amp; Tansley, E. 2004,\u2019\
+    The rise and fall of a shadow system: lessons for enterprise system implementation\u2019\
+    , viewed 11 July 2014,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2014-07-12 22:20:11'
+  date_gmt: '2014-07-12 12:20:11'
+  id: '1979'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | shankarb
+  author_email: null
+  author_ip: 207.198.101.17
+  author_url: http://shankarb.wordpress.com/2014/07/12/week-2/
+  content: '[&#8230;] Jones, D., Behrens, S., Jamieson, K., Tansley, E., 2004,The
+    Rise and Fall of a Shadow System, Lessons for Enterprise System Implementation,
+    viewed 12 July 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2014-07-13 04:19:01'
+  date_gmt: '2014-07-12 18:19:01'
+  id: '1980'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | akramali50
+  author_email: null
+  author_ip: 66.155.8.230
+  author_url: http://akramali50.wordpress.com/2014/07/13/week-2/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K, &amp; Tansley, E 2004,\_\
+    The Rise and Fall of a Shadow System, viewed 11 July 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2014-07-13 21:57:45'
+  date_gmt: '2014-07-13 11:57:45'
+  id: '1982'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | ERP
+  author_email: null
+  author_ip: 66.135.48.246
+  author_url: http://tashvirerp.wordpress.com/2014/07/13/week-2/
+  content: "[&#8230;] Jones D, Behrens S, Jamieson K &amp; Tansley E 2004, \u201C\
+    The rise and fall of a shadow system: lessons for enterprise system implementation\u201D\
+    , pp. 1-15, viewed 12 July 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2014-07-13 22:44:35'
+  date_gmt: '2014-07-13 12:44:35'
+  id: '1983'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | myblogsth
+  author_email: null
+  author_ip: 66.135.48.246
+  author_url: http://myblogsth.wordpress.com/2014/07/13/week-2/
+  content: "[&#8230;] \_Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
+    \ rise and fall of a shadow system: lessons for enterprise system implementation,\
+    \ viewed 12 July 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2014-07-13 23:28:15'
+  date_gmt: '2014-07-13 13:28:15'
+  id: '1984'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | mrthompsoncqu
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: http://mrthompsoncqu.wordpress.com/2014/07/16/week-2/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    pp. 1-15, viewed 16 July 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2014-07-20 16:57:55'
+  date_gmt: '2014-07-20 06:57:55'
+  id: '1988'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: week &#8211; 2 | dineshchowdaryerp
+  author_email: null
+  author_ip: 192.0.81.33
+  author_url: http://dineshchowdaryerp.wordpress.com/2014/07/20/week-2/
+  content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d.,\_The\
+    \ rise and fall of a shadow system: lessons for enterprise system implementation,\
+    \ pp. 1-15, viewed 10 July 2013,https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
+    \ [&#8230;]"
+  date: '2014-07-20 22:21:14'
+  date_gmt: '2014-07-20 12:21:14'
+  id: '1989'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2- Shadow Systems | mailingsakshi
+  author_email: null
+  author_ip: 66.155.38.23
+  author_url: http://mailingsakshi.wordpress.com/2014/07/26/week-2-shadow-systems/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    pp. 1-15, viewed 2 August 2012,https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2014-07-26 18:28:58'
+  date_gmt: '2014-07-26 08:28:58'
+  id: '1991'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | My CQU Blog
+  author_email: null
+  author_ip: 192.0.83.49
+  author_url: http://mycqublog2014t2.wordpress.com/2014/07/22/week-2/
+  content: '[&#8230;] Jones, D., Behrens, S., Jamieson, K., &amp; Tansley, E. (2004).
+    The Rise and Fall of Shadow Systems: Lessons for Enterprise System Implementation.
+    Retrieved July 10, 2014, from David Jones: https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2014-07-27 16:10:57'
+  date_gmt: '2014-07-27 06:10:57'
+  id: '1992'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2 | Mohammed Kashif
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: http://kassid21.wordpress.com/2014/07/23/week-2/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    pp. 1-15, viewed 30 July 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2014-07-30 18:09:03'
+  date_gmt: '2014-07-30 08:09:03'
+  id: '1993'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: week 2 shadow systems | blessingston77
+  author_email: null
+  author_ip: 66.135.48.142
+  author_url: http://blessingston77.wordpress.com/2014/08/03/week-2-shadow-systems/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    pp. 1-15, viewed 2 August 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2014-08-03 16:32:45'
+  date_gmt: '2014-08-03 06:32:45'
+  id: '1994'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week-2 SHADOW SYSTEMS | tgsshravanblog
+  author_email: null
+  author_ip: 192.0.81.76
+  author_url: http://tgsshravanblog.wordpress.com/2014/08/03/week-2-shadow-systems/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    pp. 1-15, viewed 20 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2014-08-03 18:56:29'
+  date_gmt: '2014-08-03 08:56:29'
+  id: '1995'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Week 2- Shadow Systems | rajavamsiavuthu
+  author_email: null
+  author_ip: 76.74.248.175
+  author_url: http://rajavamsiavuthu.wordpress.com/2014/08/03/week-2-shadow-systems/
+  content: "[&#8230;] and fall of a shadow system: Lessons for Enterprise System Implementation.\
+    \ [ONLINE] Available at:\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;.\
+    \ [Accessed 01 August [&#8230;]"
+  date: '2014-08-04 09:34:02'
+  date_gmt: '2014-08-03 23:34:02'
+  id: '1998'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Assignement 1(week 2) | hello
+  author_email: null
+  author_ip: 207.198.101.58
+  author_url: http://akhilesherp.wordpress.com/2014/07/16/assignement-1week-2/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    pp. 1-15, viewed 20 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2014-08-13 17:36:22'
+  date_gmt: '2014-08-13 07:36:22'
+  id: '2000'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: WEEK 2 | aashisherp
+  author_email: null
+  author_ip: 66.155.9.55
+  author_url: http://aashisherp.wordpress.com/2014/08/13/week-2/
+  content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
+    rise and fall of a shadow system: lessons for enterprise system implementation,
+    pp. 1-15, viewed 20 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
+    [&#8230;]'
+  date: '2014-08-14 01:12:39'
+  date_gmt: '2014-08-13 15:12:39'
+  id: '2001'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Established versus Affordances: part of the reason institutional e-learning
+    is like teenage sex | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.81.123
+  author_url: https://djon.es/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/
+  content: '[&#8230;] The rise and fall of a shadow system: Lessons for Enterprise
+    System&nbsp;Implementation [&#8230;]'
+  date: '2014-11-07 10:29:25'
+  date_gmt: '2014-11-07 00:29:25'
+  id: '2002'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: All models are wrong, but some are useful and its application to e-learning
+    | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.101.57
+  author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+  content: '[&#8230;] The rise and fall of a shadow system: Lessons for Enterprise
+    System&nbsp;Implementation [&#8230;]'
+  date: '2015-08-28 09:04:45'
+  date_gmt: '2015-08-27 23:04:45'
+  id: '2003'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Re-purposing V&amp;R mapping to explore modification of digital learning
+    spaces | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.80.159
+  author_url: https://davidtjones.wordpress.com/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/
+  content: '[&#8230;] At worst they are labelled as duplication, inefficient, unsafe,
+    and feral. They are seen as shadow systems. Systems and changes that are undesirable
+    and should be rooted [&#8230;]'
+  date: '2015-10-28 12:30:56'
+  date_gmt: '2015-10-28 02:30:56'
+  id: '2004'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 192.0.86.139
+  author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
+  content: '[&#8230;] able to work around the significant constraints caused by the
+    SET mindset and in the process create shadow systems, which in turn illustrates
+    the presence of a gap (i.e. yawning chasm) between what is provided and [&#8230;]'
+  date: '2016-07-07 14:54:30'
+  date_gmt: '2016-07-07 04:54:30'
+  id: '2005'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"The rise and fall of a shadow system: Lessons for Enterprise System Implementation"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Comparing VLEs/LMS to the past: flaws and implications for development
-        models &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
-      content: '[...] D., S. Behrens, et al. (2004). The rise and fall of a shadow system:
-        Lessons for enterprise system implementation. Managing New Wave Information Systems:
-        Enterprise, Government and Society, Proceedings of the 15th [...]'
-      date: '2009-03-15 23:20:37'
-      date_gmt: '2009-03-15 13:20:37'
-      id: '1935'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Prescription, adaptation and failure around improving univeristy teaching
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
-      content: '[...] approach ignores the findings from work on workarounds (Ferneley
-        and Sobreperez, 2006), shadow systems (Jones et al, 2004) and task corruption.
-        It ignores that nature of academics and teaching [...]'
-      date: '2009-03-30 12:27:22'
-      date_gmt: '2009-03-30 02:27:22'
-      id: '1936'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The need for a third way &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.156
-      author_url: https://djon.es/blog/2010/05/31/the-need-for-a-third-way/
-      content: '[...] particularly liked the row on shadow systems as it corresponds with
-        what some colleagues and I (Jones et al, 2004) suggested sometime [...]'
-      date: '2010-05-31 11:28:53'
-      date_gmt: '2010-05-31 01:28:53'
-      id: '1937'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 &laquo; ERP Insights |
-      author_email: null
-      author_ip: 74.200.247.247
-      author_url: http://erpinsight.wordpress.com/2012/07/15/week-2/
-      content: "[...] written by Sandy Behrens in the Communications of the ACM (DOI:\
-        \ 10.1145/1461928.1461960). This\_article from the weblog of David Jones also\
-        \ provides a great overview of a publication which explores this [...]"
-      date: '2012-07-15 20:29:21'
-      date_gmt: '2012-07-15 10:29:21'
-      id: '1938'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | erpjomsy
-      author_email: null
-      author_ip: 72.233.61.88
-      author_url: http://erpjomsy.wordpress.com/2012/08/16/week-2/
-      content: '[...] https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter...
-        Share this:TwitterFacebookLike this:LikeBe the first to like this. [...]'
-      date: '2012-08-16 14:36:56'
-      date_gmt: '2012-08-16 04:36:56'
-      id: '1939'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 6 | erpjomsy
-      author_email: null
-      author_ip: 69.170.134.34
-      author_url: http://erpjomsy.wordpress.com/2012/09/13/week-6/
-      content: '[...] https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter...
-        [...]'
-      date: '2012-09-13 23:21:19'
-      date_gmt: '2012-09-13 13:21:19'
-      id: '1940'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: COIS12073 &#8211; Week 2 &laquo; Tom loves Jerry
-      author_email: null
-      author_ip: 69.170.134.164
-      author_url: http://andy171.wordpress.com/2012/12/06/cois12073-week-2/
-      content: '[...] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The rise
-        and fall of a shadow system: lessons for enterprise system implementation, pp.
-        1-15, viewed 12 July 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter...
-        [...]'
-      date: '2012-12-06 13:52:43'
-      date_gmt: '2012-12-06 03:52:43'
-      id: '1941'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week TWO (2) | muzammilsiraj
-      author_email: null
-      author_ip: 72.232.112.14
-      author_url: http://muzammilsiraj.wordpress.com/2012/12/13/week-two-2/
-      content: "[...] WordPress 2003, The rise and fall of a shadow system: Lessons for\
-        \ enterprise system implementation, Viewed 10th December 2012,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter...\
-        \ [...]"
-      date: '2012-12-13 23:29:15'
-      date_gmt: '2012-12-13 13:29:15'
-      id: '1942'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: COIS12073 Week 2 | aligosean
-      author_email: null
-      author_ip: 69.170.134.165
-      author_url: http://aligosean.wordpress.com/2012/12/14/cois12073-week-2/
-      content: '[...] Jones, D. (2004). The rise and fall of a shadow system: Lessons
-        for enterprise system implementation. [online] Available at: https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter...
-        [...]'
-      date: '2012-12-14 21:48:47'
-      date_gmt: '2012-12-14 11:48:47'
-      id: '1943'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 &laquo; jolieluong
-      author_email: null
-      author_ip: 69.170.134.167
-      author_url: http://jolieluong.wordpress.com/2012/11/15/week-2/
-      content: '[...] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The rise
-        and fall of a shadow system: lessons for enterprise system implementation, pp.
-        1-15, viewed 12 July 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter...
-        [...]'
-      date: '2012-12-20 14:46:54'
-      date_gmt: '2012-12-20 04:46:54'
-      id: '1944'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Janos&#039;s ERP Blog | Week 2
-      author_email: null
-      author_ip: 66.155.8.67
-      author_url: http://janos52erp.wordpress.com/2013/07/11/week-2/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2012,\_The\
-        \ rise and fall of a shadow system: lessons for enterprise system implementation,\
-        \ pp. 1-15, viewed 10 July 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2013-07-12 11:22:10'
-      date_gmt: '2013-07-12 01:22:10'
-      id: '1945'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '&#8220;Week 2&#8243; | jamesbunyanblog'
-      author_email: null
-      author_ip: 66.155.38.17
-      author_url: http://jamesbunyanblog.wordpress.com/2013/07/13/week-2/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        viewed 12 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-07-14 00:00:30'
-      date_gmt: '2013-07-13 14:00:30'
-      id: '1946'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Week 2 | COIS12073: Enterprise Systems'
-      author_email: null
-      author_ip: 72.233.69.75
-      author_url: http://katcois12073.wordpress.com/2013/07/14/week-2/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E, The rise
-        and fall of a shadow systems: lessons for enterprise systems implementation, viewed
-        12 July 2013 https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-07-14 23:59:22'
-      date_gmt: '2013-07-14 13:59:22'
-      id: '1947'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Question1 Week 2 \u2013 Shadow systems | Enterprise Resource Planning Concepts"
-      author_email: null
-      author_ip: 66.155.38.41
-      author_url: http://chuthathipeve.wordpress.com/2013/07/16/question1-week-2-shadow-systems/
-      content: '[&#8230;] Jones, D., Behrens, S., Jamieson, K., &amp; Tansley, E., 2013,
-        The Rise and Fall of a Shadow System, Lessons for Enterprise System Implementation,
-        viewed 13 July 2013,https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-07-16 21:12:18'
-      date_gmt: '2013-07-16 11:12:18'
-      id: '1948'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | Jawad khan blog
-      author_email: null
-      author_ip: 72.233.127.211
-      author_url: http://jawadkhanblog.wordpress.com/2013/07/17/week-2/
-      content: '[&#8230;] https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-07-18 00:54:52'
-      date_gmt: '2013-07-17 14:54:52'
-      id: '1949'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | sumanshresthaerp
-      author_email: null
-      author_ip: 72.232.7.21
-      author_url: http://sumanshresthacqu.wordpress.com/2013/07/19/week-2/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        pp. 1-15, viewed 12 July 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-07-19 21:34:45'
-      date_gmt: '2013-07-19 11:34:45'
-      id: '1950'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Shadow System | pincesingh3
-      author_email: null
-      author_ip: 66.155.8.196
-      author_url: http://pincesingh3.wordpress.com/2013/07/21/shadow-system/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, \u2018\
-        The Rise and Fall of a Shadow System: Lessons for Enterprise System Implementation,\
-        \ pp. 1-15, viewed 21 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2013-07-21 20:39:35'
-      date_gmt: '2013-07-21 10:39:35'
-      id: '1951'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 &#8211; Shadow Systems | brookehigginsblog
-      author_email: null
-      author_ip: 66.155.38.6
-      author_url: http://brookehigginsblog.wordpress.com/2013/07/23/week-2-shadow-systems/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        pp. 1-15, viewed 10 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-07-23 23:59:54'
-      date_gmt: '2013-07-23 13:59:54'
-      id: '1952'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | amen&#039;s blog
-      author_email: null
-      author_ip: 72.232.7.23
-      author_url: http://amenpullen.wordpress.com/2013/07/23/week-2/
-      content: "[&#8230;] \_Jones, D, Behrens, S , Jamieson, K &amp; Tansley, E 2004,\
-        \ The rise and fall of a shadow system: Lessons or Enterprise system Implementation,\
-        \ viewed 20 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2013-07-24 08:06:27'
-      date_gmt: '2013-07-23 22:06:27'
-      id: '1953'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2_Shadow Systems | muhammadakhtarerp
-      author_email: null
-      author_ip: 72.233.127.215
-      author_url: http://muhammadakhtarerp.wordpress.com/2013/07/24/week-2_shadow-systems/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d.,\_The\
-        \ rise and fall of a shadow system:lessons for enterprise system implementation,\
-        \ pp. 1-15, viewed 12 July 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2013-07-24 12:59:14'
-      date_gmt: '2013-07-24 02:59:14'
-      id: '1954'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "Week 2 \u2013 Shadow Systems | gqes"
-      author_email: null
-      author_ip: 72.232.7.103
-      author_url: http://gqes.wordpress.com/2013/07/28/week-2-shadow-systems/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        pp. 1-15, viewed 20 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-07-28 15:47:35'
-      date_gmt: '2013-07-28 05:47:35'
-      id: '1955'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | Enterprise Resource Planning Concepts
-      author_email: null
-      author_ip: 72.233.69.24
-      author_url: http://rabindra302.wordpress.com/2013/07/29/week-2/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E, The rise
-        and fall of a shadow system: lessons for enterprise system implementation, viewed
-        16 July 2013, http:// https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-07-29 11:24:44'
-      date_gmt: '2013-07-29 01:24:44'
-      id: '1956'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | COIT20230-Enterprise Resource Planning Concepts Blogs
-      author_email: null
-      author_ip: 66.155.9.143
-      author_url: http://skerp.wordpress.com/2013/08/10/week-2/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        pp. 1-15, viewed 2 August 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-08-10 19:28:10'
-      date_gmt: '2013-08-10 09:28:10'
-      id: '1957'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Week 2: Shadow System | 2blog4u'
-      author_email: null
-      author_ip: 72.232.7.50
-      author_url: http://teablogged.wordpress.com/2013/08/12/week-2-shadow-system/
-      content: '[&#8230;] https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-08-12 21:30:00'
-      date_gmt: '2013-08-12 11:30:00'
-      id: '1958'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week2 | sugamgautam
-      author_email: null
-      author_ip: 66.135.48.191
-      author_url: http://sugamgautam.wordpress.com/2013/07/08/week2/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
-        rise and fall of shadow system: Lessons for Enterprise System Implementation,
-        viewed 30 June 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;.
-        [&#8230;]'
-      date: '2013-08-12 22:45:09'
-      date_gmt: '2013-08-12 12:45:09'
-      id: '1959'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Week 2: Shadow System | Nimish Shrestha: Blog'
-      author_email: null
-      author_ip: 66.155.8.59
-      author_url: http://nstha2013.wordpress.com/2013/08/11/week-2-shadow-system/
-      content: '[&#8230;] The Weblog of (a) David Jones 2004, &#8220;The rise and fall
-        of a shadow system: Lessons for Enterprise System Implementation&#8221;, blog
-        post, viewed 3 August 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-08-14 17:10:21'
-      date_gmt: '2013-08-14 07:10:21'
-      id: '1960'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: muhammadakhtarcqu
-      author_email: null
-      author_ip: 216.151.210.49
-      author_url: http://muhammadakhtarcqu.wordpress.com/2013/08/14/6/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E, \u2018The\
-        \ rise and fall of a shadow system:lessons for enterprise system implementation,\
-        \ pp. 1-15, viewed 12 July 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2013-08-14 18:27:31'
-      date_gmt: '2013-08-14 08:27:31'
-      id: '1961'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | rishablalerp
-      author_email: null
-      author_ip: 76.74.254.8
-      author_url: http://rishablalerp.wordpress.com/2013/08/14/week-2/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
-        rise and fall of a shadow system: lessons for enterprise systems implementation,
-        https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-08-14 21:12:48'
-      date_gmt: '2013-08-14 11:12:48'
-      id: '1962'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: WEEK 2 | Pramod Rishal
-      author_email: null
-      author_ip: 66.135.48.189
-      author_url: http://pramodrishal.wordpress.com/2013/08/14/week-2/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d.,\_The\
-        \ rise and fall of a shadow system: lessons for enterprise system implementation,\
-        \ pp. 1-15, viewed 12 July 2012,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2013-08-14 21:18:29'
-      date_gmt: '2013-08-14 11:18:29'
-      id: '1963'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Neither strategy nor &#8220;space&#8221; to innovate is enough | The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.232.7.36
-      author_url: https://djon.es/blog/2013/08/16/neither-strategy-nor-space-to-innovate-is-enough/
-      content: '[&#8230;] The rise and fall of a shadow system: Lessons for Enterprise
-        System&nbsp;Implementation [&#8230;]'
-      date: '2013-08-16 15:33:59'
-      date_gmt: '2013-08-16 05:33:59'
-      id: '1964'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | kataevalex
-      author_email: null
-      author_ip: 66.155.8.98
-      author_url: http://kataevalex.wordpress.com/2013/11/10/week-2/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K, Tansley E, 2004,\_The rise\
-        \ and fall of a shadow system: Lessons for Enterprise System Implementation,\_\
-        viewed at 11 November 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2013-11-10 15:08:02'
-      date_gmt: '2013-11-10 05:08:02'
-      id: '1965'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: WEEK 2 COIS12073 | RASHIM ARORA
-      author_email: null
-      author_ip: 192.0.80.143
-      author_url: http://rockstarrishu.wordpress.com/2013/11/12/week-1-cois12073/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
-        \ rise and fall of a shadow system: lessons for enterprise system implementation,\
-        \ pp. 1-15, viewed 20 July 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2013-11-16 22:27:56'
-      date_gmt: '2013-11-16 12:27:56'
-      id: '1966'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: WEEK 2 SHADOW SYSTEMS | RASHIM ARORA
-      author_email: null
-      author_ip: 66.155.38.53
-      author_url: http://rockstarrishu.wordpress.com/2013/11/17/week-2/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
-        \ rise and fall of a shadow system: lessons for enterprise system implementation,\
-        \ pp. 1-15, viewed 20 July 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2013-11-17 21:36:56'
-      date_gmt: '2013-11-17 11:36:56'
-      id: '1967'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 3 | kataevalex
-      author_email: null
-      author_ip: 192.0.82.150
-      author_url: http://kataevalex.wordpress.com/2013/11/19/week-3/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K, Tansley E, 2004, The rise
-        and fall of a shadow system: Lessons for Enterprise System Implementation, viewed
-        at 11 November 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-11-19 13:08:37'
-      date_gmt: '2013-11-19 03:08:37'
-      id: '1968'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | reybop
-      author_email: null
-      author_ip: 66.135.48.166
-      author_url: http://reybop.wordpress.com/2013/11/04/erp-journal-week-1/
-      content: '[&#8230;] Jones, D et al (n.d) The rise and fall of a shadow system: lesson
-        for enterprise system implementation,available at https://davidtjones.wordpress.com/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-ente&#8230;
-        [&#8230;]'
-      date: '2013-11-22 17:18:49'
-      date_gmt: '2013-11-22 07:18:49'
-      id: '1969'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | reybop
-      author_email: null
-      author_ip: 66.155.38.25
-      author_url: http://reybop.wordpress.com/2013/11/25/week-2/
-      content: "[&#8230;] Jones, D et al (n.d) The rise and fall of a shadow system: lesson\
-        \ for enterprise system implementation,available at\_https://davidtjones.wordpress.com/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-ente&#8230;\
-        \ [&#8230;]"
-      date: '2013-11-25 10:09:19'
-      date_gmt: '2013-11-25 00:09:19'
-      id: '1970'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Week 2: COIS 12073 (ERP and shadow systems) | priyankakhan'
-      author_email: null
-      author_ip: 66.155.8.64
-      author_url: http://priyankakhan.wordpress.com/2013/11/28/week-2-cois-12073-erp-and-shadow-systems/
-      content: '[&#8230;] https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2013-11-28 17:17:06'
-      date_gmt: '2013-11-28 07:17:06'
-      id: '1971'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | Enterprise Resource Planning Concepts T3
-      author_email: null
-      author_ip: 66.155.8.186
-      author_url: http://ripsofskyerpt3.wordpress.com/2013/12/04/week-2/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
-        \ rise and fall of a shadow system: lessons for enterprise system implementation,\
-        \ pp. 1-15, viewed 02 Dec 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2013-12-05 03:54:08'
-      date_gmt: '2013-12-04 17:54:08'
-      id: '1972'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | rngokhang
-      author_email: null
-      author_ip: 76.74.255.91
-      author_url: http://rngokhang.wordpress.com/2013/12/09/week-2-2/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
-        \ rise and fall of a shadow system: lessons for enterprise system implementation,\
-        \ pp. 1-15, viewed 20 July 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2013-12-09 17:04:32'
-      date_gmt: '2013-12-09 07:04:32'
-      id: '1973'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Enterprise System- Week 2 | cuong200383
-      author_email: null
-      author_ip: 66.135.48.199
-      author_url: http://cuong200383.wordpress.com/2013/11/18/enterprise-system-week-2/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d, The\
-        \ rise and fall of a shadow system: lessons for enterprise system implementation,\
-        \ pp. 1-15, viewed 12th\_ December 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2013-12-23 07:34:53'
-      date_gmt: '2013-12-22 21:34:53'
-      id: '1974'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 9 | kataevalex
-      author_email: null
-      author_ip: 66.155.8.230
-      author_url: http://kataevalex.wordpress.com/2014/01/15/week-9/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K, Tansley E, 2004, The rise
-        and fall of a shadow system: Lessons for Enterprise System Implementation, viewed
-        06 January 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2014-01-15 10:37:26'
-      date_gmt: '2014-01-15 00:37:26'
-      id: '1975'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | susanconnolly2
-      author_email: null
-      author_ip: 192.0.80.48
-      author_url: http://susanconnolly2.wordpress.com/2014/06/23/week-2/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        pp. 1-15, viewed 10 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2014-06-23 22:12:04'
-      date_gmt: '2014-06-23 12:12:04'
-      id: '1976'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | dp167
-      author_email: null
-      author_ip: 192.0.82.155
-      author_url: http://dp167.wordpress.com/2014/07/10/week-2/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
-        \ rise and fall of a shadow system: lessons for enterprise system implementation,\
-        \ pp. 1-15, viewed 20 July 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2014-07-10 10:51:15'
-      date_gmt: '2014-07-10 00:51:15'
-      id: '1977'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | gagzassessment
-      author_email: null
-      author_ip: 192.0.82.135
-      author_url: http://gagzassessment.wordpress.com/2014/07/11/week-2/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
-        \ rise and fall of a shadow system: lessons for enterprise system implementation,\
-        \ pp. 1-15, viewed 20 July 2013,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2014-07-11 19:30:05'
-      date_gmt: '2014-07-11 09:30:05'
-      id: '1978'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | syederpblog
-      author_email: null
-      author_ip: 192.0.81.105
-      author_url: http://syederpblog.wordpress.com/2014/07/12/week-2/
-      content: "[&#8230;] Jones, D., Behrens, S., Jamieson, K. &amp; Tansley, E. 2004,\u2019\
-        The rise and fall of a shadow system: lessons for enterprise system implementation\u2019\
-        , viewed 11 July 2014,\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2014-07-12 22:20:11'
-      date_gmt: '2014-07-12 12:20:11'
-      id: '1979'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | shankarb
-      author_email: null
-      author_ip: 207.198.101.17
-      author_url: http://shankarb.wordpress.com/2014/07/12/week-2/
-      content: '[&#8230;] Jones, D., Behrens, S., Jamieson, K., Tansley, E., 2004,The
-        Rise and Fall of a Shadow System, Lessons for Enterprise System Implementation,
-        viewed 12 July 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2014-07-13 04:19:01'
-      date_gmt: '2014-07-12 18:19:01'
-      id: '1980'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | akramali50
-      author_email: null
-      author_ip: 66.155.8.230
-      author_url: http://akramali50.wordpress.com/2014/07/13/week-2/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K, &amp; Tansley, E 2004,\_\
-        The Rise and Fall of a Shadow System, viewed 11 July 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2014-07-13 21:57:45'
-      date_gmt: '2014-07-13 11:57:45'
-      id: '1982'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | ERP
-      author_email: null
-      author_ip: 66.135.48.246
-      author_url: http://tashvirerp.wordpress.com/2014/07/13/week-2/
-      content: "[&#8230;] Jones D, Behrens S, Jamieson K &amp; Tansley E 2004, \u201C\
-        The rise and fall of a shadow system: lessons for enterprise system implementation\u201D\
-        , pp. 1-15, viewed 12 July 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2014-07-13 22:44:35'
-      date_gmt: '2014-07-13 12:44:35'
-      id: '1983'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | myblogsth
-      author_email: null
-      author_ip: 66.135.48.246
-      author_url: http://myblogsth.wordpress.com/2014/07/13/week-2/
-      content: "[&#8230;] \_Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The\
-        \ rise and fall of a shadow system: lessons for enterprise system implementation,\
-        \ viewed 12 July 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2014-07-13 23:28:15'
-      date_gmt: '2014-07-13 13:28:15'
-      id: '1984'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | mrthompsoncqu
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: http://mrthompsoncqu.wordpress.com/2014/07/16/week-2/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        pp. 1-15, viewed 16 July 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2014-07-20 16:57:55'
-      date_gmt: '2014-07-20 06:57:55'
-      id: '1988'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: week &#8211; 2 | dineshchowdaryerp
-      author_email: null
-      author_ip: 192.0.81.33
-      author_url: http://dineshchowdaryerp.wordpress.com/2014/07/20/week-2/
-      content: "[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d.,\_The\
-        \ rise and fall of a shadow system: lessons for enterprise system implementation,\
-        \ pp. 1-15, viewed 10 July 2013,https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;\
-        \ [&#8230;]"
-      date: '2014-07-20 22:21:14'
-      date_gmt: '2014-07-20 12:21:14'
-      id: '1989'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2- Shadow Systems | mailingsakshi
-      author_email: null
-      author_ip: 66.155.38.23
-      author_url: http://mailingsakshi.wordpress.com/2014/07/26/week-2-shadow-systems/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        pp. 1-15, viewed 2 August 2012,https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2014-07-26 18:28:58'
-      date_gmt: '2014-07-26 08:28:58'
-      id: '1991'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | My CQU Blog
-      author_email: null
-      author_ip: 192.0.83.49
-      author_url: http://mycqublog2014t2.wordpress.com/2014/07/22/week-2/
-      content: '[&#8230;] Jones, D., Behrens, S., Jamieson, K., &amp; Tansley, E. (2004).
-        The Rise and Fall of Shadow Systems: Lessons for Enterprise System Implementation.
-        Retrieved July 10, 2014, from David Jones: https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2014-07-27 16:10:57'
-      date_gmt: '2014-07-27 06:10:57'
-      id: '1992'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2 | Mohammed Kashif
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: http://kassid21.wordpress.com/2014/07/23/week-2/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        pp. 1-15, viewed 30 July 2014, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2014-07-30 18:09:03'
-      date_gmt: '2014-07-30 08:09:03'
-      id: '1993'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: week 2 shadow systems | blessingston77
-      author_email: null
-      author_ip: 66.135.48.142
-      author_url: http://blessingston77.wordpress.com/2014/08/03/week-2-shadow-systems/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E n.d., The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        pp. 1-15, viewed 2 August 2012, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2014-08-03 16:32:45'
-      date_gmt: '2014-08-03 06:32:45'
-      id: '1994'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week-2 SHADOW SYSTEMS | tgsshravanblog
-      author_email: null
-      author_ip: 192.0.81.76
-      author_url: http://tgsshravanblog.wordpress.com/2014/08/03/week-2-shadow-systems/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        pp. 1-15, viewed 20 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2014-08-03 18:56:29'
-      date_gmt: '2014-08-03 08:56:29'
-      id: '1995'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Week 2- Shadow Systems | rajavamsiavuthu
-      author_email: null
-      author_ip: 76.74.248.175
-      author_url: http://rajavamsiavuthu.wordpress.com/2014/08/03/week-2-shadow-systems/
-      content: "[&#8230;] and fall of a shadow system: Lessons for Enterprise System Implementation.\
-        \ [ONLINE] Available at:\_https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;.\
-        \ [Accessed 01 August [&#8230;]"
-      date: '2014-08-04 09:34:02'
-      date_gmt: '2014-08-03 23:34:02'
-      id: '1998'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Assignement 1(week 2) | hello
-      author_email: null
-      author_ip: 207.198.101.58
-      author_url: http://akhilesherp.wordpress.com/2014/07/16/assignement-1week-2/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        pp. 1-15, viewed 20 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2014-08-13 17:36:22'
-      date_gmt: '2014-08-13 07:36:22'
-      id: '2000'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: WEEK 2 | aashisherp
-      author_email: null
-      author_ip: 66.155.9.55
-      author_url: http://aashisherp.wordpress.com/2014/08/13/week-2/
-      content: '[&#8230;] Jones, D, Behrens, S, Jamieson, K &amp; Tansley, E 2004, The
-        rise and fall of a shadow system: lessons for enterprise system implementation,
-        pp. 1-15, viewed 20 July 2013, https://djon.es/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enter&#8230;
-        [&#8230;]'
-      date: '2014-08-14 01:12:39'
-      date_gmt: '2014-08-13 15:12:39'
-      id: '2001'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Established versus Affordances: part of the reason institutional e-learning
-        is like teenage sex | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.81.123
-      author_url: https://djon.es/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/
-      content: '[&#8230;] The rise and fall of a shadow system: Lessons for Enterprise
-        System&nbsp;Implementation [&#8230;]'
-      date: '2014-11-07 10:29:25'
-      date_gmt: '2014-11-07 00:29:25'
-      id: '2002'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: All models are wrong, but some are useful and its application to e-learning
-        | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.101.57
-      author_url: https://davidtjones.wordpress.com/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
-      content: '[&#8230;] The rise and fall of a shadow system: Lessons for Enterprise
-        System&nbsp;Implementation [&#8230;]'
-      date: '2015-08-28 09:04:45'
-      date_gmt: '2015-08-27 23:04:45'
-      id: '2003'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Re-purposing V&amp;R mapping to explore modification of digital learning
-        spaces | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.80.159
-      author_url: https://davidtjones.wordpress.com/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/
-      content: '[&#8230;] At worst they are labelled as duplication, inefficient, unsafe,
-        and feral. They are seen as shadow systems. Systems and changes that are undesirable
-        and should be rooted [&#8230;]'
-      date: '2015-10-28 12:30:56'
-      date_gmt: '2015-10-28 02:30:56'
-      id: '2004'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Preparing my digital &#8220;learning space&#8221; &#8211; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 192.0.86.139
-      author_url: https://davidtjones.wordpress.com/2016/03/04/preparing-my-digital-learning-space/
-      content: '[&#8230;] able to work around the significant constraints caused by the
-        SET mindset and in the process create shadow systems, which in turn illustrates
-        the presence of a gap (i.e. yawning chasm) between what is provided and [&#8230;]'
-      date: '2016-07-07 14:54:30'
-      date_gmt: '2016-07-07 04:54:30'
-      id: '2005'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Sandy Behrens, Kieren Jamieson, Elizabeth Tansley
 
@@ -958,7 +955,7 @@ Shadows systems have generally been declared an undesirable phenomenon within th
 
 This framework illustrates that shadow systems arise due to a construct termed the "gap". This gap is the separation between the requirements of the various stakeholders within an organisation and what the ERP system implementation provides. The extent of the gap is a combination of both causal and intervening conditions. Causal conditions - sets of events that influence the creation of the gap - include the characteristics of the people, business process, organisation and technology present when an ES is implemented. Intervening conditions - which mitigate or alter the impact of the causal conditions - include the availability of resources and support for the shadow system. This theoretical framework provides the lens with which we will analyse our case study.
 
-[![Factors contributing to shadow systems](images/3146767646_4f400a76a4_o.gif)](http://www.flickr.com/photos/david_jones/3146767646/ "Factors contributing to shadow systems by David T Jones, on Flickr")
+[![Factors contributing to shadow systems](https://djon.es/assets/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/images/3146767646_4f400a76a4_o.gif)](http://www.flickr.com/photos/david_jones/3146767646/ "Factors contributing to shadow systems by David T Jones, on Flickr")
 
 Figure 1. Factors causing shadow systems in an ERP system context (adapted from Behrens and Sedera, 2004).
 

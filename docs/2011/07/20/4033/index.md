@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-07-20 12:22:04+10:00
+date: 2011-07-20 02:22:04
 next:
   text: What story do the numbers tell?
   url: /blog/2011/07/24/what-story-do-the-numbers-tell/
 previous:
   text: Teaching teachers for the future
   url: /blog/2011/07/19/teaching-teachers-for-the-future/
+template: blog-post.html
 title: Can you be a native in a world that is always changing?
 type: post
-template: blog-post.html
 ---
 So I'm working on an assignment examining and critiquing the government's [Digital Education Revolution](http://www.deewr.gov.au/Schooling/DigitalEducationRevolution/Pages/default.aspx) (DER). It looks like the argument I'm going to make is that it won't be a success. Where success is defined as achieving its goals, which is to
 

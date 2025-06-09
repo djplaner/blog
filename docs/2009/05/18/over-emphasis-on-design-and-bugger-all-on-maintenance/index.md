@@ -1,89 +1,86 @@
----
+﻿---
 categories:
 - elearning
 - moodle
-date: 2009-05-18 11:00:44+10:00
+comments:
+- approved: '1'
+  author: jocene
+  author_email: j.vallack@cqu.edu.au
+  author_ip: 138.77.2.131
+  author_url: null
+  content: 'What are the factors that encourage/require an academic to make changes
+    to a course?
+
+    Ans. AUQA
+
+    The problem is always about the extrinsic motivational factor.'
+  date: '2009-05-18 12:53:28'
+  date_gmt: '2009-05-18 02:53:28'
+  id: '2510'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'To a large extent I believe you''re correct about the extrinsic motivational
+    factor. But I also think that is wrong and also that it''s incredibly difficult
+    to change.
+
+
+    All of the best teachers at university that I''ve known are intrinsically motivated.
+    They are driven to understand how to improve their courses.
+
+
+    While the system relies on extrinsic factors - and does so badly - then any form
+    of academic staff training and development or curriculum design is wasted.
+
+
+    At the moment, too much of the system is focused on things that encourage a reliance
+    on extrinsic factors and are actually harmful to intrinsic motivation.
+
+
+    What are they?  What can be done to change it?'
+  date: '2009-05-18 13:23:48'
+  date_gmt: '2009-05-18 03:23:48'
+  id: '2511'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: "Actually, I'd even argue against the proposition that\n   AUQA = academics\
+    \ change course\n\nI think it's a lot more indirect than that.  I don't think\
+    \ AUQA plays a very large role in the day to day live of academics.\n\nI think\
+    \ it's more like this\n- AUQA is coming soon\n- Organisation gets worried\n- Sets\
+    \ up or beefs up unit responsible for preparing AUQA submission\n- They analyse\
+    \ what is required and identify weaknesses\n- Those weaknesses are then raised\
+    \ at senior levels of the organisation\n- Any concerns start to dribble down the\
+    \ hierarchy until it gets to coal-face academics\n- At this stage they may change\
+    \ courses\n\nBut even by this model, I think the amount would be quite small.\n\
+    \ndavid."
+  date: '2009-05-18 13:42:21'
+  date_gmt: '2009-05-18 03:42:21'
+  id: '2512'
+  parent: '2510'
+  type: comment
+  user_id: '1'
+date: 2009-05-18 01:00:44
 next:
   text: Quality assurance of learning and teaching
   url: /blog/2009/05/18/quality-assurance-of-learning-and-teaching/
+pingbacks: []
 previous:
   text: Lessons from place
   url: /blog/2009/05/17/lessons-from-place/
+template: blog-post.html
 title: Over emphasis on design and bugger all on maintenance
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: jocene
-      author_email: j.vallack@cqu.edu.au
-      author_ip: 138.77.2.131
-      author_url: null
-      content: 'What are the factors that encourage/require an academic to make changes
-        to a course?
-    
-        Ans. AUQA
-    
-        The problem is always about the extrinsic motivational factor.'
-      date: '2009-05-18 12:53:28'
-      date_gmt: '2009-05-18 02:53:28'
-      id: '2510'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'To a large extent I believe you''re correct about the extrinsic motivational
-        factor. But I also think that is wrong and also that it''s incredibly difficult
-        to change.
-    
-    
-        All of the best teachers at university that I''ve known are intrinsically motivated.
-        They are driven to understand how to improve their courses.
-    
-    
-        While the system relies on extrinsic factors - and does so badly - then any form
-        of academic staff training and development or curriculum design is wasted.
-    
-    
-        At the moment, too much of the system is focused on things that encourage a reliance
-        on extrinsic factors and are actually harmful to intrinsic motivation.
-    
-    
-        What are they?  What can be done to change it?'
-      date: '2009-05-18 13:23:48'
-      date_gmt: '2009-05-18 03:23:48'
-      id: '2511'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: "Actually, I'd even argue against the proposition that\n   AUQA = academics\
-        \ change course\n\nI think it's a lot more indirect than that.  I don't think\
-        \ AUQA plays a very large role in the day to day live of academics.\n\nI think\
-        \ it's more like this\n- AUQA is coming soon\n- Organisation gets worried\n- Sets\
-        \ up or beefs up unit responsible for preparing AUQA submission\n- They analyse\
-        \ what is required and identify weaknesses\n- Those weaknesses are then raised\
-        \ at senior levels of the organisation\n- Any concerns start to dribble down the\
-        \ hierarchy until it gets to coal-face academics\n- At this stage they may change\
-        \ courses\n\nBut even by this model, I think the amount would be quite small.\n\
-        \ndavid."
-      date: '2009-05-18 13:42:21'
-      date_gmt: '2009-05-18 03:42:21'
-      id: '2512'
-      parent: '2510'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 I have a quote from software engineering that I have been quoting for a long time. It's from Glass (2001) and says that when building software, 40 to 80% of the costs are going to be for maintenance. i.e. Only from 20 to 60% of the costs are going to for the initial development or purchase.
 

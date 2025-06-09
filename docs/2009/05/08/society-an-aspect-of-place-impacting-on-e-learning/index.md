@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,76 +6,73 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-05-08 09:32:18+10:00
+comments: []
+date: 2009-05-07 23:32:18
 next:
   text: Sector - another part of Place
   url: /blog/2009/05/08/sector-another-part-of-place/
+pingbacks:
+- approved: '1'
+  author: Sector &#8211; another part of Place &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/05/08/sector-another-part-of-place/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Society &#8211; an aspect of Place impacting on&nbsp;e-learning [...]'
+  date: '2009-05-08 12:17:33'
+  date_gmt: '2009-05-08 02:17:33'
+  id: '2483'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #10 &#8211; Dragging on &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/05/08/phd-update-10-dragging-on/
+  content: '[...] &#8211; only partially done.I have completed and posted three parts
+    of this: the introduction, society, and [...]'
+  date: '2009-05-08 15:59:53'
+  date_gmt: '2009-05-08 05:59:53'
+  id: '2484'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Institution &#8211; another part of place &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/05/15/institution-another-part-of-place/
+  content: '[...] previous sections have focused on the nature of changes to the society
+    (2.1.1 &#8211; Society) and the impact of these changes on the higher education
+    sector (2.1.2 &#8211; Sector). This [...]'
+  date: '2009-05-15 15:13:49'
+  date_gmt: '2009-05-15 05:13:49'
+  id: '2485'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What are the conditions that are conducive to the creation of a variety
+    of new ideas? &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/05/25/what-are-the-conditions-that-are-conducive-to-the-creation-of-a-variety-of-new-ideas/
+  content: '[...] the growing influence of managerialization within society and the
+    increasing moves to standardisation and accountability within higher [...]'
+  date: '2009-05-25 14:51:56'
+  date_gmt: '2009-05-25 04:51:56'
+  id: '2486'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Pondering a new position - request for help
   url: /blog/2009/05/07/pondering-a-new-position/
+template: blog-post.html
 title: Society - an aspect of Place impacting on e-learning
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Sector &#8211; another part of Place &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/05/08/sector-another-part-of-place/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Society &#8211; an aspect of Place impacting on&nbsp;e-learning [...]'
-      date: '2009-05-08 12:17:33'
-      date_gmt: '2009-05-08 02:17:33'
-      id: '2483'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #10 &#8211; Dragging on &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/05/08/phd-update-10-dragging-on/
-      content: '[...] &#8211; only partially done.I have completed and posted three parts
-        of this: the introduction, society, and [...]'
-      date: '2009-05-08 15:59:53'
-      date_gmt: '2009-05-08 05:59:53'
-      id: '2484'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Institution &#8211; another part of place &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/05/15/institution-another-part-of-place/
-      content: '[...] previous sections have focused on the nature of changes to the society
-        (2.1.1 &#8211; Society) and the impact of these changes on the higher education
-        sector (2.1.2 &#8211; Sector). This [...]'
-      date: '2009-05-15 15:13:49'
-      date_gmt: '2009-05-15 05:13:49'
-      id: '2485'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What are the conditions that are conducive to the creation of a variety
-        of new ideas? &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/05/25/what-are-the-conditions-that-are-conducive-to-the-creation-of-a-variety-of-new-ideas/
-      content: '[...] the growing influence of managerialization within society and the
-        increasing moves to standardisation and accountability within higher [...]'
-      date: '2009-05-25 14:51:56'
-      date_gmt: '2009-05-25 04:51:56'
-      id: '2486'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following, finally, is a first draft of the sector section of the ["Place" component](/blog/2009/05/06/place-component-of-the-ps-framework/) of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). This is all meant to be part of chapter 2 of my [thesis](/blog/research/phd-thesis/).
 

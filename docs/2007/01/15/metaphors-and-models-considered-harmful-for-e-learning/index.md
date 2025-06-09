@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - paperideas
-date: 2007-01-15 13:41:24+10:00
+date: 2007-01-15 03:41:24
 next:
   text: LMS Governance Report - a summary and reflection
   url: /blog/2007/01/15/lms-governance-report-a-summary-and-reflection/
 previous:
   text: Breakthrough learning - what lessons for staff development of academics?
   url: /blog/2007/01/12/breakthrough-learning-what-lessons-for-staff-development-of-academics/
+template: blog-post.html
 title: Metaphors and models considered harmful for e-learning
 type: post
-template: blog-post.html
 ---
 The adoption, implementation and support of e-learning is a difficult and extremely complex act. A variety of metaphors and models are drawn upon by participants to reduce the difficulty involved. These metaphors and models represent fundamental understandings of the participants and directly influences the decisions they make.
 

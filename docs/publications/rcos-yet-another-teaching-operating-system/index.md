@@ -1,8 +1,8 @@
----
-date: 2009-01-02 01:04:27+10:00
+﻿---
+date: 2009-01-01 15:04:27
+template: blog-post.html
 title: '"RCOS: Yet Another Teaching Operating System"'
 type: page
-template: blog-post.html
 ---
 Ron Chernich, Bruce Jamieson, David Jones, RCOS: Yet another teaching operating system, Proceedings of the First Australasian Conference on Computer Science Education.
 
@@ -63,7 +63,7 @@ The supervisor shell provides the graphical animation (Figure 1) and user contro
 
 The services of the host operating system are accessed through a platform abstraction layer (PAL) that provides a standard application programmer's interface (API) for graphics, I/O and timing functions. Porting RCOS to a new platform is achieved by implementing the PAL on the new platform. Some additional work might be required to deal with the different interpretations of the C++ language performed by some compilers.
 
-[![RCOS CPU Scheduling screen](images/3155575043_734881cd22_m.jpg)](http://www.flickr.com/photos/david_jones/3155575043/ "RCOS CPU Scheduling screen by David T Jones, on Flickr")
+[![RCOS CPU Scheduling screen](https://djon.es/assets/blog/publications/rcos-yet-another-teaching-operating-system/images/3155575043_734881cd22_m.jpg)](http://www.flickr.com/photos/david_jones/3155575043/ "RCOS CPU Scheduling screen by David T Jones, on Flickr")
 
 **Figure 1 - The RCOS CPU Scheduler Screen**
 
@@ -81,7 +81,7 @@ The supervisor interface is divided into four separate screens (one is pictured 
 
 RCOS is designed using the micro-kernel/message-passing approach that is becoming popular in modern operating systems. The kernel of RCOS provides the basic message passing facility that is used by the other components of the operating system to communicate. The remaining functionality of the operating system is implemented using separate modules that respond to pre-defined messages. Figure 2 shows the hierarchy and interaction between the components of RCOS.
 
-[![Structure of RCOS](images/3155588427_2c79770184_m.jpg)](http://www.flickr.com/photos/david_jones/3155588427/ "Structure of RCOS by David T Jones, on Flickr")
+[![Structure of RCOS](https://djon.es/assets/blog/publications/rcos-yet-another-teaching-operating-system/images/3155588427_2c79770184_m.jpg)](http://www.flickr.com/photos/david_jones/3155588427/ "Structure of RCOS by David T Jones, on Flickr")
 
 **Figure 2 - RCOS Structure**
 

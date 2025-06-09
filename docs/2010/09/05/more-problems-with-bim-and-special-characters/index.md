@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bimerrors
-date: 2010-09-05 18:04:00+10:00
+date: 2010-09-05 08:04:00
 next:
   text: Back into the thesis
   url: /blog/2010/09/13/back-into-the-thesis/
 previous:
   text: Light-weight analytics tools as part of scaffolding, context-sensitive conglomerations
   url: /blog/2010/09/04/light-weight-analytics-tools-as-part-of-scaffolding-context-sensitive-conglomerations/
+template: blog-post.html
 title: More problems with BIM and special characters
 type: post
-template: blog-post.html
 ---
 The following is a record of some work to investigate some more apparent problem with BIM mirroring blog posts that contain "special" characters due to a bit of copying and pasting from Word into Wordpress.
 

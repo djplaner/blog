@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - bim2
-date: 2012-04-11 21:23:31+10:00
+comments: []
+date: 2012-04-11 11:23:31
 next:
   text: Mind the gap - a big problem with institutional e-learning
   url: /blog/2012/04/13/mind-the-gap-a-big-problem-with-institutional-e-learning/
+pingbacks:
+- approved: '1'
+  author: Bug fix and to do for BIM &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.110
+  author_url: https://djon.es/blog/2012/12/28/bug-fix-and-to-do-for-bim/
+  content: '[...] of an earlier attempt to investigate this, so time to revisit prior
+    posts on BIM development. This post identifies the location of the [...]'
+  date: '2012-12-28 11:22:07'
+  date_gmt: '2012-12-28 01:22:07'
+  id: '313'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Why learning management systems will probably go away
   url: /blog/2012/04/06/why-learning-management-systems-will-probably-go-away/
+template: blog-post.html
 title: bim2 - working on coordinator - part 1
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Bug fix and to do for BIM &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.110
-      author_url: https://djon.es/blog/2012/12/28/bug-fix-and-to-do-for-bim/
-      content: '[...] of an earlier attempt to investigate this, so time to revisit prior
-        posts on BIM development. This post identifies the location of the [...]'
-      date: '2012-12-28 11:22:07'
-      date_gmt: '2012-12-28 01:22:07'
-      id: '313'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 More work on bim2, this one starting work on the [previously identified tasks](/blog/2012/04/05/bim2-whats-working-for-coordinator/). Find out what [BIM is here](/blog/research/bam-blog-aggregation-management/).
 

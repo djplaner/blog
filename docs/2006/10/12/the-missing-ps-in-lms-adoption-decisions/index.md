@@ -1,24 +1,20 @@
----
+﻿---
 categories:
 - elearning
 - missingps
 - webfuse
-date: 2006-10-12 18:35:46+10:00
+comments: []
+date: 2006-10-12 08:35:46
 next:
   text: Question allocation difficulties - BAM
   url: /blog/2006/10/16/question-allocation-difficulties-bam/
+pingbacks: []
 previous:
   text: The missing ground rule for Enterprise 2.0
   url: /blog/2006/10/12/the-missing-ground-rule-for-enterprise-20/
+template: blog-post.html
 title: The missing Ps in LMS adoption decisions
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 For, what seems the longest time, [CQU](http://www.cqu.edu.au/) has been talking about the need to evaluate and choose yet another LMS. We've sort of done this two times before, and from my perspective, both adoption decisions have been fatally flawed. Some discussion about those processes can be found, to a lesser or greater extent, in a variety of publications by CQU authors including: [Danaher, Luck and McConachie](http://sleid.cqu.edu.au/include/getdoc.php?id=191&article=52&mode=pdf) (2005), [Sturgess and Nouwens](http://tojde.anadolu.edu.tr/tojde15/articles/sturgess.htm) (2005), and [Jones, Luck, McConachie and Danaher](http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/Brake/) (2005)
 

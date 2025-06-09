@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-04-08 14:56:23+10:00
+comments:
+- approved: '1'
+  author: kwilco
+  author_email: kevin.wilcoxon@unlv.edu
+  author_ip: 131.216.14.1
+  author_url: null
+  content: 'Wow, David.  Thanks for turning me onto "It is not television anymore:
+
+    Designing digital video for learning and assessment"  What a great tool!
+
+
+    Kevin'
+  date: '2011-04-09 03:49:38'
+  date_gmt: '2011-04-08 17:49:38'
+  id: '54'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2011-04-08 04:56:23
 next:
   text: Mathematics and the net generation - not in textbook exercises
   url: /blog/2011/04/08/mathematics-and-the-net-generation-not-in-textbook-exercises/
+pingbacks: []
 previous:
   text: Why are we analysing ICTs for learning?
   url: /blog/2011/04/07/why-are-we-analysing-icts-for-learning/
+template: blog-post.html
 title: Group 3 Technologies - The readings
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: kwilco
-      author_email: kevin.wilcoxon@unlv.edu
-      author_ip: 131.216.14.1
-      author_url: null
-      content: 'Wow, David.  Thanks for turning me onto "It is not television anymore:
-    
-        Designing digital video for learning and assessment"  What a great tool!
-    
-    
-        Kevin'
-      date: '2011-04-09 03:49:38'
-      date_gmt: '2011-04-08 17:49:38'
-      id: '54'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 So, these are tools to "present learning or information". The chosen representatives are Powerpoint, Prezi and Glogster. Am thinking I'm might try a quick search for some alternatives, time permitting.
 
@@ -93,13 +90,13 @@ Apparently Prezi is good for including the justification but not letting it get 
 
 So, here's the high level structure in the following screenshot of Prezi.
 
-[![Evolution of a prezi - Step 1](images/5598844253_0ccd0cf241_m.jpg)](http://www.flickr.com/photos/david_jones/5598844253/ "Evolution of a prezi - Step 1 by David T Jones, on Flickr")
+[![Evolution of a prezi - Step 1](https://djon.es/assets/blog/2011/04/08/group-3-technologies-the-readings/images/5598844253_0ccd0cf241_m.jpg)](http://www.flickr.com/photos/david_jones/5598844253/ "Evolution of a prezi - Step 1 by David T Jones, on Flickr")
 
 This defines the high level frames. The idea now is to expand each of the frames into its sub-components. So, zoom in and work on each frame in turn. In order to experiment, I might go overboard a bit with the frames related capabilities.
 
 So, here's it all a bit fleshed out. I could probably lay it out better, but this is just an experiment, don't want to waste too much time.
 
-[![Evolution of a prezi - Step 2](images/5598844361_a6a65bac85_m.jpg)](http://www.flickr.com/photos/david_jones/5598844361/ "Evolution of a prezi - Step 2 by David T Jones, on Flickr")
+[![Evolution of a prezi - Step 2](https://djon.es/assets/blog/2011/04/08/group-3-technologies-the-readings/images/5598844361_a6a65bac85_m.jpg)](http://www.flickr.com/photos/david_jones/5598844361/ "Evolution of a prezi - Step 2 by David T Jones, on Flickr")
 
 #### Polish up the content
 
@@ -116,7 +113,7 @@ I plan to reuse a bunch of multimedia I already have/know about
 
 And done, probably spent too much time on it. The image below shows it in action. Use [this link](http://prezi.com/d8abiwl_0sw_/the-disease-of-big-up-front-design/) to see it in action (embedding Prezis in a Wordpress.com blog is not straight forward).
 
-[![Complete Prezi](images/5599285497_542888dea0_m.jpg)](http://www.flickr.com/photos/david_jones/5599285497/ "Complete Prezi by David T Jones, on Flickr")
+[![Complete Prezi](https://djon.es/assets/blog/2011/04/08/group-3-technologies-the-readings/images/5599285497_542888dea0_m.jpg)](http://www.flickr.com/photos/david_jones/5599285497/ "Complete Prezi by David T Jones, on Flickr")
 
 It's by no means complete. The spacing, sizes and rotations of the different components could be improved. There are also some content issues and there are sections which are very "powerpoint".
 

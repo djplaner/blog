@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bim
-date: 2010-01-17 10:25:40+10:00
+comments: []
+date: 2010-01-17 00:25:40
 next:
   text: BIM - manage marking - view and release
   url: /blog/2010/01/17/bim-manage-marking-view-and-release/
+pingbacks:
+- approved: '1'
+  author: BIM &#8211; manage marking &#8211; view and release &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.67
+  author_url: https://djon.es/blog/2010/01/17/bim-manage-marking-view-and-release/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BIM &#8211; Manage&nbsp;Marking [...]'
+  date: '2010-01-17 22:20:38'
+  date_gmt: '2010-01-17 12:20:38'
+  id: '2914'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - question management/configuration
   url: /blog/2010/01/13/bim-question-managementconfiguration/
+template: blog-post.html
 title: BIM - Manage Marking
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM &#8211; manage marking &#8211; view and release &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.67
-      author_url: https://djon.es/blog/2010/01/17/bim-manage-marking-view-and-release/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BIM &#8211; Manage&nbsp;Marking [...]'
-      date: '2010-01-17 22:20:38'
-      date_gmt: '2010-01-17 12:20:38'
-      id: '2914'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 We come to the main last collection of functionality required of BIM to be operation (a major tidy up is needed after this, but it's getting there). That last collection is currently going under the label "Manage Marking". It covers the functionality required by the teacher in charge of a course to manage the marking being done by other staff, this includes the following tasks:
 

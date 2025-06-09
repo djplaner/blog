@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - web-20-course-sites
-date: 2007-06-12 20:34:17+10:00
+date: 2007-06-12 10:34:17
 next:
   text: Thoughts on Carrick Awards Forum
   url: /blog/2007/06/13/thoughts-on-carrick-awards-forum/
 previous:
   text: CQU&#039;s first Web 2.0 course site?
   url: /blog/2007/06/12/cqus-first-web-20-course-site/
+template: blog-post.html
 title: Creating a podcast that students/staff can contribute to
 type: post
-template: blog-post.html
 ---
 One of the requirements in the Web 2.0 course site for Creative Futuring is to have a podcast that both students and staff can contribute to. The intent is not so much that they will create their own resources but that they will tag interesting podcast episodes that they come across on the web.
 

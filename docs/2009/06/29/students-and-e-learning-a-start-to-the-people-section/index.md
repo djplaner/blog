@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,80 +6,77 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-06-29 12:01:09+10:00
+comments: []
+date: 2009-06-29 02:01:09
 next:
   text: Alternative to clickers - freeing up the physical location limitation
   url: /blog/2009/06/30/alternative-to-clickers/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #16 &#8211; return from a break &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/07/05/phd-update-16-return-from-a-break/
+  content: '[...] some extent that&#8217;s been done. I have a structure and I have
+    completed a draft of the first major section on Students. That draft includes
+    an overview of what I think the structure for the People component will [...]'
+  date: '2009-07-05 14:03:45'
+  date_gmt: '2009-07-05 04:03:45'
+  id: '2623'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Academics &#8211; the next part of the People section &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.152
+  author_url: https://djon.es/blog/2009/07/07/academics-the-next-part-of-the-people-section/
+  content: '[...] of the People section for chapter 2 of my thesis. The People section
+    was started a week ago with this post. This one takes up the task of saying something
+    about academic staff, subsequent and soon to be [...]'
+  date: '2009-07-07 23:42:03'
+  date_gmt: '2009-07-07 13:42:03'
+  id: '2624'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Leaders and managers &#8211; the next bit of People &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.75
+  author_url: https://djon.es/blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/
+  content: '[...] continues the recent work on the People component of the Ps Framework.
+    So far, I&#8217;ve done students and teaching/academic staff. This post looks
+    at leaders and managers (badly). I&#8217;m working on [...]'
+  date: '2009-07-17 14:42:37'
+  date_gmt: '2009-07-17 04:42:37'
+  id: '2625'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons for e-learning from people &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.201
+  author_url: https://djon.es/blog/2009/08/17/lessons-for-e-learning-from-people/
+  content: '[...] involved with e-learning. This has included descriptions of the
+    characteristics of the people (Students, Academic Staff, Leaders and Managers
+    and Support Staff) involved with e-learning (Section 2.1.1); [...]'
+  date: '2009-12-22 21:58:41'
+  date_gmt: '2009-12-22 11:58:41'
+  id: '2626'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Confirmation bias, the Tolstoy Syndrome and pattern entrainment
   url: /blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
+template: blog-post.html
 title: Students and e-learning - a start to the People section
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #16 &#8211; return from a break &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/07/05/phd-update-16-return-from-a-break/
-      content: '[...] some extent that&#8217;s been done. I have a structure and I have
-        completed a draft of the first major section on Students. That draft includes
-        an overview of what I think the structure for the People component will [...]'
-      date: '2009-07-05 14:03:45'
-      date_gmt: '2009-07-05 04:03:45'
-      id: '2623'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Academics &#8211; the next part of the People section &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.152
-      author_url: https://djon.es/blog/2009/07/07/academics-the-next-part-of-the-people-section/
-      content: '[...] of the People section for chapter 2 of my thesis. The People section
-        was started a week ago with this post. This one takes up the task of saying something
-        about academic staff, subsequent and soon to be [...]'
-      date: '2009-07-07 23:42:03'
-      date_gmt: '2009-07-07 13:42:03'
-      id: '2624'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Leaders and managers &#8211; the next bit of People &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.75
-      author_url: https://djon.es/blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/
-      content: '[...] continues the recent work on the People component of the Ps Framework.
-        So far, I&#8217;ve done students and teaching/academic staff. This post looks
-        at leaders and managers (badly). I&#8217;m working on [...]'
-      date: '2009-07-17 14:42:37'
-      date_gmt: '2009-07-17 04:42:37'
-      id: '2625'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons for e-learning from people &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.201
-      author_url: https://djon.es/blog/2009/08/17/lessons-for-e-learning-from-people/
-      content: '[...] involved with e-learning. This has included descriptions of the
-        characteristics of the people (Students, Academic Staff, Leaders and Managers
-        and Support Staff) involved with e-learning (Section 2.1.1); [...]'
-      date: '2009-12-22 21:58:41'
-      date_gmt: '2009-12-22 11:58:41'
-      id: '2626'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is the first step in the People component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) from chapter 2 of my [thesis](/blog/research/phd-thesis/). The first bit ("People") is the introduction to the thesis section and the following ("Students") is the first major section of that component. Hopefully, over the next week and in fairly quick progression the remaining sections of the People component will get posted.
 

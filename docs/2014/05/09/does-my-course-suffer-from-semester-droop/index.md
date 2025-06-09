@@ -1,123 +1,121 @@
----
+﻿---
 categories:
 - edc3100
 - elearning
 - indicators
-date: 2014-05-09 10:09:32+10:00
+comments:
+- approved: '1'
+  author: katemwalker
+  author_email: katemwalker18@hotmail.com
+  author_ip: 60.231.82.99
+  author_url: http://katemwalker.wordpress.com
+  content: 'Reblogged this on <a href="http://katemwalker.wordpress.com/2014/05/09/does-my-course-suffer-from-semester-droop/"
+    rel="nofollow">Kate Walker || ICT and Pedagogy</a> and commented:
+
+    Mid semester drop off is very apparent according to Davids blog on the number
+    of clicks different links and activities have on our study desk.  To be honest
+    I think the reason why there is such a big drop off is because we are busy focusing
+    on other assessment and prac; while assessment three isn''t due for a little bit,
+    this is our time to take a little break and focus on some other important assessment,
+    this necessarily isn''t a bad thing, I don''t think as numbers may pick up again
+    next week, before dropping again during our 3 week prac. It''s clear that a majority
+    of clicks are going where is really counts... assessment tasks and details.. which
+    is to be expected.. I think it''s interesting to see that David has the tools
+    to clearly see the number of clicks and activity across the study desk, it makes
+    it nice and easy to make comparisons such as this one. Check out this blog http://flickamawa.wordpress.com/2007/05/12/parti/
+    from 2007 about her feelings when she was struggling with uni.
+
+    '
+  date: '2014-05-09 12:37:56'
+  date_gmt: '2014-05-09 02:37:56'
+  id: '987'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: riverhouse4js
+  author_email: riverhouse4js@gmail.com
+  author_ip: 209.85.212.193
+  author_url: http://riverhouse4js.wordpress.com
+  content: 'Hey David,
+
+
+    I know I have been concentrating on two other assignments for another course.
+    Both of these assignments are due before my last 1300 assignment. I have also
+    had an increase in my normal work hours and this is having an impact on my study
+    hours. I have spent two days already at my upcoming host school and I have received
+    the lessons I need to prepare lesson plans for for my first week on prac. I have
+    volunteered to do 4 weeks instead of 3 weeks at my host school also and I will
+    be starting a week earlier than I should be. All these factors combine so I have
+    not been to the ICT 1300 site for almost 10 days. I can assure you that I, at
+    least, will complete the activities and the last assignment by the due date. I
+    have fallen behind with regards to the weekly activities but I will get back on
+    track shortly. I am still very happy with the course but I am currently time poor.
+
+
+    Regards
+
+
+    Rob Thomas'
+  date: '2014-05-10 08:54:45'
+  date_gmt: '2014-05-09 22:54:45'
+  id: '988'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 121.222.35.253
+  author_url: https://djon.es/blog/
+  content: 'G''day Rob,  Thanks for the comment.  Adds evidence to the suggestion
+    that for a lot of people it''s all about time management.  Which - at least for
+    me - raises the interesting question of how this impacts face-to-face sessions
+    (which were the original origin of the concern about semester droop).
+
+
+    Is one of the problems with droop in a face-to-face setting that those sessions
+    are fixed?
+
+
+    i.e. lectures/tutorials are at fixed times, if you can''t make that time because
+    of "life", then you don''t make it.  At least with the online activities you can
+    complete them at anytime. You''re not limited to the fixed time.
+
+
+    The other question is whether the availability of the online activities for all
+    (like in 3100) contributes to semester droop in face-to-face. Why go to face-to-face
+    sessions when it''s all online?'
+  date: '2014-05-10 10:26:15'
+  date_gmt: '2014-05-10 00:26:15'
+  id: '989'
+  parent: '988'
+  type: comment
+  user_id: '1'
+date: 2014-05-09 00:09:32
 next:
   text: Making BIM ready for Moodle 2.6
   url: /blog/2014/05/19/making-bim-ready-for-moodle-2-6/
+pingbacks:
+- approved: '1'
+  author: Semester droop | Rebekah&#039;s blog
+  author_email: null
+  author_ip: 66.155.8.78
+  author_url: http://rebadams3.wordpress.com/2014/05/11/semester-droop/
+  content: '[&#8230;] https://djon.es/blog/2014/05/09/does-my-course-suffer-from-semester-droop/
+    [&#8230;]'
+  date: '2014-05-11 12:32:48'
+  date_gmt: '2014-05-11 02:32:48'
+  id: '990'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'From thinking to tinkering: The grassroots of strategic information systems'
   url: /blog/2014/05/08/from-thinking-to-tinkering-the-grassroots-of-strategic-information-systems/
+template: blog-post.html
 title: Does my course suffer from semester droop?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: katemwalker
-      author_email: katemwalker18@hotmail.com
-      author_ip: 60.231.82.99
-      author_url: http://katemwalker.wordpress.com
-      content: 'Reblogged this on <a href="http://katemwalker.wordpress.com/2014/05/09/does-my-course-suffer-from-semester-droop/"
-        rel="nofollow">Kate Walker || ICT and Pedagogy</a> and commented:
-    
-        Mid semester drop off is very apparent according to Davids blog on the number
-        of clicks different links and activities have on our study desk.  To be honest
-        I think the reason why there is such a big drop off is because we are busy focusing
-        on other assessment and prac; while assessment three isn''t due for a little bit,
-        this is our time to take a little break and focus on some other important assessment,
-        this necessarily isn''t a bad thing, I don''t think as numbers may pick up again
-        next week, before dropping again during our 3 week prac. It''s clear that a majority
-        of clicks are going where is really counts... assessment tasks and details.. which
-        is to be expected.. I think it''s interesting to see that David has the tools
-        to clearly see the number of clicks and activity across the study desk, it makes
-        it nice and easy to make comparisons such as this one. Check out this blog http://flickamawa.wordpress.com/2007/05/12/parti/
-        from 2007 about her feelings when she was struggling with uni.
-    
-        '
-      date: '2014-05-09 12:37:56'
-      date_gmt: '2014-05-09 02:37:56'
-      id: '987'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: riverhouse4js
-      author_email: riverhouse4js@gmail.com
-      author_ip: 209.85.212.193
-      author_url: http://riverhouse4js.wordpress.com
-      content: 'Hey David,
-    
-    
-        I know I have been concentrating on two other assignments for another course.
-        Both of these assignments are due before my last 1300 assignment. I have also
-        had an increase in my normal work hours and this is having an impact on my study
-        hours. I have spent two days already at my upcoming host school and I have received
-        the lessons I need to prepare lesson plans for for my first week on prac. I have
-        volunteered to do 4 weeks instead of 3 weeks at my host school also and I will
-        be starting a week earlier than I should be. All these factors combine so I have
-        not been to the ICT 1300 site for almost 10 days. I can assure you that I, at
-        least, will complete the activities and the last assignment by the due date. I
-        have fallen behind with regards to the weekly activities but I will get back on
-        track shortly. I am still very happy with the course but I am currently time poor.
-    
-    
-        Regards
-    
-    
-        Rob Thomas'
-      date: '2014-05-10 08:54:45'
-      date_gmt: '2014-05-09 22:54:45'
-      id: '988'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 121.222.35.253
-      author_url: https://djon.es/blog/
-      content: 'G''day Rob,  Thanks for the comment.  Adds evidence to the suggestion
-        that for a lot of people it''s all about time management.  Which - at least for
-        me - raises the interesting question of how this impacts face-to-face sessions
-        (which were the original origin of the concern about semester droop).
-    
-    
-        Is one of the problems with droop in a face-to-face setting that those sessions
-        are fixed?
-    
-    
-        i.e. lectures/tutorials are at fixed times, if you can''t make that time because
-        of "life", then you don''t make it.  At least with the online activities you can
-        complete them at anytime. You''re not limited to the fixed time.
-    
-    
-        The other question is whether the availability of the online activities for all
-        (like in 3100) contributes to semester droop in face-to-face. Why go to face-to-face
-        sessions when it''s all online?'
-      date: '2014-05-10 10:26:15'
-      date_gmt: '2014-05-10 00:26:15'
-      id: '989'
-      parent: '988'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Semester droop | Rebekah&#039;s blog
-      author_email: null
-      author_ip: 66.155.8.78
-      author_url: http://rebadams3.wordpress.com/2014/05/11/semester-droop/
-      content: '[&#8230;] https://djon.es/blog/2014/05/09/does-my-course-suffer-from-semester-droop/
-        [&#8230;]'
-      date: '2014-05-11 12:32:48'
-      date_gmt: '2014-05-11 02:32:48'
-      id: '990'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The institutional LMS seems to be having some problems, so I'll post this instead.
 

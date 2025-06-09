@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - design-theory
-date: 2008-12-03 02:17:53+10:00
+date: 2008-12-02 16:17:53
 next:
   text: Accept the fact that we have to treat almost anybody as a volunteer - implications
     for learning and teaching
@@ -11,9 +11,9 @@ previous:
   url: /blog/2008/11/29/selecting-a-tripod/
 tags:
 - helpdesk
+template: blog-post.html
 title: A time to rethink enterprise helpdesk systems and management
 type: post
-template: blog-post.html
 ---
 As part of my current work I provide support to academic staff using a learning management system. The reactive part of this support is funneled though an organisational helpdesk that is run along fairly common IT helpdesk processes and uses a fairly common enterprise helpdesk application.
 

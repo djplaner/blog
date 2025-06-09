@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2014-12-18 09:16:59+10:00
+date: 2014-12-17 23:16:59
 next:
   text: '"Starting to write for Fedwiki - Daily #4 (and 5)"'
   url: /blog/2014/12/18/starting-to-write-for-fedwiki-daily-4-and-5/
@@ -10,9 +10,9 @@ previous:
   url: /blog/2014/12/16/initial-steps-with-the-fedwikihappening-happening/
 tags:
 - fedwikihappening
+template: blog-post.html
 title: Can I roll my own federated wiki? (not yet)
 type: post
-template: blog-post.html
 ---
 So I now have a federated wiki of [my own](http://david.au.fedwikihappening.net/view/welcome-visitors). Rolled by the good folk of #fedwikihappening.
 

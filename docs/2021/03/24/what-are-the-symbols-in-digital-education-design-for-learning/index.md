@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eei
-coverImage: 23776579774_bb775a0f1f_o-scaled.jpg
-date: 2021-03-24 09:27:53+10:00
+coverImage: https://djon.es/assets/blog/2021/03/24/what-are-the-symbols-in-digital-education-design-for-learning/images/23776579774_bb775a0f1f_o-scaled.jpg
+date: 2021-03-23 23:27:53
 next:
   text: On formal qualifications and improving learning and teaching
   url: /blog/2021/03/30/on-formal-qualifications-and-improving-learning-and-teaching/
 previous:
   text: Reflecting on the spread of the Card Interface for Blackboard Learn
   url: /blog/2021/03/12/reflecting-on-the-spread-of-the-card-interface-for-blackboard-learn/
+template: blog-post.html
 title: What are the symbols in digital education/design for learning?
 type: post
-template: blog-post.html
 ---
 Benbya et al (2020, p. 3) argue that digitial technologies do make a difference, including this point (among others)
 

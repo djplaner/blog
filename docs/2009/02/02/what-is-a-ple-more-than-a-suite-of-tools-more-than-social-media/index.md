@@ -1,102 +1,100 @@
----
+﻿---
 categories:
 - elearning
 - ple
 - plescquni
-date: 2009-02-02 13:34:34+10:00
+comments:
+- approved: '1'
+  author: jocene
+  author_email: j.vallack@cqu.edu.au
+  author_ip: 124.187.74.196
+  author_url: null
+  content: 'Much to think about now. Thank you. And now I am just thinking about this
+    (without being too sure)...
+
+    It sounds to me that the working definition of a PLE is still often just the sum
+    of material tools - be they online or "traditional", recyclicable stuff.
+
+    Maybe it''s because I have a strong bias towards the importance of the unconscious
+    and psychoanalysis (Jungian psychology specifically) in learning that I ''feel''
+    a PLE is more than just rational manipulation of learning tools. Sometimes we
+    just know more than we can say (Polyani). I know that part of my PLE is dreamstate.
+    Through dream I discover what I need to know. My uncionscious, so much smarter
+    than I am, presents it to my consciousness as a complete metaphor - an image.'
+  date: '2009-02-02 23:54:14'
+  date_gmt: '2009-02-02 13:54:14'
+  id: '2101'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: charlesnelson
+  author_email: cnelson@kean.edu
+  author_ip: 131.125.57.21
+  author_url: http://charlesnelson.wordpress.com/
+  content: Certainly the amount of informal learning tremendously exceeds that of
+    formal learning. At the same time, the formal learning may have a tremendously
+    disproportionate effect on learning as it directs the paths of informal learning.
+    With that in mind, perhaps the significance of formal learning might be reconsidered.
+  date: '2009-04-17 07:06:35'
+  date_gmt: '2009-04-16 21:06:35'
+  id: '2103'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Charles,
+
+
+    As someone working in higher ed/formal education most of what I do has to start
+    with consideration of formal learning.  The balance between informal/formal is
+    something I don''t think I''ve decided about and in my current position I don''t
+    think I''m the one to decide. My current role is to help others reach that decision
+    within their teaching.
+
+
+    That said, I think perhaps formal learning does need to consider informal learning
+    more and especially the effect formal has on the informal.
+
+
+    So, I tend to agree.
+
+
+    David.'
+  date: '2009-04-17 07:31:33'
+  date_gmt: '2009-04-16 21:31:33'
+  id: '2104'
+  parent: '2103'
+  type: comment
+  user_id: '1'
+date: 2009-02-02 03:34:34
 next:
   text: Data mining of online courses - dominant assumptions and innovation potential
   url: /blog/2009/02/02/data-mining-of-online-courses-dominant-assumptions-and-innovation-potential/
+pingbacks:
+- approved: '1'
+  author: Web 2.0 no meu Delicious - Semana 6 &laquo; Web 2.0 PT
+  author_email: null
+  author_ip: 72.233.96.150
+  author_url: http://web20pt.wordpress.com/2009/02/09/web-20-no-meu-delicious-semana-6/
+  content: '[...] What is a PLE? More than a suite of tools? More than social media?
+    [...]'
+  date: '2009-02-10 02:18:39'
+  date_gmt: '2009-02-09 16:18:39'
+  id: '2102'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Joining the landed gentry - getting a money burner
   url: /blog/2009/02/02/joining-the-landed-gentry-getting-a-money-burner/
+template: blog-post.html
 title: What is a PLE? More than a suite of tools? More than social media?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: jocene
-      author_email: j.vallack@cqu.edu.au
-      author_ip: 124.187.74.196
-      author_url: null
-      content: 'Much to think about now. Thank you. And now I am just thinking about this
-        (without being too sure)...
-    
-        It sounds to me that the working definition of a PLE is still often just the sum
-        of material tools - be they online or "traditional", recyclicable stuff.
-    
-        Maybe it''s because I have a strong bias towards the importance of the unconscious
-        and psychoanalysis (Jungian psychology specifically) in learning that I ''feel''
-        a PLE is more than just rational manipulation of learning tools. Sometimes we
-        just know more than we can say (Polyani). I know that part of my PLE is dreamstate.
-        Through dream I discover what I need to know. My uncionscious, so much smarter
-        than I am, presents it to my consciousness as a complete metaphor - an image.'
-      date: '2009-02-02 23:54:14'
-      date_gmt: '2009-02-02 13:54:14'
-      id: '2101'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: charlesnelson
-      author_email: cnelson@kean.edu
-      author_ip: 131.125.57.21
-      author_url: http://charlesnelson.wordpress.com/
-      content: Certainly the amount of informal learning tremendously exceeds that of
-        formal learning. At the same time, the formal learning may have a tremendously
-        disproportionate effect on learning as it directs the paths of informal learning.
-        With that in mind, perhaps the significance of formal learning might be reconsidered.
-      date: '2009-04-17 07:06:35'
-      date_gmt: '2009-04-16 21:06:35'
-      id: '2103'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Charles,
-    
-    
-        As someone working in higher ed/formal education most of what I do has to start
-        with consideration of formal learning.  The balance between informal/formal is
-        something I don''t think I''ve decided about and in my current position I don''t
-        think I''m the one to decide. My current role is to help others reach that decision
-        within their teaching.
-    
-    
-        That said, I think perhaps formal learning does need to consider informal learning
-        more and especially the effect formal has on the informal.
-    
-    
-        So, I tend to agree.
-    
-    
-        David.'
-      date: '2009-04-17 07:31:33'
-      date_gmt: '2009-04-16 21:31:33'
-      id: '2104'
-      parent: '2103'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Web 2.0 no meu Delicious - Semana 6 &laquo; Web 2.0 PT
-      author_email: null
-      author_ip: 72.233.96.150
-      author_url: http://web20pt.wordpress.com/2009/02/09/web-20-no-meu-delicious-semana-6/
-      content: '[...] What is a PLE? More than a suite of tools? More than social media?
-        [...]'
-      date: '2009-02-10 02:18:39'
-      date_gmt: '2009-02-09 16:18:39'
-      id: '2102'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [Jocene](http://jocene.edublogs.org/) and I are having a bit of a [chat about PLEs](/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/) and she raises a number of questions or perspectives in her last comment in that discussion that are worth of thought. So, I'm starting a new blog post here, rather than making a comment (the inequity in power and ease of use between the editing tools/interface used to create a post and those used to make a comment - very limited - make an interesting comment about the assumptions and affordances of a blog).
 

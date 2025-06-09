@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,35 +6,32 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-08-21 09:43:06+10:00
+comments: []
+date: 2009-08-20 23:43:06
 next:
   text: What is an LMS?
   url: /blog/2009/08/21/what-is-an-lms/
+pingbacks:
+- approved: '1'
+  author: 'PhD Update #22 &#8211; one day active, but some movement &laquo; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/08/28/phd-update-22-one-day-active-but-some-movement/
+  content: '[...] intent expressed in the last PhD update was to complete the Product
+    section and make a good start on the pedagogy [...]'
+  date: '2009-08-28 13:37:55'
+  date_gmt: '2009-08-28 03:37:55'
+  id: '2725'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BIM#5: Getting a prototype BIM going'
   url: /blog/2009/08/20/bim5-getting-a-prototype-bim-going/
+template: blog-post.html
 title: '"PhD Update #21 - End in sight for chapter 2"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'PhD Update #22 &#8211; one day active, but some movement &laquo; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/08/28/phd-update-22-one-day-active-but-some-movement/
-      content: '[...] intent expressed in the last PhD update was to complete the Product
-        section and make a good start on the pedagogy [...]'
-      date: '2009-08-28 13:37:55'
-      date_gmt: '2009-08-28 03:37:55'
-      id: '2725'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A bit of progress made on chapter 2 this week, sufficient to suggest that the end is nigh - at least for the first draft. That progress is in spite of only having limited time this week to work on the thesis because of work on Monday and having to baby sit the two boys on Wednesday.
 

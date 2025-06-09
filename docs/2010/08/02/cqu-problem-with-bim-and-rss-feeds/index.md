@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bimerrors
-date: 2010-08-02 13:31:57+10:00
+date: 2010-08-02 03:31:57
 next:
   text: No messiness here thanks - SNAFU all the way
   url: /blog/2010/08/03/no-messiness-here-thanks-snafu-all-the-way/
 previous:
   text: Usage of Webfuse course sites
   url: /blog/2010/08/01/usage-of-webfuse-course-sites/
+template: blog-post.html
 title: CQU problem with BIM and RSS feeds
 type: post
-template: blog-post.html
 ---
 This is the first post in a new tradition. Any problems folk report with [BIM](/blog/research/bam-blog-aggregation-management/) and the subsequent diagnosis and solution I undertake will get reported here on the blog and hopefully mirrored in some way onto the BIM [github page](http://github.com/djplaner/BIM).
 
@@ -51,7 +51,7 @@ I'm guessing that the problem is one or more of the following, all associated wi
 
 I have to admit, I was immediately thinking of some of the more complicated reasons for the problem. Then I remembered the last one above and decided I'd better type in the URL for the student's blog and see if I could access it. The following is what I found.
 
-[![Deleted blog](images/4851492241_dab3d06bd9.jpg)](http://www.flickr.com/photos/david_jones/4851492241/ "Deleted blog by David T Jones, on Flickr")
+[![Deleted blog](https://djon.es/assets/blog/2010/08/02/cqu-problem-with-bim-and-rss-feeds/images/4851492241_dab3d06bd9.jpg)](http://www.flickr.com/photos/david_jones/4851492241/ "Deleted blog by David T Jones, on Flickr")
 
 So it appears that the student has removed the blog, this would seem to indicate that the student needs to re-register the blog or perhaps has simply moved on.
 

@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bad
 - eep
-date: 2015-02-18 12:57:07+10:00
+date: 2015-02-18 02:57:07
 next:
   text: Organising a change in session time
   url: /blog/2015/02/19/organising-a-change-in-session-time/
 previous:
   text: How to help improve the Moodle book module
   url: /blog/2015/02/10/how-to-help-improve-the-moodle-book-module/
+template: blog-post.html
 title: Initial rationale and ideas for "continuous improvement" of learning and teaching
 type: post
-template: blog-post.html
 ---
 The following is skewed by my experiences and perspectives and does not represent the full picture. Hopefully everyone sharing their perspectives will broaden the diversity represented in our discussions.
 
@@ -202,7 +202,7 @@ It's possible to argue that most of our online courses retain a content-centric 
 
 ### Not ready for digitally fluent staff
 
-[![You want digitally fluent faculty?](images/15025763858_58eea9f20c_m.jpg)](https://www.flickr.com/photos/david_jones/15025763858 "You want digitally fluent faculty? by David Jones, on Flickr")
+[![You want digitally fluent faculty?](https://djon.es/assets/blog/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/images/15025763858_58eea9f20c_m.jpg)](https://www.flickr.com/photos/david_jones/15025763858 "You want digitally fluent faculty? by David Jones, on Flickr")
 
 I am digitally fluent and I can tell you that USQ is not ready for digitally fluent staff.
 

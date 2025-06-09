@@ -1,59 +1,56 @@
----
+﻿---
 categories:
 - fedwiki
-coverImage: 3391725798_b2dc4dbc7f_o-e1596938009641.jpg
-date: 2020-08-09 11:54:42+10:00
+comments:
+- approved: '1'
+  author: Tim Klapdor
+  author_email: tim.klapdor@gmail.com
+  author_ip: 103.248.17.227
+  author_url: https://timklapdor.wordpress.com/
+  content: Really interested to follow your progress with this David. Since Smallest
+    Federated Wiki I've been looking for something to do this. Foam might be a good
+    start and I like the idea that this is 'protean' as you say. I need to start working
+    in this space - I've been wanting a memex for some time. The other bit of kit
+    I'm curious about is Eleventy - 11ty.dev - which runs in the static site generator
+    toolset area. It seems quite protean too - and because it's javascript based seems
+    pretty extensible. Might be a way to marry or shift from one to the other if markdown
+    is the main format.
+  date: '2020-08-09 22:11:19'
+  date_gmt: '2020-08-09 12:11:19'
+  id: '18279'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 120.153.199.251
+  author_url: null
+  content: "I haven't given a lot of though to the public presentation of my memex.\
+    \ But <a href=\"https://developers-brain.vercel.app/\" rel=\"nofollow ugc\">others\
+    \ are</a>.  It's on the todo list. \n\nThe Foam community is currently thinking\
+    \ a lot about Gatsby as the next step.  The originator of Foam is/was a React\
+    \ consultant, which may explain the interest in Gatsby."
+  date: '2020-08-10 06:41:38'
+  date_gmt: '2020-08-09 20:41:38'
+  id: '18280'
+  parent: '18279'
+  type: comment
+  user_id: '1'
+coverImage: https://djon.es/assets/blog/2020/08/09/visualising-and-pruning-my-memex/images/3391725798_b2dc4dbc7f_o-e1596938009641.jpg
+date: 2020-08-09 01:54:42
 next:
   text: Supporting the design of discipline-specific digital learning activities
   url: /blog/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/
+pingbacks: []
 previous:
   text: Pondering if and how Hax & web components fit in Blackboard
   url: /blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/
 tags:
 - memex
+template: blog-post.html
 title: Visualising and pruning my Memex
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Tim Klapdor
-      author_email: tim.klapdor@gmail.com
-      author_ip: 103.248.17.227
-      author_url: https://timklapdor.wordpress.com/
-      content: Really interested to follow your progress with this David. Since Smallest
-        Federated Wiki I've been looking for something to do this. Foam might be a good
-        start and I like the idea that this is 'protean' as you say. I need to start working
-        in this space - I've been wanting a memex for some time. The other bit of kit
-        I'm curious about is Eleventy - 11ty.dev - which runs in the static site generator
-        toolset area. It seems quite protean too - and because it's javascript based seems
-        pretty extensible. Might be a way to marry or shift from one to the other if markdown
-        is the main format.
-      date: '2020-08-09 22:11:19'
-      date_gmt: '2020-08-09 12:11:19'
-      id: '18279'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 120.153.199.251
-      author_url: null
-      content: "I haven't given a lot of though to the public presentation of my memex.\
-        \ But <a href=\"https://developers-brain.vercel.app/\" rel=\"nofollow ugc\">others\
-        \ are</a>.  It's on the todo list. \n\nThe Foam community is currently thinking\
-        \ a lot about Gatsby as the next step.  The originator of Foam is/was a React\
-        \ consultant, which may explain the interest in Gatsby."
-      date: '2020-08-10 06:41:38'
-      date_gmt: '2020-08-09 20:41:38'
-      id: '18280'
-      parent: '18279'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 > ### Update - now automated memex links
 > 
@@ -65,7 +62,7 @@ Foam has only been under development for just over a month and not surprisingly 
 
 The animated GIF below illustrates the utility of Foam. It shows me using [Foam's graph visualisation](https://foambubble.github.io/foam/graph-visualisation) feature to 1. View the network of connections between the notes I've placed into Memex. 2. Identify an outlier note that isn't connected to anything (the first blog post I wrote in Foam/memex). 3. Click on the graph node to view the content of the associated file. 4. Figure out how that file should be connected. 6. Add in a appropriate connection to the note. 7. See the graph visualisation change to represent the new connection.
 
-![Visualising and pruning my memex](images/Pruning%20my%20memex.gif)
+![Visualising and pruning my memex](https://djon.es/assets/blog/2020/08/09/visualising-and-pruning-my-memex/images/Pruning%20my%20memex.gif)
 
 ## Further reflections
 

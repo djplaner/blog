@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2011-07-13 12:44:02+10:00
+date: 2011-07-13 02:44:02
 next:
   text: Teaching teachers for the future
   url: /blog/2011/07/19/teaching-teachers-for-the-future/
@@ -9,9 +9,9 @@ previous:
   text: 'Social bookmarks, curriculum and resources: A search for a visualisation
     tool'
   url: /blog/2011/07/08/social-bookmarks-curriculum-and-resources-a-search-for-a-visualisation-tool/
+template: blog-post.html
 title: Choosing the wrong drivers for whole system reform
 type: post
-template: blog-post.html
 ---
 At some stage in the last week I was pointed to [this report/paper](http://www.michaelfullan.ca/home_articles/SeminarPaper204.pdf) from Michael Fullan titled "Choosing the wrong drivers for whole system reform". The argument is that the large-scale reforms of K-12 education being undertaken in both the USA and Australia are destined to fail because they have adopted exactly the wrong drivers to encourage system-wide reform that actually improves learning outcomes for all students.
 

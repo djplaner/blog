@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - addie
 - c2d2
@@ -8,55 +8,52 @@ categories:
 - foult
 - missingps
 - thesis
-date: 2009-01-29 14:47:27+10:00
+comments: []
+date: 2009-01-29 04:47:27
 next:
   text: Using a blog for course design foult sessions
   url: /blog/2009/01/30/using-a-blog-for-course-design-foult-sessions/
+pingbacks:
+- approved: '1'
+  author: Improving university teaching - learning from constructive alignment by
+    *NOT* mandating it &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.107
+  author_url: https://djon.es/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/
+  content: '[...] This is based on the assumption that what we really want academic
+    staff to be doing in order to ensure that they are always improving their learning
+    and teaching is &#8220;being reflective&#8221;. That they are engaging in deliberate
+    practice. I&#8217;ve talked a bit about this in an earlier post. [...]'
+  date: '2009-02-26 00:01:26'
+  date_gmt: '2009-02-25 14:01:26'
+  id: '2094'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 66.155.8.213
+  author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  content: '[...] was during this time that I first posted about the silliness of
+    L&amp;T evaluations, academic staff development, and minimum standards for course
+    websites. Somethings which four/five years later has changed [...]'
+  date: '2013-01-24 15:06:04'
+  date_gmt: '2013-01-24 05:06:04'
+  id: '2095'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The design of a 6 hour orientation to course analysis and design
   url: /blog/2009/01/28/the-design-of-a-6-hour-orientation-to-course-analysis-and-design/
 tags:
 - staffdevelopment-learning-teaching-university-highereducation-academicstaffdevelopment
+template: blog-post.html
 title: Good teaching is not innate, it can be "learned" - and what's wrong with academic
   staff development
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Improving university teaching - learning from constructive alignment by
-        *NOT* mandating it &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.107
-      author_url: https://djon.es/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/
-      content: '[...] This is based on the assumption that what we really want academic
-        staff to be doing in order to ensure that they are always improving their learning
-        and teaching is &#8220;being reflective&#8221;. That they are engaging in deliberate
-        practice. I&#8217;ve talked a bit about this in an earlier post. [...]'
-      date: '2009-02-26 00:01:26'
-      date_gmt: '2009-02-25 14:01:26'
-      id: '2094'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 1000 blog posts &#8211; a time to look back &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 66.155.8.213
-      author_url: https://djon.es/blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
-      content: '[...] was during this time that I first posted about the silliness of
-        L&amp;T evaluations, academic staff development, and minimum standards for course
-        websites. Somethings which four/five years later has changed [...]'
-      date: '2013-01-24 15:06:04'
-      date_gmt: '2013-01-24 05:06:04'
-      id: '2095'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The title to this post is included in a quote from [Kane, Sandretto and Heath](http://www.springerlink.com/content/p4h723u36x1850r5/) (2004)
 
@@ -84,7 +81,7 @@ The model the develop is shown below. The suggest
 
 > Reflection lies at the hub of our model and we propose that it is the process through which our participants integrate the various dimensions
 
-[![Attributes of excellent tertiary teaching](images/3235019019_21a6293bee_m.jpg)](http://www.flickr.com/photos/david_jones/3235019019/ "Attributes of excellent tertiary teaching by David T Jones, on Flickr")
+[![Attributes of excellent tertiary teaching](https://djon.es/assets/blog/2009/01/29/good-teaching-is-not-innate-it-can-be-learned-and-whats-wrong-with-academic-staff-development/images/3235019019_21a6293bee_m.jpg)](http://www.flickr.com/photos/david_jones/3235019019/ "Attributes of excellent tertiary teaching by David T Jones, on Flickr")
 
 The authors don't claim this model to have identified any novel sets of attributes. But they do suggest that
 

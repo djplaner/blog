@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - eei
-date: 2017-03-01 09:00:43+10:00
+date: 2017-02-28 23:00:43
 next:
   text: Thinking about (more) reproducible research and learning analytics
   url: /blog/2017/03/08/thinking-about-more-reproducible-research-and-learning-analytics/
 previous:
   text: L&T Orientation for new Academic staff (S1, 2017)
   url: /blog/2017/02/24/lt-orientation-for-new-academic-staff-s1-2017/
+template: blog-post.html
 title: The teleological reason why ICTs limit choice for university learners and learning
 type: post
-template: blog-post.html
 ---
 Jones, D., & Muldoon, N. (2007). The teleological reason why ICTs limit choice for university learners and learning. In R. J. Atkinson, C. McBeath, S. K. A. Soong, & C. Cheers (Eds.), ICT: Providing choices for learners and learning. Proceedings ASCILITE Singapore 2007 (pp. 450–459). Singapore.
 
@@ -42,7 +42,7 @@ Many, if not most, universities follow, or at least profess to follow, a purpose
 
 In attempting to identify the shortcomings of the teleological approach to design and suggest an alternative, Introna (1996) identifies nine attributes of a design process. These attributes are summarised in Table 1. In order to provide a more concrete example of these attributes Table 1 also draws on the herding cats metaphor which is often used to characterise change management processes in universities (cf. Butler, 1997; Hort, 1997) and also used as the basis for a popular EDS commercial.
 
-https://youtu.be/Pk7yqlTMvp8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pk7yqlTMvp8?si=LB9zNd2ic01W3rOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## How teleological design limits flexibility and choice
 

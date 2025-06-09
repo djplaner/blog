@@ -1,80 +1,77 @@
----
+﻿---
 categories:
 - thesis
-date: 2012-10-11 15:32:46+10:00
+comments: []
+date: 2012-10-11 05:32:46
 next:
   text: The Texas sharpshooter fallacy and other issues for learning analytics
   url: /blog/2012/10/18/the-texas-sharpshooter-fallacy-and-other-issues-for-learning-analytics/
+pingbacks:
+- approved: '1'
+  author: Three likely paths for learning analytics and&nbsp;academics | Analyse This
+    | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/analyse-this/p/2951678257/three-likely-paths-for-learning-analytics-and-academics
+  content: '[...] The following is an early attempt to write and share some thoughts
+    on what, why and with what impacts Australian universities are going to engage
+    with learning analytics over the next couple of yea...&nbsp; [...]'
+  date: '2012-10-12 08:44:06'
+  date_gmt: '2012-10-11 22:44:06'
+  id: '478'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Three likely paths for learning analytics and&nbsp;academics | Integrating
+    strategic planning, assessment, and resources allocation | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/integrating-strategic-planning-assessment-and-resources-allocation/p/2951723395/three-likely-paths-for-learning-analytics-and-academics
+  content: '[...] The following is an early attempt to write and share some thoughts
+    on what, why and with what impacts Australian universities are going to engage
+    with learning analytics over the next couple of yea...&nbsp; [...]'
+  date: '2012-10-12 09:26:06'
+  date_gmt: '2012-10-11 23:26:06'
+  id: '479'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Learning analytics: Anything more than just another fad? | The Weblog of
+    (a) David Jones'
+  author_email: null
+  author_ip: 72.233.127.212
+  author_url: https://djon.es/blog/2012/10/25/learning-analytics-anything-more-than-just-another-fad/
+  content: '[...] to the SoLAR Southern Flare Conference on Learning Analytics in
+    about a month or so. The early shape of that contribution is online and my last
+    few posts have been summarising some explorations through various areas of [...]'
+  date: '2012-10-25 16:02:48'
+  date_gmt: '2012-10-25 06:02:48'
+  id: '480'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Learning analytics implementation: System types and assumptions | Col&#039;s
+    Weblog'
+  author_email: null
+  author_ip: 76.74.255.5
+  author_url: http://beerc.wordpress.com/2014/04/15/learning-analytics-implementation-system-types-and-assumptions/
+  content: '[&#8230;] David describes these approaches in more detail on his blog,
+    this post is a rough attempt to share some of my thinking around these [&#8230;]'
+  date: '2014-04-15 10:49:40'
+  date_gmt: '2014-04-15 00:49:40'
+  id: '481'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Compliance cultures and transforming the quality of e-learning
   url: /blog/2012/09/29/compliance-cultures-and-transforming-the-quality-of-e-learning/
+template: blog-post.html
 title: Three likely paths for learning analytics and academics
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Three likely paths for learning analytics and&nbsp;academics | Analyse This
-        | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/analyse-this/p/2951678257/three-likely-paths-for-learning-analytics-and-academics
-      content: '[...] The following is an early attempt to write and share some thoughts
-        on what, why and with what impacts Australian universities are going to engage
-        with learning analytics over the next couple of yea...&nbsp; [...]'
-      date: '2012-10-12 08:44:06'
-      date_gmt: '2012-10-11 22:44:06'
-      id: '478'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Three likely paths for learning analytics and&nbsp;academics | Integrating
-        strategic planning, assessment, and resources allocation | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/integrating-strategic-planning-assessment-and-resources-allocation/p/2951723395/three-likely-paths-for-learning-analytics-and-academics
-      content: '[...] The following is an early attempt to write and share some thoughts
-        on what, why and with what impacts Australian universities are going to engage
-        with learning analytics over the next couple of yea...&nbsp; [...]'
-      date: '2012-10-12 09:26:06'
-      date_gmt: '2012-10-11 23:26:06'
-      id: '479'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Learning analytics: Anything more than just another fad? | The Weblog of
-        (a) David Jones'
-      author_email: null
-      author_ip: 72.233.127.212
-      author_url: https://djon.es/blog/2012/10/25/learning-analytics-anything-more-than-just-another-fad/
-      content: '[...] to the SoLAR Southern Flare Conference on Learning Analytics in
-        about a month or so. The early shape of that contribution is online and my last
-        few posts have been summarising some explorations through various areas of [...]'
-      date: '2012-10-25 16:02:48'
-      date_gmt: '2012-10-25 06:02:48'
-      id: '480'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Learning analytics implementation: System types and assumptions | Col&#039;s
-        Weblog'
-      author_email: null
-      author_ip: 76.74.255.5
-      author_url: http://beerc.wordpress.com/2014/04/15/learning-analytics-implementation-system-types-and-assumptions/
-      content: '[&#8230;] David describes these approaches in more detail on his blog,
-        this post is a rough attempt to share some of my thinking around these [&#8230;]'
-      date: '2014-04-15 10:49:40'
-      date_gmt: '2014-04-15 00:49:40'
-      id: '481'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an early attempt to write and share some thoughts on what, why and with what impacts Australian universities are going to engage with learning analytics over the next couple of years. Currently it's fairly generic and the same structure could be used with any fad or change process.
 

@@ -1,50 +1,47 @@
----
+﻿---
 categories:
 - edc3100
-date: 2014-01-15 11:33:50+10:00
+comments: []
+date: 2014-01-15 01:33:50
 next:
   text: Leadership as defining what's successful
   url: /blog/2014/01/21/leadership-as-defining-whats-successful/
+pingbacks:
+- approved: '1'
+  author: What should be covered in EDC3100? | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.8.59
+  author_url: https://djon.es/blog/2014/01/22/what-should-be-covered-in-edc3100/
+  content: '[&#8230;] course I teach. The rough process and background is available
+    in the first post. The first post and the most recent in this series considered
+    student feedback. This post moves onto to thinking about the course [&#8230;]'
+  date: '2014-01-22 15:47:51'
+  date_gmt: '2014-01-22 05:47:51'
+  id: '930'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Building a CASA for student evaluation of teaching results &#8211; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.73
+  author_url: https://davidtjones.wordpress.com/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/
+  content: '[&#8230;] For example, back in early 2014 I manually extracted the free
+    text comments from the SET data and analysed them using NVIVO to produce the graph
+    to the right. Click on it to see a larger [&#8230;]'
+  date: '2016-05-18 09:10:00'
+  date_gmt: '2016-05-17 23:10:00'
+  id: '931'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Getting started with NVivo
   url: /blog/2014/01/14/getting-started-with-nvivo/
+template: blog-post.html
 title: Analysing some course evaluation comments
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: What should be covered in EDC3100? | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.8.59
-      author_url: https://djon.es/blog/2014/01/22/what-should-be-covered-in-edc3100/
-      content: '[&#8230;] course I teach. The rough process and background is available
-        in the first post. The first post and the most recent in this series considered
-        student feedback. This post moves onto to thinking about the course [&#8230;]'
-      date: '2014-01-22 15:47:51'
-      date_gmt: '2014-01-22 05:47:51'
-      id: '930'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Building a CASA for student evaluation of teaching results &#8211; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.73
-      author_url: https://davidtjones.wordpress.com/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/
-      content: '[&#8230;] For example, back in early 2014 I manually extracted the free
-        text comments from the SET data and analysed them using NVIVO to produce the graph
-        to the right. Click on it to see a larger [&#8230;]'
-      date: '2016-05-18 09:10:00'
-      date_gmt: '2016-05-17 23:10:00'
-      id: '931'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following reports on some analysis of students responses to open questions on the institutional, end of semester course evaluation survey for the course I taught in 2013. [This initial post](/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/) gives some background to the course, the evaluation process (and its limits), links to some of the raw results (including summaries of close responses) and an outline of the process I'm following.
 
@@ -70,7 +67,7 @@ The following chart (click on the image to see a larger version) provides an ove
 - The sample assignments and the assignment descriptions were positively received, though the workload remains an issue.
 - Workload remains perhaps the main issue, especially in the first few weeks. Though the students still appear to have enjoyed the course.
 
-[![Student comments - EDC3100](images/11955601644_11983dc7c0_b.jpg)](https://www.flickr.com/photos/david_jones/11955601644/in/album-72157629278697801/ "Student comments - EDC3100")
+[![Student comments - EDC3100](https://djon.es/assets/blog/2014/01/15/analysing-some-course-evaluation-comments/images/11955601644_11983dc7c0_b.jpg)](https://www.flickr.com/photos/david_jones/11955601644/in/album-72157629278697801/ "Student comments - EDC3100")
 
 ### Study desk
 

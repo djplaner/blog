@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - elearning
 - narrative
 - research
-date: 2013-04-07 23:41:08+10:00
+comments: []
+date: 2013-04-07 13:41:08
 next:
   text: More evidence of the limits of student technical knowledge
   url: /blog/2013/04/08/more-evidence-of-the-limits-of-student-technical-knowledge/
+pingbacks:
+- approved: '1'
+  author: Ethnography and innovation | vinhovation
+  author_email: null
+  author_ip: 66.155.8.237
+  author_url: http://vinhovation.wordpress.com/2013/04/10/ethnography-and-innovation/
+  content: '[...] An ad hoc exploration ethnographic research (davidtjones.wordpress.com)
+    [...]'
+  date: '2013-04-10 15:29:19'
+  date_gmt: '2013-04-10 05:29:19'
+  id: '723'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Adding bim 2.0 to &quot;CONTRIB&quot;
   url: /blog/2013/04/05/adding-bim-2-0-to-contrib/
+template: blog-post.html
 title: An ad hoc exploration ethnographic research
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Ethnography and innovation | vinhovation
-      author_email: null
-      author_ip: 66.155.8.237
-      author_url: http://vinhovation.wordpress.com/2013/04/10/ethnography-and-innovation/
-      content: '[...] An ad hoc exploration ethnographic research (davidtjones.wordpress.com)
-        [...]'
-      date: '2013-04-10 15:29:19'
-      date_gmt: '2013-04-10 05:29:19'
-      id: '723'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an initial attempt to restart some [earlier explorations](/blog/2012/03/29/explorations-of-narrative-research/) of research methods that may prove useful in examining the "Story of [BIM](/blog/research/bam-blog-aggregation-management/)" for potential useful insights. The starting place is ethnography and auto ethnography and an exploration of some writings.
 

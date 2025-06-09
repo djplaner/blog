@@ -1,55 +1,52 @@
----
+﻿---
 categories:
 - bam
 - blackboardindicators
 - elearning
 - innovation
 - plescquni
-date: 2009-03-11 09:12:53+10:00
+comments: []
+date: 2009-03-10 23:12:53
 next:
   text: Initial steps toward an education aggregation taxonomy - community versus
     individual?
   url: /blog/2009/03/11/an-alternate-bam-related-idea/
+pingbacks:
+- approved: '1'
+  author: An alternate BAM related idea &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.160
+  author_url: https://djon.es/blog/2009/03/11/an-alternate-bam-related-idea/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators
+    projects&nbsp;toget... [...]'
+  date: '2009-03-11 10:49:36'
+  date_gmt: '2009-03-11 00:49:36'
+  id: '2239'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The Indicators Project &laquo; Col&#8217;s Weblog
+  author_email: null
+  author_ip: 72.233.96.141
+  author_url: http://beerc.wordpress.com/2009/03/15/the-indicators-project/
+  content: '[...] Indicators project where we look at what&#8217;s happened and try
+    to infer something from it. In David&#8217;s Blog he describes these as lag indicators
+    whereas the more interesting and last part of the project is [...]'
+  date: '2009-03-15 11:44:40'
+  date_gmt: '2009-03-15 01:44:40'
+  id: '2240'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Getting feeds out of BAM - the first steps
   url: /blog/2009/03/10/getting-feeds-out-of-bam-the-first-steps/
+template: blog-post.html
 title: Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators
   projects together?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: An alternate BAM related idea &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.160
-      author_url: https://djon.es/blog/2009/03/11/an-alternate-bam-related-idea/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators
-        projects&nbsp;toget... [...]'
-      date: '2009-03-11 10:49:36'
-      date_gmt: '2009-03-11 00:49:36'
-      id: '2239'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The Indicators Project &laquo; Col&#8217;s Weblog
-      author_email: null
-      author_ip: 72.233.96.141
-      author_url: http://beerc.wordpress.com/2009/03/15/the-indicators-project/
-      content: '[...] Indicators project where we look at what&#8217;s happened and try
-        to infer something from it. In David&#8217;s Blog he describes these as lag indicators
-        whereas the more interesting and last part of the project is [...]'
-      date: '2009-03-15 11:44:40'
-      date_gmt: '2009-03-15 01:44:40'
-      id: '2240'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is floating an idea that might be useful in my [local context](http://www.cqu.edu.au/).
 

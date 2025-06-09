@@ -1,35 +1,32 @@
----
+﻿---
 categories:
 - bim
-date: 2010-01-07 12:02:53+10:00
+comments: []
+date: 2010-01-07 02:02:53
 next:
   text: BIM - getting navigation bread crumbs and tabs working
   url: /blog/2010/01/09/bim-getting-navigation-bread-crumbs-and-tabs-working/
+pingbacks:
+- approved: '1'
+  author: BIM &#8211; getting navigation bread crumbs and tabs working &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.186
+  author_url: https://djon.es/blog/2010/01/09/bim-getting-navigation-bread-crumbs-and-tabs-working/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    BIM &#8211; Allocate questions&nbsp;screen [...]'
+  date: '2010-01-09 11:47:17'
+  date_gmt: '2010-01-09 01:47:17'
+  id: '2909'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: BIM - the show student posts screen
   url: /blog/2009/12/26/bim-the-show-student-posts-screen/
+template: blog-post.html
 title: BIM - Allocate questions screen
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM &#8211; getting navigation bread crumbs and tabs working &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.186
-      author_url: https://djon.es/blog/2010/01/09/bim-getting-navigation-bread-crumbs-and-tabs-working/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        BIM &#8211; Allocate questions&nbsp;screen [...]'
-      date: '2010-01-09 11:47:17'
-      date_gmt: '2010-01-09 01:47:17'
-      id: '2909'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [The last bit of work](/blog/2009/12/26/bim-the-show-student-posts-screen/) I did on BIM continue the current trend of getting screens mostly working without some of the extra effort required for a production system. This is in part driven by my desire to become more familiar with differing aspects of Moodle development.
 

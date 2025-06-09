@@ -1,66 +1,63 @@
----
+﻿---
 categories:
 - bad
 - exploring
 - moodleopenbook
-date: 2016-09-04 22:09:18+10:00
+comments: []
+date: 2016-09-04 12:09:18
 next:
   text: '"University digital technology: problems, causes, and suggested solutions"'
   url: /blog/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
+pingbacks:
+- approved: '1'
+  author: "Exploring Moodle Book usage \u2013 Part 7 \u2013 When are they used? &#8211;\
+    \ The Weblog of (a) David Jones"
+  author_email: null
+  author_ip: 192.0.116.194
+  author_url: https://davidtjones.wordpress.com/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/
+  content: '[&#8230;] last post in this series looked briefly at the contents of Moodle
+    Book resources. This post is going to look [&#8230;]'
+  date: '2016-09-11 18:19:31'
+  date_gmt: '2016-09-11 08:19:31'
+  id: '3411'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Exploring Moodle Book usage &#8211; Part 8 &#8211; linking to and from &#8211;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.112.36
+  author_url: https://davidtjones.wordpress.com/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/
+  content: '[&#8230;] post picks up on work and ideas from an earlier post. The Moodle
+    Book module helps create/manage collections of web pages. My interest is to explore
+    how [&#8230;]'
+  date: '2016-09-22 15:15:59'
+  date_gmt: '2016-09-22 05:15:59'
+  id: '3412'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Exploring Moodle Book usage &#8211; part 9 &#8211; Strange courses &#8211;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.112.234
+  author_url: https://davidtjones.wordpress.com/2016/09/26/exploring-moodle-book-usage-part-9-strange-courses/
+  content: '[&#8230;] part 6 it was discovered that there are books with 100 chapters
+    (individual web pages). Most of the books [&#8230;]'
+  date: '2016-09-26 06:49:49'
+  date_gmt: '2016-09-25 20:49:49'
+  id: '3413'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Exploring Moodle Book usage - Part 5 - more staff and student use
   url: /blog/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/
+template: blog-post.html
 title: "Exploring Moodle Book usage \u2013 Part 6 \u2013 What do they contain?"
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: "Exploring Moodle Book usage \u2013 Part 7 \u2013 When are they used? &#8211;\
-        \ The Weblog of (a) David Jones"
-      author_email: null
-      author_ip: 192.0.116.194
-      author_url: https://davidtjones.wordpress.com/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/
-      content: '[&#8230;] last post in this series looked briefly at the contents of Moodle
-        Book resources. This post is going to look [&#8230;]'
-      date: '2016-09-11 18:19:31'
-      date_gmt: '2016-09-11 08:19:31'
-      id: '3411'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Exploring Moodle Book usage &#8211; Part 8 &#8211; linking to and from &#8211;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.112.36
-      author_url: https://davidtjones.wordpress.com/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/
-      content: '[&#8230;] post picks up on work and ideas from an earlier post. The Moodle
-        Book module helps create/manage collections of web pages. My interest is to explore
-        how [&#8230;]'
-      date: '2016-09-22 15:15:59'
-      date_gmt: '2016-09-22 05:15:59'
-      id: '3412'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Exploring Moodle Book usage &#8211; part 9 &#8211; Strange courses &#8211;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.112.234
-      author_url: https://davidtjones.wordpress.com/2016/09/26/exploring-moodle-book-usage-part-9-strange-courses/
-      content: '[&#8230;] part 6 it was discovered that there are books with 100 chapters
-        (individual web pages). Most of the books [&#8230;]'
-      date: '2016-09-26 06:49:49'
-      date_gmt: '2016-09-25 20:49:49'
-      id: '3413'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Part 6 of this series diverges a bit from [the last post](/blog/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/) and moves away from what people are doing with the Book resources to focus on the contents of the Book resources themselves.  Questions I'm hoping to explore in this post include:
 
@@ -95,7 +92,7 @@ The next step is to have a look at how long each book is based on the number of 
 
 The following graph shows the number of chapters in every book grouped by year. Overall the number of chapters stays pretty much the same.  However, there are a couple of strange outliers tending toward 100 chapters in a book. The median number of chapters per book has increased from 6 in 2012 to 8 in 2015.
 
-[![chapters per book per year](images/29150629470_50dd1e7df9_z.jpg)](https://www.flickr.com/photos/david_jones/29150629470/in/dateposted-public/ "chapters per book per year")
+[![chapters per book per year](https://djon.es/assets/blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/images/29150629470_50dd1e7df9_z.jpg)](https://www.flickr.com/photos/david_jones/29150629470/in/dateposted-public/ "chapters per book per year")
 
 The total number of books shown in the above graph for each year is a bit out from earlier data. I will need to come back to these analysis and nail down what courses/books are counted in each analysis.
 
@@ -113,7 +110,7 @@ To give you some idea of read time, I'll use [Medium's method for calculating re
 
 Adding to this is that I'm not sure the typography and design of your typical Moodle Book is going to match what you might expect on Medium. Not to mention that Medium don't mention if their average adult reading spead (275 words per minute) is for words on print or screen.
 
-[![words per book per year](images/29440847185_5184eaae05_z.jpg)](https://www.flickr.com/photos/david_jones/29440847185/in/dateposted-public/ "words per book per year")
+[![words per book per year](https://djon.es/assets/blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/images/29440847185_5184eaae05_z.jpg)](https://www.flickr.com/photos/david_jones/29440847185/in/dateposted-public/ "words per book per year")
 
 ### Readability?
 
@@ -125,7 +122,7 @@ While [Amazon](https://en.wikipedia.org/wiki/Amazon.com "Amazon.com") calculates
 
 The median moves between 43.7 and 47.3, which is apparently around the 45 that Florida law requires for life insurance policy (thank you again Wikipedia).  However, the lower bound loiters around 5 suggesting very difficulty to read.  Wikipedia suggestions 30 to 50 as being the range for "college" and being difficult to read.
 
-[![flesch per book per year](images/29407768176_3d3ec0b83b_z.jpg)](https://www.flickr.com/photos/david_jones/29407768176/in/dateposted-public/ "flesch per book per year")
+[![flesch per book per year](https://djon.es/assets/blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/images/29407768176_3d3ec0b83b_z.jpg)](https://www.flickr.com/photos/david_jones/29407768176/in/dateposted-public/ "flesch per book per year")
 
 ### And my books?
 
@@ -133,9 +130,9 @@ Which has me wondering about mine. I think I've developed a tendency to reading 
 
 That's a nice-ish surprise.  Median at 60. Worst is 40 and best is 77. With better than 75% of the books above 50 which is the lower bound of the 10th  to 12th grade boundary.
 
-However, I believe these results may be a little padded by the fact that I write most of my books in straight HTML. Meaning there's no increase in complexity because of the difficulty of converting it into clean text. [![EDC3100 S2 2015 readability](images/29408120666_daedaa60ff_z.jpg)](https://www.flickr.com/photos/david_jones/29408120666/in/dateposted-public/ "EDC3100 S2 2015 readability") Which has me wondering about the evolution of readability.  The following graph shows the results from all offerings of the course that use the Book. A bit of a dip at the start with a small upward trend over time.  Not bad - but then of limited use given the limitations of this type of thing.
+However, I believe these results may be a little padded by the fact that I write most of my books in straight HTML. Meaning there's no increase in complexity because of the difficulty of converting it into clean text. [![EDC3100 S2 2015 readability](https://djon.es/assets/blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/images/29408120666_daedaa60ff_z.jpg)](https://www.flickr.com/photos/david_jones/29408120666/in/dateposted-public/ "EDC3100 S2 2015 readability") Which has me wondering about the evolution of readability.  The following graph shows the results from all offerings of the course that use the Book. A bit of a dip at the start with a small upward trend over time.  Not bad - but then of limited use given the limitations of this type of thing.
 
-[![edc3100 readability through the ages](images/28818775284_c7d9894ffe_z.jpg)](https://www.flickr.com/photos/david_jones/28818775284/in/dateposted-public/ "edc3100 readability through the ages")
+[![edc3100 readability through the ages](https://djon.es/assets/blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/images/28818775284_c7d9894ffe_z.jpg)](https://www.flickr.com/photos/david_jones/28818775284/in/dateposted-public/ "edc3100 readability through the ages")
 
 ### What about links - links per book?
 
@@ -147,7 +144,7 @@ As the graph shows there are a large number of books that have no links.  The m
 
 In terms of books with very few links in 2012, 15.4% of the books had less then 3 links (remember that includes images, links, embedded videos etc) with 2014 having 16.1% and 2015 having 15.3%
 
-### [![num links per book per year](images/29443124895_1ec0a9fc5a_z.jpg)](https://www.flickr.com/photos/david_jones/29443124895/in/dateposted-public/ "num links per book per year")
+### [![num links per book per year](https://djon.es/assets/blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/images/29443124895_1ec0a9fc5a_z.jpg)](https://www.flickr.com/photos/david_jones/29443124895/in/dateposted-public/ "num links per book per year")
 
 ### Links per book in EDC3100?
 
@@ -155,7 +152,7 @@ For a quick comparison, the following graph shows the number of links per Book f
 
 The median # of links per book for all courses moved from 11 to 17. In EDC3100, the median has moved from 14 at its lowest (2013 S2 - a bad semester for links) up to 30 in 2015 (both semesters).  Similarly, the upper range for all courses ranged from 46 to 74 (driven by some truly large link numbers), for EDC3100 the upper range went from 43 in (2013 S2) up to 111 in 2015.
 
-[![EDC3100 books links](images/29363338751_201ca0ff8c_z.jpg)](https://www.flickr.com/photos/david_jones/29363338751/in/dateposted-public/ "EDC3100 books links")
+[![EDC3100 books links](https://djon.es/assets/blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/images/29363338751_201ca0ff8c_z.jpg)](https://www.flickr.com/photos/david_jones/29363338751/in/dateposted-public/ "EDC3100 books links")
 
 ### Exploring types of links a bit more
 

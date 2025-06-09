@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2009-08-09 10:51:11+10:00
+date: 2009-08-09 00:51:11
 next:
   text: Support staff - continuing with the People component
   url: /blog/2009/08/09/support-staff-continuing-with-the-people-component/
 previous:
   text: 'Breadth of Webfuse use: 1997 through 2009'
   url: /blog/2009/08/07/breadth-of-webfuse-use-1997-through-2009/
+template: blog-post.html
 title: The limiting impacts of a PhD and the writing up phase
 type: post
-template: blog-post.html
 ---
 The following is part reflection, part admission and mostly a warning and explanation to those that might care. Over the last few months, I've been spending a fair amount of time working on my thesis. As part of that I have attempted to ignore any number of things and limit my interests. Consequently, any number of social relationships have been let slide, not to mention reading and keeping up with things outside of the PhD (e.g. blogs of other folk).
 

@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - bam
 - bim
 - moodle
-date: 2009-08-20 11:43:15+10:00
+comments: []
+date: 2009-08-20 01:43:15
 next:
   text: '"PhD Update #21 - End in sight for chapter 2"'
   url: /blog/2009/08/21/phd-update-21-end-in-sight-for-chapter-2/
+pingbacks:
+- approved: '1'
+  author: BIM#7 &#8211; Getting the prototype up &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/09/08/bim7-getting-the-prototype-up/
+  content: '[...] earlier post gave some details of the various screens/operations
+    different users would be doing with BIM. The [...]'
+  date: '2009-09-08 15:43:40'
+  date_gmt: '2009-09-08 05:43:40'
+  id: '2724'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'eLearning and Innovation Specialist report #1: 4-20 August'
   url: /blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/
+template: blog-post.html
 title: '"BIM#5: Getting a prototype BIM going"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: BIM#7 &#8211; Getting the prototype up &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/09/08/bim7-getting-the-prototype-up/
-      content: '[...] earlier post gave some details of the various screens/operations
-        different users would be doing with BIM. The [...]'
-      date: '2009-09-08 15:43:40'
-      date_gmt: '2009-09-08 05:43:40'
-      id: '2724'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 In the last [bit of work](/blog/2009/08/17/bim-4-re-jigging-how-bim-works/) I did on BIM, I got to the stage of having some initial working code for BIM module that allow someone to create a BIM activity and have that data saved to the database. The activity wouldn't do anything, but it's a start.
 
@@ -62,9 +59,9 @@ Okay, with the current status of BIM, if I "view" the activity, it doesn't produ
         - Details about their posts/answers.  
             This is where they see which posts to their blog BAM has recognised as an answer to a required question. It will also show whether the answer has been marked and also any comments from the marker.
 - Staff - the following draws on screen shots of the existing system. The appearance will change to fit Moodle and also possibly to improve the interface.
-    - By default the "student blog details" screen (see below) [![BAM show student blog details](images/3268716654_45968d797b_o.png)](http://www.flickr.com/photos/david_jones/3268716654/ "BAM show student blog details by David T Jones, on Flickr")
-    - Link to the "answers page" [![BAM show all student posts page](images/3268716836_341b600cbc_o.png)](http://www.flickr.com/photos/david_jones/3268716836/ "BAM show all student posts page by David T Jones, on Flickr")
-    - Which in turn links to the marking page [![BAM mark post page](images/3267891725_40faa5316a_o.png)](http://www.flickr.com/photos/david_jones/3267891725/ "BAM mark post page by David T Jones, on Flickr")
+    - By default the "student blog details" screen (see below) [![BAM show student blog details](https://djon.es/assets/blog/2009/08/20/bim5-getting-a-prototype-bim-going/images/3268716654_45968d797b_o.png)](http://www.flickr.com/photos/david_jones/3268716654/ "BAM show student blog details by David T Jones, on Flickr")
+    - Link to the "answers page" [![BAM show all student posts page](https://djon.es/assets/blog/2009/08/20/bim5-getting-a-prototype-bim-going/images/3268716836_341b600cbc_o.png)](http://www.flickr.com/photos/david_jones/3268716836/ "BAM show all student posts page by David T Jones, on Flickr")
+    - Which in turn links to the marking page [![BAM mark post page](https://djon.es/assets/blog/2009/08/20/bim5-getting-a-prototype-bim-going/images/3267891725_40faa5316a_o.png)](http://www.flickr.com/photos/david_jones/3267891725/ "BAM mark post page by David T Jones, on Flickr")
 
 ### To find out
 

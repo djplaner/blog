@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - elearning
 - ple
 - plescquni
 - voicethreadresearchposters
-date: 2009-02-08 22:22:06+10:00
+date: 2009-02-08 12:22:06
 next:
   text: Plato on the problems that writing will create for student learning
   url: /blog/2009/02/09/plato-on-the-problems-that-writing-will-create-for-student-learning/
 previous:
   text: The ritual dissent method shows great promise
   url: /blog/2009/02/08/the-ritual-dissent-method-shows-great-promise/
+template: blog-post.html
 title: VoiceThread as a mechanism for feedback to students
 type: post
-template: blog-post.html
 ---
 [Scott](http://www.blogger.com/profile/01008752894148145398) has a [post](http://e-learning-engagement.blogspot.com/2009/02/technology-mediated-student-feedback.html) discussing the potential benefits of using [VoiceThread](http://voicethread.com/) as a mechanism for providing feedback to students - both by staff and students. Based on some experience, I agree there is some potential, but I also think there are some issues to be looked at. Details follow.
 

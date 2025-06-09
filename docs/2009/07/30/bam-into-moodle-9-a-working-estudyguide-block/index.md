@@ -1,34 +1,31 @@
----
+﻿---
 categories:
 - bam
-date: 2009-07-30 15:53:48+10:00
+comments: []
+date: 2009-07-30 05:53:48
 next:
   text: Gaps, shadow systems and the VLE/LMS
   url: /blog/2009/07/31/gaps-shadow-systems-and-the-vlelms/
+pingbacks:
+- approved: '1'
+  author: 'BIM #1: Working on the prototype &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/08/11/bim-1-working-on-the-prototype/
+  content: '[...] last post left off on the development of a eStudyGuide block. I&#8217;m
+    leaving that behind now and trying to [...]'
+  date: '2009-08-11 11:17:42'
+  date_gmt: '2009-08-11 01:17:42'
+  id: '2677'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BAM into Moodle #8 - finishing the eStudyGuide building block'
   url: /blog/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/
+template: blog-post.html
 title: '"BAM into Moodle #9 - a working eStudyGuide block?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'BIM #1: Working on the prototype &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/08/11/bim-1-working-on-the-prototype/
-      content: '[...] last post left off on the development of a eStudyGuide block. I&#8217;m
-        leaving that behind now and trying to [...]'
-      date: '2009-08-11 11:17:42'
-      date_gmt: '2009-08-11 01:17:42'
-      id: '2677'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [last post](/blog/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/) finalised some bits of knowledge I needed, now it is time to put it into action and complete the eStudyGuide block to a barely useful level.
 
@@ -107,7 +104,7 @@ Ahh, forgot the _\['#'\]_ needed at the end of the array de-reference. You've go
 
 And here's the "proof", a "working" eStudyGuide block for Moodle - though it still needs a bit of polishing.
 
-[![Moodle eStudyGuide block](images/3770529189_5b50b810ef_o.jpg)](http://www.flickr.com/photos/david_jones/3770529189/ "Moodle eStudyGuide block by David T Jones, on Flickr")
+[![Moodle eStudyGuide block](https://djon.es/assets/blog/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/images/3770529189_5b50b810ef_o.jpg)](http://www.flickr.com/photos/david_jones/3770529189/ "Moodle eStudyGuide block by David T Jones, on Flickr")
 
 ### Retrieve the name of the module
 

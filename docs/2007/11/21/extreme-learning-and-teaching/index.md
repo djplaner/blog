@@ -1,24 +1,20 @@
----
+﻿---
 categories:
 - design-theory
 - elearning
 - paperideas
-date: 2007-11-21 10:38:24+10:00
+comments: []
+date: 2007-11-21 00:38:24
 next:
   text: New approaches to curriculum design informed by complexity
   url: /blog/2007/12/11/new-approaches-to-curriculum-design-informed-by-complexity/
+pingbacks: []
 previous:
   text: Simplicity, e-learning and shadow systems
   url: /blog/2007/11/16/simplicity-e-learning-and-shadow-systems/
+template: blog-post.html
 title: Extreme learning and teaching
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    []
-    
 ---
 The following is an initial development of taking some the fundamental premise from [Extreme Programming](http://www.extremeprogramming.org/) and apply it to learning and teaching. The rationale for doing this is to see if it provides a more effective way of generating improvements in learning and teaching at higher education, and in particular [CQU](http://www.cqu.edu.au/).
 

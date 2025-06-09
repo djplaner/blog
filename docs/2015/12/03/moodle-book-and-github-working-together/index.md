@@ -1,95 +1,92 @@
----
+﻿---
 categories:
 - moodle
 - moodleopenbook
 - thesis
-date: 2015-12-03 14:28:08+10:00
+comments: []
+date: 2015-12-03 04:28:08
 next:
   text: '"Moodle book to a single file: which format?"'
   url: /blog/2015/12/11/moodle-book-to-a-single-file-which-format/
+pingbacks:
+- approved: '1'
+  author: 'Opening up and enhancing #moodle books with GitHub, ePub, etc. | The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.113.102
+  author_url: https://davidtjones.wordpress.com/2015/11/30/opening-up-and-enhancing-moodle-books-with-github-epub-etc/
+  content: '[&#8230;] Moodle book and GitHub: working together [&#8230;]'
+  date: '2015-12-03 15:10:29'
+  date_gmt: '2015-12-03 05:10:29'
+  id: '1455'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Share your Moodle Book resource on GitHub with Moodle Book GitHub tool
+    #Moodle @djplaner - Moodle World'
+  author_email: null
+  author_ip: 209.105.228.209
+  author_url: http://www.moodleworld.com/share-your-moodle-book-resource-on-github-with-moodle-book-github-tool-moodle-djplaner/
+  content: '[&#8230;] This blog post gives a description with pictures on how this
+    Moodle Book GitHub tool works. You can also download the code for the project
+    from this GitHub repository. The code is still under development so it is not
+    recommended to be used on the production sites. [&#8230;]'
+  date: '2015-12-10 21:19:40'
+  date_gmt: '2015-12-10 11:19:40'
+  id: '1456'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Moodle book to a single file: which format? | The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.100.44
+  author_url: https://davidtjones.wordpress.com/2015/12/11/moodle-book-to-a-single-file-which-format/
+  content: '[&#8230;] Moodle book and GitHub: working together [&#8230;]'
+  date: '2015-12-11 14:53:49'
+  date_gmt: '2015-12-11 04:53:49'
+  id: '1457'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "moodleopenbook | The Weblog of (a) David Jones | Moodle \u05D1\u05D7\u05D9\
+    \u05E0\u05D5\u05DA &#8211; \u05D9\u05D5\u05DE\u05DF \u05DE\u05E1\u05E2 \u05D8\u05DB\
+    \u05E0\u05D9"
+  author_email: null
+  author_ip: 80.244.168.25
+  author_url: http://moodlemagic.info/blog/?p=1363
+  content: '[&#8230;] Moodle Book github tool allows the import/export (pull/push)
+    of Book content from/to GitHub. (and share a single book in [&#8230;]'
+  date: '2015-12-23 01:51:22'
+  date_gmt: '2015-12-22 15:51:22'
+  id: '1458'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Sharing Moodle Books Through GitHub | Moodle News
+  author_email: null
+  author_ip: 162.144.26.251
+  author_url: http://www.moodlenews.com/2015/sharing-moodle-books-through-github/
+  content: "[&#8230;] has recently given a presentation\_(see below) and posted on\
+    \ his blog about the ability to connect the book module with GitHub. Creating\
+    \ this connection ultimately [&#8230;]"
+  date: '2016-01-29 14:39:53'
+  date_gmt: '2016-01-29 04:39:53'
+  id: '1459'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Opening up and enhancing #moodle books with GitHub, ePub, etc.'
   url: /blog/2015/11/30/opening-up-and-enhancing-moodle-books-with-github-epub-etc/
 tags:
 - oer
+template: blog-post.html
 title: '"Moodle book and GitHub: working together"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Opening up and enhancing #moodle books with GitHub, ePub, etc. | The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.113.102
-      author_url: https://davidtjones.wordpress.com/2015/11/30/opening-up-and-enhancing-moodle-books-with-github-epub-etc/
-      content: '[&#8230;] Moodle book and GitHub: working together [&#8230;]'
-      date: '2015-12-03 15:10:29'
-      date_gmt: '2015-12-03 05:10:29'
-      id: '1455'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Share your Moodle Book resource on GitHub with Moodle Book GitHub tool
-        #Moodle @djplaner - Moodle World'
-      author_email: null
-      author_ip: 209.105.228.209
-      author_url: http://www.moodleworld.com/share-your-moodle-book-resource-on-github-with-moodle-book-github-tool-moodle-djplaner/
-      content: '[&#8230;] This blog post gives a description with pictures on how this
-        Moodle Book GitHub tool works. You can also download the code for the project
-        from this GitHub repository. The code is still under development so it is not
-        recommended to be used on the production sites. [&#8230;]'
-      date: '2015-12-10 21:19:40'
-      date_gmt: '2015-12-10 11:19:40'
-      id: '1456'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Moodle book to a single file: which format? | The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.100.44
-      author_url: https://davidtjones.wordpress.com/2015/12/11/moodle-book-to-a-single-file-which-format/
-      content: '[&#8230;] Moodle book and GitHub: working together [&#8230;]'
-      date: '2015-12-11 14:53:49'
-      date_gmt: '2015-12-11 04:53:49'
-      id: '1457'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "moodleopenbook | The Weblog of (a) David Jones | Moodle \u05D1\u05D7\u05D9\
-        \u05E0\u05D5\u05DA &#8211; \u05D9\u05D5\u05DE\u05DF \u05DE\u05E1\u05E2 \u05D8\u05DB\
-        \u05E0\u05D9"
-      author_email: null
-      author_ip: 80.244.168.25
-      author_url: http://moodlemagic.info/blog/?p=1363
-      content: '[&#8230;] Moodle Book github tool allows the import/export (pull/push)
-        of Book content from/to GitHub. (and share a single book in [&#8230;]'
-      date: '2015-12-23 01:51:22'
-      date_gmt: '2015-12-22 15:51:22'
-      id: '1458'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Sharing Moodle Books Through GitHub | Moodle News
-      author_email: null
-      author_ip: 162.144.26.251
-      author_url: http://www.moodlenews.com/2015/sharing-moodle-books-through-github/
-      content: "[&#8230;] has recently given a presentation\_(see below) and posted on\
-        \ his blog about the ability to connect the book module with GitHub. Creating\
-        \ this connection ultimately [&#8230;]"
-      date: '2016-01-29 14:39:53'
-      date_gmt: '2016-01-29 04:39:53'
-      id: '1459'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A major aim of the [Moodle Open Book project](/blog/the-moodle-open-book-module-project/) has been to connect the [Moodle Book module](https://docs.moodle.org/28/en/Book_module) with [GitHub](http://github.com). The intent was that such a connection would enable the easy sharing of content that is currently largely locked within the LMS, not to mention improving the authoring process for the [Moodle Book module](https://docs.moodle.org/28/en/Book_module). Earlier this week I [gave a presentation](/blog/2015/11/30/opening-up-and-enhancing-moodle-books-with-github-epub-etc/) in which I demonstrated a working connection between the Book module and GitHub. The following post illustrates how this connection works.
 
@@ -128,7 +125,7 @@ The following contains a range of cropped screen-shots illustrating how the tool
 
 First, let's start with a Moodle book.  Here's what one looks like in my course site.
 
-[![001 Moodle Book and github](images/23188675900_2918d10e1e.jpg)](https://www.flickr.com/photos/david_jones/23188675900/in/dateposted-public/ "001 Moodle Book and github")
+[![001 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23188675900_2918d10e1e.jpg)](https://www.flickr.com/photos/david_jones/23188675900/in/dateposted-public/ "001 Moodle Book and github")
 
 It's just a collection of web pages.  But it does provide the Table of Contents and the "next page" and "previous page" navigation. It's also a full part of Moodle hence services like activity completion can be used.
 
@@ -136,7 +133,7 @@ It's just a collection of web pages.  But it does provide the Table of Contents
 
 Let's make a change to this Moodle book.
 
-[![002 Moodle Book and github](images/23484444025_d319376228.jpg)](https://www.flickr.com/photos/david_jones/23484444025/in/dateposted-public/ "002 Moodle Book and github")
+[![002 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23484444025_d319376228.jpg)](https://www.flickr.com/photos/david_jones/23484444025/in/dateposted-public/ "002 Moodle Book and github")
 
 Can you see the rather pointless change ("\*\*\*\* SHOWING OFF GITHUB TOOL \*\*\*\*") that I made to that page? Let's assume that this change is important and responds to the experience of learners.
 
@@ -146,7 +143,7 @@ I want to save this change and the book to GitHub.  To do this the Book github 
 
 To find this out I look at the Book adminstration menu, which on my institutions Moodle theme looks like this.  Can you see evidence of the GitHub tool?
 
-[![003 Moodle Book and github](images/22856138584_4db90e40f3.jpg)](https://www.flickr.com/photos/david_jones/22856138584/in/dateposted-public/ "003 Moodle Book and github")
+[![003 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/22856138584_4db90e40f3.jpg)](https://www.flickr.com/photos/david_jones/22856138584/in/dateposted-public/ "003 Moodle Book and github")
 
 ### Create the connection between book and github
 
@@ -156,7 +153,7 @@ To create (or check) the connection between the book and github I click on the G
 
 The first time you click on the GitHub link within Moodle, you will be redirected to GitHub and will see something like the following
 
-[![004 Moodle Book and github](images/23401947991_a1b79a56c1.jpg)](https://www.flickr.com/photos/david_jones/23401947991/in/dateposted-public/ "004 Moodle Book and github")
+[![004 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23401947991_a1b79a56c1.jpg)](https://www.flickr.com/photos/david_jones/23401947991/in/dateposted-public/ "004 Moodle Book and github")
 
 The github tool assumes that you have a user account on GitHub. This step is the github tool asking you for permission to use your GitHub account. Everything the github tool does on github will be done using this account.
 
@@ -164,7 +161,7 @@ If you agree to this you will see the connection page. This page allows you to c
 
 **Under construction:** The current interface for the tool is very much under development. What you see is the minimal interface necessary to get all this working.
 
-[![005 Moodle Book and github](images/23375928842_911123091a.jpg)](https://www.flickr.com/photos/david_jones/23375928842/in/dateposted-public/ "005 Moodle Book and github")
+[![005 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23375928842_911123091a.jpg)](https://www.flickr.com/photos/david_jones/23375928842/in/dateposted-public/ "005 Moodle Book and github")
 
 In this case a connection has already been established.
 
@@ -185,7 +182,7 @@ My username on GitHub is **djplaner** which means that the URL for the file that
 
 If you click on that link, you can see the current status of the file on GitHub. When I wrote this, the file on GitHub looked like the following
 
-[![006 Moodle Book and github](images/22857290163_03c0b70c6d.jpg)](https://www.flickr.com/photos/david_jones/22857290163/in/dateposted-public/ "006 Moodle Book and github")
+[![006 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/22857290163_03c0b70c6d.jpg)](https://www.flickr.com/photos/david_jones/22857290163/in/dateposted-public/ "006 Moodle Book and github")
 
 The book is a sequence of web pages. When pushing a book onto GitHub the Book github tool combines all of those web pages into a single HTML file. That HTML file includes some additional HTML to help the Book github tool pull the content back into the book.
 
@@ -199,7 +196,7 @@ View the file as a [web page](https://cdn.rawgit.com/djplaner/ICT-and-Pedagogy/m
 
 If you click on [that link](https://cdn.rawgit.com/djplaner/ICT-and-Pedagogy/master/Copyright.html) you will see something like the following (depending on what changes I've made since I took this screenshot)
 
-[![007 Moodle Book and github](images/22856137904_deefae0930.jpg)](https://www.flickr.com/photos/david_jones/22856137904/in/dateposted-public/ "007 Moodle Book and github")
+[![007 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/22856137904_deefae0930.jpg)](https://www.flickr.com/photos/david_jones/22856137904/in/dateposted-public/ "007 Moodle Book and github")
 
 **Under Construction:** This uses a free service to display a GitHub file as a web page. How this is done also requires a bit more work.
 
@@ -219,7 +216,7 @@ At this stage I can decide whether or not I want to update the file. When and if
 
 But if I do wish to update the GitHub file, I hit the "Push" link and see something like the following.
 
-[![008 Moodle Book and github](images/23401947081_b4daef16e7.jpg)](https://www.flickr.com/photos/david_jones/23401947081/in/dateposted-public/ "008 Moodle Book and github")
+[![008 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23401947081_b4daef16e7.jpg)](https://www.flickr.com/photos/david_jones/23401947081/in/dateposted-public/ "008 Moodle Book and github")
 
 First, there's a brief warning just to make sure that you know that pushing will probably make the content of the book open to all to see.
 
@@ -227,7 +224,7 @@ Second, there is a space to enter some details (a comment) about the changes you
 
 Once I've entered my comment, I hit the push button and hopefully see a report of a successful push.
 
-[![009 Moodle Book and github](images/23375927862_57d0978e23.jpg)](https://www.flickr.com/photos/david_jones/23375927862/in/dateposted-public/ "009 Moodle Book and github")
+[![009 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23375927862_57d0978e23.jpg)](https://www.flickr.com/photos/david_jones/23375927862/in/dateposted-public/ "009 Moodle Book and github")
 
 This means that the GitHub file has been changed.
 
@@ -235,7 +232,7 @@ This means that the GitHub file has been changed.
 
 If I view the file on GitHub, that change should be visible in the change below
 
-[![010 Moodle Book and github](images/23484442475_08bdfe43aa.jpg)](https://www.flickr.com/photos/david_jones/23484442475/in/dateposted-public/ "010 Moodle Book and github")
+[![010 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23484442475_08bdfe43aa.jpg)](https://www.flickr.com/photos/david_jones/23484442475/in/dateposted-public/ "010 Moodle Book and github")
 
 The first change is that the comment/details I added about the push is visible in the row with the blue background ("Just showing off for the blog post"). That row includes my username, avatar, and how long ago the change was made. The second change is that the HTML for the file now contains the change I made in the Moodle book up above. I've highlighted it in green to highlight it.
 
@@ -243,7 +240,7 @@ The first change is that the comment/details I added about the push is visible i
 
 If I return to the Book github tool to view the connection, I can see the following
 
-[![011 Moodle Book and github](images/23375927582_3627e409c2.jpg)](https://www.flickr.com/photos/david_jones/23375927582/in/dateposted-public/ "011 Moodle Book and github")
+[![011 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23375927582_3627e409c2.jpg)](https://www.flickr.com/photos/david_jones/23375927582/in/dateposted-public/ "011 Moodle Book and github")
 
 The Status has been updated to indicate that the Book and the GitHub file are now the same.
 
@@ -251,7 +248,7 @@ You can also see that the "Change History" for the connection now includes the s
 
 [The link](https://github.com/djplaner/ICT-and-Pedagogy/commit/01b31f32f09329c2085b0513bfaee8c9a64c3347#diff-5825aeb7afb1717e4e415d8075194f69) takes me to GitHub and shows me the following colour coded summary of the changes that were made to the file by this commit.
 
-[![012 Moodle Book and github](images/23484442165_3a0e604882.jpg)](https://www.flickr.com/photos/david_jones/23484442165/in/dateposted-public/ "012 Moodle Book and github")
+[![012 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23484442165_3a0e604882.jpg)](https://www.flickr.com/photos/david_jones/23484442165/in/dateposted-public/ "012 Moodle Book and github")
 
 The green and red colours are used to indicate the additions (79) and deletions (128) made by this commit. This is much higher than you'd expect from the simple change I made.  This is because I've been playing with the code.
 
@@ -263,11 +260,11 @@ So far we've been using the Moodle book and GitHub to view and change the file. 
 
 The following image is an example of a Mac finder window showing my local copy of the repository.  It shows that the version of the Copyright.html file (the one we're using for the Moodle book) was created and modified yesterday.
 
-[![013 Moodle Book and github](images/23401946531_37531c3393.jpg)](https://www.flickr.com/photos/david_jones/23401946531/in/dateposted-public/ "013 Moodle Book and github")
+[![013 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23401946531_37531c3393.jpg)](https://www.flickr.com/photos/david_jones/23401946531/in/dateposted-public/ "013 Moodle Book and github")
 
 With the repository files on my computer I can then use all my normal applications to edit and view the file.  If I double click on the Copyright.html file in Finder, this is what I see.
 
-[![014 Moodle Book and github](images/23458307306_884dd037c1.jpg)](https://www.flickr.com/photos/david_jones/23458307306/in/dateposted-public/ "014 Moodle Book and github")
+[![014 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23458307306_884dd037c1.jpg)](https://www.flickr.com/photos/david_jones/23458307306/in/dateposted-public/ "014 Moodle Book and github")
 
 Note that the "SHOWING OFF" message is missing.  That's because the copy on my computer is behind that on GitHub.
 
@@ -275,7 +272,7 @@ Note that the "SHOWING OFF" message is missing.  That's because the copy on my 
 
 To fix this I use the GitHub desktop tool to _pull_ the latest content from GitHub to my computer. Having done that I see the following when I view the Copyright.html file on my computer
 
-[![015 Moodle Book and github](images/23116458359_f6520bf907.jpg)](https://www.flickr.com/photos/david_jones/23116458359/in/dateposted-public/ "015 Moodle Book and github")
+[![015 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23116458359_f6520bf907.jpg)](https://www.flickr.com/photos/david_jones/23116458359/in/dateposted-public/ "015 Moodle Book and github")
 
 All up to date
 
@@ -291,7 +288,7 @@ I'm going to use the last option.
 
 Due to my age and background, I use the vim editor to edit HTML
 
-[![016 Moodle Book and github](images/23484441265_bbf9a508fd.jpg)](https://www.flickr.com/photos/david_jones/23484441265/in/dateposted-public/ "016 Moodle Book and github")
+[![016 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23484441265_bbf9a508fd.jpg)](https://www.flickr.com/photos/david_jones/23484441265/in/dateposted-public/ "016 Moodle Book and github")
 
 But you could use any HTML editing tool you wished to make the change.
 
@@ -299,7 +296,7 @@ But you could use any HTML editing tool you wished to make the change.
 
 Time to push these changes back to GitHub using the Mac GitHub application.
 
-[![017 Moodle Book and github](images/23188672840_44bd71cc21.jpg)](https://www.flickr.com/photos/david_jones/23188672840/in/dateposted-public/ "017 Moodle Book and github")
+[![017 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23188672840_44bd71cc21.jpg)](https://www.flickr.com/photos/david_jones/23188672840/in/dateposted-public/ "017 Moodle Book and github")
 
 Note how the application does a very nice job of highlighting the change I've made.  The text I removed is highlighted by the dark red background.
 
@@ -309,7 +306,7 @@ Just like with the Book github tool, I get the chance to enter a some details/co
 
 On GitHub the file now looks like the following
 
-[![018 Moodle Book and github](images/23116457789_5886389ce8.jpg)](https://www.flickr.com/photos/david_jones/23116457789/in/dateposted-public/ "018 Moodle Book and github")
+[![018 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23116457789_5886389ce8.jpg)](https://www.flickr.com/photos/david_jones/23116457789/in/dateposted-public/ "018 Moodle Book and github")
 
 Can you see that the message within the blue background row has changed to "Remove the showing off".  The message I used on my Mac to commit the change.
 
@@ -317,7 +314,7 @@ Can you see that the message within the blue background row has changed to "Rem
 
 Let's head back into Moodle and the Moodle book github tool to check the status of the connection between the book and the github file
 
-[![019 Moodle Book and github](images/23375926002_5258667dca.jpg)](https://www.flickr.com/photos/david_jones/23375926002/in/dateposted-public/ "019 Moodle Book and github")
+[![019 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23375926002_5258667dca.jpg)](https://www.flickr.com/photos/david_jones/23375926002/in/dateposted-public/ "019 Moodle Book and github")
 
 As you can see "The GitHub file is ahead of the book." and you can also see that the "Change History" is now headed by the message "Remove the showing off".  Matching the message shown on GitHub in the previous image.
 
@@ -325,11 +322,11 @@ As you can see "The GitHub file is ahead of the book." and you can also see that
 
 In order to update the Moodle book with this new content, I need to **pull** the data from GitHub into the book. Click on **Pull** and see the following warning
 
-[![020 Moodle Book and github](images/23484440525_4c435cc6c9.jpg)](https://www.flickr.com/photos/david_jones/23484440525/in/dateposted-public/ "020 Moodle Book and github")
+[![020 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23484440525_4c435cc6c9.jpg)](https://www.flickr.com/photos/david_jones/23484440525/in/dateposted-public/ "020 Moodle Book and github")
 
 The pull process will replace the existing content of the book with the content from GitHub, hence the need to be sure.  I'm happy with that so go ahead and **Pull**
 
-[![021 Moodle Book and github](images/23401944851_178b415e31.jpg)](https://www.flickr.com/photos/david_jones/23401944851/in/dateposted-public/ "021 Moodle Book and github")
+[![021 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23401944851_178b415e31.jpg)](https://www.flickr.com/photos/david_jones/23401944851/in/dateposted-public/ "021 Moodle Book and github")
 
 If I check the status via the Book github tool it will show green - the book and the github file are the same.
 
@@ -337,7 +334,7 @@ If I check the status via the Book github tool it will show green - the book and
 
 And back to look at the book to see that the change has been made
 
-[![022 Moodle Book and github](images/23188672000_2396793fd8.jpg)](https://www.flickr.com/photos/david_jones/23188672000/in/dateposted-public/ "022 Moodle Book and github")
+[![022 Moodle Book and github](https://djon.es/assets/blog/2015/12/03/moodle-book-and-github-working-together/images/23188672000_2396793fd8.jpg)](https://www.flickr.com/photos/david_jones/23188672000/in/dateposted-public/ "022 Moodle Book and github")
 
 # What's yet to be done
 

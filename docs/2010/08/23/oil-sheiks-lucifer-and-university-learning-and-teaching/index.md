@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - academicdevelopment
 - chapter-5
@@ -6,38 +6,35 @@ categories:
 - distributedcognition
 - elearning
 - thesis
-date: 2010-08-23 10:07:10+10:00
+comments: []
+date: 2010-08-23 00:07:10
 next:
   text: '"University e-learning systems: the need for new product and process models
     and some examples"'
   url: /blog/2010/08/24/university-e-learning-systems-the-need-for-new-product-and-process-models-and-some-examples/
+pingbacks:
+- approved: '1'
+  author: Harnessing learning analytics to inform/improve learning and teaching &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 216.151.210.18
+  author_url: https://djon.es/blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
+  content: '[...] Oil Sheiks, Lucifer and university learning and teaching If you
+    really wish to improve the majority of learning and teaching within a university,
+    then you have to focus on changing the culture/system so that academics staff
+    are encouraged and enabled to engage in learning about how to teach. [...]'
+  date: '2012-05-20 15:10:07'
+  date_gmt: '2012-05-20 05:10:07'
+  id: '3153'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Extracting case study research and multiple contexts?
   url: /blog/2010/08/22/extracting-case-study-research-and-multiple-contexts/
+template: blog-post.html
 title: Oil sheiks, Lucifer and university learning and teaching
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Harnessing learning analytics to inform/improve learning and teaching &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 216.151.210.18
-      author_url: https://djon.es/blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
-      content: '[...] Oil Sheiks, Lucifer and university learning and teaching If you
-        really wish to improve the majority of learning and teaching within a university,
-        then you have to focus on changing the culture/system so that academics staff
-        are encouraged and enabled to engage in learning about how to teach. [...]'
-      date: '2012-05-20 15:10:07'
-      date_gmt: '2012-05-20 05:10:07'
-      id: '3153'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following arises from a combination of factors including:
 

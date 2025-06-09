@@ -1,55 +1,52 @@
----
+﻿---
 categories:
 - chapter-2
 - elearning
 - lmsevaluation
 - paperideas
 - thesis
-date: 2009-06-18 10:48:53+10:00
+comments: []
+date: 2009-06-18 00:48:53
 next:
   text: The planning fallacy, innovation and ateleological design
   url: /blog/2009/06/18/the-planning-fallacy-innovation-and-ateleological-design/
+pingbacks:
+- approved: '1'
+  author: Examination focus and what it might tell us about learning and teaching
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/06/19/examination-focus-and-what-it-might-tell-us-about-learning-and-teaching/
+  content: '[...] has some connections with some work a colleague and I are doing
+    around what history can tell us about e-learning and some ideas I have about experimenting
+    with the assumptions and/or mythic nature underlying [...]'
+  date: '2009-06-19 10:19:57'
+  date_gmt: '2009-06-19 00:19:57'
+  id: '2606'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Cole20 &raquo; Posts about Moodle news as of 19 June 2009
+  author_email: null
+  author_ip: 75.127.98.103
+  author_url: http://www.cole20.com/posts-about-moodle-news-as-of-19-june-2009/
+  content: "[...] getting hacked off in the handy daily sheet of events. Let\u2019\
+    s work on that one, okay (   What can history tell us about e-learning and its\
+    \ future? &#8211; davidtjones.wordpress.com 06/18/2009 The following contains\
+    \ some initial thoughts about [...]"
+  date: '2009-06-19 13:16:23'
+  date_gmt: '2009-06-19 03:16:23'
+  id: '2607'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Institutional e-learning strategies
   url: /blog/2009/06/17/institutional-e-learning-strategies/
+template: blog-post.html
 title: What can history tell us about e-learning and its future?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Examination focus and what it might tell us about learning and teaching
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/06/19/examination-focus-and-what-it-might-tell-us-about-learning-and-teaching/
-      content: '[...] has some connections with some work a colleague and I are doing
-        around what history can tell us about e-learning and some ideas I have about experimenting
-        with the assumptions and/or mythic nature underlying [...]'
-      date: '2009-06-19 10:19:57'
-      date_gmt: '2009-06-19 00:19:57'
-      id: '2606'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Cole20 &raquo; Posts about Moodle news as of 19 June 2009
-      author_email: null
-      author_ip: 75.127.98.103
-      author_url: http://www.cole20.com/posts-about-moodle-news-as-of-19-june-2009/
-      content: "[...] getting hacked off in the handy daily sheet of events. Let\u2019\
-        s work on that one, okay (   What can history tell us about e-learning and its\
-        \ future? &#8211; davidtjones.wordpress.com 06/18/2009 The following contains\
-        \ some initial thoughts about [...]"
-      date: '2009-06-19 13:16:23'
-      date_gmt: '2009-06-19 03:16:23'
-      id: '2607'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following contains some initial thoughts about what might turn into a paper for [ASCILITE'09](http://www.ascilite.org.au/conferences/auckland09/). It's likely that I'll co-author this with [Col Beer](http://beerc.wordpress.com/).
 

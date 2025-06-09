@@ -1,228 +1,226 @@
----
+﻿---
 categories:
 - elearning
 - highereducation
 - phd
 - webfuse
-date: 2012-09-07 09:35:14+10:00
+comments:
+- approved: '1'
+  author: beerc
+  author_email: c.beer@cqu.edu.au
+  author_ip: 138.77.2.133
+  author_url: null
+  content: '"The main espoused reason as to why this is a good thing is that the students
+    have been asking for it"
+
+
+    I''ve heard this one many times before and I can''t help thinking that it is what
+    the students have been conditioned to expect as opposed to what might actually
+    better facilitate learning via the web.'
+  date: '2012-09-07 09:59:53'
+  date_gmt: '2012-09-06 23:59:53'
+  id: '447'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Suzanne Aurilio (@saurili)
+  author_email: saurili@twitter.example.com
+  author_ip: 146.244.97.16
+  author_url: http://twitter.com/saurili
+  content: 'Agreed. Same here. One of the ways I attempt to influence this mindset
+    is through my somewhat unorthodox approaches in the domain of support and guidance
+    to faculty. Currently it''s mostly in service to putting courses online.
+
+
+    One approach is the let-me-show-you-how-to-google-that. Being of the web means
+    we have to get good at finding answers ourselves. I model the mindset by saying
+    candidly "I''m only 3 steps ahead of you on any given issue. I google everything."
+    By saying this, I give smart people permission to not know, to be learners.
+
+
+    I''ll also make the argument to my colleagues--decision-makers, that the support/training
+    models we have engender an industrial mindset. They''re utterly unsustainable.
+    The only way forward is to encourage the kinds of habits of mind we see, and I''ve
+    studied, used by people  "in the wild" of sophisticated technologies. These habits
+    include playing around, tinkering, learning by doing, self-sufficiency and -directedness,
+    to name a few.
+
+
+    So we create a physical space and events (e.g. user-groups) to encourage these
+    habits. It seems to work.
+
+
+
+    Still....I''m of the opinion too that if people are unable and/or unwilling to
+    adopt this mindset, that must be acceptable. Technology should adapt to human
+    beings not vice versa. In the end, it''s about living life, not dinking around
+    with its technology. :)'
+  date: '2012-10-04 05:41:47'
+  date_gmt: '2012-10-03 19:41:47'
+  id: '451'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.14
+  author_url: https://djon.es/blog/
+  content: 'Thanks for the comment Suzanne.  Much agreement.
+
+
+    One slight extension, rather than just physical space/events to encourage tinkering/bricolage,
+    I''m wondering how/if we can modify the industrial mindset to also actively encourage
+    and engage in bricolage. My first year back as teaching faculty has really reinforced
+    just how current industrial mindset seeks to actively prevent it.  This is where
+    I''m hoping to play in the coming couple of years.
+
+
+    David.'
+  date: '2012-10-04 08:41:58'
+  date_gmt: '2012-10-03 22:41:58'
+  id: '452'
+  parent: '451'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Suzanne Aurilio (@saurili)
+  author_email: saurili@twitter.example.com
+  author_ip: 146.244.179.41
+  author_url: http://twitter.com/saurili
+  content: 'Agreed David. I was thinking too that what we also have is an institutional
+    mindset to deal with. The institution is a cultural space (conceptually and physically).
+    I think faculty do tinker and bricolage within this space, but maybe in isolation,
+    that is on their own, or within their discipline. I notice for example that those
+    in the sciences, (a more gadget oriented mindset, perhaps) seem to have those
+    opportunities in place.
+
+
+    A piece I wrote recently, somewhat related.
+
+
+    http://www.allisonrossett.com/2012/07/07/how-we-helped-faculty-move-courses-online/'
+  date: '2012-10-09 08:07:59'
+  date_gmt: '2012-10-08 22:07:59'
+  id: '453'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: 'Liked the piece, though I almost stopped reading when I saw the word "incentivized".  :)  I
+    read on.
+
+
+    One thing that struck me was the differences in the context.  My experience within
+    Australian universities has been with institutions that have established 2nd generation
+    distance education processes that have then made the decision to go online.  It
+    wasn''t a choice or a selection process that resulted in academics developing
+    online courses, all/most courses are expected to do this.
+
+
+    For a range of reasons, this has led to a very industrialised approach to the
+    support of e-learning. Lots of quality assurance, process management etc which
+    have really prevented bricolage.
+
+
+    Then there''s the fact that both institutions I''ve worked in have had at least
+    3 physical campuses.  Which makes the "place" approach you mention in your piece
+    difficult.'
+  date: '2012-10-09 09:03:56'
+  date_gmt: '2012-10-08 23:03:56'
+  id: '454'
+  parent: '453'
+  type: comment
+  user_id: '1'
+date: 2012-09-06 23:35:14
 next:
   text: The core problem with learning analytics?
   url: /blog/2012/09/11/the-core-problem-with-learning-analytics/
+pingbacks:
+- approved: '1'
+  author: One example of industrial e-learning as &ldquo;on the web&rdquo; not &ldquo;of
+    the&nbsp;web&rdquo; | Educational Technology, Pedagogy and Learning Design | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/educational-technology-pedagogy-and-learning-design/p/2616063767/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web
+  content: '[...] The following arises from some recent experiences with the idea
+    of &ldquo;minimum course sites&rdquo; and this observation from @cogdog in this
+    blog post I have no idea if this is off base, but fra...&nbsp; [...]'
+  date: '2012-09-07 10:14:57'
+  date_gmt: '2012-09-07 00:14:57'
+  id: '448'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'One example of industrial e-learning as &ldquo;on the web&rdquo; not &ldquo;of
+    the&nbsp;web&rdquo; | E-Learning: Knowledge Platform | Scoop.it'
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/knowledge-platform-e-learning/p/2644891615/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web
+  content: '[...] The following arises from some recent experiences with the idea
+    of &ldquo;minimum course sites&rdquo; and this observation from @cogdog in this
+    blog post I have no idea if this is off base, but fra...&nbsp; [...]'
+  date: '2012-09-10 17:09:02'
+  date_gmt: '2012-09-10 07:09:02'
+  id: '449'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: One example of industrial e-learning as &ldquo;on the web&rdquo; not &ldquo;of
+    the&nbsp;web&rdquo; | EL | Scoop.it
+  author_email: null
+  author_ip: 89.30.105.121
+  author_url: http://www.scoop.it/t/embedded-librarianship-i/p/2768822643/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web
+  content: '[...] The following arises from some recent experiences with the idea
+    of &ldquo;minimum course sites&rdquo; and this observation from @cogdog in this
+    blog post I have no idea if this is off base, but fra...&nbsp; [...]'
+  date: '2012-09-23 22:14:06'
+  date_gmt: '2012-09-23 12:14:06'
+  id: '450'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The absence of a search function &#8211; my current big problem with a Moodle
+    installation | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.232.7.90
+  author_url: https://djon.es/blog/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/
+  content: '[...] How can I provide my students with a search function? How can I
+    make my course site &#8220;of the web&#8221; and not &#8220;on the web&#8221;?
+    [...]'
+  date: '2013-03-07 13:03:47'
+  date_gmt: '2013-03-07 03:03:47'
+  id: '455'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: "One example of industrial e-learning as \u201Con the web\u201D not \u201C\
+    of the web\u201D | Distance-Educator.com"
+  author_email: null
+  author_ip: 50.87.144.169
+  author_url: http://distance-educator.com/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/
+  content: '[&#8230;] Read the blog [&#8230;]'
+  date: '2014-04-21 14:54:30'
+  date_gmt: '2014-04-21 04:54:30'
+  id: '456'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The dilemma of open courses in an Australian university
   url: /blog/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/
+template: blog-post.html
 title: One example of industrial e-learning as "on the web" not "of the web"
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: beerc
-      author_email: c.beer@cqu.edu.au
-      author_ip: 138.77.2.133
-      author_url: null
-      content: '"The main espoused reason as to why this is a good thing is that the students
-        have been asking for it"
-    
-    
-        I''ve heard this one many times before and I can''t help thinking that it is what
-        the students have been conditioned to expect as opposed to what might actually
-        better facilitate learning via the web.'
-      date: '2012-09-07 09:59:53'
-      date_gmt: '2012-09-06 23:59:53'
-      id: '447'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Suzanne Aurilio (@saurili)
-      author_email: saurili@twitter.example.com
-      author_ip: 146.244.97.16
-      author_url: http://twitter.com/saurili
-      content: 'Agreed. Same here. One of the ways I attempt to influence this mindset
-        is through my somewhat unorthodox approaches in the domain of support and guidance
-        to faculty. Currently it''s mostly in service to putting courses online.
-    
-    
-        One approach is the let-me-show-you-how-to-google-that. Being of the web means
-        we have to get good at finding answers ourselves. I model the mindset by saying
-        candidly "I''m only 3 steps ahead of you on any given issue. I google everything."
-        By saying this, I give smart people permission to not know, to be learners.
-    
-    
-        I''ll also make the argument to my colleagues--decision-makers, that the support/training
-        models we have engender an industrial mindset. They''re utterly unsustainable.
-        The only way forward is to encourage the kinds of habits of mind we see, and I''ve
-        studied, used by people  "in the wild" of sophisticated technologies. These habits
-        include playing around, tinkering, learning by doing, self-sufficiency and -directedness,
-        to name a few.
-    
-    
-        So we create a physical space and events (e.g. user-groups) to encourage these
-        habits. It seems to work.
-    
-    
-    
-        Still....I''m of the opinion too that if people are unable and/or unwilling to
-        adopt this mindset, that must be acceptable. Technology should adapt to human
-        beings not vice versa. In the end, it''s about living life, not dinking around
-        with its technology. :)'
-      date: '2012-10-04 05:41:47'
-      date_gmt: '2012-10-03 19:41:47'
-      id: '451'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.14
-      author_url: https://djon.es/blog/
-      content: 'Thanks for the comment Suzanne.  Much agreement.
-    
-    
-        One slight extension, rather than just physical space/events to encourage tinkering/bricolage,
-        I''m wondering how/if we can modify the industrial mindset to also actively encourage
-        and engage in bricolage. My first year back as teaching faculty has really reinforced
-        just how current industrial mindset seeks to actively prevent it.  This is where
-        I''m hoping to play in the coming couple of years.
-    
-    
-        David.'
-      date: '2012-10-04 08:41:58'
-      date_gmt: '2012-10-03 22:41:58'
-      id: '452'
-      parent: '451'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Suzanne Aurilio (@saurili)
-      author_email: saurili@twitter.example.com
-      author_ip: 146.244.179.41
-      author_url: http://twitter.com/saurili
-      content: 'Agreed David. I was thinking too that what we also have is an institutional
-        mindset to deal with. The institution is a cultural space (conceptually and physically).
-        I think faculty do tinker and bricolage within this space, but maybe in isolation,
-        that is on their own, or within their discipline. I notice for example that those
-        in the sciences, (a more gadget oriented mindset, perhaps) seem to have those
-        opportunities in place.
-    
-    
-        A piece I wrote recently, somewhat related.
-    
-    
-        http://www.allisonrossett.com/2012/07/07/how-we-helped-faculty-move-courses-online/'
-      date: '2012-10-09 08:07:59'
-      date_gmt: '2012-10-08 22:07:59'
-      id: '453'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: 'Liked the piece, though I almost stopped reading when I saw the word "incentivized".  :)  I
-        read on.
-    
-    
-        One thing that struck me was the differences in the context.  My experience within
-        Australian universities has been with institutions that have established 2nd generation
-        distance education processes that have then made the decision to go online.  It
-        wasn''t a choice or a selection process that resulted in academics developing
-        online courses, all/most courses are expected to do this.
-    
-    
-        For a range of reasons, this has led to a very industrialised approach to the
-        support of e-learning. Lots of quality assurance, process management etc which
-        have really prevented bricolage.
-    
-    
-        Then there''s the fact that both institutions I''ve worked in have had at least
-        3 physical campuses.  Which makes the "place" approach you mention in your piece
-        difficult.'
-      date: '2012-10-09 09:03:56'
-      date_gmt: '2012-10-08 23:03:56'
-      id: '454'
-      parent: '453'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: One example of industrial e-learning as &ldquo;on the web&rdquo; not &ldquo;of
-        the&nbsp;web&rdquo; | Educational Technology, Pedagogy and Learning Design | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/educational-technology-pedagogy-and-learning-design/p/2616063767/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web
-      content: '[...] The following arises from some recent experiences with the idea
-        of &ldquo;minimum course sites&rdquo; and this observation from @cogdog in this
-        blog post I have no idea if this is off base, but fra...&nbsp; [...]'
-      date: '2012-09-07 10:14:57'
-      date_gmt: '2012-09-07 00:14:57'
-      id: '448'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'One example of industrial e-learning as &ldquo;on the web&rdquo; not &ldquo;of
-        the&nbsp;web&rdquo; | E-Learning: Knowledge Platform | Scoop.it'
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/knowledge-platform-e-learning/p/2644891615/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web
-      content: '[...] The following arises from some recent experiences with the idea
-        of &ldquo;minimum course sites&rdquo; and this observation from @cogdog in this
-        blog post I have no idea if this is off base, but fra...&nbsp; [...]'
-      date: '2012-09-10 17:09:02'
-      date_gmt: '2012-09-10 07:09:02'
-      id: '449'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: One example of industrial e-learning as &ldquo;on the web&rdquo; not &ldquo;of
-        the&nbsp;web&rdquo; | EL | Scoop.it
-      author_email: null
-      author_ip: 89.30.105.121
-      author_url: http://www.scoop.it/t/embedded-librarianship-i/p/2768822643/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web
-      content: '[...] The following arises from some recent experiences with the idea
-        of &ldquo;minimum course sites&rdquo; and this observation from @cogdog in this
-        blog post I have no idea if this is off base, but fra...&nbsp; [...]'
-      date: '2012-09-23 22:14:06'
-      date_gmt: '2012-09-23 12:14:06'
-      id: '450'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The absence of a search function &#8211; my current big problem with a Moodle
-        installation | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.232.7.90
-      author_url: https://djon.es/blog/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/
-      content: '[...] How can I provide my students with a search function? How can I
-        make my course site &#8220;of the web&#8221; and not &#8220;on the web&#8221;?
-        [...]'
-      date: '2013-03-07 13:03:47'
-      date_gmt: '2013-03-07 03:03:47'
-      id: '455'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: "One example of industrial e-learning as \u201Con the web\u201D not \u201C\
-        of the web\u201D | Distance-Educator.com"
-      author_email: null
-      author_ip: 50.87.144.169
-      author_url: http://distance-educator.com/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/
-      content: '[&#8230;] Read the blog [&#8230;]'
-      date: '2014-04-21 14:54:30'
-      date_gmt: '2014-04-21 04:54:30'
-      id: '456'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following arises from some recent experiences with the idea of "minimum course sites" and this observation from [@cogdog](http://cogdog.info/) in [this blog post](http://cogdogblog.com/2012/09/04/gotta-know/)
 

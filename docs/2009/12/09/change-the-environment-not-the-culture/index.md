@@ -1,43 +1,40 @@
----
+﻿---
 categories:
 - elearning
 - psframework
 - thesis
-date: 2009-12-09 08:55:26+10:00
+comments:
+- approved: '1'
+  author: suifaijohnmak
+  author_email: suifaijohnmak@yahoo.com.au
+  author_ip: 60.241.166.115
+  author_url: http://suifaijohnmak.wordpress.com
+  content: 'Hi David,
+
+    Another wonderful post on change.  Yes, change the environment, that could make
+    the difference.  How to effect changes? You have provided some sound suggestions.
+    Let''s wait and see.
+
+    John'
+  date: '2010-07-31 21:38:55'
+  date_gmt: '2010-07-31 11:38:55'
+  id: '2883'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2009-12-08 22:55:26
 next:
   text: '"The Innovation Prevention Department: Why?"'
   url: /blog/2009/12/11/the-innovation-prevention-department-why/
+pingbacks: []
 previous:
   text: Self-reporting considered harmful?
   url: /blog/2009/12/08/self-reporting-considered-harmful/
 tags:
 - ascilite09
+template: blog-post.html
 title: Change the environment, not the culture
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: suifaijohnmak
-      author_email: suifaijohnmak@yahoo.com.au
-      author_ip: 60.241.166.115
-      author_url: http://suifaijohnmak.wordpress.com
-      content: 'Hi David,
-    
-        Another wonderful post on change.  Yes, change the environment, that could make
-        the difference.  How to effect changes? You have provided some sound suggestions.
-        Let''s wait and see.
-    
-        John'
-      date: '2010-07-31 21:38:55'
-      date_gmt: '2010-07-31 11:38:55'
-      id: '2883'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 I've heard a number of folk at [ASCILITE'09](http://www.ascilite.org.au/conferences/auckland09/) claim that there needs to be a change in culture amongst academics around learning and teaching. To me this has always sounded a bit like a deficit model of teaching staff. It's a model that I've heard again and again at ASCILITE'09 and in other literature around learning and teaching in higher education. You know the sort of thing e.g.
 

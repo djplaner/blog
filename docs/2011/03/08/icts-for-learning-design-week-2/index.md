@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-03-08 10:05:38+10:00
+date: 2011-03-08 00:05:38
 next:
   text: Reflection on the mobile phones wiki
   url: /blog/2011/03/08/reflection-on-the-mobile-phones-wiki/
 previous:
   text: Reflection on the learning theories wiki
   url: /blog/2011/03/07/reflection-on-the-learning-theories-wiki/
+template: blog-post.html
 title: '"ICTs for Learning Design: Week 2"'
 type: post
-template: blog-post.html
 ---
 Work for week 2. The following is a diary come min-reflection for the work I'm doing for the 2nd week of the ICTs for Learning Design course.
 
@@ -19,7 +19,7 @@ Work for week 2. The following is a diary come min-reflection for the work I'm d
 
 Oh dear, have just noticed that the banner image on the Moodle course site says "ITCs for Learning Design"
 
-[![Banners and QA](images/5504621822_23246d8e11_m.jpg)](http://www.flickr.com/photos/david_jones/5504621822/ "Banners and QA by David T Jones, on Flickr")
+[![Banners and QA](https://djon.es/assets/blog/2011/03/08/icts-for-learning-design-week-2/images/5504621822_23246d8e11_m.jpg)](http://www.flickr.com/photos/david_jones/5504621822/ "Banners and QA by David T Jones, on Flickr")
 
 ### Double check Week 1
 

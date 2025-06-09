@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -7,16 +7,16 @@ categories:
 - psframework
 - quotes
 - thesis
-date: 2009-03-04 09:55:50+10:00
+date: 2009-03-03 23:55:50
 next:
   text: Place - the industrial society's impact on schools - and universities?
   url: /blog/2009/03/05/place-the-industrial-societys-impact-on-schools-and-universities/
 previous:
   text: Task corruption in teaching @ university - negative impact of Place?
   url: /blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/
+template: blog-post.html
 title: The insanity of changing LMSes/VLEs
 type: post
-template: blog-post.html
 ---
 There is a definition of insanity that I've seen seen attributed to either Einstein or Benjamin Franklin,
 

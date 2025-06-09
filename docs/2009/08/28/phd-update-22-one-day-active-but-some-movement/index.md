@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - phd
-date: 2009-08-28 13:37:50+10:00
+date: 2009-08-28 03:37:50
 next:
   text: Comparisons between LMS - the need for system independence
   url: /blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/
 previous:
   text: E-Learning 2.0 and reliability of external services
   url: /blog/2009/08/26/e-learning-2-0-and-reliability-of-external-services/
+template: blog-post.html
 title: '"PhD Update #22 - one day active, but some movement"'
 type: post
-template: blog-post.html
 ---
 The last week has seen only one day spent on the PhD. Mainly due to working on a conference paper. The good news is that the paper is connected to the PhD. It looks at mining LMS usage logs to generate indicators of patterns which may be interesting. The paper includes a comparison of LMS feature adoption between Blackboard (CQU's existing institutional LMS) and Webfuse - the topic of the PhD. Webfuse comes out favourably from a couple of perspectives. More on this later.
 

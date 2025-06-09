@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - thesis
-date: 2014-12-29 15:18:45+10:00
+date: 2014-12-29 05:18:45
 next:
   text: An illustration of the difficulty of learning about network learning
   url: /blog/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/
@@ -10,9 +10,9 @@ previous:
   url: /blog/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/
 tags:
 - fedwikihappening
+template: blog-post.html
 title: '"Random #fedwikihappening ramblings"'
 type: post
-template: blog-post.html
 ---
 The Christmas break is over. It's the start of a new week and I've completed some holiday tasks (complete a run through of Dragon Age Inquisition, watch the final series of The Newsroom, and upgrade the family computers to Yosemite). Time to start engaging with #fedwikihappening and trying to make sense of how it connects with other work I'm doing.
 
@@ -52,7 +52,7 @@ There are some other interesting points in Mike's post around the experience of 
 
 ## SFW as a pattern language
 
-[![patterns in elearning](images/3152822497_7f0e2c3fb4_m.jpg)](https://www.flickr.com/photos/david_jones/3152822497 "patterns in elearning by David Jones, on Flickr")
+[![patterns in elearning](https://djon.es/assets/blog/2014/12/29/random-fedwikihappening-ramblings/images/3152822497_7f0e2c3fb4_m.jpg)](https://www.flickr.com/photos/david_jones/3152822497 "patterns in elearning by David Jones, on Flickr")
 
 Back when I was reading about [idea mining](/blog/2014/12/19/software-issues-for-applying-conversation-theory-for-effective-collaboration-via-the-internet/) I had a vague sense of deja vu. This was quickly resolved as I explored some of SFW space and came across articles like [Positive Outdoor Space](http://fedwiki.djon.es/view/welcome-visitors/view/recent-changes/forage.ward.fed.wiki.org/positive-outdoor-space). Ahh, design patterns and pattern languages. Confirmed by discovering articles such as [Pattern language](http://fedwiki.djon.es/forage.ward.fed.wiki.org/invited-authors/wiki.sfw.c2.com/pattern-language) and the connection [Ward Cunningham](http://en.wikipedia.org/wiki/Ward_Cunningham) (originator of SFW) has with design patterns.
 

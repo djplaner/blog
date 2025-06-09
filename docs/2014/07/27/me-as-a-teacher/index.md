@@ -1,118 +1,116 @@
----
+﻿---
 categories:
 - edu8117
-date: 2014-07-27 11:40:55+10:00
+comments:
+- approved: '1'
+  author: chrisbigum
+  author_email: cbigum@gmail.com
+  author_ip: 58.110.43.209
+  author_url: null
+  content: Thanks for the Mitra link - take him off my list! - had not done the kind
+    of due diligence that Clark maps.
+  date: '2014-07-27 12:59:33'
+  date_gmt: '2014-07-27 02:59:33'
+  id: '1005'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2014-07-27 01:40:55
 next:
   text: Give them a fish, or teach them to fish?
   url: /blog/2014/07/27/give-them-a-fish-or-teach-them-to-fish/
+pingbacks:
+- approved: '1'
+  author: '&#8216;As a student&#8217; &#8211; Diigo self reflection | EVEN ELMO&#039;S
+    GOT A MOBILE'
+  author_email: null
+  author_ip: 66.155.38.27
+  author_url: http://astrethewey.wordpress.com/2014/08/23/as-a-student-diigo-self-reflection/
+  content: "[&#8230;] and shared it with the group. \_Unsure exactly what this should\_\
+    look like, I endeavoured to the example David provided; however, I was not able\
+    \ to view any of the annotations on the page? \_I could see [&#8230;]"
+  date: '2014-08-23 11:46:34'
+  date_gmt: '2014-08-23 01:46:34'
+  id: '1006'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How to see Diigo annotations | An experiment in Networked &amp; Global Learning
+  author_email: null
+  author_ip: 66.155.9.137
+  author_url: http://netgl.wordpress.com/2014/08/23/how-to-see-diigo-annotations/
+  content: "[&#8230;] e.g. any of those listed on the Diigo group page or more particular\
+    \ those tagged with spta. e.g.\_my page that Anne&#8217;s been having problems\
+    \ [&#8230;]"
+  date: '2014-08-23 13:15:14'
+  date_gmt: '2014-08-23 03:15:14'
+  id: '1007'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Too much stuff, not enough time | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.192
+  author_url: https://djon.es/blog/2014/09/02/too-much-stuff-not-enough-time/
+  content: '[&#8230;] from NETGL and figuring out what they can offer some insights
+    for enhancing and transforming the two courses I currently teach. By this time
+    I&#8217;d also have set up my new domain (something I have actually [&#8230;]'
+  date: '2014-09-02 10:36:44'
+  date_gmt: '2014-09-02 00:36:44'
+  id: '1008'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '&#8220;Me as teacher&#8221; &#8211; the 2015 focus for NGL | The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 192.0.82.47
+  author_url: https://davidtjones.wordpress.com/2015/07/23/me-as-teacher-the-2015-focus-for-ngl/
+  content: '[&#8230;] year I wrote this &#8220;as teacher&#8221; and it had a more
+    traditional focus. I was thinking about me as the teacher of a couple of formal
+    [&#8230;]'
+  date: '2015-07-23 13:22:21'
+  date_gmt: '2015-07-23 03:22:21'
+  id: '1009'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Understanding learning as network formation | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.100.116
+  author_url: https://davidtjones.wordpress.com/2015/08/18/understanding-learning-as-network-formation/
+  content: '[&#8230;] I have an affinity for McWilliam&#8217;s (2009) concept of the
+    &#8220;meddler in the middle&#8221; which points toward a more interventionist
+    pedagogy in which teachers are mutually involved with [&#8230;]'
+  date: '2015-08-18 14:32:11'
+  date_gmt: '2015-08-18 04:32:11'
+  id: '1010'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Teacher presence in network learning &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.99.61
+  author_url: https://davidtjones.wordpress.com/2016/08/07/teacher-presence-in-network-learning/
+  content: '[&#8230;] couple of years ago I wrote this post as an example of a &#8220;as
+    teacher&#8221; post &#8211; a requirement for the NGL course. Not a [&#8230;]'
+  date: '2016-08-07 15:36:06'
+  date_gmt: '2016-08-07 05:36:06'
+  id: '1011'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Identity, community and trajectories - Jawitz (2009)
   url: /blog/2014/07/26/identity-community-and-trajectories-jawitz-2009/
+template: blog-post.html
 title: Me as a teacher
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: chrisbigum
-      author_email: cbigum@gmail.com
-      author_ip: 58.110.43.209
-      author_url: null
-      content: Thanks for the Mitra link - take him off my list! - had not done the kind
-        of due diligence that Clark maps.
-      date: '2014-07-27 12:59:33'
-      date_gmt: '2014-07-27 02:59:33'
-      id: '1005'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: '&#8216;As a student&#8217; &#8211; Diigo self reflection | EVEN ELMO&#039;S
-        GOT A MOBILE'
-      author_email: null
-      author_ip: 66.155.38.27
-      author_url: http://astrethewey.wordpress.com/2014/08/23/as-a-student-diigo-self-reflection/
-      content: "[&#8230;] and shared it with the group. \_Unsure exactly what this should\_\
-        look like, I endeavoured to the example David provided; however, I was not able\
-        \ to view any of the annotations on the page? \_I could see [&#8230;]"
-      date: '2014-08-23 11:46:34'
-      date_gmt: '2014-08-23 01:46:34'
-      id: '1006'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How to see Diigo annotations | An experiment in Networked &amp; Global Learning
-      author_email: null
-      author_ip: 66.155.9.137
-      author_url: http://netgl.wordpress.com/2014/08/23/how-to-see-diigo-annotations/
-      content: "[&#8230;] e.g. any of those listed on the Diigo group page or more particular\
-        \ those tagged with spta. e.g.\_my page that Anne&#8217;s been having problems\
-        \ [&#8230;]"
-      date: '2014-08-23 13:15:14'
-      date_gmt: '2014-08-23 03:15:14'
-      id: '1007'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Too much stuff, not enough time | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.192
-      author_url: https://djon.es/blog/2014/09/02/too-much-stuff-not-enough-time/
-      content: '[&#8230;] from NETGL and figuring out what they can offer some insights
-        for enhancing and transforming the two courses I currently teach. By this time
-        I&#8217;d also have set up my new domain (something I have actually [&#8230;]'
-      date: '2014-09-02 10:36:44'
-      date_gmt: '2014-09-02 00:36:44'
-      id: '1008'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '&#8220;Me as teacher&#8221; &#8211; the 2015 focus for NGL | The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 192.0.82.47
-      author_url: https://davidtjones.wordpress.com/2015/07/23/me-as-teacher-the-2015-focus-for-ngl/
-      content: '[&#8230;] year I wrote this &#8220;as teacher&#8221; and it had a more
-        traditional focus. I was thinking about me as the teacher of a couple of formal
-        [&#8230;]'
-      date: '2015-07-23 13:22:21'
-      date_gmt: '2015-07-23 03:22:21'
-      id: '1009'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Understanding learning as network formation | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.100.116
-      author_url: https://davidtjones.wordpress.com/2015/08/18/understanding-learning-as-network-formation/
-      content: '[&#8230;] I have an affinity for McWilliam&#8217;s (2009) concept of the
-        &#8220;meddler in the middle&#8221; which points toward a more interventionist
-        pedagogy in which teachers are mutually involved with [&#8230;]'
-      date: '2015-08-18 14:32:11'
-      date_gmt: '2015-08-18 04:32:11'
-      id: '1010'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Teacher presence in network learning &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.99.61
-      author_url: https://davidtjones.wordpress.com/2016/08/07/teacher-presence-in-network-learning/
-      content: '[&#8230;] couple of years ago I wrote this post as an example of a &#8220;as
-        teacher&#8221; post &#8211; a requirement for the NGL course. Not a [&#8230;]'
-      date: '2016-08-07 15:36:06'
-      date_gmt: '2016-08-07 05:36:06'
-      id: '1011'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 One of the tasks asked of participants in the [NGL course](https://netgl.wordpress.com/) is to write about "me as a teacher" (i.e. some sort of involvement in formal education helping others learn). The idea is that as we read and think about NGL ideas, theories and tools we're working towards figuring out how we can transform what we do as a teacher using those ideas, theories and tools.
 

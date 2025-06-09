@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - coursesites
 - elearning
-date: 2011-04-01 12:17:41+10:00
+date: 2011-04-01 02:17:41
 next:
   text: Making and using an OPML feed of student blogs
   url: /blog/2011/04/04/making-and-using-an-opml-feed-of-student-blogs/
 previous:
   text: Two new laws for ERA/NAPLAN etc
   url: /blog/2011/04/01/two-new-laws-for-eranaplan-etc/
+template: blog-post.html
 title: Reflections on a 12 year-old course site - It would be harder now
 type: post
-template: blog-post.html
 ---
 For a variety of reasons, mostly due to some current study, I've retrieved from the rubbish tip of history a [course website](http://dl.dropbox.com/u/14025788/85349/index.html) I helped design and teach back in 1999. What follows here are some reflections on what has and hasn't changed since 1999. At the end there is a bit of speculation that the current context within universities would make it harder to generate this type of course site.
 
@@ -85,4 +85,4 @@ Now, it is possible to describe this course as an example of a ["lone ranger"/fr
 
 Lone ranger doing his thing 
 
-[![Sledge to a computer](images/5578442226_9bd575644f_m.jpg)](http://www.flickr.com/photos/david_jones/5578442226/ "Sledge to a computer by David T Jones, on Flickr")
+[![Sledge to a computer](https://djon.es/assets/blog/2011/04/01/reflections-on-a-12-year-old-course-site-it-would-be-harder-now/images/5578442226_9bd575644f_m.jpg)](http://www.flickr.com/photos/david_jones/5578442226/ "Sledge to a computer by David T Jones, on Flickr")

@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,16 +6,16 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-08-30 08:28:40+10:00
+date: 2009-08-29 22:28:40
 next:
   text: '"Procurement and software: alternate models for e-learning"'
   url: /blog/2009/08/31/procurement-and-software-alternate-models-for-e-learning/
 previous:
   text: Comparisons between LMS - the need for system independence
   url: /blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/
+template: blog-post.html
 title: '"Learning Tools in Higher Education: Products, Characteristics, Procurement"'
 type: post
-template: blog-post.html
 ---
 Back to the PhD today, probably will do a couple of summaries of papers I'm reading. The focus is on the product models and procurement strategies used by Universities to solve the technical problem of e-learning. I start with a paper with the title "Learning Tools in Higher Education: Products, Characteristics, Procurement" (Wild and Sobernig, 2007)
 

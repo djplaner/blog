@@ -1,10 +1,10 @@
----
+﻿---
 categories:
 - bad
 - dlrn
 - elearning
 - tpack
-date: 2015-10-30 16:19:40+10:00
+date: 2015-10-30 06:19:40
 next:
   text: Anyone capturing users' post-adoptive behaviours for the LMS? Implications?
   url: /blog/2015/10/31/anyone-capturing-users-post-adoptive-behaviours-for-the-lms-implications/
@@ -12,9 +12,9 @@ previous:
   text: Re-purposing V&#038;R mapping to explore modification of digital learning
     spaces
   url: /blog/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/
+template: blog-post.html
 title: The CSCW view of Knowledge Management
 type: post
-template: blog-post.html
 ---
 Earlier this week I attended a session given by the research ethics folk at my institution. One of the observations was that they'd run training sessions but almost no-one came. I've heard similar observations from L&T folk, librarians, and just about anyone else aiming to help academics develop new skills. Especially when people spend time and effort developing yet another you beaut website or booklet that provides everything one would want to know about a topic. There's also the broader trope developing about academics/teachers being digitally illiterate, which I'm increasingly seeing as unhelpful and perhaps even damaging.
 

@@ -1,38 +1,35 @@
----
+﻿---
 categories:
 - thesis
-date: 2016-01-17 14:31:10+10:00
+comments: []
+date: 2016-01-17 04:31:10
 next:
   text: '"Mapping the digital practices of teacher educators: Implications for teacher
     education in changing digital landscapes"'
   url: /blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/
+pingbacks:
+- approved: '1'
+  author: Testing out the Moodle book search &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.82.191
+  author_url: https://davidtjones.wordpress.com/2016/05/10/testing-out-the-moodle-book-search/
+  content: '[&#8230;] this year &#8211; as part of the Moodle Open Book project &#8211;
+    I made some changes to Search Book block for Moodle. The hope being that my institution
+    might install this on [&#8230;]'
+  date: '2016-05-10 10:08:14'
+  date_gmt: '2016-05-10 00:08:14'
+  id: '1464'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Tweaking Moodle book search
   url: /blog/2015/12/15/tweaking-moodle-book-search/
 tags:
 - moodleopenbook
+template: blog-post.html
 title: Finishing tweaks to Moodle book search block
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Testing out the Moodle book search &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.82.191
-      author_url: https://davidtjones.wordpress.com/2016/05/10/testing-out-the-moodle-book-search/
-      content: '[&#8230;] this year &#8211; as part of the Moodle Open Book project &#8211;
-        I made some changes to Search Book block for Moodle. The hope being that my institution
-        might install this on [&#8230;]'
-      date: '2016-05-10 10:08:14'
-      date_gmt: '2016-05-10 00:08:14'
-      id: '1464'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A [previous post](/blog/2015/12/15/tweaking-moodle-book-search/) recorded some early exploration of what tweaks might be necessary to be made to the Moodle book search block. The [original code](https://github.com/stronk7/moodle-block_search_books) for the block and the [tweaks I've made](https://github.com/djplaner/moodle-block_search_books) are available via GitHub.
 
@@ -180,11 +177,11 @@ This particular task includes the following sub-tasks
 
 The current search results look like this
 
-[![Book search (existing)](images/23485445450_0fe28bd436.jpg)](https://www.flickr.com/photos/david_jones/23485445450/in/dateposted-public/ "Book search (existing)")
+[![Book search (existing)](https://djon.es/assets/blog/2016/01/17/finishing-tweaks-to-moodle-book-search-block/images/23485445450_0fe28bd436.jpg)](https://www.flickr.com/photos/david_jones/23485445450/in/dateposted-public/ "Book search (existing)")
 
 The earlier mock up I produced looks like this
 
-[![004_results](images/19195121204_5d57647079.jpg)](https://www.flickr.com/photos/david_jones/19195121204/in/dateposted-public/ "004_results") Some possible improvements include:
+[![004_results](https://djon.es/assets/blog/2016/01/17/finishing-tweaks-to-moodle-book-search-block/images/19195121204_5d57647079.jpg)](https://www.flickr.com/photos/david_jones/19195121204/in/dateposted-public/ "004_results") Some possible improvements include:
 
 - Nest book and chapter titles As shown above, the current search interface repeats the name of the book "Copyright and what you can use" for each chapter.  A different interface might be to next book, chapter, and sub-chapters.
 - Include the module/topic name in the hierarchy Book's typically fit within a module/topic. Including that in the search response would likely help the user orient themselves to where the discovered books reside on the broader site.

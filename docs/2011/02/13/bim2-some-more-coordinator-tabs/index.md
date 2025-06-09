@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2011-02-13 23:17:19+10:00
+date: 2011-02-13 13:17:19
 next:
   text: Getting an overview of the term ahead
   url: /blog/2011/02/15/getting-an-overview-of-the-term-ahead/
 previous:
   text: On the potential flexibility of open source LMS and its limits
   url: /blog/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
+template: blog-post.html
 title: '"bim2: Some more coordinator tabs"'
 type: post
-template: blog-post.html
 ---
 The [last work](/blog/2011/02/13/bim2-starting-on-the-coordinator-models/) on bim2 ended up with the first 2 of 5 tabs for the coordinator interface completed. This post continues on with that development.
 
@@ -47,11 +47,11 @@ _To do:_ The intent is that bim2 will recognise groupings, an aspect of Moodle's
 
 Okay, that looks like it is working. The initial Allocate Markers page is very simple
 
-[![Allocate markers](images/5441623392_da92fbf1c2_m.jpg)](http://www.flickr.com/photos/david_jones/5441623392/ "Allocate markers by David T Jones, on Flickr")
+[![Allocate markers](https://djon.es/assets/blog/2011/02/13/bim2-some-more-coordinator-tabs/images/5441623392_da92fbf1c2_m.jpg)](http://www.flickr.com/photos/david_jones/5441623392/ "Allocate markers by David T Jones, on Flickr")
 
 Just a list of teaching staff with a select menu full of course groups. The results of any processing are given a simple unordered list.
 
-[![Allocate markers processing](images/5441018155_8efa5c5416_m.jpg)](http://www.flickr.com/photos/david_jones/5441018155/ "Allocate markers processing by David T Jones, on Flickr")
+[![Allocate markers processing](https://djon.es/assets/blog/2011/02/13/bim2-some-more-coordinator-tabs/images/5441018155_8efa5c5416_m.jpg)](http://www.flickr.com/photos/david_jones/5441018155/ "Allocate markers processing by David T Jones, on Flickr")
 
 There is a small problem with these images in that there are some missing images from the theme. They weren't missing in the Manage questions dumps from earlier in the day. So I'm assuming there is some minor problem with the theme rather than a fundamental mistake in how I'm doing something in Moodle.
 

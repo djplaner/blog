@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-05-24 09:09:34+10:00
+comments: []
+date: 2009-05-23 23:09:34
 next:
   text: Teleological and ateleological processes
   url: /blog/2009/05/25/teleological-and-ateleological-processes/
+pingbacks:
+- approved: '1'
+  author: "The reason *insert label* talk about gurus is because they can\u2019t spell\
+    \ the word charlatan &laquo; The Weblog of (a) David Jones"
+  author_email: null
+  author_ip: 76.74.254.70
+  author_url: https://djon.es/blog/2009/06/21/the-reason-insert-label-talk-about-gurus-is-because-they-can%e2%80%99t-spell-the-word-charlatan/
+  content: '[...] sparked by Dilbert and my own prejudice against external consultants
+    to contribute two posts (1 and 2). In some thesis reading today, I came across
+    this great quote the continues my basic premise. the [...]'
+  date: '2009-06-21 10:43:12'
+  date_gmt: '2009-06-21 00:43:12'
+  id: '2530'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: The problem with consultants/MBAs - Dilbert&#039;s view
   url: /blog/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/
+template: blog-post.html
 title: Continuing to bash the consultant model
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: "The reason *insert label* talk about gurus is because they can\u2019t spell\
-        \ the word charlatan &laquo; The Weblog of (a) David Jones"
-      author_email: null
-      author_ip: 76.74.254.70
-      author_url: https://djon.es/blog/2009/06/21/the-reason-insert-label-talk-about-gurus-is-because-they-can%e2%80%99t-spell-the-word-charlatan/
-      content: '[...] sparked by Dilbert and my own prejudice against external consultants
-        to contribute two posts (1 and 2). In some thesis reading today, I came across
-        this great quote the continues my basic premise. the [...]'
-      date: '2009-06-21 10:43:12'
-      date_gmt: '2009-06-21 00:43:12'
-      id: '2530'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 I'm currently on a bit of a wave with bashing the consultant model of change, i.e. a model by which an "expert" from outside comes into a context performs or directs the performance of some analysis and evaluation of the context and then, drawing on their vast knowledge, recommends some ways forward. I started my "bashing wave" in [a post](/blog/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/) comparing this model with the "fat smoker" problem (telling them what they already know isn't sufficient to create change) and then continued with [this inspiration from Dilbert](/blog/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/).
 

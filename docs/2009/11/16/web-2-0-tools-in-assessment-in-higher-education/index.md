@@ -1,7 +1,7 @@
----
+﻿---
 categories:
 - elearning
-date: 2009-11-16 09:51:35+10:00
+date: 2009-11-15 23:51:35
 next:
   text: Business intelligence and PEBKAC
   url: /blog/2009/11/20/business-intelligence-and-pebkac/
@@ -10,9 +10,9 @@ previous:
   url: /blog/2009/11/13/twitter-back-channels-conferences-sessions-and-engaging-the-audience/
 tags:
 - web2-0-socialmedia
+template: blog-post.html
 title: Web 2.0 tools in assessment in higher education
 type: post
-template: blog-post.html
 ---
 Next Monday I will be at the University of Melbourne participating in a "National Roundtable" title "Web 2.0 Authoring Tools in Higher Education Learning and Teaching: New Directions for Assessment and Academic Integrity". This is being run as part of an ALTC project titled [Web 2.0 authoring tools in higher education learning and teaching: New directions for assessment and academic integrity](http://www.groups.edna.edu.au/course/view.php?id=2146)
 
@@ -44,7 +44,7 @@ For me, good practice around using social media in assessment in higher educatio
 
 I do recognise that learning and teaching/assessment in higher education is not a mono-culture. There are many and varied cultures that differ in many ways. However, I think there is a fairly large group of folk involved in learning and teaching within higher education that have much in common. For this I turn to Moore's chasm and Geoghegan (1994). This is the idea shown in the figure below that shows a chasm between the innovative folk and the pragmatic folk.
 
-[![](images/Technology-Adoption-Lifecycle.png)](http://en.wikipedia.org/wiki/File:Technology-Adoption-Lifecycle.png)
+[![](https://djon.es/assets/blog/2009/11/16/web-2-0-tools-in-assessment-in-higher-education/images/Technology-Adoption-Lifecycle.png)](http://en.wikipedia.org/wiki/File:Technology-Adoption-Lifecycle.png)
 
 The chasm idea is that the folk to the left of the chasm are very different to those to the right. Geoghegan's (1994) idea is that most of what happens in higher education around instructional technology is designed for the folk to the left of the chasm. This is why most use of instructional technology has little adoption and what is adopted is of poor quality.
 

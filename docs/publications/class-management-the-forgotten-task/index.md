@@ -1,28 +1,25 @@
----
-date: 2009-01-01 14:57:09+10:00
+﻿---
+comments: []
+date: 2009-01-01 04:57:09
+pingbacks:
+- approved: '1'
+  author: Some thinking on analysing Webfuse usage &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.96.196
+  author_url: https://djon.es/blog/2010/03/07/some-thinking-on-analysing-webfuse-usage/
+  content: '[...] &#8211; and mapping the LMS functionality into that feature set.
+    Malikowski doesn&#8217;t include class management. Also, in a Webfuse context,
+    the idea of a page update usage would be useful. Implies some [...]'
+  date: '2010-03-07 14:21:54'
+  date_gmt: '2010-03-07 04:21:54'
+  id: '2030'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+template: blog-post.html
 title: '"Class management: The forgotten task"'
 type: page
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Some thinking on analysing Webfuse usage &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.96.196
-      author_url: https://djon.es/blog/2010/03/07/some-thinking-on-analysing-webfuse-usage/
-      content: '[...] &#8211; and mapping the LMS functionality into that feature set.
-        Malikowski doesn&#8217;t include class management. Also, in a Webfuse context,
-        the idea of a page update usage would be useful. Implies some [...]'
-      date: '2010-03-07 14:21:54'
-      date_gmt: '2010-03-07 04:21:54'
-      id: '2030'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 David Jones, Colin McCormack, Class Management: The Forgotten Task, Hope Greenberg, Rik Hall (editors), Shortening the Distance to Education, Proceedings of the Third International North American Web Conference, Fredicton, Canada, pp 109-125.
 
@@ -151,11 +148,11 @@ It is not uncommon for attendance at tutorials and practical sessions to contrib
 
 Figures 1 and 2 show one solution to these problems, a Web-based attendance system that is part of the Webfuse system ([http://webfuse.cqu.edu.au](http://webfuse.cqu.edu.au)). This system stores the record of student attendance on the central Web server. This information can be updated at any location which has Web access via a password protected Web form. Similarly students could check their attendance from any Web browser (figure 2).
 
-[![figure1](images/3154714257_ebe461443c.jpg)](http://www.flickr.com/photos/david_jones/3154714257/ "figure1 by David T Jones, on Flickr")
+[![figure1](https://djon.es/assets/blog/publications/class-management-the-forgotten-task/images/3154714257_ebe461443c.jpg)](http://www.flickr.com/photos/david_jones/3154714257/ "figure1 by David T Jones, on Flickr")
 
 Figure 1 - Web form for setting attendance
 
-[![figure2](images/3155551204_039797c80a.jpg)](http://www.flickr.com/photos/david_jones/3155551204/ "figure2 by David T Jones, on Flickr")
+[![figure2](https://djon.es/assets/blog/publications/class-management-the-forgotten-task/images/3155551204_039797c80a.jpg)](http://www.flickr.com/photos/david_jones/3155551204/ "figure2 by David T Jones, on Flickr")
 
 Figure 2 - Web page for checking attendance
 
@@ -277,7 +274,7 @@ There are a number of tools which can aid in analysis of student participation i
     Traditional analysis tools for the logs of Web servers provide information about how many people visited a site and how many times they visited each page. These tools are quite common, relatively simple to use and provide some interesting information. Pointers to a large number of such tools is available from Yahoo [http://www.yahoo.com/Computers\_and\_Internet/ Software/Internet/World\_Wide\_Web/Servers/Log\_Analysis\_Tools/](http://www.yahoo.com/Computers_and_Internet/Software/Internet/World_Wide_Web/Servers/Log_Analysis_Tools/)
 - Session analysis of Web logs  
     A Web session can be defined as the sequence of pages a person visits on a particular Web site. In a Web-based classroom it can be useful to observe the sequence of pages a student visits including the order and the time they spend on each page. This type of analysis is usually not performed by traditional Web log analysis tools. One tool that does perform this analysis is Follow ([http://mnot.cyber.com.au/follow/](http://mnot.cyber.com.au/follow/)). Figure 3 is an example of the output produced by Follow. For each person who has visited the pages for a Web-based classroom, Follow extracts the sequence of pages and the times they visited them.  
-    [![figure3](images/3154714447_6be83ca301.jpg)](http://www.flickr.com/photos/david_jones/3154714447/ "figure3 by David T Jones, on Flickr")
+    [![figure3](https://djon.es/assets/blog/publications/class-management-the-forgotten-task/images/3154714447_6be83ca301.jpg)](http://www.flickr.com/photos/david_jones/3154714447/ "figure3 by David T Jones, on Flickr")
     
     **Figure 3 - Example output of Follow analysis of log file**
     

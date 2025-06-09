@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - elearning
-date: 2013-10-09 18:05:12+10:00
+comments:
+- approved: '1'
+  author: Colin Simpson (@gamerlearner)
+  author_email: gamerlearner@twitter.example.com
+  author_ip: 161.50.48.2
+  author_url: http://twitter.com/gamerlearner
+  content: I'm just glad that this is finally getting some recognition - clearly there
+    are many issues to address as far as identifying what type of teaching and teaching
+    prep is required for eLearning but getting institutions to acknowledge that this
+    is legitimately additional work is a big first step.
+  date: '2013-10-14 14:37:51'
+  date_gmt: '2013-10-14 04:37:51'
+  id: '878'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2013-10-09 08:05:12
 next:
   text: Strategies for curriculum mapping and data collection for assuring learning
   url: /blog/2013/10/10/strategies-for-curriculum-mapping-and-data-collection-for-assuring-learning/
+pingbacks: []
 previous:
   text: Dissenting views of institutional e-learning
   url: /blog/2013/10/09/dissenting-views-of-institutional-e-learning/
+template: blog-post.html
 title: Technology-enhanced learning - workloads and costs
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Colin Simpson (@gamerlearner)
-      author_email: gamerlearner@twitter.example.com
-      author_ip: 161.50.48.2
-      author_url: http://twitter.com/gamerlearner
-      content: I'm just glad that this is finally getting some recognition - clearly there
-        are many issues to address as far as identifying what type of teaching and teaching
-        prep is required for eLearning but getting institutions to acknowledge that this
-        is legitimately additional work is a big first step.
-      date: '2013-10-14 14:37:51'
-      date_gmt: '2013-10-14 04:37:51'
-      id: '878'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    []
-    
 ---
 The following is a summary and some thoughts on the final report of an OLT funded project titled [e-Teaching leadership: planning and implementing a benefits-oriented costs model for technology enhanced learning](http://www.olt.gov.au/project-e-teaching-leadership-une-2009).
 

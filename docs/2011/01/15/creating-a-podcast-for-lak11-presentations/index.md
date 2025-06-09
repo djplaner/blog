@@ -1,61 +1,58 @@
----
+﻿---
 categories:
 - indicators
 - lak11
-date: 2011-01-15 14:42:11+10:00
+comments:
+- approved: '1'
+  author: Sylvia Currie
+  author_email: sylvia@webbedfeat.com
+  author_ip: 66.183.117.209
+  author_url: http://blog.webbedfeat.com
+  content: Excellent! And absolutely fine to move those files. BTW, I don't know why
+    SCoPE is behaving like that -- redirecting you to the home page when you access
+    files. I'll look into it!
+  date: '2011-01-15 15:07:31'
+  date_gmt: '2011-01-15 05:07:31'
+  id: '3224'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.185.51.1
+  author_url: https://djon.es/blog/
+  content: 'Thanks Sylvia.
+
+
+    I think the behaviour is built into the Moodle "file.php" file.  The URL for one
+    of the files on the SCOPE Moodle is http://scope.bccampus.ca/file.php/365/audio_recordings/LAK11_JAN07-2011.mp3
+
+
+    I''m assuming that either built into file.php, or perhaps as a result of the configuration
+    of the LAK11 Moodle course, it needs your web browser to have a cookie set to
+    access the file.  If I visit that URL after visiting the LAK11 Moodle site, it
+    works fine.  If I visit the URL in a fresh browser instance that hasn''t logged
+    into the LAK11 Moodle site, then it redirects me here http://scope.bccampus.ca/login/index.php?loginguest=true'
+  date: '2011-01-15 15:20:40'
+  date_gmt: '2011-01-15 05:20:40'
+  id: '3225'
+  parent: '3224'
+  type: comment
+  user_id: '1'
+date: 2011-01-15 04:42:11
 next:
   text: Analytics creating too much transparency? A two-edged sword?
   url: /blog/2011/01/18/analytics-creating-too-much-transparency-a-two-edged-sword/
+pingbacks: []
 previous:
   text: Introducing Hunch
   url: /blog/2011/01/13/introducing-hunch/
 tags:
 - lak11
+template: blog-post.html
 title: Creating a podcast for LAK11 presentations
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Sylvia Currie
-      author_email: sylvia@webbedfeat.com
-      author_ip: 66.183.117.209
-      author_url: http://blog.webbedfeat.com
-      content: Excellent! And absolutely fine to move those files. BTW, I don't know why
-        SCoPE is behaving like that -- redirecting you to the home page when you access
-        files. I'll look into it!
-      date: '2011-01-15 15:07:31'
-      date_gmt: '2011-01-15 05:07:31'
-      id: '3224'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.185.51.1
-      author_url: https://djon.es/blog/
-      content: 'Thanks Sylvia.
-    
-    
-        I think the behaviour is built into the Moodle "file.php" file.  The URL for one
-        of the files on the SCOPE Moodle is http://scope.bccampus.ca/file.php/365/audio_recordings/LAK11_JAN07-2011.mp3
-    
-    
-        I''m assuming that either built into file.php, or perhaps as a result of the configuration
-        of the LAK11 Moodle course, it needs your web browser to have a cookie set to
-        access the file.  If I visit that URL after visiting the LAK11 Moodle site, it
-        works fine.  If I visit the URL in a fresh browser instance that hasn''t logged
-        into the LAK11 Moodle site, then it redirects me here http://scope.bccampus.ca/login/index.php?loginguest=true'
-      date: '2011-01-15 15:20:40'
-      date_gmt: '2011-01-15 05:20:40'
-      id: '3225'
-      parent: '3224'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 I'm currently participating in the [Learning and Knowledge Analytics MOOC](http://learninganalytics.net/) being run by George Siemens and others. This post outlines the process I used to create a [podcast of the presentations](http://feeds.feedburner.com/lak11podcast) (click on that link if you want to subscribe to the podcast) being given as part of the course.
 

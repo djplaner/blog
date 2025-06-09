@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - eded20488
 - teaching
-date: 2011-07-05 13:23:28+10:00
+date: 2011-07-05 03:23:28
 next:
   text: '"Social bookmarks, curriculum and resources: A search for a visualisation
     tool"'
@@ -10,10 +10,10 @@ next:
 previous:
   text: How do you increase sharing? Create an interactive website?
   url: /blog/2011/07/04/how-do-you-increase-sharing-create-an-interactive-website/
+template: blog-post.html
 title: '"Some considerations around ICTs for learning in the Senior School: initial
   thoughts and planning"'
 type: post
-template: blog-post.html
 ---
 So, yet another assignment as a pre-service teacher. This one is a 2000 word report on a challenge facing Queensland education. The title of this post is the current title for my report. The following contains the "abstract" we were required to post to the course discussion forum and some initial planning for the broader report. If you have any suggestions fire away.
 

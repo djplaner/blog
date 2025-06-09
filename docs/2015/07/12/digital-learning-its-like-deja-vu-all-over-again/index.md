@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - bad
 - dlrn15
 - elearning
 - set
-date: 2015-07-12 08:52:53+10:00
+comments: []
+date: 2015-07-11 22:52:53
 next:
   text: Revising week 1 of EDU8117 - Networked and Global Learning
   url: /blog/2015/07/15/revising-week-1-of-edu8117-networked-and-global-learning/
+pingbacks:
+- approved: '1'
+  author: 'Digital learning: It''s like d&eacute;j&agrave; ...'
+  author_email: null
+  author_ip: 185.82.148.10
+  author_url: http://www.scoop.it/t/crear-compartir-y-colaborar/p/4047760657/2015/07/16/digital-learning-it-s-like-deja-vu-all-over-again
+  content: '[&#8230;] Earlier this week I received the good news that my submission
+    to the #dLRN15 conference had been accepted. This post is destined to be the &quot;home&quot;
+    for all the resources etc. that arise from this ses...&nbsp; [&#8230;]'
+  date: '2015-07-16 21:23:06'
+  date_gmt: '2015-07-16 11:23:06'
+  id: '1363'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Female/male participation rates in IT: an example of what&#039;s easy to
     log??'
   url: /blog/2015/07/09/femalemale-participation-rates-in-it-an-example-of-whats-easy-to-log/
+template: blog-post.html
 title: "\"Digital learning: It's d\xE9j\xE0 vu all over again\""
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Digital learning: It''s like d&eacute;j&agrave; ...'
-      author_email: null
-      author_ip: 185.82.148.10
-      author_url: http://www.scoop.it/t/crear-compartir-y-colaborar/p/4047760657/2015/07/16/digital-learning-it-s-like-deja-vu-all-over-again
-      content: '[&#8230;] Earlier this week I received the good news that my submission
-        to the #dLRN15 conference had been accepted. This post is destined to be the &quot;home&quot;
-        for all the resources etc. that arise from this ses...&nbsp; [&#8230;]'
-      date: '2015-07-16 21:23:06'
-      date_gmt: '2015-07-16 11:23:06'
-      id: '1363'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Below you will find resources associated with a talk titled "Digital Learning: It's deja vu all over again". The slides below are the near final set to be presented at [the #dLRN15 conference](http://linkresearchlab.org/dlrn2015/) (abstract available below).
 

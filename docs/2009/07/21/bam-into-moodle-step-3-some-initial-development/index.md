@@ -1,37 +1,34 @@
----
+﻿---
 categories:
 - bam
 - moodle
-date: 2009-07-21 15:38:21+10:00
+comments: []
+date: 2009-07-21 05:38:21
 next:
   text: Improving CEQ Outcomes
   url: /blog/2009/07/23/improving-ceq-outcomes/
+pingbacks:
+- approved: '1'
+  author: 'BAM into Moodle Step #4 &#8211; Learning more about Moodle &laquo; The
+    Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.147
+  author_url: https://djon.es/blog/2009/07/23/bam-into-moodle-step-4-learning-more-about-moodle/
+  content: '[...] into Moodle Step #4 &#8211; Learning more about&nbsp;Moodle  In
+    the previous step I got to know a bit more about the Moodle code base, libraries
+    and idioms. Even got to modify a bit [...]'
+  date: '2009-07-23 13:12:17'
+  date_gmt: '2009-07-23 03:12:17'
+  id: '2651'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'BAM into Moodle - Step #2: configuration and questions'
   url: /blog/2009/07/21/bam-into-moodle-step-2-configuration-and-questions/
+template: blog-post.html
 title: '"BAM into Moodle - Step #3 - some initial development?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'BAM into Moodle Step #4 &#8211; Learning more about Moodle &laquo; The
-        Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.147
-      author_url: https://djon.es/blog/2009/07/23/bam-into-moodle-step-4-learning-more-about-moodle/
-      content: '[...] into Moodle Step #4 &#8211; Learning more about&nbsp;Moodle  In
-        the previous step I got to know a bit more about the Moodle code base, libraries
-        and idioms. Even got to modify a bit [...]'
-      date: '2009-07-23 13:12:17'
-      date_gmt: '2009-07-23 03:12:17'
-      id: '2651'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Okay, so Moodle is installed, configured and working. The next step, I believe, will be playing a bit with Moodle development and trying to get my head around how it works, what the abstractions are and anything else I need to know in order to actually start the design and development of "Moodle BAM".
 

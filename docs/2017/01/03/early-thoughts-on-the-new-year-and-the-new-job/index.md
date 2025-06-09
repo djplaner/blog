@@ -1,48 +1,45 @@
----
+﻿---
 categories:
 - eei
-date: 2017-01-03 11:25:44+10:00
+comments:
+- approved: '1'
+  author: Gardner
+  author_email: gardner.campbell@gmail.com
+  author_ip: 173.53.27.126
+  author_url: http://www.gardnercampbell.net
+  content: Thanks for this very interesting post. Still reading you! Congrats as well
+    on the new job and the move to Reclaim Hosting. All best wishes for 2017 and beyond.
+  date: '2017-01-08 01:51:30'
+  date_gmt: '2017-01-07 15:51:30'
+  id: '3751'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 124.181.58.63
+  author_url: null
+  content: Thanks Gardner. Your <a href="http://www.gardnercampbell.net/blog1/?p=2603"
+    rel="nofollow">last post on the quarks of learning</a> (as with all your thinking)
+    has sparked a ideas for the new role.
+  date: '2017-01-09 07:15:23'
+  date_gmt: '2017-01-08 21:15:23'
+  id: '3772'
+  parent: '3751'
+  type: comment
+  user_id: '1'
+date: 2017-01-03 01:25:44
 next:
   text: Formulating a Trello process
   url: /blog/2017/01/12/formulating-a-trello-process/
+pingbacks: []
 previous:
   text: Farewell wordpress.com, hello Reclaim Hosting
   url: /blog/2016/12/19/farewell-wordpress-com-hello-reclaim-hosting/
+template: blog-post.html
 title: Early thoughts on the new year and the new job
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Gardner
-      author_email: gardner.campbell@gmail.com
-      author_ip: 173.53.27.126
-      author_url: http://www.gardnercampbell.net
-      content: Thanks for this very interesting post. Still reading you! Congrats as well
-        on the new job and the move to Reclaim Hosting. All best wishes for 2017 and beyond.
-      date: '2017-01-08 01:51:30'
-      date_gmt: '2017-01-07 15:51:30'
-      id: '3751'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 124.181.58.63
-      author_url: null
-      content: Thanks Gardner. Your <a href="http://www.gardnercampbell.net/blog1/?p=2603"
-        rel="nofollow">last post on the quarks of learning</a> (as with all your thinking)
-        has sparked a ideas for the new role.
-      date: '2017-01-09 07:15:23'
-      date_gmt: '2017-01-08 21:15:23'
-      id: '3772'
-      parent: '3751'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 Some time off doing too little and eating too much allows me to stumble out of 2016 into a new year and a new job. Still at [USQ](http://usq.edu.au), but I'm leaving the School of Teacher Education & Early Childhood and joining the Advancement of Learning and Teaching (ALT) - not sure if it's a unit, department, office etc. Yes, for the second time I'm leaving the land of the faculty-based academic and venturing into the wilds of central learning and teaching.  I'll leave reflection on the wisdom of that move to another post.
 

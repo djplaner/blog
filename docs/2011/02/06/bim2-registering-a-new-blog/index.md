@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - bim
 - bim2
-date: 2011-02-06 21:14:47+10:00
+date: 2011-02-06 11:14:47
 next:
   text: A little bim2 status and planning
   url: /blog/2011/02/06/a-little-bim2-status-and-planning/
 previous:
   text: Some stories from teaching awards
   url: /blog/2011/02/02/some-stories-from-teaching-awards/
+template: blog-post.html
 title: '"bim2: registering a new blog"'
 type: post
-template: blog-post.html
 ---
 The following continues the coding of the bim2 process for registering and processing a new student feed. It's taken a couple of weeks, but it is working with only a few minor tweaks and nudges remaining.
 

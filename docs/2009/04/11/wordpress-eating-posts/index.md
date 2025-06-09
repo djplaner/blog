@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - thesis
-date: 2009-04-11 23:43:50+10:00
+date: 2009-04-11 13:43:50
 next:
   text: Disruption and the "mythic" technologies of education
   url: /blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/
 previous:
   text: Post to fix the feed
   url: /blog/2009/04/09/post-to-fix-the-feed/
+template: blog-post.html
 title: Wordpress eating posts
 type: post
-template: blog-post.html
 ---
 This is not good. It seems that Wordpress.com is starting to eat posts.
 

@@ -1,20 +1,20 @@
----
+﻿---
 categories:
 - bim
 - edc3100
 - elearning
 - paperideas
 - research
-date: 2014-08-21 09:09:10+10:00
+date: 2014-08-20 23:09:10
 next:
   text: A bit more NGL catchup
   url: /blog/2014/08/21/a-bit-more-ngl-catchup/
 previous:
   text: Reclaim, identity, and bricolage
   url: /blog/2014/08/20/reclaim-identity-and-bricolage/
+template: blog-post.html
 title: Evaluating the use of blogs/reflective journals
 type: post
-template: blog-post.html
 ---
 The use of blogs in one of the courses I teach is now into it's fourth semester. Well past time to do explore how it's all going, evaluate some of the design decisions, and make some decisions about future developments. In preparation for that it's time to look at some of the extant literature to look at findings and methods. The following is the first such summary and is focused on @spalm et al's
 

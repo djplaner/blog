@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,64 +6,61 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-05-06 11:12:39+10:00
+comments: []
+date: 2009-05-06 01:12:39
 next:
   text: Pondering a new position - request for help
   url: /blog/2009/05/07/pondering-a-new-position/
+pingbacks:
+- approved: '1'
+  author: Pondering a new position - request for help &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.96.151
+  author_url: https://djon.es/blog/2009/05/07/pondering-a-new-position/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    University - change or die: and another problem with the LMS&nbsp;model [...]'
+  date: '2009-05-07 10:22:12'
+  date_gmt: '2009-05-07 00:22:12'
+  id: '2476'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #10 &#8211; Dragging on &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.245.189
+  author_url: https://djon.es/blog/2009/05/08/phd-update-10-dragging-on/
+  content: '[...] week is related to the literature covered in the Place component
+    and the question of whether or not universities are in crisis and might die. I&#8217;ve
+    connected a perspective on that to the limitations of the LMS [...]'
+  date: '2009-05-08 16:00:04'
+  date_gmt: '2009-05-08 06:00:04'
+  id: '2477'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Everything old is new again &#8211; universities should be more business
+    like &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.176
+  author_url: https://djon.es/blog/2009/05/10/everything-old-is-new-again-universities-should-be-more-business-like/
+  content: '[...] old is new again &#8211; universities should be more business&nbsp;like  In
+    a previous post I mentioned the current raft of &#8220;the university will die&#8221;
+    discussions going on online [...]'
+  date: '2009-05-10 13:16:26'
+  date_gmt: '2009-05-10 03:16:26'
+  id: '2478'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Place - component of the Ps Framework
   url: /blog/2009/05/06/place-component-of-the-ps-framework/
+template: blog-post.html
 title: '"University - change or die: and another problem with the LMS model"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Pondering a new position - request for help &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.96.151
-      author_url: https://djon.es/blog/2009/05/07/pondering-a-new-position/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        University - change or die: and another problem with the LMS&nbsp;model [...]'
-      date: '2009-05-07 10:22:12'
-      date_gmt: '2009-05-07 00:22:12'
-      id: '2476'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #10 &#8211; Dragging on &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.245.189
-      author_url: https://djon.es/blog/2009/05/08/phd-update-10-dragging-on/
-      content: '[...] week is related to the literature covered in the Place component
-        and the question of whether or not universities are in crisis and might die. I&#8217;ve
-        connected a perspective on that to the limitations of the LMS [...]'
-      date: '2009-05-08 16:00:04'
-      date_gmt: '2009-05-08 06:00:04'
-      id: '2477'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Everything old is new again &#8211; universities should be more business
-        like &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.176
-      author_url: https://djon.es/blog/2009/05/10/everything-old-is-new-again-universities-should-be-more-business-like/
-      content: '[...] old is new again &#8211; universities should be more business&nbsp;like  In
-        a previous post I mentioned the current raft of &#8220;the university will die&#8221;
-        discussions going on online [...]'
-      date: '2009-05-10 13:16:26'
-      date_gmt: '2009-05-10 03:16:26'
-      id: '2478'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following arises out some current reading, writing and thinking for the [Place component](/blog/2009/05/06/place-component-of-the-ps-framework/) of the Ps Framework. In the following I ponder the idea (which I currently agree with) that universities are inherently adaptable, they aren't likely to die anytime soon and that this adaptability is yet another reason why the LMS product model for e-learning is wrong - since it ain't adaptable.
 

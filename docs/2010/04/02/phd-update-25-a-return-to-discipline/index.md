@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - phd
 - thesis
-date: 2010-04-02 18:13:06+10:00
+comments: []
+date: 2010-04-02 08:13:06
 next:
   text: What are good designs/design principles for Moodle
   url: /blog/2010/04/03/what-are-good-designsdesign-principles-for-moodle/
+pingbacks:
+- approved: '1'
+  author: 'Phd Update #26 &#8211; Getting to first draft stage &laquo; The Weblog
+    of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.71
+  author_url: https://djon.es/blog/2010/04/09/phd-update-26-getting-to-first-draft-stage/
+  content: '[...] aim for this week was to get chapters 2 and 3 of the thesis into
+    first draft stage and sent to the supervisor for [...]'
+  date: '2010-04-09 21:22:23'
+  date_gmt: '2010-04-09 11:22:23'
+  id: '2998'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Moodle curriculum mapping - Step 3
   url: /blog/2010/04/02/moodle-curriculum-mapping-step-3/
+template: blog-post.html
 title: '"PhD Update #25: A return to discipline?"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: 'Phd Update #26 &#8211; Getting to first draft stage &laquo; The Weblog
-        of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.71
-      author_url: https://djon.es/blog/2010/04/09/phd-update-26-getting-to-first-draft-stage/
-      content: '[...] aim for this week was to get chapters 2 and 3 of the thesis into
-        first draft stage and sent to the supervisor for [...]'
-      date: '2010-04-09 21:22:23'
-      date_gmt: '2010-04-09 11:22:23'
-      id: '2998'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The [last PhD update](/blog/2009/09/11/phd-update-24-off-to-the-crocodile-form/) I posted here was in early November last year. It's time to get back into the discipline of posting these updates, especially now I'm in the downhill stretch.
 

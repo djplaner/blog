@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - elearning
 - information-systems
 - missingps
-date: 2006-10-27 11:30:11+10:00
+date: 2006-10-27 01:30:11
 next:
   text: The research "foundation" for the missing Ps
   url: /blog/2006/10/29/the-research-foundation-for-the-missing-ps/
 previous:
   text: What should the institution provide in a Web 2.0 world?
   url: /blog/2006/10/26/what-should-the-institution-provide-in-a-web-20-world/
+template: blog-post.html
 title: The missing Ps - Process
 type: post
-template: blog-post.html
 ---
 [The Missing Ps framework](http://cq-pan.cqu.edu.au/david-jones/blog/?p=52) is my attempt to generate a way of identifying the flaws in the methods used by Universities to select an LMS.
 

@@ -1,8 +1,8 @@
----
-date: 2016-05-26 09:47:34+10:00
+﻿---
+date: 2016-05-25 23:47:34
+template: blog-post.html
 title: Creating a SET leaderboard
 type: page
-template: blog-post.html
 ---
 The following aim to help a USQ course examiner add a student evaluation of teaching (SET) response rate leaderboard to any web page. The leaderboard was designed to provide students with insight into how many students have completed the SET survey, and serve as an additional method to increase response rates.
 
@@ -12,7 +12,7 @@ An initial trial of the leaderboard approach in the S2 offering of EDC3100 contr
 
 ## What does it look like?
 
-The image below is an example of what the leaderboard will look like.  The data used here is real data from EDC3100, however, the 2016 response rate is an imaginary number included for illustration. [![USQ'ified leaderboard](images/26647051493_017e390ed1.jpg)](https://www.flickr.com/photos/david_jones/26647051493/in/dateposted-public/ "USQ'ified leaderboard")
+The image below is an example of what the leaderboard will look like.  The data used here is real data from EDC3100, however, the 2016 response rate is an imaginary number included for illustration. [![USQ'ified leaderboard](https://djon.es/assets/blog/creating-a-set-leaderboard/images/26647051493_017e390ed1.jpg)](https://www.flickr.com/photos/david_jones/26647051493/in/dateposted-public/ "USQ'ified leaderboard")
 
 The leaderboard shows one row for each offering of the course you include. How many you include is up to you. The current offering is highlighted using a yellow background.
 

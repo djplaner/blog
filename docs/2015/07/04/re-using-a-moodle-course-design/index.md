@@ -1,17 +1,17 @@
----
+﻿---
 categories:
 - eds4406
 - moodle
-date: 2015-07-04 16:25:51+10:00
+date: 2015-07-04 06:25:51
 next:
   text: Does branding the LMS hurt learning
   url: /blog/2015/07/07/does-branding-the-lms-hurt-learning/
 previous:
   text: Can the Moodle book module be made open and other enhancements
   url: /blog/2015/07/03/can-the-moodle-book-module-be-made-open-and-other-enhancements/
+template: blog-post.html
 title: '"Re-using a #moodle course design"'
 type: post
-template: blog-post.html
 ---
 This semester I'm course examiner for a new course on [Secondary Computing Curriculum and Pedagogy](http://www.usq.edu.au/course/specification/2015/EDS4406-S2-2015-WEB-TWMBA.html). As the name suggests, the course is intended to help pre-service teachers who are aiming to teach computing in Secondary schools. While I'm the course examiner, the course is being developed and will be largely taught by a couple of practicing and experienced Secondary computing teachers (how's that for "recency of practice"?).
 
@@ -35,7 +35,7 @@ The basic structure is going to match the EDC3100 template. A collection of topi
 
 The following image shows the top of the 2012 version of the EDC3100 site. In 2015 the institution has adopted a default course structure that does away with the need for the "Course Content" and "Course Background" boxes.
 
-[![Welcome](images/6859813387_bbb7cc8890.jpg)](https://www.flickr.com/photos/david_jones/6859813387 "Welcome by David Jones, on Flickr")
+[![Welcome](https://djon.es/assets/blog/2015/07/04/re-using-a-moodle-course-design/images/6859813387_bbb7cc8890.jpg)](https://www.flickr.com/photos/david_jones/6859813387 "Welcome by David Jones, on Flickr")
 
 The one question about this approach is that EDC3100 has quite a bit of content in each week. Not sure that EDS4406 will have the same quantity. Hence the separate topics for each week may be a bit of overkill.
 

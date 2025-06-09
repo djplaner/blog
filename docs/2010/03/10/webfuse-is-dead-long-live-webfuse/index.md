@@ -1,39 +1,36 @@
----
+﻿---
 categories:
 - bim
 - elearning
 - phd
 - thesis
 - webfuse
-date: 2010-03-10 17:08:22+10:00
+comments: []
+date: 2010-03-10 07:08:22
 next:
   text: '"Focusing on the wrong time frame - a core problem of university L&#038;T?"'
   url: /blog/2010/03/11/focusing-on-the-wrong-time-frame-a-core-problem-of-university-lt/
+pingbacks:
+- approved: '1'
+  author: Focusing on the wrong time frame &#8211; a core problem of university L&amp;T?
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.32
+  author_url: https://djon.es/blog/2010/03/11/focusing-on-the-wrong-time-frame-a-core-problem-of-university-lt/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Webfuse is dead! Long live&nbsp;Webfuse! [...]'
+  date: '2010-03-11 10:04:30'
+  date_gmt: '2010-03-11 00:04:30'
+  id: '2958'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Moodle, outcomes, metadata and curriculum mapping
   url: /blog/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/
+template: blog-post.html
 title: Webfuse is dead! Long live Webfuse!
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Focusing on the wrong time frame &#8211; a core problem of university L&amp;T?
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.32
-      author_url: https://djon.es/blog/2010/03/11/focusing-on-the-wrong-time-frame-a-core-problem-of-university-lt/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Webfuse is dead! Long live&nbsp;Webfuse! [...]'
-      date: '2010-03-11 10:04:30'
-      date_gmt: '2010-03-11 00:04:30'
-      id: '2958'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Since about 1996 much of my research and development around e-learning has found "concrete" form in a system call [Webfuse](http://webfuse.cqu.edu.au). First described in [Jones and Buchanan](/blog/publications/the-design-of-an-integrated-online-learning-environment/) (1996) Webfuse became an essential part of [CQU's](http://www.cqu.edu.au/) operations. The unkindest (and basically wrong) description of Webfuse is that it was a proprietary, single institution learning management system.
 

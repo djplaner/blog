@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - eded20491
 - teaching
-date: 2011-03-06 22:00:09+10:00
+comments: []
+date: 2011-03-06 12:00:09
 next:
   text: Multiliteracies and why weak students become teachers
   url: /blog/2011/03/07/multiliteracies-and-why-weak-students-become-teachers/
+pingbacks:
+- approved: '1'
+  author: Multiliteracies and why weak students become teachers &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2011/03/07/multiliteracies-and-why-weak-students-become-teachers/
+  content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
+    Literacy and Numeracy: Week&nbsp;1 [...]'
+  date: '2011-03-07 09:26:30'
+  date_gmt: '2011-03-06 23:26:30'
+  id: '4'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Supportive Learning Environments: Week 1'
   url: /blog/2011/03/06/supportive-learning-environments-week-1/
+template: blog-post.html
 title: '"Literacy and Numeracy: Week 1"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Multiliteracies and why weak students become teachers &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2011/03/07/multiliteracies-and-why-weak-students-become-teachers/
-      content: '[...] The Weblog of (a) David Jones Another voice in the blogosphere    &laquo;
-        Literacy and Numeracy: Week&nbsp;1 [...]'
-      date: '2011-03-07 09:26:30'
-      date_gmt: '2011-03-06 23:26:30'
-      id: '4'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 And another weekly reflection of tasks and learning associated with a course. This one is for the Literacy and Numeracy course.
 

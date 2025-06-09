@@ -1,10 +1,10 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - psframework
 - thesis
-date: 2009-02-24 00:34:30+10:00
+date: 2009-02-23 14:34:30
 next:
   text: '"Blogs in E-Learning: BAM, Moodle and a taxonomy of educational aggregation
     projects?"'
@@ -12,15 +12,15 @@ next:
 previous:
   text: When was this - past experience of e-learning
   url: /blog/2009/02/23/when-was-this-past-experience-of-e-learning/
+template: blog-post.html
 title: Branding and universities - a mismatch of purpose and place?
 type: post
-template: blog-post.html
 ---
 I'm currently reading Waeraas and Solbakk (2009), a paper titled "Defining the essence of a university: lessons from higher education branding." and with the following abstract.
 
 > Branding is a phenomenon that has become increasingly common in higher education over the last few years. It entails defining the essence of what a university ‘‘is’’, what it ‘‘stands for’’, and what it is going to be known for, requiring precision and consistency in the formulations as well as internal commitment to the brand. This article details what happened in the process of defining the essence of a regional university in Northern Norway. Addressing the challenges, the article reveals that the notions of consistency, precision, and commitment generated resistance from faculty members and made the process very difficult to fulfill. An important finding is that a university may be too complex to be encapsulated by one brand or identity definition. The article describes this process, explains the reasons for the difficulties, and discusses some implications for higher education branding.
 
-[![The Ps Framework: a messy version](images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/ "The Ps Framework: a messy version by David T Jones, on Flickr")
+[![The Ps Framework: a messy version](https://djon.es/assets/blog/2009/02/24/branding-and-universities-a-mismatch-of-purpose-and-place/images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/ "The Ps Framework: a messy version by David T Jones, on Flickr")
 
 My interest in this paper arises out of some recent local experience, but mostly because of my [PhD Thesis](/blog/research/phd-thesis/) and the Purpose and Place components of the Ps Framework that is arising from the PhD.
 

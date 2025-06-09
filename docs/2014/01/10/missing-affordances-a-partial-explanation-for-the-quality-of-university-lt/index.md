@@ -1,70 +1,68 @@
----
+﻿---
 categories:
 - elearning
-date: 2014-01-10 15:25:53+10:00
+comments:
+- approved: '1'
+  author: Chris Fellows (@cfellows65536)
+  author_email: cfellows65536@twitter.example.com
+  author_ip: 129.180.75.143
+  author_url: http://twitter.com/cfellows65536
+  content: 'Here''s my recent rant, David: http://chrisfellows.blogspot.com.au/2013/11/ow-ow-ow-ow.html
+    :)'
+  date: '2014-01-10 15:50:12'
+  date_gmt: '2014-01-10 05:50:12'
+  id: '926'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.86.2.15
+  author_url: https://djon.es/blog/
+  content: 'On a similar note, up until last year sometime, we could apply for bonus
+    payments based on student evaluations.  If we got a response rate of x% and an
+    average response of y% above some arbitrary number we would get z hundreds of
+    dollars.
+
+
+    Putting aside the implications of such an approach, what makes it worse is they
+    couldn''t even do this efficiently. The institutional ecosystem is so limited
+    that the teaching staff had to gather the evidences and make an application for
+    the money.  When it would''ve taken a semi-decent programmer with access to the
+    data half a day (or less) to generate a query/script that would automatically
+    generate a list of "winners".'
+  date: '2014-01-13 08:47:40'
+  date_gmt: '2014-01-12 22:47:40'
+  id: '927'
+  parent: '926'
+  type: comment
+  user_id: '1'
+date: 2014-01-10 05:25:53
 next:
   text: Evaluating EDC3100 in 2013 - step 1
   url: /blog/2014/01/13/evaluating-edc3100-in-2013-step-1/
+pingbacks:
+- approved: '1'
+  author: Evaluating EDC3100 in 2013 &#8211; step 1 | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.83
+  author_url: https://djon.es/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/
+  content: '[&#8230;] course a barrier to this is the difficulty of getting access
+    to student responses in a raw format to feed into [&#8230;]'
+  date: '2014-01-13 10:05:18'
+  date_gmt: '2014-01-13 00:05:18'
+  id: '928'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'Visualising posting frequency: BIM and EDC3100'
   url: /blog/2014/01/06/visualising-posting-frequency-bim-and-edc3100/
+template: blog-post.html
 title: '"Missing affordances - A partial explanation for the quality of University
   L&#038;T"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Chris Fellows (@cfellows65536)
-      author_email: cfellows65536@twitter.example.com
-      author_ip: 129.180.75.143
-      author_url: http://twitter.com/cfellows65536
-      content: 'Here''s my recent rant, David: http://chrisfellows.blogspot.com.au/2013/11/ow-ow-ow-ow.html
-        :)'
-      date: '2014-01-10 15:50:12'
-      date_gmt: '2014-01-10 05:50:12'
-      id: '926'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.86.2.15
-      author_url: https://djon.es/blog/
-      content: 'On a similar note, up until last year sometime, we could apply for bonus
-        payments based on student evaluations.  If we got a response rate of x% and an
-        average response of y% above some arbitrary number we would get z hundreds of
-        dollars.
-    
-    
-        Putting aside the implications of such an approach, what makes it worse is they
-        couldn''t even do this efficiently. The institutional ecosystem is so limited
-        that the teaching staff had to gather the evidences and make an application for
-        the money.  When it would''ve taken a semi-decent programmer with access to the
-        data half a day (or less) to generate a query/script that would automatically
-        generate a list of "winners".'
-      date: '2014-01-13 08:47:40'
-      date_gmt: '2014-01-12 22:47:40'
-      id: '927'
-      parent: '926'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: Evaluating EDC3100 in 2013 &#8211; step 1 | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.83
-      author_url: https://djon.es/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/
-      content: '[&#8230;] course a barrier to this is the difficulty of getting access
-        to student responses in a raw format to feed into [&#8230;]'
-      date: '2014-01-13 10:05:18'
-      date_gmt: '2014-01-13 00:05:18'
-      id: '928'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 A friday afternoon rant/story illustrating what I see as a fatal flaw in institutional University L&T systems (at least those I'm experienced within in Australia). This flaw helps explain why the quality of L&T - especially e-learning - leaves something to be desired.
 

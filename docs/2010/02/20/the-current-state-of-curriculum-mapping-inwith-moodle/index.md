@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - curriculummapping-cddu
-date: 2010-02-20 14:33:30+10:00
+date: 2010-02-20 04:33:30
 next:
   text: Fixes to BIM
   url: /blog/2010/02/25/fixes-to-bim/
 previous:
   text: How to make curriculum mapping useful to university academics
   url: /blog/2010/02/17/how-to-make-curriculum-mapping-useful-to-university-academics/
+template: blog-post.html
 title: The current state of curriculum mapping in/with Moodle
 type: post
-template: blog-post.html
 ---
 As part of looking into a [project](/blog/research/curriculum-mapping/) around curriculum mapping I need to take a look at the current state of play around curriculum mapping in the Moodle community. This is a summary of what I can find at the moment.
 

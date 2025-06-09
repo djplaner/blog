@@ -1,18 +1,18 @@
----
+﻿---
 categories:
 - bad
 - casa
-coverImage: 23776579774_bb775a0f1f_o-scaled.jpg
-date: 2020-05-20 09:32:59+10:00
+coverImage: https://djon.es/assets/blog/2020/05/20/playing-with-react-js-as-a-technology-for-casa/images/23776579774_bb775a0f1f_o-scaled.jpg
+date: 2020-05-19 23:32:59
 next:
   text: Learning to think in React
   url: /blog/2020/05/22/learning-to-think-in-react/
 previous:
   text: Exploring auto-coding with NVivo
   url: /blog/2020/04/30/exploring-auto-coding-with-nvivo/
+template: blog-post.html
 title: Playing with React.js as a technology for CASA
 type: post
-template: blog-post.html
 ---
 Can React.js help extend CASA support for forward-oriented design?
 
@@ -44,7 +44,7 @@ It’s just not sufficient to implement the learning activity. Instead, active t
 
 Oh, this also must be achieved sustainably.
 
-![Representation of a forward-oriented view of design for learning (Goodyear & Dimitriadis, 2013): Design for: configuration; orchestration; reflection; & re-design.](images/AidXUbJg+IOAAAAAAElFTkSuQmCC)
+![Representation of a forward-oriented view of design for learning (Goodyear & Dimitriadis, 2013): Design for: configuration; orchestration; reflection; & re-design.](https://djon.es/assets/blog/2020/05/20/playing-with-react-js-as-a-technology-for-casa/images/AidXUbJg+IOAAAAAAElFTkSuQmCC)
 
 ## Problems with early CASA
 
@@ -139,7 +139,7 @@ Something like React is a pre-requisite for the next CASA – a graduation check
 
 At its core the Card Interface CASA translates boring, ugly lists of Blackboard Learn content items into a more contemporary interface. It also embeds contextual knowledge, such as on what date does Week 1, Trimester 1, 2019 start? It converts the interface on the left to the interface on the right.
 
-|   ![C:\Users\s2986288\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\542B1BF9.tmp](images/jjDCCCOMMMIIIzweprtnIsIII4wwwggjjPCPYYL8PxmGQNksJP5mAAAAAElFTkSuQmCC)   |   ![C:\Users\s2986288\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8C14596F.tmp](images/l0DaiFj0DsgAAAABJRU5ErkJggg==)   |
+|   ![C:\Users\s2986288\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\542B1BF9.tmp](https://djon.es/assets/blog/2020/05/20/playing-with-react-js-as-a-technology-for-casa/images/jjDCCCOMMMIIIzweprtnIsIII4wwwggjjPCPYYL8PxmGQNksJP5mAAAAAElFTkSuQmCC)   |   ![C:\Users\s2986288\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\8C14596F.tmp](https://djon.es/assets/blog/2020/05/20/playing-with-react-js-as-a-technology-for-casa/images/l0DaiFj0DsgAAAABJRU5ErkJggg==)   |
 | --- | --- |
 
 The Card based approach to user interface design is a widely used contemporary practice. You’ve probably seen it on numerous websites. Hence it is a common need for web interfaces. A strength of React is that it encourages the design of reusable components. In fact, there’s a collection of tooling to help with the design and management of reusable components. This suggests that the React community should provide significant existing explicit support (even components) for a Card interface. A Google search for [“react card interface”](https://www.google.com/search?q=react+card+interface) supports that suggestion.
@@ -160,7 +160,7 @@ Or perhaps [React Bootstrap](https://react-bootstrap.github.io/). i.e. Bootstrap
 
 In a course context, the Card Interface is used to give an overview of learning modules. The Content Interface embodies design knowledge in Javascript which is then used to transform a HTML description of a learning module into a more interactive Web experience. As the (bad) title suggests this CASA initial focused on presenting content. Currently using the jQuery accordion to produce something like the following. The long term aim is to provide more support for interactive learning and teaching activities.
 
-![C:\Users\s2986288\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\67B8460E.tmp](images/DQMV6mtFnOQAAAAASUVORK5CYII=)
+![C:\Users\s2986288\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\67B8460E.tmp](https://djon.es/assets/blog/2020/05/20/playing-with-react-js-as-a-technology-for-casa/images/DQMV6mtFnOQAAAAASUVORK5CYII=)
 
 There appear to be three broad ways that React can help
 

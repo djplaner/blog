@@ -1,36 +1,33 @@
----
+﻿---
 categories:
 - exploring
 - moodleopenbook
-date: 2016-08-23 15:35:02+10:00
+comments: []
+date: 2016-08-23 05:35:02
 next:
   text: Exploring frameworks to understand OER/OEP
   url: /blog/2016/09/01/exploring-frameworks-to-understand-oeroep/
+pingbacks:
+- approved: '1'
+  author: Exploring Moodle Book usage &#8211; Part 5 &#8211; more staff and student
+    use &#8211; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.83.90
+  author_url: https://davidtjones.wordpress.com/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/
+  content: '[&#8230;] the exploration of how the Moodle Book module is being used,
+    this post picks up from the last and [&#8230;]'
+  date: '2016-09-03 09:28:42'
+  date_gmt: '2016-09-02 23:28:42'
+  id: '3404'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: On the value or otherwise of SAMR, RAT etc.
   url: /blog/2016/08/23/on-the-value-or-otherwise-of-samr-rat-etc/
+template: blog-post.html
 title: Exploring Moodle book usage - part 4 - students and initial use
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Exploring Moodle Book usage &#8211; Part 5 &#8211; more staff and student
-        use &#8211; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.83.90
-      author_url: https://davidtjones.wordpress.com/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/
-      content: '[&#8230;] the exploration of how the Moodle Book module is being used,
-        this post picks up from the last and [&#8230;]'
-      date: '2016-09-03 09:28:42'
-      date_gmt: '2016-09-02 23:28:42'
-      id: '3404'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 [Yesterday's part 3](/blog/2016/08/17/exploring-moodle-book-usage-part-3-who-and-how-much/) in this series of posts continued the higher level examination of book usage. i.e. what types of courses use [the Moodle Book module](https://docs.moodle.org/31/en/Book_module) (the Book). This post is going to continue that a little and then start to make some forays into looking more closely at how resources produced using the Book are actually used. In particular, it's going to look at the following:
 
@@ -54,11 +51,11 @@ Plotting the number of online students enrolled in courses using the Book gives 
 
 However, over time the number of online students in courses using the Book increased. In 2015, though there remained a large number of these courses that few if any online students.
 
-[![online Students](images/28435943894_00515e2f6d_z.jpg)](https://www.flickr.com/photos/david_jones/28435943894/in/dateposted-public/ "online Students")
+[![online Students](https://djon.es/assets/blog/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/images/28435943894_00515e2f6d_z.jpg)](https://www.flickr.com/photos/david_jones/28435943894/in/dateposted-public/ "online Students")
 
 Rather than focusing on the number of online students in courses using the Book, the following graph focuses on the percentage of online students in those same courses. It shows that in 2015 there was a significant increase in courses with higher percentages of online students starting to use the Book. Before that a majority of courses using the Book had less than 20% online students. 2012 appears have included only 1 course that had online students - the big outlier with 100%.
 
-[![Online percentage students](images/28435943994_fbedc94f99_z.jpg)](https://www.flickr.com/photos/david_jones/28435943994/in/dateposted-public/ "Online percentage students")
+[![Online percentage students](https://djon.es/assets/blog/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/images/28435943994_fbedc94f99_z.jpg)](https://www.flickr.com/photos/david_jones/28435943994/in/dateposted-public/ "Online percentage students")
 
 For me this raises a couple of interesting questions
 
@@ -77,7 +74,7 @@ As a result of getting this working, an interesting question suggested itself
 - What percentage of events for the whole course, do those book events represent?
 - What about breaking those events down into read, change, and print?
 
-The first rough cut at answering the question is given in the following graph. It shows the number of update events associated with Book resources grouped by each user role. It apparently shows that the core teaching staff (examiner, moderator and assistant examiner) are making most of the updates.  Interestingly, the student role is next in line in terms of number of updates. But there are some insights/limits/caveats to this graph. [![Book updates by role - 2012 to 2015](images/28482626313_324af02525_z.jpg)](https://www.flickr.com/photos/david_jones/28482626313/in/dateposted-public/ "Book updates by role - 2012 to 2015") The insights/limits/caveats include
+The first rough cut at answering the question is given in the following graph. It shows the number of update events associated with Book resources grouped by each user role. It apparently shows that the core teaching staff (examiner, moderator and assistant examiner) are making most of the updates.  Interestingly, the student role is next in line in terms of number of updates. But there are some insights/limits/caveats to this graph. [![Book updates by role - 2012 to 2015](https://djon.es/assets/blog/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/images/28482626313_324af02525_z.jpg)](https://www.flickr.com/photos/david_jones/28482626313/in/dateposted-public/ "Book updates by role - 2012 to 2015") The insights/limits/caveats include
 
 - The 1376 updates made by students are from two courses only. One course with 1335 (~97%) of the updates. Indicating a specific pedagogical choice for that course.
 - There was one course offering where the idiot examiner (i.e. me) almost doubled the number of updates by examiners. This offering has been excluded from the above graph.

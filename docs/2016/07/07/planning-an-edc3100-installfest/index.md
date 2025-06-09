@@ -1,22 +1,22 @@
----
+﻿---
 categories:
 - edc3100
-date: 2016-07-07 14:42:48+10:00
+date: 2016-07-07 04:42:48
 next:
   text: Planning changes to EDC3100 assignment 1
   url: /blog/2016/07/13/planning-changes-to-edc3100-assignment-1/
 previous:
   text: Any pointers to an old, ancient game?
   url: /blog/2016/06/29/any-pointers-to-an-old-ancient-game/
+template: blog-post.html
 title: Planning an EDC3100 "installfest"
 type: post
-template: blog-post.html
 ---
 The following documents the planning of an ["installfest"](https://en.wikipedia.org/wiki/Installfest) for the course EDC3100. Implementation and reflection will come later.
 
 ## Rationale
 
-[![My Three Words for 2011: http://www.beth by cambodia4kidsorg, on Flickr](images/5318577541_3f367d3e39_m.jpg "My Three Words for 2011: http://www.beth by cambodia4kidsorg, on Flickr")](https://www.flickr.com/photos/cambodia4kidsorg/5318577541/) "[My Three Words for 2011](https://www.flickr.com/photos/cambodia4kidsorg/5318577541/)" ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)) by  [](https://www.flickr.com/people/cambodia4kidsorg/)[cambodia4kidsorg](https://www.flickr.com/people/cambodia4kidsorg/) [](http://www.imagecodr.org/)
+[![My Three Words for 2011: http://www.beth by cambodia4kidsorg, on Flickr](https://djon.es/assets/blog/2016/07/07/planning-an-edc3100-installfest/images/5318577541_3f367d3e39_m.jpg "My Three Words for 2011: http://www.beth by cambodia4kidsorg, on Flickr")](https://www.flickr.com/photos/cambodia4kidsorg/5318577541/) "[My Three Words for 2011](https://www.flickr.com/photos/cambodia4kidsorg/5318577541/)" ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)) by  [](https://www.flickr.com/people/cambodia4kidsorg/)[cambodia4kidsorg](https://www.flickr.com/people/cambodia4kidsorg/) [](http://www.imagecodr.org/)
 
 The course encourages/requires that students to modify their learning process in the course to engage in [Jarche's seek/sense/share framework](http://jarche.com/2014/02/the-seek-sense-share-framework/) using a combination of a personal blog, Diigo, and the Feedly feed reader.
 

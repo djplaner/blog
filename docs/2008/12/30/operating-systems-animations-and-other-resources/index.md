@@ -1,8 +1,8 @@
----
+﻿---
 categories:
 - elearning
 - teaching
-date: 2008-12-30 09:09:03+10:00
+date: 2008-12-29 23:09:03
 next:
   text: Webfuse usage statistics - Quizzes
   url: /blog/2009/01/05/webfuse-usage-statistics-quizzes/
@@ -11,9 +11,9 @@ previous:
   url: /blog/2008/12/28/plans-for-implementing-rotating-banner-image/
 tags:
 - operatingsystems-animation
+template: blog-post.html
 title: Operating Systems animations and other resources
 type: post
-template: blog-post.html
 ---
 Back in 1998/1999 I supervised a couple of project students (who have gone onto bigger and brighter things) in the development of some multimedia resources to support a course in operating systems. The most recent version of the course is [available here](http://webfuse.cqu.edu.au/Courses/2008/T1/COIT13152/).
 

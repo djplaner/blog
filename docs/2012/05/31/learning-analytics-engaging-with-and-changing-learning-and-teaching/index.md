@@ -1,53 +1,50 @@
----
+﻿---
 categories:
 - elearning
 - indicators
 - reflectivealignment
-date: 2012-05-31 11:39:41+10:00
+comments: []
+date: 2012-05-31 01:39:41
 next:
   text: '"The life and death of Webfuse: lessons for learning and leading into the
     future"'
   url: /blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+pingbacks:
+- approved: '1'
+  author: Is there a link between managerialisation and learning analytics? &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.248.218
+  author_url: https://djon.es/blog/2012/07/15/is-there-a-link-between-managerialisation-and-learning-analytics/
+  content: '[...] on an application for an OLT grant around learning analytics. The
+    project &#8211; some early thinking shown here &#8211; is coming together nicely,
+    but could always be better. Some good feedback from Rob Phillips [...]'
+  date: '2012-07-15 13:33:31'
+  date_gmt: '2012-07-15 03:33:31'
+  id: '358'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Enabling academics to apply learning analytics to individual pedagogical
+    practice: how and with what impacts? &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.61.86
+  author_url: https://djon.es/blog/2012/07/25/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts/
+  content: '[...] share the thoughts and see what interesting connections arise. Some
+    early thoughts on the project are here and we&#8217;re aiming for OLT [...]'
+  date: '2012-07-25 09:11:52'
+  date_gmt: '2012-07-24 23:11:52'
+  id: '359'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Harnessing learning analytics to inform/improve learning and teaching
   url: /blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
+template: blog-post.html
 title: '"Learning Analytics: engaging with and changing learning and teaching"'
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Is there a link between managerialisation and learning analytics? &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.248.218
-      author_url: https://djon.es/blog/2012/07/15/is-there-a-link-between-managerialisation-and-learning-analytics/
-      content: '[...] on an application for an OLT grant around learning analytics. The
-        project &#8211; some early thinking shown here &#8211; is coming together nicely,
-        but could always be better. Some good feedback from Rob Phillips [...]'
-      date: '2012-07-15 13:33:31'
-      date_gmt: '2012-07-15 03:33:31'
-      id: '358'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Enabling academics to apply learning analytics to individual pedagogical
-        practice: how and with what impacts? &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.61.86
-      author_url: https://djon.es/blog/2012/07/25/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts/
-      content: '[...] share the thoughts and see what interesting connections arise. Some
-        early thoughts on the project are here and we&#8217;re aiming for OLT [...]'
-      date: '2012-07-25 09:11:52'
-      date_gmt: '2012-07-24 23:11:52'
-      id: '359'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is an attempt to build a bit more on [an earlier idea](/blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/) around the use of learning analytics. It's an attempt to frame a different approach to the use of learning analytics and to share these ideas in preparation for a potential project.
 

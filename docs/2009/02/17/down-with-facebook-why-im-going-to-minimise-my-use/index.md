@@ -1,88 +1,85 @@
----
+﻿---
 categories:
 - elearning
 - plescquni
-date: 2009-02-17 21:47:24+10:00
+comments:
+- approved: '1'
+  author: thomasduggan
+  author_email: thomas.duggan@gmail.com
+  author_ip: 138.77.2.131
+  author_url: null
+  content: Seems they have had a change of heard. Upon logging in today there was
+    a note at the top of my feed stating they had reverted to the old ToS for now.
+  date: '2009-02-19 16:31:15'
+  date_gmt: '2009-02-19 06:31:15'
+  id: '2143'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 130.56.71.132
+  author_url: https://djon.es/blog/
+  content: 'I wondered if that would happen.  I wonder what implications this experience
+    will have for the way they do things, in particular, how they prepare the new
+    ToS.
+
+
+    I still think I''ll minimise my use because of the other reasons.  Still a good
+    way for folk from my past to make contact.'
+  date: '2009-02-19 16:46:32'
+  date_gmt: '2009-02-19 06:46:32'
+  id: '2144'
+  parent: '0'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: Joe
+  author_email: a@coffeerama.com
+  author_ip: 68.109.160.228
+  author_url: http://www.coffeerama.com
+  content: the fact that Facebook change their TOS back so quickly is like an admission
+    that they knew they were wrong
+  date: '2009-02-22 17:52:34'
+  date_gmt: '2009-02-22 07:52:34'
+  id: '2145'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'You''re right Joe.  Or at the very least, they realised that the bad publicity
+    would be bad for business and were pragmatic about it.
+
+
+    My original objection to Facebook, disliking integrated systems, stands.  But
+    that''s a fairly esoteric concern that the ease-of-use and usefulness of Facebook
+    easily overcomes for most.
+
+
+    David.'
+  date: '2009-02-22 18:17:36'
+  date_gmt: '2009-02-22 08:17:36'
+  id: '2146'
+  parent: '2145'
+  type: comment
+  user_id: '1'
+date: 2009-02-17 11:47:24
 next:
   text: Reliability - an argument against using Web 2.0 services in learning? Probably
     not.
   url: /blog/2009/02/18/reliability-an-argument-against-using-web-20-services-in-learning/
+pingbacks: []
 previous:
   text: Some ideas for e-learning indicators - releasing half-baked ideas
   url: /blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/
+template: blog-post.html
 title: Down with facebook - why I'm going to minimise my use
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: thomasduggan
-      author_email: thomas.duggan@gmail.com
-      author_ip: 138.77.2.131
-      author_url: null
-      content: Seems they have had a change of heard. Upon logging in today there was
-        a note at the top of my feed stating they had reverted to the old ToS for now.
-      date: '2009-02-19 16:31:15'
-      date_gmt: '2009-02-19 06:31:15'
-      id: '2143'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 130.56.71.132
-      author_url: https://djon.es/blog/
-      content: 'I wondered if that would happen.  I wonder what implications this experience
-        will have for the way they do things, in particular, how they prepare the new
-        ToS.
-    
-    
-        I still think I''ll minimise my use because of the other reasons.  Still a good
-        way for folk from my past to make contact.'
-      date: '2009-02-19 16:46:32'
-      date_gmt: '2009-02-19 06:46:32'
-      id: '2144'
-      parent: '0'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: Joe
-      author_email: a@coffeerama.com
-      author_ip: 68.109.160.228
-      author_url: http://www.coffeerama.com
-      content: the fact that Facebook change their TOS back so quickly is like an admission
-        that they knew they were wrong
-      date: '2009-02-22 17:52:34'
-      date_gmt: '2009-02-22 07:52:34'
-      id: '2145'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'You''re right Joe.  Or at the very least, they realised that the bad publicity
-        would be bad for business and were pragmatic about it.
-    
-    
-        My original objection to Facebook, disliking integrated systems, stands.  But
-        that''s a fairly esoteric concern that the ease-of-use and usefulness of Facebook
-        easily overcomes for most.
-    
-    
-        David.'
-      date: '2009-02-22 18:17:36'
-      date_gmt: '2009-02-22 08:17:36'
-      id: '2146'
-      parent: '2145'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 I've had a Facebook account for about a year. I've never really used it beyond making contact with other folk. Have never uploaded any content and tonight I've decided to make that permanent. I won't shut the account down. I'll keep it open so that friends from the past can find me.
 

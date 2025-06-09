@@ -1,19 +1,19 @@
----
+﻿---
 categories:
 - bad
 - edc3100
-date: 2016-03-31 09:46:17+10:00
+date: 2016-03-30 23:46:17
 next:
   text: First steps in integrating LATs OER into Moodle open book
   url: /blog/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/
 previous:
   text: Some simple analysis of student submissions
   url: /blog/2016/03/30/some-simple-analysis-of-student-submissions/
+template: blog-post.html
 title: '"Competence with digital technology: Teacher or environment?"'
 type: post
-template: blog-post.html
 ---
-[![PEBKAC by Rafa Esteve, on Flickr](images/13928696037_37aa61542a_m.jpg "PEBKAC by Rafa Esteve, on Flickr")](https://www.flickr.com/photos/morosbruts/13928696037/) "[PEBKAC](https://www.flickr.com/photos/morosbruts/13928696037/)" ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)) by [Rafa Esteve](https://www.flickr.com/people/morosbruts/) [](http://www.imagecodr.org/)
+[![PEBKAC by Rafa Esteve, on Flickr](https://djon.es/assets/blog/2016/03/31/competence-with-digital-technology-do-they-see-the-point/images/13928696037_37aa61542a_m.jpg "PEBKAC by Rafa Esteve, on Flickr")](https://www.flickr.com/photos/morosbruts/13928696037/) "[PEBKAC](https://www.flickr.com/photos/morosbruts/13928696037/)" ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)) by [Rafa Esteve](https://www.flickr.com/people/morosbruts/) [](http://www.imagecodr.org/)
 
 Apparently there's a [problem with digital skills](https://theconversation.com/students-struggle-with-digital-skills-because-their-teachers-lack-confidence-56071) in Australian schools. Only 52% of Year 10  students achieved a minimum standard of digital competence, and the teachers tasked to help develop that competence [feel they aren't competent](http://www.sciencedirect.com/science/article/pii/S0360131511002065). Closer to home, I've [previously pointed out](/blog/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/) that the pre-service teachers I work with are far from digital natives harnessing digital technologies seamlessly to achieve the learning, teaching, and life goals.
 

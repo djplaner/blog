@@ -1,16 +1,16 @@
----
+﻿---
 categories:
 - bam
-date: 2006-10-16 09:08:09+10:00
+date: 2006-10-15 23:08:09
 next:
   text: Another review of LMS Reviews
   url: /blog/2006/10/19/another-review-of-lms-reviews/
 previous:
   text: The missing Ps in LMS adoption decisions
   url: /blog/2006/10/12/the-missing-ps-in-lms-adoption-decisions/
+template: blog-post.html
 title: Question allocation difficulties - BAM
 type: post
-template: blog-post.html
 ---
 A long time ago I identified "reducing meaningless freedom" as a key design principle for elearning type apps - basically anything web-based and possible broader. It ties in with ideas others have identified, it's even discussed in the sad textbook we're using in [COIS20025 this term](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025).
 

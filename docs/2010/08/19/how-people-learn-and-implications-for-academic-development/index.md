@@ -1,90 +1,88 @@
----
+﻿---
 categories:
 - academicdevelopment
 - herding-cats
 - highereducation
-date: 2010-08-19 09:07:23+10:00
+comments:
+- approved: '1'
+  author: VRBones
+  author_email: vrbones@hotmail.com
+  author_ip: 118.208.89.117
+  author_url: http://www.vrbones.com
+  content: It might be just semantics, but I have usually associated "learner centred"
+    approaches as placing the learner's needs as a core value and other aspects subservient
+    to this core value. How are they proposing to implement 4 different centres for
+    student, knowledge, assessment and community? Are they using the term "centred"
+    more as a recommendation on a sliding scale of, say, learner -&gt; teacher (management)
+    ?
+  date: '2010-08-19 10:30:06'
+  date_gmt: '2010-08-19 00:30:06'
+  id: '3149'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: iancreid
+  author_email: iancreid@internode.on.net
+  author_ip: 150.101.72.73
+  author_url: http://users.on.net/~iancreid/
+  content: 'Hi David
+
+
+    I concur with this very much
+
+
+    To me the important thing is to link the teaching with the learning - through
+    the process of providing feedback (to both teacher and learner). [Search for ''feedback''
+    in the book - it has some good points].
+
+
+    Providing feedback in a HE setting is all about peer review - for teachers and
+    learners - so they can modify their actions on evidence rather than relying on
+    their own preconceptions ("beliefs") alone. Feedback addresses the four dot points
+    you make above. It is the only way a teacher can tell what is actually being learned.
+    It is fundamentally reliant on communication. It also appeals to my social constructivist
+    philosophy of education :)
+
+
+    I continue to enjoy reading the blog
+
+
+    Regards
+
+
+    Ian'
+  date: '2010-08-19 10:33:56'
+  date_gmt: '2010-08-19 00:33:56'
+  id: '3150'
+  parent: '0'
+  type: comment
+  user_id: '0'
+date: 2010-08-18 23:07:23
 next:
   text: Learning with an open course - a case study?
   url: /blog/2010/08/19/learning-with-an-open-course-a-case-study/
+pingbacks:
+- approved: '1'
+  author: 'The life and death of Webfuse: lessons for learning and leading into the
+    future &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.2.43
+  author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+  content: '[...] Limitations &#8211; drawn from the publications above.Also perhaps
+    mention how it clashes with how people learn. [...]'
+  date: '2012-06-22 14:06:32'
+  date_gmt: '2012-06-22 04:06:32'
+  id: '3151'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Analysing the business model for higher education and why they can&#039;t
   url: /blog/2010/08/15/analysing-the-business-model-for-higher-education-and-why-they-cant/
+template: blog-post.html
 title: How people learn and implications for academic development
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: VRBones
-      author_email: vrbones@hotmail.com
-      author_ip: 118.208.89.117
-      author_url: http://www.vrbones.com
-      content: It might be just semantics, but I have usually associated "learner centred"
-        approaches as placing the learner's needs as a core value and other aspects subservient
-        to this core value. How are they proposing to implement 4 different centres for
-        student, knowledge, assessment and community? Are they using the term "centred"
-        more as a recommendation on a sliding scale of, say, learner -&gt; teacher (management)
-        ?
-      date: '2010-08-19 10:30:06'
-      date_gmt: '2010-08-19 00:30:06'
-      id: '3149'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: iancreid
-      author_email: iancreid@internode.on.net
-      author_ip: 150.101.72.73
-      author_url: http://users.on.net/~iancreid/
-      content: 'Hi David
-    
-    
-        I concur with this very much
-    
-    
-        To me the important thing is to link the teaching with the learning - through
-        the process of providing feedback (to both teacher and learner). [Search for ''feedback''
-        in the book - it has some good points].
-    
-    
-        Providing feedback in a HE setting is all about peer review - for teachers and
-        learners - so they can modify their actions on evidence rather than relying on
-        their own preconceptions ("beliefs") alone. Feedback addresses the four dot points
-        you make above. It is the only way a teacher can tell what is actually being learned.
-        It is fundamentally reliant on communication. It also appeals to my social constructivist
-        philosophy of education :)
-    
-    
-        I continue to enjoy reading the blog
-    
-    
-        Regards
-    
-    
-        Ian'
-      date: '2010-08-19 10:33:56'
-      date_gmt: '2010-08-19 00:33:56'
-      id: '3150'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    
-pingbacks:
-    - approved: '1'
-      author: 'The life and death of Webfuse: lessons for learning and leading into the
-        future &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.2.43
-      author_url: https://djon.es/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
-      content: '[...] Limitations &#8211; drawn from the publications above.Also perhaps
-        mention how it clashes with how people learn. [...]'
-      date: '2012-06-22 14:06:32'
-      date_gmt: '2012-06-22 04:06:32'
-      id: '3151'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 While I'm traveling this week I am reading [How people learn](http://www.nap.edu/openbook.php?record_id=6160). This is a fairly well known book that arose out of a US National Academy of Science project to look at recent insights from research about how people learn and then generate insights for teaching. I'll be reading it through the lens of my thesis and some broader thinking about "academic development" (one of the terms applied to trying to help improve the teaching and learning of university).
 

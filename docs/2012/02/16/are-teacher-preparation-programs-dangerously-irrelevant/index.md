@@ -1,104 +1,101 @@
----
+﻿---
 categories:
 - teaching
-date: 2012-02-16 15:13:31+10:00
+comments:
+- approved: '1'
+  author: cj13
+  author_email: cbigum@deakin.edu.au
+  author_ip: 58.106.133.152
+  author_url: http://cj13.wordpress.com/
+  content: The relevant for what is the key consideration. You can prepare teachers
+    who are trained to fit into the existing system. There is mixed research about
+    what beginning teachers think about how prepared they were from their training.
+    Let's assume that more or less they are, although as you suggest, none of it can
+    be perfect. One assumes this qualifies as relevant. But then you have to ask is
+    the current system "relevant" for the kids in it? Does it do what it purports
+    to do, prepare them for some kind of productive life in the world? This is a much
+    trickier proposition and there is a very large amount of research that says the
+    current system appears to work for perhaps a third of each age cohort at best.
+    IMHO I think the 1/3 is generous. This puts teacher training between a rock and
+    a very hard place, i.e. you could imagine a teacher training program that was
+    a lot better for kids but did not fit at all well within the existing system and
+    its constraints. Would these teachers be attractive to existing systems? I very
+    much doubt it.
+  date: '2012-02-16 16:25:26'
+  date_gmt: '2012-02-16 06:25:26'
+  id: '215'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: Seann Dikkers (@sdikkers)
+  author_email: sdikkers@twitter.example.com
+  author_ip: 146.151.109.27
+  author_url: http://twitter.com/sdikkers
+  content: 'David, Thanks for the thoughtful response on the piece. You are right
+    on when you suggest that the study is limited. "Best practice" studies usually
+    don''t attempt to show causation, only to compile a narrative. Good narratives
+    can direct strong questions and further study.
+
+
+    Initially I expected to find 5-10 separate stories and be able to compile lists
+    of varying ways that these teachers were finding valuable PD, yet when the stories
+    looked so similar across cases, that should cause us to ask all of the questions
+    that you have listed above. Much more research admittedly needs to be done to
+    nail this done more.
+
+
+    Best,
+
+
+    S'
+  date: '2012-02-17 02:18:42'
+  date_gmt: '2012-02-16 16:18:42'
+  id: '216'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.168.177.155
+  author_url: https://djon.es/blog/
+  content: And when the folk who believe they set the purpose for schools (e.g. Oz
+    government) are getting increasingly top-down, the idea of doing something different
+    becomes all the more harder. I think that's likely to become an interesting challenge,
+    navigating through the forces of accountability, standardisation etc. towards
+    something more useful/interesting.
+  date: '2012-02-17 07:12:00'
+  date_gmt: '2012-02-16 21:12:00'
+  id: '217'
+  parent: '215'
+  type: comment
+  user_id: '1'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 139.168.177.155
+  author_url: https://djon.es/blog/
+  content: G'day Sean, You point about the similarity between stories is important
+    and why it is interesting. How we go about addressing the apparent problems is
+    going to be an interesting task. David.
+  date: '2012-02-17 07:13:43'
+  date_gmt: '2012-02-16 21:13:43'
+  id: '218'
+  parent: '216'
+  type: comment
+  user_id: '1'
+date: 2012-02-16 05:13:31
 next:
   text: But does it have to be a lecture?
   url: /blog/2012/02/17/but-does-it-have-to-be-a-lecture/
+pingbacks: []
 previous:
   text: How to replace the lecture?
   url: /blog/2012/02/10/how-to-replace-the-lecture/
+template: blog-post.html
 title: Are teacher preparation programs dangerously irrelevant?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: cj13
-      author_email: cbigum@deakin.edu.au
-      author_ip: 58.106.133.152
-      author_url: http://cj13.wordpress.com/
-      content: The relevant for what is the key consideration. You can prepare teachers
-        who are trained to fit into the existing system. There is mixed research about
-        what beginning teachers think about how prepared they were from their training.
-        Let's assume that more or less they are, although as you suggest, none of it can
-        be perfect. One assumes this qualifies as relevant. But then you have to ask is
-        the current system "relevant" for the kids in it? Does it do what it purports
-        to do, prepare them for some kind of productive life in the world? This is a much
-        trickier proposition and there is a very large amount of research that says the
-        current system appears to work for perhaps a third of each age cohort at best.
-        IMHO I think the 1/3 is generous. This puts teacher training between a rock and
-        a very hard place, i.e. you could imagine a teacher training program that was
-        a lot better for kids but did not fit at all well within the existing system and
-        its constraints. Would these teachers be attractive to existing systems? I very
-        much doubt it.
-      date: '2012-02-16 16:25:26'
-      date_gmt: '2012-02-16 06:25:26'
-      id: '215'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: Seann Dikkers (@sdikkers)
-      author_email: sdikkers@twitter.example.com
-      author_ip: 146.151.109.27
-      author_url: http://twitter.com/sdikkers
-      content: 'David, Thanks for the thoughtful response on the piece. You are right
-        on when you suggest that the study is limited. "Best practice" studies usually
-        don''t attempt to show causation, only to compile a narrative. Good narratives
-        can direct strong questions and further study.
-    
-    
-        Initially I expected to find 5-10 separate stories and be able to compile lists
-        of varying ways that these teachers were finding valuable PD, yet when the stories
-        looked so similar across cases, that should cause us to ask all of the questions
-        that you have listed above. Much more research admittedly needs to be done to
-        nail this done more.
-    
-    
-        Best,
-    
-    
-        S'
-      date: '2012-02-17 02:18:42'
-      date_gmt: '2012-02-16 16:18:42'
-      id: '216'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.168.177.155
-      author_url: https://djon.es/blog/
-      content: And when the folk who believe they set the purpose for schools (e.g. Oz
-        government) are getting increasingly top-down, the idea of doing something different
-        becomes all the more harder. I think that's likely to become an interesting challenge,
-        navigating through the forces of accountability, standardisation etc. towards
-        something more useful/interesting.
-      date: '2012-02-17 07:12:00'
-      date_gmt: '2012-02-16 21:12:00'
-      id: '217'
-      parent: '215'
-      type: comment
-      user_id: '1'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 139.168.177.155
-      author_url: https://djon.es/blog/
-      content: G'day Sean, You point about the similarity between stories is important
-        and why it is interesting. How we go about addressing the apparent problems is
-        going to be an interesting task. David.
-      date: '2012-02-17 07:13:43'
-      date_gmt: '2012-02-16 21:13:43'
-      id: '218'
-      parent: '216'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 This is in response to [a blog post](http://dangerouslyirrelevant.org/2012/02/are-teacher-preparation-programs-dangerously-irrelevant-guest-post.html) with the same title. The title attracted me I've just started work within a teacher preparation program and have some concerns about such programs being irrelevant.
 

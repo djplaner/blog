@@ -1,186 +1,184 @@
----
+﻿---
 categories:
 - elearning
 - phd
 - psframework
 - reflectivealignment
 - thesis
-date: 2009-04-09 13:14:10+10:00
+comments:
+- approved: '1'
+  author: jkmcdonald
+  author_email: jkmcdonald@gmail.com
+  author_ip: 216.49.181.128
+  author_url: null
+  content: 'David, I enjoyed reading this summary of our article. I''m impressed you
+    read it closely enough to write this much of a summary! You picked up on some
+    interesting connections, some of which were intentional on our part and some of
+    which were unintentional but nonetheless I find informative.
+
+
+    I also appreciate your broad interpretation of some of our points (e.g. the tools
+    approach correlates to an information-transmission model of teaching, but probably
+    not exclusively). I don''t think I disagree. Any time we artificially constrain
+    ourselves we are in danger of limiting our effectiveness. That''s the point we''re
+    trying to make.
+
+
+    Good luck completing your degree!'
+  date: '2009-06-23 06:45:26'
+  date_gmt: '2009-06-22 20:45:26'
+  id: '2358'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: davidtjones
+  author_email: d.jones@cqu.edu.au
+  author_ip: 59.154.24.147
+  author_url: https://djon.es/blog/
+  content: 'G''day Jason,
+
+
+    Talk about a small world - I came across your "storytelling" paper from the Educational
+    Media International Journal just yesterday, via another thesis related literature
+    trial. The role of story is a nascent and under-fed interest of mine, and will
+    remain so for a while, but I''ve forwarded the paper onto a colleague.
+
+
+    Glad I haven''t gotten anything glaringly wrong in my interpretation and summary
+    of your work.
+
+
+    As my <a href="https://djon.es/blog/elearning-and-innovation/" rel="nofollow">new
+    job</a> gets moving over the next 6 months I am particularly interested in thinking
+    more about technology gravity. I see it as a particular problem as my current
+    institution and am keen to identify ways to reduce it.
+
+
+    Any pointers more than welcome.  I''m planning on looking through your thesis
+    at a later date.
+
+
+    Thanks for your work.
+
+
+    David.'
+  date: '2009-06-23 09:20:32'
+  date_gmt: '2009-06-22 23:20:32'
+  id: '2359'
+  parent: '2358'
+  type: comment
+  user_id: '1'
+date: 2009-04-09 03:14:10
 next:
   text: Post to fix the feed
   url: /blog/2009/04/09/post-to-fix-the-feed/
+pingbacks:
+- approved: '1'
+  author: 'Conceptguy &raquo; Blog Archive &raquo; Edupunk rules: Technology I, II
+    and 3 - understanding and &#8230;'
+  author_email: null
+  author_ip: 75.125.219.50
+  author_url: http://www.conceptguy.co.uk/?p=486
+  content: '[...] View original here: Edupunk rules: Technology I, II and 3 - understanding
+    and &#8230; [...]'
+  date: '2009-04-09 19:15:03'
+  date_gmt: '2009-04-09 09:15:03'
+  id: '2354'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
+  content: '[...] Edupunk rulesA post that combines some insights from McDonald and
+    Gibbons (nd) with the Edupunk movement. Both fit with the fundamental perspective
+    from my design theory. [...]'
+  date: '2009-04-17 14:23:14'
+  date_gmt: '2009-04-17 04:23:14'
+  id: '2355'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Pedagogy of the impressed - how teachers become victims of technology vision
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.206
+  author_url: https://djon.es/blog/2009/04/22/pedagogy-of-the-impressed-how-teachers-become-victims-of-technology-vision/
+  content: '[...] application to technology-mediated learning, the technologists alliance
+    (more on this soon) and the idea of technological gravity and technology I, II
+    and [...]'
+  date: '2009-04-22 11:14:39'
+  date_gmt: '2009-04-22 01:14:39'
+  id: '2356'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: What can history tell us about e-learning and its future? &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.188
+  author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+  content: '[...] Technology I, II and III and the importance of local context [...]'
+  date: '2009-06-18 10:50:25'
+  date_gmt: '2009-06-18 00:50:25'
+  id: '2357'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Confirmation bias, the Tolstoy Syndrome and pattern entrainment &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.208
+  author_url: https://djon.es/blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
+  content: '[...] status quo adherence from McDonald and Gibbons (nd) [...]'
+  date: '2009-06-23 09:59:53'
+  date_gmt: '2009-06-22 23:59:53'
+  id: '2360'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Improving L&amp;T at Universities &#8211; The emperor has no clothes &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.2.29
+  author_url: https://djon.es/blog/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/
+  content: '[...] method or interest (portfolios, active learning, peer learning etc.).
+    That is examples of Technology I or II and technological gravity. None of these
+    had any demonstrable widespread (approaching 50%) [...]'
+  date: '2010-03-14 07:53:36'
+  date_gmt: '2010-03-13 21:53:36'
+  id: '2361'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.254.72
+  author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
+  content: '[...] conception of technological gravity that McDonald and Gibbons (2009)
+    define and which I&#8217;ve posted about (and linked to edupunk). This idea is
+    based on the idea of three major assumptions around learning [...]'
+  date: '2010-05-14 14:14:34'
+  date_gmt: '2010-05-14 04:14:34'
+  id: '2362'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Early indications of &quot;blame the student&quot; that continues today
   url: /blog/2009/04/06/early-indications-of-blame-the-student-that-continues-today/
+template: blog-post.html
 title: '"Edupunk rules: Technology I, II and 3 - understanding and improving the practice
   of instructional technology"'
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: jkmcdonald
-      author_email: jkmcdonald@gmail.com
-      author_ip: 216.49.181.128
-      author_url: null
-      content: 'David, I enjoyed reading this summary of our article. I''m impressed you
-        read it closely enough to write this much of a summary! You picked up on some
-        interesting connections, some of which were intentional on our part and some of
-        which were unintentional but nonetheless I find informative.
-    
-    
-        I also appreciate your broad interpretation of some of our points (e.g. the tools
-        approach correlates to an information-transmission model of teaching, but probably
-        not exclusively). I don''t think I disagree. Any time we artificially constrain
-        ourselves we are in danger of limiting our effectiveness. That''s the point we''re
-        trying to make.
-    
-    
-        Good luck completing your degree!'
-      date: '2009-06-23 06:45:26'
-      date_gmt: '2009-06-22 20:45:26'
-      id: '2358'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: davidtjones
-      author_email: d.jones@cqu.edu.au
-      author_ip: 59.154.24.147
-      author_url: https://djon.es/blog/
-      content: 'G''day Jason,
-    
-    
-        Talk about a small world - I came across your "storytelling" paper from the Educational
-        Media International Journal just yesterday, via another thesis related literature
-        trial. The role of story is a nascent and under-fed interest of mine, and will
-        remain so for a while, but I''ve forwarded the paper onto a colleague.
-    
-    
-        Glad I haven''t gotten anything glaringly wrong in my interpretation and summary
-        of your work.
-    
-    
-        As my <a href="https://djon.es/blog/elearning-and-innovation/" rel="nofollow">new
-        job</a> gets moving over the next 6 months I am particularly interested in thinking
-        more about technology gravity. I see it as a particular problem as my current
-        institution and am keen to identify ways to reduce it.
-    
-    
-        Any pointers more than welcome.  I''m planning on looking through your thesis
-        at a later date.
-    
-    
-        Thanks for your work.
-    
-    
-        David.'
-      date: '2009-06-23 09:20:32'
-      date_gmt: '2009-06-22 23:20:32'
-      id: '2359'
-      parent: '2358'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    - approved: '1'
-      author: 'Conceptguy &raquo; Blog Archive &raquo; Edupunk rules: Technology I, II
-        and 3 - understanding and &#8230;'
-      author_email: null
-      author_ip: 75.125.219.50
-      author_url: http://www.conceptguy.co.uk/?p=486
-      content: '[...] View original here: Edupunk rules: Technology I, II and 3 - understanding
-        and &#8230; [...]'
-      date: '2009-04-09 19:15:03'
-      date_gmt: '2009-04-09 09:15:03'
-      id: '2354'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #7 - a fortnight in review &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/04/17/phd-update-7-a-fortnight-in-review/
-      content: '[...] Edupunk rulesA post that combines some insights from McDonald and
-        Gibbons (nd) with the Edupunk movement. Both fit with the fundamental perspective
-        from my design theory. [...]'
-      date: '2009-04-17 14:23:14'
-      date_gmt: '2009-04-17 04:23:14'
-      id: '2355'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Pedagogy of the impressed - how teachers become victims of technology vision
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.206
-      author_url: https://djon.es/blog/2009/04/22/pedagogy-of-the-impressed-how-teachers-become-victims-of-technology-vision/
-      content: '[...] application to technology-mediated learning, the technologists alliance
-        (more on this soon) and the idea of technological gravity and technology I, II
-        and [...]'
-      date: '2009-04-22 11:14:39'
-      date_gmt: '2009-04-22 01:14:39'
-      id: '2356'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: What can history tell us about e-learning and its future? &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.188
-      author_url: https://djon.es/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
-      content: '[...] Technology I, II and III and the importance of local context [...]'
-      date: '2009-06-18 10:50:25'
-      date_gmt: '2009-06-18 00:50:25'
-      id: '2357'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Confirmation bias, the Tolstoy Syndrome and pattern entrainment &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.208
-      author_url: https://djon.es/blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
-      content: '[...] status quo adherence from McDonald and Gibbons (nd) [...]'
-      date: '2009-06-23 09:59:53'
-      date_gmt: '2009-06-22 23:59:53'
-      id: '2360'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Improving L&amp;T at Universities &#8211; The emperor has no clothes &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.2.29
-      author_url: https://djon.es/blog/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/
-      content: '[...] method or interest (portfolios, active learning, peer learning etc.).
-        That is examples of Technology I or II and technological gravity. None of these
-        had any demonstrable widespread (approaching 50%) [...]'
-      date: '2010-03-14 07:53:36'
-      date_gmt: '2010-03-13 21:53:36'
-      id: '2361'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Qualms about the alignment project &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.254.72
-      author_url: https://djon.es/blog/2010/05/14/qualms-about-the-alignment-project/
-      content: '[...] conception of technological gravity that McDonald and Gibbons (2009)
-        define and which I&#8217;ve posted about (and linked to edupunk). This idea is
-        based on the idea of three major assumptions around learning [...]'
-      date: '2010-05-14 14:14:34'
-      date_gmt: '2010-05-14 04:14:34'
-      id: '2362'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a summary and perhaps a bit of a reflection on McDonald and Gibbons (nd). This is a journal article that has been accepted, but not yet officially published. It appears to be based on the [PhD thesis](http://contentdm.lib.byu.edu/ETD/image/etd1610.pdf) of McDonald.
 

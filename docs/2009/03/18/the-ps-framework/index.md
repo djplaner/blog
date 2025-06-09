@@ -1,435 +1,432 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
 - elearning
 - phd
 - thesis
-date: 2009-03-18 21:18:23+10:00
+comments: []
+date: 2009-03-18 11:18:23
 next:
   text: Coordination, support and knowledge sharing associated with e-learning - where
     does your organisation fit?
   url: /blog/2009/03/18/coordination-support-and-knowledge-sharing-associated-with-e-learning-where-does-your-organisation-fit/
+pingbacks:
+- approved: '1'
+  author: Technology will *not* change the way we teach - an example why we&#8217;re
+    an amnesiac field &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.209
+  author_url: https://djon.es/blog/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/
+  content: '[...] night I posted a draft of the section of the chapter that introduces
+    the Ps Framework. Today, I&#8217;ve been working on getting a first draft of the
+    [...]'
+  date: '2009-03-19 16:26:27'
+  date_gmt: '2009-03-19 06:26:27'
+  id: '2264'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update - Week #4 - Frustration and progress &laquo; The Weblog of (a)
+    David Jones'
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/03/20/phd-update-week-4-frustration-and-progress/
+  content: '[...] Framework (chapter 2) as possible and have most put onto the blog.  I
+    posted a first draft of the &#8220;introduction to the Ps framework&#8221; section.
+    I&#8217;ve made some significant progress in structuring most of the 7 sections
+    associated [...]'
+  date: '2009-03-20 10:19:35'
+  date_gmt: '2009-03-20 00:19:35'
+  id: '2265'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: '&#8220;One ring to rule them all&#8221;: Limitations and implications of
+    the LMS/VLE product model &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.3
+  author_url: https://djon.es/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/
+  content: '[...] and implications of the LMS/VLE product&nbsp;model  As part of the
+    PhD I&#8217;m developing the P Frameworks as a theory for analysing/understanding
+    the factors the impact the organisational implementation of [...]'
+  date: '2009-03-27 11:21:11'
+  date_gmt: '2009-03-27 01:21:11'
+  id: '2266'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Prescription, adaptation and failure around improving univeristy teaching
+    &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
+  content: '[...] the Ps Framework I have identified &#8220;Place&#8221; as the environment
+    in which it all takes place. It is the [...]'
+  date: '2009-03-30 12:27:33'
+  date_gmt: '2009-03-30 02:27:33'
+  id: '2267'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'PhD Update #6 - start of shortened weeks &laquo; The Weblog of (a) David
+    Jones'
+  author_email: null
+  author_ip: 66.135.48.204
+  author_url: https://djon.es/blog/2009/04/02/phd-update-6-start-of-shortened-weeks/
+  content: '[...] of the above blog posts are intended to contain draft content of
+    the thesis. Exactly like this earlier post introducing the Ps Framework. Possibly
+    related posts: (automatically generated)PhD Update - Week #4 [...]'
+  date: '2009-04-02 13:22:02'
+  date_gmt: '2009-04-02 03:22:02'
+  id: '2268'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Birnbaum&#8217;s fad cycle in higher education &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 72.233.96.143
+  author_url: https://djon.es/blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/
+  content: '[...] technology I&#8217;ve been working on as part of the &#8220;Past
+    Experience&#8221; section of the Ps Framework - chapter 2 of my thesis. In this
+    post I try and give an overview of a similar cycle already well [...]'
+  date: '2009-04-06 15:32:00'
+  date_gmt: '2009-04-06 05:32:00'
+  id: '2269'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: A history of technology-mediated learning &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 72.233.44.58
+  author_url: https://djon.es/blog/2009/04/17/a-history-of-technology-mediated-learning/
+  content: '[...] is a section from my PhD thesis. It is part of the &#8220;Past Experience&#8221;
+    section of the Ps Framework. It aims to give a potted history of technology-mediated
+    learning and show how it connects with [...]'
+  date: '2009-04-17 11:49:57'
+  date_gmt: '2009-04-17 01:49:57'
+  id: '2270'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The paradigms of e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/04/20/the-paradigms-of-e-learning/
+  content: '[...]  I&#8217;m currently working on chapter 2 of my thesis - the literature
+    review. Mine is using the Ps Framework as the organising structure and also as
+    part of the contribution of the thesis. I&#8217;m currently [...]'
+  date: '2009-04-20 22:04:51'
+  date_gmt: '2009-04-20 12:04:51'
+  id: '2271'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: E-learning usage - quality &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.211
+  author_url: https://djon.es/blog/2009/04/22/e-learning-usage-quality/
+  content: '[...] Experience&#8221; section of chapter 2 of my thesis. It follows
+    on from previous posts including: Ps Framework, History of technology-mediated
+    learning, and the paradigms of [...]'
+  date: '2009-04-22 12:36:53'
+  date_gmt: '2009-04-22 02:36:53'
+  id: '2272'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
+  author_email: null
+  author_ip: 74.200.244.85
+  author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
+  content: '[...] I have finised the &#8220;Past Experience&#8221; component of the
+    Ps Framework. Time to pick another component. So, &#8220;Place&#8221; it is and
+    probably &#8220;Purpose&#8221; [...]'
+  date: '2009-04-24 15:01:58'
+  date_gmt: '2009-04-24 05:01:58'
+  id: '2273'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Integration with professional lives of academics - why industrial e-learning
+    fails and why post-industrial might work &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.149
+  author_url: https://djon.es/blog/2009/04/29/integration-with-professional-lives-of-academics-why-industrial-e-learning-fails-and-why-post-industrial-might-work/
+  content: '[...]  I&#8217;m currently struggling with writing the &#8220;Place&#8221;
+    component of the Ps framework as part chapter 2 of my thesis. In wondering the
+    literature, as I tend to do while writing, [...]'
+  date: '2009-04-29 14:08:10'
+  date_gmt: '2009-04-29 04:08:10'
+  id: '2274'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Place - component of the Ps Framework &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/05/06/place-component-of-the-ps-framework/
+  content: '[...] to a section of Chapter 2 of my thesis. It introduces the examination
+    of the Place component of the Ps Framework. Hopefully, the remaining sections
+    of the section will be posted over the coming day or [...]'
+  date: '2009-05-06 08:06:45'
+  date_gmt: '2009-05-05 22:06:45'
+  id: '2275'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Society &#8211; an aspect of Place impacting on e-learning &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.211
+  author_url: https://djon.es/blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/
+  content: '[...] finally, is a first draft of the sector section of the &#8220;Place&#8221;
+    component of the Ps Framework. This is all meant to be part of chapter 2 of my
+    [...]'
+  date: '2009-05-08 09:32:34'
+  date_gmt: '2009-05-07 23:32:34'
+  id: '2276'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Institution &#8211; another part of place &laquo; The Weblog of (a) David
+    Jones
+  author_email: null
+  author_ip: 74.200.244.27
+  author_url: https://djon.es/blog/2009/05/15/institution-another-part-of-place/
+  content: '[...]  For longer than I care to remember, I&#8217;ve been working on
+    the Place component of the Ps Framework for chapter 2 of my thesis. This post
+    brings the penultimate section for the Ps component &#8211; [...]'
+  date: '2009-05-15 15:16:22'
+  date_gmt: '2009-05-15 05:16:22'
+  id: '2277'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Purpose &#8211; a component of the Ps Framework &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.245.190
+  author_url: https://djon.es/blog/2009/05/20/purpose-a-component-of-the-ps-framework/
+  content: '[...] This section attempts to give a brief overview of the Purpose component
+    of the Ps Framework. [...]'
+  date: '2009-05-20 23:02:17'
+  date_gmt: '2009-05-20 13:02:17'
+  id: '2278'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The LMS/VLE as a one word language &#8211; metaphor and e-learning &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.173
+  author_url: https://djon.es/blog/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/
+  content: '[...] back from a holiday restarting work on my thesis and in particular
+    on the process component of the Ps Framework. I&#8217;m currently working on the
+    section that describes the two extremes, I&#8217;m using [...]'
+  date: '2009-06-02 09:41:46'
+  date_gmt: '2009-06-01 23:41:46'
+  id: '2279'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Teleological design &#8211; definition and weaknesses &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.71
+  author_url: https://djon.es/blog/2009/06/05/teleological-design-definition-and-weaknesses/
+  content: '[...] pause due to holidays and work, here&#8217;s the next installment
+    of the process component of the Ps Framework for chapter 2 of my thesis. A previous
+    post gave a brief overview of teleological and ateleological [...]'
+  date: '2009-06-05 08:58:30'
+  date_gmt: '2009-06-04 22:58:30'
+  id: '2280'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Ateleological processes &#8211; definition and weaknesses &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 74.200.245.187
+  author_url: https://djon.es/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/
+  content: '[...] processes and their weaknesses. It&#8217;s a version 1 draft from
+    the process components of the Ps Framework for chapter 2 of my thesis. A previous
+    post gave a brief overview of teleological and ateleological [...]'
+  date: '2009-06-05 09:09:11'
+  date_gmt: '2009-06-04 23:09:11'
+  id: '2281'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: University processes &#8211; management and planning &laquo; The Weblog
+    of (a) David Jones
+  author_email: null
+  author_ip: 66.135.48.211
+  author_url: https://djon.es/blog/2009/06/08/university-processes-management-and-planning/
+  content: '[...] draft of a section from my thesis. I&#8217;m currently working on
+    the Process component of the Ps Framework. The section included below is the first
+    of three sections that seeks to summarise/describe the [...]'
+  date: '2009-06-08 12:43:37'
+  date_gmt: '2009-06-08 02:43:37'
+  id: '2282'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Institutional learning and teaching strategies &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.245.226
+  author_url: https://djon.es/blog/2009/06/11/institutional-learning-and-teaching-strategies/
+  content: '[...] and teaching&nbsp;strategies  The following is the next section
+    of the Process component of the Ps Framework section of my thesis. I have an inkling
+    that my bias towards ateleological processes comes through [...]'
+  date: '2009-06-11 11:35:54'
+  date_gmt: '2009-06-11 01:35:54'
+  id: '2283'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons from process for university e-learning &laquo; The Weblog of (a)
+    David Jones
+  author_email: null
+  author_ip: 74.200.244.40
+  author_url: https://djon.es/blog/2009/06/21/lessons-from-process-for-university-e-learning/
+  content: '[...] that my brilliant thesis will fill through one potential approach.
+    I&#8217;m using the idea of the Ps Framework to structure my Chapter 2. This is
+    the last component of the Process part of the Ps [...]'
+  date: '2009-06-21 14:48:07'
+  date_gmt: '2009-06-21 04:48:07'
+  id: '2284'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Confirmation bias, the Tolstoy Syndrome and pattern entrainment &laquo;
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 76.74.255.68
+  author_url: https://djon.es/blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
+  content: '[...] Syndrome and pattern&nbsp;entrainment  I&#8217;m currently working
+    on the People component of the Ps Framework as part of my thesis. One of the sections
+    of the People component will be &#8220;People and [...]'
+  date: '2009-06-23 10:08:37'
+  date_gmt: '2009-06-23 00:08:37'
+  id: '2285'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Students and e-learning &#8211; a start to the People section &laquo; The
+    Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.139
+  author_url: https://djon.es/blog/2009/06/29/students-and-e-learning-a-start-to-the-people-section/
+  content: '[...] a start to the People&nbsp;section  The following is the first step
+    in the People component of the Ps Framework from chapter 2 of my thesis. The first
+    bit (&#8221;People&#8221;) is the introduction to the thesis [...]'
+  date: '2009-06-29 12:01:16'
+  date_gmt: '2009-06-29 02:01:16'
+  id: '2286'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Leaders and managers &#8211; the next bit of People &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 74.200.244.75
+  author_url: https://djon.es/blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/
+  content: '[...] to get back to the thesis. The following continues the recent work
+    on the People component of the Ps Framework. So far, I&#8217;ve done students
+    and teaching/academic staff. This post looks at leaders and [...]'
+  date: '2009-07-17 14:42:32'
+  date_gmt: '2009-07-17 04:42:32'
+  id: '2287'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Lessons from product for e-learning &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 74.200.243.207
+  author_url: https://djon.es/blog/2009/09/02/lessons-from-product-for-e-learning/
+  content: '[...] implement e-learning (adoption of an LMS) and it refers back to
+    many of the other components of the Ps Framework. This will eventually become
+    part of my EDUCAUSE&#8217;09 presentation and I&#8217;m thinking of [...]'
+  date: '2009-09-02 10:04:17'
+  date_gmt: '2009-09-02 00:04:17'
+  id: '2288'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: How to handle the marriage of PLEs and institutions &laquo; The Weblog of
+    (a) David Jones
+  author_email: null
+  author_ip: 74.200.247.113
+  author_url: https://djon.es/blog/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/
+  content: '[...] paper and this post attempts to use the Ps framework as one way
+    to map this [...]'
+  date: '2010-07-22 11:03:25'
+  date_gmt: '2010-07-22 01:03:25'
+  id: '2289'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Web 2.0 no meu Diigo (weekly) &laquo; Web 2.0 PT
+  author_email: null
+  author_ip: 74.200.247.111
+  author_url: http://web20pt.wordpress.com/2010/08/01/web-2-0-no-meu-diigo-weekly-41/
+  content: "[...] The Ps framework \xAB The Weblog of (a) David Jones [...]"
+  date: '2010-11-23 22:35:34'
+  date_gmt: '2010-11-23 12:35:34'
+  id: '2290'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: The chasm | The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 66.155.8.249
+  author_url: https://djon.es/blog/2009/08/09/the-chasm/
+  content: '[&#8230;] following is the next section for the People component of the
+    Ps Framework for chapter 2 of my thesis. It starts the trend away from specific
+    roles/groups within e-learning [&#8230;]'
+  date: '2013-09-06 09:27:23'
+  date_gmt: '2013-09-05 23:27:23'
+  id: '2291'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: '&quot;Blame the teacher&quot; and its negative impact on learning and e-learning'
   url: /blog/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/
+template: blog-post.html
 title: The Ps framework
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Technology will *not* change the way we teach - an example why we&#8217;re
-        an amnesiac field &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.209
-      author_url: https://djon.es/blog/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/
-      content: '[...] night I posted a draft of the section of the chapter that introduces
-        the Ps Framework. Today, I&#8217;ve been working on getting a first draft of the
-        [...]'
-      date: '2009-03-19 16:26:27'
-      date_gmt: '2009-03-19 06:26:27'
-      id: '2264'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update - Week #4 - Frustration and progress &laquo; The Weblog of (a)
-        David Jones'
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/03/20/phd-update-week-4-frustration-and-progress/
-      content: '[...] Framework (chapter 2) as possible and have most put onto the blog.  I
-        posted a first draft of the &#8220;introduction to the Ps framework&#8221; section.
-        I&#8217;ve made some significant progress in structuring most of the 7 sections
-        associated [...]'
-      date: '2009-03-20 10:19:35'
-      date_gmt: '2009-03-20 00:19:35'
-      id: '2265'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: '&#8220;One ring to rule them all&#8221;: Limitations and implications of
-        the LMS/VLE product model &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.3
-      author_url: https://djon.es/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/
-      content: '[...] and implications of the LMS/VLE product&nbsp;model  As part of the
-        PhD I&#8217;m developing the P Frameworks as a theory for analysing/understanding
-        the factors the impact the organisational implementation of [...]'
-      date: '2009-03-27 11:21:11'
-      date_gmt: '2009-03-27 01:21:11'
-      id: '2266'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Prescription, adaptation and failure around improving univeristy teaching
-        &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
-      content: '[...] the Ps Framework I have identified &#8220;Place&#8221; as the environment
-        in which it all takes place. It is the [...]'
-      date: '2009-03-30 12:27:33'
-      date_gmt: '2009-03-30 02:27:33'
-      id: '2267'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'PhD Update #6 - start of shortened weeks &laquo; The Weblog of (a) David
-        Jones'
-      author_email: null
-      author_ip: 66.135.48.204
-      author_url: https://djon.es/blog/2009/04/02/phd-update-6-start-of-shortened-weeks/
-      content: '[...] of the above blog posts are intended to contain draft content of
-        the thesis. Exactly like this earlier post introducing the Ps Framework. Possibly
-        related posts: (automatically generated)PhD Update - Week #4 [...]'
-      date: '2009-04-02 13:22:02'
-      date_gmt: '2009-04-02 03:22:02'
-      id: '2268'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Birnbaum&#8217;s fad cycle in higher education &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 72.233.96.143
-      author_url: https://djon.es/blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/
-      content: '[...] technology I&#8217;ve been working on as part of the &#8220;Past
-        Experience&#8221; section of the Ps Framework - chapter 2 of my thesis. In this
-        post I try and give an overview of a similar cycle already well [...]'
-      date: '2009-04-06 15:32:00'
-      date_gmt: '2009-04-06 05:32:00'
-      id: '2269'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: A history of technology-mediated learning &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 72.233.44.58
-      author_url: https://djon.es/blog/2009/04/17/a-history-of-technology-mediated-learning/
-      content: '[...] is a section from my PhD thesis. It is part of the &#8220;Past Experience&#8221;
-        section of the Ps Framework. It aims to give a potted history of technology-mediated
-        learning and show how it connects with [...]'
-      date: '2009-04-17 11:49:57'
-      date_gmt: '2009-04-17 01:49:57'
-      id: '2270'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The paradigms of e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/04/20/the-paradigms-of-e-learning/
-      content: '[...]  I&#8217;m currently working on chapter 2 of my thesis - the literature
-        review. Mine is using the Ps Framework as the organising structure and also as
-        part of the contribution of the thesis. I&#8217;m currently [...]'
-      date: '2009-04-20 22:04:51'
-      date_gmt: '2009-04-20 12:04:51'
-      id: '2271'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: E-learning usage - quality &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.211
-      author_url: https://djon.es/blog/2009/04/22/e-learning-usage-quality/
-      content: '[...] Experience&#8221; section of chapter 2 of my thesis. It follows
-        on from previous posts including: Ps Framework, History of technology-mediated
-        learning, and the paradigms of [...]'
-      date: '2009-04-22 12:36:53'
-      date_gmt: '2009-04-22 02:36:53'
-      id: '2272'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: 'Phd Update #8 - steaming ahead &laquo; The Weblog of (a) David Jones'
-      author_email: null
-      author_ip: 74.200.244.85
-      author_url: https://djon.es/blog/2009/04/24/phd-update-8-steaming-ahead/
-      content: '[...] I have finised the &#8220;Past Experience&#8221; component of the
-        Ps Framework. Time to pick another component. So, &#8220;Place&#8221; it is and
-        probably &#8220;Purpose&#8221; [...]'
-      date: '2009-04-24 15:01:58'
-      date_gmt: '2009-04-24 05:01:58'
-      id: '2273'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Integration with professional lives of academics - why industrial e-learning
-        fails and why post-industrial might work &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.149
-      author_url: https://djon.es/blog/2009/04/29/integration-with-professional-lives-of-academics-why-industrial-e-learning-fails-and-why-post-industrial-might-work/
-      content: '[...]  I&#8217;m currently struggling with writing the &#8220;Place&#8221;
-        component of the Ps framework as part chapter 2 of my thesis. In wondering the
-        literature, as I tend to do while writing, [...]'
-      date: '2009-04-29 14:08:10'
-      date_gmt: '2009-04-29 04:08:10'
-      id: '2274'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Place - component of the Ps Framework &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/05/06/place-component-of-the-ps-framework/
-      content: '[...] to a section of Chapter 2 of my thesis. It introduces the examination
-        of the Place component of the Ps Framework. Hopefully, the remaining sections
-        of the section will be posted over the coming day or [...]'
-      date: '2009-05-06 08:06:45'
-      date_gmt: '2009-05-05 22:06:45'
-      id: '2275'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Society &#8211; an aspect of Place impacting on e-learning &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.211
-      author_url: https://djon.es/blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/
-      content: '[...] finally, is a first draft of the sector section of the &#8220;Place&#8221;
-        component of the Ps Framework. This is all meant to be part of chapter 2 of my
-        [...]'
-      date: '2009-05-08 09:32:34'
-      date_gmt: '2009-05-07 23:32:34'
-      id: '2276'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Institution &#8211; another part of place &laquo; The Weblog of (a) David
-        Jones
-      author_email: null
-      author_ip: 74.200.244.27
-      author_url: https://djon.es/blog/2009/05/15/institution-another-part-of-place/
-      content: '[...]  For longer than I care to remember, I&#8217;ve been working on
-        the Place component of the Ps Framework for chapter 2 of my thesis. This post
-        brings the penultimate section for the Ps component &#8211; [...]'
-      date: '2009-05-15 15:16:22'
-      date_gmt: '2009-05-15 05:16:22'
-      id: '2277'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Purpose &#8211; a component of the Ps Framework &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.245.190
-      author_url: https://djon.es/blog/2009/05/20/purpose-a-component-of-the-ps-framework/
-      content: '[...] This section attempts to give a brief overview of the Purpose component
-        of the Ps Framework. [...]'
-      date: '2009-05-20 23:02:17'
-      date_gmt: '2009-05-20 13:02:17'
-      id: '2278'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The LMS/VLE as a one word language &#8211; metaphor and e-learning &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.173
-      author_url: https://djon.es/blog/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/
-      content: '[...] back from a holiday restarting work on my thesis and in particular
-        on the process component of the Ps Framework. I&#8217;m currently working on the
-        section that describes the two extremes, I&#8217;m using [...]'
-      date: '2009-06-02 09:41:46'
-      date_gmt: '2009-06-01 23:41:46'
-      id: '2279'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Teleological design &#8211; definition and weaknesses &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.71
-      author_url: https://djon.es/blog/2009/06/05/teleological-design-definition-and-weaknesses/
-      content: '[...] pause due to holidays and work, here&#8217;s the next installment
-        of the process component of the Ps Framework for chapter 2 of my thesis. A previous
-        post gave a brief overview of teleological and ateleological [...]'
-      date: '2009-06-05 08:58:30'
-      date_gmt: '2009-06-04 22:58:30'
-      id: '2280'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Ateleological processes &#8211; definition and weaknesses &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 74.200.245.187
-      author_url: https://djon.es/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/
-      content: '[...] processes and their weaknesses. It&#8217;s a version 1 draft from
-        the process components of the Ps Framework for chapter 2 of my thesis. A previous
-        post gave a brief overview of teleological and ateleological [...]'
-      date: '2009-06-05 09:09:11'
-      date_gmt: '2009-06-04 23:09:11'
-      id: '2281'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: University processes &#8211; management and planning &laquo; The Weblog
-        of (a) David Jones
-      author_email: null
-      author_ip: 66.135.48.211
-      author_url: https://djon.es/blog/2009/06/08/university-processes-management-and-planning/
-      content: '[...] draft of a section from my thesis. I&#8217;m currently working on
-        the Process component of the Ps Framework. The section included below is the first
-        of three sections that seeks to summarise/describe the [...]'
-      date: '2009-06-08 12:43:37'
-      date_gmt: '2009-06-08 02:43:37'
-      id: '2282'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Institutional learning and teaching strategies &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.245.226
-      author_url: https://djon.es/blog/2009/06/11/institutional-learning-and-teaching-strategies/
-      content: '[...] and teaching&nbsp;strategies  The following is the next section
-        of the Process component of the Ps Framework section of my thesis. I have an inkling
-        that my bias towards ateleological processes comes through [...]'
-      date: '2009-06-11 11:35:54'
-      date_gmt: '2009-06-11 01:35:54'
-      id: '2283'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons from process for university e-learning &laquo; The Weblog of (a)
-        David Jones
-      author_email: null
-      author_ip: 74.200.244.40
-      author_url: https://djon.es/blog/2009/06/21/lessons-from-process-for-university-e-learning/
-      content: '[...] that my brilliant thesis will fill through one potential approach.
-        I&#8217;m using the idea of the Ps Framework to structure my Chapter 2. This is
-        the last component of the Process part of the Ps [...]'
-      date: '2009-06-21 14:48:07'
-      date_gmt: '2009-06-21 04:48:07'
-      id: '2284'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Confirmation bias, the Tolstoy Syndrome and pattern entrainment &laquo;
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 76.74.255.68
-      author_url: https://djon.es/blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
-      content: '[...] Syndrome and pattern&nbsp;entrainment  I&#8217;m currently working
-        on the People component of the Ps Framework as part of my thesis. One of the sections
-        of the People component will be &#8220;People and [...]'
-      date: '2009-06-23 10:08:37'
-      date_gmt: '2009-06-23 00:08:37'
-      id: '2285'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Students and e-learning &#8211; a start to the People section &laquo; The
-        Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.139
-      author_url: https://djon.es/blog/2009/06/29/students-and-e-learning-a-start-to-the-people-section/
-      content: '[...] a start to the People&nbsp;section  The following is the first step
-        in the People component of the Ps Framework from chapter 2 of my thesis. The first
-        bit (&#8221;People&#8221;) is the introduction to the thesis [...]'
-      date: '2009-06-29 12:01:16'
-      date_gmt: '2009-06-29 02:01:16'
-      id: '2286'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Leaders and managers &#8211; the next bit of People &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 74.200.244.75
-      author_url: https://djon.es/blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/
-      content: '[...] to get back to the thesis. The following continues the recent work
-        on the People component of the Ps Framework. So far, I&#8217;ve done students
-        and teaching/academic staff. This post looks at leaders and [...]'
-      date: '2009-07-17 14:42:32'
-      date_gmt: '2009-07-17 04:42:32'
-      id: '2287'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Lessons from product for e-learning &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 74.200.243.207
-      author_url: https://djon.es/blog/2009/09/02/lessons-from-product-for-e-learning/
-      content: '[...] implement e-learning (adoption of an LMS) and it refers back to
-        many of the other components of the Ps Framework. This will eventually become
-        part of my EDUCAUSE&#8217;09 presentation and I&#8217;m thinking of [...]'
-      date: '2009-09-02 10:04:17'
-      date_gmt: '2009-09-02 00:04:17'
-      id: '2288'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: How to handle the marriage of PLEs and institutions &laquo; The Weblog of
-        (a) David Jones
-      author_email: null
-      author_ip: 74.200.247.113
-      author_url: https://djon.es/blog/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/
-      content: '[...] paper and this post attempts to use the Ps framework as one way
-        to map this [...]'
-      date: '2010-07-22 11:03:25'
-      date_gmt: '2010-07-22 01:03:25'
-      id: '2289'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Web 2.0 no meu Diigo (weekly) &laquo; Web 2.0 PT
-      author_email: null
-      author_ip: 74.200.247.111
-      author_url: http://web20pt.wordpress.com/2010/08/01/web-2-0-no-meu-diigo-weekly-41/
-      content: "[...] The Ps framework \xAB The Weblog of (a) David Jones [...]"
-      date: '2010-11-23 22:35:34'
-      date_gmt: '2010-11-23 12:35:34'
-      id: '2290'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: The chasm | The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 66.155.8.249
-      author_url: https://djon.es/blog/2009/08/09/the-chasm/
-      content: '[&#8230;] following is the next section for the People component of the
-        Ps Framework for chapter 2 of my thesis. It starts the trend away from specific
-        roles/groups within e-learning [&#8230;]'
-      date: '2013-09-06 09:27:23'
-      date_gmt: '2013-09-05 23:27:23'
-      id: '2291'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 The following is a section of my [thesis](/blog/research/phd-thesis/) - chapter 2. As I get first drafts of this stuff done, I'm going to post it to the blog - where appropriate. This is the first.
 
@@ -485,4 +482,4 @@ This is not to suggest that there exists a simple linear, or even hierarchical, 
 
 Figure 1 provides a representation of the 7 components of the Ps Framework for E-Learning. The situationally contingent nature of these components is represented by the Place component encapsulating all of the remaining six. The dynamically contingent nature of these components is represented by the messiness of their representation. It is intended also that each component be connected in someway to every other component as a representation that each component can influence the other, and vice versa.
 
-[![The Ps Framework: a messy version](images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/ "The Ps Framework: a messy version by David T Jones, on Flickr")
+[![The Ps Framework: a messy version](https://djon.es/assets/blog/2009/03/18/the-ps-framework/images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/ "The Ps Framework: a messy version by David T Jones, on Flickr")

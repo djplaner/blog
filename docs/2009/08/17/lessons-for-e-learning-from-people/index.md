@@ -1,4 +1,4 @@
----
+﻿---
 categories:
 - chapter-2
 - design-theory
@@ -6,36 +6,33 @@ categories:
 - phd
 - psframework
 - thesis
-date: 2009-08-17 13:23:34+10:00
+comments: []
+date: 2009-08-17 03:23:34
 next:
   text: Herding cats, losing weight and how to improve learning and teaching
   url: /blog/2009/08/18/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching/
+pingbacks:
+- approved: '1'
+  author: Loosing weight, nudging and changing the L&amp;T environment &#8211; early
+    foundations of my work &laquo; The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 72.233.96.181
+  author_url: https://djon.es/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
+  content: '[...] system/environment in which academic staff work and improving L&amp;T.
+    A few references/quotes from this post Academic staff are trained, selected and
+    evaluated on the discipline expertise and their ability to [...]'
+  date: '2010-02-03 11:46:25'
+  date_gmt: '2010-02-03 01:46:25'
+  id: '2721'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: Moodle, curriculum mapping, task fit and task corruption
   url: /blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/
+template: blog-post.html
 title: Lessons for e-learning from people
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Loosing weight, nudging and changing the L&amp;T environment &#8211; early
-        foundations of my work &laquo; The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 72.233.96.181
-      author_url: https://djon.es/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
-      content: '[...] system/environment in which academic staff work and improving L&amp;T.
-        A few references/quotes from this post Academic staff are trained, selected and
-        evaluated on the discipline expertise and their ability to [...]'
-      date: '2010-02-03 11:46:25'
-      date_gmt: '2010-02-03 01:46:25'
-      id: '2721'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 This is the last section from the People component of chapter 2 of [my thesis](/blog/research/phd-thesis/). It is an attempt to derive some lessons from the previous sections that are relevant to the practice of e-learning.
 

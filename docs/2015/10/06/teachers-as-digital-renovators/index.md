@@ -1,96 +1,93 @@
----
+﻿---
 categories:
 - bad
 - tpack
-date: 2015-10-06 12:25:43+10:00
+comments: []
+date: 2015-10-06 02:25:43
 next:
   text: Technology required by teachers to customise technology-enhanced units
   url: /blog/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/
+pingbacks:
+- approved: '1'
+  author: Teachers, design and technology | DrAlb
+  author_email: null
+  author_ip: 117.55.235.21
+  author_url: http://dralb.albion.id.au/?p=4561
+  content: "[&#8230;] Jones (@djplaner) posted a piece, Teachers as designers of technology\
+    \ enhanced learning?, earlier today. Although he didn\u2019t identify us, I am\
+    \ one of the colleagues he referred to in his [&#8230;]"
+  date: '2015-10-06 22:38:36'
+  date_gmt: '2015-10-06 12:38:36'
+  id: '1437'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Teachers as designers of technology enhance lea...
+  author_email: null
+  author_ip: 185.82.148.10
+  author_url: http://www.scoop.it/t/learning-by-andoni-sanz/p/4052982906/2015/10/06/teachers-as-designers-of-technology-enhance-learning
+  content: '[&#8230;] Some colleagues and I are starting to wonder about what type
+    of &ldquo;digital knowledge&rdquo; teachers might need. This is occurring in the
+    context of a re-design of a Bachelor of Education. This particular post is a summary
+    of reading and thinking about ideas outlined in Kirschner (2015) and related writings.
+    Apparently Instructional Science 43(2) feature contributions discussing &ldquo;teacher
+    as a design professional&rdquo;.&nbsp; [&#8230;]'
+  date: '2015-10-07 06:58:46'
+  date_gmt: '2015-10-06 20:58:46'
+  id: '1438'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Technology required by teachers to customise technology-enhanced units |
+    The Weblog of (a) David Jones
+  author_email: null
+  author_ip: 192.0.86.61
+  author_url: https://davidtjones.wordpress.com/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/
+  content: '[&#8230;] Teachers as designers of technology enhance learning? [&#8230;]'
+  date: '2015-10-07 13:11:47'
+  date_gmt: '2015-10-07 03:11:47'
+  id: '1439'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Teachers as designers of technology enhance lea...
+  author_email: null
+  author_ip: 185.82.148.10
+  author_url: http://www.scoop.it/t/cued/p/4053011465/2015/10/07/teachers-as-designers-of-technology-enhance-learning-the-weblog-of-a-david-jones
+  content: '[&#8230;] Some colleagues and I are starting to wonder about what type
+    of &quot;digital knowledge&quot; teachers might need. This is occurring in the
+    context of a re-design of a Bachelor of Education. This particular post is a summary
+    of reading and thinking about ideas outlined in Kirschner (2015) and related writings.
+    Apparently Instructional Science 43(2) feature&hellip;&nbsp; [&#8230;]'
+  date: '2015-10-07 18:19:14'
+  date_gmt: '2015-10-07 08:19:14'
+  id: '1440'
+  parent: '0'
+  type: pingback
+  user_id: '0'
+- approved: '1'
+  author: Teachers as designers of technology enhance lea...
+  author_email: null
+  author_ip: 185.82.148.10
+  author_url: http://www.scoop.it/t/crear-compartir-y-colaborar/p/4053111458/2015/10/08/teachers-as-designers-of-technology-enhance-learning
+  content: '[&#8230;] Some colleagues and I are starting to wonder about what type
+    of &quot;digital knowledge&quot; teachers might need. This is occurring in the
+    context of a re-design of a Bachelor of Education. This particular ...&nbsp; [&#8230;]'
+  date: '2015-10-09 00:38:52'
+  date_gmt: '2015-10-08 14:38:52'
+  id: '1441'
+  parent: '0'
+  type: pingback
+  user_id: '0'
 previous:
   text: 'University e-learning: Removing context and adding sediment'
   url: /blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
+template: blog-post.html
 title: Teachers as designers of technology enhance learning?
 type: post
-template: blog-post.html
-comments:
-    []
-    
-pingbacks:
-    - approved: '1'
-      author: Teachers, design and technology | DrAlb
-      author_email: null
-      author_ip: 117.55.235.21
-      author_url: http://dralb.albion.id.au/?p=4561
-      content: "[&#8230;] Jones (@djplaner) posted a piece, Teachers as designers of technology\
-        \ enhanced learning?, earlier today. Although he didn\u2019t identify us, I am\
-        \ one of the colleagues he referred to in his [&#8230;]"
-      date: '2015-10-06 22:38:36'
-      date_gmt: '2015-10-06 12:38:36'
-      id: '1437'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Teachers as designers of technology enhance lea...
-      author_email: null
-      author_ip: 185.82.148.10
-      author_url: http://www.scoop.it/t/learning-by-andoni-sanz/p/4052982906/2015/10/06/teachers-as-designers-of-technology-enhance-learning
-      content: '[&#8230;] Some colleagues and I are starting to wonder about what type
-        of &ldquo;digital knowledge&rdquo; teachers might need. This is occurring in the
-        context of a re-design of a Bachelor of Education. This particular post is a summary
-        of reading and thinking about ideas outlined in Kirschner (2015) and related writings.
-        Apparently Instructional Science 43(2) feature contributions discussing &ldquo;teacher
-        as a design professional&rdquo;.&nbsp; [&#8230;]'
-      date: '2015-10-07 06:58:46'
-      date_gmt: '2015-10-06 20:58:46'
-      id: '1438'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Technology required by teachers to customise technology-enhanced units |
-        The Weblog of (a) David Jones
-      author_email: null
-      author_ip: 192.0.86.61
-      author_url: https://davidtjones.wordpress.com/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/
-      content: '[&#8230;] Teachers as designers of technology enhance learning? [&#8230;]'
-      date: '2015-10-07 13:11:47'
-      date_gmt: '2015-10-07 03:11:47'
-      id: '1439'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Teachers as designers of technology enhance lea...
-      author_email: null
-      author_ip: 185.82.148.10
-      author_url: http://www.scoop.it/t/cued/p/4053011465/2015/10/07/teachers-as-designers-of-technology-enhance-learning-the-weblog-of-a-david-jones
-      content: '[&#8230;] Some colleagues and I are starting to wonder about what type
-        of &quot;digital knowledge&quot; teachers might need. This is occurring in the
-        context of a re-design of a Bachelor of Education. This particular post is a summary
-        of reading and thinking about ideas outlined in Kirschner (2015) and related writings.
-        Apparently Instructional Science 43(2) feature&hellip;&nbsp; [&#8230;]'
-      date: '2015-10-07 18:19:14'
-      date_gmt: '2015-10-07 08:19:14'
-      id: '1440'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    - approved: '1'
-      author: Teachers as designers of technology enhance lea...
-      author_email: null
-      author_ip: 185.82.148.10
-      author_url: http://www.scoop.it/t/crear-compartir-y-colaborar/p/4053111458/2015/10/08/teachers-as-designers-of-technology-enhance-learning
-      content: '[&#8230;] Some colleagues and I are starting to wonder about what type
-        of &quot;digital knowledge&quot; teachers might need. This is occurring in the
-        context of a re-design of a Bachelor of Education. This particular ...&nbsp; [&#8230;]'
-      date: '2015-10-09 00:38:52'
-      date_gmt: '2015-10-08 14:38:52'
-      id: '1441'
-      parent: '0'
-      type: pingback
-      user_id: '0'
-    
 ---
 Some colleagues and I are starting to [wonder about what type of "digital knowledge" teachers](/blog/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/) might need. This is occurring in the context of a re-design of a Bachelor of Education. This particular post is a summary of reading and thinking about ideas outlined in Kirschner (2015) and related writings. Apparently [Instructional Science 43(2)](http://link.springer.com/journal/11251/43/2/page/1) feature contributions discussing "teacher as a design professional".
 
