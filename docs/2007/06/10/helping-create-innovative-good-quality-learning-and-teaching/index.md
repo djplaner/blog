@@ -52,9 +52,13 @@ template: blog-post.html
 title: Helping create innovative, good quality learning and teaching
 type: post
 ---
+
 In an [earlier post](/blog/2007/04/29/a-model-for-evaluating-teaching-a-useful-lens/) I drew on a "model of teaching" from Trigwell (2001). The model is shown below
 
-[![Trigwell's model of teaching](https://djon.es/assets/blog/2007/06/10/helping-create-innovative-good-quality-learning-and-teaching/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
+<figure markdown>
+[![Trigwell's model of teaching](https://djon.es/assets/blog/2007/06/10/helping-create-innovative-good-quality-learning-and-teaching/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/)
+<caption>Trigwell's model of teaching</caption>
+</figure>
 
 Sadly, because of the "streaming" way I tend to write these blog posts, I titled that post "A model for evaluating teaching", this title did not match the intent of the post.
 

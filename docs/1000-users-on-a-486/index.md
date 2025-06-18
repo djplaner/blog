@@ -153,9 +153,10 @@ The off-line system was developed by Brett Carter, Jason Lockwood, Sean O'Kelly 
 - uqwk, a UNIX based program that packs email and news into SOUP (simple offline user packet) format packets that can be read by Yarn, and
 - a collection of shell scripts and batch files to automate the packing of email and news, the creation of new users and the registering of newsgroups.
 
+<figure markdown>
 [![CQ-PAN Yarn Newsreader](https://djon.es/assets/blog/1000-users-on-a-486/images/3156475884_2196de4c79_m.jpg)](http://www.flickr.com/photos/david_jones/3156475884/ "CQ-PAN Yarn Newsreader by David T Jones, on Flickr")
-
-Figure 1 - The [CQ-PAN](http://cq-pan.cqu.edu.au/) Off-line Interface (the YARN newsreader).
+<caption>Figure 1 - The [CQ-PAN](http://cq-pan.cqu.edu.au/) Off-line Interface (the YARN newsreader).</caption>
+</figure>
 
 The off-line system can be installed onto either a stand alone machine or onto a local area network. With either system all the students and teachers at the school can have individual email accounts. Each school can create new accounts and subscribe or unsubscribe from newsgroups as needed.
 
@@ -199,9 +200,10 @@ During 1994, Shane Atkinson and Chris Parry imagined, designed and implemented a
 - users need not know anything about the UNIX or VMS command lines, and
 - it is considerably more secure than a command line account.
 
+<figure markdown>
 [![CQ-PAN Online Interface](https://djon.es/assets/blog/1000-users-on-a-486/images/3155643337_47099f24de_m.jpg)](http://www.flickr.com/photos/david_jones/3155643337/ "CQ-PAN Online Interface by David T Jones, on Flickr")
-
-Figure 2 - The [CQ-PAN](http://cq-pan.cqu.edu.au/) Menu System.
+<caption>Figure 2 - The [CQ-PAN](http://cq-pan.cqu.edu.au/) Menu System.</caption>
+</figure>
 
 The primary users of the system have been [CQU](http://www.cqu.edu.au/) students but the system has also been used by primary school students in Gladstone and by local teachers. As of August 1995, 290 [CQU](http://www.cqu.edu.au/) students had accounts on the system.
 
@@ -218,9 +220,10 @@ Providing access to the Internet is only the first step in the process. [CQ-PAN]
 - local email lists, and
 - World-Wide Web publishing.
 
+<figure markdown>
 [![CQ-PAN Slip installation interface](https://djon.es/assets/blog/1000-users-on-a-486/images/3155643537_454f0d8d5f_m.jpg)](http://www.flickr.com/photos/david_jones/3155643537/ "CQ-PAN Slip installation interface by David T Jones, on Flickr")
-
-Figure 3 - The [CQ-PAN](http://cq-pan.cqu.edu.au/) SLIP Installation Window.
+<caption>Figure 3 - The [CQ-PAN](http://cq-pan.cqu.edu.au/) SLIP Installation Window.</caption>
+</figure>
 
 #### Mailing Lists
 

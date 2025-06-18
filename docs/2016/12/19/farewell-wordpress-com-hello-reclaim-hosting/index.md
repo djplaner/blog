@@ -14,9 +14,10 @@ This will (hopefully) be my last post on the [wordpress.com](http://wordpress.co
 
 I'm biting the bullet and going self-hosted with [Reclaim Hosting](https://reclaimhosting.com/). Hello Reclaim Hosting.
 
-[![Yay, My Reclaim Hosting T-Shirts Are Her by cogdogblog, on Flickr](https://djon.es/assets/blog/2016/12/19/farewell-wordpress-com-hello-reclaim-hosting/images/26815347231_0832cb7eb2.jpg "Yay, My Reclaim Hosting T-Shirts Are Her by cogdogblog, on Flickr")](https://www.flickr.com/photos/cogdog/26815347231/) "[Yay, My Reclaim Hosting T-Shirts Are Her](https://www.flickr.com/photos/cogdog/26815347231/)" ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)) by [cogdogblog](https://www.flickr.com/people/cogdog/)
-
- 
+<figure markdown>
+[![Yay, My Reclaim Hosting T-Shirts Are Her by cogdogblog, on Flickr](https://djon.es/assets/blog/2016/12/19/farewell-wordpress-com-hello-reclaim-hosting/images/26815347231_0832cb7eb2.jpg)](https://www.flickr.com/photos/cogdog/26815347231/) 
+<caption>"[Yay, My Reclaim Hosting T-Shirts Are Her](https://www.flickr.com/photos/cogdog/26815347231/)" ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)) by [cogdogblog](https://www.flickr.com/people/cogdog/)</caption>
+</figure>
 
 The new blog will be located at [http://djon.es/blog/](http://djon.es/blog/).
 

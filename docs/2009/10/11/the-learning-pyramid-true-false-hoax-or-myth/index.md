@@ -858,7 +858,7 @@ previous:
   text: Is there value in strategic plans for educational technology
   url: /blog/2009/10/09/is-there-value-in-strategic-plans-for-educational-technology/
 template: blog-post.html
-title: '"The learning pyramid: true, false, hoax or myth?"'
+title: 'The learning pyramid: true, false, hoax or myth?'
 type: post
 ---
 The aim of this post is to investigate the question of whether or not the learning pyramid (see following figure - click to expand) is true or false, or perhaps a hoax, myth, misdirection, useful model and/or theory based on verifiable research.
@@ -867,8 +867,10 @@ In the end, I confirm my belief that it is a hoax/myth. I don't believe it is us
 
 What do you think? (I do recognise that my direct opposition in the last paragraph is likely to significantly limit alternate perspectives, but I though I'd best be clear of my view given the prevalence of the figure.)
 
-[![Learning Pyramid by dkuropatwa, on Flickr](https://farm3.static.flickr.com/2068/2097911609_1da0d5abbb.jpg "Learning Pyramid by dkuropatwa, on Flickr")](https://www.flickr.com/photos/dkuropatwa/2097911609/)  
-[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/dkuropatwa/)[dkuropatwa](https://www.flickr.com/people/dkuropatwa/) [](http://www.imagecodr.org/)
+<figure markdown>
+[![Learning Pyramid by dkuropatwa, on Flickr](https://farm3.static.flickr.com/2068/2097911609_1da0d5abbb.jpg)](https://www.flickr.com/photos/dkuropatwa/2097911609/)  
+<caption>[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/dkuropatwa/)[dkuropatwa](https://www.flickr.com/people/dkuropatwa/) [](http://www.imagecodr.org/)</caption>
+</figure>
 
 ### Origins of the post
 

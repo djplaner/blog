@@ -28,7 +28,10 @@ Main questions arising from the following are:
 
 ### Culture
 
-[![Culture eats strategy by jjfbbennett, on Flickr](https://djon.es/assets/blog/2016/11/18/open-education-institutions-and-culture/images/8256143475_d864e5f011_m.jpg "Culture eats strategy by jjfbbennett, on Flickr")](https://www.flickr.com/photos/jjfbbennett/8256143475/) "[Culture eats strategy](https://www.flickr.com/photos/jjfbbennett/8256143475/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by [jjfbbennett](https://www.flickr.com/people/jjfbbennett/)
+<figure markdown>
+[![Culture eats strategy by jjfbbennett, on Flickr](https://djon.es/assets/blog/2016/11/18/open-education-institutions-and-culture/images/8256143475_d864e5f011_m.jpg)](https://www.flickr.com/photos/jjfbbennett/8256143475/) 
+<caption>"[Culture eats strategy](https://www.flickr.com/photos/jjfbbennett/8256143475/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by [jjfbbennett](https://www.flickr.com/people/jjfbbennett/)</caption>
+</figure>
 
 So what is culture? The literature is replete with reams of responses to that particular question. The one that the pragmatist in me prefers is the one offered by [Martin (2006)](http://southernlibrarianship.icaap.org/content/v07n01/martin_m01.htm) (and many others)
 

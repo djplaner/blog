@@ -72,7 +72,10 @@ As part of [CQU's](http://www.cqu.edu.au/) moves around improving its evaluation
 
 From that paper comes the following "model of teaching (or a framework for judging teaching)"
 
-[![Trigwell's model of teaching](https://djon.es/assets/blog/2007/04/29/a-model-for-evaluating-teaching-a-useful-lens/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
+<figure markdown>
+[![Trigwell's model of teaching](https://djon.es/assets/blog/2007/04/29/a-model-for-evaluating-teaching-a-useful-lens/images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/)
+<caption>Trigwell's model of teaching</caption>
+</figure>
 
 My interest in this model is the assistance it can provide in thinking about how a group charged with helping academics design, develop and delivery quality learning can understand and go about it's task. This is a problem I face in my new job.
 

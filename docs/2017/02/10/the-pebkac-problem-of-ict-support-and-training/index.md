@@ -75,14 +75,17 @@ template: blog-post.html
 title: The PEBKAC problems of digital L&T and how to solve it?
 type: post
 ---
-[![PEBKAC by Rafa Esteve, on Flickr](https://farm8.static.flickr.com/7326/13928696037_37aa61542a.jpg "PEBKAC by Rafa Esteve, on Flickr")](https://www.flickr.com/photos/morosbruts/13928696037/)  
-"[PEBKAC](https://www.flickr.com/photos/morosbruts/13928696037/)" ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)) by [Rafa Esteve](https://www.flickr.com/people/morosbruts/)
+
+<figure markdown>
+[![PEBKAC by Rafa Esteve, on Flickr](https://farm8.static.flickr.com/7326/13928696037_37aa61542a.jpg)](https://www.flickr.com/photos/morosbruts/13928696037/) 
+<caption>"[PEBKAC](https://www.flickr.com/photos/morosbruts/13928696037/)" ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)) by [Rafa Esteve](https://www.flickr.com/people/morosbruts/)</caption>
+</figure>
 
   
    
 [PEBKAC](https://en.wikipedia.org/wiki/User_error) (Problem Exists Between Keyboard And Chair) is just [one of the terms IT folk](http://www.cio.com/article/2438337/it-organization/luser--pebkac-and-other-ways-it-insults-users.html) use to express their frustration with the apparent stupidity of users. A frustration perhaps overshadowed by that felt by the end users who - as digital technology becomes pervasive within organisations - are increasingly frustrated by organisational technology that prevents them from performing the simplest of tasks and thus having to resort to calling IT for assistance and having experiences not dissimilar to that following.
 
-!!! warning "Video is no longer available"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sqXm6h8A_UE?si=YDCvrMGDeShUr9Ph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Overview
 
@@ -98,9 +101,10 @@ Yesterday a colleague and I were testing out a room we'll be using for session i
 
 Initially, my colleague attempted to use the fancy new "iPad"-like screen to connect the room video facilities to the Zoom room. At the same time, I was talking (via Zoom on my laptop) with a remote participant. My colleague couldn't get it to work, so reverted to standard practice and rang ICT support. Very quickly a young and apparently very new ICT support guy entered the room, looked at the problem and realised that he did't have the knowlege required to understand and solve the problem. Hence he called for reinforcements.
 
-[![Train wreck at Montparnasse 1895 by robynejay, on Flickr](https://farm5.static.flickr.com/4046/4397300890_975dee361d_m.jpg "Train wreck at Montparnasse 1895 by robynejay, on Flickr")](https://www.flickr.com/photos/learnscope/4397300890/)  
-"[Train wreck at Montparnasse 1895](https://www.flickr.com/photos/learnscope/4397300890/)"  
-([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)) by [robynejay](https://www.flickr.com/people/learnscope/)
+<figure markdown>
+[![Train wreck at Montparnasse 1895 by robynejay, on Flickr](https://farm5.static.flickr.com/4046/4397300890_975dee361d_m.jpg)](https://www.flickr.com/photos/learnscope/4397300890/)  
+<caption>"[Train wreck at Montparnasse 1895](https://www.flickr.com/photos/learnscope/4397300890/)"  ([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)) by [robynejay](https://www.flickr.com/people/learnscope/)</caption>
+</figure>
 
 This is when the train-wreck commenced.
 

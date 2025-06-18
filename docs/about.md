@@ -24,7 +24,7 @@ For more, see the following
 
 ## Evolution
 
-Initially started in the late 2000s on Wordpress.com ([https://davidtjones.wordpress.com](https://davidtjones.wordpress.com)) to support teaching and research. In the Mid-2010s the blog migrated to a self-hosted Wordpress blog ([https://djon.es/wordpress-blog/]). Come 2025 and it was time to leave the increasingly heavyweight complexity of Wordpress behind for Markdown and a static site - [for more](./2025/05/23/a-new-day/index.md).
+Initially started in the late 2000s on Wordpress.com ([https://davidtjones.wordpress.com](https://davidtjones.wordpress.com)) to support teaching and research. In the Mid-2010s the blog migrated to a self-hosted Wordpress blog ([https://djon.es/wordpress-blog/](https://djon.es/wordpress-blog/)). Come 2025 and it was time to leave the increasingly heavyweight complexity of Wordpress behind for Markdown and a static site - [for more](./2025/05/23/a-new-day/index.md).
 
 The evolution goes one see the [[blog-to-do]] for what might come next.
 
