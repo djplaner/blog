@@ -100,6 +100,8 @@ plugins:
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'
+  - markdownextradata
+
 extra_css:
   - stylesheets/extra.css
   - /blog/pagefind/pagefind-ui.css
@@ -113,6 +115,10 @@ extra:
     link: https://github.com/djplaner
   - icon: fontawesome/solid/rss
     link: https://djon.es/blog2/feed/feed.rss
+  category_pages:
+    generate: False
+  archive_pages:
+    generate: False
 
 # Specify navigation structure
 nav:
@@ -135,4 +141,3 @@ validation:
 #  sense/*
 #  share/*
 #  blog/publications/*
-

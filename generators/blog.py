@@ -17,6 +17,8 @@ Process
 - Call different functions to generate the relative pages
 """
 
+from mkdocs.config import Config, load_config
+
 import re
 import mkdocs_gen_files
 import frontmatter
@@ -561,7 +563,7 @@ def generateItemContent(item, homePage=False):
 
     return itemContent
     
-def generateHome(posts):
+def generateHome(posts, archives):
     """
     Write the blog home page by adding 20 of the most recent posts
     Maybe eventually add an intro from the frontmatter.
@@ -578,13 +580,10 @@ def generateHome(posts):
     fileContent = extractFileContent(f"{BLOG_HOME}index.md")
 
     #-- replace the archives frontmatter with the current list of months
-    archives = extractMonths(posts)
     fileContent['yaml']['archives'] = archives
     description = ""
     if "description" in fileContent['yaml']:
         description = fileContent['yaml']['description']
-
-    generateArchives(archives)
 
     with mkdocs_gen_files.open(f"{BLOG_FOLDER}index.md", "w") as f:
         #-- write the frontmatter
@@ -746,22 +745,45 @@ def generator():
     Main harness for wood duck generator
     """
 
+    config = load_config("mkdocs.yml")
+
+    #-- Check mkdocs.yml to see if we should generate category pages
+    generate_categories = True 
+    if 'extra' in config and 'category_pages' in config['extra']:
+        if 'generate' in config['extra']['category_pages']:
+            generate_categories = config['extra']['category_pages']['generate'] 
+    generate_archives = True
+    if 'extra' in config and 'archive_pages' in config['extra']:
+        if 'generate' in config['extra']['archive_pages']:
+            generate_archives = config['extra']['archive_pages']['generate']
+
     # TODO implement
     blogItems = retrieveBlogItems()
     #-- create list pages containing all blog items with type==page
-    pages = map(lambda x: x['yaml']['title'], filter(lambda x: x['yaml']['type'] == 'page', blogItems))
-    posts = map(lambda x: x['yaml']['title'], filter(lambda x: x['yaml']['type'] == 'post', blogItems))
+    pages = map(lambda x: x, filter(lambda x: x['yaml']['type'] == 'page', blogItems))
+    posts = map(lambda x: x, filter(lambda x: x['yaml']['type'] == 'post', blogItems))
+    # convert posts to a list
+    posts = list(posts)
 
     writeBlogStats(blogItems)
     # Generate category pages 
-    generateCategories( blogItems)
+    if generate_categories:
+        generateCategories( blogItems)
 
+    archives = []
+    if generate_archives:
+        print("================ Get archives")
+        archives = extractMonths(posts)
+        print("================ Generating archives")
+        generateArchives(archives)
+
+    print("================ Generating feeds")
     # Generate RSS feed
     generateFeeds(blogItems)
 
+    print("================ Generating HOME")
     # Generate home page
-    generateHome(blogItems)
-
-
+    generateHome(blogItems, archives)
+    print("================ Finished HOME")
 
 generator()
