@@ -135,8 +135,9 @@ type: post
 ---
 Just how much of a cage should I make my course into? How far should I take the constraints? The following sets the scene and asks the questions. Would love to hear alternate views.
 
-[![Cat in a Cage, Valparaiso by geezaweezer, on Flickr](http://farm8.static.flickr.com/7063/6987656904_64ab8b7934_m.jpg "Cat in a Cage, Valparaiso by geezaweezer, on Flickr")](http://www.flickr.com/photos/geezaweezer/6987656904/)  
-[![Creative Commons Attribution 2.0 Generic License](http://i.creativecommons.org/l/by/2.0/80x15.png "Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)  by  [](http://www.flickr.com/people/geezaweezer/)[geezaweezer](http://www.flickr.com/people/geezaweezer/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/geezaweezer/6987656904/" title="Cat in a Cage, Valparaiso"><img src="https://live.staticflickr.com/7063/6987656904_64ab8b7934_m.jpg" width="160" height="240" alt="Cat in a Cage, Valparaiso"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 ### The course
 

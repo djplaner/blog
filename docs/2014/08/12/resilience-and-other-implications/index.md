@@ -51,7 +51,10 @@ template: blog-post.html
 title: Resilience and other implications of technological changes
 type: post
 ---
-[![Unavailable by David T Jones, on Flickr](https://farm4.static.flickr.com/3867/14704504949_e812261eed_m.jpg)](https://www.flickr.com/photos/david_jones/14704504949/)
+
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/14704504949/" title="Unavailable"><img src="https://live.staticflickr.com/3867/14704504949_e812261eed.jpg" width="500" height="163" alt="Unavailable"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 What passes for institutional e-learning within Universities appears to be largely stuck in the "enterprise", centralised mindset of the first decade of this century. As the technological environment is changing it is increasingly appearing more and more clunky. This creates challenges for those stuck with these systems and provides impetus to move beyond the confines of institutional systems. An impetus given more kick along for me by the last couple of days observing the difference between the centralised, institutional systems and the ad hoc collection of external systems I rely upon to teach.
 
@@ -61,8 +64,7 @@ I only know about the discussion forum posts because the LMS is configured to em
 
 **Update:** it appears that the email notification of new posts is either down or has been turned off. I haven't gotten any recent emails and there have been forum posts (though not many, I imagine because of the system unavailability). But as it happens the LMS being used (Moodle) does support the option of generating RSS feeds and for this course we have encouraged students to use them. As I look at [Feedly](http://feedly.com/) I can see those new posts and because the LMS is now available, I can respond. The point is that as one form of distributed notification is unavailable, another is available to take its place. Now I could see someone arguing that having both email notification of posts and RSS feeds could be considered duplication and inefficient. But it also increases resilience and diversity.
 
-[![Eggs in one basket by mama tang, on Flickr](https://farm4.static.flickr.com/3514/3192164932_ccb3f1ff0d_m.jpg)](https://www.flickr.com/photos/bquach/3192164932/)  
-
+!!! warning "Image no longer available"
 
 At least with the other course I'm teaching I'm relying on externally hosted tools that don't rely on the LMS. So when it's down I can still do some work. My practices are a little more resilient due to the distribution made possible by these tools. There's some advantage to not putting all my eggs in one (institutional) basket. Which makes me wonder about an institutional that is pushing "personalised learning" and the promise of partnering "with learners in the pursuit of their study objectives regardless of their background, location or stage in life" that is still largely centralised and pushing ideas such as "one university" and "consistency". Is the "enterprise", institutional, centralised mindset get in the way of the strategic goals?
 

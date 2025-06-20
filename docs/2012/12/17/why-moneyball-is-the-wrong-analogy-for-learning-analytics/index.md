@@ -128,8 +128,9 @@ Learning analytics is one of the research areas I'm interested in. Consequently,
 
 I can see the reason for this. It's a good example of how data can inform decision making in a field many people (especially those in America) are familiar with. Having a best selling book that's turned into a Brad Pit movie doesn't hurt either. But I think it's the wrong analogy for learning analytics.
 
-[![Moneyball by Kei!, on Flickr](http://farm7.static.flickr.com/6161/6189594610_78033f5d76_m.jpg "Moneyball by Kei!, on Flickr")](http://www.flickr.com/photos/keinoguchi/6189594610/)  
-[![Creative Commons Attribution-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-sa/2.0/80x15.png "Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)  by  [Kei!](http://www.flickr.com/people/keinoguchi/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/keinoguchi/6189594610/" title="Moneyball"><img src="https://live.staticflickr.com/6161/6189594610_78033f5d76_b.jpg" width="765" height="1024" alt="Moneyball"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 ## Why?
 

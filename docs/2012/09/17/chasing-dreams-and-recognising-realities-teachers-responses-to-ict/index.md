@@ -7,7 +7,7 @@ comments:
   author: cj13
   author_email: cbigum@deakin.edu.au
   author_ip: 121.91.14.9
-  author_url: http://cj13.wordpress.com/
+  author_url: https://cj13.wordpress.com/
   content: "Valuable post as always. Thank you.\n\nI can't help but think that drawing\
     \ on educational folk to give advice about the problem of what to do with just\
     \ one of the defining technologies of this century is a bit like asking bank tellers\
@@ -43,7 +43,7 @@ comments:
     \ who do the programming, the people paying them, or even the technology itself.'\
     \  (p. 128).\n\nThe other take I'd push for, one that schools have totally ignored,\
     \ is taking a look at the forest, not just the trees. The well known readers digest\
-    \ version of this is here: http://edudemic.com/2012/09/globalization-videos/\n\
+    \ version of this is here: https://edudemic.com/2012/09/globalization-videos/\n\
     \nTo return to 'the how\" question. Schools for thirty odd years have continued\
     \ to behave as if they are the sole/major source of computing and related technologies.\
     \ This hasn't been the case for decades but we still policies and procedures that\
@@ -86,7 +86,7 @@ comments:
 
 
     Then there is the "grammar of university". There are certain expectations and
-    ways of doing things which are also holding things back.  <a href="http://rachaelbath.wordpress.com/2012/09/14/breaking-the-mold-whos-teaching-the-teachers/"
+    ways of doing things which are also holding things back.  <a href="https://rachaelbath.wordpress.com/2012/09/14/breaking-the-mold-whos-teaching-the-teachers/"
     rel="nofollow">this post</a> touches on this a bit.
 
 
@@ -114,7 +114,7 @@ pingbacks:
     Technology in the Curriculum | Scoop.it'
   author_email: null
   author_ip: 89.30.105.121
-  author_url: http://www.scoop.it/t/technology-in-the-curriculum/p/2715651927/chasing-dreams-and-recognising-realities-teachers-responses-to-ict
+  author_url: https://www.scoop.it/t/technology-in-the-curriculum/p/2715651927/chasing-dreams-and-recognising-realities-teachers-responses-to-ict
   content: '[...] As preparation for the redevelopment of a 3rd year course helping
     pre-service teachers figure out how ICTs can be integrated into/transform their
     learning and teaching. This is a summary of ...&nbsp; [...]'
@@ -143,7 +143,7 @@ previous:
     to predict the future
   url: /blog/2012/09/13/the-illusion-we-understand-the-past-fosters-overconfidence-in-our-ability-to-predict-the-future/
 template: blog-post.html
-title: '"Chasing dreams and recognising realities: teachers'' responses to ICT"'
+title: 'Chasing dreams and recognising realities: teachers'' responses to ICT'
 type: post
 ---
 Doing a bit of reading of the literature. As preparation for the redevelopment of a 3rd year course helping pre-service teachers figure out how ICTs can be integrated into/transform their learning and teaching.
@@ -178,10 +178,13 @@ _Comment:_ If "teacher as a group" are prone to low technology use, what might t
 3. Merge and evolve.  
     So we need a merger of technology and education and then an evolution. An evolution that requires a skilled teaching work force.
 
-The first two "options" tend to remind me of [Cnut the Great](http://en.wikipedia.org/wiki/Cnut_the_Great) (King Canute). But even the 3rd option suggests to me Cnut the Great. As if the education system will have ability to pick and choose what is merged. Who in the education system makes this decision? Is it the government (which level?), the principals and school leadership, or teachers? How do these folk propose to stop students using ICTs anyway they wish? How do principals/school leadership propose to stop teachers using the ICTs they have in their pocket to teach better? (and so on up the chain). The evolution will happen, the question of anyone being able to control it is much more open.
+The first two "options" tend to remind me of [Cnut the Great](https://en.wikipedia.org/wiki/Cnut_the_Great) (King Canute). But even the 3rd option suggests to me Cnut the Great. As if the education system will have ability to pick and choose what is merged. Who in the education system makes this decision? Is it the government (which level?), the principals and school leadership, or teachers? How do these folk propose to stop students using ICTs anyway they wish? How do principals/school leadership propose to stop teachers using the ICTs they have in their pocket to teach better? (and so on up the chain). The evolution will happen, the question of anyone being able to control it is much more open.
 
-[![King Canute Tours North Carolina Shoreli by Mike Licht, NotionsCapital.com, on Flickr](http://farm9.static.flickr.com/8158/7317607942_91da999658_m.jpg "King Canute Tours North Carolina Shoreli by Mike Licht, NotionsCapital.com, on Flickr")](http://www.flickr.com/photos/notionscapital/7317607942/)  
-[![Creative Commons Attribution 2.0 Generic License](http://i.creativecommons.org/l/by/2.0/80x15.png "Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)  by  [Mike Licht, NotionsCapital.com](http://www.flickr.com/people/notionscapital/) [](http://www.imagecodr.org/)
+<figure markdown>
+[![King Canute Tours North Carolina Shoreli by Mike Licht, NotionsCapital.com, on Flickr](https://farm9.static.flickr.com/8158/7317607942_91da999658_m.jpg)](https://www.flickr.com/photos/notionscapital/7317607942/)  
+<caption>
+[![Creative Commons Attribution 2.0 Generic License](https://i.creativecommons.org/l/by/2.0/80x15.png "Creative Commons Attribution 2.0 Generic License")](https://creativecommons.org/licenses/by/2.0/)  by  [Mike Licht, NotionsCapital.com](https://www.flickr.com/people/notionscapital/) [](https://www.imagecodr.org/)</caption>
+</figure>
 
 ### The Technology Dip
 

@@ -56,8 +56,10 @@ Most of the discussion forum posts are announcements/updates from me. Except for
 
 The Mendeley feed appears to include the title and abstract of articles added to the NGL group. I wonder how/if we can share the annotations we make on these papers? Given this functionality, it might be appropriate to use the abstract field for other comments, rather than the abstract. Sadly the RSS feed from Mendeley doesn't appear to use the name of the person who shared a document. For example, [this paper](http://www.mendeley.com/c/7057573054/g/2465121/learning-within-a-connectivist-educational-collective-blog-model-a-case-study-of-uk-higher-by-academic-conferences-international/) was added by [GG Dines](http://www.mendeley.com/profiles/gg-dines/) but it shows up in the RSS feed as either no mention of GG Dines. At least Diigo does better.
 
+<figure markdown>
 [![Has he gone yet? by johnmuk, on Flickr](https://farm4.static.flickr.com/3538/3486811594_9409fb6efd_m.jpg "Has he gone yet? by johnmuk, on Flickr")](https://www.flickr.com/photos/jm999uk/3486811594/)  
 [![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/jm999uk/)[johnmuk](https://www.flickr.com/people/jm999uk/) [](http://www.imagecodr.org/)
+</figure>
 
 ### Diigo resources
 
@@ -93,8 +95,9 @@ To a large extent this blog post is an example of extending my mind. There's no 
 
 I'm assuming that's the [Community of Inquiry model](http://edutechwiki.unige.ch/en/Community_of_inquiry_model). I only recently became aware that there are some other folk here using that model quite heavily. Had assumed it might have been in a course, but didn't know. I wonder what that says about the level of "know where" within the University and between courses?
 
-[![Is elearning like teenage sex? by David T Jones, on Flickr](https://farm3.static.flickr.com/2837/9861514544_2e740791cd_m.jpg "Is elearning like teenage sex? by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/9861514544/)  
-[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/david_jones/)[David T Jones](https://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/9861514544/" title="Is elearning like teenage sex?"><img src="https://live.staticflickr.com/2837/9861514544_01b3c7fbca.jpg" width="500" height="375" alt="Is elearning like teenage sex?"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 ### Reality of doing it
 

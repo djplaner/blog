@@ -72,7 +72,14 @@ All installed.
 
 And now to get bim2 off [github](https://github.com/djplaner/BIM/tree/bim2). Mm, 8 months since I worked on the code. Not good.
 
-\[code lang="bash"\]mkdir bim cd bim git clone https://github.com/djplaner/BIM.git mv BIM/\* . mv BIM/.git . rm -rf BIM \[/code\]
+```bash
+mkdir bim 
+cd bim 
+git clone https://github.com/djplaner/BIM.git 
+mv BIM/\* . 
+mv BIM/.git . 
+rm -rf BIM 
+```
 
 **Task:** I really need to look into the naming of that folder and using of git so there's no need to play with the file structure.
 
@@ -83,7 +90,9 @@ Visit the local Moodle website, picks up BIM ready to install. Oops, error.
 
 That's because I didn't clone the bim2 branch
 
-\[code lang="bash"\]sudo git clone -b bim2 https://github.com/djplaner/BIM.git\[/code\]
+```bash
+sudo git clone -b bim2 https://github.com/djplaner/BIM.git
+```
 
 And that has updated successfully. Now does it actually work?
 
@@ -91,77 +100,98 @@ And that has updated successfully. Now does it actually work?
 
 Ohh, pretty new interface for Moodle 2.4. Looks like the BIM icon will need to updated to work with the slightly bigger and different design for the module icons. (Click on the following images to see bigger versions)
 
-[![Add a BIM activity by David T Jones, on Flickr](http://farm9.static.flickr.com/8352/8284658119_07c5bc4fb9_m.jpg "Add a BIM activity by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8284658119/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8284658119/" title="Add a BIM activity"><img src="https://live.staticflickr.com/8352/8284658119_07c5bc4fb9_c.jpg" width="683" height="764" alt="Add a BIM activity"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 
 After adding the activity you need to enter the basic configuration details
 
-[![Filling in some BIM details by David T Jones, on Flickr](http://farm9.static.flickr.com/8083/8285717244_1392ba8f41_m.jpg "Filling in some BIM details by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8285717244/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8285717244/" title="Filling in some BIM details"><img src="https://live.staticflickr.com/8083/8285717244_1392ba8f41_c.jpg" width="800" height="609" alt="Filling in some BIM details"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 
 Add some questions that the students will blog in response to.
 
-[![Questions being added by David T Jones, on Flickr](http://farm9.static.flickr.com/8077/8284657421_127c73e260_m.jpg "Questions being added by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8284657421/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8285717244/" title="Filling in some BIM details"><img src="https://live.staticflickr.com/8083/8285717244_1392ba8f41_c.jpg" width="800" height="609" alt="Filling in some BIM details"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 
 What about allocating markers to mark the influx of posts?
 
-[![BIM markers screen by David T Jones, on Flickr](http://farm9.static.flickr.com/8198/8284657843_49f2103fe8_m.jpg "BIM markers screen by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8284657843/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8284657843/" title="BIM markers screen"><img src="https://live.staticflickr.com/8198/8284657843_49f2103fe8_c.jpg" width="800" height="194" alt="BIM markers screen"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 
 No users allocated to the course, so nothing there. Nice to see I'd thought of this condition. Time to allocate some students and teaching staff. So staff enrolled in the course. Can I manage marking now?
 
-[![No groups by David T Jones, on Flickr](http://farm9.static.flickr.com/8063/8285798776_d940cacfab_m.jpg "No groups by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8285798776/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8285798776/" title="No groups"><img src="https://live.staticflickr.com/8063/8285798776_d940cacfab_c.jpg" width="800" height="313" alt="No groups"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 Not yet. I need to create some groups for the course. Markers aren't allocated individual students within BIM. They are allocated groups.
 
-[![Groups by David T Jones, on Flickr](http://farm9.static.flickr.com/8065/8285799732_758277e547_m.jpg "Groups by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8285799732/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8285799732/" title="Groups"><img src="https://live.staticflickr.com/8065/8285799732_758277e547_c.jpg" width="759" height="471" alt="Groups"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 So with groups allocated, I can allocate a marker. Can I manage the markers? The coordinating teacher can see a list of all the markers and what they have (or haven't) marked yet.
 
-[![Manage marking has an error by David T Jones, on Flickr](http://farm9.static.flickr.com/8070/8285799460_e2bec760f1_m.jpg "Manage marking has an error by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8285799460/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8285799460/" title="Manage marking has an error"><img src="https://live.staticflickr.com/8070/8285799460_e2bec760f1_c.jpg" width="800" height="399" alt="Manage marking has an error"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 
 Oops, that's the first error in the code. Will have to revisit that.
 
 Can I see the students I have to mark as a marker? This is the overview. It shows which of my students have registered their blogs (and for which I can mark something) and which haven't yet.
 
-[![Your students by David T Jones, on Flickr](http://farm9.static.flickr.com/8479/8285798614_772b7a2d7b_m.jpg "Your students by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8285798614/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8285798614/" title="Your students"><img src="https://live.staticflickr.com/8479/8285798614_772b7a2d7b_c.jpg" width="800" height="633" alt="Your students"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 
 Now, let's see if I can do some marking.
 
-[![Mark posts by David T Jones, on Flickr](http://farm9.static.flickr.com/8081/8285799322_76ce1acc84_m.jpg "Mark posts by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8285799322/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8285799322/" title="Mark posts"><img src="https://live.staticflickr.com/8081/8285799322_76ce1acc84_c.jpg" width="800" height="335" alt="Mark posts"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
 
 Not really because none of the posts from this single student have been allocated to one of the set questions. I'll need to allocate one of his posts to a question using the "allocate question" screen.
 
-[![Allocating posts by David T Jones, on Flickr](http://farm9.static.flickr.com/8224/8284740141_183caf08d1_m.jpg "Allocating posts by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8284740141/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8284740141/" title="Allocating posts"><img src="https://live.staticflickr.com/8224/8284740141_183caf08d1_c.jpg" width="800" height="712" alt="Allocating posts"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 Now I should be able to mark that allocated question
 
-[![Marking a post by David T Jones, on Flickr](http://farm9.static.flickr.com/8076/8285799122_8e83204da7_m.jpg "Marking a post by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8285799122/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8285799122/" title="Marking a post"><img src="https://live.staticflickr.com/8076/8285799122_8e83204da7_c.jpg" width="800" height="696" alt="Marking a post"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 ### Student perspective
 
 So, does it work from the student's perspective. Does the activity show up when they login to the course?
 
-[![Course view by David T Jones, on Flickr](http://farm9.static.flickr.com/8060/8284692223_fcf0ab4f40_m.jpg "Course view by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8284692223/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8284692223/" title="Course view"><img src="https://live.staticflickr.com/8060/8284692223_fcf0ab4f40_w.jpg" width="378" height="200" alt="Course view"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 Can the register their blog?
 
-[![Register the blog by David T Jones, on Flickr](http://farm9.static.flickr.com/8065/8284692093_b993397227_m.jpg "Register the blog by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8284692093/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8284692093/" title="Register the blog"><img src="https://live.staticflickr.com/8065/8284692093_b993397227_w.jpg" width="400" height="194" alt="Register the blog"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 Does it actually work as expected?
 
-[![Successful registration by David T Jones, on Flickr](http://farm9.static.flickr.com/8503/8285751550_f2488d02b5_m.jpg "Successful registration by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/8285751550/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [David T Jones](http://www.flickr.com/people/david_jones/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/8285751550/" title="Successful registration"><img src="https://live.staticflickr.com/8503/8285751550_f2488d02b5_w.jpg" width="400" height="351" alt="Successful registration"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 ## What's next?
 

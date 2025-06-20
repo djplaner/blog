@@ -93,7 +93,7 @@ After some common quotes about learning analytics, makes the point that rather t
 
 The following figure offers a summary of how patterns are discovered in data. Most definitions of analytics are based on the use of computational methods. The use of human analysis probably doesn't fit. But it does capture, I think, what actually happens. Certainly part of the data mining activity.
 
-[![Discovery of patterns within data by David T Jones, on Flickr](http://farm8.static.flickr.com/7399/10379036295_aea26edb15_m.jpg "Discovery of patterns within data by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/10379036295/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/10379036295/" title="Discovery of patterns within data"><img src="https://live.staticflickr.com/7399/10379036295_aea26edb15.jpg" width="500" height="278" alt="Discovery of patterns within data"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 "Finally, the patterns themselves are represented in some way for communication (Figure 1)." (p. 1405)
 

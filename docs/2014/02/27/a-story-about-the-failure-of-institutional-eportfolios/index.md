@@ -146,7 +146,7 @@ This year the program I teach into is trying to encourage students to continuall
 
 Being the good corporate citizen that I am, I was modifying my course site to add these reminders in. It seemed a good opportunity to point to my eportfolio as an example of what is required. Where was that link? Ahh, there it is? Oops!!
 
-[![Missing eportfolio by David T Jones, on Flickr](http://farm4.static.flickr.com/3699/12803714483_8c9d659505_m.jpg "Missing eportfolio by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/12803714483/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/12803714483/" title="Missing eportfolio"><img src="https://live.staticflickr.com/3699/12803714483_8c9d659505.jpg" width="500" height="258" alt="Missing eportfolio"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 It's gone! The entire Mahara site no longer exists. How could that be?
 

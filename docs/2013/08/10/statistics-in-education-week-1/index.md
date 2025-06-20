@@ -174,8 +174,9 @@ Three methods to measure variability
     Square the difference scores first (gets rid of the negatives). Then take the square root.
     
 
-[![ by kxp130, on Flickr](http://farm3.static.flickr.com/2618/4174928680_7c95b42ed1_m.jpg " by kxp130, on Flickr")](http://www.flickr.com/photos/kxp130/4174928680/)  
-[![Creative Commons Attribution-Noncommercial 2.0 Generic License](http://i.creativecommons.org/l/by-nc/2.0/80x15.png "Creative Commons Attribution-Noncommercial 2.0 Generic License")](http://creativecommons.org/licenses/by-nc/2.0/)  by  [](http://www.flickr.com/people/kxp130/)[kxp130](http://www.flickr.com/people/kxp130/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/kxp130/4174928680/" title="Untitled"><img src="https://live.staticflickr.com/2618/4174928680_7c95b42ed1_m.jpg" width="240" height="160" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 When estimating the population parameter for a sample has a N-1, rather than N. Why? Apparently a rule thumb developed over time, imagine there must be some research behind it. Instructor admits not a good explanation. It's a problem area.
 

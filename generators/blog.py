@@ -765,7 +765,7 @@ def generator():
     # convert posts to a list
     posts = list(posts)
 
-    writeBlogStats(blogItems)
+#    writeBlogStats(blogItems)
     # Generate category pages 
     if generate_categories:
         generateCategories( blogItems)

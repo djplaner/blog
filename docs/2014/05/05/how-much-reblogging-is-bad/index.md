@@ -148,9 +148,13 @@ Handily I have a copy of all the students' posts and the Wordpress.com re-blog f
     For the second assignment there are 6 students who are getting some small benefit from reblogging. Of these 6 only 2 have multiple reblogs (4 and 2).
     
 
-The simplified Wordpress tag structure is \[code lang="html"\]<div class='reblogger-note-content'>Comment made by person reblogging.</div> <div class="reblog-post">the post that was reblogged</div>\[/code\]
+The simplified Wordpress tag structure is 
+```html
+<div class='reblogger-note-content'>Comment made by person reblogging.</div> 
+<div class="reblog-post">the post that was reblogged</div>
+```
 
-[![Reblogs and posts by David T Jones, on Flickr](http://farm8.static.flickr.com/7304/14106264851_a216348abd_m.jpg "Reblogs and posts by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/14106264851/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/14106264851/" title="Reblogs and posts"><img src="https://live.staticflickr.com/7304/14106264851_a216348abd.jpg" width="500" height="273" alt="Reblogs and posts"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Conclusions
 

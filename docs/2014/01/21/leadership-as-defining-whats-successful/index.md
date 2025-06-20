@@ -92,7 +92,7 @@ After spending a few days visiting friends and family in Central Queensland - no
 
 On the whole, my experience of leadership in organisations has been negative. At the best the institution bumbles along through bad leadership. I'm wondering whether or not questioning this notion of leadership might form an interesting future research agenda. The following is an attempt to make concrete some thinking from the drive home, spark some comments, and set me up for some more (re-)reading. It's an ill-informed mind dump sparked somewhat by some early experiences on return from leave.
 
-[![Fisherman’s beach by David T Jones, on Flickr](http://farm6.static.flickr.com/5541/12058986774_7b0cc64492_m.jpg "Fisherman’s beach by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/12058986774/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/12058986774/" title="Fisherman&#x27;s beach"><img src="https://live.staticflickr.com/5541/12058986774_7b0cc64492_m.jpg" width="240" height="180" alt="Fisherman&#x27;s beach"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 In the current complex organisational environment, I'm thinking that "leadership" is essentially the power to define what success is, both prior to and after the fact. I wonder whether any apparent success attributed to the "great leader" is solely down to how they have defined success? I'm also wondering how much of that success is due to less than ethical or logical definitions of success?
 

@@ -103,7 +103,7 @@ Up until now, I've been using MAV to look at the course home page as captured in
 
 This includes discussion forums, as shown in the following image (click on it to see a larger version).
 
-[![Forum students by David T Jones, on Flickr](http://farm4.static.flickr.com/3733/12280500854_2b378f6777_m.jpg "Forum students by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/12280500854/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/12280500854/" title="Forum students"><img src="https://live.staticflickr.com/3733/12280500854_2b378f6777.jpg" width="351" height="500" alt="Forum students"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 This is a modified (I've blurred out the names of students) capture of the Introduction discussion forum from week 1 of the course. This is where students are meant to post a brief introduction to themselves, including a link to their newly minted blog.
 
@@ -111,7 +111,7 @@ With a standard Moodle discussion forum, you can see information such as: how ma
 
 MAV provides that information. The above image is MAV's representation of the forum showing the number of students who have clicked each link. The following image is MAV's representation of the number of clicks on each link.
 
-[![Forum clicks by David T Jones, on Flickr](http://farm6.static.flickr.com/5486/12280227853_525e140eb5_m.jpg "Forum clicks by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/12280227853/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/12280227853/" title="Forum clicks"><img src="https://live.staticflickr.com/5486/12280227853_525e140eb5.jpg" width="350" height="500" alt="Forum clicks"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 What can I derive from these images by combining the "analytics" of MAV with my knowledge of the pedagogical intent?
 

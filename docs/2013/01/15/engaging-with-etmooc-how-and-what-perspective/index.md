@@ -185,13 +185,14 @@ previous:
   text: Making some &quot;3100&quot; thinking explicit
   url: /blog/2013/01/11/making-some-3100-thinking-explicit/
 template: blog-post.html
-title: '"Engaging with #etmooc - how and what perspective"'
+title: 'Engaging with #etmooc - how and what perspective'
 type: post
 ---
 [#etmooc](http://etmooc.org/) has commenced. The flood of introductory emails flowing from the [#etmooc Google+ community](https://plus.google.com/u/0/communities/116116451882856472187) is a sure a sign as any. The questions begin. How effective are all these introductions? How will I engage with the course? Why am I engaging?
 
-[![etmooclogo by alisonseaman, on Flickr](http://farm9.static.flickr.com/8493/8380327943_99b03103c5_m.jpg "etmooclogo by alisonseaman, on Flickr")](http://www.flickr.com/photos/68051075@N02/8380327943/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [alisonseaman](http://www.flickr.com/people/68051075@N02/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/68051075@N02/8380327943/" title="etmooclogo"><img src="https://live.staticflickr.com/8493/8380327943_99b03103c5_m.jpg" width="240" height="238" alt="etmooclogo"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 ## Why engage?
 

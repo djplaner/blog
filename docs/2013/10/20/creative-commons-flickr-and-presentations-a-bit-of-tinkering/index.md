@@ -154,10 +154,36 @@ The [flickr.photos.comments.addComment method](http://www.flickr.com/services/ap
 
 The documentation for Flickr::API2 is not 100% clear on this and the evolution of authentication means that flickr is moving on, but the following process seems to work
 
-- Get a "frob" \[sourcecode lang="perl"\] use Flickr::API2; my $api = Flickr::API2->new({ 'key' => <em>mykey</em>, 'secret' => <em>mysecret</em> }); my $result = $api->execute\_method( 'flickr.auth.getFrob' ); my $frob = $result->{frob}->{\_content}; \[/sourcecode\]
-- Get a special URL to tell Flickr to authorise the script \[sourcecode lang="perl"\] my $url = $api->raw->request\_auth\_url( 'write', $frob ); print Dumper( $url ); # wait until I visit the URL and hit enter <STDIN>; \[/sourcecode\]
-- Get the token \[sourcecode lang="perl"\] my $res = $api->execute\_method( 'flickr.auth.getToken', { 'frob' => $frob} ); print Dumper( $res ); \[/sourcecode\]
-- Copy the token that's displayed and hard code that into subsequent scripts, including adding a comment using my flickr account. \[sourcecode lang="perl"\] my $comment =<<"EOF"; G'day, This is a test comment. EOF my $response = $api->execute\_method( "flickr.photos.comments.addComment", { photo\_id => 3673725336, comment\_text => $comment, auth\_token => <em>the token I got</em> } ); \[/sourcecode\]
+- Get a "frob" 
+
+  ```perl
+  use Flickr::API2; 
+  my $api = Flickr::API2->new({ 
+    'key' => <em>mykey</em>, 'secret' => <em>mysecret</em> }); 
+  my $result = $api->execute_method( 'flickr.auth.getFrob' ); 
+  my $frob = $result->{frob}->{_content};
+  ``` 
+
+- Get a special URL to tell Flickr to authorise the script 
+
+  ```perl 
+  my $url = $api->raw->request_auth_url( 'write', $frob ); 
+  print Dumper( $url ); 
+  ```
+- Get the token 
+
+  ```perl 
+  my $res = $api->execute_method( 'flickr.auth.getToken', { 'frob' => $frob} );
+  print Dumper( $res ); 
+  ```
+- Copy the token that's displayed and hard code that into subsequent scripts, including adding a comment using my flickr account. 
+ 
+  ```perl
+  my $comment = "G'day, This is a test comment" 
+  my $response = $api->execute_method( "flickr.photos.comments.addComment", 
+      { photo_id => 3673725336, comment_text => $comment, auth_token => 
+         <the token I got> } ); 
+  ```
 
 ## Put it all together
 
@@ -169,58 +195,114 @@ I'm going to use a small presentation I use in my teaching as a test case. I'll 
 
 It all works. Up above you can see the credit text produced based on a small presentation I use in my teaching. The following is one of the images used in that presentation. If you click on the image you can see the comment that was added by the script.
 
-[![Greyhound Half Way Station by joseph a, on Flickr](http://farm5.static.flickr.com/4115/4876231714_2e5f81b446_m.jpg "Greyhound Half Way Station by joseph a, on Flickr")](http://www.flickr.com/photos/josepha/4876231714/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [](http://www.flickr.com/people/josepha/)[joseph a](http://www.flickr.com/people/josepha/) [](http://www.imagecodr.org/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/josepha/4876231714/" title="Greyhound Half Way Station"><img src="https://live.staticflickr.com/4115/4876231714_2e5f81b446_m.jpg" width="240" height="160" alt="Greyhound Half Way Station"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 What follows are various bits of the script, happy to share the file, but I don't imagine that there's a lot of folk with Perl installed and configured that would want to use it. There needs to be some more work tidying up and adding in error checking. But it works well enough for now.
 
 The main logic of the script is
 
-\[sourcecode lang="perl"\] use strict; use Flickr::API2;
+```perl
+use strict; 
+use Flickr::API2;
 
-\# hard-code abbreviations for CC licences based on Flickr id my %CC = ( 1 => "BY-NC-SA", 2 => "BY-NC", 3 => "BY-NC-ND", 4 => "BY", 5 => "BY-SA", 6 => "BY-ND" );
+# hard-code abbreviations for CC licences based on Flickr id 
+my %CC = ( 1 => "BY-NC-SA", 2 => "BY-NC", 3 => "BY-NC-ND", 4 => "BY", 5 => "BY-SA", 6 => "BY-ND" );
 
 my $TOKEN = "my token"; my $auth = { 'key' => 'my key', 'secret' => 'my secret' };
 
-\# which flickr URLs appear on which slides # flickr photo URL is the key, value is array of slides on which the image appears my $PHOTO\_SLIDES = { 'http://www.flickr.com/photos/7150652@N02/4876231714/' => \[ 1 \], 'http://www.flickr.com/photos/27933068@N03/6407874723/' => \[ 2, 3 \], 'http://www.flickr.com/photos/zeevveez/7095563439/' => \[ 4 \] };
+# which flickr URLs appear on which slides 
+# flickr photo URL is the key, value is array of slides on which the image appears 
+my $PHOTO\_SLIDES = { 
+  'http://www.flickr.com/photos/7150652@N02/4876231714/' => [ 1 ], 
+  'http://www.flickr.com/photos/27933068@N03/6407874723/' => [ 2, 3 ], 
+  'http://www.flickr.com/photos/zeevveez/7095563439/' => [ 4 ] };
 
 my $COMMENT =<<"EOF"; --whatever comment I want to add EOF
 
-my $API = Flickr::API2->new( $auth ); my $credits = generate\_credits( $PHOTO\_SLIDES, $API ); add\_comment( $PHOTO\_SLIDES, $COMMENT, $API ); print $credits; \[/sourcecode\]
+my $API = Flickr::API2->new( $auth ); 
+my $credits = generate_credits( $PHOTO_SLIDES, $API ); 
+add_comment( $PHOTO_SLIDES, $COMMENT, $API ); 
+print $credits; 
+```
 
 To add the comments (I'm guessing the extraction of the Flickr ID will break eventually)
 
-\[sourcecode lang="perl"\] sub add\_comment($$$) { my $photo\_slides = shift; my $comment = shift; my $api = shift;
+```perl
+sub add_comment($$$) { 
+  my $photo_slides = shift; 
+  my $comment = shift; 
+  my $api = shift;
 
-foreach my $photo\_url ( keys %$photo\_slides ) { if ( $photo\_url =~ m#http://www.flickr.com/photos/.\*/(\[0-9\]\*)/# ) { my $id = $1; my $response = $api->execute\_method( "flickr.photos.comments.addComment", { photo\_id => $id, comment\_text => $comment, auth\_token => $TOKEN } ); } } } \[/sourcecode\]
+  foreach my $photo_url ( keys %$photo_slides ) { 
+    if ( $photo_url =~ m#http://www.flickr.com/photos/.\*/([0-9]\*)/# ) { 
+      my $id = $1; 
+      my $response = $api->execute_method( "flickr.photos.comments.addComment", 
+        { photo_id => $id, comment_text => $comment, auth_token => $TOKEN } ); 
+        } 
+  } 
+} 
+```
 
 And finally generating the attribution information
 
-\[sourcecode lang="perl"\] sub generate\_credits( $$ ) { my $photo\_slides = shift; my $api = shift;
+```perl
+sub generate_credits( $$ ) { 
+  my $photo_slides = shift; 
+  my $api = shift;
 
-\## Get the licence options my $response = $api->execute\_method( "flickr.photos.licenses.getInfo" ); my $licences = $response->{licenses}->{license};
+  ## Get the licence options 
+  my $response = $api->execute_method( "flickr.photos.licenses.getInfo" ); 
+  my $licences = $response->{licenses}->{license};
 
-my $content = "";
+  my $content = "";
 
-foreach my $photo\_url ( keys %$photo\_slides ) { # extract the id if ( $photo\_url =~ m#http://www.flickr.com/photos/.\*/(\[0-9\]\*)/# ) { my $id = $1; my $photo = $api->photos->by\_id( $id );
+  foreach my $photo_url ( keys %$photo_slides ) { 
+    # extract the id 
+    if ( $photo\_url =~ m#http://www.flickr.com/photos/.*/([0-9]*)/# ) { 
+      my $id = $1; 
+      my $photo = $api->photos->by_id( $id );
 
-\# get the licence my $info = $photo->info(); my $licence = getLicence( $info->{photo}->{license}, $licences); die "No CC licence found for $photo\_urln" if ( ! defined $licence ) ; $content .= displayInfo( $licence, $photo, $info, $photo\_slides->{$phto\_url} ); } } return $content; }
+      # get the licence 
+      my $info = $photo->info(); 
+      my $licence = getLicence( $info->{photo}->{license}, $licences); 
+      die "No CC licence found for $photo_url\n" if ( ! defined $licence ) ;
+      $content .= displayInfo( 
+        $licence, $photo, $info, $photo_slides->{$photo_url} ); 
+    } 
+  } 
+  return $content; 
+}
 
-sub displayInfo( $$$ ) { my $licence = shift; my $photo = shift; my $info = shift; my $slides = shift; # array of slide numbers
+sub displayInfo( $$$ ) { 
+  my $licence = shift; 
+  my $photo = shift; 
+  my $info = shift; 
+  my $slides = shift; # array of slide numbers
 
-my $slide = join ", ", @$slides;
+  my $slide = join ", ", @$slides;
 
-my $url = $photo->page\_url; $url =~ s/ //g; my $name = $photo->owner\_name; $name = $info->{photo}->{owner}->{username} if ( $name eq "" );
+  my $url = $photo->page_url; 
+  $url =~ s/ //g; 
+  my $name = $photo->owner_name; 
+  $name = $info->{photo}->{owner}->{username} if ( $name eq "" );
 
-return <<"EOF"; Slide $slide: "$photo->{title}" by $name available at $url under $licence->{name} $licence->{url}
+  return <<"EOF"; 
+Slide $slide: "$photo->{title}" by $name available at $url under $licence->{name} $licence->{url}
 
-EOF }
+EOF
+}
 
-sub getLicence( $$ ) { my $id = shift; my $licenses = shift;
+sub getLicence( $$ ) { 
+  my $id = shift; 
+  my $licenses = shift;
 
-foreach my $licence ( @{$licenses} ) { return $licence if ( $id == $licence->{id} ); }
+  foreach my $licence ( @{$licenses} ) { 
+    return $licence if ( $id == $licence->{id} ); 
+  }
 
-return undef; } \[/sourcecode\]
+  return undef; 
+}
+```
 
 ## Getting the URLs of images
 

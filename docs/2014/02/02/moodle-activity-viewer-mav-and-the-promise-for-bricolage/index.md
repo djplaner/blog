@@ -85,7 +85,7 @@ previous:
 tags:
 - mav
 template: blog-post.html
-title: '"#moodle Activity Viewer (MAV) and the promise for bricolage"'
+title: '#moodle Activity Viewer (MAV) and the promise for bricolage'
 type: post
 ---
 I've spent the last few days - on and off - getting [the Moodle Activity Viewer](http://damosworld.wordpress.com/2013/08/30/the-moodle-activity-viewer-mav-heatmaps-of-student-activity/) installed on my local Moodle instance. There were two main reasons for doing this
@@ -119,11 +119,11 @@ MAV is a plug-in for the Firefox plugin that communicates with a MAV server that
 
 It changes something that looks like this
 
-[![Without heat map by David T Jones, on Flickr](http://farm4.static.flickr.com/3777/12260329933_0e2c46119a_m.jpg "Without heat map by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/12260329933/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/12260329933/" title="Without heat map"><img src="https://live.staticflickr.com/3777/12260329933_0e2c46119a_m.jpg" width="240" height="214" alt="Without heat map"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Into something that looks like this
 
-[![EDC3100 S2, 2013 - heat map by David T Jones, on Flickr](http://farm3.static.flickr.com/2887/12259211486_913cefea74_m.jpg "EDC3100 S2, 2013 - heat map by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/12259211486/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/12259211486/" title="EDC3100 S2, 2013 - heat map"><img src="https://live.staticflickr.com/2887/12259211486_913cefea74_m.jpg" width="240" height="210" alt="EDC3100 S2, 2013 - heat map"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Now this is somewhat useful for a teacher wanting to understand how various aspects of a course site have been used (or not). It can be argued that this information is available via other means (e.g. Moodle's activity report), but I'd suggest that the in-situ, colourful representation provided by MAV provides some additional affordances that the activity report doesn't provide.
 

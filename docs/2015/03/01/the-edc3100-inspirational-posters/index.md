@@ -36,7 +36,9 @@ Rather than take up the space ["above the fold"](http://en.wikipedia.org/wiki/Ab
 
 The following image shows the current state of the course site.
 
+<figure markdown>
 [![edc3100 - 2015](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/16055096194_eff33a72c8_n.jpg)](https://www.flickr.com/photos/david_jones/16055096194 "edc3100 - 2015 by David Jones, on Flickr")
+</figure>
 
 I know have to think about whether there's any good way of moving the "general" forums from the top of the site without losing functionality.
 
@@ -60,7 +62,10 @@ Previously [I've used Diigo](https://www.diigo.com/user/djplaner/edc3100pictures
 
 Here's the first image I'm using this semester. It's used during "week 0" the two weeks between when the institution opens course sites to students and the start of semester. In this course, it's the "orientation and getting ready" period.
 
-[![To be a teacher by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/5408979138_b4aa50e921.jpg "To be a teacher by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/5408979138/) [![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/) [](http://www.imagecodr.org/)
+<figure markdown>
+[![To be a teacher by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/5408979138_b4aa50e921.jpg "To be a teacher by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/5408979138/) 
+<caption>[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/) [](http://www.imagecodr.org/)</caption>
+</figure>
 
 [The photo](https://www.flickr.com/photos/ecmp355/5408979138/) is from one of the students taking a course taught by @courosa. The quote is
 
@@ -74,7 +79,10 @@ The connection with my course is that many students find it a challenge. Especia
 
 For the first week I think a bit of Proust is called for.
 
-[![Discovery of Wisdom by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/6797045261_b0295cbb17.jpg "Discovery of Wisdom by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/6797045261/) [![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/) [](http://www.imagecodr.org/)
+<figure markdown>
+[![Discovery of Wisdom by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/6797045261_b0295cbb17.jpg "Discovery of Wisdom by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/6797045261/) 
+<caption>[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/) [](http://www.imagecodr.org/)</caption>
+</figure>
 
 [This photo](https://www.flickr.com/photos/ecmp355/6797045261/) (as with many) is also taken from a @courosa course. Continues the theme of taking responsibility for the journey. Also links nicely with the use of "learning path" as the metaphor for the weekly journey students have to go on.
 
@@ -82,13 +90,19 @@ For the first week I think a bit of Proust is called for.
 
 One of the aims of this week is to get folk thinking about the broader changes in society that are impacting learning and teaching, and also to start questioning how ICT might change pedagogy. Which means this Dewey quote fits nicely.
 
-[![Teaching for Tomorrow by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/6802993673_ba7fc491eb.jpg "Teaching for Tomorrow by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/6802993673/) [![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/) [](http://www.imagecodr.org/)
+<figure markdown>
+[![Teaching for Tomorrow by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/6802993673_ba7fc491eb.jpg "Teaching for Tomorrow by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/6802993673/) 
+<caption>[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/) [](http://www.imagecodr.org/)</caption>
+</figure>
 
 ## Week 3 - RAT, SLIC, Curriculum, Copyright and Digital literacy
 
 A bit of what is apparently Proust this week. A nice constructivist type of a quote that does capture the intent behind design of the course. Not sure how effectively the course achieve that, but at least the intent is there.
 
-[![Discovery of Wisdom by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/6797045261_b0295cbb17.jpg "Discovery of Wisdom by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/6797045261/) [![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/) [](http://www.imagecodr.org/)
+<figure markdown>
+[![Discovery of Wisdom by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/6797045261_b0295cbb17.jpg "Discovery of Wisdom by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/6797045261/) 
+<caption>[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/) [](http://www.imagecodr.org/)</caption>
+</figure>
 
 ## Week 4 - Effective planning
 
@@ -98,13 +112,17 @@ This week marks a turn of focus toward unit planning as a mechanism by which to 
 
 As yet we don't really engage with questions like, is it ok for any road to get there? Is it possible to really know where you should be going in a class of 20+ learners?
 
+<figure markdown>
 [![Road to Your Own Success by ecmp355, on Flickr](https://farm8.static.flickr.com/7021/6802375649_025e44ab92.jpg "Road to Your Own Success by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/6802375649/)  
-[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/) [](http://www.imagecodr.org/)
+<caption>[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)   by  [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/) [](http://www.imagecodr.org/)</caption>
+</figure>
 
 ## Week 5 - Learning experiences
 
+<figure markdown>
 [![Turn Off the Old Style of Teaching by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/6804226097_05d9fed2d4_m.jpg "Turn Off the Old Style of Teaching by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/6804226097/)  
-[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/) by [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/)[](http://www.imagecodr.org/)
+<caption>[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/) by [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/)[](http://www.imagecodr.org/)</caption>
+</figure>
 
 The aim this week is to get the students thinking about the design of ICT-rich learning experiences. Trying to encourage them to turn off the old style of teaching.
 
@@ -112,8 +130,10 @@ The aim this week is to get the students thinking about the design of ICT-rich l
 
 ## Week 6 - Finishing up the unit plan
 
+<figure markdown>
 [![Einstein on Education by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/6819416405_bcb8acbb34_m.jpg "Einstein on Education by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/6819416405/)  
-[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/) by [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/)[](http://www.imagecodr.org/)
+<caption>[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/) by [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/)[](http://www.imagecodr.org/) </caption>
+</figure>
 
 The last week spent on developing a ICT-rich unit plan and a small dig at formal education. By this stage the learners are all probably a bit jack of the formalism that comes with unit plans.
 
@@ -121,14 +141,19 @@ The last week spent on developing a ICT-rich unit plan and a small dig at formal
 
 ## Week 7 - Professional Experience
 
+<figure markdown>
 [![Keep Calm - it's on the lesson plan](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/7075881907_b57d760362_n.jpg)](https://www.flickr.com/photos/david_jones/7075881907 "Keep Calm - it's on the lesson plan by David Jones, on Flickr")
+<caption>Keep Calm - it's on the lesson plan</caption>
+</figure>
 
 This week has focus turn toward preparing for Professional Experience. Where the learners head out to schools and try to put some of this into practice. Mostly in the form of designing and implementing ICT-rich lessons. Teaching in schools is always just a little scary.
 
 ## Week 8 - Digital Citizenship
 
+<figure markdown>
 [![FW: Taking Risks by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/6813426519_bee708d639_m.jpg "FW: Taking Risks by ecmp355, on Flickr")](http://www.flickr.com/photos/ecmp355/6813426519/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/) by [](http://www.flickr.com/people/ecmp355/)[ecmp355](http://www.flickr.com/people/ecmp355/)[](http://www.imagecodr.org/)
+<caption>[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/) by [](http://www.flickr.com/people/ecmp355/)[ecmp355](http://www.flickr.com/people/ecmp355/)[](http://www.imagecodr.org/)</caption>
+</figure>
 
 One of the aims of week 10 is to move students beyond the "it's too dangerous lets avoid it" focus of digital citizenship into one where it has it's risks, but also it's benefits, and we should all be able to leverage the benefits.
 
@@ -136,4 +161,7 @@ One of the aims of week 10 is to move students beyond the "it's too dangerous le
 
 This week the focus is on how to develop the knowledge required to effectively design ICT-rich lessons that amplify and transform student learning using what ever random ICT is available within a specific classroom context. We focus on this because next week the pre-service teachers head out on Professional Experience. i.e. they are in a classroom having to teach ICT-rich lessons with whatever ICT is available in that classroom. CLEM is a framework designed to help them identify the Communities, Literature, Examples and Models that are available for the ICTs that are available. CLEM is designed to help them develop the knowledge they need. Hence the link back to the image first used in Week 0.
 
-[![To be a teacher by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/5408979138_b4aa50e921.jpg "To be a teacher by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/5408979138/) [![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/) by [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/)[](http://www.imagecodr.org/)
+<figure markdown>
+[![To be a teacher by ecmp355, on Flickr](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/5408979138_b4aa50e921.jpg "To be a teacher by ecmp355, on Flickr")](https://www.flickr.com/photos/ecmp355/5408979138/) 
+<caption>[![Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](https://djon.es/assets/blog/2015/03/01/the-edc3100-inspirational-posters/images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/) by [](https://www.flickr.com/people/ecmp355/)[ecmp355](https://www.flickr.com/people/ecmp355/)[](http://www.imagecodr.org/)</caption>
+</figure>

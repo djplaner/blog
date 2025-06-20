@@ -25,8 +25,7 @@ A paradigm created by the system of education
 
 > We come from a system of education where everything was fed to us. As a student (even through my master’s degree), if I was told I needed to learn something there was a clear process I had to go through to learn it; sign up (and pay) for the right course with the available expert, buy some textbooks, go to class, follow directions, and collect my credits to show that I had learned it.
 
-[![Dos Clases de Alimento - Seymour Papert by telecentresubmissions, on Flickr](http://farm1.static.flickr.com/95/209335822_ff4026fe2e_m.jpg "Dos Clases de Alimento - Seymour Papert by telecentresubmissions, on Flickr")](http://www.flickr.com/photos/telecentresubmissions/209335822/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [telecentresubmissions](http://www.flickr.com/people/telecentresubmissions/) [](http://www.imagecodr.org/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/telecentresubmissions/209335822/" title="Dos Clases de Alimento - Seymour Papert . Rodrigo Baggio - Julia Pieruzzi -"><img src="https://live.staticflickr.com/95/209335822_ff4026fe2e.jpg" width="375" height="500" alt="Dos Clases de Alimento - Seymour Papert . Rodrigo Baggio - Julia Pieruzzi -"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 At the moment, I am reading Seymour Papert's book [Mindstorms: Children, Computers, And Powerful Ideas](http://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746/ref=sr_1_1?ie=UTF8&qid=1330149859&sr=8-1). Here are some examples
 

@@ -87,8 +87,9 @@ Apparently, the Google doc into which we've been asked to contribute the ICTs we
 
 Wondering if there's an online tool we could use to have different folk sort a list of technologies into ICTs and not-ICTs? Do it collaboratively so you can what others have said, see what the expert said and perhaps raise a challenge. i.e. give the argument why you think X does/doesn't belong to a certain category. A crowd-source answer perhaps, save having the expert give an answer?
 
-[![laminating by jimmiehomeschoolmom, on Flickr](http://farm3.static.flickr.com/2109/2370063169_db5fc0a5b3_m.jpg "laminating by jimmiehomeschoolmom, on Flickr")](http://www.flickr.com/photos/jimmiehomeschoolmom/2370063169/)  
-[![Creative Commons Attribution 2.0 Generic License](http://i.creativecommons.org/l/by/2.0/80x15.png "Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)  by  [](http://www.flickr.com/people/jimmiehomeschoolmom/)[jimmiehomeschoolmom](http://www.flickr.com/people/jimmiehomeschoolmom/) [](http://www.imagecodr.org/)
+<figure markdown>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimmiehomeschoolmom/2370063169/" title="laminating"><img src="https://live.staticflickr.com/2109/2370063169_db5fc0a5b3_m.jpg" width="240" height="180" alt="laminating"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
 
 This also suggests the potential need for more work around the students discussing their understanding of pedagogy and the combination/integration of ICTs and pedagogy.
 

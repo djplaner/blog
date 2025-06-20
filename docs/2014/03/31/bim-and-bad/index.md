@@ -72,13 +72,13 @@ Argghh.
 
 This is what I see when I look at the blog post using the Chrome browser
 
-[![Chrome by David T Jones, on Flickr](http://farm8.static.flickr.com/7433/13530718753_60b06aeaa9_b.jpg "Chrome by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/13530718753/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/13530718753/" title="Chrome"><img src="https://live.staticflickr.com/7433/13530718753_60b06aeaa9.jpg" width="500" height="85" alt="Chrome"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The link that is shown is to the blog of another student. The program should pick this up and count it as a link.
 
 Here's what I see when I view it under the Firefox browser
 
-[![Firefox by David T Jones, on Flickr](http://farm3.static.flickr.com/2861/13530937114_2829553b5d_b.jpg "Firefox by David T Jones, on Flickr")](http://www.flickr.com/photos/david_jones/13530937114/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/13530937114/" title="Firefox"><img src="https://live.staticflickr.com/2861/13530937114_2829553b5d.jpg" width="500" height="62" alt="Firefox"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 See the difference?
 

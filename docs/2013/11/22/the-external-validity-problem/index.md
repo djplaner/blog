@@ -19,7 +19,7 @@ Via a very roundabout method I came across an editorial from the journal "Comput
 
 The problem is that "very few educators would argue that information technology has succeeded in bringing about a paradigm shift in instruction" (Maddux and Johnson, 2012, p. 249). Which links to the observation by Prof Mark Brown in the image below and my perception of university e-learning.
 
-!!! warning "Broken image link"
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/david_jones/9861514544" title="Is elearning like teenage sex?"><img src="https://live.staticflickr.com/2837/9861514544_01b3c7fbca.jpg" width="500" height="375" alt="Is elearning like teenage sex?"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### The cause?
 
@@ -57,7 +57,7 @@ The link between "blame the teacher", external validity and educational technolo
 
 Earlier this week when commenting on the Thurn/Udacity/MOOC issue, [George Veletsianos](http://www.veletsianos.com/2013/11/18/udacity-moocs-hammers-and-the-problems-of-education/) mentions the ["Law of Instrument"](http://en.wikipedia.org/wiki/Law_of_the_instrument) - "if all you have is a hammer, everythign looks like a nail".
 
-[![Making Omelettes by PhotoGraham, on Flickr](http://farm1.static.flickr.com/106/260939952_63b19e2128_m.jpg)](http://www.flickr.com/photos/photograham/260939952/)  
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/photograham/260939952/" title="Making Omelettes"><img src="https://live.staticflickr.com/106/260939952_63b19e2128_m.jpg" width="240" height="160" alt="Making Omelettes"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Veletsianos writes
 

@@ -116,9 +116,9 @@ extra:
   - icon: fontawesome/solid/rss
     link: https://djon.es/blog2/feed/feed.rss
   category_pages:
-    generate: False
+    generate: True
   archive_pages:
-    generate: False
+    generate: True
 
 # Specify navigation structure
 nav:

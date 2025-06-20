@@ -137,7 +137,10 @@ Importantly, we're aiming to/hoping for the project to identify, encourage and e
 
 In an attempt to understand what we have to do and where the interesting work might be we developed the following graphical representation of the project.
 
-\[caption id="" align="aligncenter" width="424" caption="Figure 1. Project Overview"\][![Project Overview](https://djon.es/assets/blog/2009/10/12/the-indicators-project-and-what-it-means-for-me/images/3973651740_a069cd611d.jpg "Project Overview")](http://farm4.static.flickr.com/3440/3973651740_1cc3c62d6b_o_d.png)\[/caption\]
+<figure markdown>
+[![Project Overview](https://djon.es/assets/blog/2009/10/12/the-indicators-project-and-what-it-means-for-me/images/3973651740_a069cd611d.jpg)](http://farm4.static.flickr.com/3440/3973651740_1cc3c62d6b_o_d.png)
+<caption>Figure 1. Project Overview</caption>
+</figure>
 
 Working from the bottom up, the figure includes:
 

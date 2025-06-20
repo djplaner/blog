@@ -79,15 +79,19 @@ This is important because there is a [history of agilewashing](http://sphereoi.c
 
 The [Manifesto for Agile Software Development](http://www.agilemanifesto.org/) (summarised in the image below) was created by early creators of agile software development and summarises what's important to agile development.
 
+<figure markdown>
 [![Agile Manifesto by visualpun.ch, on Flickr](https://farm8.static.flickr.com/7312/8745184787_90842c59e4.jpg "Agile Manifesto by visualpun.ch, on Flickr")](https://www.flickr.com/photos/visualpunch/8745184787/)  
-[![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-sa/2.0/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/visualpunch/)[visualpun.ch](https://www.flickr.com/people/visualpunch/) [](http://www.imagecodr.org/)
+<caption>[![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-sa/2.0/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/visualpunch/)[visualpun.ch](https://www.flickr.com/people/visualpunch/) [](http://www.imagecodr.org/)</caption>
+</figure>
 
 These fundamental assumptions of agile software development are incredibly problematic for large IT organisations (especially "Responding to change over following a plan"). It requires significant amounts of internal fortitude and a significant mindshift to truly implement agile development.
 
 The following image gives a useful comparison between an agile approach and a more traditional, heavyweight approach to IT.
 
+<figure markdown>
 [![Agile vs. Prince2 by matt hutchinson, on Flickr](https://farm1.static.flickr.com/165/429289122_a1a42441b0.jpg "Agile vs. Prince2 by matt hutchinson, on Flickr")](https://www.flickr.com/photos/hiddenloop/429289122/)  
-[![Creative Commons Creative Commons Attribution 2.0 Generic License](http://i.creativecommons.org/l/by/2.0/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/hiddenloop/)[matt hutchinson](https://www.flickr.com/people/hiddenloop/) [](http://www.imagecodr.org/)
+<caption>[![Creative Commons Creative Commons Attribution 2.0 Generic License](http://i.creativecommons.org/l/by/2.0/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/hiddenloop/)[matt hutchinson](https://www.flickr.com/people/hiddenloop/) [](http://www.imagecodr.org/)</caption>
+</figure>
 
 ### Digital renovation
 
@@ -225,11 +229,12 @@ In [Jones and Clark (2014)](/blog/2014/09/21/breaking-bad-to-bridge-the-realityr
 The argument is that university e-learning needs more thinking in line with the BAD framework. The BAD framework has direct connections some of the concepts above. For example, digital renovation is a practice that leverages the _A_ffordances of digital technologies to engage in _B_ricolage. Agile development is based on the assumption of the world as _D_istributed and supports a form of _B_ricolage.
 
 Table 1: The BAD and SET frameworks for e-learning implementation
+
 |   **Question**   |   **SET**   |   **BAD**   |
 | --- | --- | --- |
-|   What work gets done?   |   **S**trategy - following a global plan intended to achieve a pre-identified desired future state.   |   **B**ricolage - local piecemeal action responding to emerging contingencies.   |
-|   How ICT is perceived?   |   **E**stablished - ICT is a hard technology and cannot be changed. People and their practices must be modified to fit the fixed functionality of the technology.    |   **A**ffordances - ICT is a soft technology that can be modified to meet the needs of its users, their context, and what they would like to achieve.   |
-|   How you see the world?   |   **T**ree-like - the world is relatively stable and predictable. It can be understood through logical decomposition into a hierarchy of distinct black boxes.   |   **D**istributed - the world is complex, dynamic, and consists of interdependent assemblages of diverse actors (human and not) connected via complex networks.   |
+|   What work gets done?   |   <strong>S</strong>trategy - following a global plan intended to achieve a pre-identified desired future state.   |   <strong>B</strong>ricolage - local piecemeal action responding to emerging contingencies.   |
+|   How ICT is perceived?   |   <strong>E</strong>stablished - ICT is a hard technology and cannot be changed. People and their practices must be modified to fit the fixed functionality of the technology.    |   <strong>A</strong>ffordances - ICT is a soft technology that can be modified to meet the needs of its users, their context, and what they would like to achieve.   |
+|   How you see the world?   |   <strong>T</strong>ree-like - the world is relatively stable and predictable. It can be understood through logical decomposition into a hierarchy of distinct black boxes.   |   <strong>D</strong>istributed - the world is complex, dynamic, and consists of interdependent assemblages of diverse actors (human and not) connected via complex networks.   |
 
 ## References
 

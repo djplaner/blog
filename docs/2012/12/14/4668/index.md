@@ -14,7 +14,7 @@ pingbacks:
     | Educaci&oacute;n Expandida y Aumentada | Scoop.it
   author_email: null
   author_ip: 89.30.105.121
-  author_url: http://www.scoop.it/t/educacion-expandida-aumentada/p/3711979263/developing-personal-learning-networks-for-open-and-social-learning
+  author_url: https://www.scoop.it/t/educacion-expandida-aumentada/p/3711979263/developing-personal-learning-networks-for-open-and-social-learning
   content: '[...] The following is a summary and touch of reflection on Couros (2010)
     and is the another step in thinking about the design/implementation of a course
     I&rsquo;m working on. Thoughts and to do As expec...&nbsp; [...]'
@@ -29,7 +29,7 @@ pingbacks:
     \ Mi Blog"
   author_email: null
   author_ip: 74.200.247.227
-  author_url: http://ravsirius.wordpress.com/2012/12/14/developing-personal-learning-networks-for-open-and-social-learning/
+  author_url: https://ravsirius.wordpress.com/2012/12/14/developing-personal-learning-networks-for-open-and-social-learning/
   content: '[...] See on davidtjones.wordpress.com [...]'
   date: '2012-12-14 22:33:22'
   date_gmt: '2012-12-14 12:33:22'
@@ -42,7 +42,7 @@ pingbacks:
     | New Learning - Ny l&aelig;ring | Scoop.it
   author_email: null
   author_ip: 89.30.105.121
-  author_url: http://www.scoop.it/t/new-learning-ny-laering/p/3718445926/developing-personal-learning-networks-for-open-and-social-learning
+  author_url: https://www.scoop.it/t/new-learning-ny-laering/p/3718445926/developing-personal-learning-networks-for-open-and-social-learning
   content: '[...] The following is a summary and touch of reflection on Couros (2010)
     and is the another step in thinking about the design/implementation of a course
     I&rsquo;m working on. Thoughts and to do As expec...&nbsp; [...]'
@@ -57,7 +57,7 @@ pingbacks:
     | E-Learning 2.0 | Scoop.it
   author_email: null
   author_ip: 89.30.105.121
-  author_url: http://www.scoop.it/t/e-learning-2-0/p/3747128945/developing-personal-learning-networks-for-open-and-social-learning
+  author_url: https://www.scoop.it/t/e-learning-2-0/p/3747128945/developing-personal-learning-networks-for-open-and-social-learning
   content: '[...] The following is a summary and touch of reflection on Couros (2010)
     and is the another step in thinking about the design/implementation of a course
     I&rsquo;m working on. Thoughts and to do As expec...&nbsp; [...]'
@@ -85,7 +85,7 @@ pingbacks:
   author: ICT and teacher education | DrAlb
   author_email: null
   author_ip: 117.55.226.121
-  author_url: http://www.pama.net.au/dralb/?p=3445
+  author_url: https://www.pama.net.au/dralb/?p=3445
   content: "[...] support their own and others&#8217; learning is important and will\
     \ be supported by initiatives like working with personal learning networks and\
     \ contributing to professional communities through activities like content curation\_\
@@ -115,7 +115,7 @@ pingbacks:
   author: ICT and teacher education | DrAlb
   author_email: null
   author_ip: 117.55.235.21
-  author_url: http://dralb.albion.id.au/?p=3445
+  author_url: https://dralb.albion.id.au/?p=3445
   content: "[&#8230;] support their own and others&#8217; learning is important and\
     \ will be supported by initiatives like working with personal learning networks\
     \ and contributing to professional communities through activities like content\
@@ -220,7 +220,7 @@ Three sections
 
 20 registered students. Mostly practicing teachers or educational administrators. Normally there is a maximum of 16 students (I wish). Development funded by $30,000 government grant. **Important:** this funding was not used in the design and development side, but instead on hiring learning assistants who "were hired as social connectors, and their primary responsibilities were to support students in the development of PLNs" (Courous, 2010, p. 117)
 
-In terms of selecting a learning environment, WebCT, Moodle, and Ning were rejected. Wikispaces was adopted. Wikispaces (hosted) was used. [The site 2007-2010)](http://eci831.wikispaces.com/) and [now](http://eci831.ca/). Have moved to a Wordpress site (by the looks).
+In terms of selecting a learning environment, WebCT, Moodle, and Ning were rejected. Wikispaces was adopted. Wikispaces (hosted) was used. [The site 2007-2010)](https://eci831.wikispaces.com/) and [now](https://eci831.ca/). Have moved to a Wordpress site (by the looks).
 
 Course facilitation model
 
@@ -229,20 +229,20 @@ Course facilitation model
     1. Personal blog/digital portfolio  
         Student responsible for developing a digital space to document their learning through readings and activities. For many these became showcases and acted as distributed communication portals. Most remain active beyond the end date.
     2. Collaborative development of an educational technology wiki resource  
-        [Wiki](http://t4tl.wikispaces.com/) with collaborative content.
+        [Wiki](https://t4tl.wikispaces.com/) with collaborative content.
         
         I'm wondering how collaborative this process was? A group or a network (a la Downes).
         
     3. Student-chosen major digital project.  
         Range of projects (produce videos, instructional resources, social networking activities, participation in global collaborative projects, development of private social networks etc) developing resource specific to their professional context.
     
-    It's changed a bit and is described somewhat on the [assessments page](http://eci831.wikispaces.com/Assessments)
+    It's changed a bit and is described somewhat on the [assessments page](https://eci831.wikispaces.com/Assessments)
 
 - Tools and interactions
     1. Synchronous events  
         Two each week. 1.5-2 hours. First on content knowledge in form of invited presenters. Connect/elluminate and ustream.tv/skype used and associated recordings. The second was a hands-on session for technical skills and pedagogical possibilities.
         
-        Combination Skype and ustream.tv became the preferred method for video conferencing. How is [explained here](http://educationaltechnology.ca/couros/765)
+        Combination Skype and ustream.tv became the preferred method for video conferencing. How is [explained here](https://educationaltechnology.ca/couros/765)
         
     2. Asynchronous activities  
         - reading, reviewing and critiquing course readings in blogs.
@@ -255,15 +255,13 @@ First session in course was closed and explanatory. The author's PLN became impo
 
 ### Conceptualising PLN
 
-Mentions absence of definition and the need to discern PLE from PLN. Offers two images (click on these to see the original) The old and new style "PLN". A discussion picked up a bit more [online here](http://educationaltechnology.ca/couros/1156). In short it appears that the PLE are the tools, processes etc that allow management of learning. The definition used for PLN
+Mentions absence of definition and the need to discern PLE from PLN. Offers two images (click on these to see the original) The old and new style "PLN". A discussion picked up a bit more [online here](https://educationaltechnology.ca/couros/1156). In short it appears that the PLE are the tools, processes etc that allow management of learning. The definition used for PLN
 
 > personal learning networks are the sum of all social capital and connections that result in the development and facilitation of a personal learning environment.
 
-[![TypicalTeacherNetwork by courosa, on Flickr](http://farm1.static.flickr.com/154/344832659_c7d218eb74_m.jpg "TypicalTeacherNetwork by courosa, on Flickr")](http://www.flickr.com/photos/courosa/344832659/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [courosa](http://www.flickr.com/people/courosa/) [](http://www.imagecodr.org/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/courosa/344832659/" title="TypicalTeacherNetwork"><img src="https://live.staticflickr.com/154/344832659_be1e6f0060_h.jpg" width="1600" height="1052" alt="TypicalTeacherNetwork"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-[![Networked Teacher Diagram - Update by courosa, on Flickr](http://farm4.static.flickr.com/3216/2922421696_c747a05f3b_m.jpg "Networked Teacher Diagram - Update by courosa, on Flickr")](http://www.flickr.com/photos/courosa/2922421696/)  
-[![Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png "Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-sa/2.0/)  by  [courosa](http://www.flickr.com/people/courosa/) [](http://www.imagecodr.org/)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/courosa/2922421696/" title="Networked Teacher Diagram - Update"><img src="https://live.staticflickr.com/3216/2922421696_4095b871ae_b.jpg" width="1024" height="768" alt="Networked Teacher Diagram - Update"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### PLNs for teaching and learning
 

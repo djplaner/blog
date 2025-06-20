@@ -139,8 +139,10 @@ There's also an initial [project page](/blog/the-moodle-open-book-module-project
 
 Rather use the funds to write an (is it at the stage of "yet another") open textbook. The project aims to develop a framework to enable the re-purposing of existing course materials as Open Educational Resources (OERs). In this context, "framework" is defined as "a collection of technologies, processes, and practices". The idea is to create and test a framework that others may be able to use to create their own OERs as part of producing their course websites.
 
+<figure markdown>
 [![1895 Duryea Horseless Carriage by pecooper98362, on Flickr](https://farm6.static.flickr.com/5510/11143803725_11c75a8ddc_m.jpg "1895 Duryea Horseless Carriage by pecooper98362, on Flickr")](https://www.flickr.com/photos/29261037@N02/11143803725/)  
-[![Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License](http://i.creativecommons.org/l/by-nc/2.0/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License")](http://creativecommons.org/licenses/by-nc/2.0/)   by  [](https://www.flickr.com/people/29261037@N02/)[pecooper98362](https://www.flickr.com/people/29261037@N02/) [](http://www.imagecodr.org/)
+<caption>[![Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License](http://i.creativecommons.org/l/by-nc/2.0/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License")](http://creativecommons.org/licenses/by-nc/2.0/)   by  [](https://www.flickr.com/people/29261037@N02/)[pecooper98362](https://www.flickr.com/people/29261037@N02/) [](http://www.imagecodr.org/)</caption>
+</figure>
 
 While this project has an initial focus on producing an "open textbook". I'm hoping the project will move beyond the limitations of the "book" metaphor. For me, an open textbook makes about as much sense as a horseless carriage. In fact, one of the aims of the project is to provide support in the framework for moving beyond an open textbook. For example, enabling the sharing of small bits of the "book", for that "sharing" to include more than just re-using the finished product, and move more into co-authoring etc.
 
@@ -173,7 +175,7 @@ The framework is required because
 
 The project - like most of what I do - will be use an approach informed by a [BAD mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset). That is:
 
-- **B**ricolage;
+- *B*ricolage;
     
     The focus is on solving existing problems with the tools at hand. i.e. the aim isn't to identify all the possible requirements, identify some wonderfully perfect future solution drawing on all the latest whiz-bang technology that requires radical transformation of existing practice. Instead, the aim is to address problems facing people right now with the tools that are available. Hence starting with the Moodle book module.
     
