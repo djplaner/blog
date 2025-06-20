@@ -772,18 +772,18 @@ def generator():
 
     archives = []
     if generate_archives:
-        print("================ Get archives")
+#        print("================ Get archives")
         archives = extractMonths(posts)
-        print("================ Generating archives")
+#        print("================ Generating archives")
         generateArchives(archives)
 
-    print("================ Generating feeds")
+#    print("================ Generating feeds")
     # Generate RSS feed
     generateFeeds(blogItems)
 
-    print("================ Generating HOME")
+#    print("================ Generating HOME")
     # Generate home page
-    generateHome(blogItems, archives)
-    print("================ Finished HOME")
+    generateHome(posts, archives)
+#    print("================ Finished HOME")
 
 generator()
