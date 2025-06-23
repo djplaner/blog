@@ -9,7 +9,7 @@ previous:
   text: 'BAM Progress #1'
   url: /blog/2006/07/23/bam-progress-1/
 template: blog-post.html
-title: '"Design research: IS or CS - importance of "no overlap""'
+title: 'Design research: IS or CS - importance of "no overlap"'
 type: post
 ---
 The Information Systems discipline has had lots of talk about design science research (aka many other related terms).

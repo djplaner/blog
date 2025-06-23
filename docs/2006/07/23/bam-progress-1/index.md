@@ -11,7 +11,7 @@ previous:
   text: Drucker on Adaptive vs Plan-driven
   url: /blog/2006/07/14/drucker-on-adaptive-vs-plan-driven/
 template: blog-post.html
-title: '"BAM Progress #1"'
+title: 'BAM Progress #1'
 type: post
 ---
 It's now the end of week 2 of [CQU's](http://www.cqu.edu.au/) Term 2 for 2006. This is the first attempt at a log entry for the first test of the [BAM project](/blog/research/bam-blog-aggregation-management/) in the CQU course [COIS20025, Systems Development Overview](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/)

@@ -51,7 +51,7 @@ previous:
     from 12 years of  Webfuse'
   url: /blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/
 template: blog-post.html
-title: '"Getting half-baked ideas out there: improving research and the academy"'
+title: 'Getting half-baked ideas out there: improving research and the academy'
 type: post
 ---
 In a previous post examining [one reason folk don't take to e-learning](/blog/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/) I included the following quote from [a book by Carolyn Marvin](http://www.amazon.com/When-Old-Technologies-Were-Communication/dp/0195063414/ref=sr_1_1?ie=UTF8&s=books&qid=1234322975&sr=8-1)

@@ -9,8 +9,7 @@ previous:
   text: 'It&#039;s all over: no need to select an LMS'
   url: /blog/2007/09/30/its-all-over-no-need-to-select-an-lms/
 template: blog-post.html
-title: '"Call for papers -- Personal Learning Environments: How can we harness ICTs
-  to effectively support lifelong learning?"'
+title: 'Call for papers -- Personal Learning Environments: How can we harness ICTs to effectively support lifelong learning?'
 type: post
 ---
 Over the next couple of years [CQU](http://www.cqu.edu.au/) is going to be looking into how it should enable students to make use of [Personal Learning Environments](http://en.wikipedia.org/wiki/Personal_Learning_Environment).

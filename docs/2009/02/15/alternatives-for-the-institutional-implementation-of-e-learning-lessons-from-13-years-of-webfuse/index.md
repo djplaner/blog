@@ -108,8 +108,7 @@ previous:
 tags:
 - educause09
 template: blog-post.html
-title: '"Alternatives for the institutional implementation of e-learning: Lessons
-  from 12 years of  Webfuse"'
+title: 'Alternatives for the institutional implementation of e-learning: Lessons from 12 years of  Webfuse'
 type: post
 ---
 This is a submission to a conference later in the year. The conference has its own specific requirements for submissions, hence the structure of this post. In some cases I've left in quotes or _italics_ the directions given by the conference as to the content of the submission. It's still a work in progress. Submission is not due for a few days. More than keen to hear suggestions and criticisms.

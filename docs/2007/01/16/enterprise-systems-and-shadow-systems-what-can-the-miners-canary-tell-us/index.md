@@ -10,8 +10,7 @@ previous:
   text: LMS Governance Report - a summary and reflection
   url: /blog/2007/01/15/lms-governance-report-a-summary-and-reflection/
 template: blog-post.html
-title: '"Enterprise systems and shadow systems: What can the miner''s canary tell
-  us?"'
+title: 'Enterprise systems and shadow systems: What can the miner''s canary tell us?'
 type: post
 ---
 The following is the first cut at developing a submission for the [2007 EDUCAUSE Annual Conference](http://educause.edu/e07) in Seattle, Oct 23-36. The theme for the conference is "Information Futures: Aligning our Missions".

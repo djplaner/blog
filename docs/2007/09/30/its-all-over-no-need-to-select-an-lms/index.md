@@ -10,7 +10,7 @@ previous:
   text: PhD Thesis Timetable
   url: /blog/2007/09/11/phd-thesis-timetable/
 template: blog-post.html
-title: '"It''s all over: no need to select an LMS"'
+title: 'It''s all over: no need to select an LMS'
 type: post
 ---
 There are inclinations amongst some at my university, as with many others, to move onto a different learning management system (LMS). Which creates n important questions - which new LMS?

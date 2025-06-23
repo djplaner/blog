@@ -69,7 +69,7 @@ previous:
   text: A new &quot;all-in-one&quot; introduction to OASIS
   url: /blog/2008/08/15/a-new-all-in-one-introduction-to-oasis/
 template: blog-post.html
-title: '"Some alternate foundations for leadership in L&#038;T at CQUniversity"'
+title: 'Some alternate foundations for leadership in L&#038;T at CQUniversity'
 type: post
 ---
 On Monday the 25th of August I am meant to be giving a talk that attempts to link complexity theory (and related topics) to the practice of leadership of learning and teaching within a university setting. The talk is part of a broader seminar series occurring this year at [CQUniversity](http://www.cquniversity.edu.au/) as part of the institution's [learning and teaching seminars](http://learning.cqu.edu.au/staff_development/presentations/lt_seminars-presentations.htm). The leadership in L&T series is being pushed/encouraged by [Dr Peter Reaburn](http://fseh.cqu.edu.au/FCWViewer/staff.do?site=100&sid=REABURNP).

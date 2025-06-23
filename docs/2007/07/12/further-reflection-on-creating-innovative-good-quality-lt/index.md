@@ -55,7 +55,7 @@ previous:
   text: Some short-term futures for learning @ CQU
   url: /blog/2007/07/11/some-short-term-futures-for-learning-cqu/
 template: blog-post.html
-title: '"Further reflection on creating innovative, good quality L&#038;T"'
+title: 'Further reflection on creating innovative, good quality L&T'
 type: post
 ---
 During 2007 I'm participating in the [ASCILITE mentoring program](http://www.ascilite.org.au/index.php?option=com_content&task=view&id=52&Itemid=0). My mentor and I have been using a discussion on this blog as part of that process. This post is a continuation of a discussion started [on an earlier blog post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=118). In particular, I'm going to pick up and reflect upon some of Kathleen's comments.

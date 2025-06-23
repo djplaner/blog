@@ -31,8 +31,7 @@ previous:
   text: One reason people don&#039;t take to new e-learning technology
   url: /blog/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/
 template: blog-post.html
-title: '"Barriers to innovation in organisations: teleological processes, organisational
-  structures and stepwise refinement"'
+title: 'Barriers to innovation in organisations: teleological processes, organisational structures and stepwise refinement'
 type: post
 ---
 This video speaks to me on so many levels. It summarises many of the problems I have faced and encountered trying to implement innovative approaches to e-learning at universities over the last 15 plus year. I'm sure I am not alone.

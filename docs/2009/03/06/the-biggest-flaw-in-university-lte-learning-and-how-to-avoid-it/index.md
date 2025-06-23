@@ -6,7 +6,7 @@ categories:
 comments: []
 date: 2009-03-06 12:03:22
 next:
-  text: '"How to improve L&#038;T and e-learning at universities"'
+  text: 'How to improve L&#038;T and e-learning at universities'
   url: /blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
 pingbacks:
 - approved: '1'
@@ -85,7 +85,7 @@ previous:
   text: The weak second album (PhD update)
   url: /blog/2009/03/06/the-weak-second-album-phd-update/
 template: blog-post.html
-title: '"The biggest flaw in university L&#038;T/e-learning?"'
+title: 'The biggest flaw in university L&#038;T/e-learning?'
 type: post
 ---
 > Welcome folk from UHI. Hope you find this interesting. Your e-learning portal is [here](https://communities.uhi.ac.uk/ltel). Good luck with it all.

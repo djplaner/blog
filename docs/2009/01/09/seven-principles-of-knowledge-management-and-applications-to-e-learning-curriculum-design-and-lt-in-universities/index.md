@@ -30,8 +30,7 @@ previous:
   text: Content, redirects and impact on Google ranking
   url: /blog/2009/01/07/content-redirects-and-impact-on-google-ranking/
 template: blog-post.html
-title: '"Seven principles of knowledge management and applications to e-learning,
-  curriculum design and L&#038;T in universities"'
+title: 'Seven principles of knowledge management and applications to e-learning, curriculum design and L&#038;T in universities'
 type: post
 ---
 I've been a fan of [Dave Snowden](http://www.cognitive-edge.com/files/Dave-Snowden.pdf) and his work for a couple of years. In [this blog post](http://www.cognitive-edge.com/blogs/dave/2008/10/rendering_knowledge.php) from last year Dave shares 7 principles for "rendering knowledge". For me, these 7 principles have direct connection with the tasks I'm currently involved with e-learning, curriculum design and helping improve the quality of learning and teaching.

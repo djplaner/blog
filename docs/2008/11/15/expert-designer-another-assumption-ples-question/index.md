@@ -111,7 +111,7 @@ previous:
   text: 'PLEs@CQUni: Origins, rationale and outcomes so far'
   url: /blog/2008/11/15/plescquni-origins-rationale-and-outcomes-so-far/
 template: blog-post.html
-title: '"Expert designer: Another assumption PLEs question"'
+title: 'Expert designer: Another assumption PLEs question'
 type: post
 ---
 In a serious of blog posts (starting with this [one](/blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/)) I've been trying to develop a list of fundamental assumptions about learning and teaching at Universities which the various concepts associated with [personal learning environments](http://en.wikipedia.org/wiki/Personal_Learning_Environment) (PLEs) bring into question.

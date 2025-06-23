@@ -39,7 +39,7 @@ previous:
   text: Between the idea and the reality,.... falls the shadow
   url: /blog/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/
 template: blog-post.html
-title: '"Extending the classroom: Open content and open teaching: Summary and reflection"'
+title: 'Extending the classroom: Open content and open teaching: Summary and reflection'
 type: post
 ---
 Yesterday I attended a session by [George Siemens](http://www.elearnspace.org/blog/) with the title "Extending the classroom: Open content and open teaching". The presentation was video-conferenced from the Sunshine Coast to a range of locations across Australia. I was in a room at [CQUniversity](http://www.cqu.edu.au/) in Rockhampton with quite a number of folk. What follows are my reflections on that talk.

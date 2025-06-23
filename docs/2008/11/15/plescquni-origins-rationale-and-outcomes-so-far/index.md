@@ -10,7 +10,7 @@ previous:
   text: PLEs@CQUni - VoiceThread for Research Posters
   url: /blog/2008/11/14/plescquni-voicethread-for-research-posters/
 template: blog-post.html
-title: '"PLEs@CQUni: Origins, rationale and outcomes so far"'
+title: 'PLEs@CQUni: Origins, rationale and outcomes so far'
 type: post
 ---
 Yesterday I gave a presentation on the [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni). It was a 30 minute presentation designed to give a quick overview of the origins of the project, why it is being run the way it is and what some of the outcomes have been so far. At a very brief, higher level. There are numerous talks in various aspects of this presentation.

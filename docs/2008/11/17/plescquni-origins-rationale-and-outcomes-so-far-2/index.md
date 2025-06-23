@@ -9,7 +9,7 @@ previous:
   text: The dissonance gap in systems and LMS evaluations
   url: /blog/2008/11/17/the-dissonance-gap-in-systems-and-lms-evaluations/
 template: blog-post.html
-title: '"PLEs@CQUni: Origins, rationale and outcomes so far"'
+title: 'PLEs@CQUni: Origins, rationale and outcomes so far'
 type: post
 ---
 The video and slides from the talk last Friday giving an overview of the [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni) are now up and available.

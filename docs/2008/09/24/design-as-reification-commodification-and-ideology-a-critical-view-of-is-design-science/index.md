@@ -113,8 +113,7 @@ previous:
   text: What underpins student-centered education
   url: /blog/2008/09/24/what-underpins-student-centered-education/
 template: blog-post.html
-title: '"Design as reification, commodification and ideology: A critical view of IS
-  design science"'
+title: 'Design as reification, commodification and ideology: A critical view of IS design science'
 type: post
 ---
 In an attempt to reignite progress on my PhD and prepare myself for attending the [4th Information Systems Foundations Workshop](http://infs.anu.edu.au/workshop/) next week. The workshop title is "Information systems Foundations: Answering the Unanswered Questions about Design Research". The workshop is organised by my PhD supervisor and will have a number of "names" from the IS community there.

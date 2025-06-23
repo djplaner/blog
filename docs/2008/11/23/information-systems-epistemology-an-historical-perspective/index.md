@@ -62,7 +62,7 @@ previous:
   text: First photo
   url: /blog/2008/11/21/first-photo/
 template: blog-post.html
-title: '"Information Systems Epistemology: An Historical Perspective"'
+title: 'Information Systems Epistemology: An Historical Perspective'
 type: post
 ---
 Information Systems Epistemology: An Historical Perspective

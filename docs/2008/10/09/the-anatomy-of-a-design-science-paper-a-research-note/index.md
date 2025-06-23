@@ -46,7 +46,7 @@ tags:
 - isdr
 - isdt
 template: blog-post.html
-title: '"The Anatomy of a Design Science Paper: A Research Note"'
+title: 'The Anatomy of a Design Science Paper: A Research Note'
 type: post
 ---
 (**A Suggested Structure for a Design Science Article or Thesis**)

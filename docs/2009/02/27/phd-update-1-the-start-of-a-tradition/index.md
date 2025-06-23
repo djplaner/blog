@@ -43,7 +43,7 @@ previous:
     novice
   url: /blog/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/
 template: blog-post.html
-title: '"PhD update #1 - the start of a tradition?"'
+title: 'PhD update #1 - the start of a tradition?'
 type: post
 ---
 [![Tradition](https://djon.es/assets/blog/2009/02/27/phd-update-1-the-start-of-a-tradition/images/1398253651_895fc9cc34_m_d.jpg)](http://flickr.com/photos/ionushi/1398253651/)

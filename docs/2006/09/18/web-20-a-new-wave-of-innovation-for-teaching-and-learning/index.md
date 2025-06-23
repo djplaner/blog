@@ -65,7 +65,7 @@ previous:
   text: Web 2.0 Course Sites and the organisational challenge
   url: /blog/2006/09/18/web-20-course-sites-and-the-organisational-challenge/
 template: blog-post.html
-title: '"Web 2.0: A New Wave of innovation for teaching and learning?"'
+title: 'Web 2.0: A New Wave of innovation for teaching and learning?'
 type: post
 ---
 Bryan Alexander's March/April 2006 EDUCAUSE Review article on Web 2.0. Much good stuff, a good summary.
