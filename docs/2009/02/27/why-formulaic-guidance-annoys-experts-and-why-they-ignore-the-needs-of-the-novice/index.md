@@ -54,6 +54,7 @@ In [earlier post](/blog/2008/12/16/the-dreyfus-model-from-novice-to-expert/) I p
 
 Novice-to-Expert scale  
 (Adapted from Lester (2005))
+
 | Stage | Characteristics |
 | --- | --- |
 | Novice | Rigid adherence to taught rules or plans   Little situational perception   No discretionary judgement |
