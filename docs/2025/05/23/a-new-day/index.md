@@ -3,12 +3,12 @@ categories:
 - colophon
 date: 2025-05-23 14:17:25.821396
 next:
-  text: Home
-  url: /blog/index.html
+  text: Re-considering the shadow system argument
+  url: /blog/2025/07/26/re-considering-the-shadow-system-argument
 previous:
   text: What now?
   url: /blog/2025/01/12/what-now
-publishedPath: /2025/05/23/a-new-day
+publishedPath: //2025/05/23/a-new-day
 template: blog-post.html
 title: A new day
 type: post
