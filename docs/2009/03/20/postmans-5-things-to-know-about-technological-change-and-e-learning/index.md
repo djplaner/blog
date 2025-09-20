@@ -451,6 +451,18 @@ template: blog-post.html
 title: Postman's - 5 things to know about technological change and e-learning
 type: post
 ---
+
+## Updates
+
+### 2025 -  Recording of Postman's talk and additional information
+
+A prompt from a reader led to some additional searching for detail on the talk by Postman that forms the basis of this post. A search that led to a 2025 [podcast episode of Modern Futura](https://www.futureofbeinghuman.com/p/five-things-we-need-to-know-about) titled "AI & Technological Change: The Postman always delivers". That page's footnote includes details of the conference at which Postman delivered the talk. The body of the post points to Punya Mishra's 2022 post ["The Postman always rings twice"](https://punyamishra.com/2022/08/09/the-postman-always-rings-twice-unpacking-mcluhan-3-3/).
+
+Punya's post ends with the [following YouTube video](https://www.youtube.com/watch?v=CZKUak1fYr0) which provides an audio recording of Postman's talk.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CZKUak1fYr0?si=ESO6EZ4KJzblmr5d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Original post
 In doing a quick search for references to help out in the last post, I came across [this page](https://web.archive.org/web/20070208205233/http://www.mat.upm.es/~jcm/neil-postman--five-things.html), which appears to be a transcript of a speech given by [Neil Postman](http://en.wikipedia.org/wiki/Neil_Postman) title "Five Things We Need to Know About Technological Change". According to [this post](http://michaelzimmer.org/2008/01/04/neil-postman-five-things-we-need-to-know-about-technological-change/) (that page has gone away, so a [new link to a transcript](https://djon.es/memex/share/Five-things-we-need-to-know-about-technological-change/))it "was delivered by Postman in 1998 to a gathering of theologians and religious leaders in Denver, Colorado."
 
 Given [my current and recent fascination with "Past Experience](/blog/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/) and e-learning, I particularly like these couple of quotes from Postman's address.

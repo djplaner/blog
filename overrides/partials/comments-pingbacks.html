@@ -13,7 +13,9 @@
           {% else %}
           {{ comment.author }}
           {% endif %}
-        </strong> 📅 {{ comment.date }}</p>
+        </strong> 📅 {{ comment.date }}
+        <a class="headerlink" href="#comment-{{ comment.id }}">#</a>
+      </p>
       <div class="comment-content">
         {{ comment.content | replace("\n", "<br />") }}
       </div>
